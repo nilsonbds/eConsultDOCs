@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'eConsult',
+  title: 'eConsult Documentos',
   tagline: 'Tudo o que você precisa, do seu jeito, no seu tempo.',
   favicon: 'img/favicon.ico',
 
