@@ -1,0 +1,72 @@
+:root {
+  --ifm-font-family-base: 'Inter', sans-serif;
+  --ifm-font-size-base: 16px;
+
+  /* Cor primária (dark cyan) */
+  --ifm-color-primary: #008b8b;
+  --ifm-color-primary-dark: #006f6f;
+  --ifm-color-primary-darker: #005e5e;
+  --ifm-color-primary-light: #00a0a0;
+  --ifm-color-primary-lighter: #00b3b3;
+
+  /* Fundo claro e moderno */
+  --ifm-background-color: #f9f9fb;
+  --ifm-footer-background-color: #ffffff;
+
+  --ifm-heading-font-weight: 600;
+  --ifm-navbar-height: 60px;
+}
+
+/* Navbar moderna com sombra leve */
+.navbar {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+}
+
+/* Botões */
+.button--primary {
+  border-radius: 8px;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.button--primary:hover {
+  background-color: var(--ifm-color-primary-dark);
+}
+
+/* Cartões */
+.card {
+  border-radius: 12px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+/* Links */
+a {
+  transition: color 0.2s ease;
+}
+
+/* Títulos */
+h1, h2, h3, h4 {
+  color: #222;
+}
+
+.hero__title {
+  color: white;
+}
+
+/* =======================
+   DARK MODE STYLING
+   ======================= */
+html[data-theme='dark'] {
+  --ifm-background-color: #0f2021;
+  --ifm-font-color-base: #e0f2f1;
+  --ifm-color-primary: #00b3b3;
+  --ifm-color-primary-dark: #009999;
+  --ifm-navbar-background-color: #132728;
+  --ifm-footer-background-color: #132728;
+  --ifm-color-emphasis-100: #1f3c3d;
+}
