@@ -90,11 +90,19 @@ Mas, se quiser ir além e explorar ainda mais recursos, considere as opções a 
 
 ---
 
-**Ativar o PIX como forma de pagamento:**  
-Configure o PIX como uma das formas de pagamento para seus clientes.  
-Isso permite gerar QR Codes ou links de pagamento usando sua chave PIX.
+**Configurar um valor padrão para atendimentos:**  
+Configure um valor padrão para atendimentos.  
+Quando você inclui um novo atendimento o sistema sugere um valor padrão para os atendimentos do cliente.
 
-👉 [Configurar seu PIX](#)
+👉 [Configurar Valor Padrão de Atendimentos](#)
+
+---
+
+**Integrar seu SMTP para envio de e-mails:**  
+Configure o seu SMTP, de forma facilitada para envio de e-mails.  
+Isso permite que você envie e-mails para clientes utilizando seu servidor de e-mails.
+
+👉 [Configurar seu SMTP](#)
 
 ---
 
@@ -103,6 +111,22 @@ Conecte sua conta do Google Drive ao eConsult para armazenar e receber arquivos 
 A integração é simples, rápida e não exige conhecimentos técnicos.
 
 👉 [Configurar a integração com o Google Drive](#)
+
+---
+
+**Integrar o seu ChatGPT:**  
+Configure o seu ChatGPT para utilizar recursos de IA.  
+Não requer conhecimentos avançados e você poderá contar com recursos de IA (Inteligência Artificial).
+
+👉 [Configurar seu ChatGPT](#)
+
+---
+
+**Ativar o PIX como forma de pagamento:**  
+Configure o PIX como uma das formas de pagamento para seus clientes.  
+Isso permite gerar QR Codes ou links de pagamento usando sua chave PIX.
+
+👉 [Configurar seu PIX](#)
 
 ---
 
