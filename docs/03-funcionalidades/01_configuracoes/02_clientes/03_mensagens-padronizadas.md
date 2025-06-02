@@ -11,9 +11,11 @@ O uso de mensagens padronizadas é uma estratégia essencial para otimizar a com
 No painel Alertas o sistema mostra a opção de "Aniversariantes do Mês". Nesta funcionalidade o sistema permite o envio de uma mensagem para o cliente. Este campo cria um modelo padrão para esta mensagem. 
 
 ## Texto Padrão em Atendimentos Prováveis
+
 No painel Alertas o sistema mostra uma opção de "Atendimentos Prováveis". Nesta funcionalidade o sistema permite o envio de uma mensagem para o cliente entrar em contato e agendar um atendimento. Este campo cria um modelo padrão para esta mensagem. 
 
 ## Texto Padrão para Confirmações de Atendimento
+
 No painel Alertas o sistema mostra a opção "Confirmação". Nesta funcionalidade o sistema permite o envio de uma mensagem com link que permite o cliente confirmar um agendamento de atendimento. Este campo cria o modelo padrão para esta mensagem.
 
 ## Configurar Mensagens Padronizadas para Clientes
