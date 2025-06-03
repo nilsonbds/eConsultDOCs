@@ -21,7 +21,7 @@ Criar uma conta no eConsult é um processo simples e essencial para acessar toda
 
     ![Tela: Código de acesso](../../static/img/prints/00_nova-conta-003.png)
 
-6. Preencha o campo código de acesso com o código enviado para o seu email.
+6. Preencha o campo código de acesso com o código enviado para o seu e-mail.
 
 7. Novamente na página de login, insira seu e-mail e senha, e clique em “Entrar” para acessar o eConsult.
 

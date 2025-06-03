@@ -12,7 +12,7 @@ A tela de login permite que usuários registrados acessem sua conta no sistema e
 
 2. Digite sua senha de acesso.
 
-3. Após preencher os campos de email e senha, clique no botão "Entrar" para acessar o sistema.
+3. Após preencher os campos de e-mail e senha, clique no botão "Entrar" para acessar o sistema.
 
 Se os dados estiverem corretos, você será redirecionado para o Painel Inicial do sistema.
 

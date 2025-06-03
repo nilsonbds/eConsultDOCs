@@ -1,10 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Google Drive
 
-Configure a integração do eConsult com o seu Google Drive para criar um sistema de armazenamento e gerenciamento de arquivos totalmente centralizado e eficiente. Essa integração permite que todos os seus documentos, relatórios, imagens e outros tipos de arquivos sejam facilmente armazenados, acessados e compartilhados diretamente através da plataforma eConsult.
+**Configure a integração do eConsult com o seu Google Drive para criar um sistema de armazenamento e gerenciamento de arquivos totalmente centralizado e eficiente. Essa integração permite que todos os seus documentos, relatórios, imagens e outros tipos de arquivos sejam facilmente armazenados, acessados e compartilhados diretamente através da plataforma eConsult.**
 
 Além de simplificar o acesso, essa integração também facilita a organização, permitindo que você categorize e armazene seus arquivos de forma estruturada e lógica, de acordo com suas necessidades. Com tudo centralizado no seu Google Drive, você garante que todos os seus arquivos estejam protegidos e sincronizados em tempo real, com backups automáticos, prevenindo a perda de informações.
 
