@@ -1,6 +1,6 @@
 {
-  "label": "Alertas",
-  "position": 7,
+  "label": "Perdas Recuperadas",
+  "position": 14,
   "link": {
     "type": "generated-index",
     "description": "#"

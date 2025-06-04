@@ -1,6 +1,6 @@
 {
-  "label": "Alertas",
-  "position": 7,
+  "label": "Inadimplências",
+  "position": 12,
   "link": {
     "type": "generated-index",
     "description": "#"

@@ -1,6 +1,6 @@
 {
-  "label": "Alertas",
-  "position": 7,
+  "label": "Perdas (baixas contábeis)",
+  "position": 13,
   "link": {
     "type": "generated-index",
     "description": "#"
