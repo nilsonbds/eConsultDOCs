@@ -143,3 +143,62 @@ Para reativar um cadastro, siga os seguintes passos:
 - Clique no botão "Salvar" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_check.png) para aplicar e salvar a alteração.
 
 Ao finalizar este processo, o status do cliente passará de inativo para ativo, possibilitando o acesso a todas as informações associadas a esse cadastro, incluindo o histórico de atendimentos, serviços ou transações. Isso proporciona agilidade e segurança ao retomar o relacionamento com o cliente ou grupo de atendimento, mantendo a integridade dos dados e o fluxo de trabalho eficiente.
+
+# Score do Cliente
+
+O Score do Cliente é uma ferramenta que avalia o desempenho do cliente com base em três dimensões principais: Global, Ano e Mês. Cada dimensão fornece uma visão específica da relação do cliente com o seu negócio, considerando histórico, comportamento recente e engajamento atual.
+
+Essas informações são acompanhadas por indicadores que facilitam a análise do valor gerado, da frequência de interações e do custo de manutenção do cliente.
+
+## Como acessar o Score
+
+O Score pode ser visualizado clicando no botão "Score" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_score.png), localizado no canto superior direito da tela de cadastro do cliente no sistema eConsult.
+
+## *Card* de score
+
+    ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-031.png)
+
+O *card* de score é composto pelos seguintes elementos:
+
+- **Nome do cliente:** Mostra o nome do cliente ao qual o card de score referencia.
+
+- **Classificação:** Mostra como o cliente foi classificado. A classificação pode ser:
+
+    - **Cliente em declínio:** O cliente apresenta **redução progressiva na frequência de interações e no valor gerado**. Pode estar perdendo o interesse ou migrando para concorrentes. Exige atenção e possíveis ações de reativação, como campanhas de retenção ou ofertas personalizadas.
+    - **Cliente em crescimento:** Cliente mostra **evolução positiva**, com aumento na frequência de compras ou atendimentos e no valor gerado. Está em processo de consolidação do relacionamento com a sua organização e pode ser um bom alvo para ações de fidelização e up-sell.
+    - **Cliente estável e engajado:** Apresenta **comportamento consistente**, com boa frequência e geração de valor contínua. É um cliente **confiável e fiel**, já consolidado, ideal para manutenção do relacionamento, programas de recompensa e possível influenciador da sua marca.
+    - **Cliente volátil:** Apresenta **comportamento irregular**, alternando períodos de alta e baixa atividade. Pode ser sensível a fatores externos ou promoções pontuais. Requer monitoramento e estratégias personalizadas para aumentar o engajamento e reduzir a oscilação.
+    - **Dados incompletos para análise:** Significa que **não há informações suficientes registradas no histórico do cliente** para gerar um score confiável ou classificá-lo em uma das categorias acima.
+
+## Seções de Score
+
+O Score do Cliente é apresentado por meio de três seções principais (subcards), que representam diferentes recortes de tempo:
+
+    ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-032.png)
+
+- **GLOBAL:** Considera todo o histórico do cliente desde o início do relacionamento com a sua organização.
+- **ANO:** Refere-se aos dados acumulados nos últimos 12 meses.
+- **MÊS:** Apresenta as informações referentes ao comportamento mais recente, no mês atual.
+
+Cada uma dessas seções exibe um conjunto de indicadores que refletem o desempenho do cliente no período correspondente, sendo:
+
+- **Score:** Valor numérico gerado com base na fórmula:
+
+    *```(LTV - CLC) / 100```*
+
+- **Classificação por Estrelas:** representação de estrelas, legenda e informação, variando de 1 a 5, conforme o desempenho do cliente:
+
+    - **★★★★★ – Excelente – Muito acima da média:** O cliente, no período, demonstrou que está muito acima da média em valor gerado, frequência e engajamento. Costuma ser altamente fiel, constante e valioso para o negócio. Ideal para programas de fidelização e reconhecimento.
+    - **★★★★ – Bom – Acima da média:** No período demostrou ter um bom histórico de interações e contribuições financeiras, com potencial para se tornar um cliente excelente. Merece atenção para fortalecimento do relacionamento.
+    - **★★★ – Normal – Dentro da média:** Apresentou no período um comportamento regular e estável. Ainda não demonstra sinais claros de crescimento ou risco. Estratégias de engajamento e acompanhamento podem melhorar seu desempenho.
+    - **★★ – Alerta – Abaixo da média:** Pode estar diminuindo, no período, o número de interações ou o valor gerado. Requer análise e ações de reengajamento para evitar perda de relacionamento.
+    - **★ – Crítico – Muito abaixo da média:** Pouca ou nenhuma interação no período e baixo valor agregado. Pode estar em risco de perda ou abandono. Recomenda-se ação imediata de recuperação.
+    - **Nenhuma estrela – Sem dados:** Não há dados suficientes do período para gerar um score confiável. Isso ocorre normalmente com clientes recém-cadastrados ou com histórico incompleto. É necessário aguardar o acúmulo de informações.
+
+- **FREQ (Frequência):** número de atendimentos ou interações do cliente no período avaliado.
+
+- **LTV (Lifetime Value):** valor total gerado pelo cliente para a organização no período.
+
+- **CLC (Customer Lifetime Cost):** custo total no período relacionado à manutenção do cliente.
+
+Esse conjunto de informações oferece uma visão abrangente e estratégica do comportamento e valor de cada cliente, permitindo ações direcionadas de marketing, atendimento e fidelização.
