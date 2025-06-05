@@ -84,3 +84,10 @@ html[data-theme='dark'] {
   --ifm-footer-background-color: #132728;
   --ifm-color-emphasis-100: #1f3c3d;
 }
+
+html[data-theme='dark'] h1,
+html[data-theme='dark'] h2,
+html[data-theme='dark'] h3,
+html[data-theme='dark'] h4 {
+  color: #d3d3d3;
+}
