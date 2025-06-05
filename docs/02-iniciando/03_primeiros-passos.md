@@ -18,16 +18,18 @@ O checklist fica disponível no painel **"Alertas"** sempre que houver tarefas p
 
 A boa notícia é que o próprio eConsult se encarrega de configurar automaticamente algumas dessas recomendações/exigências para facilitar sua jornada inicial. São elas:
 
-- Recomendação — Grupos por Idade: O eConsult já vem com um cadastro completo de Grupos por Idade.
-- Exigência — Formas de Pagamento: O eConsult cadastra previamente formas de pagamento.
-- Exigência — Modelos de Anamnese: O eConsult já oferece diversos modelos de anamnese pré-configurados de acordo com a sua especialidade, prontos para serem utilizados nos prontuários.
+- ***Recomendação* — Grupos por Idade:** O eConsult já vem com um cadastro completo de Grupos por Idade.
+- ***Exigência* — Formas de Pagamento:** O eConsult cadastra previamente diversas formas de pagamento.
+- ***Exigência* — Modelos de Anamnese:** O eConsult já oferece diversos modelos de anamnese pré-configurados de acordo com a sua especialidade, prontos para serem utilizados nos prontuários.
 
-Querendo ir além e explorar ainda mais recursos, considere as opções a seguir:
+## Querendo ir além?
+
+Descubra mais possibilidades com os recursos avançados disponíveis a seguir:
 
 ---
 
-**Configurar um valor padrão para atendimentos:**  
-Configure um valor padrão para atendimentos.  
+**Configurar uma sugestão de valor para atendimentos:**  
+
 Quando você inclui um novo atendimento o sistema sugere um valor padrão para os atendimentos do cliente.
 
 👉 [Configurar Valor Padrão de Atendimentos](#)
@@ -35,7 +37,9 @@ Quando você inclui um novo atendimento o sistema sugere um valor padrão para o
 ---
 
 **Integrar seu SMTP para envio de e-mails:**  
+
 Configure o seu SMTP, de forma facilitada para envio de e-mails.  
+
 Isso permite que você envie e-mails para clientes utilizando seu servidor de e-mails.
 
 👉 [Configurar seu SMTP](#)
@@ -43,7 +47,9 @@ Isso permite que você envie e-mails para clientes utilizando seu servidor de e-
 ---
 
 **Integrar com o Google Drive:**  
+
 Conecte sua conta do Google Drive ao eConsult para armazenar e receber arquivos diretamente pela plataforma.  
+
 A integração é simples, rápida e não exige conhecimentos técnicos.
 
 👉 [Configurar a integração com o Google Drive](#)
@@ -51,7 +57,9 @@ A integração é simples, rápida e não exige conhecimentos técnicos.
 ---
 
 **Integrar o seu ChatGPT:**  
+
 Configure o seu ChatGPT para utilizar recursos de IA.  
+
 Não requer conhecimentos avançados e você poderá contar com recursos de IA (Inteligência Artificial).
 
 👉 [Configurar seu ChatGPT](#)
@@ -59,7 +67,9 @@ Não requer conhecimentos avançados e você poderá contar com recursos de IA (
 ---
 
 **Ativar o PIX como forma de pagamento:**  
+
 Configure o PIX como uma das formas de pagamento para seus clientes.  
+
 Isso permite gerar QR Codes ou links de pagamento usando sua chave PIX.
 
 👉 [Configurar seu PIX](#)
@@ -67,7 +77,9 @@ Isso permite gerar QR Codes ou links de pagamento usando sua chave PIX.
 ---
 
 **Integrar com o Mercado Pago:**  
+
 Conecte sua conta do Mercado Pago ao eConsult de forma fácil e prática.  
+
 O passo a passo é claro e não requer conhecimentos avançados de informática.
 
 👉 [Configurar a integração com o Mercado Pago](#)
