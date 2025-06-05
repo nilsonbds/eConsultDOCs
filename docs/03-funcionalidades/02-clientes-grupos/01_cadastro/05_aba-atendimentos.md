@@ -14,7 +14,25 @@ A aba conta com os filtros mês e ano, permitindo uma visualização segmentada 
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-014.png)
 
-Além disso, é apresentada uma lista de *cards*, onde cada um representa um atendimento agendado. As funcionalidades de cada *card* são as mesmas disponíveis e mostradas no painel [**Atendimentos**](#).
+Além disso, é apresentada uma lista de *cards*, onde cada um representa um atendimento agendado. 
+
+    :::tip
+
+        Os *cards" da aba Atendimentos permite você gerenciar anotações, arquivos, lembretes e informes de presença e pagamentos (no caso de grupos de atendimento) do atendimento.
+
+        ![Painel Lembretes](../../../../static/img/prints/lembretes/005.png)
+
+        - **Anotações:** ![Painel Lembretes](../../../../static/img/prints/lembretes/006.png) Permite incluir, alterar ou excluir anotações vinculadas a cada atendimento, oferecendo um espaço para registrar observações importantes que podem ser consultadas posteriormente e até mesmo publicadas no prontuário do cliente.
+        
+        - **Arquivos:** ![Painel Lembretes](../../../../static/img/prints/lembretes/007.png) Permite incluir, alterar ou excluir arquivos vinculados a cada atendimento.
+        
+        - **Lembretes:** ![Painel Lembretes](../../../../static/img/prints/lembretes/008.png) Mostra as cores de todos os tipos de lembretes vinculados ao atendimento e permite fazer a gestão destes lembretes do atendimento.
+        
+        - **Informes de presença e pagamentos:** ![Painel Lembretes](../../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo de atendimento. Permite informar a presença dos clientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
+        
+        Você também tem acesso a diversas funcionalidades relacionadas ao atendimento, como "Desmarcar", "Remarcar", "Excluir", alterar "Modalidade" e "Status", além de realizar "Recebimentos". Tudo isso está disponível de forma prática através de um único botão ![Painel Lembretes](../../../../static/img/prints/buttons/btn_card-edit.png).
+
+    :::
 
 É permitido ainda o **agendamento de múltiplos atendimentos para o cliente ou grupo de atendimento**, com ampla flexibilidade. Essa funcionalidade foi pensada para otimizar o fluxo de trabalho dos profissionais, possibilitando o planejamento de diversas sessões de forma centralizada, de acordo com as necessidades e a disponibilidade de cada cliente. Com isso, torna-se mais simples manter a regularidade dos atendimentos e garantir um acompanhamento contínuo e personalizado.
 

@@ -6,20 +6,28 @@ sidebar_position: 1
 
 O painel Atendimentos se ajusta automaticamente ao tamanho da sua tela. Se você estiver utilizando um notebook, o painel será modulado para a versão desktop. Já em um smartphone, ele se adaptará para a versão mobile, garantindo uma experiência de uso otimizada em qualquer dispositivo.
 
+---
+
 <figure style={{ margin: 0, textAlign: "center" }}>
   <img src="/img/prints/atendimento/001.png" alt="Painel de Atendimentos" />
   <figcaption style={{ fontStyle: "italic"}}>Versão Desktop</figcaption>
 </figure>
+
+---
 
 <figure style={{ margin: 0, textAlign: "center" }}>
   <img src="/img/prints/atendimento/002.png" alt="Painel de Atendimentos" />
   <figcaption style={{ fontStyle: "italic"}}>Versão mobile (agenda do dia)</figcaption>
 </figure>
 
+---
+
 <figure style={{ margin: 0, textAlign: "center" }}>
   <img src="/img/prints/atendimento/003.png" alt="Painel de Atendimentos" />
   <figcaption style={{ fontStyle: "italic"}}>Versão mobile (agenda da semana)</figcaption>
 </figure>
+
+---
 
 ## Calendário
 
