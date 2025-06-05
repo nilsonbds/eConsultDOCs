@@ -1,5 +1,5 @@
 ---
-sidebar_position: 0
+sidebar_position: 2
 ---
 
 # Visão geral sobre a Aba Indicadores
@@ -12,7 +12,7 @@ Os indicadores estão organizados nos seguintes **cards**:
 
 1. **Situação financeira**
 
-    ![Painel Resultados](../../../../static/img/prints/resultados/009.png)
+    ![Painel Resultados](../../../static/img/prints/resultados/009.png)
 
     - **Recebido:** Indica o valor total recebido no mês (receitas realizadas).
     - **Pago:** Indica o valor total pago no mês (despesas realizadas).
@@ -23,32 +23,32 @@ Os indicadores estão organizados nos seguintes **cards**:
 
 1. **Atendimentos do Mês**
 
-    ![Painel Resultados](../../../../static/img/prints/resultados/010.png)
+    ![Painel Resultados](../../../static/img/prints/resultados/010.png)
 
     - Quantidade e valor total dos atendimentos realizados no mês.
     - Quantidade e valor dos atendimentos quitados e não quitados.
 
 1. **Inadimplência**
 
-    ![Painel Resultados](../../../../static/img/prints/resultados/011.png)
+    ![Painel Resultados](../../../static/img/prints/resultados/011.png)
 
     - Valor inadimplente no mês, no ano e no geral.
     
 1. **Perdas (Baixas Contábeis)**
 
-    ![Painel Resultados](../../../../static/img/prints/resultados/012.png)
+    ![Painel Resultados](../../../static/img/prints/resultados/012.png)
 
     - Valor das perdas geradas pelo cliente no mês, no ano e no total.
 
 1. **Perdas Recuperadas**
 
-    ![Painel Resultados](../../../../static/img/prints/resultados/013.png)
+    ![Painel Resultados](../../../static/img/prints/resultados/013.png)
 
     - Valor das perdas recuperadas no mês, no ano e no total.
 
 1. **Ocupação**
 
-    ![Painel Resultados](../../../../static/img/prints/resultados/014.png)
+    ![Painel Resultados](../../../static/img/prints/resultados/014.png)
 
     - Horários ocupados pelo cliente, categorizados por:
         - Remotos pagos
@@ -60,13 +60,13 @@ Os indicadores estão organizados nos seguintes **cards**:
 
 1. **Custos Pagos**
 
-    ![Painel Resultados](../../../../static/img/prints/resultados/015.png)
+    ![Painel Resultados](../../../static/img/prints/resultados/015.png)
 
     - Valor mínimo, médio e máximo pago pelo cliente em atendimentos no mês.
     
 1. **Detalhamento da Frequência**
 
-    ![Painel Resultados](../../../../static/img/prints/resultados/016.png)
+    ![Painel Resultados](../../../static/img/prints/resultados/016.png)
 
     - Quantidade de atendimentos:
         - Confirmados
@@ -76,7 +76,7 @@ Os indicadores estão organizados nos seguintes **cards**:
 
 1. **Remarcações e Desmarcações**
 
-    ![Painel Resultados](../../../../static/img/prints/resultados/017.png)
+    ![Painel Resultados](../../../static/img/prints/resultados/017.png)
 
     - Quantidade de:
         - Desmarcações
@@ -112,7 +112,7 @@ Os indicadores estão organizados nos seguintes **cards**:
     Índices de remarcações e desmarcações apontam previsibilidade de demanda e possíveis impactos na produtividade.
 
 :::tip
-Se o sistema estiver integrado ao ChatGPT, será exibido o botão ![Painel Resultados](../../../../static/img/prints/buttons/btn_fazer-analise.png). Ao clicar nesse botão, o sistema realiza uma análise textual automatizada dos indicadores exibidos, gerando insights estratégicos e interpretações inteligentes com base nos dados do painel.
+Se o sistema estiver integrado ao ChatGPT, será exibido o botão ![Painel Resultados](../../../static/img/prints/buttons/btn_fazer-analise.png). Ao clicar nesse botão, o sistema realiza uma análise textual automatizada dos indicadores exibidos, gerando insights estratégicos e interpretações inteligentes com base nos dados do painel.
 
 Essa análise ajuda a compreender tendências, identificar oportunidades de melhoria, sinalizar possíveis riscos e apoiar a tomada de decisões — de forma prática, rápida e orientada por dados.
 :::

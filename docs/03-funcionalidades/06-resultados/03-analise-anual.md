@@ -1,5 +1,5 @@
 ---
-sidebar_position: 0
+sidebar_position: 3
 ---
 
 # Visão geral sobre a aba Análise Anual
@@ -10,7 +10,7 @@ Esta aba só estará visível se você tiver uma integração com ChatGPT.
 
 A Análise Anual é uma funcionalidade exclusiva que permite gerar uma análise inteligente a partir dos dados consolidados de todos os meses de um determinado ano anterior.
 
-![Painel Resultados](../../../../static/img/prints/resultados/018.png)
+![Painel Resultados](../../../static/img/prints/resultados/018.png)
 
 Essa funcionalidade utiliza a integração com o ChatGPT para processar automaticamente os indicadores históricos, gerando uma análise textual completa, com:
 
@@ -26,17 +26,17 @@ Essa análise é ideal para momentos de fechamento de ciclo, avaliação de perf
 
 ## Analisar um ano
 
-1. Na aba "Análise Anual", no *card* do ano que se deseja analisar, acione o botão ![Painel Resultados](../../../../static/img/prints/resultados/019.png).
+1. Na aba "Análise Anual", no *card* do ano que se deseja analisar, acione o botão ![Painel Resultados](../../../static/img/prints/resultados/019.png).
 
 1. O sistema processará a análise e atualizará o *card*.
 
-    ![Painel Resultados](../../../../static/img/prints/resultados/020.png)
+    ![Painel Resultados](../../../static/img/prints/resultados/020.png)
 
-1. Acione o botão ![Painel Resultados](../../../../static/img/prints/buttons//btn_visualizar.png) do *card*.
+1. Acione o botão ![Painel Resultados](../../../static/img/prints/buttons//btn_visualizar.png) do *card*.
 
 1. O sistema mostrará uma tela contendo a análise textual.
 
-    ![Painel Resultados](../../../../static/img/prints/resultados/021.png)
+    ![Painel Resultados](../../../static/img/prints/resultados/021.png)
 
     :::note
     - Clique em "Fechar" para sair da tela de análise textual.
