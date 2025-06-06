@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre Grupo de Configurações Agenda
+# Sobre Grupo de Configurações Agenda
 
 As configurações da agenda são fundamentais para personalizar e otimizar o gerenciamento de tempo e compromissos. Elas permitem que você ajuste a agenda de acordo com suas necessidades específicas, garantindo uma organização eficiente e um planejamento eficaz. A seguir, veja como você pode configurar sua agenda e os principais aspectos a serem considerados:
 

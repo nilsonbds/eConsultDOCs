@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre o Painel Atendimentos
+# Sobre Atendimentos
 
 O painel Atendimentos do eConsult é uma ferramenta de gestão que auxilia na organização e monitoramento de atendimentos agendados. O objetivo principal desse painel é centralizar e facilitar o acesso a informações relacionadas aos atendimentos, otimizando o fluxo de trabalho da organização.
 

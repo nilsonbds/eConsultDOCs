@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre o Painel Conta
+# Sobre Conta
 
 Manter os dados cadastrais atualizados é essencial para garantir a precisão das informações e a eficiência no atendimento.
 

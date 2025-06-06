@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre Configurações para Finanças
+# Sobre Configurações para Finanças
 
 Para uma gestão financeira eficaz, é essencial ter um entendimento claro e organizado das formas de pagamento, categorias de receitas, categorias de despesas e os parâmetros de cobrança. Estes elementos são fundamentais para manter o controle financeiro, garantir a precisão nas transações e otimizar a administração financeira do seu negócio.
 

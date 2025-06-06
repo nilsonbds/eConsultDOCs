@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre o Painel Lembretes
+# Sobre Lembretes
 
 O painel Lembretes no eConsult é uma ferramenta que auxilia na gestão e acompanhamento dos atendimentos. Ele centraliza todos os atendimentos que possuem lembretes vinculados, organizando-os de maneira lógica e intuitiva em cards individuais que são agrupados por tipo de lembrete. Essa estrutura permite uma visualização clara e eficiente, facilitando o acesso às informações mais relevantes de cada atendimento.
 

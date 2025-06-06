@@ -30,15 +30,15 @@ Isso garante que, desde o primeiro acesso, você encontre as funcionalidades, no
 
 ## Principais Benefícios
 
-* **Custo acessível, recursos avançados:** O eConsult reúne um conjunto completo de funcionalidades — como prontuário personalizável, com modelos prontos adaptados à sua área de atuação, gestão financeira integrada, envio automático de lembretes, além de integrações com PIX, ChatGPT e Google Drive — por um valor que muitos sistemas básicos sequer se aproximam de oferecer.
+* **Recursos avançados:** O eConsult reúne um conjunto completo de funcionalidades — como prontuário personalizável, com modelos prontos adaptados à sua área de atuação, gestão financeira integrada, envio automático de lembretes, além de integrações com PIX, ChatGPT e Google Drive — por um valor que muitos sistemas básicos sequer se aproximam de oferecer.
 
-* **Não há necessidade de um grande investimento inicial:** o primeiro mês é gratuito e os planos pagos têm preços acessíveis, compatíveis com sistemas simples, mas entregando recursos avançados de verdade.
+* **Não há necessidade de um grande investimento inicial:** o primeiro mês é gratuito e os planos pagos têm preços muito acessíveis, compatíveis com sistemas básicos, mas entregando recursos avançados de verdade.
 
     Isso só é possível graças a um modelo de tecnologia inteligente, baseado em estrutura compartilhada e otimização de recursos, que mantém o custo baixo sem abrir mão da qualidade.
 
     Você tem tecnologia de ponta com simplicidade e economia.
 
-* **Custos reduzidos:** Não é preciso grandes investimentos  para utilizar o eConsult. O primeiro mês é gratuito e os custos são diluídos ao longo do tempo. Isso é viabilizado pelo modelo de compartilhamento de infraestrutura e recursos.
+* **Configuração inicial facilitada:** A configuração do sistema é facilitada e inteligente. Ele reconhece automaticamente o perfil do usuário e adapta suas funcionalidades, proporcionando uma experiência personalizada desde o primeiro acesso, sem a necessidade de configurações manuais complexas. 
 
 * **Atualizações contínuas:** O eConsult inclui atualizações automáticas, garantindo que você sempre tenha acesso às versões mais recentes e seguras.
 
@@ -48,9 +48,9 @@ Isso garante que, desde o primeiro acesso, você encontre as funcionalidades, no
 
 * **Experiência do usuário:** O design responsivo garante que o conteúdo seja acessível e legível em qualquer dispositivo, melhorando a experiência do usuário e aumentando a satisfação.
 
-* **Alto desempenho:** Um software ágil e responsivo, que aprimora a experiência do usuário ao reduzir significativamente o tempo de espera aumentando a produtividade.
+* **Alto desempenho:** Um software ágil, que aprimora a experiência do usuário. Praticamente não há tempo de espera aumentando a produtividade.
 
-* **Escalável:** Suporta um número crescente de registros e dados sem degradação da performance.
+* **Escalável:** Suporta um número crescente de registros e dados sem degradação de performance.
 
 ## Principais funcionalidades
 

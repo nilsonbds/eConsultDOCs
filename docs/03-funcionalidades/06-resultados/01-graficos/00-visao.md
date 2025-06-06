@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre a Aba Gráficos
+# Sobre Aba Gráficos
 
 A aba Gráficos oferece uma visualização consolidada e evolutiva dos principais indicadores operacionais e financeiros, distribuídos em gráficos que cobrem os dois meses anteriores, o mês atual e o mês seguinte. Esses gráficos permitem uma análise temporal detalhada, apoiando um monitoramento contínuo.
 

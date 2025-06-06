@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre a Área do Cliente
+# Sobre Área do Cliente
 
 A Área do Cliente é uma funcionalidade exclusiva do eConsult, desenvolvida para oferecer mais autonomia, transparência e praticidade aos clientes dos profissionais que utilizam a plataforma. Através de um link individual e seguro, enviado diretamente para o e-mail do cliente, é possível acessar um ambiente digital completo, onde o cliente pode acompanhar todas as informações relacionadas ao seu atendimento.
 

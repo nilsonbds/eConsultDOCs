@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre o Painel Resultados
+# Sobre Resultados
 
 O Painel Resultados tem como principal objetivo oferecer à organização uma visão clara e estratégica sobre o desempenho e a evolução do negócio, permitindo a tomada de decisões mais informadas a partir da análise integrada de diversos indicadores.
 

@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre o Painel Configurações
+# Sobre Configurações
 
 O **Painel Configurações** do eConsult é uma ferramenta essencial que centraliza e organiza todas as personalizações e definições necessárias para a gestão eficiente do sistema. 
 

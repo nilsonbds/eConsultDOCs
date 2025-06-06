@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre o Painel Alertas
+# Sobre Alertas
 
 O Painel Alertas é uma ferramenta que auxilia na gestão proativa e eficiente da plataforma eConsult, oferecendo uma visão consolidada das principais ocorrências ou anomalias que precisam de atenção. 
 

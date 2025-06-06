@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre Configurações para Clientes
+# Sobre Configurações para Clientes
 
 As configurações para **Clientes** que incluem campos adicionais personalizados e grupos de clientes por idade são essenciais para uma gestão mais detalhada e eficiente. Essas funcionalidades permitem adaptar o sistema de gerenciamento de clientes às necessidades específicas do seu negócio, oferecendo uma visão mais precisa e segmentada.
 

@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre Configurações para Integrações
+# Sobre Configurações para Integrações
 
 Este grupo de configurações tem como objetivo a interoperabilidade do eConsult com outras ferramentas e sistemas, visando aprimorar a eficiência e a fluidez dos processos operacionais. 
 

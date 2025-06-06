@@ -8,6 +8,10 @@ Utilizar um sistema de gestão eficiente é crucial para otimizar e simplificar 
 
 **O eConsult é uma solução desenvolvida especialmente para psicólogos clínicos**, com foco em facilitar o dia a dia dos atendimentos terapêuticos. No entanto, sua estrutura flexível também atende perfeitamente a outros profissionais que trabalham com agendamentos, como terapeutas, nutricionistas, coaches, profissionais da beleza e da área da saúde em geral.
 
+Embora o eConsult possa ser utilizado por diversos profissionais autônomos, isso não significa que seja um sistema genérico.
+
+Ao criar sua conta, o sistema identifica seu perfil profissional e adapta automaticamente a experiência para sua área de atuação.
+
 Com o eConsult, você simplifica tarefas essenciais como o cadastro de clientes, o gerenciamento de atendimentos, o faturamento e o controle financeiro — tudo isso em um sistema único, prático e integrado.
 
 Uma das principais vantagens do eConsult é seu modelo de serviço por assinatura, que o torna acessível sem a necessidade de um grande investimento inicial. Por ser uma plataforma baseada na nuvem, o eConsult é constantemente atualizado, garantindo que você tenha acesso às últimas versões e tecnologias sem esforço adicional.

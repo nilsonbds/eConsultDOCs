@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Visão geral sobre o Painel Clientes e Grupos de Atendimento
+# Sobre Clientes e Grupos de Atendimento
 
 **O painel Clientes e Grupos de Atendimento do eConsult é uma ferramenta estratégica e indispensável para a gestão eficaz de informações cruciais no ambiente corporativo. Desenvolvido para atender às demandas de organizações que lidam com múltiplos atendimentos e perfis de clientes, esse painel possibilita a centralização, organização e rápida consulta de dados relevantes, promovendo maior agilidade nos processos operacionais.**
 
