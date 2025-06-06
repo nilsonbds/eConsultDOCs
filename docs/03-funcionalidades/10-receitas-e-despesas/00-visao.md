@@ -49,7 +49,7 @@ Você pode utilizar as opções "Todas", "Quitadas" e "Não quitadas" para mostr
 ![Receitas e Despesas](../../../static/img/prints/receitasdespesas/008.png)
 
 :::note
-Os cartões podem exibir os botões "Excluir ![Receitas e Despesas](../../../static/img/prints/buttons/btn_card-delete.png)" e "Alterar ![Receitas e Despesas](../../../static/img/prints/buttons/btn_card-edit.png)", permitindo que você exclua ou modifique o evento financeiro. Isso inclui a gestão de recebimentos, pagamentos, ou o cancelamento de transações já registradas.
+Os *cards* podem exibir os botões "Excluir ![Receitas e Despesas](../../../static/img/prints/buttons/btn_card-delete.png)" e "Alterar ![Receitas e Despesas](../../../static/img/prints/buttons/btn_card-edit.png)", permitindo que você exclua ou modifique o evento financeiro. Isso inclui a gestão de recebimentos, pagamentos, ou o cancelamento de transações já registradas.
 
-Cartões com eventos de fatura relacionados a atendimentos não exibem o botão Excluir, pois não é possível remover faturas associadas a atendimentos.
+*Cards* com eventos de fatura relacionados a atendimentos não exibem o botão Excluir, pois não é possível remover faturas associadas a atendimentos.
 :::

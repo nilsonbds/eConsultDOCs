@@ -67,7 +67,7 @@ Na sub-aba Recebidas, você também dispõe de duas funções importantes para g
 Essas funções ajudam a manter o registro financeiro organizado e a garantir uma comunicação transparente com o cliente.
 
 :::tip
-Utilize a opção ![Cadastro de Formas de Pagamento](../../../static/img/prints/buttons/btn_card-edit.png) localizada nos *cards* de faturas, tanto "Pendentes" quanto "Recebidas", para realizar alterações. Com essa opção, você pode:
+Utilize a opção ![Painel Faturas do Cliente](../../../static/img/prints/buttons/btn_card-edit.png) localizada nos *cards* de faturas, tanto "Pendentes" quanto "Recebidas", para realizar alterações. Com essa opção, você pode:
 
 - Efetuar pagamentos totais ou parciais.
 - Incluir a fatura na lista de perdas (baixas contábeis), se constatado que esta fatura presumidamente não será recebida.

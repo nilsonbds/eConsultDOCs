@@ -22,11 +22,49 @@ A aba Créditos e Perdas oferece funcionalidades para o gerenciamento de crédit
 
 1. Preencha os campos "Valor", "Data", "Forma de Pagamento" e "Descrição" (opcional).
 
+    :::warning
+        - Se o campo "Data" for preenchido com a data atual ou uma data anterior, o sistema exibirá automaticamente a indicação "Realizado" ao lado da data. 
+
+            ![Painel Clientes e Grupos](../../../../static/img/prints/perdas/005.png)
+        
+        - Caso a data informada seja futura, o sistema mostrará a indicação "Previsto", sinalizando que o pagamento ainda está pendente.
+
+            ![Painel Clientes e Grupos](../../../../static/img/prints/perdas/006.png)
+
+        - Essa informação (Previsto ou Realizado) também estará visível no *card* correspondente ao crédito.
+
+        Além disso, créditos com o status "Previsto" serão incluídos automaticamente na alerta respectivo do painel "Alertas", indicando que há um pagamento pendente de confirmação.
+
+        ![Painel Clientes e Grupos](../../../../static/img/prints/perdas/009.png)
+
+        Dessa forma, o painel "Alertas" reúne, em um só lugar, todos os créditos com pagamento previsto, facilitando o acompanhamento e a gestão dessas pendências.
+    :::
+
 1. Acione o botão "Incluir" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_incluir.png).
 
 1. A aba mostrará um extrato atualizado já com o crédito cadastrado.
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-025.png)
+
+## Mudar status de crédito antecipado de "Previsto" para "Realizado"
+
+No eConsult, créditos com data futura são automaticamente classificados como "Previstos".
+
+Para que sejam considerados "Realizados", é necessário confirmar a efetivação do pagamento. Essa mudança só ocorrerá se a data do pagamento for igual ou anterior à data atual.
+
+1. No *card" do crédito acione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/perdas/012.png).
+
+1. Preencha no campo "Data" a data que você recebeu efetivamente o valor correspondente ao crédito.
+
+1. Ao indicar a data, o sistema passa a mostrar "Realizado" ao invés de "Previsto".
+
+    ![Painel Clientes e Grupos](../../../../static/img/prints/perdas/005.png)
+
+1. Acione o botão "Confirmar" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_confirmar.png).
+
+1. O sistema passa a mostrar no *card* do crédito a informação "Realizado".
+
+    ![Painel Clientes e Grupos](../../../../static/img/prints/perdas/007.png)
 
 ## Excluir crédito antecipado
 
@@ -90,6 +128,6 @@ Para registrar uma determida perda (baixa contábil), você deve selecionar um a
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-030.png)
 
-:::warning 
-Se o cliente tiver saldo positivo superior ao valor do atendimento o sistema não deixará registrar a perda e avisará que o cliente tem crédito suficiente para o pagamento do atendimento.
-:::
+    :::warning 
+    Se o cliente tiver saldo positivo superior ao valor do atendimento o sistema não deixará registrar a perda e avisará que o cliente tem crédito suficiente para o pagamento do atendimento.
+    :::

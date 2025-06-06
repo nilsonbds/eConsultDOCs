@@ -28,88 +28,121 @@ Isso garante que, desde o primeiro acesso, você encontre as funcionalidades, no
 
 **É o sistema que se adapta a você — e não o contrário.**
 
-## Principais Benefícios
+# Principais Benefícios do eConsult
 
-* **Recursos avançados:** O eConsult reúne um conjunto completo de funcionalidades — como prontuário personalizável, com modelos prontos adaptados à sua área de atuação, gestão financeira integrada, envio automático de lembretes, além de integrações com PIX, ChatGPT e Google Drive — por um valor que muitos sistemas básicos sequer se aproximam de oferecer.
+### Recursos avançados com excelente custo-benefício
 
-* **Não há necessidade de um grande investimento inicial:** o primeiro mês é gratuito e os planos pagos têm preços muito acessíveis, compatíveis com sistemas básicos, mas entregando recursos avançados de verdade.
+O eConsult oferece um conjunto completo de funcionalidades que vão muito além dos sistemas básicos: prontuário personalizável com modelos adaptados à sua especialidade, gestão financeira integrada, envio automático de lembretes, além de integrações com PIX, ChatGPT e Google Drive. Tudo isso por um valor acessível, frequentemente inferior ao cobrado por sistemas com menos recursos.
 
-    Isso só é possível graças a um modelo de tecnologia inteligente, baseado em estrutura compartilhada e otimização de recursos, que mantém o custo baixo sem abrir mão da qualidade.
+### Sem investimento inicial elevado
 
-    Você tem tecnologia de ponta com simplicidade e economia.
+O primeiro mês é totalmente gratuito, e os planos pagos são acessíveis — combinando o preço de sistemas simples com a entrega de recursos realmente avançados.
 
-* **Configuração inicial facilitada:** A configuração do sistema é facilitada e inteligente. Ele reconhece automaticamente o perfil do usuário e adapta suas funcionalidades, proporcionando uma experiência personalizada desde o primeiro acesso, sem a necessidade de configurações manuais complexas. 
+### Tecnologia inteligente e econômica
 
-* **Atualizações contínuas:** O eConsult inclui atualizações automáticas, garantindo que você sempre tenha acesso às versões mais recentes e seguras.
+Graças a uma arquitetura moderna, com estrutura compartilhada e otimização de recursos, o eConsult mantém custos baixos sem comprometer desempenho ou qualidade. É tecnologia de ponta com simplicidade e economia.
 
-* **Suporte técnico:** Com o eConsult, você conta com suporte técnico contínuo, essencial para resolver problemas rapidamente.
+### Configuração inicial automatizada
 
-* **Acesso remoto:** É acessível de qualquer lugar e a qualquer hora, bastando uma conexão à internet, o que facilita o trabalho remoto e a colaboração.
+Desde o primeiro acesso, o sistema identifica o perfil do usuário e ajusta suas funcionalidades automaticamente, eliminando configurações manuais complexas e acelerando o início do uso.
 
-* **Experiência do usuário:** O design responsivo garante que o conteúdo seja acessível e legível em qualquer dispositivo, melhorando a experiência do usuário e aumentando a satisfação.
+### Atualizações automáticas
 
-* **Alto desempenho:** Um software ágil, que aprimora a experiência do usuário. Praticamente não há tempo de espera aumentando a produtividade.
+O eConsult é atualizado constantemente e de forma automática, garantindo que você sempre utilize a versão mais recente, com melhorias contínuas em segurança e funcionalidade.
 
-* **Escalável:** Suporta um número crescente de registros e dados sem degradação de performance.
+### Suporte técnico eficiente
 
-## Principais funcionalidades
+Conte com atendimento técnico constante, essencial para resolver dúvidas ou problemas com agilidade e garantir o uso pleno da plataforma.
 
-* **Cadastro de clientes e grupos de Atendimento:** Registre e organize informações detalhadas sobre clientes e grupos de atendimento, facilitando a administração e o acompanhamento das interações.
+### Acesso remoto
 
-* **Campos altamente personalizáveis:** No eConsult, você pode personalizar os campos de cadastro de clientes e grupos de atendimento de acordo com as necessidades do seu negócio — ou até mesmo adaptar para casos específicos de cada cliente.
+Disponível a qualquer hora e em qualquer lugar, basta estar conectado à internet. Ideal para equipes que trabalham de forma híbrida ou remota.
 
-    Essa flexibilidade permite uma coleta de dados mais precisa, relevante e alinhada com sua prática, garantindo que nenhuma informação importante fique de fora.
+### Experiência otimizada em todos os dispositivos
 
-    Assim, cada atendimento é respaldado por um histórico completo, organizado e realmente útil para o seu trabalho.
+O design responsivo garante que o sistema funcione perfeitamente em computadores, tablets e smartphones, oferecendo uma experiência de uso fluida e agradável.
 
-* **Gestão de créditos:** Monitore e gerencie créditos atribuídos a clientes e grupos de atendimento, otimizando a administração financeira e o controle de saldos.
+### Alto desempenho e produtividade
 
-* **Sistema de score inteligente:** O eConsult oferece um "Score do Cliente" que avalia o relacionamento e o nível de engajamento de cada pessoa atendida, ajudando você a tomar decisões mais estratégicas no dia a dia.
+O sistema é rápido, quase sem tempo de espera, o que aumenta a produtividade no dia a dia.
 
-    Esse score é calculado com base em três dimensões:
+### Escalabilidade garantida
 
-    - **Global:** avalia o histórico completo do cliente com você;
-    - **Anual:** analisa o comportamento e regularidade no ano atual;
-    - **Mensal:** mostra o nível de engajamento mais recente.
+Projetado para crescer com você, o eConsult suporta um volume crescente de dados e registros sem perda de desempenho.
 
-    Com essas informações, você identifica com facilidade quem são os clientes mais frequentes, quais estão em risco de desistência e onde pode atuar para melhorar o vínculo terapêutico ou comercial.
+# Principais funcionalidades do eConsult
 
-    Mais do que números — é um mapa de relacionamento que trabalha a seu favor. 
+### Cadastro de Clientes e Grupos de Atendimento
 
-* **Campanhas de cashback:** Incentive a fidelidade e o retorno dos seus clientes com campanhas personalizadas de cashback.
+Registre e organize informações completas de clientes e grupos de atendimento com praticidade. O eConsult facilita a gestão e o acompanhamento de todas as interações realizadas.
 
-    Você pode criar ações promocionais que devolvem parte do valor pago em forma de crédito, com base em critérios como:
+### Campos Altamente Personalizáveis
 
-    - Frequência de atendimentos (ex: a cada 5 sessões, o cliente ganha R$ XX de volta)
-    - Pontualidade nos pagamentos
-    - Score interno de relacionamento (cliente assíduo, que indica outros, etc.)
+Personalize os campos de cadastro conforme as necessidades do seu negócio — ou até mesmo de forma individualizada por cliente. Essa flexibilidade garante uma coleta de dados precisa e relevante, alinhada com sua prática, proporcionando um histórico completo e útil para cada atendimento.
 
-    Esses créditos podem ser usados em futuros atendimentos, estimulando o retorno e aumentando o engajamento — sem necessidade de descontos fixos ou promoções genéricas.
+### Gestão de Créditos
 
-    Você define as regras. O eConsult automatiza. O cliente volta com mais frequência.
+Monitore os créditos atribuídos a clientes ou grupos, otimizando a administração financeira e o controle de saldos com total transparência.
 
-* **Gestão de atendimentos:** Organize e administre atendimentos de forma eficiente, com uma interface intuitiva que facilita o planejamento e a coordenação.
+### Score Inteligente do Cliente
 
-* **Gestão de faturas:** Administre todas as suas faturas de forma centralizada.
+Avalie o relacionamento e engajamento dos clientes com o "Score do Cliente", baseado em três níveis:
 
-* **Financeiro:** Centralize a gestão financeira com recursos integrados para o controle de receitas, despesas e relatórios financeiros.
+    - **Global:** histórico completo com você
+    - **Anual:** comportamento no ano atual
+    - **Mensal:** engajamento mais recente
 
-* **Emissão de recibos:** Gere e envie recibos de forma rápida e eficiente, garantindo a documentação adequada para todas as transações realizadas.
+Esse score ajuda a identificar clientes mais frequentes, possíveis desistências e oportunidades para fortalecer o vínculo terapêutico ou comercial — funcionando como um verdadeiro mapa de relacionamento.
 
-* **Prontuário eletrônico personalizável:** O eConsult já vem com modelos de prontuário prontos, pensados para diferentes áreas de atuação.
+### Campanhas de Cashback Personalizadas
 
-    Você pode usar esses modelos como estão ou personalizar com facilidade, adaptando às suas preferências, à sua forma de trabalhar e até às necessidades específicas de cada cliente.
+Crie ações promocionais que devolvem parte do valor pago em forma de crédito, com base em critérios como:
 
-    Isso garante que seus prontuários sejam alinhados com a sua prática profissional e com a realidade dos seus atendimentos.
+- Frequência de atendimentos
+- Pontualidade nos pagamentos
+- Score de relacionamento
 
-* **Pagamentos com PIX:** Receba pagamentos instantâneos de forma rápida e segura, com a praticidade do PIX para suas transações financeiras a qualquer hora do dia.
+Esses créditos podem ser usados em futuros atendimentos, incentivando o retorno sem depender de descontos fixos. Você define as regras, o eConsult automatiza — o cliente volta com mais frequência.
 
-* **Integração com seu Google Drive:** Armazene e acesse seus arquivos com segurança e praticidade, por meio de uma integração direta com o Google Drive — sem complicações ou necessidade de conhecimentos avançados em informática.
+### Gestão de Atendimentos
 
-    Gerencie e compartilhe documentos importantes de forma organizada, rápida e acessível sempre que precisar.
+Planeje, organize e administre os atendimentos com uma interface intuitiva que facilita o dia a dia.
 
-* **Integração com seu ChatGPT:** Interaja e otimize seu fluxo de trabalho com a inteligência do ChatGPT, acessando respostas rápidas, insights relevantes e suporte em tempo real para suas tarefas diárias.
+### Gestão de Faturas e Recibos
 
-* **Integração com Mercado Pago:** Gerencie pagamentos de forma rápida e segura, com integração direta ao Mercado Pago para facilitar transações, recebimentos e o controle financeiro do seu negócio.
+Administre todas as faturas de forma centralizada e gere recibos com rapidez e segurança, garantindo a documentação correta para todas as transações.
 
-Essas e outras funcionalidades tornam o eConsult uma ferramenta robusta e versátil, projetada para simplificar e otimizar a gestão de atendimentos, oferecendo soluções práticas e eficazes para suas necessidades diárias.
+### Financeiro Integrado
+
+Centralize sua gestão financeira com controle completo de receitas, despesas, saldos e relatórios — tudo em um só lugar.
+
+### Prontuário Eletrônico Personalizável
+
+Use modelos prontos ou crie seus próprios modelos de prontuário, adaptando às suas preferências, ao estilo de atendimento e às particularidades de cada cliente. Flexível, prático e alinhado com sua atuação profissional.
+
+### Pagamentos via PIX
+
+Receba pagamentos instantâneos com segurança e praticidade, a qualquer hora do dia.
+
+### Integração com Google Drive
+
+Armazene, acesse e compartilhe documentos com facilidade por meio de integração direta com o Google Drive — sem complicações.
+
+### Integração com ChatGPT
+
+Otimize seu fluxo de trabalho com o suporte da inteligência do ChatGPT: respostas rápidas, sugestões inteligentes e ajuda em tempo real para suas tarefas.
+
+### Integração com Mercado Pago
+
+Receba pagamentos com agilidade e segurança, diretamente via Mercado Pago, com controle total das transações.
+
+**Essas e outras funcionalidades fazem do eConsult uma solução robusta e completa para profissionais que buscam agilidade, organização e eficiência na gestão de atendimentos.**
+
+
+
+
+
+
+
+
+
