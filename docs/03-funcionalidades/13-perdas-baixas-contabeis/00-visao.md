@@ -4,7 +4,13 @@ sidebar_position: 0
 
 # Sobre Perdas (baixas contábeis)
 
-O painel de Perdas (baixas contábeis) do eConsult é uma solução estratégica voltada para o monitoramento e a gestão eficaz de clientes ou grupos de atendimento que apresentam atendimentos com pagamentos considerados de difícil recebimento ou com presunção de não pagamento.
+O Painel "Perdas (baixas contábeis)" do eConsult é uma solução estratégica voltada para o controle e gestão de atendimentos com pagamentos inadimplentes que foram classificados como de difícil recebimento ou com presunção de não pagamento.
+
+Com essa funcionalidade, você pode registrar baixas contábeis de forma organizada e transparente, acompanhando de perto os valores que, por critérios técnicos ou administrativos, passaram a ser considerados "**com difícil recuperação"**. Isso contribui para uma visão mais realista da saúde financeira do negócio, permitindo ajustes no planejamento e na projeção de receitas.
+
+Além disso, o painel facilita a categorização e o acompanhamento desses casos, consolidando as informações em relatórios claros que apoiam a tomada de decisão e o cumprimento de práticas contábeis mais rigorosas.
+
+Essa abordagem evita distorções nos indicadores financeiros, melhora a gestão de inadimplência e reforça o controle sobre as perdas efetivas da operação.
 
 ![Baixas Contábeis](../../../static/img/prints/perdas/001.png)
 
@@ -42,7 +48,7 @@ Este crédito gerará uma fatura no sistema como um recebimento contabilmente re
 
     ![Baixas Contábeis](../../../static/img/prints/perdas/002.png)
 
-1. Acione a opção "Incluir Crédito Antecipado ![Baixas Contábeis](../../../static/img/prints/buttons/btn_add.png).
+1. Acione a opção "Incluir Crédito Antecipado" ![Baixas Contábeis](../../../static/img/prints/buttons/btn_add.png).
 
 1. O sistema abre a tela "Novo Crédito".
 
@@ -92,4 +98,8 @@ Para que sejam considerados "Realizados", é necessário confirmar a efetivaçã
     ![Baixas Contábeis](../../../static/img/prints/perdas/009.png)
 
     Dessa forma, o painel "Alertas" reúne, em um só lugar, todos os créditos com pagamento previsto, facilitando o acompanhamento e a gestão dessas pendências.
+:::
+
+:::warning 
+O sistema impede o registro de novos atendimentos para cliente que tem perdas registradas.
 :::

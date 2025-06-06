@@ -14,7 +14,7 @@ A aba Créditos e Perdas oferece funcionalidades para o gerenciamento de crédit
 
 ## Incluir crédito antecipado
 
-1. Na aba "Créditos e Perdas", acione a opção "Incluir crédito antecipado" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_add.png).
+1. Na aba "Créditos e Perdas", acione a opção "Incluir Crédito Antecipado"" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_add.png).
 
 1. O sistema abrirá a tela de cadastro "Novo crédito".
 
@@ -130,4 +130,8 @@ Para registrar uma determida perda (baixa contábil), você deve selecionar um a
 
     :::warning 
     Se o cliente tiver saldo positivo superior ao valor do atendimento o sistema não deixará registrar a perda e avisará que o cliente tem crédito suficiente para o pagamento do atendimento.
+    :::
+
+    :::warning 
+    O sistema impede o registro de novos atendimentos para cliente que tem perdas registradas.
     :::
