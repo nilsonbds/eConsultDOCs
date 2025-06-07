@@ -93,3 +93,10 @@ html[data-theme='dark'] h3,
 html[data-theme='dark'] h4 {
   color: #d3d3d3;
 }
+
+.embed-container {
+  padding: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
