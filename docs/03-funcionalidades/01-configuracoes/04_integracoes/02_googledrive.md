@@ -8,7 +8,7 @@ sidebar_position: 2
 
 Além de simplificar o acesso, essa integração também facilita a organização, permitindo que você categorize e armazene seus arquivos de forma estruturada e lógica, de acordo com suas necessidades. Com tudo centralizado no seu Google Drive, você garante que todos os seus arquivos estejam protegidos e sincronizados em tempo real, com backups automáticos, prevenindo a perda de informações.
 
-A página Google Drive pode ser acessada através do [Painel Configurações](/docs/category/painel-configurações). 
+A página Google Drive pode ser acessada através do [Painel Configurações](#). 
 
 Uma vez aciona a opção será mostrada a seguinte tela:
 

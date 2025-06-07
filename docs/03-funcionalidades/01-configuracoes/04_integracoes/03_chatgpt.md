@@ -10,7 +10,7 @@ Essa configuração é simples e acessível (não requer conhecimentos avançado
 
 Além de agilizar rotinas, a integração pode ser personalizada conforme suas necessidades, proporcionando uma experiência mais intuitiva e adaptada ao seu contexto de atendimento. O uso da IA contribui para aumentar a produtividade e aprimorar a comunicação com seus clientes, equipe e parceiros.
 
-A página ChatGPT pode ser acessada através do [Painel Configurações](/docs/category/painel-configurações) opção **ChatGPT**.
+A página ChatGPT pode ser acessada através do [Painel Configurações](#) opção **ChatGPT**.
 
 Uma vez acionada a opção **ChatGPT** o sistema abrirá a seguinte tela:
 
