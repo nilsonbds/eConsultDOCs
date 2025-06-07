@@ -2,6 +2,7 @@
   "label": "Aba Indicadores",
   "position": 2,
   "link": {
+    "slug": "/indicadores",
     "type": "generated-index",
     "description": "A aba Indicadores apresenta um retrato consolidado de todos os clientes no mês selecionado."
   }

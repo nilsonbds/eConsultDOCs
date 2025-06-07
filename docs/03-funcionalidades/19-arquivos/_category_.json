@@ -2,6 +2,7 @@
   "label": "Arquivos",
   "position": 19,
   "link": {
+    "slug": "/arquivos",
     "type": "generated-index",
     "description": "#"
   }

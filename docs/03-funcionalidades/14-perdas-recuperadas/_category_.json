@@ -2,6 +2,7 @@
   "label": "Perdas Recuperadas",
   "position": 14,
   "link": {
+    "slug": "/perdas-recuperadas",
     "type": "generated-index",
     "description": "O Painel de Perdas Recuperadas do eConsult permite acompanhar de forma estratégica os atendimentos que tiveram valores recuperados após terem sido registrados como perdas contábeis."
   }

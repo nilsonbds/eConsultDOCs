@@ -2,6 +2,7 @@
   "label": "Alertas",
   "position": 7,
   "link": {
+    "slug": "/alertas",
     "type": "generated-index",
     "description": "#"
   }

@@ -102,7 +102,7 @@ Para que sejam considerados "Realizados", é necessário confirmar a efetivaçã
 
     ![Perdas Recuperadas](../../../static/img/prints/perdasrecuperadas/003.png)
 
-1. Acione a opção "![Perdas Recuperadas](../../../static/img/prints/buttons/btn_card-delete.png).
+1. Acione a opção "![Perdas Recuperadas](../../../static/img/prints/buttons/btn_card-delete.png)".
 
 1. Clique em "Sim" para confirmar.
 

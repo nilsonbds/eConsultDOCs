@@ -2,6 +2,7 @@
   "label": "Recibos",
   "position": 17,
   "link": {
+    "slug": "/recibos",
     "type": "generated-index",
     "description": "#"
   }

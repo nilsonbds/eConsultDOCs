@@ -2,6 +2,7 @@
   "label": "Modelos de Anamnese",
   "position": 18,
   "link": {
+    "slug": "/modelo-anamnese",
     "type": "generated-index",
     "description": "#"
   }

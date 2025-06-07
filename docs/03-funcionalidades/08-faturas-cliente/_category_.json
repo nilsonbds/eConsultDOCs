@@ -2,6 +2,7 @@
   "label": "Faturas do Cliente",
   "position": 8,
   "link": {
+    "slug": "/faturas-cliente",
     "type": "generated-index",
     "description": "O painel Faturas do Cliente é uma ferramenta de gestão financeira que permite organizar, visualizar e controlar todas as faturas relacionadas aos atendimentos de um cliente ou grupo específico."
   }

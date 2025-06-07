@@ -2,6 +2,7 @@
   "label": "Painel Clientes e Grupos de Atendimentos",
   "position": 2,
   "link": {
+    "slug": "/clientes-grupos",
     "type": "generated-index",
     "description": "O painel Clientes e Grupos de Atendimentos do eConsult é uma ferramenta essencial para centralizar e facilitar o acesso a informações sobre clientes e grupos de atendimento, contribuindo para uma gestão mais eficiente e otimização do fluxo de trabalho."
   }

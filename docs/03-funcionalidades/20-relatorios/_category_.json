@@ -2,6 +2,7 @@
   "label": "Relatórios",
   "position": 20,
   "link": {
+    "slug": "/relatorios",
     "type": "generated-index",
     "description": "#"
   }

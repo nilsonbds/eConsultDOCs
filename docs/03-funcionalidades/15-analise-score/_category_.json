@@ -2,6 +2,7 @@
   "label": "Análise de Score",
   "position": 15,
   "link": {
+    "slug": "/analise-score",
     "type": "generated-index",
     "description": "#"
   }

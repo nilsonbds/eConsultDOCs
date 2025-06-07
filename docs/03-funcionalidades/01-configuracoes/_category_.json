@@ -2,6 +2,7 @@
   "label": "Painel Configurações",
   "position": 1,
   "link": {
+    "slug": "/configuracoes",
     "type": "generated-index",
     "description": "O Painel de Configurações do eConsult é uma ferramenta central que facilita a gestão do sistema, permitindo personalizações e ajustes conforme as necessidades do negócio."
   }

@@ -2,6 +2,7 @@
   "label": "Campanhas de Cashback",
   "position": 16,
   "link": {
+    "slug": "/campanha-cashback",
     "type": "generated-index",
     "description": "#"
   }

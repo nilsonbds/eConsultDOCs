@@ -2,6 +2,7 @@
   "label": "Sobre o eConsult",
   "position": 0,  
   "link": {
+    "slug": "/sobre-econsult",
     "type": "generated-index",
     "description": "Simplifique sua rotina com o eConsult. Agende, gerencie e atenda seus clientes em uma única plataforma. Perfeita para psicólogos, terapeutas, coaches e profissionais que realizam atendimentos individuais ou em grupo."
   }
