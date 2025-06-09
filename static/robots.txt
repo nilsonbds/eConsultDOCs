@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://documents.econsult.app.br/sitemap.xml
