@@ -76,6 +76,11 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          filename: 'sitemap.xml', // opcional, default já é esse
+        },
       }),
     ],
   ],
@@ -121,7 +126,7 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-    
+
 };
 
 export default config;
