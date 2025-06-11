@@ -148,16 +148,6 @@ Essa configuração permitirá que o eConsult se conecte ao seu Google Drive, fa
 
     Pronto! Sua integração está criada.
 
-    :::note 
-        Para que esta integração funcione, é necessário adicionar créditos ao projeto criado na plataforma OpenAI.
-
-        Para o seu volume de uso (aproximadamente 4 a 6 laudas por dia), recomendamos iniciar com um valor entre R$50 e R$100 por mês. Esse montante cobre confortavelmente o consumo estimado e evita interrupções no serviço por falta de saldo.
-
-        Os créditos podem ser adicionados a qualquer momento, portanto, você pode começar com R$50 e, caso necessário, inserir valores adicionais conforme o uso evoluir.
-
-        Como o serviço funciona através da API da OpenAI, você não precisa pagar uma assinatura mensal. Você apenas adiciona créditos de acordo com o uso que fizer.
-    :::
-
     :::note Manutenção e Monitoramento
 
     - Periodicamente, monitore a integração para garantir que esteja funcionando corretamente e que os tokens de autenticação estejam atualizados.
