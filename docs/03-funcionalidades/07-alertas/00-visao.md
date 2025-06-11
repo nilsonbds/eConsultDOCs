@@ -32,70 +32,42 @@ O eConsult pode exibir, no Painel Alertas, as chamadas "![Painel Alertas](../../
 
 ### Recomendações e exigências possíveis
 
----
-
 <figure style={{ margin: 0, textAlign: "center" }}>
   <img src="/img/prints/alertas/005.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de Clientes</figcaption>
 </figure>
-
----
-
 <figure style={{ margin: 0, textAlign: "center" }}>
   <img src="/img/prints/alertas/006.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de Agendamentos de Atendimentos</figcaption>
 </figure>
-
----
-
 <figure style={{ margin: 0, textAlign: "center" }}>
   <img src="/img/prints/alertas/007.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Exige o cadastramento do seu Endereço Principal</figcaption>
 </figure>
-
----
-
 <figure style={{ margin: 0, textAlign: "center" }}>
   <img src="/img/prints/alertas/008.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Recomenda a inclusão de uma Foto de Perfil</figcaption>
 </figure>
-
----
-
 <figure style={{ margin: 0, textAlign: "center" }}>
   <img src="/img/prints/alertas/009.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão do seu Logotipo</figcaption>
 </figure>
-
----
-
 <figure style={{ margin: 0, textAlign: "center" }}>
   <img src="/img/prints/alertas/010.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Recomenda a configuração dos seus Lembretes</figcaption>
 </figure>
-
----
-
 <figure style={{ margin: 0, textAlign: "center" }}>
   <img src="/img/prints/alertas/011.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Recomenda a inclusão de Grupos por Idade</figcaption>
 </figure>
-
----
-
 <figure style={{ margin: 0, textAlign: "center" }}>
   <img src="/img/prints/alertas/012.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de pelo menos uma Forma de Pagamento</figcaption>
 </figure>
-
----
-
 <figure style={{ margin: 0, textAlign: "center" }}>
   <img src="/img/prints/alertas/013.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de pelo menos um Modelo de Anamnese</figcaption>
 </figure>
-
----
 
 :::note
 

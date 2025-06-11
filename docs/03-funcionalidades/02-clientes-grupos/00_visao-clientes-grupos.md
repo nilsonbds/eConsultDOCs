@@ -14,23 +14,11 @@ Além disso, ao reunir todos os dados em um único ambiente, o painel contribui 
 
 ## *Cards* de clientes e de grupos de atendimento
 
-O painel Clientes e Grupos de Atendimento do eConsult oferece uma visão completa e organizada de todos os clientes e grupos de atendimento cadastrados, incluindo tanto os ativos quanto os inativos. Com uma navegação intuitiva e funcional, as informações são apresentadas em uma estrutura clara, por meio de uma lista de *cards*, que facilita a visualização, o acesso rápido e o gerenciamento eficiente dos dados.
+O painel Clientes e Grupos de Atendimento do eConsult oferece uma visão completa e organizada de todos os clientes e grupos de atendimento cadastrados, incluindo tanto os ativos quanto os inativos. Com uma navegação intuitiva e funcional, as informações são apresentadas em uma estrutura clara, por meio de uma lista de *cards*, que facilita a visualização, o acesso rápido e o gerenciamento eficiente dos dados.![Painel Clientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-002.png)
 
----
+*Exemplo de card de um Cliente*![Painel Clientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-003.png)
 
-![Painel Clientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-002.png)
-
-*Exemplo de card de um Cliente*
-
----
-
-![Painel Clientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-003.png)
-
-*Exemplo de card de um Grupo de Atendimento*
-
----
-
-Cada *card* apresenta informações essenciais de forma concisa, incluindo o "Nome" do cliente ou grupo de atendimeto, "Email", "Grupo etário", "Telefones", "Valor Padrão de Atendimento", "Número de Atendimentos Vinculados", e a "Data do Último Atendimento Agendado". Essa estrutura facilita a consulta rápida e eficiente dos principais dados de cada cliente ou grupo, permitindo que os profissionais acessem as informações necessárias com apenas um olhar.
+*Exemplo de card de um Grupo de Atendimento*Cada *card* apresenta informações essenciais de forma concisa, incluindo o "Nome" do cliente ou grupo de atendimeto, "Email", "Grupo etário", "Telefones", "Valor Padrão de Atendimento", "Número de Atendimentos Vinculados", e a "Data do Último Atendimento Agendado". Essa estrutura facilita a consulta rápida e eficiente dos principais dados de cada cliente ou grupo, permitindo que os profissionais acessem as informações necessárias com apenas um olhar.
 
 Os *cards* também oferecem funcionalidades adicionais que tornam a gestão de clientes e grupos completa. É possível, por exemplo, realizar ações de comunicação direta, como o envio de mensagens por WhatsApp ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_whatsapp.png) ou a realização de ligações telefônicas ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_phone.png), tudo diretamente a partir do painel. Essas funcionalidades garantem uma gestão centralizada e eficiente, permitindo interações rápidas e personalizadas com os clientes e com os grupos de atendimento.
 
