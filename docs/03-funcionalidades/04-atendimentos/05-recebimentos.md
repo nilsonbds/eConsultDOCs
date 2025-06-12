@@ -4,15 +4,11 @@ sidebar_position: 5
 
 # Recebimentos de Valores dos Atendimentos
 
-O eConsult oferece uma funcionalidade robusta para a gestão de recebimentos, permitindo que os profissionais acompanhem e registrem os pagamentos de atendimentos de forma organizada e eficiente. Esse recurso é essencial para manter o controle financeiro tanto de atendimentos já realizados quanto dos agendados.
+O eConsult oferece uma solução completa para a gestão de recebimentos, permitindo que os profissionais acompanhem e registrem pagamentos de forma organizada e eficiente. Essa funcionalidade é essencial para manter o controle financeiro tanto de atendimentos já realizados quanto dos que ainda estão agendados.
 
-## Pagamentos
+Após o agendamento ou a finalização de um atendimento, o sistema permite o registro imediato do recebimento correspondente. O valor total a ser pago é exibido na interface, com a opção de registrar pagamentos parciais ou integrais, conforme a necessidade.
 
-Após o agendamento ou a realização de um atendimento, o eConsult permite registrar os pagamentos correspondentes.
-
-O sistema exibe o valor total a ser pago e oferece a opção de registrar pagamentos parciais ou integrais.
-
-Cada pagamento registrado inclui informações detalhadas, como o "nome do pagador", a "data do pagamento" e a "forma de pagamento" utilizada.
+Cada transação registrada conta com informações detalhadas, como o "nome do pagador", a "data do pagamento" e a "forma de pagamento" utilizada, garantindo transparência e rastreabilidade em todas as movimentações financeiras.
 
 - **Saldo pendente**
 
