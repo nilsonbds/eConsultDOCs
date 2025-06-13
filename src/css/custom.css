@@ -110,9 +110,38 @@ html[data-theme='dark'] h4 {
 }
 
 footer.theme-layout-footer.footer.footer--dark {
-    padding: 10px;
+  padding: 10px;
 }
 
 .footer__copyright {
-    font-size: .7rem;
+  font-size: .7rem;
+}
+
+.hero__atualization {
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+
+h2.title-main {
+  display: flex;
+  margin-top: 40px;
+  color: #005e5e;
+  border-bottom: 1px solid #005e5e;
+  margin-bottom: 40px;
+}
+
+h3.title-links {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #1f3c3d;
+  cursor: pointer;
+}
+
+h3.title-links:hover {
+  color: black;
+}
+
+.title-links svg {
+    font-size: xx-large;
 }
