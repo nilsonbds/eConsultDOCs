@@ -36,9 +36,9 @@ Para utilizar o sistema de gerenciamento de arquivos, é necessário configurar 
 
 1. Acione o botão "Incluir" .
 
-1. O sistema abrirá a tela "Arquivos Anexados ao Atendimento" mostrando o arquivo já anexado ao atendimento.
+1. O sistema abrirá a tela "Arquivos Anexados ao Atendimento" mostrando o arquivo já anexado.
 
-1. Ao esta tela, o sistema atualiza o *card* do atendimento, indicando que há arquivos anexados para o atendimento em questão.
+1. Ao fechar esta tela, o sistema atualiza o *card* do atendimento, indicando que há arquivos anexados para o atendimento em questão.
 
     ![Atendimento](../../../static/img/prints/atendimento/063.png)
 

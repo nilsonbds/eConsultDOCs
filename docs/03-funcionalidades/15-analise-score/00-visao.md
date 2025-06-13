@@ -40,17 +40,17 @@ Para filtrar e exibir apenas clientes de um tipo de classificação, basta clica
 
 Você pode ainda filtrar por nome de cliente, para isso basta preencher o campo correspondente.
 
-## Card de Score
+## *Card* de Score
 
 ![Análise de Score](../../../static/img/prints/analisescore/004.png)
 
-O card de score é composto pelos seguintes elementos:
+O *card* de score é composto pelos seguintes elementos:
 
-- **Nome do cliente:** Mostra o nome do cliente ao qual o card de score referencia.
+- **Nome do cliente:** Mostra o nome do cliente ao qual o *card* de score referencia.
 - **Classificação:** Mostra como o cliente foi classificado.
-- **Seções do card de score:** Sendo GLOBAL, ANO e MÊS.
+- **Seções do *card* de score:** Sendo GLOBAL, ANO e MÊS.
 
-### Seções do Card de Score
+### Seções do *Card* de Score
 
 O Score do Cliente é apresentado por meio de três seções principais, que representam diferentes recortes de tempo:
 

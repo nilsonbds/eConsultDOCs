@@ -20,7 +20,7 @@ Essa configuração permitirá que o eConsult se conecte ao seu Google Drive, fa
 
 - **Opção Arquivos no menu Principal:** Permite a gestão de arquivos dos clientes.
 - **Aba Arquivos no cadastro do Cliente:** Permite a gestão de arquivos do cliente.
-- **Mostra o botão Anexar Arquivos ![Painel Configurações](../../../../static/img/prints/buttons/btn_files.png) nos cards de Atentimento:** Permite fazer uma gestão de arquivos por atendimento.
+- **Mostra o botão Anexar Arquivos ![Painel Configurações](../../../../static/img/prints/buttons/btn_files.png) nos *cards* de Atentimento:** Permite fazer uma gestão de arquivos por atendimento.
 
 :::
 

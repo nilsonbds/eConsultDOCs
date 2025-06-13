@@ -84,6 +84,6 @@ Cada transação registrada conta com informações detalhadas, como o "nome do 
 
 1. Após e exclusão, a tela será atualizada e mantida aberta mostrando que o recebimento foi removido.
 
-1. Feche a tela e você verá o card do atendimento com as informações atualizadas.
+1. Feche a tela e você verá o *card* do atendimento com as informações atualizadas.
 
     ![Atendimento](../../../static/img/prints/atendimento/045.png)

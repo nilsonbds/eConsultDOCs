@@ -61,7 +61,7 @@ Sendo:
 
 ## Filtros da lista de *cards*
 
-A lista de cards no painel Clientes e Grupos do eConsult foi desenvolvida para oferecer uma navegação ágil e eficiente. Para isso, o sistema disponibiliza diversas opções de filtragem, que permitem localizar rapidamente um cliente ou grupo específico. Entre os critérios disponíveis, estão:
+A lista de *cards* no painel Clientes e Grupos do eConsult foi desenvolvida para oferecer uma navegação ágil e eficiente. Para isso, o sistema disponibiliza diversas opções de filtragem, que permitem localizar rapidamente um cliente ou grupo específico. Entre os critérios disponíveis, estão:
 
 - **Filtro por nome:** Digite parte ou o nome completo no campo de busca para encontrar o cliente ou grupo desejado.
 - **Filtro por inatividade:** É possível exibir apenas registros ativos ou inativos, facilitando a gestão de atendimentos e a revisão de cadastros.

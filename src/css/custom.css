@@ -108,3 +108,11 @@ html[data-theme='dark'] h4 {
   border-radius: 8px;
   margin: 1rem 0;
 }
+
+footer.theme-layout-footer.footer.footer--dark {
+    padding: 10px;
+}
+
+.footer__copyright {
+    font-size: .7rem;
+}

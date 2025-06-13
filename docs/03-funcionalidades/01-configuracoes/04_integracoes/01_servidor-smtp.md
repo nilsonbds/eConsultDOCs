@@ -14,7 +14,7 @@ Consulte a documentação do seu provedor de e-mail (como Gmail, Outlook, Yahoo 
 
 :::note Por que configurar meu SMTP no eConsult?
 
-Ao realizar essa configuração, além do botão **WhatsApp** ![Painel Configurações](../../../../static/img/prints/buttons/btn_whatsapp.png), será mostrado o botão **E-mail** ![Painel Configurações](../../../../static/img/prints/buttons/btn_email.png)nos grupos de botões de mensagem em diversos cards do sistema. São os *cards*:
+Ao realizar essa configuração, além do botão **WhatsApp** ![Painel Configurações](../../../../static/img/prints/buttons/btn_whatsapp.png), será mostrado o botão **E-mail** ![Painel Configurações](../../../../static/img/prints/buttons/btn_email.png)nos grupos de botões de mensagem em diversos *cards* do sistema. São os *cards*:
 
 | *Card* | com SMTP configurado | Sem SMTP configurado |
 |---|---|---|

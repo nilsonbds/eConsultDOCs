@@ -137,7 +137,7 @@ Para reativar um cadastro, siga os seguintes passos:
 
 - No painel "Clientes e Grupos" marque a opção de filtro "INATIVADOS" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_inativados.png).
 - O sistema lista todos os clientes "INATIVADOS".
-- Selecione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png) no card do cliente que deseja reativar.
+- Selecione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png) no *card* do cliente que deseja reativar.
 - O sistema abre a tela de cadastro "Cliente".
 - Na aba "Geral", desmarque a opção "Inativar".
 - Clique no botão "Salvar" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_check.png) para aplicar e salvar a alteração.
@@ -160,7 +160,7 @@ O Score pode ser visualizado clicando no botão "Score" ![Painel Clientes e Grup
 
 O *card* de score é composto pelos seguintes elementos:
 
-- **Nome do cliente:** Mostra o nome do cliente ao qual o card de score referencia.
+- **Nome do cliente:** Mostra o nome do cliente ao qual o *card* de score referencia.
 
 - **Classificação:** Mostra como o cliente foi classificado. A classificação pode ser:
 

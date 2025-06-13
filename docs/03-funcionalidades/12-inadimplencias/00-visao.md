@@ -8,7 +8,7 @@ O Painel Inadimplências do eConsult é uma solução estratégica projetada par
 
 ![Painel Inadimplências](../../../static/img/prints/inadimplencias/001.png)
 
-No painel, os clientes e grupos de atendimento são apresentados de maneira visualmente intuitiva por meio de cards interativos, projetados para facilitar a identificação rápida mostrando o nome do cliente e a quantidade de atendimentos com recebimentos pendentes.
+No painel, os clientes e grupos de atendimento são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do cliente e a quantidade de atendimentos com recebimentos pendentes.
 
 Para consultar os atendimentos em atraso, basta clicar no botão ![Painel Inadimplências](../../../static/img/prints/buttons/btn_card-edit.png) localizado no *card* do cliente ou grupo de atendimento. 
 

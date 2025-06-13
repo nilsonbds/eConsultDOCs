@@ -4,11 +4,11 @@ sidebar_position: 0
 
 # Sobre Lembretes
 
-O painel Lembretes no eConsult é uma ferramenta que auxilia na gestão e acompanhamento dos atendimentos. Ele centraliza todos os atendimentos que possuem lembretes vinculados, organizando-os de maneira lógica e intuitiva em cards individuais que são agrupados por tipo de lembrete. Essa estrutura permite uma visualização clara e eficiente, facilitando o acesso às informações mais relevantes de cada atendimento.
+O painel Lembretes no eConsult é uma ferramenta que auxilia na gestão e acompanhamento dos atendimentos. Ele centraliza todos os atendimentos que possuem lembretes vinculados, organizando-os de maneira lógica e intuitiva em *cards* individuais que são agrupados por tipo de lembrete. Essa estrutura permite uma visualização clara e eficiente, facilitando o acesso às informações mais relevantes de cada atendimento.
 
 ## Agrupamento por Lembrete
 
-O agrupamento dos cards por lembretes é uma característica chave que melhora significativamente a organização e o fluxo de trabalho. Ao agrupar atendimentos por lembretes, o painel oferece uma visão concentrada e focada em tarefas específicas ou em séries de atendimentos que compartilham características similares.
+O agrupamento dos *cards* por lembretes é uma característica chave que melhora significativamente a organização e o fluxo de trabalho. Ao agrupar atendimentos por lembretes, o painel oferece uma visão concentrada e focada em tarefas específicas ou em séries de atendimentos que compartilham características similares.
 
 ![Painel Lembretes](../../../static/img/prints/lembretes/001.png)
 
@@ -30,7 +30,7 @@ Os *cards* de atendimento no painel Lembretes oferece uma visão abrangente das 
 
 - **Data e Hora de Início e Fim do Atendimento:** Mostra a data, hora de início e fim do atendimento.
 
-- **Nome do Cliente:** O nome do cliente ao qual o atendimento está relacionado é destacado no card. Isso facilita a identificação rápida e direta de quem será atendido, essencial para o preparo adequado antes de cada atendimento.
+- **Nome do Cliente:** O nome do cliente ao qual o atendimento está relacionado é destacado no *card*. Isso facilita a identificação rápida e direta de quem será atendido, essencial para o preparo adequado antes de cada atendimento.
 
 - **Valor e Valor Pago:**
 
