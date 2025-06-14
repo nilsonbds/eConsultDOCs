@@ -22,6 +22,10 @@
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
 }
 
+.econ-hero {
+  background: #f9f9fb !important;
+}
+
 /* Botões */
 .button--primary {
   border-radius: 8px;
@@ -54,11 +58,13 @@ h1,
 h2,
 h3,
 h4 {
-  color: #222;
+  color: #353535;
 }
 
 .hero__title {
-  color: white;
+  font-size: 2rem;
+  font-weight: lighter;
+  color: rgb(41, 41, 41);
 }
 
 .print {
@@ -117,17 +123,15 @@ footer.theme-layout-footer.footer.footer--dark {
   font-size: .7rem;
 }
 
-.hero__atualization {
-  margin-top: -10px;
-  margin-bottom: 20px;
-}
-
 h2.title-main {
   display: flex;
-  margin-top: 40px;
-  color: #005e5e;
+  margin-top: 0px;
   border-bottom: 1px solid #005e5e;
   margin-bottom: 40px;
+  text-align: center;
+  justify-content: center;
+  font-weight: lighter;
+  color: #005e5e;
 }
 
 h3.title-links {
@@ -143,5 +147,32 @@ h3.title-links:hover {
 }
 
 .title-links svg {
-    font-size: xx-large;
+  font-size: xx-large;
+}
+
+.title-container {
+  font-weight: lighter;
+  text-align: center;
+  margin: 40px 0 0 0;
+  padding: 10px;
+}
+
+.container .row {
+  align-items: stretch;
+  row-gap: 20px;
+}
+
+.econ-box {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 25px 25px 5px 25px;
+  border-radius: 15px;
+  border: 1px solid silver;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+a.navbar__item.navbar__link {
+  font-size: 1.4rem;
+  border-left: 1px solid silver;
 }

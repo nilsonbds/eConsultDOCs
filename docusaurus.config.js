@@ -10,8 +10,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Manual do usuário eConsult',
-  tagline: 'Bem-vindo ao Manual do Usuário do eConsult! Este guia foi criado para facilitar seu dia a dia com a plataforma, oferecendo orientações práticas e diretas para cada funcionalidade. Se você é novo por aqui ou deseja explorar recursos mais avançados, está no lugar certo.',
+  title: 'Olá, como podemos ajudá-lo hoje?',
+  tagline: 'Tudo o que você precisa, do seu jeito, no seu tempo.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

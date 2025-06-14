@@ -154,24 +154,30 @@ const FeatureList = [
 function Feature({ link, title, icon, description }) {
   return (
     <div className={clsx('col col--4')}>
-      <h3 className='title-links'>{icon} {title}</h3>
-      <p>{description}</p>
+      <div className='econ-box'>
+        <h3 className='title-links'>{icon} {title}</h3>
+        <p>{description}</p>
+      </div>
     </div>
   );
 }
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features}>
-      <div className="container">
-
-        <h2 className='title-main'>Acessos rápidos</h2>
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
+    <>
+      <div className="container">        
+        <p className="hero__atualization text--center"><small>Última atualização: 13/06/2025</small></p>
       </div>
-    </section>
+      <section className={styles.features}>
+        <div className="container">
+          <hr className='separator' />
+          <div className="row">
+            {FeatureList.map((props, idx) => (
+              <Feature key={idx} {...props} />
+            ))}
+          </div>
+        </div>
+      </section>
+    </>
   );
 }
