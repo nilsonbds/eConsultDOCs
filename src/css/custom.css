@@ -24,7 +24,7 @@
 
 .econ-hero {
   background: #f9f9fb !important;
-  padding-bottom: 30px !important;
+  padding-top: 110px !important;
 }
 
 /* Botões */
@@ -64,7 +64,7 @@ h4 {
 
 .hero__title {
   font-weight: lighter;
-  color: #1f3c3d;
+  color: darkcyan;
 }
 
 .hero__subtitle {
@@ -186,7 +186,7 @@ h3.title-links {
 }
 
 .theme-layout-navbar-right a.navbar__item.navbar__link {
-  border-right: 1px solid silver;
+  --border-right: 1px solid silver;
 }
 
 .separator {
@@ -246,7 +246,7 @@ h3.title-links {
 }
 
 .econ-logo-box-col {
-  width: 190px;
+  width: 110px;
 }
 
 .econ-text-box {

@@ -186,7 +186,7 @@ export default function HomepageFeatures() {
               </div>
               <div className='econ-box-col'>
                 <div className='econ-footer-container'>
-                  <p className='econ-text-box'>Se não encontrar sua resposta, nossa equipe está pronta para ajudar:</p>
+                  <p className='econ-text-box'>Ainda com dúvidas? Nossa equipe pode ajudar:</p>
                   <p className='econ-title-box'>📞 Suporte Personalizado</p>
                   <p className='econ-text-box'>•&nbsp;&nbsp;atendimento@econsult.app.br</p>
                   <p className='econ-text-box'>•&nbsp;&nbsp;+55 (47) 99915-3002 (WhatsApp)</p><br/>
