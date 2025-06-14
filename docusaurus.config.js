@@ -89,8 +89,8 @@ const config = {
       navbar: {
         title: null,
         logo: {
-          alt: 'Logo eConsult',
-          src: 'img/Logotipo.svg',
+          alt: 'eConsultDOC',
+          src: 'img/LogotipoDOC.png',
         },
         items: [
           {
@@ -107,6 +107,12 @@ const config = {
           },*/
         ],
       },
+      stylesheets: [
+        {
+          href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap',
+          type: 'text/css',
+        },
+      ],
       colorMode: {
         defaultMode: 'light',
         disableSwitch: false,
@@ -115,7 +121,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} eConsult. Todos os direitos reservados.`,
+        copyright: `Copyright © ${new Date().getFullYear()} eConsult – última atualização: 13/06/2025. Todos os direitos reservados.`,
       },
       prism: {
         theme: prismThemes.github,

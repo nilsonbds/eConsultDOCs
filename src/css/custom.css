@@ -1,5 +1,5 @@
 :root {
-  --ifm-font-family-base: 'Inter', sans-serif;
+  --ifm-font-family-base: 'Poppins', 'Inter', sans-serif;
   --ifm-font-size-base: 16px;
 
   /* Cor primária (dark cyan) */
@@ -62,7 +62,6 @@ h4 {
 }
 
 .hero__title {
-  font-size: 2rem;
   font-weight: lighter;
   color: rgb(41, 41, 41);
 }
@@ -135,19 +134,16 @@ h2.title-main {
 }
 
 h3.title-links {
+  font-size: 1.5rem;
   display: flex;
   align-items: center;
   gap: 10px;
   color: #1f3c3d;
-  cursor: pointer;
-}
-
-h3.title-links:hover {
-  color: black;
 }
 
 .title-links svg {
-  font-size: xx-large;
+  font-size: 2.5rem !important;
+  min-width: 45px;
 }
 
 .title-container {
@@ -168,11 +164,57 @@ h3.title-links:hover {
   height: 100%;
   padding: 25px 25px 5px 25px;
   border-radius: 15px;
-  border: 1px solid silver;
+  --border: 1px solid silver;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  color: rgb(66, 66, 66);
+  cursor: pointer;
+}
+
+.econ-box:hover {
+  color: black;
+  border: 1px solid silver;
 }
 
 a.navbar__item.navbar__link {
   font-size: 1.4rem;
   border-left: 1px solid silver;
+}
+
+.separator {
+  background: silver;
+}
+
+.econ-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  justify-content: stretch;
+  align-items: stretch;
+}
+
+.econ-footer-container {
+  margin: 0 auto;
+  max-width: var(--ifm-container-width);
+  padding: 0 var(--ifm-spacing-horizontal);
+}
+
+.econ-box-col {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  padding: 20px;
+  justify-content: center;
+}
+
+.econ-title-box {
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.econ-logo-box-col {
+  width: 190px;
 }
