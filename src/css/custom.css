@@ -24,6 +24,7 @@
 
 .econ-hero {
   background: #f9f9fb !important;
+  padding-bottom: 30px !important;
 }
 
 /* Botões */
@@ -63,7 +64,11 @@ h4 {
 
 .hero__title {
   font-weight: lighter;
-  color: rgb(41, 41, 41);
+  color: #1f3c3d;
+}
+
+.hero__subtitle {
+  color: #1f3c3d;
 }
 
 .print {
@@ -176,9 +181,12 @@ h3.title-links {
   border: 1px solid silver;
 }
 
-a.navbar__item.navbar__link {
-  font-size: 1.4rem;
+.theme-layout-navbar-left a.navbar__item.navbar__link {
   border-left: 1px solid silver;
+}
+
+.theme-layout-navbar-right a.navbar__item.navbar__link {
+  border-right: 1px solid silver;
 }
 
 .separator {
@@ -192,8 +200,9 @@ a.navbar__item.navbar__link {
   align-items: center;
   width: 100%;
   justify-content: stretch;
-  align-items: stretch;
+  align-items: flex-start;
   margin-top: 40px;
+  flex-wrap: wrap;
 }
 
 .econ-footer p {
@@ -204,6 +213,11 @@ a.navbar__item.navbar__link {
   margin: 0 auto;
   max-width: var(--ifm-container-width);
   padding: 0 var(--ifm-spacing-horizontal);
+  width: 100%;
+}
+
+.econ-footer-container a {
+  color: var(--ifm-font-color-base)
 }
 
 .econ-box-col {
@@ -212,14 +226,36 @@ a.navbar__item.navbar__link {
   flex-direction: column;
   padding: 20px;
   justify-content: center;
+  width: 30%;
+}
+
+@media (max-width: 750px) {
+  .econ-box-col {
+    width: 100%;
+  }
+  .econ-box-site {
+    justify-content: left !important;
+    align-items: start !important;
+  }
 }
 
 .econ-title-box {
-  font-size: 1rem;
+  font-size: 1rem !important;
   font-weight: bold;
   margin: 0px;
 }
 
 .econ-logo-box-col {
   width: 190px;
+}
+
+.econ-text-box {
+  margin-bottom: 5px;
+}
+
+.econ-box-site {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }

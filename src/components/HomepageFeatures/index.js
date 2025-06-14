@@ -7,148 +7,148 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     link: '/docs/iniciando/nova-conta',
-    title: 'Criando uma nova conta',
+    title: 'Abra sua conta e ative o eConsult',
     icon: <LuAward />,
     description: (
-      <>Crie sua conta e aprenda a configurar seu perfil inicial para começar a usar o eConsult com segurança e personalização.</>
+      <>Crie sua conta e faça a configuração inicial para começar a utilizar o sistema com segurança e personalização.</>
     ),
   },
   {
     link: '/docs/iniciando/primeiros-passos',
-    title: 'Primeiros passos no eConsult',
+    title: 'Primeiros passos: usando o eConsult',
     icon: <LuUserCheck />,
     description: (
-      <>Aprenda como acessar, navegar, agendar atendimentos e registrar pacientes no seu primeiro contato com o sistema.</>
+      <>Aprenda rapidamente como acessar, navegar, agendar atendimentos e organizar seus pacientes no eConsult.</>
     ),
   },
   {
     link: '/docs/sobre-econsult/faq',
-    title: 'FAQ – perguntas frequentes',
+    title: 'Perguntas frequentes (FAQ)',
     icon: <LuBadgeHelp />,
     description: (
-      <>Consulte respostas rápidas para dúvidas comuns sobre uso, configurações, acessos e funcionamento do eConsult.</>
+      <>Encontre respostas objetivas para dúvidas comuns sobre cadastros, configurações, acessos e suporte ao sistema.</>
     ),
   },
   {
     link: '/docs/funcionalidades/conta/visao-conta',
-    title: 'Minha conta',
+    title: 'Gerenciar sua conta e perfil',
     icon: <LuUserCog />,
     description: (
-      <>Saiba como gerenciar dados pessoais, assinatura digital, foto, logotipo da clínica e cadastro de assistentes.</>
+      <>Acesse e edite dados pessoais, assinatura digital, logotipo, cadastro de assistentes e preferências do seu perfil.</>
     ),
   },
   {
     link: '/docs/funcionalidades/configuracoes/visao-configuracoes',
-    title: 'Configurações',
+    title: 'Ajustes e preferências do sistema',
     icon: <LuBadgeHelp />,
     description: (
-      <>Ajuste o sistema de acordo com sua rotina: defina preferências, recursos e padrões de funcionamento essenciais.</>
+      <>Configure o sistema conforme sua rotina: horários, agenda, lembretes, integrações e fluxos de trabalho.</>
     ),
   },
   {
     link: '/docs/funcionalidades/clientes-grupos/visao-clientes-grupos',
-    title: 'Clientes e grupos de atendimento',
+    title: 'Cadastro de clientes e grupos',
     icon: <LuUsers />,
     description: (
-      <>Veja como organizar e acessar dados de clientes e grupos para melhorar a gestão e o atendimento no dia a dia.</>
+      <>Organize o registro de pacientes e grupos de atendimento para facilitar o acesso e o acompanhamento clínico.</>
     ),
   },
   {
     link: '/docs/funcionalidades/atendimentos/visao',
-    title: 'Agendamentos e atendimentos',
+    title: 'Gerenciar atendimentos e agenda',
     icon: <LuCalendarClock />,
     description: (
-      <>Descubra como criar, remarcar, cancelar atendimentos, registrar dados clínicos e gerenciar pagamentos.</>
+      <>Agende, reagende, registre evoluções clínicas, acompanhe pagamentos e organize sua agenda com eficiência.</>
     ),
   },
   {
     link: '/docs/funcionalidades/resultados/visao',
-    title: 'Resultados, gráficos, indicadores e análises',
+    title: 'Relatórios e indicadores de desempenho',
     icon: <LuChartColumnStacked />,
     description: (
-      <>Visualize indicadores e gráficos por período, tipo de atendimento ou profissional e tome decisões com base em dados.</>
+      <>Acompanhe gráficos e métricas de produção, receita, atendimentos e performance financeira da clínica.</>
     ),
   },
   {
     link: '/docs/funcionalidades/alertas/visao',
-    title: 'Dashboard de alertas',
+    title: 'Painel de alertas e pendências',
     icon: <LuLayoutDashboard />,
     description: (
-      <>Aprenda a usar o painel de alertas para monitorar pendências, ocorrências e agir com rapidez no sistema.</>
+      <>Monitore tarefas, ocorrências e avisos importantes para manter o fluxo de trabalho sempre organizado.</>
     ),
   },
   {
     link: '/docs/funcionalidades/faturas-cliente/visao',
-    title: 'Faturas do cliente',
+    title: 'Controle de faturas dos clientes',
     icon: <LuFileDiff />,
     description: (
-      <>Veja como visualizar, acompanhar e gerenciar faturas de clientes com controle de vencimentos e pagamentos.</>
+      <>Gerencie vencimentos, pagamentos e cobranças de forma prática, com controle detalhado das faturas.</>
     ),
   },
   {
     link: '/docs/funcionalidades/receitas-e-despesas/visao',
-    title: 'Receitas e despesas',
+    title: 'Fluxo de caixa: receitas e despesas',
     icon: <LuCircleDollarSign />,
     description: (
-      <>Registre entradas e saídas, acompanhe o caixa, categorize lançamentos e gere relatórios financeiros detalhados.</>
+      <>Registre entradas e saídas financeiras, acompanhe o caixa e obtenha relatórios detalhados do seu financeiro.</>
     ),
   },
   {
     link: '/docs/funcionalidades/consolidacao-financeira/visao',
-    title: 'Consolidação financeira',
+    title: 'Consolidação financeira completa',
     icon: <LuReceipt />,
     description: (
-      <>Entenda como integrar dados financeiros e obter uma visão consolidada das finanças da sua operação.</>
+      <>Visualize seus resultados consolidados com base em todos os lançamentos financeiros da operação.</>
     ),
   },
   {
     link: '/docs/funcionalidades/inadimplencias/visao',
-    title: 'Inadimplências',
+    title: 'Gestão de inadimplências',
     icon: <LuHandHelping />,
     description: (
-      <>Gerencie atendimentos em atraso com mais eficiência: identifique riscos e planeje ações de cobrança.</>
+      <>Acompanhe atendimentos não pagos, identifique inadimplências e facilite o planejamento de cobrança.</>
     ),
   },
   {
     link: '/docs/funcionalidades/perdas-baixas-contabeis/visao',
-    title: 'Perdas (baixas contábeis)',
+    title: 'Controle de perdas e baixas contábeis',
     icon: <LuHeartCrack />,
     description: (
-      <>Aprenda a controlar atendimentos inadimplentes classificados como perdas e organize suas baixas contábeis.</>
+      <>Registre inadimplências que viraram perdas e mantenha o controle contábil atualizado.</>
     ),
   },
   {
     link: '/docs/funcionalidades/perdas-recuperadas/visao',
-    title: 'Recuperação de perdas',
+    title: 'Recuperação de inadimplências',
     icon: <LuHandshake />,
     description: (
-      <>Monitore valores recuperados de atendimentos considerados como perdas e reforce sua gestão financeira.</>
+      <>Acompanhe valores recuperados após baixas e mantenha o controle da sua recuperação financeira.</>
     ),
   },
   {
     link: '/docs/funcionalidades/analise-score/visao',
-    title: 'Score do cliente',
+    title: 'Análise de score dos clientes',
     icon: <TbDashboard />,
     description: (
-      <>Veja como analisar o comportamento e pontuação dos clientes com base em dados históricos de relacionamento.</>
+      <>Visualize o comportamento dos clientes baseado em dados históricos e acompanhe o nível de engajamento.</>
     ),
   },
   {
     link: '/docs/funcionalidades/campanha-cashback/visao',
-    title: 'Campanhas de cashback',
+    title: 'Campanhas de cashback e fidelização',
     icon: <TbCashRegister />,
     description: (
-      <>Crie campanhas de cashback para engajar clientes, recompensar fidelidade e estimular novos agendamentos.</>
+      <>Crie programas de cashback para estimular retorno de pacientes e aumentar a recorrência de atendimentos.</>
     ),
   },
   {
     link: '/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario',
-    title: 'Prontuário eletrônico',
+    title: 'Prontuário eletrônico integrado',
     icon: <LuBook />,
     description: (
-      <>Aprenda a registrar e acessar informações clínicas de forma estruturada, segura e integrada ao atendimento.</>
+      <>Organize registros clínicos estruturados, seguros e integrados aos atendimentos realizados na plataforma.</>
     ),
-  },
+  }
 ];
 
 function Feature({ link, title, icon, description }) {
@@ -167,9 +167,6 @@ export default function HomepageFeatures() {
     <>
       <section className={styles.features}>
         <div className="container">
-          <div className="container text--center">
-            <h5>Site oficial eConsult | Documentação</h5>
-          </div>
           <div className="row">
             {FeatureList.map((props, idx) => (
               <Feature key={idx} {...props} />
@@ -180,7 +177,7 @@ export default function HomepageFeatures() {
               <div className='econ-box-col'>
                 <div className='econ-footer-container'>
                   <a href="https://econsult.app.br" target="_blank">
-                    <div className='econ-box-col text--center'>
+                    <div className='econ-box-site'>
                       <img src="/img/Logotipo.svg" alt="Logotipo" className='econ-logo-box-col' />
                       <small>Site oficial – econsult.app.br</small>
                     </div>
@@ -189,14 +186,18 @@ export default function HomepageFeatures() {
               </div>
               <div className='econ-box-col'>
                 <div className='econ-footer-container'>
-                  <p className='econ-title-box'>Contato:</p>
-                  <p className='econ-text-box'>+55 (47) 99915-3002 (WhatsApp)</p>
-                  <p className='econ-title-box'>Suporte:</p>
-                  <p className='econ-text-box'>atendimento@econsult.app.br</p>
+                  <p className='econ-text-box'>Se não encontrar sua resposta, nossa equipe está pronta para ajudar:</p>
+                  <p className='econ-title-box'>📞 Suporte Personalizado</p>
+                  <p className='econ-text-box'>•&nbsp;&nbsp;atendimento@econsult.app.br</p>
+                  <p className='econ-text-box'>•&nbsp;&nbsp;+55 (47) 99915-3002 (WhatsApp)</p><br/>
+                  <p className='econ-title-box'>👉 <a href="https://econsult.app.br/plans" target="_blank">Planos e preços</a></p>
+                  <p className='econ-title-box'>👉 <a href="https://econsult.app.br/userregister" target="_blank">Criar uma conta</a></p>
                 </div>
               </div>
               <div className='econ-box-col'>
                 <div className='econ-footer-container'>
+                  <p className='econ-text-box'><a href="/docs/iniciando/primeiros-passos" target="_blank">•&nbsp;&nbsp;Primeiros passos</a></p>
+                  <p className='econ-text-box'><a href="/docs/sobre-econsult/faq" target="_blank">•&nbsp;&nbsp;FAQ - Perguntas frequentes</a></p><br/>
                   <p className='econ-text-box'><a href="/docs/sobre-econsult/privacidade-condicoes-privacidade/termos-condicoes" target="_blank">Termos e Condições</a></p>
                   <p className='econ-text-box'><a href="/docs/sobre-econsult/privacidade-condicoes-privacidade/politica-privacidade" target="_blank">Política de privacidade</a></p>
                 </div>

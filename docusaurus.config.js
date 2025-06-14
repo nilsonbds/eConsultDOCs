@@ -10,8 +10,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Olá, como podemos ajudá-lo hoje?',
-  tagline: 'Tudo o que você precisa, do seu jeito, no seu tempo.',
+  title: 'Bem-vindo à Central de Ajuda eConsult',
+  tagline: 'Aqui você encontra tutoriais, guias e respostas rápidas para usar o eConsult com facilidade',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -90,7 +90,7 @@ const config = {
         title: null,
         logo: {
           alt: 'eConsultDOC',
-          src: 'img/LogotipoDOC.png',
+          src: 'img/LogotipoDOC.svg',
         },
         items: [
           {
@@ -98,6 +98,21 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
+          },
+          {
+            href: 'https://econsult.app.br/userregister',
+            position: 'left',
+            label: 'Criar uma conta',
+          },
+          {
+            href: 'https://econsult.app.br',
+            label: 'Ir para o sistema',
+            position: 'right',
+          },
+          {
+            href: 'https://econsult.app.br/plans',
+            label: 'Planos e preços',
+            position: 'right',
           },
           /*{ to: '/blog', label: 'Blog', position: 'left' },
           {
