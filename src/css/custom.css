@@ -193,6 +193,11 @@ a.navbar__item.navbar__link {
   width: 100%;
   justify-content: stretch;
   align-items: stretch;
+  margin-top: 40px;
+}
+
+.econ-footer p {
+  font-size: .8rem;
 }
 
 .econ-footer-container {

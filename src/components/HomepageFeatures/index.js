@@ -170,19 +170,17 @@ export default function HomepageFeatures() {
           <div className="container text--center">
             <h5>Site oficial eConsult | Documentação</h5>
           </div>
-          <hr className='separator' />
           <div className="row">
             {FeatureList.map((props, idx) => (
               <Feature key={idx} {...props} />
             ))}
           </div>
-          <hr className='separator' />
           <div className="row">
             <div className="econ-footer">
               <div className='econ-box-col'>
                 <div className='econ-footer-container'>
                   <a href="https://econsult.app.br" target="_blank">
-                    <div className='econ-box-col'>
+                    <div className='econ-box-col text--center'>
                       <img src="/img/Logotipo.svg" alt="Logotipo" className='econ-logo-box-col' />
                       <small>Site oficial – econsult.app.br</small>
                     </div>
@@ -199,8 +197,8 @@ export default function HomepageFeatures() {
               </div>
               <div className='econ-box-col'>
                 <div className='econ-footer-container'>
-                  <p className='econ-text-box'>Termos e Condições</p>
-                  <p className='econ-text-box'>Política de privacidade</p>
+                  <p className='econ-text-box'><a href="/docs/sobre-econsult/privacidade-condicoes-privacidade/termos-condicoes" target="_blank">Termos e Condições</a></p>
+                  <p className='econ-text-box'><a href="/docs/sobre-econsult/privacidade-condicoes-privacidade/politica-privacidade" target="_blank">Política de privacidade</a></p>
                 </div>
               </div>
             </div>

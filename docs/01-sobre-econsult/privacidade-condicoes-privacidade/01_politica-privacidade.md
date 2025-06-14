@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Políticas de privacidade
+# Política de privacidade
 
 O eConsult não compartilha seus dados com fornecedores ou terceiros que prestam serviços em nosso nome, como serviços de hospedagem de dados e processamento de pagamentos, a menos que você forneça autorização explícita.
 
