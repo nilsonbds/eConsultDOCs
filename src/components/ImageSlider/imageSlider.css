@@ -1,0 +1,70 @@
+.image-slider {
+    position: relative;
+    max-width: calc(100% - 10px);
+    overflow: hidden;
+    /* permite scroll horizontal */
+}
+
+.image-slider .image-container {
+    display: flex;
+    column-gap: 10px;
+    overflow-y: hidden;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    padding: 5px 10px;
+    width: 85%;
+    margin: auto;
+    max-width: 1290px;
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.image-slider .image-container::-webkit-scrollbar {
+    display: none;
+}
+
+.image-slider .image {
+    flex: 0 0 250px;
+    /* largura fixa de cada slide */
+    scroll-snap-align: start;
+    /* opcional: deixa o snap mais agradável */
+}
+
+.image-slider .image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 1px solid silver;
+}
+
+.actions {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    max-width: 1290px; /* mesmo limite do container */
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: space-between;
+    pointer-events: none;
+    padding: 0 10px;
+}
+
+span.btn {
+    pointer-events: auto;
+    font-size: 1.6rem;
+    background: rgba(0, 0, 0, 0.5);
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s;
+}

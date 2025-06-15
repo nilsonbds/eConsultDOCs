@@ -3,11 +3,11 @@
 
 <svg
    xml:space="preserve"
-   width="69.981239mm"
-   height="14.16657mm"
+   width="75.5mm"
+   height="14.5mm"
    version="1.1"
    style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   viewBox="0 0 4527.0579 916.42922"
+   viewBox="0 0 4884.0643 937.99868"
    id="svg16"
    sodipodi:docname="LogotipoDOC.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
@@ -31,7 +31,7 @@
    showgrid="false"
    inkscape:zoom="1.9985453"
    inkscape:cx="186.63575"
-   inkscape:cy="13.259645"
+   inkscape:cy="13.259644"
    inkscape:window-width="1920"
    inkscape:window-height="1017"
    inkscape:window-x="-8"
@@ -223,9 +223,9 @@
   
  <g
    id="g1"
-   transform="translate(-517.89079,3.8650679e-5)"><g
+   transform="translate(2.4320942,2.2206395)"><g
      id="g34"
-     transform="translate(-167.49795,-154.38827)"
+     transform="translate(-676.82462,-145.82411)"
      inkscape:export-filename="Logotipo.svg"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96"><g
@@ -339,22 +339,14 @@
            style="clip-rule:evenodd;fill:url(#linearGradient32);fill-opacity:1;fill-rule:evenodd;stroke-width:0.170364;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /></g></g></g><text
      xml:space="preserve"
      style="font-size:661.338px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:55.1116"
-     x="1835.4067"
-     y="2268.8743"
+     x="1326.0801"
+     y="2277.4385"
      id="text17"><tspan
        sodipodi:role="line"
        id="tspan17"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif';fill:#333333;stroke-width:55.1116"
-       x="1835.4067"
-       y="2268.8743">eConsult</tspan></text><text
-     xml:space="preserve"
-     style="font-size:556.702px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;clip-rule:evenodd;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke-width:46.392;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-     x="4470.3823"
-     y="2271.303"
-     id="text17-9"><tspan
-       sodipodi:role="line"
-       id="tspan17-4"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#918a6f;stroke-width:46.392"
-       x="4470.3823"
-       y="2271.303">DOC</tspan></text></g></g>
+       x="1326.0801"
+       y="2277.4385">eConsult<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:753.094px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#008080"
+   id="tspan1">DOC</tspan></tspan></text></g></g>
 </svg>
