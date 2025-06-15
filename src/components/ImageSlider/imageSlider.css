@@ -13,7 +13,6 @@
     scroll-snap-type: x mandatory;
     -webkit-overflow-scrolling: touch;
     padding: 5px 10px;
-    width: 85%;
     margin: auto;
     max-width: 1290px;
     -ms-overflow-style: none;
@@ -24,6 +23,15 @@
 
 .image-slider .image-container::-webkit-scrollbar {
     display: none;
+}
+
+.image-slider .image-content {
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 40px;
+    transition: background-image 0.5s ease-in-out;
 }
 
 .image-slider .image {
@@ -89,6 +97,19 @@ span.btn {
     transition: background 0.3s;
 }
 
+div.btn-set {
+    pointer-events: auto;
+    font-size: 3rem;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    cursor: pointer;
+    z-index: 1;
+}
+
 .image-zoom {
     padding: 10px;
     position: fixed;
@@ -96,9 +117,11 @@ span.btn {
     bottom: 0px;
     left: 0;
     right: 0px;
-    background: gray;
+    background: rgba(0, 0, 0, 0.6);
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     z-index: 1;
 }
 
@@ -109,21 +132,45 @@ span.btn {
     margin-bottom: 10px;
 }
 
+.image-content img {
+    margin: 0 !important;
+    z-index: 1;
+    height: 100%;
+}
+
 span.display-title {
-    position: absolute;
-    background: black;
+    position: relative;
+    background: darkcyan;
     padding: 5px 12px 5px 20px;
     border-radius: 20px;
     color: white;
-    opacity: .6;
     font-weight: bold;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 5px;
+    z-index: 1;
 }
 
 .display-title svg {
     font-size: 1.2rem;
     cursor: pointer;
+}
+
+.event-close {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+img.in {
+  transition: opacity 0.5s ease;
+  opacity: 1;
+}
+
+img.out {
+  opacity: 0;
 }

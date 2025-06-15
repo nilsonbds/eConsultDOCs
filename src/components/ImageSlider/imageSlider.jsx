@@ -4,6 +4,7 @@ import "./imageSlider.css";
 
 function ImageSlider() {
     const [image, setImage] = useState(null);
+    const [fade, setFade] = useState(false);
 
     const images = [
         { index: 0, src: "/img/prints/slider/000.png", alt: "Painel inicial" },
@@ -39,7 +40,7 @@ function ImageSlider() {
             content.scrollBy({ left: offset, behavior: 'smooth' });
         }
     };
-    
+
     return <div className="image-slider">
         <div className="image-container">
             {
@@ -56,8 +57,33 @@ function ImageSlider() {
         {
             image && (
                 <div className="image-zoom">
-                    <span className="display-title">{image.alt}&nbsp;&nbsp;<LuX onClick={() => { setImage(null) }} /></span>
-                    <img src={image.src} alt={image.alt} />
+                    <span className="display-title">{image.alt}<LuX onClick={() => { setImage(null) }} /></span>
+                    <div className="image-content">
+                        <div className="event-close" onClick={() => setImage(null)} />
+                        <div className="btn-set next" onClick={() => {
+                            let i = image.index - 1;
+                            if (i < 0) {
+                                i = images.length - 1;
+                            };
+                            setFade(true);
+                            setTimeout(() => {
+                                setImage(images[i]);
+                                setFade(false);
+                            }, 200);
+                        }}><LuChevronLeft /></div>
+                        <img src={image.src} alt={image.alt} className={!fade ? 'in' : 'out'} />
+                        <div className="btn-set prev" onClick={() => {
+                            let i = image.index + 1;
+                            if (i == images.length) {
+                                i = 0;
+                            };
+                            setFade(true);
+                            setTimeout(() => {
+                                setImage(images[i]);
+                                setFade(false);
+                            }, 200);
+                        }}><LuChevronRight /></div>
+                    </div>
                 </div>
 
             )
