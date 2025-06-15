@@ -28,31 +28,41 @@ Descubra mais possibilidades com os recursos avançados disponíveis a seguir:**
 
 Quando você inclui um novo atendimento o sistema sugere um valor padrão para os atendimentos do cliente.
 
-👉 [Configurar Valor Padrão de Atendimentos](#)**Integrar seu SMTP para envio de e-mails:**  
+- 👉 [Configurar Valor Padrão de Atendimentos](#) 
+
+### **Integrar seu SMTP para envio de e-mails:**  
 
 Configure o seu SMTP, de forma facilitada para envio de e-mails.  
 
 Isso permite que você envie e-mails para clientes utilizando seu servidor de e-mails.
 
-👉 [Configurar seu SMTP](#)**Integrar com o Google Drive:**  
+- 👉 [Configurar seu SMTP](#)
+
+### **Integrar com o Google Drive:**  
 
 Conecte sua conta do Google Drive ao eConsult para armazenar e receber arquivos diretamente pela plataforma.  
 
 A integração é simples, rápida e não exige conhecimentos técnicos.
 
-👉 [Configurar a integração com o Google Drive](#)**Integrar o seu ChatGPT:**  
+- 👉 [Configurar a integração com o Google Drive](#)
+
+### **Integrar o seu ChatGPT:**  
 
 Configure o seu ChatGPT para utilizar recursos de IA.  
 
 Não requer conhecimentos avançados e você poderá contar com recursos de IA (Inteligência Artificial).
 
-👉 [Configurar seu ChatGPT](#)**Ativar o PIX como forma de pagamento:**  
+- 👉 [Configurar seu ChatGPT](#)
+
+### **Ativar o PIX como forma de pagamento:**  
 
 Configure o PIX como uma das formas de pagamento para seus clientes.  
 
 Isso permite gerar QR Codes ou links de pagamento usando sua chave PIX.
 
-👉 [Configurar seu PIX](#)**Integrar com o Mercado Pago:**  
+- 👉 [Configurar seu PIX](#)
+
+### **Integrar com o Mercado Pago:**  
 
 Conecte sua conta do Mercado Pago ao eConsult de forma fácil e prática.  
 
