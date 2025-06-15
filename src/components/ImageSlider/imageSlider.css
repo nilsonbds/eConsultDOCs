@@ -27,10 +27,29 @@
 }
 
 .image-slider .image {
+    position: relative;
     flex: 0 0 250px;
     /* largura fixa de cada slide */
     scroll-snap-align: start;
     /* opcional: deixa o snap mais agradável */
+}
+
+.zoom {
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.zoom svg {
+    font-size: 2rem;
+    padding: 7px;
+    color: white;
+    background: black;
+    opacity: .7;
+    border-radius: 50%;
+    cursor: pointer;
 }
 
 .image-slider .image img {
@@ -46,7 +65,8 @@
     top: 50%;
     left: 50%;
     width: 100%;
-    max-width: 1290px; /* mesmo limite do container */
+    max-width: 1290px;
+    /* mesmo limite do container */
     transform: translate(-50%, -50%);
     display: flex;
     justify-content: space-between;
@@ -67,4 +87,43 @@ span.btn {
     color: white;
     cursor: pointer;
     transition: background 0.3s;
+}
+
+.image-zoom {
+    padding: 10px;
+    position: fixed;
+    top: 60px;
+    bottom: 0px;
+    left: 0;
+    right: 0px;
+    background: gray;
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+}
+
+.image-zoom img {
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.8);
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+span.display-title {
+    position: absolute;
+    background: black;
+    padding: 5px 12px 5px 20px;
+    border-radius: 20px;
+    color: white;
+    opacity: .6;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.display-title svg {
+    font-size: 1.2rem;
+    cursor: pointer;
 }
