@@ -12,7 +12,7 @@ Seus dados estão **protegidos**. O cadastro rápido e **leva menos de 2 minutos
 
 ## Aqui está o passo a passo para criar uma conta
 
-1. Acesse o link [*crie sua conta*](https://econsult.app.br/userregister).
+1. Acesse o link [*https://econsult.app.br/userregister*](https://econsult.app.br/userregister).
 
     ![Tela: Criação de nova conta](../../static/img/prints/00_nova-conta-002.png)
 
