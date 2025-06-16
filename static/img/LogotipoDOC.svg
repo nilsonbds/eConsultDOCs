@@ -3,11 +3,11 @@
 
 <svg
    xml:space="preserve"
-   width="75.5mm"
-   height="14.5mm"
+   width="58mm"
+   height="15.5mm"
    version="1.1"
    style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   viewBox="0 0 4884.0643 937.99868"
+   viewBox="0 0 3751.9965 1002.6882"
    id="svg16"
    sodipodi:docname="LogotipoDOC.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
@@ -223,9 +223,9 @@
   
  <g
    id="g1"
-   transform="translate(2.4320942,2.2206395)"><g
+   transform="translate(13.96207,32.344796)"><g
      id="g34"
-     transform="translate(-676.82462,-145.82411)"
+     transform="translate(-674.39253,-143.60347)"
      inkscape:export-filename="Logotipo.svg"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96"><g
@@ -338,15 +338,15 @@
            id="path15-3"
            style="clip-rule:evenodd;fill:url(#linearGradient32);fill-opacity:1;fill-rule:evenodd;stroke-width:0.170364;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /></g></g></g><text
      xml:space="preserve"
-     style="font-size:661.338px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:55.1116"
-     x="1326.0801"
-     y="2277.4385"
+     style="font-size:477.429px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:39.7858"
+     x="1275.0289"
+     y="2214.7141"
      id="text17"><tspan
        sodipodi:role="line"
        id="tspan17"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif';fill:#333333;stroke-width:55.1116"
-       x="1326.0801"
-       y="2277.4385">eConsult<tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:753.094px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#008080"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif';fill:#333333;stroke-width:39.7858"
+       x="1275.0289"
+       y="2214.7141">eConsult<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:543.669px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#008080;stroke-width:39.7858"
    id="tspan1">DOC</tspan></tspan></text></g></g>
 </svg>
