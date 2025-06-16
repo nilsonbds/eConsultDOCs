@@ -53,11 +53,13 @@
 .zoom svg {
     font-size: 2rem;
     padding: 7px;
-    color: white;
-    background: black;
-    opacity: .7;
+    color: black;
+    background: white;
     border-radius: 50%;
     cursor: pointer;
+    border: 1px solid gray;
+    opacity: .8;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .image-slider .image img {

@@ -88,21 +88,45 @@ O cadastro foi pensado para reunir, em um único lugar, todas as informações e
 
 Com essas abas, o eConsult transforma o cadastro em um hub centralizado de informações, unindo operacional, administrativo e financeiro em um fluxo coeso — do primeiro contato até a análise de resultados.
 
-## Incluir novo cliente ou grupo de atendimento
+## Incluir novo cliente
 
 1. No painel "Clientes e Grupos" acione o botão "Incluir Cliente ou Grupo" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_add.png).
 
-2. O sistema abre a tela cadatro "Cliente" com a aba "Geral" aberta.
+1. O sistema abre a tela de cadatro "Cliente" com a aba "Geral" aberta.
 
-3. Acione a opção "Grupo de Atendimento" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_grupo-de-atendimento.png).
+1. Escolha a opção "Masculino" ou "Feminino", preencha os campos "Nome Completo", "Data de Nascimento" (no caso de grupos você pode utilizar este campo - não obrigatório - para segmentar o grupo por faixa etária), "Email", "Telefone", "Celular", "CPF" e "Valor" (com o valor dos atendimentos).
 
-4. Escolha a opção "Masculino" ou "Feminino", preencha os campos "Nome Completo", "Data de Nascimento" (no caso de grupos você pode utilizar este campo - não obrigatório - para segmentar o grupo por faixa etária), "Email", "Telefone", "Celular", "CPF" e "Valor" (com o valor dos atendimentos).
-
-5. Acione o botão "Incluir" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_add.png) para salvar as informações.
+1. Acione o botão "Incluir" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_add.png) para salvar as informações.
 
     :::note
         Nesta aba, apenas os campos "Nome Completo" e "Sexo" (Masculino ou Feminino) são de preenchimento obrigatório, pois são essenciais para o registro básico do cliente. Os demais campos, como informações de contato e outros dados pessoais, são opcionais e podem ser preenchidos conforme a relevância para o objetivo do cadastro ou para a coleta de informações complementares. Essa abordagem oferece maior flexibilidade, permitindo que você registre apenas os dados que considerar necessários no momento.
     :::
+
+## Incluir novo grupo de atendimento
+
+No eConsult, você pode cadastrar e realizar atendimentos a grupos, como casais, famílias ou grupos terapêuticos.
+
+Antes de criar o grupo, cadastre cada participante individualmente como cliente no sistema.
+
+Com todos os membros cadastrados, siga o passo a passo abaixo para criar o grupo e vincular os clientes que fazem parte dele. Assim, o acompanhamento e o registro dos atendimentos em grupo ficam organizados em um único lugar.
+
+1. No painel "Clientes e Grupos" acione o botão "Incluir Cliente ou Grupo" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_add.png).
+
+1. O sistema abre a tela de cadatro "Cliente" com a aba "Geral" aberta.
+
+1. Acione a opção "Grupo de Atendimento" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_grupo-de-atendimento.png).
+
+1. Escolha a opção "Masculino" ou "Feminino", preencha os campos "Nome Completo", "Data de Nascimento" (no caso de grupos você pode utilizar este campo - não obrigatório - para segmentar o grupo por faixa etária), "Email", "Telefone", "Celular", "CPF" e "Valor" (com o valor dos atendimentos).
+
+1. Acione o botão "Incluir" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_add.png) para salvar as informações.
+
+1. O sistema habilitará a aba "Grupo".
+
+1. Na aba "Grupo", localize o campo "Cliente" e selecione o membro que deseja adicionar ao grupo.
+
+1. Clique no botão "![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_add_grupo.png)" para incluir o cliente selecionado.
+
+1. O sistema exibirá a lista de *cards* atualizada, na aba "Grupo", incluindo o novo membro vinculado.
 
 ## Alterar cliente ou grupo de atendimento
 

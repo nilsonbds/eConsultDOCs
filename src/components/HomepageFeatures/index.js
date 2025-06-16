@@ -1,6 +1,6 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
-import { LuAward, LuUserCheck, LuBadgeHelp, LuUserCog, LuUsers, LuCalendarClock, LuChartColumnStacked, LuLayoutDashboard, LuFileDiff, LuCircleDollarSign, LuReceipt, LuHandHelping, LuHeartCrack, LuHandshake, LuBook } from "react-icons/lu";
+import { LuAward, LuUserCheck, LuBadgeHelp, LuUser, LuUsers, LuCalendarClock, LuChartColumnStacked, LuLayoutDashboard, LuFileDiff, LuCircleDollarSign, LuReceipt, LuHandHelping, LuHeartCrack, LuHandshake, LuBook } from "react-icons/lu";
 import { TbDashboard, TbCashRegister } from "react-icons/tb";
 import styles from './styles.module.css';
 
@@ -30,14 +30,6 @@ const FeatureList = [
     ),
   },
   {
-    link: '/docs/funcionalidades/conta/visao-conta',
-    title: 'Gerenciar sua conta e perfil',
-    icon: <LuUserCog />,
-    description: (
-      <>Acesse e edite dados pessoais, assinatura digital, logotipo, cadastro de assistentes e preferências do seu perfil.</>
-    ),
-  },
-  {
     link: '/docs/funcionalidades/configuracoes/visao-configuracoes',
     title: 'Ajustes e preferências do sistema',
     icon: <LuBadgeHelp />,
@@ -47,10 +39,18 @@ const FeatureList = [
   },
   {
     link: '/docs/funcionalidades/clientes-grupos/visao-clientes-grupos',
-    title: 'Cadastro de clientes e grupos',
+    title: 'Cadastro de clientes',
+    icon: <LuUser />,
+    description: (
+      <>Organize o cadastro de pacientes para acesso rápido às informações e acompanhamento eficiente da evolução clínica.</>
+    ),
+  },
+  {
+    link: '/docs/funcionalidades/clientes-grupos/cadastro/cadastro#incluir-novo-grupo-de-atendimento',
+    title: 'Cadastro de Grupos de Atendimento',
     icon: <LuUsers />,
     description: (
-      <>Organize o registro de pacientes e grupos de atendimento para facilitar o acesso e o acompanhamento clínico.</>
+      <>Cadastre e atenda casais, famílias ou grupos terapêuticos, e gerencie as informações de forma integrada e organizada.</>
     ),
   },
   {
