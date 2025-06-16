@@ -234,6 +234,7 @@ h3.title-links {
   .econ-box-col {
     width: 100%;
   }
+
   .econ-box-site {
     justify-content: left !important;
     align-items: start !important;
@@ -259,4 +260,10 @@ h3.title-links {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+@media (max-width: 996px) {
+  .navbar__search-input {
+    width: 13rem;
+  }
 }
