@@ -11,7 +11,7 @@ O painel Recibos oferece uma visão completa de todos os recibos emitidos pelo s
 ## Imprimir recibo
 
 :::warning
-    O Painel de Recibos requer que você tenha um logotipo cadastrado para a impressão. Para cadastrar seu logotipo, siga estas etapas descritas [aqui](#).
+    O Painel de Recibos requer que você tenha um logotipo cadastrado para a impressão. Para cadastrar seu logotipo, siga as etapas descritas [aqui](/docs/funcionalidades/conta/logotipo).
 :::
 
 1. Acione a opção ![Recibo](../../../static/img/prints/buttons/btn_print.png) do recibo que deseja imprimir.

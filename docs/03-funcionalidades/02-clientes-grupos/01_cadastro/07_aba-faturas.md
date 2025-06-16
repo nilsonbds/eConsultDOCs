@@ -49,7 +49,7 @@ Na sub-aba "Pendentes", você dispõe de duas funções essenciais para o gerenc
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-022.png)
 
     :::warning 
-    Se na quitação o sistema não listar nenhuma forma de pagamento, significa que não existem formas de pagamento cadastradas. Utilize a tela de [cadastro de formas de pagamento](#) para corrigir isso.
+    Se na quitação o sistema não listar nenhuma forma de pagamento, significa que não existem formas de pagamento cadastradas. Utilize a tela de [cadastro de formas de pagamento](/docs/funcionalidades/configuracoes/financas/formas-pagmento) para corrigir isso.
     :::
 
 Na sub-aba Recebidas, você conta com duas funções essenciais para o gerenciamento das faturas já quitadas:

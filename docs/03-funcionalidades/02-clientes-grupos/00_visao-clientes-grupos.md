@@ -35,7 +35,7 @@ Além disso, nos *cards*, está disponível a opção "Enviar link para a Área 
 O cliente ou grupo poderá acessar diversas informações relevantes, previamente definidas por você no cadastro individual. Essa abordagem facilita a comunicação, aumenta a transparência e oferece mais autonomia para o cliente ou grupo, ao mesmo tempo em que preserva seu controle sobre os acessos.
 
 :::note
-    Mais informações sobre a Área do Cliente, [clique aqui](#).
+    Mais informações sobre a Área do Cliente, [clique aqui](/docs/funcionalidades/area-cliente/visao-area-cliente).
 :::
 
 ## Informações e botões que podem constar nos *cards* de Clientes e Grupos de Atendimento

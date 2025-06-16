@@ -31,7 +31,7 @@ Os demais campos (informações de contato ou o responsável pelo grupo) são op
 - **Campo CPF:** Permite indicar o CPF do cliente ou CPF do responsável pelo grupo de atendimento (opcional).
 - **Valor dos atendimentos no vencimento:** Permite indicar o valor padrão dos atendimentos no vencimento para o cliente ou grupo de atendimento. 
     :::note
-        O sistema sugere o valor indicado na configuração **[Padrões para Atendimentos](#)**.
+        O sistema sugere o valor indicado na configuração **[Padrões para Atendimentos](/docs/funcionalidades/configuracoes/financas/padroes-atendimentos)**.
     :::
 - **Dia de vencimento para atendimentos:** Permite indicar o dia de vencimento para pagamentos dos atendimentos deste cliente ou grupo.
     :::note O sistema permite indicar:

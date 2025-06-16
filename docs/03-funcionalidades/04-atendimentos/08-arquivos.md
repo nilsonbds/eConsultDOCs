@@ -9,7 +9,7 @@ O eConsult oferece um sistema de gerenciamento de arquivos integrado ao seu Goog
 Essa integração não só simplifica o acesso aos arquivos, mas também melhora a organização, permitindo que você categorize e armazene seus documentos de forma estruturada e lógica, conforme suas necessidades. Com tudo centralizado no Google Drive, você garante que seus arquivos estejam protegidos e sincronizados em tempo real, com backups automáticos que evitam a perda de informações.
 
 :::warning
-Para utilizar o sistema de gerenciamento de arquivos, é necessário configurar a integração com o seu Google Drive. Você pode fazer isso acessando o [Painel Configurações => Google Drive](#).
+Para utilizar o sistema de gerenciamento de arquivos, é necessário configurar a integração com o seu Google Drive. Você pode fazer isso acessando o [Painel Configurações => Google Drive](/docs/funcionalidades/configuracoes/visao-configuracoes).
 :::
 
 ## Incluir arquivo para um atendimento

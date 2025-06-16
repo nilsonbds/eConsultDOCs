@@ -12,7 +12,7 @@ Além de oferecer mais agilidade nas operações, a funcionalidade permite gerar
 
 Com a integração PIX, você melhora a gestão financeira, reduz a inadimplência e proporciona uma experiência de pagamento mais prática e moderna para seus clientes.
 
-A página de configuração do PIX pode ser acessada através do [Painel Configurações](#) opção **PIX**.
+A página de configuração do PIX pode ser acessada através do [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) opção **PIX**.
 
 Uma vez acionada a opção **PIX** o sistema abrirá a seguinte tela:
 

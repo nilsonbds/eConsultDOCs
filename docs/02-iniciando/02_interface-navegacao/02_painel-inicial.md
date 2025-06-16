@@ -25,20 +25,21 @@ Além dos alertas e informações, o Painel Inicial oferece ainda atalhos rápid
 
 |Atalho|Destino|
 |--------------|-------------|
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-003.png) | Abre o [Painel Clientes e Grupos](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-004.png) | Abre o [Painel Atendimentos](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-005.png) | Abre o [Painel Lembretes](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-006.png) | Abre o [Painel Resultados](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-007.png) | Abre o [Painel Alertas](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-008.png) | Abre o [Painel Configurações](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-009.png) | Abre o [Painel Faturas do Cliente](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-010.png) | Abre o [Painel Atendimentos do Mês](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-011.png) | Abre o [Painel Receitas e Despesas](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-012.png) | Abre o [Painel Consolidação Financeira](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-013.png) | Abre o [Painel Inadimplências](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-014.png) | Abre o [Painel Perdas (baixas contábeis)](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-015.png) | Abre o [Painel Perdas Recuperadas](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-016.png) | Abre o [Painel Recibos](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-017.png) | Abre o [Painel Modelos de Anamnese](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-018.png) | Abre o [Painel Arquivos](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-020.png) | Abre o [Painel Relatórios](#) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-003.png) | Abre o [Painel Clientes e Grupos](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-004.png) | Abre o [Painel Atendimentos](/docs/funcionalidades/atendimentos/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-005.png) | Abre o [Painel Lembretes](/docs/funcionalidades/lembretes/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-006.png) | Abre o [Painel Resultados](/docs/funcionalidades/resultados/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-007.png) | Abre o [Painel Alertas](/docs/funcionalidades/alertas/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-008.png) | Abre o [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-009.png) | Abre o [Painel Faturas do Cliente](/docs/funcionalidades/faturas-cliente/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-010.png) | Abre o [Painel Atendimentos do Mês](/docs/funcionalidades/atendimentos-do-mes/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-011.png) | Abre o [Painel Receitas e Despesas](/docs/funcionalidades/receitas-e-despesas/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-012.png) | Abre o [Painel Consolidação Financeira](/docs/funcionalidades/consolidacao-financeira/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-013.png) | Abre o [Painel Inadimplências](/docs/funcionalidades/inadimplencias/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-014.png) | Abre o [Painel Perdas (baixas contábeis)](/docs/funcionalidades/perdas-baixas-contabeis/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-015.png) | Abre o [Painel Perdas Recuperadas](/docs/funcionalidades/perdas-recuperadas/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-021.png) | Abre o [Análise de Score](/docs/funcionalidades/analise-score/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-016.png) | Abre o [Painel Recibos](/docs/funcionalidades/recibos/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-017.png) | Abre o [Painel Modelos de Anamnese](/docs/funcionalidades/modelo-anamnese/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-018.png) | Abre o [Painel Arquivos](/docs/funcionalidades/arquivos/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-020.png) | Abre o [Painel Relatórios](/docs/funcionalidades/relatorios/visao) |

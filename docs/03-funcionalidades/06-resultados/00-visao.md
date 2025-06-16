@@ -15,7 +15,7 @@ O painel está dividido em três abas principais: "Gráficos", "Indicadores" e "
 Apresenta informações em formato visual, com gráficos que abrangem os últimos dois meses, o mês atual e o próximo mês. Essa visão temporal facilita o acompanhamento de variações e tendências recentes, contribuindo para análises ágeis e comparativas.
 
 :::tip 
-**[Mais sobre gráficos clique aqui](#).**
+**[Mais sobre gráficos clique aqui](/docs/funcionalidades/resultados/graficos/visao).**
 :::
 
 ## Aba Indicadores
@@ -23,7 +23,7 @@ Apresenta informações em formato visual, com gráficos que abrangem os último
 Exibe os principais indicadores referentes ao mês selecionado por meio do seletor. Essa aba permite uma análise mais aprofundada e contextualizada dos dados, oferecendo insights relevantes que apoiam a tomada de decisões no dia a dia.
 
 :::tip 
-**[Mais sobre indicadores clique aqui](#).**
+**[Mais sobre indicadores clique aqui](/docs/funcionalidades/resultados/indicadores/visao).**
 :::
 
 ## Aba Análise Anual
@@ -31,7 +31,7 @@ Exibe os principais indicadores referentes ao mês selecionado por meio do selet
 Disponível para usuários com integração ao ChatGPT, essa aba permite uma análise retrospectiva baseada em dados mensais dos anos anteriores. Ela fornece contexto histórico e insights mais amplos, fundamentais para avaliações estratégicas de longo prazo e planejamento futuro.
 
 :::tip 
-**[Mais sobre análise anual clique aqui](#).**
+**[Mais sobre análise anual clique aqui](/docs/funcionalidades/resultados/analise-anual/visao).**
 :::
 
 Com essas três abas integradas, o Painel Resultados se torna uma ferramenta robusta para o acompanhamento contínuo do desempenho da organização dentro da eConsult.

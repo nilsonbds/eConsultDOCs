@@ -11,7 +11,7 @@ Além de aumentar a agilidade nas operações, a funcionalidade permite a geraç
 
 Com a integração ao Mercado Pago, você oferece mais flexibilidade aos seus clientes, reduz a inadimplência e proporciona uma experiência de pagamento moderna e confiável.
 
-A página de configuração Mercado Pago pode ser acessada através do [Painel Configurações](#) opção **Mercado Pago**.
+A página de configuração Mercado Pago pode ser acessada através do [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) opção **Mercado Pago**.
 
 Uma vez acionada a opção **Mercado Pago** o sistema abrirá a seguinte tela:
 

@@ -31,8 +31,8 @@ Além dos ícones informativos, os *cards* também disponibilizam os seguintes b
 
 |Botão|Ação|
 |-|-|
-|![Atendimentos](../../../static/img/prints/buttons/btn-anotacoes.png)|**Anotações:** Mostra a quantidade de anotações e permite abrir a [tela de gestão de anotações do atendimento](#).|
-|![Atendimentos](../../../static/img/prints/buttons/btn-anexos.png)|**Arquivos:** Mostra a quantidade de arquivos vinculados e permite abrir a [tela de gestão de arquivos do atendimento](#).|
-|![Atendimentos](../../../static/img/prints/buttons/btn-lembretes.png)|**Lembretes:** Mostra as cores dos lembretes vinculados ao atendimento e permite fazer a gestão destes [lembretes](#).|
-|![Atendimentos](../../../static/img/prints/buttons/btn-presenca.png)|**Informe de Presença (somente para grupos de atendimento):** Mostra a quantidade de membros vinculados ao grupo de atendimento e permite o [registro de ausências e presenças](#).​|
-|![Atendimentos](../../../static/img/prints/buttons/btn_card-edit.png)|**Alteração:** Permite abrir a [tela de alteração de informações do atendimento e, inclusive, recebimentos](#).|
+|![Atendimentos](../../../static/img/prints/buttons/btn-anotacoes.png)|**Anotações:** Mostra a quantidade de anotações e permite abrir a [tela de gestão de anotações do atendimento](/docs/funcionalidades/atendimentos/anotacoes).|
+|![Atendimentos](../../../static/img/prints/buttons/btn-anexos.png)|**Arquivos:** Mostra a quantidade de arquivos vinculados e permite abrir a [tela de gestão de arquivos do atendimento](/docs/funcionalidades/atendimentos/arquivos).|
+|![Atendimentos](../../../static/img/prints/buttons/btn-lembretes.png)|**Lembretes:** Mostra as cores dos lembretes vinculados ao atendimento e permite fazer a gestão destes [lembretes](/docs/funcionalidades/atendimentos/lembretes).|
+|![Atendimentos](../../../static/img/prints/buttons/btn-presenca.png)|**Informe de Presença (somente para grupos de atendimento):** Mostra a quantidade de membros vinculados ao grupo de atendimento e permite o [registro de ausências e presenças](/docs/funcionalidades/atendimentos/presenca-pagamentos).​|
+|![Atendimentos](../../../static/img/prints/buttons/btn_card-edit.png)|**Alteração:** Permite abrir a tela de alteração de informações do atendimento e, inclusive, recebimentos.|

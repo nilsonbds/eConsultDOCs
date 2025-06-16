@@ -6,13 +6,13 @@ sidebar_position: 2
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-adicionais.png)
 
-O eConsult permite criar um formulário padrão de campos adicionais para o cadastro de novos clientes ou grupos de atendimento, por meio da opção **[Configuração / Campos Adicionais](#)**. Esse formulário padrão serve como base e é automaticamente aplicado sempre que um novo cliente for cadastrado, facilitando a padronização das informações coletadas.
+O eConsult permite criar um formulário padrão de campos adicionais para o cadastro de novos clientes ou grupos de atendimento, por meio da opção **[Configuração / Campos Adicionais](/docs/funcionalidades/configuracoes/clientes/campos-adicionais)**. Esse formulário padrão serve como base e é automaticamente aplicado sempre que um novo cliente for cadastrado, facilitando a padronização das informações coletadas.
 
 No entanto, essa padronização é totalmente **flexível e adaptável**. Ao acessar o cadastro do cliente ou grupo, na aba Campos Adicionais, você pode modificar o formulário conforme necessário — seja alterando, removendo ou adicionando novos campos, de acordo com as particularidades do cliente ou grupo.
 
 Dessa forma, o sistema oferece um equilíbrio entre **padronização e personalização**: você parte de um modelo pré-definido para garantir consistência, mas pode ajustá-lo livremente para registrar informações específicas e relevantes de cada cliente ou grupo. Isso torna o processo mais eficiente e o serviço mais direcionado e qualificado.
 
-Caso você não cadastre um formulário padrão em **[Configuração / Campos Adicionais](#)**, o sistema exibirá, no cadastro de novos clientes ou grupos, um formulário básico contendo apenas um campo de texto sem rótulo. A partir disso, você poderá personalizar e enriquecer o cadastro incluindo novos campos conforme necessário.
+Caso você não cadastre um formulário padrão em **[Configuração / Campos Adicionais](/docs/funcionalidades/configuracoes/clientes/campos-adicionais)**, o sistema exibirá, no cadastro de novos clientes ou grupos, um formulário básico contendo apenas um campo de texto sem rótulo. A partir disso, você poderá personalizar e enriquecer o cadastro incluindo novos campos conforme necessário.
 
 ## Incluir novo campo
 
