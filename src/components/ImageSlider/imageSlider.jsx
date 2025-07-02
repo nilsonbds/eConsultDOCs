@@ -47,8 +47,8 @@ function ImageSlider() {
                 images.map((e) => (
                     <>
                         <span className="image" key={e.index}>
-                            <span className="zoom"><LuZoomIn onClick={() => { setImage(e) }} /></span>
-                            <img src={e.src_small} alt={e.alt} />
+                            {/*<span className="zoom"><LuZoomIn onClick={() => { setImage(e) }} /></span>*/}
+                            <img src={e.src_small} alt={e.alt} loading="eager" fetchpriority="high" onClick={() => { setImage(e) }}/>
                         </span>
                     </>
                 ))
@@ -71,7 +71,9 @@ function ImageSlider() {
                                 setFade(false);
                             }, 200);
                         }}><LuChevronLeft /></div>
-                        <img src={image.src} alt={image.alt} className={!fade ? 'in' : 'out'} />
+
+                        <img src={image.src} alt={image.alt} className={!fade ? 'in' : 'out'} loading="eager" fetchpriority="high"/>
+
                         <div className="btn-set prev" onClick={() => {
                             let i = image.index + 1;
                             if (i == images.length) {
@@ -88,25 +90,25 @@ function ImageSlider() {
 
             )
         }
-        <div className="actions">
-            <span
+        <div className="image-slider-actions">
+            <button
                 className="btn next"
-                aria-label="Anterior"
+                aria-label="Posterior"
                 onMouseDown={() => startScroll('before')}
                 onMouseUp={stopScroll}
                 onMouseLeave={stopScroll}
                 onTouchStart={() => startScroll('before')}
                 onTouchEnd={stopScroll}
-            ><LuChevronLeft /></span>
-            <span
+            ><LuChevronLeft /></button>
+            <button
                 className="btn prev"
-                aria-label="Posterior"
+                aria-label="Anterior"
                 onMouseDown={() => startScroll('after')}
                 onMouseUp={stopScroll}
                 onMouseLeave={stopScroll}
                 onTouchStart={() => startScroll('after')}
                 onTouchEnd={stopScroll}
-            ><LuChevronRight /></span>
+            ><LuChevronRight /></button>
         </div>
     </div>
 };
