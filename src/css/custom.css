@@ -308,29 +308,29 @@ h3.title-links {
 }
 
 .markdown h2 {
-  font-size: clamp(1.75rem, 4vw, 3rem);
+  font-size: clamp(1.5rem, 3.5vw, 2.5rem);
   /* 28px–48px */
 }
 
 .markdown h3 {
-  font-size: clamp(1.5rem, 3.5vw, 2.5rem);
+  font-size: clamp(1.2rem, 3vw, 2rem);
   /* 24px–40px */
 }
 
 .markdown h4 {
-  font-size: clamp(1.25rem, 3vw, 2rem);
+  font-size: clamp(1.1rem, 2.8vw, 1.8rem);
   /* 20px–32px */
+}
+
+.markdown h5 {
+  font-size: clamp(1rem, 2vw, 1.2rem);
+  /* 18px–24px */
 }
 
 h2.text--truncate {
     font-size: 1.2rem;
     margin-bottom: 0px;
     text-wrap: wrap;
-}
-
-.markdown h5 {
-  font-size: clamp(1.125rem, 2.5vw, 1.5rem);
-  /* 18px–24px */
 }
 
 .markdown p {

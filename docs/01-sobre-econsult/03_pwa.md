@@ -2,7 +2,11 @@
 sidebar_position: 3
 ---
 
-# Instalação do App eConsult em Smartphones, Tablets e Computadores
+# Instalação do App eConsult
+
+**Acesse sua plataforma eConsult de qualquer dispositivo, com facilidade e mobilidade.**
+
+Instale o eConsult em smartphones, tablets ou computadores e tenha sua rotina de atendimentos sempre à mão. Com poucos cliques, você adiciona o atalho à tela inicial do seu dispositivo e garante acesso rápido, seguro e otimizado — onde quer que esteja. Mais praticidade para quem precisa de flexibilidade no dia a dia.
 
 ## O que é um PWA?
 
@@ -25,7 +29,7 @@ Isso significa que, ao instalar o eConsult como um app PWA, você terá acesso f
 - Navegador compatível com PWA
 - Acesse o site: https://econsult.app.br
 
-## Instalar o APP eConsult no Android usando o Google Chrome
+### Instalar o APP eConsult no Android usando o Google Chrome
 
 1. Abra o Google Chrome.
 
@@ -39,7 +43,7 @@ Isso significa que, ao instalar o eConsult como um app PWA, você terá acesso f
 
 7. Toque em **Instalar**, e pronto!
 
-## Instalar o APP eConsult no Android usando o Samsung Internet
+### Instalar o APP eConsult no Android usando o Samsung Internet
 
 1. Abra o Samsung Internet.
 
@@ -51,7 +55,7 @@ Isso significa que, ao instalar o eConsult como um app PWA, você terá acesso f
 
 5. Toque em Adicionar.
 
-## Instalar o APP eConsult no Android usando o Microsoft Edge
+### Instalar o APP eConsult no Android usando o Microsoft Edge
 
 1. Abra o Microsoft Edge.
 
@@ -59,7 +63,7 @@ Isso significa que, ao instalar o eConsult como um app PWA, você terá acesso f
 
 3. Escolha **Instalar este site como um aplicativo** ou **Adicionar à tela inicial**.
 
-## Instalar o APP eConsult no iOS usando o Safari (iPhone e iPad)
+### Instalar o APP eConsult no iOS usando o Safari (iPhone e iPad)
 
 1. Abra o Safari.
 
@@ -73,7 +77,7 @@ Isso significa que, ao instalar o eConsult como um app PWA, você terá acesso f
 
 6. O app aparecerá na tela inicial como um aplicativo nativo.
 
-## Instalar o APP eConsult no desktop (note book ou computador com Windows) usando o Google Chrome
+### Instalar o APP eConsult no desktop (note book ou computador com Windows) usando o Google Chrome
 
 1. Acesse https://econsult.app.br no Chrome.
 
@@ -85,7 +89,7 @@ Isso significa que, ao instalar o eConsult como um app PWA, você terá acesso f
 
 5. O eConsult abrirá como um aplicativo separado, com ícone no menu Iniciar e área de trabalho.
 
-## Instalar o APP eConsult no desktop (note book ou computador com Windows) usando o Microsoft Edge
+### Instalar o APP eConsult no desktop (note book ou computador com Windows) usando o Microsoft Edge
 
 1. Acesse https://econsult.app.br no Edge.
 

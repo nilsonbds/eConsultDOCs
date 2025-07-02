@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Termos e Condições
 
-Última atualização: [18/09/2024]
+Última atualização: 01/07/2025
 
 Estes Termos e Condições ("Termos") regem o uso do software eConsult ("Plataforma"). Ao acessar e utilizar o eConsult, você concorda com os seguintes Termos. Caso não concorde, não utilize a Plataforma.
 
@@ -39,7 +39,12 @@ Pagamentos de clientes podem ser gerenciados através da Plataforma, mas o eCons
 
 Você pode cancelar sua conta a qualquer momento. Se estiver em um plano pago, o cancelamento não implicará em reembolso de valores já pagos.
 
-Em caso de falha técnica prolongada que impeça o uso da Plataforma, o eConsult pode, a seu critério, oferecer um reembolso proporcional ou crédito.
+Em caso de **falha técnica prolongada**, definida como **inoperância total da Plataforma por mais de 72 horas consecutivas**, o eConsult poderá, a seu critério, oferecer:
+
+- Reembolso proporcional ao tempo de indisponibilidade, ou
+- Crédito para uso futuro na Plataforma.
+
+O tempo de inatividade programado para manutenção não será considerado falha técnica.
 
 ### 6. Responsabilidades do Usuário
 
@@ -51,11 +56,15 @@ Você é responsável por:
 
 ### 7. Limitação de Responsabilidade
 
-A Plataforma é fornecida "como está". O eConsult não se responsabiliza por perdas ou danos decorrentes de:
+A Plataforma é fornecida "como está", sem garantias absolutas de disponibilidade contínua. O eConsult se compromete a **manter a estabilidade, integridade e segurança dos serviços dentro de padrões razoáveis e atualizados de mercado**.
 
-- Erros ou interrupções no serviço.
-- Atos de terceiros, como hackers.
-- Incapacidade de acessar a Plataforma devido a fatores externos, como falhas de internet.
+Não nos responsabilizamos por perdas decorrentes de:
+
+- Falhas externas, como indisponibilidade de internet;
+- Atos maliciosos de terceiros fora do nosso controle;
+- Uso inadequado da Plataforma por parte do usuário.
+
+Faremos todos os esforços para restaurar o funcionamento em caso de incidentes técnicos.
 
 ### 8. Privacidade
 
@@ -63,7 +72,9 @@ O eConsult coleta e utiliza dados pessoais de acordo com a nossa Política de Pr
 
 ### 9. Alterações nos Termos
 
-O eConsult se reserva o direito de alterar estes Termos a qualquer momento. Notificações de mudanças serão enviadas via e-mail ou destacadas na Plataforma. Seu uso contínuo da Plataforma após as mudanças indica sua aceitação dos novos Termos.
+O eConsult poderá atualizar estes Termos a qualquer momento. Mudanças relevantes serão comunicadas por e-mail ou destacadas na Plataforma.
+
+Para continuar usando a Plataforma após uma alteração, o usuário deverá **confirmar o aceite dos novos Termos** por meio de aviso em destaque na interface, ou via e-mail. O uso contínuo sem essa confirmação poderá resultar em limitação de acesso até que o aceite seja registrado.
 
 ### 10. Rescisão de Conta
 
@@ -76,3 +87,11 @@ Estes Termos são regidos pela legislação Brasileira, e quaisquer disputas ser
 ### 12. Contato
 
 Para dúvidas ou preocupações sobre estes Termos, entre em contato conosco pelo e-mail atendimento@econsult.app.br.
+
+### 13. Backup e Retenção de Dados
+
+Os dados armazenados na Plataforma são protegidos por backups automáticos em servidores da AWS (Amazon Web Services), com alto padrão de segurança.
+
+Mesmo em caso de cancelamento de conta ou interrupção de pagamentos, **os dados do usuário serão mantidos indefinidamente associados ao e-mail cadastrado**. Caso a conta seja reativada futuramente, todas as informações anteriores serão restauradas.
+
+O eConsult se compromete a não excluir dados, exceto mediante solicitação formal do usuário.

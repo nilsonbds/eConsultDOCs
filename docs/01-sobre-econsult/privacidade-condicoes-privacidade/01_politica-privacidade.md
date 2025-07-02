@@ -4,12 +4,15 @@ sidebar_position: 1
 
 # Política de privacidade
 
-O eConsult não compartilha seus dados com fornecedores ou terceiros que prestam serviços em nosso nome, como serviços de hospedagem de dados e processamento de pagamentos, a menos que você forneça autorização explícita.
+Última atualização: 01/07/2025
 
-Nós podemos e só iremos compartilhar suas informações apenas nas seguintes situações:
+O eConsult **não compartilha dados pessoais com terceiros**, incluindo fornecedores de serviços como hospedagem ou processamento de pagamento, **exceto nas seguintes situações específicas**:
 
-- **Conformidade legal:** Quando exigido por lei ou para proteger nossos direitos, propriedades ou segurança, incluindo o cumprimento de solicitações de autoridades judiciais.
-- **Transferências de negócios:** Se o eConsult for adquirido ou se fundir com outra empresa, suas informações poderão ser transferidas para os novos proprietários, respeitando sua privacidade e com a devida notificação.
+- **Com autorização explícita do usuário.**
+- **Conformidade legal:** Quando exigido por lei ou ordem judicial.
+- **Transferência de negócios:** Em caso de aquisição ou fusão, com notificação prévia e garantias de privacidade.
+
+Nenhum dado será vendido ou repassado para fins comerciais.
 
 ### 1. Armazenamento e Segurança de Dados
 
@@ -37,7 +40,7 @@ A Plataforma não é destinada a crianças menores de 18 anos, e não coletamos 
 
 ### 4. Transferências Internacionais de Dados
 
-Não realizamos transferências internacionais de dados. Todas as informações coletadas são armazenadas e processadas dentro do território nacional, conforme as leis de proteção de dados locais.
+Todas as informações coletadas são armazenadas e processadas exclusivamente em servidores localizados no Brasil (região `sa-east-1` da AWS), conforme as leis brasileiras de proteção de dados. Não realizamos transferências internacionais de dados.
 
 ### 5. Alterações a Esta Política
 
@@ -46,3 +49,7 @@ O eConsult pode atualizar esta Política de Privacidade periodicamente. Qualquer
 ### 6. Contato
 
 Se você tiver dúvidas sobre esta Política de Privacidade ou sobre o uso de suas informações, entre em contato conosco pelo e-mail atendimento@econsult.app.br.
+
+### 7. Cookies e Tecnologias de Rastreamento
+
+O eConsult **não utiliza cookies, pixels de rastreamento, fingerprinting ou tecnologias similares** para monitorar o comportamento dos usuários na Plataforma. Toda navegação é livre de rastreamento automatizado.

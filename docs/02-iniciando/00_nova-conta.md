@@ -2,37 +2,43 @@
 sidebar_position: 0
 ---
 
-# Criar uma nova conta
+# Abrindo uma nova conta
 
-Criar uma conta no eConsult é um processo simples e essencial para acessar todas as funcionalidades oferecidas. 
+Abrir sua conta no eConsult é rápido, seguro e o primeiro passo para aproveitar todos os recursos da nossa plataforma.
 
-O **teste grátis por 30 dias**, sem compromisso e **sem cartão de crédito**.
+- ✅ Teste gratuito por 30 dias — sem compromisso e sem necessidade de cartão de crédito.
 
-Seus dados estão **protegidos**. O cadastro rápido e **leva menos de 2 minutos**.
+- 🔒 Seus dados estão protegidos de acordo com nossa Política de Privacidade.
 
-## Aqui está o passo a passo para criar uma conta
+- ⚡ Cadastro rápido — leva menos de 2 minutos para começar.
 
-1. Acesse o link [*https://econsult.app.br/userregister*](https://econsult.app.br/userregister).
+Experimente o eConsult gratuitamente e descubra como simplificar a gestão dos seus serviços.
+
+## Abrir uma nova conta
+
+1. Acesse o link [*https://econsult.app.br/multidisciplinar*](https://econsult.app.br/multidisciplinar).
 
     ![Tela: Criação de nova conta](../../static/img/prints/00_nova-conta-002.png)
 
-1. Insira as informações solicitadas, como: "Nome completo", "Sexo", "Especialidade", "E-mail", "Telefone", "Celular", "CPF", "Crie uma senha para você" e "Repita a senha".
+1. Insira as informações solicitadas: "Nome completo" e "E-mail.
 
-1. Certifique-se de que todos os dados estão corretos e clique em Salvar.
+1. Certifique-se de que todos os dados estão corretos e clique em "Criar minha conta".
 
-1. Após salvar, o sistema exibirá uma tela solicitando um código de acesso. Você receberá esse código por e-mail.
+1. O sistema exibirá uma tela solicitando um código de acesso. Você receberá esse código por e-mail.
 
     ![Tela: Código de acesso](../../static/img/prints/00_nova-conta-003.png)
 
 1. Preencha o campo "Código de acesso" com o código enviado para o seu e-mail.
+
+1. Preencha o campo "Senha" com uma senha da sua preferência.
+
+1. Preencha o campo "Repita a senha" com a mesma senha.
 
 1. Clique em “Entrar” para acessar o eConsult.
 
 :::tip
     Se você não tiver mais o e-mail com o código, basta clicar no botão "Reenviar código" e um novo código será enviado automaticamente para o seu e-mail.
 :::
-
-**Criar uma nova conta é o primeiro passo para aproveitar todas as vantagens e funcionalidades oferecidas pelo eConsult. Siga os passos acima e comece a explorar!**
 
 :::tip Dica de Segurança
 **Senha Forte:** Crie uma senha forte, combinando letras maiusculas e minúsculas, números e caracteres especiais.
@@ -48,4 +54,6 @@ Seus dados estão **protegidos**. O cadastro rápido e **leva menos de 2 minutos
 
 O cadastro é rápido e **leva menos de 2 minutos**.
 :::
+
+Criar uma nova conta é o primeiro passo para aproveitar todas as vantagens e funcionalidades oferecidas pelo eConsult. Siga os passos acima e comece a explorar!
 
