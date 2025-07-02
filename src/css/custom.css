@@ -88,6 +88,12 @@ p {
   line-height: 1.6;
 }
 
+small {
+  display: inline-block;
+  font-size: clamp(0.75rem, 1.5vw, 0.875rem); /* 12px–14px */
+  line-height: 1.4;
+}
+
 .hero__title {
   font-size: clamp(2rem, 5vw, 3.5rem);
   font-weight: 300;
@@ -292,4 +298,48 @@ h3.title-links {
   .navbar__search-input {
     width: 13rem;
   }
+}
+
+/*markdowns*/
+
+.markdown h1 {
+  font-size: clamp(2rem, 5vw, 3.5rem) !important;
+  /* 32px–56px */
+}
+
+.markdown h2 {
+  font-size: clamp(1.75rem, 4vw, 3rem);
+  /* 28px–48px */
+}
+
+.markdown h3 {
+  font-size: clamp(1.5rem, 3.5vw, 2.5rem);
+  /* 24px–40px */
+}
+
+.markdown h4 {
+  font-size: clamp(1.25rem, 3vw, 2rem);
+  /* 20px–32px */
+}
+
+h2.text--truncate {
+    font-size: 1.2rem;
+    margin-bottom: 0px;
+    text-wrap: wrap;
+}
+
+.markdown h5 {
+  font-size: clamp(1.125rem, 2.5vw, 1.5rem);
+  /* 18px–24px */
+}
+
+.markdown p {
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  line-height: 1.6;
+}
+
+.markdown small {
+  display: inline-block;
+  font-size: clamp(0.75rem, 1.5vw, 0.875rem); /* 12px–14px */
+  line-height: 1.4;
 }
