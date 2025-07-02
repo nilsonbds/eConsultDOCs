@@ -63,7 +63,33 @@ h4 {
   color: #353535;
 }
 
+h1 {
+  font-size: clamp(2rem, 5vw, 3.5rem); /* 32px–56px */
+}
+
+h2 {
+  font-size: clamp(1.75rem, 4vw, 3rem); /* 28px–48px */
+}
+
+h3 {
+  font-size: clamp(1.5rem, 3.5vw, 2.5rem); /* 24px–40px */
+}
+
+h4 {
+  font-size: clamp(1.25rem, 3vw, 2rem); /* 20px–32px */
+}
+
+h5 {
+  font-size: clamp(1.125rem, 2.5vw, 1.5rem); /* 18px–24px */
+}
+
+p {
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  line-height: 1.6;
+}
+
 .hero__title {
+  font-size: clamp(2rem, 5vw, 3.5rem);
   font-weight: 300;
   color: darkcyan;
 }
