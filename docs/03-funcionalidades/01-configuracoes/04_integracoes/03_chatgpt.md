@@ -4,27 +4,29 @@ sidebar_position: 3
 
 # ChatGPT
 
-**Configure facilmente a integração do eConsult com o ChatGPT e incorpore inteligência artificial ao seu ambiente de trabalho, tornando seus processos mais eficientes e dinâmicos — tudo isso sem a necessidade de conhecimentos técnicos avançados.**
+**O eConsult já conta com inteligência artificial nativa para agilizar tarefas do dia a dia, como geração de textos e análises automáticas. Mas, se preferir, você também pode configurar sua própria conta do ChatGPT e personalizar ainda mais a experiência.**
 
-Essa configuração é simples e acessível (não requer conhecimentos avançados de informática), permitindo que você aproveite os recursos avançados do ChatGPT diretamente na plataforma eConsult. Com isso, é possível gerar textos, resumos de informações e contar com suporte em tarefas administrativas de forma prática e inteligente.
+A integração é simples e acessível (não requer conhecimentos avançados de informática), permitindo que você aproveite todos os recursos do ChatGPT diretamente na plataforma eConsult. Com isso, é possível gerar anotações, resumos, análises e automatizar partes do seu trabalho com o suporte da IA de forma prática, inteligente e adaptada ao seu perfil.
 
-Além de agilizar rotinas, a integração pode ser personalizada conforme suas necessidades, proporcionando uma experiência mais intuitiva e adaptada ao seu contexto de atendimento. O uso da IA contribui para aumentar a produtividade e aprimorar a comunicação com seus clientes, equipe e parceiros.
+Mesmo com a IA já ativa por padrão no eConsult, essa configuração com a sua própria chave de API do ChatGPT permite:
 
-A página ChatGPT pode ser acessada através do [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) opção **ChatGPT**.
+- Maior controle sobre os dados utilizados
+- Personalização da capacidade de uso  
+- Escalabilidade conforme suas necessidades
 
-Uma vez acionada a opção **ChatGPT** o sistema abrirá a seguinte tela:
+## Funcionalidades com suporte de IA
 
-![Painel Configurações](../../../../static/img/prints/chatgpt/chatgpt-001.png)
+A IA é utilizada nos seguintes fluxos ou funcionalidades do eConsult:
 
-:::note Por que integrar seu ChatGPT com o eConsult?
+- **Anotação de Atendimento**: ao incluir ou editar uma anotação, aparece o botão ![Botão ChatGPT](../../../../static/img/prints/buttons/btn_chatgpt.png), que abre um editor que permite sugestões automáticas baseadas em IA.
 
-Essa integração ativará funcionalidades que utilizam a inteligência artificial do ChatGPT para apoiar suas atividades. São as funcionalidades:
+- **Painel de Resultados – Indicadores**: botão ![Botão Fazer Análise](../../../../static/img/prints/buttons/btn_fazer-analise.png) permite gerar análise com insights com base nos indicadores de um determinado mês.
 
-- **Anotação de Atendimento:** Ao incluir ou editar uma Anotação de Atendimento, o sistema exibirá o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_chatgpt.png) que abre uma tela de edição de texto com suporte à elaboração de conteúdo utilizando a inteligência artificial do ChatGPT.
-- **Painel Resultados:** Na aba Mês, será mostrado, ao final da tela, o botão Faser Análise ![Painel Configurações](../../../../static/img/prints/buttons/btn_fazer-analise.png). Este botão permite gerar uma análise dos resultados do mês com insights utilizando a inteligência artificial do ChatGPT.
-- **Painel Resultados:** No painel Resultados será mostrada a aba Ano. Nela, você poderá analisar os resultados dos anos encerrados com insights gerados pela inteligência artificial do ChatGPT.
+- **Painel de Resultados – Análise Anual**: permite gerar análise com insights com base nos indicadores de um determinado ano.
 
-:::
+Essas funcionalidades já funcionam com a IA do eConsult. A seguir, você aprenderá como conectar sua própria conta do ChatGPT caso queira personalizar essa experiência.
+
+---
 
 ## Configurar a integração do seu ChatGPT no eConsult
 
@@ -72,36 +74,45 @@ Essa integração ativará funcionalidades que utilizam a inteligência artifici
     
 Pronto! Sua integração está feita.
 
+---
+
 Para que esta integração funcione, é necessário adicionar créditos ao projeto criado na plataforma OpenAI.
+
+:::note
+
+Acreditamos que **$1 por mês** é mais do que suficiente para:
+- 8 anotações de atendimento por dia
+- 1 análise mensal
+- 1 análise anual
+
+:::
 
 ## Inserir créditos na plataforma OpenAI
 
-1. A OpenAI poderá apresentar duas opções:
+### 1. Acesse a Plataforma da OpenAI
 
-1. **Prepaid credits (pré-pago)** → cliente insere o valor desejado (ex.: US$ 10, US$ 20, etc) e os créditos vão sendo consumidos.
+- Acesse: [https://platform.openai.com](https://platform.openai.com)
+- Faça login com sua conta OpenAI (a mesma do ChatGPT, se já tiver).
 
-1. **Usage limits (pós-pago com limite)** → cliente define um limite máximo de gasto mensal (ex.: US$ 50), e os valores serão cobrados conforme o uso.
+### 2. Vá até a Seção de Faturamento
 
-(Obs: atualmente, para a maioria das contas novas no Brasil, a OpenAI está liberando mais o modelo "pós-pago com limite de uso", mas isso pode variar.)
+- No canto superior direito, clique no seu **nome ou ícone de usuário**.
+- No menu, selecione **Billing** (Faturamento).
 
-### Sugestão de crédito inicial
+### 3. Adicione um Método de Pagamento
 
-Para o caso de uso típico de um psicólogo (geração de textos), recomendamos iniciar com um crédito de US$10 a US$20 (R$50 a R$100), que costuma ser mais do que suficiente.
+- Acesse a aba **Payment methods**.
+- Clique em **“+ Add payment method”**.
+- Insira os dados do seu **cartão de crédito** (Visa, MasterCard, etc.).
 
-Os créditos podem ser adicionados a qualquer momento, portanto, você pode começar com R$50 e, caso necessário, inserir valores adicionais conforme o uso evoluir.
+### 4. Configure Limites de Gasto
 
-Como o serviço funciona através da API da OpenAI, você não precisa pagar uma assinatura mensal. Você apenas adiciona créditos de acordo com o uso que fizer.
+- Vá para a aba **Usage limits**.
+- Defina um **limite de uso mensal** (recomendado: $5 a $10 para uso moderado).
+- Essa configuração ajuda a **evitar cobranças inesperadas**.
 
-### Configurar pagamento
+:::tip
 
-1. No menu lateral, acesse "Billing" (Faturamento).
+Você pode acompanhar seu uso e gastos na aba **“Usage”** da plataforma, e ajustar limites sempre que necessário.
 
-1. Clique em "Payment Methods".
-
-1. Adicione um cartão de crédito internacional válido.
-
-### Monitorar uso
-
-- O consumo pode ser acompanhado em tempo real no painel "Usage".
-
-- Caso atinja o limite, o cliente pode adicionar mais crédito a qualquer momento.
+:::
