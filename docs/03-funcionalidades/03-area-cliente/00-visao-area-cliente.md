@@ -53,4 +53,4 @@ Como mencionado antes, o profissional pode configurar o que o cliente pode ou n�
 
 1. No painel "Clientes ou Grupo", no *card* do cliente ou grupo, a opção "Enviar link para Área do Cliente" ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_enviar-link-para-area-do-cliente-wat-ema.png) será exibida caso existam acessos liberados para aquele cliente ou grupo.
 
-1. Clique no botão ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_whatsapp.png) correspondente para enviar o link diretamente via WhatsApp ou, se houver integração SMTP configurada, no botão ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_email.png) para enviar por E-mail.
+1. Clique no botão ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_whatsapp.png) correspondente para enviar o link diretamente via WhatsApp ou, no botão ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_email.png) para enviar por E-mail.

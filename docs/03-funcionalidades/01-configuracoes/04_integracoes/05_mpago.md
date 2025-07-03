@@ -31,7 +31,7 @@ Uma vez acionada a opção **Mercado Pago** o sistema abrirá a seguinte tela:
 
         ![Painel Configurações](../../../../static/img/prints/mpago/mpago-003.png)
 
-    - **Nas telas de pagamento:** após a seleção do Mercado Pago como forma de pagamento, o sistema gera um link correspondente que pode ser compartilhado com o cliente via WhatsApp ou por e-mail (caso haja integração SMTP). Além disso, é exibido o botão 'Pagou', permitindo o registro manual do pagamento assim que o cliente o realizar.
+    - **Nas telas de pagamento:** após a seleção do Mercado Pago como forma de pagamento, o sistema gera um link correspondente que pode ser compartilhado com o cliente via WhatsApp ou por e-mail. Além disso, é exibido o botão 'Pagou', permitindo o registro manual do pagamento assim que o cliente o realizar.
 
         ![Painel Configurações](../../../../static/img/prints/mpago/mpago-004.png)
 

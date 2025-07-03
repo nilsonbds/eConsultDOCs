@@ -30,7 +30,7 @@ Cada *card* apresenta informações essenciais de forma concisa, incluindo o "No
 
 Os *cards* também oferecem funcionalidades adicionais que tornam a gestão de clientes e grupos completa. É possível, por exemplo, realizar ações de comunicação direta, como o envio de mensagens por WhatsApp ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_whatsapp.png) ou a realização de ligações telefônicas ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_phone.png), tudo diretamente a partir do painel. Essas funcionalidades garantem uma gestão centralizada e eficiente, permitindo interações rápidas e personalizadas com os clientes e com os grupos de atendimento.
 
-Além disso, nos *cards*, está disponível a opção "Enviar link para a Área do Cliente" ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_enviar-link-para-area-do-cliente-wat-ema.png). Essa funcionalidade permite que você compartilhe com seu cliente — ou com o responsável por um grupo de atendimento — um link exclusivo de acesso à "Área do Cliente", enviado via WhatsApp ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_whatsapp.png) ou E-mail ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_email.png) (este último se a integração SMTP estiver ativa).
+Além disso, nos *cards*, está disponível a opção "Enviar link para a Área do Cliente" ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_enviar-link-para-area-do-cliente-wat-ema.png). Essa funcionalidade permite que você compartilhe com seu cliente — ou com o responsável por um grupo de atendimento — um link exclusivo de acesso à "Área do Cliente", enviado via WhatsApp ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_whatsapp.png) ou E-mail ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_email.png).
 
 O cliente ou grupo poderá acessar diversas informações relevantes, previamente definidas por você no cadastro individual. Essa abordagem facilita a comunicação, aumenta a transparência e oferece mais autonomia para o cliente ou grupo, ao mesmo tempo em que preserva seu controle sobre os acessos.
 
@@ -56,7 +56,7 @@ Sendo:
 1. **Data do Último Atendimento:** Exibe a data do último atendimento agendado. Se for superior a 30 dias, a data será exibida em vermelho.
 1. Dispensas de Cobrança: Indica o número de dispensas de cobrança registradas para o cliente (dispensa de cobrança ocorre quando o atendimento não é pago e o valor é zerado manualmente).
 1. **Envio de Link Área do Cliente via WhatsApp:** Botão que permite enviar o link de acesso a Área do Cliente via WhatsApp para o cliente ou grupo de atendimento.
-1. **Envio de Link Área do Clientevia E-mail:** Botão que permite enviar o link de acesso a Área do Cliente por e-mail (disponível apenas se houver uma integração SMTP configurada).
+1. **Envio de Link Área do Clientevia E-mail:** Botão que permite enviar o link de acesso a Área do Cliente por e-mail.
 1. **Editar Cadastro:** Botão que abre a tela de cadastro do cliente em modo de edição.
 
 ## Filtros da lista de *cards*

@@ -10,15 +10,13 @@ Hoje o sistema permite configurar somente o campo "Valor Padrão para Atendiment
 
 ## Configurar Valor Padrão para Atendimentos
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_padroes-atendimentos.png).
-
-2. O sistema abrirá a tela "Padrões para Atendimentos".
+1. No painel "Configurações", acione a opção "Padrões para Atendimentos".
 
     ![Painel Configurações](../../../../static/img/prints/04_padroes-atendimentos-001.png)
 
-3. Preencha o campo "Valor Padrão para Atendimentos".
+1. Preencha o campo "Valor Padrão para Atendimentos".
 
-4. Acione o botão "Salvar" ![Painel Configurações](../../../../static/img/prints/buttons/btn_salvar.png).
+1. Acione o botão "Salvar" ![Painel Configurações](../../../../static/img/prints/buttons/btn_salvar.png).
 
     :::note
     O valor inserido neste campo será sugerido automaticamente como valor de atendimento ao cadastrar um novo cliente.

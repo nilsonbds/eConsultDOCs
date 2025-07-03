@@ -46,7 +46,7 @@ Sendo assim, no painel Faturas do Cliente, você encontrará duas sub-abas disti
 
 Na sub-aba Pendentes, você tem duas funções importantes para gerenciar faturas pendentes:
 
-- **Função "Notificar":** Permite notificar o cliente diretamente pelo WhatsApp e/ou E-mail (este último se houver integração SMTP) sobre os pagamentos pendentes que estão marcados (selecionadas). Ao acionar essa função, uma mensagem personalizada pode ser enviada, alertando o cliente sobre a necessidade de quitação das faturas em aberto que estão marcadas (selecionadas). Essa comunicação direta ajuda a lembrar o cliente de forma rápida e eficaz.
+- **Função "Notificar":** Permite notificar o cliente diretamente pelo WhatsApp e/ou E-mail sobre os pagamentos pendentes que estão marcados (selecionadas). Ao acionar essa função, uma mensagem personalizada pode ser enviada, alertando o cliente sobre a necessidade de quitação das faturas em aberto que estão marcadas (selecionadas). Essa comunicação direta ajuda a lembrar o cliente de forma rápida e eficaz.
 
     ![Painel Faturas do Cliente](../../../static/img/prints/faturascliente/006.png)
 

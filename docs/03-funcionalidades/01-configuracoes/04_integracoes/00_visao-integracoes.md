@@ -14,7 +14,7 @@ São as integrações possíveis:
 
 **Configure, de forma fácil e prática, o seu servidor SMTP no eConsult para envio de e-mails personalizados diretamente pela plataforma.**
 
-Essa configuração permite que notificações, comunicados e outros tipos de mensagens sejam enviados com o seu próprio domínio, garantindo maior controle, autenticidade e profissionalismo na comunicação com pacientes, colaboradores e parceiros.
+Essa configuração permite que notificações, comunicados e outros tipos de mensagens sejam enviados com o seu próprio domínio, garantindo maior autenticidade e profissionalismo na comunicação com pacientes.
 
 ## Google Drive
 
@@ -24,9 +24,11 @@ Com essa integração, documentos, imagens e relatórios ficam sempre acessívei
 
 ## ChatGPT
 
-**Configure facilmente a integração do ChatGPT com o eConsult, sem necessidade de conhecimentos técnicos avançados, e amplie as funcionalidades da plataforma com inteligência artificial.**
+**O eConsult já fornece serviços de IA nativamente, mas você pode configurar facilmente uma integração do eConsult com seu ChatGPT, sem necessidade de conhecimentos técnicos avançados.**
 
-Com essa integração, você pode gerar textos, respostas automáticas, resumos de atendimentos e muito mais, otimizando o tempo, melhorando a comunicação e oferecendo uma experiência mais ágil e inteligente aos seus clientes.
+Com essa integração, você poderá utilizar a inteligência artificial do seu próprio ChatGPT, mantendo todas as configurações personalizadas, preferências e refinamentos que você definiu na sua conta do ChatGPT.
+
+Essa opção é ideal para quem já utiliza o ChatGPT de forma recorrente e deseja incorporar seus fluxos de trabalho personalizados diretamente no eConsult.
 
 ## PIX
 

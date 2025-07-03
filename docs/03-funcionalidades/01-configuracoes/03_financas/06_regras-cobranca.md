@@ -12,69 +12,63 @@ Essas configurações são cadastradas previamente e podem ser associadas aos cl
 
 ## Incluir uma nova Regra de Cobrança
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_regras-cobranca.png).
-
-2. O sistema abrirá a tela "Regras de Cobrança".
+1. No painel "Configurações", acione a opção "Regras de Cobrança".
 
     ![Painel Configurações](../../../../static/img/prints/06_regras-cobranca-001.png)
 
-3. Acione o botão **Incluir Nova Regra de Cobrança** ![Painel Configurações](../../../../static/img/prints/buttons/btn_add.png).
+1. Acione o botão **Incluir Nova Regra de Cobrança** ![Painel Configurações](../../../../static/img/prints/buttons/btn_add.png).
 
-4. O sistema abrirá o formulário de cadastro de nova regra de cobrança.
+1. O sistema abrirá o formulário de cadastro de nova regra de cobrança.
 
     ![Painel Configurações](../../../../static/img/prints/06_regras-cobranca-002.png)
 
-5. Preencha o campo "Desconto (%) até o vencimento" com o percentual que será concedido ao cliente que realizar o pagamento até a data de vencimento.
+1. Preencha o campo "Desconto (%) até o vencimento" com o percentual que será concedido ao cliente que realizar o pagamento até a data de vencimento.
 
-6. Preencha o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o cliente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
+1. Preencha o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o cliente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
 
-7. Preencha o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o cliente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
+1. Preencha o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o cliente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
 
-8. Preencha o campo "Multa (%) após tolerância" com o percentual de multa que será aplicado sobre o valor devido caso o pagamento seja realizado após o período de tolerância.
+1. Preencha o campo "Multa (%) após tolerância" com o percentual de multa que será aplicado sobre o valor devido caso o pagamento seja realizado após o período de tolerância.
 
-9. Preencha o campo "Mora diária (%) após tolerância" com o percentual de juros que será cobrado por dia de atraso, a partir do fim do período de tolerância.
+1. Preencha o campo "Mora diária (%) após tolerância" com o percentual de juros que será cobrado por dia de atraso, a partir do fim do período de tolerância.
 
-10. Marque a opção "Aplicar a todos os clientes" caso queira que esta regra seja válida para todos os clientes, de forma automática.
+1. Marque a opção "Aplicar a todos os clientes" caso queira que esta regra seja válida para todos os clientes, de forma automática.
 
-11. Marque a opção 'Aplicar a todos os atendimentos' caso deseje que esta regra seja aplicada automaticamente a todos os atendimentos não pagos.
+1. Marque a opção 'Aplicar a todos os atendimentos' caso deseje que esta regra seja aplicada automaticamente a todos os atendimentos não pagos.
 
-12. Acione o botão "Incluir" ![Painel Configurações](../../../../static/img/prints/buttons/btn_incluir.png).
+1. Acione o botão "Incluir" ![Painel Configurações](../../../../static/img/prints/buttons/btn_incluir.png).
 
 ## Alterar Regra de Cobrança
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_regras-cobranca.png).
+1. No painel "Configurações", acione a opção "Regras de Cobrança".
 
-2. O sistema abrirá a tela "Regras de Cobrança".
+1. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_card-edit.png) no *card* da regra de cobrança que deseja alterar.
 
-3. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_card-edit.png) no *card* da regra de cobrança que deseja alterar.
+1. O sistema abrirá o formulário de cadastro de alteração de regra de cobrança.
 
-4. O sistema abrirá o formulário de cadastro de alteração de regra de cobrança.
+1. Altere o campo "Desconto (%) até o vencimento" com o percentual que será concedido ao cliente que realizar o pagamento até a data de vencimento.
 
-5. Altere o campo "Desconto (%) até o vencimento" com o percentual que será concedido ao cliente que realizar o pagamento até a data de vencimento.
+1. Altere o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o cliente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
 
-6. Altere o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o cliente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
+1. Altere o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o cliente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
 
-7. Altere o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o cliente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
+1. Altere o campo "Multa (%) após tolerância" com o percentual de multa que será aplicado sobre o valor devido caso o pagamento seja realizado após o período de tolerância.
 
-8. Altere o campo "Multa (%) após tolerância" com o percentual de multa que será aplicado sobre o valor devido caso o pagamento seja realizado após o período de tolerância.
+1. Altere o campo "Mora diária (%) após tolerância" com o percentual de juros que será cobrado por dia de atraso, a partir do fim do período de tolerância.
 
-9. Altere o campo "Mora diária (%) após tolerância" com o percentual de juros que será cobrado por dia de atraso, a partir do fim do período de tolerância.
+1. Marque a opção "Aplicar a todos os clientes" caso queira que esta regra seja válida para todos os clientes, de forma automática.
 
-10. Marque a opção "Aplicar a todos os clientes" caso queira que esta regra seja válida para todos os clientes, de forma automática.
+1. Marque a opção 'Aplicar a todos os atendimentos' caso deseje que esta regra seja aplicada automaticamente a todos os atendimentos não pagos.
 
-11. Marque a opção 'Aplicar a todos os atendimentos' caso deseje que esta regra seja aplicada automaticamente a todos os atendimentos não pagos.
-
-12. Acione o botão "Salvar" ![Painel Configurações](../../../../static/img/prints/buttons/btn_salvar.png).
+1. Acione o botão "Salvar" ![Painel Configurações](../../../../static/img/prints/buttons/btn_salvar.png).
 
 ## Excluir Regra de Cobrança
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_regras-cobranca.png).
+1. No painel "Configurações", acione a opção "Regras de Cobrança".
 
-2. O sistema abrirá a tela "Regras de Cobrança".
+1. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_card-delete.png) no *card* da regra de cobrança que deseja excluir.
 
-3. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_card-delete.png) no *card* da regra de cobrança que deseja excluir.
-
-4. Confirme a exclusão acionando o botão **Sim**.
+1. Confirme a exclusão acionando o botão **Sim**.
 
 :::note Como excluir regras de todos os clientes e/ou atendimentos?
 

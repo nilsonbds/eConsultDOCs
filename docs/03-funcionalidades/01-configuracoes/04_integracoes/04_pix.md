@@ -32,7 +32,7 @@ Uma vez acionada a opção **PIX** o sistema abrirá a seguinte tela:
 
         ![Painel Configurações](../../../../static/img/prints/pix/pix-003.png)
     
-    - Nas telas de pagamento: após a seleção do PIX como intenção de pagamento, o sistema gera um QR Code com o link correspondente, que pode ser compartilhado com o cliente via WhatsApp ou E-mail (se tiver integração SMTP). Além disso, é exibido o botão 'Pagou', permitindo registrar quando o cliente efetivar o pagamento.
+    - Nas telas de pagamento: após a seleção do PIX como intenção de pagamento, o sistema gera um QR Code com o link correspondente, que pode ser compartilhado com o cliente via WhatsApp ou E-mail. Além disso, é exibido o botão 'Pagou', permitindo registrar quando o cliente efetivar o pagamento.
 
         ![Painel Configurações](../../../../static/img/prints/pix/pix-004.png)
 

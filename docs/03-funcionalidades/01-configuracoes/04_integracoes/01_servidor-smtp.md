@@ -6,23 +6,40 @@ sidebar_position: 1
 
 **O servidor SMTP (Simple Mail Transfer Protocol) é responsável pelo envio de e-mails. Ele atua como um intermediário, encaminhando as mensagens do remetente para o servidor de destino.**
 
-Para configurá-lo, normalmente são necessários: o endereço do servidor, a porta, os dados de autenticação e o protocolo de segurança (SSL/TLS).
+O **eConsult** envia e-mails automaticamente aos seus clientes utilizando o SMTP padrão do sistema. No entanto, se preferir, você pode configurar **seu próprio servidor SMTP** para o envio dessas mensagens.
 
-Consulte a documentação do seu provedor de e-mail (como Gmail, Outlook, Yahoo Mail, entre outros) para obter as informações necessárias e, em seguida, preencha os campos da tela "Servidor SMTP" para configurar a integração do eConsult com o seu servidor de e-mail.
+### Por que usar um servidor SMTP personalizado?
 
-![Painel Configurações](../../../../static/img/prints/01_servidor-smtp-001.png)
+- **Garantir maior controle sobre os envios**  
+  Ao utilizar seu próprio servidor SMTP, você pode acompanhar de forma mais precisa o status dos e-mails enviados (entregues, rejeitados, abertos, etc.), aplicar regras específicas para os envios e configurar limites de envio conforme suas necessidades.
 
-:::note Por que configurar meu SMTP no eConsult?
+- **Utilizar domínios de e-mail próprios**  
+  Isso permite que os e-mails sejam enviados com um endereço profissional, como `contato@seudominio.com`, em vez do domínio `system@econsult.app.br` do eConsult. Isso aumenta a credibilidade da sua comunicação e fortalece a identidade da sua marca.
 
-Ao realizar essa configuração, além do botão **WhatsApp** ![Painel Configurações](../../../../static/img/prints/buttons/btn_whatsapp.png), será mostrado o botão **E-mail** ![Painel Configurações](../../../../static/img/prints/buttons/btn_email.png)nos grupos de botões de mensagem em diversos *cards* do sistema. São os *cards*:
+- **Melhorar a entregabilidade das mensagens**  
+  O eConsult já utiliza servidores com autenticação adequada (SPF, DKIM, DMARC), garantindo alta taxa de entrega e evitando que os e-mails caiam na caixa de spam. No entanto, se você deseja que os e-mails sejam enviados diretamente pelo seu domínio, com total controle e monitoramento técnico, um SMTP próprio pode ser configurado para isso.
 
-| *Card* | com SMTP configurado | Sem SMTP configurado |
-|---|---|---|
-|*Cards* do painel **Clientes**|![Painel Configurações](../../../../static/img/prints/buttons/btn_enviar-link-para-area-do-cliente-wat-ema.png)|![Painel Configurações](../../../../static/img/prints/buttons/btn_enviar-link-para-area-do-cliente-wat.png)|
-|Painel **Alertas**, *cards* de **Confirmação**|![Painel Configurações](../../../../static/img/prints/buttons/btn_pedir-confirmacao-wat-ema.png)|![Painel Configurações](../../../../static/img/prints/buttons/btn_pedir-confirmacao-wat.png)|
-|Painel **Alertas**, *cards* de **Atendimentos Prováveis**|![Painel Configurações](../../../../static/img/prints/buttons/btn_enviar-mensagem-wat-ema.png)|![Painel Configurações](../../../../static/img/prints/buttons/btn_enviar-mensagem-wat.png)|
-|Painel **Alertas**, *cards* de **Aniversariantes do Mês**|![Painel Configurações](../../../../static/img/prints/buttons/btn_enviar-mensagem-wat-ema.png)|![Painel Configurações](../../../../static/img/prints/buttons/btn_enviar-mensagem-wat.png)|
+- **Seguir políticas internas de segurança ou compliance**  
+  O eConsult já segue boas práticas de segurança e proteção de dados em conformidade com regulamentações como a LGPD. Porém, caso você queira que todo o tráfego de e-mail passe exclusivamente pelos seus próprios servidores — por motivos de auditoria, registro ou normas suas —, é possível configurar um SMTP personalizado para atender a essas diretrizes.
 
-Além disso, quando a configuração SMTP estiver ativa, o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_email.png)será exibido na tela de Pagamentos Emitidos para transações realizadas via Mercado Pago ou PIX que ainda não foram confirmadas. Esse botão permite o envio de um e-mail ao cliente contendo o QR Code (no caso de PIX) ou o link de pagamento (no caso de Mercado Pago).
 
-:::
+### O que você vai precisar
+
+Para configurar seu servidor SMTP no eConsult, normalmente são necessários:
+
+- **Endereço do servidor SMTP** (ex: `smtp.gmail.com`)
+- **Porta de conexão** (comum: `465` para SSL ou `587` para TLS)
+- **Dados de autenticação** (usuário e senha da conta de e-mail)
+- **Tipo de segurança** (SSL ou TLS)
+
+### Como obter essas informações?
+
+Consulte a documentação do seu provedor de e-mail — como:
+
+- [Gmail – SMTP](https://support.google.com/mail/answer/7126229?hl=pt-BR)
+- [Outlook / Microsoft 365 – SMTP](https://support.microsoft.com/pt-br/office/configura%C3%A7%C3%B5es-de-servidor-pop-imap-e-smtp-99337f65-3a52-4e8d-8dd6-7c4e3d1a5c62)
+- [Yahoo Mail – SMTP](https://help.yahoo.com/kb/SLN4724.html)
+
+### Como configurar no eConsult
+
+Após reunir as informações, acesse o painel "Configurações", opção **"Servidor SMTP"** dentro do eConsult e preencha os campos solicitados. A partir daí, o sistema passará a utilizar seu servidor personalizado para o envio de todos os e-mails.
