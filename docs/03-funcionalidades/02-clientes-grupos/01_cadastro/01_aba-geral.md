@@ -36,15 +36,14 @@ Os demais campos (informações de contato ou o responsável pelo grupo) são op
 - **Dia de vencimento para atendimentos:** Permite indicar o dia de vencimento para pagamentos dos atendimentos deste cliente ou grupo.
     :::note O sistema permite indicar:
         - No mesmo dia dos atendimentos
-        - Último ia do mês
+        - Último dia do mês
         - Dia 1 do mês subsequente
         - Dia 10 do mês subsequente
         - Dia 15 do mês subsequente
         - Dia 20 do mês subsequente
         - Dia 25 do mês subsequente
         
-        Exemplo: Se a data do atendimento for 14/05/2025 (14 de maio de 2025), o dia 5 do mês subsequente é:
-        - 05/06/2025 (5 de junho de 2025 será a data de vencimento para pagamento do atendimento).
+        Exemplo: Se a data do atendimento for 14/05/2025 (14 de maio de 2025), o dia 5 do mês subsequente é **05/06/2025** (5 de junho de 2025 será a data de vencimento para pagamento do atendimento).
     :::
 - **Regras de Cobrança:** Permite indicar uma regra de cobrança para o cliente ou grupo. Esta regra pode conceder descontos para pagamento antecipado ou cobrar juros e mora após um período de atraso.
     :::note

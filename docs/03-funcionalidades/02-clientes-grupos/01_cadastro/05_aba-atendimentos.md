@@ -18,7 +18,7 @@ Além disso, é apresentada uma lista de *cards*, onde cada um representa um ate
 
     :::tip
 
-        Os *cards" da aba Atendimentos permite você gerenciar anotações, arquivos, lembretes e informes de presença e pagamentos (no caso de grupos de atendimento) do atendimento.
+        Os *cards* da aba Atendimentos permite você gerenciar anotações, arquivos, lembretes e informes de presença e pagamentos (no caso de grupos de atendimento) do atendimento.
 
         ![Painel Lembretes](../../../../static/img/prints/lembretes/005.png)
 
@@ -26,7 +26,7 @@ Além disso, é apresentada uma lista de *cards*, onde cada um representa um ate
         
         - **Arquivos:** ![Painel Lembretes](../../../../static/img/prints/lembretes/007.png) Permite incluir, alterar ou excluir arquivos vinculados a cada atendimento.
         
-        - **Lembretes:** ![Painel Lembretes](../../../../static/img/prints/lembretes/008.png) Mostra as cores de todos os tipos de lembretes vinculados ao atendimento e permite fazer a gestão destes lembretes do atendimento.
+        - **Lembretes de Atendimentos:** ![Painel Lembretes](../../../../static/img/prints/lembretes/008.png) Mostra as cores de todos os tipos de lembretes vinculados ao atendimento e permite fazer a gestão destes lembretes do atendimento.
         
         - **Informes de presença e pagamentos:** ![Painel Lembretes](../../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo de atendimento. Permite informar a presença dos clientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
         
@@ -70,4 +70,5 @@ Além disso, é apresentada uma lista de *cards*, onde cada um representa um ate
 ​​
 1. Em dias de recesso, o sistema manterá esses dias inativos. Você não tem a opção de marcar estes dias pois recessos são dias bloqueados para agendamentos.
 ​​
+
 Ao seguir esses passos, você assegura que os múltiplos atendimentos sejam agendados de forma eficiente, alinhados às suas necessidades e às do cliente.

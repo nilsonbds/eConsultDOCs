@@ -26,6 +26,6 @@ Através do painel, você pode facilmente indicar se um atendimento agendado est
 
 - **Arquivos:** O painel permite a inclusão, alteração ou exclusão de arquivos relacionados aos atendimentos, como documentos, exames ou outros materiais pertinentes, garantindo que todas as informações estejam centralizadas (esta opção só estará disponível se você ativar a integração do eConsult com seu Google Drive).
 
-- **Lembretes:** Você pode vincular o atendimento a lembretes pré-definidos, auxiliando no gerenciamento de ações que precisam ser realizadas, garantindo que nada seja esquecido.
+- **Lembretes de Atendimentos:** Você pode vincular o atendimento a lembretes pré-definidos, auxiliando no gerenciamento de ações que precisam ser realizadas, garantindo que nada seja esquecido.
 
 - **Lista de Presença (para grupos de atendimentos):** No caso de grupos de atendimento, você poderá registrar presenças e ausências dos membros do grupo, oferecendo um controle mais preciso sobre a participação de cada integrante.

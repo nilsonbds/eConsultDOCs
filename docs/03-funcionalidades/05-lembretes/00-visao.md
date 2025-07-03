@@ -60,7 +60,7 @@ Os *cards* de atendimento no painel Lembretes oferece uma visão abrangente das 
         
         - **Arquivos:** ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/007.png) Permite incluir, alterar ou excluir arquivos vinculados a cada atendimento.
         
-        - **Lembretes:** ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/008.png) Mostra as cores de todos os tipos de lembretes vinculados ao atendimento e permite fazer a gestão destes lembretes do atendimento.
+        - **Lembretes de Atendimentos:** ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/008.png) Mostra as cores de todos os tipos de lembretes vinculados ao atendimento e permite fazer a gestão destes lembretes do atendimento.
         
         - **Informes de presença e pagamentos:** ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo de atendimento. Permite informar a presença dos clientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
         

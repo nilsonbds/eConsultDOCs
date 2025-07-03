@@ -28,9 +28,69 @@ Essas funcionalidades já funcionam com a IA do eConsult. A seguir, você aprend
 
 ---
 
+## Política de Uso de Tokens no eConsult
+
+### Limite Mensal de Tokens no eConsult
+
+Cada usuário do **eConsult** tem acesso a **192.000 tokens por mês** para utilizar os recursos de inteligência artificial integrados à plataforma.
+
+Esse limite é **renovado automaticamente no primeiro dia de cada mês** e corresponde a uma quantidade generosa de uso, suficiente para os atendimentos e tarefas do dia a dia.
+
+:::warning **Importante:**  
+- Esse limite existe apenas como medida de proteção contra abusos e uso excessivo fora do propósito da ferramenta. Ele garante que todos os usuários tenham uma experiência estável, rápida e segura no uso da IA.
+
+- Se você atingir o limite mensal, a IA será temporariamente desativada até o início do próximo mês, quando o saldo de tokens será renovado automaticamente.
+:::
+
+Você pode acompanhar o uso dos seus tokens no painel "Configurações" na opção "ChatGPT".
+
+![Uso de tokens](../../../../static/img/prints/chatgpt/chatgpt-008.png)
+
+## Qual modelo de IA o eConsult utiliza?
+
+O **eConsult utiliza exclusivamente o modelo GPT-4o-mini** da OpenAI para todas as funcionalidades nativas de geração de texto.
+
+:::warning **Vantagens do GPT-4o-mini:**
+
+- **Alta eficiência com baixo custo de tokens**
+- Excelente para tarefas como:
+  - Anotações de atendimento
+  - Análises clínicas e psicológicas
+  - Resumos e relatórios
+
+- **Mais econômico** que modelos como o GPT-4o e GPT-4-turbo, ideal para uso contínuo
+:::
+
+## Se você usar a sua própria API da OpenAI?
+
+Se preferir usar a sua **API da OpenAI diretamente**, você será responsável por inserir créditos e gerenciar o uso.
+
+:::note **Exemplo:** 
+Com apenas **$1 por mês**, usando o modelo GPT-4o-mini, você consegue gerar aproximadamente:
+- 8 anotações de atendimento por dia (~300 tokens cada)
+- 1 análise mensal (~900 tokens)
+- 1 análise anual (~900 tokens)  
+- **Total:** cerca de 60.000 tokens/mês — **bem abaixo do limite mensal disponível** no eConsult mas suficiente para um uso moderado.
+:::
+
+## Resumo
+
+| Recurso                     | Uso via eConsult (nativo)        | Uso via API/ChatGPT pessoal      |
+|-----------------------------|----------------------------------|----------------------------------|
+| **Modelo usado**            | GPT-4o-mini                      | GPT-4o-mini                      |
+| **Tokens disponíveis**      | 192.000 por mês (fixo)           | Depende dos créditos inseridos   |
+| **Cobrança**                | Gratuito (incluso no sistema)    | Conforme consumo                 |
+| **Bloqueio por excesso**    | Sim, até o próximo mês           | Você define o limite por crédito |
+
+---
+
+Se tiver dúvidas sobre o consumo de tokens ou desejar monitorar o uso, entre em contato com o suporte técnico do eConsult (atendimento@econsult.app.br).
+
+---
+
 ## Configurar a integração do seu ChatGPT no eConsult
 
-1. Crie ou acesse sua conta na OpenAI
+**1. Crie ou acesse sua conta na OpenAI**
     
     - Acesse: https://platform.openai.com/​
 
@@ -38,11 +98,11 @@ Essas funcionalidades já funcionam com a IA do eConsult. A seguir, você aprend
 
         ![Painel Configurações](../../../../static/img/prints/chatgpt/chatgpt-002.png)
 
-1. Vá até a seção de API Keys
+**2. Vá até a seção de API Keys**
     
     - Após fazer login, vá para: https://platform.openai.com/account/api-keys​
 
-1. Gere uma nova chave
+**3. Gere uma nova chave**
     
     - Clique no botão “+ Create new secret key”.
     
@@ -54,7 +114,7 @@ Essas funcionalidades já funcionam com a IA do eConsult. A seguir, você aprend
     
     - Clique em "Create secret key" ![Painel Configurações](../../../../static/img/prints/chatgpt/chatgpt-005.png).
 
-1. Copie a chave
+**4. Copie a chave**
 
     - Copie a chave exibida logo após criá-la ![Painel Configurações](../../../../static/img/prints/chatgpt/chatgpt-006.png).
     
@@ -62,7 +122,7 @@ Essas funcionalidades já funcionam com a IA do eConsult. A seguir, você aprend
             - Guarde em local seguro, como um gerenciador de senhas ou arquivo de configuração local.
         :::
 
-1. Configure a Integração no eConsult
+**5. Configure a Integração no eConsult**
 
     - No eConsult, no painel Configurações, acesse a opção "Integrações / ChatGPT".
     
@@ -72,7 +132,7 @@ Essas funcionalidades já funcionam com a IA do eConsult. A seguir, você aprend
     
     - Acione o botão Salvar ![Painel Configurações](../../../../static/img/prints/buttons/btn_salvar.png).
     
-Pronto! Sua integração está feita.
+**Pronto! Sua integração está feita.**
 
 ---
 
@@ -89,23 +149,23 @@ Acreditamos que **$1 por mês** é mais do que suficiente para:
 
 ## Inserir créditos na plataforma OpenAI
 
-### 1. Acesse a Plataforma da OpenAI
+**1. Acesse a Plataforma da OpenAI**
 
 - Acesse: [https://platform.openai.com](https://platform.openai.com)
 - Faça login com sua conta OpenAI (a mesma do ChatGPT, se já tiver).
 
-### 2. Vá até a Seção de Faturamento
+**2. Vá até a Seção de Faturamento**
 
 - No canto superior direito, clique no seu **nome ou ícone de usuário**.
 - No menu, selecione **Billing** (Faturamento).
 
-### 3. Adicione um Método de Pagamento
+**3. Adicione um Método de Pagamento**
 
 - Acesse a aba **Payment methods**.
 - Clique em **“+ Add payment method”**.
 - Insira os dados do seu **cartão de crédito** (Visa, MasterCard, etc.).
 
-### 4. Configure Limites de Gasto
+**4. Configure Limites de Gasto**
 
 - Vá para a aba **Usage limits**.
 - Defina um **limite de uso mensal** (recomendado: $5 a $10 para uso moderado).

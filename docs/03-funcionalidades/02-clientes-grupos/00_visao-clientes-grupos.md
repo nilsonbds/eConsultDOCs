@@ -54,7 +54,7 @@ Sendo:
 1. **Atendimentos Agendados:** Indica a quantidade de atendimentos agendados para o cliente ou grupo até o momento.
 1. **Perdas Registradas:** Mostra o número de perdas (baixas contábeis registradas) associadas ao cliente ou grupo.
 1. **Data do Último Atendimento:** Exibe a data do último atendimento agendado. Se for superior a 30 dias, a data será exibida em vermelho.
-1. Dispensas de Cobrança: Indica o número de dispensas de cobrança registradas para o cliente (dispensa de cobrança ocorre quando o atendimento não é pago e o valor é zerado manualmente).
+1. **Dispensas de Cobrança:** Indica o número de dispensas de cobrança registradas para o cliente (dispensa de cobrança ocorre quando o atendimento não é pago e o valor é zerado manualmente).
 1. **Envio de Link Área do Cliente via WhatsApp:** Botão que permite enviar o link de acesso a Área do Cliente via WhatsApp para o cliente ou grupo de atendimento.
 1. **Envio de Link Área do Clientevia E-mail:** Botão que permite enviar o link de acesso a Área do Cliente por e-mail.
 1. **Editar Cadastro:** Botão que abre a tela de cadastro do cliente em modo de edição.

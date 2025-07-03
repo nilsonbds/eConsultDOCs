@@ -57,7 +57,7 @@ O Score do Cliente é apresentado por meio de três seções principais, que rep
 ![Análise de Score](../../../static/img/prints/analisescore/005.png)
 
 - **GLOBAL**: Considera todo o histórico do cliente desde o início do relacionamento com a sua organização.
-- **ANO**: Refere-se aos dados acumulados nos últimos 12 meses.
+- **ANO**: Refere-se aos dados acumulados no ano corrente.
 - **MÊS**: Apresenta as informações referentes ao comportamento mais recente, no mês atual.
 
 Cada uma dessas seções exibe um conjunto de indicadores que refletem o desempenho do cliente no período correspondente, sendo:

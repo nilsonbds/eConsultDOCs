@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-enderecos.png)
 
-O eConsult oferece uma funcionalidade robusta para o cadastro de endereços, permitindo que cada cliente ou grupode atendimento tenha um endereço principal e múltiplos endereços secundários. Esse recurso é especialmente útil para profissionais que prestam serviços em diferentes locais, possibilitando o registro detalhado dos locais de atendimento ou residência dos clientes.
+O eConsult oferece uma funcionalidade robusta para o cadastro de endereços, permitindo que cada cliente ou grupo de atendimento tenha um endereço principal e múltiplos endereços secundários. Esse recurso é especialmente útil para profissionais que prestam serviços em diferentes locais, possibilitando o registro detalhado dos locais de atendimento ou residência dos clientes.
 
 O cadastro de endereços é essencial para garantir que o eConsult possa emitir documentos de forma precisa e personalizada, como recibos, prontuários, e outras documentações importantes. O endereço principal é utilizado como referência para os documentos oficiais, enquanto os endereços secundários podem ser aplicados em situações específicas, como para entrega de correspondências ou para a prestação de serviços em locais alternativos.
 

@@ -144,7 +144,7 @@ Além disso, essa restrição está alinhada com as diretrizes da **LGPD (Lei Ge
 
 Por isso, em vez de permitir a exclusão definitiva, o eConsult adota práticas como a **inativação ou anonimização** dos dados, conforme previsto pela legislação, garantindo assim o equilíbrio entre a preservação das informações e os direitos dos titulares.
 
-No entanto, caso você deseje interromper o uso de um cadastro, é possível inativá-lo de forma simples. Para inativaro cadastro de um cliente ou grupo de atendimento, siga os seguintes passos:
+No entanto, caso você deseje interromper o uso de um cadastro, é possível inativá-lo de forma simples. Para inativar o cadastro de um cliente ou grupo de atendimento, siga os seguintes passos:
 
 - No painel "Clientes e Grupos" selecione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png) no cartão do cliente ou grupo desejado.
 - O sistema abre a tela de cadastro "Cliente".
@@ -201,7 +201,7 @@ O Score do Cliente é apresentado por meio de três seções principais (subcard
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-032.png)
 
 - **GLOBAL:** Considera todo o histórico do cliente desde o início do relacionamento com a sua organização.
-- **ANO:** Refere-se aos dados acumulados nos últimos 12 meses.
+- **ANO:** Refere-se aos dados acumulados no ano corrente.
 - **MÊS:** Apresenta as informações referentes ao comportamento mais recente, no mês atual.
 
 Cada uma dessas seções exibe um conjunto de indicadores que refletem o desempenho do cliente no período correspondente, sendo:
