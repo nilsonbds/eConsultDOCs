@@ -8,45 +8,39 @@ O cadastro de Formas de Pagamento no eConsult é uma etapa crucial para o gerenc
 
 ## Incluir Forma de Pagamento
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_formas-pagamento.png).
-
-2. O sistema abrirá a tela "Formas de Pagamento".
+1. No painel "Configurações", acione a opção "Formas de Pagamento".
 
     ![Painel Configurações](../../../../static/img/prints/01_formas-pagmento-001.png)
 
-3. Acione o botão **Incluir Forma de Pagamento** ![Painel Configurações](../../../../static/img/prints/buttons/btn_add.png).
+1. Acione o botão **Incluir Forma de Pagamento** ![Painel Configurações](../../../../static/img/prints/buttons/btn_add.png).
 
-4. O sistema abrirá o formulário de cadastro de nova forma de pagamento.
+1. O sistema abrirá o formulário de cadastro "Nova forma de pagamento".
 
     ![Painel Configurações](../../../../static/img/prints/01_formas-pagmento-002.png)
 
-5. Preencha o campo "Nome" (um nome dado por você sobre a forma de pagamento).
+1. Preencha o campo "Nome" (um nome dado por você sobre a forma de pagamento).
 
-6. Acione o botão "Incluir" ![Painel Configurações](../../../../static/img/prints/buttons/btn_incluir.png).
+1. Acione o botão "Incluir" ![Painel Configurações](../../../../static/img/prints/buttons/btn_incluir.png).
 
 ## Alterar Forma de Pagamento
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_formas-pagamento.png).
+1. No painel "Configurações", acione a opção "Formas de Pagamento".
 
-2. O sistema abrirá a tela "Formas de Pagamentos".
+1. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_card-edit.png) no *card* da forma de pagamento que se quer alterar.
 
-3. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_card-edit.png) no *card* da forma de pagamento que se quer alterar.
+1. O sistema abrirá o formulário de cadastro de alteração de forma de pagamento.
 
-4. O sistema abrirá o formulário de cadastro de alteração de forma de pagamento.
+1. Altere o campo "Nome".
 
-5. Altere o campo "Nome".
-
-6. Acione o botão "Salvar" ![Painel Configurações](../../../../static/img/prints/buttons/btn_salvar.png).
+1. Acione o botão "Salvar" ![Painel Configurações](../../../../static/img/prints/buttons/btn_salvar.png).
 
 ## Excluir Forma de Pagamento
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_formas-pagamento.png).
+1. No painel "Configurações", acione a opção "Formas de Pagamento".
 
-2. O sistema abrirá a tela "Formas de Pagamento".
+1. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_card-delete.png) no *card* da forma de pagamento que se quer excluir.
 
-3. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_card-delete.png) no *card* da forma de pagamento que se quer excluir.
-
-4. Confirme a exclusão acionando o botão **Sim**.
+1. Confirme a exclusão acionando o botão **Sim**.
 
 :::note
 **Integração com Pix:** Caso o eConsult esteja integrado ao seu PIX, essa opção será exibida automaticamente na lista de formas de pagamento disponíveis no sistema. É importante destacar que a forma de pagamento 'PIX' se aplica exclusivamente a intenções de recebimento por atendimentos. Ela será utilizada para o pagamento de despesas e nem para a quitação de atendimentos, pois, neste último caso, trata-se de uma efetivação e não de uma intenção.

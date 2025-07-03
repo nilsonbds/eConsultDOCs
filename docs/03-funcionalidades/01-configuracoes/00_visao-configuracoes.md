@@ -18,9 +18,9 @@ As configurações são divididas em quatro grupos, cada um com suas funcionalid
 
 O objetivo aqui é configurar e personalizar a agenda para otimizar o planejamento e a organização do tempo.
 
-- **Carga Horária Semanal:** Defina os horários de funcionamento e os intervalos disponíveis para atendimentos.
-- **Recessos:** Recessos diários na agenda é uma prática essencial para manter um fluxo de trabalho organizado e evitar conflitos de horário, garantindo que todos os períodos de ausência sua sejam devidamente respeitados.
-- **Lembretes:** Configure lembretes para os atendimentos, ajudando a garantir que nenhuma atividade importante seja esquecida.
+- **Disponibilidades:** Configure os dias e horários em que você estará disponível para atendimentos, incluindo intervalos entre sessões/atendimentos.
+- **Recessos:** Defina períodos de pausa, férias ou feriados nos quais sua agenda ficará bloqueada para agendamentos.
+- **Lembretes de Atendimentos:** Configure agrupamentos de atendimentos com base em ações pendentes, como emissão de recibos ou preenchimento de prontuários, para não esquecer de realizá-las.
 
 ## Clientes
 

@@ -529,7 +529,7 @@ São os modelos pré-definidos para **Psicologia**:
 
 - Trajetória profissional resumida
 - Mudanças recentes no trabalho
-- Carga horária atual e demandas
+- Disponibilidades atuais e demandas
 - Relação com superiores e colegas
 
 ### Sintomas e Sinais

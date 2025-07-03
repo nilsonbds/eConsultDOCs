@@ -8,45 +8,39 @@ O cadastro de **Campos Adicionais para Clientes** é uma funcionalidade que perm
 
 ## Incluir Campo Adicional para Clientes
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_campos-adicionais-clientes.png).
-
-2. O sistema abrirá a tela "Campos Adicionais para Clientes".
+1. No painel "Configurações", acione a opção "Campos Adicionais".
 
     ![Painel Configurações](../../../../static/img/prints/01_campos-adicionais-001.png)
 
-3. Acione o botão **Incluir Campo Adicional** ![Painel Configurações](../../../../static/img/prints/buttons/btn_add.png).
+1. Acione o botão **Incluir Campo Adicional** ![Painel Configurações](../../../../static/img/prints/buttons/btn_add.png).
 
-4. O sistema abrirá o formulário de cadastro de novo campo adicional.
+1. O sistema abrirá o formulário de cadastro de novo campo adicional.
 
     ![Painel Configurações](../../../../static/img/prints/01_campos-adicionais-002.png)
 
-5. Preencha os campos "Rótulo" e "Tipo".
+1. Preencha os campos "Rótulo" e "Tipo".
 
-6. Acione o botão "Incluir" ![Painel Configurações](../../../../static/img/prints/buttons/btn_incluir.png).
+1. Acione o botão "Incluir" ![Painel Configurações](../../../../static/img/prints/buttons/btn_incluir.png).
 
 ## Alterar Campo Adicional para Clientes
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_campos-adicionais-clientes.png).
+1. No painel "Configurações", acione a opção "Campos Adicionais".
 
-2. O sistema abrirá a tela "Campos Adicionais para Clientes".
+1. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_card-edit.png) no *card* do campo adicional que se quer alterar.
 
-3. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_card-edit.png) no *card* do campo adicional que se quer alterar.
+1. O sistema abrirá o formulário de cadastro de alteração de campo adicional.
 
-4. O sistema abrirá o formulário de cadastro de alteração de campo adicional.
+1. Altere os campos "Rótulo" e "Tipo".
 
-5. Altere os campos "Rótulo" e "Tipo".
-
-6. Acione o botão "Salvar" ![Painel Configurações](../../../../static/img/prints/buttons/btn_salvar.png).
+1. Acione o botão "Salvar" ![Painel Configurações](../../../../static/img/prints/buttons/btn_salvar.png).
 
 ## Excluir Campo Adicional para Clientes
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_campos-adicionais-clientes.png).
+1. No painel "Configurações", acione a opção "Campos Adicionais".
 
-2. O sistema abrirá a tela "Campos Adicionais para Clientes".
+1. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_card-delete.png) no *card* do campo adicional que se quer excluir.
 
-3. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_card-delete.png) no *card* do campo adicional que se quer excluir.
-
-4. Confirme a exclusão acionando o botão **Sim**.
+1. Confirme a exclusão acionando o botão **Sim**.
 
 :::tip
 

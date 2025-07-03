@@ -8,7 +8,7 @@ O cadastro de Grupos de Clientes por Idade é uma ferramenta para entender e seg
 
 ## Incluir Grupo de Cliente por Idade
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_grupo-por-idade.png).
+1. No painel "Configurações", acione a opção "Grupos de Clientes por Idade".
 
 2. O sistema abrirá a tela "Grupos por Idade".
 
@@ -26,7 +26,7 @@ O cadastro de Grupos de Clientes por Idade é uma ferramenta para entender e seg
 
 ## Alterar Grupo de Cliente por Idade
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_grupo-por-idade.png).
+1. No painel "Configurações", acione a opção "Grupos de Clientes por Idade".
 
 2. O sistema abrirá a tela "Grupos por Idade".
 
@@ -40,7 +40,7 @@ O cadastro de Grupos de Clientes por Idade é uma ferramenta para entender e seg
 
 ## Excluir Grupo de Cliente por Idade
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_grupo-por-idade.png).
+1. No painel "Configurações", acione a opção "Grupos de Clientes por Idade".
 
 2. O sistema abrirá a tela "Grupos por Idade".
 

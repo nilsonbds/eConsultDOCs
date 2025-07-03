@@ -2,17 +2,17 @@
 sidebar_position: 3
 ---
 
-# Lembretes
+# Lembretes de Atendimentos
 
-Os **Lembretes** funcionam como destaques que você pode atribuir aos seus atendimentos, permitindo agrupar atendimentos em atenção a informações importantes ou momentos significativos em diversos contextos. 
+Os **Lembretes de Atendimentos** funcionam como destaques que você pode atribuir aos seus atendimentos, permitindo agrupar atendimentos em atenção a informações importantes ou momentos significativos em diversos contextos. 
 
-No eConsult, é possível configurar até 6 (seis) tipos de lembretes, cada um identificado por uma cor distinta para facilitar a organização e visualização.
+No eConsult, é possível configurar até 6 (seis) tipos de lembretes de atendimentos, cada um identificado por uma cor distinta para facilitar a organização e visualização.
 
-Lembretes podem ser extremamente úteis para organizar atendimentos, acompanhar o progresso dos seus clientes e garantir a eficiência na gestão das sessões.
+Lembretes de atendimentos podem ser extremamente úteis para organizar atendimentos, acompanhar o progresso dos seus clientes e garantir a eficiência na gestão das sessões.
 
-## Configurar Lembretes
+## Configurar Lembretes de Atendimentos
 
-1. Acesse o "Painel Configurações" e clique na opção **Lembretes** ![Painel Configurações](../../../../static/img/prints/buttons/btn_lembretes.png).
+1. Acesse o "Painel Configurações" e clique na opção "Lembretes de Atendimentos".
 
     ![Painel Configurações](../../../../static/img/prints/03_lembretes-001.png)
 
@@ -28,24 +28,18 @@ Lembretes podem ser extremamente úteis para organizar atendimentos, acompanhar 
 
 5. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_check.png) para salvar a configuração.
 
-:::note Sugestão de configuração de lembretes
-- Sessão de Acompanhamento:
-    - **Descrição:** "Revisar progresso do cliente"
+:::note Sugestão de configuração de lembretes de atendimentos
+- **Emitir recibo** - "Para lembrar de gerar o comprovante de pagamento dos atendimentos realizados."
     - **Cor:** Verde
-- Avaliação:
-    - **Descrição:** "Realizar avaliação para o cliente" 
+- **Preencher prontuário** - "Lembrar de registrar observações clínicas ou notas após a sessão" 
     - **Cor:** Amarela
-- Feedback:
-    - **Descrição:** "Solicitar feedback sobre a última sessão com o cliente" 
+- **Enviar mensagem ao paciente** - "Lembrar de enviar orientação pós-sessão, material de apoio, ou confirmar agendamento futuro." 
     - **Cor:** Laranja
-- Prontuário:
-    - **Descrição:** "Atualizar e emitir prontuário do cliente" 
+- **Agendar próxima sessão** - "Para não esquecer de combinar a continuidade do atendimento com o paciente." 
     - **Cor:** Vermelho
-- Recibo:
-    - **Descrição:** "Emitir recibos para a sessão" 
+- **Atualizar plano terapêutico** - "Revisar objetivos e estratégias com base na evolução do paciente." 
     - **Cor:** Roxo
-- Cobrança:
-    - **Descrição:** "Cobrar sessões do cliente" 
+- **Atualizar dados do paciente** - "Lembrar de revisar ou completar informações cadastrais, como endereço, contato, convênio ou dados clínicos relevantes." 
     - **Cor:** Azul
 
 Com este exemplo, o resultado seria:

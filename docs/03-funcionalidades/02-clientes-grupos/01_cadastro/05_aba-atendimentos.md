@@ -50,7 +50,7 @@ Além disso, é apresentada uma lista de *cards*, onde cada um representa um ate
 
 1. No campo "A primeira", escolha o dia da semana em que os atendimentos devem ser realizados.
 
-1. Se desejar configurar os agendamentos de acordo com disponibilidades previamente definidas, acione o botão "![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_disponibilidades.png)". O sistema exibirá opções de horário baseadas na carga horária semanal previamente configurada. Selecione uma disponibilidade de horário adequada.
+1. Se desejar configurar os agendamentos de acordo com disponibilidades previamente definidas, acione o botão "![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_disponibilidades.png)". O sistema exibirá opções de horário baseadas nas disponibilidades previamente configuradas. Selecione uma disponibilidade de horário adequada.
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-016.png)
 

@@ -48,7 +48,7 @@ A remarcação de um agendamento de atendimento no eConsult permite  a alteraç�
 
 1. Acione o botão ![Atendimento](../../../static/img/prints/buttons/btn_disponibilidades.png) se desejar que esta remarcação seja feita dentro de disponibilidades previamente configuradas para a data.
 
-1. O sistema abrirá opções de horário correspondentes a disponibilidades pré-definidas na carga horária semanal.
+1. O sistema abrirá opções de horário correspondentes a disponibilidades pré-definidas em "Disponibilidades".
 
     ![Atendimento](../../../static/img/prints/atendimento/027.png)
 

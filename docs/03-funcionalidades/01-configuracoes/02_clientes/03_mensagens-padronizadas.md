@@ -20,13 +20,11 @@ No painel Alertas o sistema mostra a opção "Confirmação". Nesta funcionalida
 
 ## Configurar Mensagens Padronizadas para Clientes
 
-1. No painel "Configurações", no grupo "Clientes", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_grupo-por-idade.png).
-
-2. O sistema abrirá a tela "Mensagens Padronizadas".
+1. No painel "Configurações", no grupo "Clientes", acione a opção "Mensagens Padronizadas".
 
     ![Painel Configurações](../../../../static/img/prints/03_mensagens-padronizadas-002.png)
 
-3. Altere as mensagens padronizadas desejadas.
+1. Altere as mensagens padronizadas desejadas.
 
     :::tip Use variáveis de ambiente
     O eConsult utiliza tags para variáveis de ambiente. Por exemplo, se você deseja que o sistema insira automaticamente o nome do cliente num texto padrão, basta utilizar a tag ```<NomeCliente>```.
@@ -47,7 +45,7 @@ No painel Alertas o sistema mostra a opção "Confirmação". Nesta funcionalida
         - **Campos Adicionais:** são aquelas definidas por você no tela Campos Adicionais.
         :::
 
-4. Acione o botão **Salvar** ![Painel Configurações](../../../../static/img/prints/buttons/btn_check.png).
+1. Acione o botão **Salvar** ![Painel Configurações](../../../../static/img/prints/buttons/btn_check.png).
 
 :::note 
 Você pode restaurar os textos com os padrões do sistema, se necessário, pressionando o botão **Restaurar padrões** ![Painel Configurações](../../../../static/img/prints/buttons/btn_restaurar-padrao.png).

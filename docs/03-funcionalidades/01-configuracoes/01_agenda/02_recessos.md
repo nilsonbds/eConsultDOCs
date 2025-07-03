@@ -8,13 +8,13 @@ O cadastro de Recessos é uma ferramenta para manter sua agenda bem planejada, r
 
 ## Incluir recesso
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_recessos.png).
+1. No painel "Configurações", acione a opção "Recessos".
 
     ![Painel Configurações](../../../../static/img/prints/02_recessos-001.png)
 
 2. Acione o botão **Incluir Recesso** ![Painel Configurações](../../../../static/img/prints/buttons/btn_add.png).
 
-3. O sistema abrirá o formulário de cadastro de novo recesso.
+3. O sistema abrirá o formulário de cadastro "Novo recesso".
 
     ![Painel Configurações](../../../../static/img/prints/02_recessos-002.png)
 
@@ -24,7 +24,7 @@ O cadastro de Recessos é uma ferramenta para manter sua agenda bem planejada, r
 
 ## Alterar recesso
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_recessos.png).
+1. No painel "Configurações", acione a opção "Recessos".
 
     ![Painel Configurações](../../../../static/img/prints/02_recessos-003.png)
 
@@ -44,7 +44,7 @@ Se houver atendimentos previamente agendados no dia em que você pretende cadast
 
 ## Excluir recesso
 
-1. No painel "Configurações", acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_recessos.png).
+1. No painel "Configurações", acione a opção "Recessos".
 
     ![Painel Configurações](../../../../static/img/prints/02_recessos-003.png)
 

@@ -11,12 +11,11 @@ Para uma gestão financeira eficaz, é essencial ter um entendimento claro e org
 Oferece o cadastro de formas de pagamento que é crucial para facilitar a quitação de faturas e atender às preferências dos clientes. Exemplos:
 
 - **Dinheiro:** Pagamento em espécie, comum em transações presenciais.
-- **Cartões de Crédito e Débito:** Métodos amplamente utilizados para conveniência e segurança.
 - **Transferências Bancárias:** Pagamentos diretos entre contas bancárias, útil para transações maiores ou recorrentes.
 
     :::note
     - As opções acima são só exemplos ilustrativos. Cabe a você cadastrar suas próprias formas de pagamento.
-    - O sistema vem como padrão a opção **Dinheiro**, mas você pode editá-la ou excluí-la se assim quiser.
+    - O sistema vem como padrão a opção **Dinheiro, Transferência bancária, Transferência via PIX e Carteira Digital**, mas você pode editá-las, excluí-las ou incluir outras, se assim for conveniente.
     ::: 
 
 ## Categorias de Receitas

@@ -48,11 +48,11 @@ sidebar_position: 4
 
     - ### ❓ Posso personalizar notificações para meus clientes?
 
-        Sim. Vá em “Configurações” > “Notificações” e defina os tipos de lembretes e mensagens que deseja ativar por e-mail ou WhatsApp.
+        Sim. Vá em “Configurações” > “Notificações” e defina os lembretes de atendimentos e mensagens que deseja ativar por e-mail ou WhatsApp.
 
     - ### ❓ O sistema envia lembretes automáticos?
 
-        Sim, você pode configurar para que os clientes recebam lembretes de agendamento 24h ou 1h antes da consulta.
+        Sim, você pode configurar para que os clientes recebam lembretes atendimentos 24h ou 1h antes da consulta.
 
 ## 📌 Análises e Relatórios
 

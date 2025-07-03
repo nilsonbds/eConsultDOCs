@@ -8,7 +8,7 @@ Para alteração de seus dados gerais, acesse a opção correspondente a **Dados
 
 ![Painel Conta](../../../static/img/prints/01_dados-gerais-001.png)
 
-## Alterando os dados gerais da sua conta
+## Alterar dados gerais da sua conta
 
 1. Atualize os dados necessários, como nome, sexo, especialidade, registro no conselho (se for o caso), tipo de atendimento padrão, cidade de atuação, e-mail, telefone, celular e CPF.
 

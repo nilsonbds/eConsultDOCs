@@ -72,9 +72,9 @@ Além disso, o topo do calendário contém um conjunto de botões para navegaç�
 
 No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos de forma clara e organizada. Dias específicos que foram cadastrados como recesso são automaticamente bloqueados, assim como intervalos de tempo previamente definidos. Isso garante que a agenda esteja sempre atualizada, refletindo fielmente as suas necessidades e evitando agendamentos em períodos indesejados.
 
-- Você pode configurar disponibilidades e bloquear horários (intervalos) diretamente na página [Carga Horária Semanal](/docs/funcionalidades/configuracoes/agenda/carga-horária-semanal).
+- Você pode configurar disponibilidades e bloquear horários (intervalos) diretamente na página [Disponibilidades](/docs/funcionalidades/configuracoes/agenda/carga-horária-semanal).
 
-- A agenda refletirá as configurações feitas em [Carga Horária Semanal](/docs/funcionalidades/configuracoes/agenda/carga-horária-semanal), mostrando as disponibilidades e os intervalos. 
+- A agenda refletirá as configurações feitas em [Disponibilidades](/docs/funcionalidades/configuracoes/agenda/carga-horária-semanal), mostrando as disponibilidades e os intervalos. 
 
 - Nas disponibilidades, os atendimentos podem ser agendados normalmente, através do botão , enquanto que os intervalos, não permitem este tipo de agendamento.
 
@@ -82,7 +82,7 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 
     ![Painel Atendimento](../../../static/img/prints/atendimento/018.png)
 
-- Os intervalos são identificados pelos nomes definidos durante a configuração da carga horária semanal.
+- Os intervalos são identificados pelos nomes definidos durante a configuração de disponibilidades.
 
     ![Painel Atendimento](../../../static/img/prints/atendimento/019.png)
 
