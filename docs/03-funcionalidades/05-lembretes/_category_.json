@@ -1,9 +1,9 @@
 {
-  "label": "Lembretes",
+  "label": "Lembretes de Atendimentos",
   "position": 5,
   "link": {
     "slug": "/lembretes",
     "type": "generated-index",
-    "description": "O painel Lembretes no eConsult é uma ferramenta que organiza e centraliza atendimentos com lembretes, exibindo-os em cards agrupados por tipo. Isso facilita a visualização e o acompanhamento eficiente das informações mais importantes de cada atendimento."
+    "description": "O painel Lembretes de Atendimentos do eConsult é uma ferramenta que centraliza os atendimentos vinculados a lembretes específicos, organizando-os em cards agrupados por tipo de lembrete."
   }
 }

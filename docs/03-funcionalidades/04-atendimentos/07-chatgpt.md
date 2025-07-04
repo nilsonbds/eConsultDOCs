@@ -61,6 +61,10 @@ Cada usuário do **eConsult** tem acesso a **192.000 tokens por mês** para util
 
 Esse limite é **renovado automaticamente no primeiro dia de cada mês** e corresponde a uma quantidade generosa de uso, suficiente para os atendimentos e tarefas do dia a dia.
 
+Cada usuário do **eConsult** conta com uma cota mensal de **192.000 tokens** para utilizar os recursos de inteligência artificial integrados à plataforma.
+
+Esse limite é renovado automaticamente no primeiro dia de cada mês e oferece uma quantidade ampla o suficiente para cobrir, com folga, os atendimentos e tarefas do dia a dia.
+
 :::warning **Importante:**  
 - Esse limite existe apenas como medida de proteção contra abusos e uso excessivo fora do propósito da ferramenta. Ele garante que todos os usuários tenham uma experiência estável, rápida e segura no uso da IA.
 

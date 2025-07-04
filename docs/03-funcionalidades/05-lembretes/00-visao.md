@@ -2,29 +2,31 @@
 sidebar_position: 0
 ---
 
-# Sobre Lembretes
+# Sobre Lembretes de Atendimentos
 
-O painel Lembretes no eConsult é uma ferramenta que auxilia na gestão e acompanhamento dos atendimentos. Ele centraliza todos os atendimentos que possuem lembretes vinculados, organizando-os de maneira lógica e intuitiva em *cards* individuais que são agrupados por tipo de lembrete. Essa estrutura permite uma visualização clara e eficiente, facilitando o acesso às informações mais relevantes de cada atendimento.
+O painel "Lembretes de Atendimentos" do eConsult é uma ferramenta que apoia a gestão e o acompanhamento dos atendimentos de forma prática e organizada.
 
-## Agrupamento por Lembrete
-
-O agrupamento dos *cards* por lembretes é uma característica chave que melhora significativamente a organização e o fluxo de trabalho. Ao agrupar atendimentos por lembretes, o painel oferece uma visão concentrada e focada em tarefas específicas ou em séries de atendimentos que compartilham características similares.
+Ele centraliza os atendimentos que compartilham o mesmo tipo de lembrete, agrupando-os de maneira lógica e intuitiva em cards individuais. Essa estrutura facilita a visualização e o acesso rápido às informações mais relevantes de cada atendimento, otimizando o fluxo de trabalho do profissional.
 
 ![Painel Lembretes](../../../static/img/prints/lembretes/001.png)
 
-O painel Lembretes do eConsult organiza os atendimentos de forma inteligente, agrupando-os por lembretes indicados ao longo do uso do sistema. Isso significa que todos os atendimentos que compartilham um lembrete em comum são reunidos em um mesmo grupo. Essa abordagem facilita o gerenciamento e a organização dos compromissos, permitindo que o profissional visualize e acompanhe de maneira eficiente todos os atendimentos vinculados a um mesmo propósito.
+O agrupamento dos *cards* por lembretes é uma característica essencial que melhora significativamente a organização e o fluxo de trabalho. Ao concentrar os atendimentos por lembrete, o painel proporciona uma visão clara e focada em tarefas específicas ou em séries de atendimentos com características semelhantes.
 
-Imagine que você tem dois atendimentos agendados para diferentes clientes, mas ambos estão vinculados a um lembrete específico, como "Solicitar feedback sobre a última sessão com o cliente". Nesse caso, esses atendimentos seriam agrupados em um único grupo de lembretes, já que compartilham do mesmo propósito.
+Essa abordagem facilita o gerenciamento dos compromissos, permitindo que o profissional visualize, acompanhe e aja com mais eficiência em relação aos atendimentos que exigem atenção especial.
+
+### Exemplo prático
+
+Imagine que você tenha dois atendimentos agendados para clientes diferentes, mas ambos estejam associados a um mesmo tipo de lembrete, como:
+
+**"Emitir recibo"**  
+
+Nesse caso, esses atendimentos serão exibidos dentro do mesmo grupo no painel de lembretes de atendimento, já que compartilham o mesmo foco de ação. Isso ajuda a manter o acompanhamento organizado e centrado em objetivos claros.
 
 ![Painel Lembretes](../../../static/img/prints/lembretes/002.png)
 
-- **Título do agrupamento:** Mostra o nome do Lembrete e quantidade de atendimentos com este tipo de lembrete vinculado.
-
-    ![Painel Lembretes](../../../static/img/prints/lembretes/003.png)
-
 ## *Cards* de Atendimento
 
-Os *cards* de atendimento no painel Lembretes oferece uma visão abrangente das informações essenciais de cada atendimento, tornando o acompanhamento simples e eficaz.
+Os *cards* de atendimento no painel Lembretes de Atendimentos oferece uma visão abrangente das informações essenciais de cada atendimento, tornando o acompanhamento simples e eficaz.
 
 ![Painel Lembretes](../../../static/img/prints/lembretes/004.png)
 
@@ -68,4 +70,4 @@ Os *cards* de atendimento no painel Lembretes oferece uma visão abrangente das 
 
     :::
 
-Esses elementos visuais, informativos e interativos tornam a gestão dos atendimentos mais eficiente, reunindo todos os detalhes importantes em um único lugar, de forma organizada e acessível. Isso melhora a experiência tanto dos profissionais quanto dos clientes, garantindo que nenhuma informação seja esquecida ou negligenciada.
+Esses elementos visuais, informativos e interativos tornam a gestão dos atendimentos mais eficiente, reunindo todos os detalhes importantes em um único lugar, de forma organizada e acessível. Isso melhora a experiência tanto dos profissionais quanto dos clientes, diminuindo as chances de que informações importantes sejam esquecidas ou negligenciadas.
