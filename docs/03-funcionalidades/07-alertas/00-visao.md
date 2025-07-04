@@ -11,8 +11,8 @@ O principal objetivo do painel Alertas é identificar e destacar situações que
 - **Monitorar Problemas Potenciais:** Alertar sobre questões que podem afetar o desempenho, a qualidade do serviço ou a satisfação dos clientes.
 - **Facilitar a Ação Imediata:** Proporcionar informações em tempo real para que decisões possam ser tomadas rapidamente.
 - **Prevenir Impactos Negativos:** Minimizar os impactos negativos ao abordar problemas antes que eles se agravem.
-
-![Painel Alertas](../../../static/img/prints/alertas/001.png)
+  
+  ![Painel Alertas](../../../static/img/prints/alertas/001.png)
 
 ## Benefícios do Painel Alertas
 
@@ -32,39 +32,39 @@ O eConsult pode exibir, no Painel Alertas, as chamadas "![Painel Alertas](../../
 
 ### Recomendações e exigências possíveis
 
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/005.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de Clientes</figcaption>
 </figure>
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/006.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de Agendamentos de Atendimentos</figcaption>
 </figure>
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/007.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Exige o cadastramento do seu Endereço Principal</figcaption>
 </figure>
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/008.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Recomenda a inclusão de uma Foto de Perfil</figcaption>
 </figure>
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/009.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão do seu Logotipo</figcaption>
 </figure>
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/010.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Recomenda a configuração dos seus Lembretes</figcaption>
 </figure>
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/011.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Recomenda a inclusão de Grupos por Idade</figcaption>
 </figure>
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/012.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de pelo menos uma Forma de Pagamento</figcaption>
 </figure>
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/013.png" alt="Painel de Alertas" />
   <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de pelo menos um Modelo de Anamnese</figcaption>
 </figure>
@@ -97,7 +97,7 @@ O painel também exibe **outros alertas inteligentes**, que funcionam como **lem
 
 ![Painel Alertas](../../../static/img/prints/alertas/019.png)
 
-Esses alertas mantêm você informado sobre **pendências, atualizações e tarefas que exigem sua atenção**, oferecendo mais controle e agilidade no uso do eConsult.
+Esses alertas mantêm você informado sobre **pendências, atualizações e tarefas que pedem sua atenção**, oferecendo mais controle e agilidade no uso do eConsult.
 
 Importante destacar que esses alertas **aparecem somente quando são de fato relevantes**, evitando distrações e mantendo seu foco no que é mais importante.
 

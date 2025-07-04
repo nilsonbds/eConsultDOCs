@@ -4,15 +4,11 @@ sidebar_position: 0
 
 # Sobre Aba Análise Anual
 
-:::warning
-Esta aba só estará visível se você tiver uma integração com ChatGPT.
-::::
-
 A Análise Anual é uma funcionalidade exclusiva que permite gerar uma análise inteligente a partir dos dados consolidados de todos os meses de um determinado ano anterior.
 
 ![Painel Resultados](../../../../static/img/prints/resultados/018.png)
 
-Essa funcionalidade utiliza a integração com o ChatGPT para processar automaticamente os indicadores históricos, gerando uma análise textual completa, com:
+Essa funcionalidade gera uma análise textual completa, com:
 
 - Resumo das principais métricas e variações ao longo do ano
 

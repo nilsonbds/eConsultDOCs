@@ -4,11 +4,15 @@ sidebar_position: 0
 
 # Sobre Resultados
 
-O Painel Resultados tem como principal objetivo oferecer à organização uma visão clara e estratégica sobre o desempenho e a evolução do negócio, permitindo a tomada de decisões mais informadas a partir da análise integrada de diversos indicadores.
+O Painel Resultados tem como principal objetivo oferecer à organização uma visão clara e estratégica do desempenho e da evolução do negócio.
 
-Essa ferramenta é essencial para compreender o equilíbrio entre ganhos financeiros, custos operacionais e o volume de atendimentos realizados na plataforma eConsult. Ao reunir dados de forma estruturada e visual, o painel apoia os profissionais na identificação de tendências, oportunidades de melhoria e na definição de ações mais assertivas.
+A partir da análise integrada de diversos gráficos, indicadores e análises textuais com insights, ele permite uma tomada de decisão mais informada, baseada em dados relevantes e atualizados.
 
-O painel está dividido em três abas principais: "Gráficos", "Indicadores" e "Análise Anual" (este último só disponível para quem possui integração com o ChatGPT).
+Essa ferramenta é essencial para compreender o equilíbrio entre ganhos financeiros, custos operacionais e o volume de atendimentos realizados na plataforma eConsult. 
+
+Ao reunir dados de forma estruturada e visual, o painel apoia os profissionais na identificação de tendências, oportunidades de melhoria e na definição de ações mais assertivas.
+
+O painel está dividido em três abas principais: "Gráficos", "Indicadores" e "Análise Anual".
 
 ## Aba Gráficos
 
@@ -20,7 +24,7 @@ Apresenta informações em formato visual, com gráficos que abrangem os último
 
 ## Aba Indicadores
 
-Exibe os principais indicadores referentes ao mês selecionado por meio do seletor. Essa aba permite uma análise mais aprofundada e contextualizada dos dados, oferecendo insights relevantes que apoiam a tomada de decisões no dia a dia.
+Exibe os principais indicadores referentes ao mês selecionado por meio do seletor. Essa aba permite uma análise mais aprofundada e contextualizada dos dados, oferecendo informações relevantes que apoiam a tomada de decisões no dia a dia.
 
 :::tip 
 **[Mais sobre indicadores clique aqui](/docs/funcionalidades/resultados/indicadores/visao).**
@@ -28,7 +32,7 @@ Exibe os principais indicadores referentes ao mês selecionado por meio do selet
 
 ## Aba Análise Anual
 
-Disponível para usuários com integração ao ChatGPT, essa aba permite uma análise retrospectiva baseada em dados mensais dos anos anteriores. Ela fornece contexto histórico e insights mais amplos, fundamentais para avaliações estratégicas de longo prazo e planejamento futuro.
+Essa aba permite uma análise retrospectiva baseada em dados mensais dos anos anteriores. Ela fornece contexto histórico e insights mais amplos, fundamentais para avaliações estratégicas de longo prazo e planejamento futuro.
 
 :::tip 
 **[Mais sobre análise anual clique aqui](/docs/funcionalidades/resultados/analise-anual/visao).**

@@ -67,7 +67,7 @@ Os *cards* de atendimento no painel Lembretes de Atendimentos oferece uma visão
         - **Informes de presença e pagamentos:** ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo de atendimento. Permite informar a presença dos clientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
         
         Você também tem acesso a diversas funcionalidades relacionadas ao atendimento, como Desmarcar, Remarcar, Excluir, alterar Modalidade e Status, além de realizar Recebimentos. Tudo isso está disponível de forma prática através de um único botão ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_card-edit.png).
-
     :::
+
 
 Esses elementos visuais, informativos e interativos tornam a gestão dos atendimentos mais eficiente, reunindo todos os detalhes importantes em um único lugar, de forma organizada e acessível. Isso melhora a experiência tanto dos profissionais quanto dos clientes, diminuindo as chances de que informações importantes sejam esquecidas ou negligenciadas.

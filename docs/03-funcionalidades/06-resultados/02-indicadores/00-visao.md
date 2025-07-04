@@ -4,11 +4,11 @@ sidebar_position: 0
 
 # Sobre Aba Indicadores
 
-A aba Indicadores apresenta uma visão abrangente e consolidada do desempenho de todos os clientes no mês selecionado. Nela, estão reunidas informações-chave como volume de atendimentos, principais demandas, níveis de satisfação e outros dados relevantes que possibilitam uma análise comparativa entre períodos e facilitam a identificação de padrões, oportunidades de melhoria e tomada de decisões estratégicas com base em dados concretos.
+A aba Indicadores apresenta uma visão abrangente e consolidada do desempenho de todos os clientes no mês selecionado. Nela, estão reunidas informações-chave como volume de atendimentos, principais demandas, níveis de satisfação e outros dados relevantes que possibilitam uma análise comparativa no mês e facilitam a identificação de padrões, oportunidades de melhoria e tomada de decisões estratégicas com base em dados concretos.
 
 Os dados agregados permitem acompanhar, em um único painel, a performance financeira, o engajamento e o risco da carteira como um todo, bem como de grupos específicos de clientes.
 
-Os indicadores estão organizados nos seguintes **cards**:
+Os indicadores estão organizados nos seguintes *cards*:
 
 1. **Situação financeira**
 
@@ -112,7 +112,7 @@ Os indicadores estão organizados nos seguintes **cards**:
     Índices de remarcações e desmarcações apontam previsibilidade de demanda e possíveis impactos na produtividade.
 
 :::tip
-Se o sistema estiver integrado ao ChatGPT, será exibido o botão ![Painel Resultados](../../../../static/img/prints/buttons/btn_fazer-analise.png). Ao clicar nesse botão, o sistema realiza uma análise textual automatizada dos indicadores exibidos, gerando insights estratégicos e interpretações inteligentes com base nos dados do painel.
+Caso o mês selecionado seja anterior ao atual, o botão ![Painel Resultados](../../../../static/img/prints/buttons/btn_fazer-analise.png) será exibido. Ao clicar nesse botão, o sistema realiza, uma análise textual automatizada dos indicadores exibidos, gerando insights estratégicos e interpretações inteligentes com base nos dados do painel.
 
 Essa análise ajuda a compreender tendências, identificar oportunidades de melhoria, sinalizar possíveis riscos e apoiar a tomada de decisões — de forma prática, rápida e orientada por dados.
 :::
