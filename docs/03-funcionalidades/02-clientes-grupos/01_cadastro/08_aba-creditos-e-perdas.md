@@ -22,29 +22,29 @@ A aba Créditos e Perdas oferece funcionalidades para o gerenciamento de crédit
 
 1. Preencha os campos "Valor", "Data", "Forma de Pagamento" e "Descrição" (opcional).
 
-    :::warning
-        - Se o campo "Data" for preenchido com a data atual ou uma data anterior, o sistema exibirá automaticamente a indicação "Realizado" ao lado da data. 
-
-            ![Painel Clientes e Grupos](../../../../static/img/prints/perdas/005.png)
-        
-        - Caso a data informada seja futura, o sistema mostrará a indicação "Previsto", sinalizando que o pagamento ainda está pendente.
-
-            ![Painel Clientes e Grupos](../../../../static/img/prints/perdas/006.png)
-
-        - Essa informação (Previsto ou Realizado) também estará visível no *card* correspondente ao crédito.
-
-        Além disso, créditos com o status "Previsto" serão incluídos automaticamente na alerta respectivo do painel "Alertas", indicando que há um pagamento pendente de confirmação.
-
-        ![Painel Clientes e Grupos](../../../../static/img/prints/perdas/009.png)
-
-        Dessa forma, o painel "Alertas" reúne, em um só lugar, todos os créditos com pagamento previsto, facilitando o acompanhamento e a gestão dessas pendências.
-    :::
-
 1. Acione o botão "Incluir" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_incluir.png).
 
 1. A aba mostrará um extrato atualizado já com o crédito cadastrado.
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-025.png)
+
+:::warning
+    - Se o campo "Data" for preenchido com a data atual ou uma data anterior, o sistema exibirá automaticamente a indicação "Realizado" ao lado da data. 
+
+        ![Painel Clientes e Grupos](../../../../static/img/prints/perdas/005.png)
+    
+    - Caso a data informada seja futura, o sistema mostrará a indicação "Previsto", sinalizando que o pagamento ainda está pendente.
+
+        ![Painel Clientes e Grupos](../../../../static/img/prints/perdas/006.png)
+
+    - Essa informação (Previsto ou Realizado) também estará visível no *card* correspondente ao crédito.
+
+    Além disso, créditos com o status "Previsto" serão incluídos automaticamente no alerta respectivo do painel "Alertas", indicando que há um pagamento pendente de confirmação.
+
+    ![Painel Clientes e Grupos](../../../../static/img/prints/perdas/009.png)
+
+    Dessa forma, o painel "Alertas" reúne, em um só lugar, todos os créditos com pagamento previsto, facilitando o acompanhamento e a gestão dessas pendências.
+:::
 
 ## Mudar status de crédito antecipado de "Previsto" para "Realizado"
 

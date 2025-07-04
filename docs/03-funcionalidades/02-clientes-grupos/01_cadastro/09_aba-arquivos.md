@@ -10,13 +10,13 @@ sidebar_position: 9
 A aba Arquivos não será mostrada se você não fizer antes a configuração "**[Integração com Google Drive](/docs/funcionalidades/configuracoes/integracoes/googledrive)**".
 :::
 
-O eConsult oferece um sistema integrado de gerenciamento de arquivos, diretamente conectado ao Google Drive, proporcionando uma solução centralizada, segura e eficiente para armazenar e acessar documentos de clientes ou grupos de atendimento.
+O eConsult oferece um sistema integrado de gerenciamento de arquivos, diretamente conectado ao seu Google Drive, proporcionando uma solução centralizada, segura e eficiente para armazenar e acessar documentos de clientes ou grupos de atendimento.
 
 Com essa integração, todos os arquivos — como documentos, relatórios, imagens e outros formatos — podem ser facilmente organizados, acessados e compartilhados pela própria plataforma. Isso otimiza o fluxo de trabalho, melhora a organização e permite a categorização lógica e personalizada dos arquivos, de acordo com as necessidades do seu atendimento.
 
 Ao centralizar os documentos no Google Drive, você conta com sincronização em tempo real, backups automáticos e maior segurança, reduzindo o risco de perda de informações importantes.
 
-Para ativar a integração, acesse: [Painel de Configurações > Google Drive](/docs/funcionalidades/configuracoes/integracoes/googledrive).
+Para ativar a integração, acesse: [Painel de Configurações => Google Drive](/docs/funcionalidades/configuracoes/integracoes/googledrive).
 
 Na aba Arquivos, é possível anexar documentos diretamente vinculados ao cliente, facilitando o gerenciamento e o acesso rápido a informações relevantes.
 
@@ -40,15 +40,15 @@ Na aba Arquivos, é possível anexar documentos diretamente vinculados ao client
 
 1. Acione o botão "Incluir" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_incluir.png).
 
-1. A aba Arquivos mostrará o arquivo incluído vinculado ao cliente.
+1. A aba Arquivos mostrará o arquivo incluído já vinculado ao cliente.
 
 ## Alterar arquivo vinculado ao cliente
 
-1. Na aba "Arquivos, no *card" do arquivo que se quer alterar, acione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png).
+1. Na aba "Arquivos, no *card* do arquivo que se quer alterar, acione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png).
 
 1. O sistema abre formulário de cadastro do arquivo.
 
-1. Se que mudar o arquivo, acione a opção "Escolher Arquivo".
+1. Se quiser mudar o arquivo, acione a opção "Escolher Arquivo".
 
     1. Selecione o arquivo desejado do seu dispositivo.
 

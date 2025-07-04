@@ -18,7 +18,7 @@ Nesta aba, você encontrará também duas sub-abas distintas para uma navegaçã
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-017.png)
 
-- **Sub-aba "Desmarcações":** Aqui estão registradas tsodas as desmarcações de atendimentos. Essa seção exibe um histórico das consultas que foram canceladas, detalhando as datas e horários originais dos atendimentos que foram removidos.
+- **Sub-aba "Desmarcações":** Aqui estão registradas todas as desmarcações de atendimentos. Essa seção exibe um histórico das consultas que foram canceladas, detalhando as datas e horários originais dos atendimentos que foram removidos.
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-018.png)
 
