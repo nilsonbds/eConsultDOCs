@@ -16,7 +16,7 @@ A sub-aba Gráficos oferece uma visualização consolidada e interativa dos prin
 
 Os gráficos disponíveis são:
 
-- **LTV e LTC:** Apresenta dois indicadores estratégicos relacionados ao relacionamento financeiro do cliente: o LTV (Lifetime Value) e o LTC (Lifetime Cost) no mês. Ele oferece uma visão do valor gerado pelo cliente ao longo do tempo em comparação com o custo para adquiri-lo ou mantê-lo.
+- **LTV e CLC:** Apresenta dois indicadores estratégicos relacionados ao relacionamento financeiro do cliente: o LTV (Lifetime Value) e o CLC (Customer Lifetime Cost) no mês. Ele oferece uma visão do valor gerado pelo cliente ao longo do tempo em comparação com o custo para adquiri-lo ou mantê-lo.
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-039.png)
 
@@ -161,6 +161,7 @@ A visualização consolidada dos indicadores mensais do cliente permite extrair 
 6. **Perfil de Consumo e Precificação:** Ao observar os custos pagos (mínimo, médio e máximo), compreende-se melhor o perfil de consumo do cliente. Isso pode ajudar na definição de pacotes personalizados, promoções ou ajustes de preço, baseados na disposição de pagamento e histórico de utilização.
 
 7. **Comportamento em Remarcações e Desmarcações:** Altos índices de desmarcações e remarcações podem comprometer a organização da agenda e indicar baixa previsibilidade no comportamento do cliente. A frequência de desmarcações recuperadas e remarcações mostra a capacidade de manter o vínculo ativo, mesmo com instabilidades.
-Conclusão
+
+**Conclusão**
 
 A leitura integrada desses indicadores permite não apenas avaliar o desempenho e a saúde financeira do relacionamento com cada cliente, mas também antecipar comportamentos, personalizar estratégias de atendimento, prever riscos e maximizar o valor ao longo do tempo. Com essa base, é possível tomar decisões mais assertivas e construir relacionamentos mais sólidos e sustentáveis.

@@ -2,15 +2,17 @@
 sidebar_position: 7
 ---
 
-# Inteligência Artificial (ChatGPT) em Anotações
+# Inteligência Artificial em Anotações
 
-Caso você tenha uma integração com o ChatGPT, o sistema exibirá o botão "Atendimento" ![Atendimento](../../../static/img/prints/buttons/btn_chatgpt.png).
+O eConsult conta com inteligência artificial nativa para agilizar tarefas do dia a dia, como no caso de anotações do atendimento.
 
-Ao clicar nesse botão, será exibida a tela de edição de texto com recursos de Inteligência Artificial do ChatGPT. Nessa interface, você poderá aprimorar conteúdos, desenvolver textos ou obter respostas com base no material inserido.
+Ao incluir ou editar uma anotação, aparece o botão ![Botão ChatGPT](../../../static/img/prints/buttons/btn_chatgpt.png), que abre um editor que permite sugestões automáticas baseadas em IA.
+
+Ao clicar nesse botão, será exibida a tela de edição de texto com recursos de Inteligência Artificial. Nessa interface, você poderá aprimorar conteúdos, desenvolver textos ou obter respostas com base no material inserido.
 
 ![Atendimento](../../../static/img/prints/atendimento/053.png)
 
-Essa tela faz parte de uma ferramenta interativa projetada para apoiar a criação, revisão e desenvolvimento de textos. Utilizando o ChatGPT, ela oferece uma experiência intuitiva e eficiente, facilitando a produção de conteúdos mais claros, objetivos e bem estruturados — mesmo para quem não tem familiaridade com técnicas de escrita.
+Essa tela faz parte de uma ferramenta interativa projetada para apoiar a criação, revisão e desenvolvimento de textos. Utilizando IA, ela oferece uma experiência intuitiva e eficiente, facilitando a produção de conteúdos mais claros, objetivos e bem estruturados — mesmo para quem não tem familiaridade com técnicas de escrita.
 
 ## Campo de Entrada de Texto (Superior)
 
@@ -52,3 +54,15 @@ A resposta gerada pela IA será exibida neste campo, permitindo visualização i
 ## Botão "Aplicar"
 
 Após selecionar a ação desejada e ajustar os parâmetros, clique no botão "Aplicar" para que o sistema utilize o texto gerado como anotação no atendimento.
+
+---
+
+Cada usuário do **eConsult** tem acesso a **192.000 tokens por mês** para utilizar os recursos de inteligência artificial integrados à plataforma.
+
+Esse limite é **renovado automaticamente no primeiro dia de cada mês** e corresponde a uma quantidade generosa de uso, suficiente para os atendimentos e tarefas do dia a dia.
+
+:::warning **Importante:**  
+- Esse limite existe apenas como medida de proteção contra abusos e uso excessivo fora do propósito da ferramenta. Ele garante que todos os usuários tenham uma experiência estável, rápida e segura no uso da IA.
+
+- Se você atingir o limite mensal, a IA será temporariamente desativada até o início do próximo mês, quando o saldo de tokens será renovado automaticamente.
+:::

@@ -34,7 +34,7 @@ Cada transação registrada conta com informações detalhadas, como o "nome do 
 
     - O sistema permite o envio de notificações por whatsapp ou e-mail para lembrar os clientes sobre pagamentos pendentes.
 
-    - Também é possível o envio de notificações por whatsapp de pagamentos já registrados.
+    - Também é possível o envio de notificações por whatsapp ou e-mail de pagamentos já registrados.
 
 ## Incluir um recebimento
 

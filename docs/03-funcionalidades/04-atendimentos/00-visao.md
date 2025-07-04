@@ -13,12 +13,12 @@ São as funcionalidades:
 - **Gestão de Atendimentos:** O painel permite uma gestão eficiente dos atendimentos, possibilitando a inclusão, alteração, remarcação, desmarcação ou exclusão de compromissos. Durante o agendamento, é possível definir o dia, horário e a duração do atendimento, garantindo que todas as informações estejam devidamente registradas.
 
 - **Gerenciamento de Disponibilidades:** No painel Atendimentos é que se mostra as disponibilidades de horários, bloqueando dias específicos ou intervalos pré-definidos, o que assegura que a agenda esteja sempre atualizada e organizada conforme as suas necessidades. As disponibilidades e intervalos podem ser configurados em "Disponibilidades".
-Desmarcação, Remarcação e Exclusão
-O painel oferece uma interface simplificada para desmarcar, remarcar ou excluir atendimentos, tornando essas operações rápidas e fáceis de realizar.
+
+- **Desmarcação, Remarcação e Exclusão:** O painel oferece uma interface simplificada para desmarcar, remarcar ou excluir atendimentos, tornando essas operações rápidas e fáceis de realizar.
 
 - **Modalidade:** A qualquer momento, é possível alterar a modalidade do atendimento, escolhendo entre presencial ou remoto, conforme a conveniência do cliente ou grupo de atendimento e do profissional.
-Confirmação e Realização de Atendimentos
-Através do painel, você pode facilmente indicar se um atendimento agendado está confirmado ou não. Também é possível registrar se os atendimentos passados foram realizados ou não, proporcionando um controle detalhado e preciso sobre os compromissos.
+
+- **Confirmação e Realização de Atendimentos:** Através do painel, você pode facilmente indicar se um atendimento agendado está confirmado ou não. Também é possível registrar se os atendimentos passados foram realizados ou não, proporcionando um controle detalhado e preciso sobre os compromissos.
 
 - **Recebimentos:** O painel também permite o gerenciamento dos recebimentos associados aos atendimentos, facilitando o controle financeiro diretamente na agenda.
 

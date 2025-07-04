@@ -44,7 +44,9 @@ A decisão de publicar ou não as anotações no prontuário deve levar em conta
 
 :::tip
 
-**Caso você tenha uma integração com o ChatGPT, o sistema exibirá o botão "Atendimento" ![Atendimento](../../../static/img/prints/buttons/btn_chatgpt.png).**
+**Caso você queira utilizar inteligência artificial para a anotação, acione o botão ![Atendimento](../../../static/img/prints/buttons/btn_chatgpt.png).**
 
-Ao clicar nesse botão, será aberta a tela de edição de texto com recursos de Inteligência Artificial do ChatGPT. Nela, você poderá aprimorar conteúdos, desenvolver textos ou obter respostas para suas perguntas com base no texto fornecido.
+Ao clicar nesse botão, será aberta a tela de edição de texto com recursos de Inteligência Artificial. Nela, você poderá aprimorar conteúdos, desenvolver textos ou obter respostas para suas perguntas com base no texto fornecido.
+
+Mais sobre a funcionalidade de Inteligência Artificial em anotações [clique aqui](/docs/funcionalidades/atendimentos/chatgpt).
 :::

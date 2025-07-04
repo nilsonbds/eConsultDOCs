@@ -16,11 +16,11 @@ A Modalidade dos Atendimentos no eConsult define o tipo de atendimento que será
 
     ![Atendimento](../../../static/img/prints/atendimento/033.png)
 
-##Confirmação de Atendimentos
+## Confirmação de Atendimentos
 
 Confirmação de Atendimentos no eConsult refere-se ao processo em que o profissional de saúde informa se um atendimento agendado está de fato confirmado para ocorrer. Essa confirmação pode ser feita antes do horário marcado para o atendimento — ou seja, nunca depois que o horário já passou.
 
-Essa informação ajuda o profissional lembra que ainda precisa de uma confirmação do cliente apesar do atendimento já estar agendado.
+Essa informação ajuda o profissional lembrar que ainda precisa de uma confirmação do cliente apesar do atendimento já estar agendado.
 
 :::warning
   Mesmo sem confirmação, o sistema já considera esses atendimentos como parte da agenda e os inclui nas previsões de receita, pois há uma expectativa de que eles aconteçam.

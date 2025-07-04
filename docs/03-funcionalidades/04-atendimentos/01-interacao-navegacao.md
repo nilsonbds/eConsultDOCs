@@ -6,17 +6,17 @@ sidebar_position: 1
 
 O painel Atendimentos se ajusta automaticamente ao tamanho da sua tela. Se você estiver utilizando um notebook, o painel será modulado para a versão desktop. Já em um smartphone, ele se adaptará para a versão mobile, garantindo uma experiência de uso otimizada em qualquer dispositivo.
 
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "center", marginBottom: "20px" }}>
   <img src="/img/prints/atendimento/001.png" alt="Painel de Atendimentos" />
   <figcaption style={{ fontStyle: "italic"}}>Versão Desktop</figcaption>
 </figure>
 
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "center", marginBottom: "20px" }}>
   <img src="/img/prints/atendimento/002.png" alt="Painel de Atendimentos" />
   <figcaption style={{ fontStyle: "italic"}}>Versão mobile (agenda do dia)</figcaption>
 </figure>
 
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "center", marginBottom: "20px" }}>
   <img src="/img/prints/atendimento/003.png" alt="Painel de Atendimentos" />
   <figcaption style={{ fontStyle: "italic"}}>Versão mobile (agenda da semana)</figcaption>
 </figure>
@@ -76,7 +76,7 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 
 - A agenda refletirá as configurações feitas em [Disponibilidades](/docs/funcionalidades/configuracoes/agenda/carga-horária-semanal), mostrando as disponibilidades e os intervalos. 
 
-- Nas disponibilidades, os atendimentos podem ser agendados normalmente, através do botão , enquanto que os intervalos, não permitem este tipo de agendamento.
+- Nas disponibilidades, os atendimentos podem ser agendados normalmente, através do botão ![Botão de Edição](../../../static/img/prints/buttons/btn_card-edit.png), enquanto que os intervalos, não permitem este tipo de agendamento.
 
 - As disponibilidades são indicadas pelo texto "V A G O", o que significa que o horário está livre (vago) e pronto para receber um agendamento.
 
@@ -99,7 +99,7 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 :::
 
 :::note
-    Embora seja possível configurar disponibilidades e intervalos através do cadastro de cargas horárias semanais, o eConsult pode ser utilizado mesmo sem essas configurações. Nesse caso, a agenda não exibirá informações sobre disponibilidades e intervalos, mas os agendamentos de atendimentos ainda poderão ser realizados normalmente através do botão ![Painel Atendimento](../../../static/img/prints/buttons/btn_add.png).
+    Embora seja possível configurar disponibilidades e intervalos através da opção "Configurações => Disponibilidades", o eConsult pode ser utilizado mesmo sem essa configuração. Nesse caso, a agenda não exibirá informações sobre disponibilidades e intervalos, mas os agendamentos de atendimentos ainda poderão ser realizados normalmente através do botão ![Painel Atendimento](../../../static/img/prints/buttons/btn_add.png).
 :::
 
 :::note Recessos

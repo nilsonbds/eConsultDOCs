@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Interação e Navegação do "Card" de Atendimentos
+# Interação e Navegação do *Card* de Atendimentos
 
 A lista de atendimentos no eConsult exibe todos os atendimentos agendados para o dia selecionado, organizados em *cards* individuais. Cada *card* contém informações mínimas sobre o atendimento, incluindo:
 
@@ -11,7 +11,7 @@ A lista de atendimentos no eConsult exibe todos os atendimentos agendados para o
 - **Status de realização ou confirmação:** Apresenta um informe sobre o status atual do atendimento (confirmado, não confirmado, realizado, não realizado ou, se não houver, informe pendente).
 - **Valor e valor pago:** Indica o valor do atendimento e quanto já foi pago.
 
-<figure style={{ margin: 0, textAlign: "center" }}>
+<figure style={{ margin: 0, textAlign: "center", marginBottom: "20px" }}>
   <img src="/img/prints/atendimento/023.png" alt="Painel de Atendimentos" />
   <figcaption style={{ fontStyle: "italic"}}>Card de atendimento</figcaption>
 </figure>

@@ -6,20 +6,36 @@ sidebar_position: 10
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-prontuario.png)
 
-A aba Prontuário é uma ferramenta fundamental no eConsult, desenvolvida para oferecer um registro completo, estruturado e seguro de todas as informações relacionadas aos atendimentos realizados com cada cliente ou grupo de atendimento. Sua principal função é centralizar dados essenciais, facilitando o acompanhamento contínuo da evolução e das necessidades de cada caso, promovendo mais eficiência, clareza e qualidade no atendimento profissional.
+A aba Prontuário reúne, de forma sistemática e organizada, todas as informações relevantes sobre o atendimento prestado ao cliente ou grupo atendido. Trata-se de um instrumento essencial para assegurar a continuidade e a qualidade do cuidado, além de exercer funções legais, administrativas e científicas.
+
+O prontuário pode incluir dados pessoais, anamnese, histórico clínico, resultados de exames, diagnósticos, prescrições, anotações de atendimento, evolução do quadro e outros registros pertinentes. Sua elaboração deve obedecer a normas técnicas e éticas, garantindo confidencialidade, precisão e clareza nas informações registradas.
+
+No eConsult, o prontuário eletrônico é adotado como padrão, oferecendo maior agilidade no acesso às informações e promovendo melhor integração entre os profissionais e seus clientes. A segurança dos dados é uma prioridade na plataforma, sendo implementadas medidas robustas de proteção e controle de acesso para assegurar a privacidade das informações.
+
+Sob o aspecto legal, o prontuário é considerado um documento oficial e pode ser utilizado como prova em processos judiciais — tanto em defesa do paciente quanto do profissional de saúde. Por esse motivo, é fundamental que os registros sejam feitos com exatidão e responsabilidade.
+
+Além de sua função assistencial e legal, o prontuário também desempenha um papel relevante na educação e na pesquisa científica, permitindo a análise de casos, a avaliação de práticas clínicas e o desenvolvimento de novas abordagens terapêuticas.
 
 Confira os principais recursos disponibilizados pelo Prontuário:
 
-- **Histórico Completo:** Permite registrar todos os atendimentos realizados, com datas e horários detalhados. Isso oferece uma linha do tempo clara da trajetória do cliente ou grupo, facilitando o entendimento da evolução dos casos e auxiliando na tomada de decisões.
+### **Anamnese**
+Permite ao profissional registrar de forma estruturada as informações iniciais do cliente ou grupo, como queixas principais, histórico de saúde, antecedentes familiares, hábitos de vida e outros dados relevantes para o entendimento global do caso. A anamnese é o ponto de partida para um atendimento qualificado, servindo como base para avaliações futuras e para a construção de um plano de cuidado personalizado.
 
-- **Arquivos:** Disponibiliza a visualização de arquivos vinculados a clientes, grupos ou atendimentos específicos. Esses documentos ficam acessíveis por meio de links de download, garantindo que todas as informações relevantes estejam sempre disponíveis para o profissional e para as pessoas com quem ele optar por compartilhá-las.
+### **Histórico Completo**
+Permite registrar todos os atendimentos realizados, com datas e horários detalhados. Isso oferece uma linha do tempo clara da trajetória do cliente ou grupo, facilitando o entendimento da evolução dos casos e auxiliando na tomada de decisões.
 
-- **Anotações e Observações:** O profissional pode adicionar anotações diretamente no prontuário, com a possibilidade de incluir campos personalizados conforme suas necessidades. Também é possível consultar observações registradas em atendimentos anteriores, contribuindo para um acompanhamento mais preciso e embasado.
+### **Arquivos**
+Disponibiliza a visualização de arquivos vinculados a clientes, grupos ou atendimentos específicos. Esses documentos ficam acessíveis por meio de links de download, garantindo que todas as informações relevantes estejam sempre disponíveis para o profissional e para as pessoas com quem ele optar por compartilhá-las.
 
-- **Acesso Seguro e Privado:** Todas as informações registradas são protegidas com rigorosos padrões de segurança e ficam disponíveis apenas para pessoas previamente autorizadas pelo profissional. Isso assegura a privacidade dos dados do cliente, em conformidade com as melhores práticas de proteção da informação.
-Com essa funcionalidade, o eConsult garante ao profissional uma visão integrada, segura e de fácil acesso do histórico de cada cliente, contribuindo para um atendimento mais completo, personalizado e eficaz.
+### **Anotações e Observações**
+O profissional pode adicionar anotações diretamente no prontuário, com a possibilidade de incluir campos personalizados conforme suas necessidades. Também é possível consultar observações registradas em atendimentos anteriores, contribuindo para um acompanhamento mais preciso e embasado.
 
-Para utilizar a funcionalidade de prontuário no eConsult, é necessário, primeiramente, cadastrar um [Modelo de Anamnese](/docs/funcionalidades/modelo-anamnese/visao). Esses modelos definem a estrutura e os campos personalizados que serão utilizados para o registro das informações no prontuário de cada cliente ou grupo de atendimento, garantindo padronização e organização dos dados.
+### **Acesso Seguro e Privado**
+Todas as informações registradas são protegidas com rigorosos padrões de segurança e ficam disponíveis apenas para pessoas previamente autorizadas pelo profissional. Isso assegura a privacidade dos dados do cliente, em conformidade com as melhores práticas de proteção da informação.
+
+Com essas funcionalidades, o **eConsult** garante ao profissional uma visão integrada, segura e de fácil acesso do histórico de cada cliente, contribuindo para um atendimento mais completo, personalizado e eficaz.
+
+Para utilizar as funcionalidades de prontuário do eConsult, é necessário, primeiramente, cadastrar os [Modelos de Anamnese](/docs/funcionalidades/modelo-anamnese/visao). Esses modelos definem a estrutura e os campos personalizados que serão utilizados para o registro das informações no prontuário de cada cliente ou grupo de atendimento, garantindo padronização e organização dos dados.
 
 Após o cadastramento de modelos de anamnese, você estará apto a iniciar os registros nos prontuários.
 
@@ -29,7 +45,7 @@ Após o cadastramento de modelos de anamnese, você estará apto a iniciar os re
 
 1. o sistema passa a mostrar a estrutura (formulários) de prontuário do cliente.
 
-1. Ajuste a estrutura do prontuário, alterando ou excluindo tópicos e seus respectivos campos conforme suas necessidades.
+1. Ajuste a estrutura do prontuário, incluindo, alterando ou excluindo tópicos e seus respectivos campos conforme suas necessidades.
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-036.png)
 
