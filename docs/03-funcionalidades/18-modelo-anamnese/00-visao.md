@@ -34,11 +34,42 @@ A diferença entre prontuário e anamnese está no conteúdo, na finalidade e no
 
 O eConsult já vem com modelos adaptados ao seu perfil profissional, mas você pode personalizá-los ou criar novos modelos diretamente no painel "Modelos de Anamnese".
 
+Abaixo a tela de modelos de anamnese voltados para Psicologia:
+
 ![Modelos de Anamnese](../../../static/img/prints/anamnese/001.png)
 
-Os modelos de anamnese contêm "Tópicos", e dentro desses tópicos há "Campos".
+O eConsult tem mais de 50 modelos de anamnese para as diversas áreas de atuação. No caso de psicologia, por exemplo o econsult apresenta 26 modelos prontos para usar. São eles:
 
-Os tópicos organizam a anamnese em seções, permitindo que as informações sejam registradas de maneira lógica e estruturada. Dentro de cada tópico, há campos específicos que definem os dados a serem preenchidos, como observações, diagnósticos, tratamentos, ou outros detalhes relevantes.
+1. Modelo Básico
+1. Para Adultos
+1. Para Avaliação Neuropsicológica
+1. Para Casais
+1. Para Crianças e Adolescentes
+1. Para Famílias
+1. Para Gestantes
+1. Para Jovens Universitários (18 a 25 anos)
+1. Para Migrantes e Refugiados
+1. Para Orientação Vocacional/Profissional
+1. Para Pacientes Oncológicos
+1. Para Pessoas com Deficiência (PCD)
+1. Para Processos de Luto
+1. Para Profissionais em Situação de Burnout
+1. Para Terceira Idade (60+)
+1. Para Transtornos Alimentares e da Ingestão Alimentar
+1. Para Transtornos de Ansiedade
+1. Para Transtornos de Espectro da Esquizofrenia e Psicóticos
+1. Para Transtornos Dissociativos
+1. Para Transtornos do Humor (Afetivos)
+1. Para Transtornos do Neurodesenvolvimento
+1. Para Transtornos do Sono-Vigília
+1. Para Transtornos Obsessivo-Compulsivos e Relacionados
+1. Para Transtornos Relacionados a Trauma e Estressores
+1. Para Transtornos Somatoformes
+1. Para Vítimas de Trauma
+
+Cada modelo de anamnese contêm "Tópicos", e dentro desses tópicos há "Campos".
+
+Os tópicos são seções da anamnes, permitindo que as informações sejam registradas de maneira lógica e estruturada. Dentro de cada tópico, há campos específicos que definem os dados a serem preenchidos, como observações, diagnósticos, tratamentos, ou outros detalhes relevantes.
 
 ## Estrutura dos Modelos de Anamnese:
 
@@ -47,10 +78,20 @@ Os tópicos organizam a anamnese em seções, permitindo que as informações se
 
 ## Como Funciona:
 
-- **Criação do Modelo:** Ao cadastrar um modelo de anamnese, você define os tópicos e os campos que deverão ser preenchidos em cada um deles.
-- **Personalização dos Campos:** Os nomes dos campos podem ser totalmente personalizados conforme suas necessidades específicas de atendimento.
-- **Inclusão ou exclusão de Campos:** É possível adicionar ou remover campos dentro de cada tópico, de forma flexível e adaptável à sua prática profissional.
-- **Utilização de Pré-definições do sistema:** Ao iniciar um novo prontuário para um cliente, as pré-definições poderão ser utilizadas como base, guiando o preenchimento dos tópicos e campos de maneira estruturada.
+- **Criação do Modelo:**  
+  Ao cadastrar ou utilizar um modelo de anamnese no eConsult, você tem liberdade para definir os tópicos e os campos que deverão ser preenchidos. Isso permite adaptar cada modelo ao seu estilo de atendimento.
+
+- **Personalização de Campos:**  
+  Os nomes dos campos são totalmente personalizáveis, permitindo que você os ajuste conforme as necessidades específicas da sua prática profissional.
+
+- **Adição e Remoção de Campos:**  
+  É possível incluir novos campos ou remover os existentes dentro de cada tópico, de forma flexível e adaptável à realidade de cada público ou especialidade.
+
+- **Uso dos Modelos no Prontuário:**  
+  Ao iniciar um novo prontuário para um cliente, você pode utilizar um modelo previamente cadastrado como base. Ele serve como guia para o preenchimento estruturado dos tópicos e campos.  
+
+  Além disso, mesmo após selecionar um modelo, você ainda pode personalizá-lo conforme o perfil ou necessidade individual de cada cliente.
+
 
 ## Benefícios dos Modelos de Anamnese:
 
@@ -58,11 +99,9 @@ Os tópicos organizam a anamnese em seções, permitindo que as informações se
 - **Eficiência:** Facilita a criação e o preenchimento de prontuários, economizando tempo e reduzindo erros.
 - **Organização:** Ajuda a manter as informações bem estruturadas e acessíveis.
 
-## Pré-definições de Modelos de Anamnese
+## Inclui modelos de anamnese do eConsult
 
-Ao iniciar a criação de um novo modelo de anamnese, o sistema disponibiliza uma variedade de estruturas pré-definidas, desenvolvidas para atender diferentes perfis de profissionais e tipos de atendimento. Essas estruturas servem como um guia inicial, oferecendo uma base organizada com tópicos e campos comuns à sua prática consultiva.
-
-Após escolher uma dessas pré-definições, você tem total liberdade para editá-la conforme suas necessidades. É possível renomear tópicos, incluir novos campos, remover itens que não se aplicam à sua realidade e reorganizar o conteúdo como preferir. Isso garante que o modelo final reflita com precisão o seu método de trabalho, tornando o modelo uma ferramenta realmente útil, personalizado e alinhado com sua abordagem profissional.
+1. No painel "Modelos de Anamnese" clique no botão "Restaurar Padrões do Sistema" ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_add.png).
 
 ## Incluir um novo Modelo de Anamnese
 

@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Sobre Recibos
 
-O painel Recibos oferece uma visão completa de todos os recibos emitidos pelo sistema, abrangendo tanto os ativos quanto aqueles que foram cancelados. Cada recibo é exibido de forma clara e organizada, apresentado em formato de *cards* individuais, facilitando a visualização rápida das informações essenciais. Essa estrutura permite ao usuário identificar facilmente o status e os detalhes de cada recibo, proporcionando maior controle e agilidade na gestão dos documentos financeiros.
+O painel Recibos oferece uma visão completa de todos os recibos emitidos pelo sistema, abrangendo tanto os ativos quanto aqueles que foram cancelados. Cada recibo é exibido de forma clara e organizada, apresentados em formato de *cards* individuais, facilitando a visualização rápida das informações essenciais. Essa estrutura permite ao usuário identificar facilmente o status e os detalhes de cada recibo, proporcionando maior controle e agilidade na gestão dos documentos financeiros.
 
 ![Recibos](../../../static/img/prints/recibos/001.png)
 
@@ -25,5 +25,5 @@ O painel Recibos oferece uma visão completa de todos os recibos emitidos pelo s
 1. O sistema gerará e imprimirá o recibo em um arquivo PDF, permitindo que você o salve ou o imprima conforme necessário.
 
 :::note
-    Você pode cancelar um pedido utilizando a opção "Cancelamento" ![Recibo](../../../static/img/prints/buttons/btn_cancelar.png) disponível nos *cards*. Essa funcionalidade permite que você marque um pedido como cancelado, atualizando automaticamente seu status e garantindo que a alteração seja refletida no sistema. É importante lembrar que o cancelamento é irreversível.
+    Você pode cancelar um recibo utilizando a opção "Cancelamento" ![Recibo](../../../static/img/prints/buttons/btn_cancelar.png) disponível nos *cards*. Essa funcionalidade permite que você marque o recibo como cancelado, atualizando automaticamente seu status e garantindo que a alteração seja refletida no sistema. É importante lembrar que o cancelamento é irreversível.
 :::

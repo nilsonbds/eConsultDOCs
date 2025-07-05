@@ -62,7 +62,7 @@ Na aba Arquivos, é possível anexar documentos diretamente vinculados ao client
 
 ## Excluir arquivo vinculado ao cliente
 
-1. Na aba "Arquivos, no *card" do arquivo que se quer excluir, acione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-delete.png).
+1. Na aba "Arquivos, no *card* do arquivo que se quer excluir, acione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-delete.png).
 
 1. Confirme a exclusão acionando a opção "Sim".
 

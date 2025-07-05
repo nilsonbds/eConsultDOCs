@@ -6,7 +6,7 @@ sidebar_position: 0
 
 O painel "Lembretes de Atendimentos" do eConsult é uma ferramenta que apoia a gestão e o acompanhamento dos atendimentos de forma prática e organizada.
 
-Ele centraliza os atendimentos que compartilham o mesmo tipo de lembrete, agrupando-os de maneira lógica e intuitiva em cards individuais. Essa estrutura facilita a visualização e o acesso rápido às informações mais relevantes de cada atendimento, otimizando o fluxo de trabalho do profissional.
+Ele centraliza os atendimentos que compartilham o mesmo tipo de lembrete, agrupando-os de maneira lógica e intuitiva em *cards* individuais. Essa estrutura facilita a visualização e o acesso rápido às informações mais relevantes de cada atendimento, otimizando o fluxo de trabalho do profissional.
 
 ![Painel Lembretes](../../../static/img/prints/lembretes/001.png)
 

@@ -16,7 +16,7 @@ Uma vez indicado o cliente ou grupo de atendimento, o sistema mostra:
 
 ![Painel Inadimplências](../../../static/img/prints/inadimplencias/002.png)
 
-Cada fatura é composta basicamente pelos seguintes elementos:
+Cada fatura é composto basicamente pelos seguintes elementos:
 
 - **Valor de Vencimento:** O montante a ser cobrado pelo atendimento prestado. Este valor é registrado na fatura e serve como base para o controle financeiro.
 - **Data de Vencimento:** A data limite para o pagamento da fatura. Ajuda a determinar o prazo em que o pagamento deve ser efetuado.
@@ -44,7 +44,7 @@ Sendo assim, no painel Faturas do Cliente, você encontrará duas sub-abas disti
 
 Na sub-aba Pendentes, você tem duas funções importantes para gerenciar faturas pendentes:
 
-- **Função "Notificar":** Permite notificar o cliente diretamente pelo WhatsApp sobre os pagamentos pendentes que estão marcados (selecionadas). Ao acionar essa função, uma mensagem personalizada pode ser enviada, alertando o cliente sobre a necessidade de quitação das faturas em aberto que estão marcadas (selecionadas). Essa comunicação direta ajuda a lembrar o cliente de forma rápida e eficaz.
+- **Função "Notificar":** Permite notificar o cliente diretamente pelo WhatsApp sobre os pagamentos pendentes que estão marcados (selecionados). Ao acionar essa função, uma mensagem personalizada pode ser enviada, alertando o cliente sobre a necessidade de quitação das faturas em aberto que estão marcadas (selecionadas). Essa comunicação direta ajuda a lembrar o cliente de forma rápida e eficaz.
 
     ![Painel Inadimplências](../../../static/img/prints/inadimplencias/006.png)
 
@@ -58,7 +58,7 @@ Na sub-aba Pendentes, você tem duas funções importantes para gerenciar fatura
 
 Na sub-aba Recebidas, você também dispõe de duas funções importantes para gerenciar as faturas já quitadas:
 
-- **Notificar:** Permite informar ao cliente, através do WhatsApp, que o pagamento das faturas marcadas (selecionadas) foram recebidas e registradas. Isso mantém o cliente atualizado e garante uma comunicação eficiente.
+- **Notificar:** Permite informar ao cliente, através do WhatsApp ou E-mail, que o pagamento das faturas marcadas (selecionadas) foram recebidas e registradas. Isso mantém o cliente atualizado e garante uma comunicação eficiente.
 - **Recibo:** Com essa função, você pode gerar e fornecer um recibo seu oficial para o cliente, contendo as faturas marcadas (selecionadas), documentando o pagamento efetuado de maneira clara e profissional.
 
 Essas funções ajudam a manter o registro financeiro organizado e a garantir uma comunicação transparente com o cliente.

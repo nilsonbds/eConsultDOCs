@@ -10,7 +10,7 @@ A aba Faturas no eConsult é uma ferramenta essencial para a gestão financeira 
 
 Para cada atendimento cadastrado no sistema, uma fatura correspondente é gerada automaticamente. Essas faturas incluem informações essenciais para o controle financeiro e a gestão de pagamentos.
 
-Cada fatura é composta basicamente pelos seguintes elementos:
+Cada *card* de fatura é composto basicamente pelos seguintes elementos:
 
 - **Valor de Vencimento:** O montante a ser cobrado pelo atendimento prestado. Este valor é registrado na fatura e serve como base para o controle financeiro.
 

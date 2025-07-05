@@ -68,7 +68,7 @@ No eConsult, créditos com data futura são automaticamente classificados como "
 
 Para que sejam considerados "Realizados", é necessário confirmar a efetivação do pagamento. Essa mudança só ocorrerá se a data do pagamento for igual ou anterior à data atual.
 
-1. No *card" do crédito acione a opção ![Baixas Contábeis](../../../static/img/prints/perdas/012.png).
+1. No *card* do crédito acione a opção ![Baixas Contábeis](../../../static/img/prints/perdas/012.png).
 
 1. Preencha no campo "Data" a data que você recebeu efetivamente o valor correspondente ao crédito.
 
@@ -93,7 +93,7 @@ Para que sejam considerados "Realizados", é necessário confirmar a efetivaçã
 
     - Essa informação (Previsto ou Realizado) também estará visível no *card* correspondente ao crédito.
 
-    Além disso, créditos com o status "Previsto" serão incluídos automaticamente na alerta respectivo do painel "Alertas", indicando que há um pagamento pendente de confirmação.
+    Além disso, créditos com o status "Previsto" serão incluídos automaticamente no alerta respectivo do painel "Alertas", indicando que há um pagamento pendente de confirmação.
 
     ![Baixas Contábeis](../../../static/img/prints/perdas/009.png)
 

@@ -4,6 +4,6 @@
   "link": {
     "slug": "/recibos",
     "type": "generated-index",
-    "description": "O painel Recibos mostra todos os recibos emitidos, ativos e cancelados, organizados em cards para facilitar a visualização rápida dos detalhes e status, melhorando o controle financeiro."
+    "description": "O painel Recibos apresenta todos os recibos emitidos, facilitando a visualização de detalhes e o controle destes documentos."
   }
 }
