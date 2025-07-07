@@ -74,7 +74,9 @@ Ao usar o cashback de forma estratégica, você reforça o vínculo com seus cli
 
 ### Na aba "Excessões":
 
-1. Indique os clientes que não devem receber cashback.
+12. Indique os clientes que não devem receber cashback selecionando o cliente e acionando o botão ![Cashback](../../../static/img/prints/buttons/btn_add_campo_gray.png).
+
+13. Despois que preencher todas as informações, acione o botão "Salvar" ![Cashback](../../../static/img/prints/buttons/btn_salvar.png).
 
 ---
 
