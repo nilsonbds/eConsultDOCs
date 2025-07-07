@@ -34,7 +34,7 @@ A diferença entre prontuário e anamnese está no conteúdo, na finalidade e no
 
 O eConsult já vem com modelos adaptados ao seu perfil profissional, mas você pode personalizá-los ou criar novos modelos diretamente no painel "Modelos de Anamnese".
 
-Veja como exemplo, ["Modelos Pré-definidos para Psicologia"](/docs/funcionalidades/modelo-anamnese/modelos-econsult).
+Veja os ["Modelos Pré-definidos de Anamnese do eConsult"](/docs/funcionalidades/modelo-anamnese/modelos-econsult).
 
 Cada modelo de anamnese contêm "Tópicos", e dentro desses tópicos há "Campos".
 
