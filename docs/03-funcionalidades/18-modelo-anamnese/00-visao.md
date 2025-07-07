@@ -34,42 +34,11 @@ A diferença entre prontuário e anamnese está no conteúdo, na finalidade e no
 
 O eConsult já vem com modelos adaptados ao seu perfil profissional, mas você pode personalizá-los ou criar novos modelos diretamente no painel "Modelos de Anamnese".
 
-Abaixo a tela de modelos de anamnese voltados para Psicologia:
-
-![Modelos de Anamnese](../../../static/img/prints/anamnese/001.png)
-
-O eConsult tem mais de 50 modelos de anamnese para as diversas áreas de atuação. No caso de psicologia, por exemplo o econsult apresenta 26 modelos prontos para usar. São eles:
-
-1. Modelo Básico
-1. Para Adultos
-1. Para Avaliação Neuropsicológica
-1. Para Casais
-1. Para Crianças e Adolescentes
-1. Para Famílias
-1. Para Gestantes
-1. Para Jovens Universitários (18 a 25 anos)
-1. Para Migrantes e Refugiados
-1. Para Orientação Vocacional/Profissional
-1. Para Pacientes Oncológicos
-1. Para Pessoas com Deficiência (PCD)
-1. Para Processos de Luto
-1. Para Profissionais em Situação de Burnout
-1. Para Terceira Idade (60+)
-1. Para Transtornos Alimentares e da Ingestão Alimentar
-1. Para Transtornos de Ansiedade
-1. Para Transtornos de Espectro da Esquizofrenia e Psicóticos
-1. Para Transtornos Dissociativos
-1. Para Transtornos do Humor (Afetivos)
-1. Para Transtornos do Neurodesenvolvimento
-1. Para Transtornos do Sono-Vigília
-1. Para Transtornos Obsessivo-Compulsivos e Relacionados
-1. Para Transtornos Relacionados a Trauma e Estressores
-1. Para Transtornos Somatoformes
-1. Para Vítimas de Trauma
+Veja como exemplo, ["Modelos Pré-definidos para Psicologia"](/docs/funcionalidades/modelo-anamnese/modelos-econsult).
 
 Cada modelo de anamnese contêm "Tópicos", e dentro desses tópicos há "Campos".
 
-Os tópicos são seções da anamnes, permitindo que as informações sejam registradas de maneira lógica e estruturada. Dentro de cada tópico, há campos específicos que definem os dados a serem preenchidos, como observações, diagnósticos, tratamentos, ou outros detalhes relevantes.
+Os tópicos são seções da anamnese, permitindo que as informações sejam registradas de maneira lógica e estruturada. Dentro de cada tópico, há campos específicos que definem os dados a serem preenchidos, como observações, diagnósticos, tratamentos, ou outros detalhes relevantes.
 
 ## Estrutura dos Modelos de Anamnese:
 
