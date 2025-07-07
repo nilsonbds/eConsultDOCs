@@ -112,6 +112,6 @@ O sistema não permite campanhas com períodos sobrepostos.
 ![Cashback](../../../static/img/prints/cashback/012.png)    
 - O sistema mostra a data do último processamento.
 ![Cashback](../../../static/img/prints/cashback/013.png) ou ![Cashback](../../../static/img/prints/cashback/014.png)
-- o sistema mostra data do próximo processamento.
+- O sistema mostra data do próximo processamento.
 ![Cashback](../../../static/img/prints/cashback/015.png)  
 :::
