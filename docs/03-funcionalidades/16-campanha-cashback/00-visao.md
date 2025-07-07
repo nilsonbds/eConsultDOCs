@@ -99,5 +99,11 @@ O sistema não permite campanhas com períodos sobrepostos.
 - O sistema verifica automaticamente, no primeiro dia de cada mês, quais campanhas e clientes atendem aos critérios.
 - Clientes elegíveis recebem o crédito/cashback automaticamente, para uso em atendimentos futuros.
 - É possível processar a campanha manualmente na primeira vez.
-- Também é possível simular os resultados da campanha, sem efetivar o crédito.
+![Cashback](../../../static/img/prints/cashback/011.png)
+- Também é possível visualizar resultados da campanha, sem efetivar o crédito (de forma simulada).
+![Cashback](../../../static/img/prints/cashback/012.png)    
+- O sistema mostra a data do último processamento.
+![Cashback](../../../static/img/prints/cashback/013.png) ou ![Cashback](../../../static/img/prints/cashback/014.png)
+- o sistema mostra data do próximo processamento.
+![Cashback](../../../static/img/prints/cashback/015.png)  
 :::
