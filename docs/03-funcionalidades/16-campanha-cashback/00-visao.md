@@ -16,6 +16,8 @@ Ao usar o cashback de forma estratégica, você reforça o vínculo com seus cli
 
 ## Incluir uma campanha de cashback
 
+### Na aba "Regras":
+
 1. No painel "Campanhas de Cashback", clique no botão **"Incluir Campanha"** ![Incluir campanha](../../../static/img/prints/buttons/btn_add.png).
 
 2. Defina se a campanha estará ativa e atribua um nome.  
@@ -69,6 +71,10 @@ Ao usar o cashback de forma estratégica, você reforça o vínculo com seus cli
 
 11. Estabeleça se o cliente pode ter remarcações no mês da apuração.  
     ![Cashback](../../../static/img/prints/cashback/010.png)
+
+### Na aba "Excessões":
+
+1. Indique os clientes que não devem receber cashback.
 
 ---
 
