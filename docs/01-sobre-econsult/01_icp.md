@@ -15,7 +15,7 @@ Profissionais **autônomos** que realizam **atendimentos mediante agendamento**,
 ### Características do ICP
 
 - **Profissionais Autônomos**  
-  Psicólogos, terapeutas, coaches, personal trainers, fisioterapeutas, nutricionistas, professores de idiomas, instrutores de yoga, pilates e meditação, consultores de bem-estar, entre outros.
+  **Atende especialmente psicólogos**, mas também terapeutas, coaches, personal trainers, fisioterapeutas, nutricionistas, professores de idiomas, instrutores de yoga, pilates e meditação, consultores de bem-estar, entre outros profissionais.
 
 - **Necessidade de Agendamentos Online e Gestão de Grupos**  
   Profissionais que atendem individualmente ou em grupo e precisam de uma ferramenta que automatize o controle de agendamentos, presença e organização de sessões.
@@ -147,7 +147,7 @@ Avaliação em três níveis:
 - Acesso rápido e seguro ao histórico do cliente
 
   *[Mais sobre prontuários.](/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario)*
-  
+
   *[Mais sobre modelos de anamnese.](/docs/funcionalidades/modelo-anamnese/visao)*
 
 ### Inteligência Artificial Integrada
