@@ -32,14 +32,13 @@ Profissionais **autônomos** que realizam **atendimentos mediante agendamento**,
   - Tempo excessivo gasto com cobrança manual  
   - Necessidade de melhor organização para atender múltiplos clientes simultaneamente
 
-> Embora o **eConsult** seja voltado para diversos perfis, ele **não é um sistema genérico**.  
-> A experiência é adaptada automaticamente com base na área de atuação do profissional.
-
----
+:::note
+O **eConsult não é um sistema genérico** – ele foi desenvolvido especialmente para psicólogos. Ainda assim, a experiência é automaticamente personalizada de acordo com a área de atuação de cada profissional
+:::
 
 ## Principais Benefícios do eConsult
 
-### 🚀 Recursos Avançados com Custo Acessível
+### Recursos Avançados com Custo Acessível
 
 O eConsult oferece:
 - Prontuário personalizável
@@ -49,41 +48,40 @@ O eConsult oferece:
 
 Tudo isso por valores acessíveis e com planos flexíveis.
 
-### 🎁 Sem Investimento Inicial
+### Sem Investimento Inicial
 
 - Primeiro mês gratuito  
-- Planos mensais com ótimo custo-benefício  
-- Recursos avançados sem preço de sistema premium
+- Planos mensais com ótimo custo-benefício
 
-### 💡 Tecnologia Inteligente e Econômica
+### Tecnologia Inteligente e Econômica
 
 - Estrutura moderna e otimizada  
 - Redução de custos sem comprometer a qualidade  
 - Arquitetura escalável e estável
 
-### ⚙️ Configuração Inicial Automatizada
+### Configuração Inicial Automatizada
 
 - Reconhecimento do perfil profissional no primeiro acesso  
 - Personalização automática da interface e nomenclaturas  
 - Comece a usar em minutos, sem configurações manuais
 
-### 🔄 Atualizações Automáticas
+### Atualizações Automáticas
 
 - Sempre atualizado com melhorias contínuas  
 - Segurança e estabilidade sem preocupação com versões
 
-### 🛠️ Suporte Técnico Eficiente
+### Suporte Técnico Eficiente
 
 - Atendimento técnico ágil e humanizado  
 - Solução rápida de dúvidas e dificuldades
 
-### 🌍 Acesso Remoto e Multiplataforma
+### Acesso Remoto e Multiplataforma
 
 - Use o sistema de qualquer lugar, via navegador  
 - Design responsivo para desktop, tablet e celular  
 - Instalação via PWA (Progressive Web App)
 
-### ⚡ Alto Desempenho e Produtividade
+### Alto Desempenho e Produtividade
 
 - Navegação rápida  
 - Respostas instantâneas  
@@ -93,80 +91,79 @@ Tudo isso por valores acessíveis e com planos flexíveis.
 
 ## Principais Funcionalidades do eConsult
 
-### 📋 Cadastro de Clientes e Grupos de Atendimento
+### Cadastro de Clientes e Grupos de Atendimento
 
 - Histórico completo de sessões  
 - Organização inteligente de grupos  
 - Centralização de informações em poucos cliques
 
-### 🧩 Campos Altamente Personalizáveis
+### Campos Altamente Personalizáveis
 
 - Adapte o cadastro às suas necessidades  
 - Colete informações relevantes para seu método  
 - Flexibilidade máxima com precisão
 
-### 💳 Gestão de Créditos
+### Gestão de Créditos
 
 - Atribuição de valores antecipados  
 - Controle de saldo individual e em grupo  
 - Transparência nas transações
 
-### 📈 Score Inteligente do Cliente
+### Score Inteligente do Cliente
 
 Avaliação em três níveis:
 - **Global**: histórico completo  
 - **Anual**: desempenho do ano atual  
-- **Mensal**: engajamento recente
+- **Mensal**: engajamento no mês
 
-### 💸 Campanhas de Cashback Personalizadas
+### Campanhas de Cashback Personalizadas
 
-- Incentivo baseado em frequência, pontualidade ou score  
+- Incentivo baseado em frequência, valor ou score  
 - Recompensas em créditos para atendimentos futuros  
 - Fidelização sem descontos fixos
 
-### 🗓️ Gestão de Atendimentos
+### Gestão de Atendimentos
 
 - Agenda centralizada e organizada  
 - Interface intuitiva  
 - Foco no atendimento, não na burocracia
 
-### 📑 Gestão de Faturas e Recibos
+### Gestão de Faturas e Recibos
 
 - Emissão e controle de faturas  
 - Recibos personalizados  
 - Adequado para convênios e reembolsos
 
-### 📊 Financeiro Integrado
+### Financeiro Integrado
 
 - Visão completa do fluxo de caixa  
 - Relatórios financeiros em tempo real  
 - Gestão unificada e descomplicada
 
-### 📝 Prontuário Eletrônico Personalizável
+### Prontuário Eletrônico Personalizável
 
-- Modelos prontos ou editáveis  
+- Modelos prontos e editáveis  
 - Registro de evolução clínica ou pedagógica  
 - Acesso rápido e seguro ao histórico do cliente
 
-### 🔗 Pagamentos via PIX
+### Pagamentos via PIX
 
 - Integração direta com o sistema financeiro  
-- Recebimentos instantâneos, 24/7  
 - Sem taxas intermediárias
 
-### ☁️ Integração com Google Drive
+### Integração com Google Drive
 
 - Armazenamento e compartilhamento de documentos  
 - Acesso seguro e organizado  
 - Totalmente conectado à sua rotina
 
-### 🤖 Inteligência Artificial Integrada
+### Inteligência Artificial Integrada
 
 - Sugestões de preenchimento  
 - Insights de gestão e finanças  
 - Apoio na tomada de decisões estratégicas
 
-### 💼 Integração com Mercado Pago
+### Integração com Mercado Pago
 
 - Mais opções de pagamento para seus clientes  
 - Controle em tempo real  
@@ -178,3 +175,4 @@ Avaliação em três níveis:
 
 > Pronto para transformar sua rotina?
 > Experimente gratuitamente e descubra por que o eConsult é o sistema que se adapta a você — e não o contrário.
+> [Clique aqui e comece agora mesmo.](https://econsult.app.br/multidisciplinar)
