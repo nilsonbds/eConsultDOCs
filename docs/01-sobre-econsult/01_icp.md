@@ -97,17 +97,23 @@ Tudo isso por valores acessíveis e com planos flexíveis.
 - Organização inteligente de grupos  
 - Centralização de informações em poucos cliques
 
+  *[Mais sobre Cadastro de Clientes e Grupos de Atendimento.](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos)*
+
 ### Campos Altamente Personalizáveis
 
 - Adapte o cadastro às suas necessidades  
 - Colete informações relevantes para seu método  
 - Flexibilidade máxima com precisão
 
+  *[Mais sobre personalização de campos.](/docs/funcionalidades/clientes-grupos/cadastro/aba-adicionais)*
+
 ### Gestão de Créditos
 
 - Atribuição de valores antecipados  
 - Controle de saldo individual e em grupo  
 - Transparência nas transações
+
+  *[Mais sobre créditos antecipados.](/docs/funcionalidades/clientes-grupos/cadastro/aba-creditos-e-perdas)*
 
 ### Score Inteligente do Cliente
 
@@ -116,11 +122,15 @@ Avaliação em três níveis:
 - **Anual**: desempenho do ano atual  
 - **Mensal**: engajamento no mês
 
+  *[Mais sobre score inteligente.](/docs/funcionalidades/analise-score/visao)*
+
 ### Campanhas de Cashback Personalizadas
 
 - Incentivo baseado em frequência, valor ou score  
 - Recompensas em créditos para atendimentos futuros  
 - Fidelização sem descontos fixos
+
+  *[Mais sobre score campanhas de cashback.](/docs/funcionalidades/campanha-cashback/visao)*
 
 ### Gestão de Atendimentos
 
@@ -128,9 +138,30 @@ Avaliação em três níveis:
 - Interface intuitiva  
 - Foco no atendimento, não na burocracia
 
+  *[Mais sobre gestão de atendimentos.](/docs/funcionalidades/atendimentos/visao)*
+
+### Prontuário Eletrônico Personalizável
+
+- Modelos de anamnese prontos e editáveis  
+- Registro de evolução clínica ou pedagógica  
+- Acesso rápido e seguro ao histórico do cliente
+
+  *[Mais sobre prontuários.](/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario)*
+  
+  *[Mais sobre modelos de anamnese.](/docs/funcionalidades/modelo-anamnese/visao)*
+
+### Inteligência Artificial Integrada
+
+- Sugestões de preenchimento  
+- Insights de gestão e finanças  
+- Apoio na tomada de decisões estratégicas
+
+  *[Mais sobre IA no eConsult.](/docs/funcionalidades/configuracoes/integracoes/chatgpt)*
+
+
 ### Gestão de Faturas e Recibos
 
-- Emissão e controle de faturas  
+- Emissão automática e controle de faturas  
 - Recibos personalizados  
 - Adequado para convênios e reembolsos
 
@@ -139,12 +170,6 @@ Avaliação em três níveis:
 - Visão completa do fluxo de caixa  
 - Relatórios financeiros em tempo real  
 - Gestão unificada e descomplicada
-
-### Prontuário Eletrônico Personalizável
-
-- Modelos prontos e editáveis  
-- Registro de evolução clínica ou pedagógica  
-- Acesso rápido e seguro ao histórico do cliente
 
 ### Pagamentos via PIX
 
@@ -156,12 +181,6 @@ Avaliação em três níveis:
 - Armazenamento e compartilhamento de documentos  
 - Acesso seguro e organizado  
 - Totalmente conectado à sua rotina
-
-### Inteligência Artificial Integrada
-
-- Sugestões de preenchimento  
-- Insights de gestão e finanças  
-- Apoio na tomada de decisões estratégicas
 
 ### Integração com Mercado Pago
 
