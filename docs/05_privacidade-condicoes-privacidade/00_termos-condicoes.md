@@ -39,12 +39,19 @@ Pagamentos de clientes podem ser gerenciados através da Plataforma, mas o eCons
 
 Você pode cancelar sua conta a qualquer momento. Se estiver em um plano pago, o cancelamento não implicará em reembolso de valores já pagos.
 
-Em caso de **falha técnica prolongada**, definida como **inoperância total da Plataforma por mais de 72 horas consecutivas**, o eConsult poderá, a seu critério, oferecer:
+Em caso de falha técnica prolongada, definida como inoperância total da Plataforma por um período contínuo superior a 4 horas, o eConsult oferecerá ao usuário:
 
-- Reembolso proporcional ao tempo de indisponibilidade, ou
-- Crédito para uso futuro na Plataforma.
+- Reembolso proporcional ao tempo de indisponibilidade, calculado com base no valor do plano vigente,
 
-O tempo de inatividade programado para manutenção não será considerado falha técnica.
+    ou
+
+- Créditos de uso na Plataforma equivalentes a pelo menos 1 (um) mês gratuito, a critério do usuário.
+
+**Observações:**
+
+- Períodos de manutenção programada, previamente comunicados, não serão considerados como falha técnica.
+
+- Falhas decorrentes de serviços de terceiros (ex: OpenAI, Google Drive, serviços de internet) serão excluídas dessa compensação, exceto quando houver responsabilidade direta do eConsult.
 
 ### 6. Responsabilidades do Usuário
 
