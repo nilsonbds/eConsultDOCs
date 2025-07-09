@@ -14,8 +14,9 @@ Profissionais **autônomos** que realizam **atendimentos mediante agendamento**,
 
 ### Características do ICP
 
-- **Profissionais Autônomos**  
-  **Atende especialmente psicólogos**, mas também terapeutas, coaches, personal trainers, fisioterapeutas, nutricionistas, professores de idiomas, instrutores de yoga, pilates e meditação, consultores de bem-estar, entre outros profissionais.
+**Feito para Profissionais Autônomos**  
+
+- **O eConsult foi feito principalmente para psicólogos**, mas também atende terapeutas, coaches, personal trainers, fisioterapeutas, nutricionistas, professores de idiomas, instrutores de yoga, pilates e meditação, consultores de bem-estar, entre outros profissionais.
 
 - **Necessidade de Agendamentos Online e Gestão de Grupos**  
   Profissionais que atendem individualmente ou em grupo e precisam de uma ferramenta que automatize o controle de agendamentos, presença e organização de sessões.
@@ -155,6 +156,7 @@ Avaliação em três níveis:
 - Sugestões de preenchimento  
 - Insights de gestão e finanças  
 - Apoio na tomada de decisões estratégicas
+- Análise de dados do prontuário para identificar padrões auxiliando na formulação de hipóteses ou sugestões de abordagens terapêuticas (sempre com supervisão humana e respeitando a ética).
 
   *[Mais sobre IA no eConsult.](/docs/funcionalidades/configuracoes/integracoes/chatgpt)*
 

@@ -8,27 +8,41 @@ sidebar_position: 4
 
     - ### ❓ Como crio uma conta no eConsult?
 
-        Basta acessar https://econsult.app.br, clicar em “Criar conta” e preencher os dados solicitados. Um e-mail de confirmação será enviado para ativar seu cadastro.
+        Para criar sua conta, acesse o link https://econsult.app.br/multidisciplinar e preencha as informações solicitadas (nome completo e e-mail). Você receberá um e-mail com um código de ativação. Após inseri-lo, basta criar uma senha e sua conta estará pronta para uso.
 
     - ### ❓ Esqueci minha senha. Como recupero?
 
-        Na tela de login, clique em “Esqueci minha senha” e informe seu e-mail cadastrado. Você receberá um link para redefinir a senha.
+        Na tela de login (https://econsult.app.br/login), clique em “Esqueci minha senha”. Em seguida, informe o e-mail cadastrado na plataforma. Você receberá um link por e-mail para redefinir sua senha de forma rápida e segura.
 
 ## 📌 Agenda e Atendimentos
     
     - ### ❓ Como agendo um atendimento para um cliente?
     
-        Vá até o menu “Agenda” > “Novo Atendimento”, selecione o cliente, profissional e horário. Confirme e o atendimento será incluído automaticamente.
+        - No menu principal acione a opção "Atendimentos".
 
-    - ### ❓ Posso agendar atendimentos recorrentes?
+        - No *card* da disponibilidade (horário) desejada acione o botão ![Botão de Edição](../static/img/prints/buttons/btn_card-edit.png).
 
-        Sim, ao criar um atendimento, marque a opção de recorrência e configure a frequência desejada (semanal, quinzenal, mensal etc.).
+        - Preechao dados e acione "Incluir".
+
+    - ### ❓ Posso agendar atendimentos recorrentes (múltiplos atendimentos)?
+
+        - Sim, para isso, no menu principal, acione a opção "Atendimentos".
+
+        - Acione o botão "Agendar atendimento" ![Painel Clientes e Grupos](../static/img/prints/buttons/btn_add.png).
+
+        - Preencha o formulário com as informações solicitadase pertinentes e clique em "Ver disponibilidades".
+
+        - Marque ou desmarque as disponibilidades que deseja agendar e acione o botão "Agendar Marcados" ![Painel Clientes e Grupos](../static/img/prints/buttons/btn_agendar-marcados.png) para confirmar e finalizar os agendamentos dos atendimentos.
+
+        Mais detalhes sobre agendamentos [clique aqui](/docs/funcionalidades/atendimentos/interacao-navegacao) 
 
 ## 📌 Cadastro de Clientes
 
     - ### ❓ Como cadastrar um novo cliente?
 
-        Acesse “Clientes” > “Novo Cliente”, preencha os dados obrigatórios e clique em “Salvar”.
+        - No menu principal, acesse “Clientes”.
+        
+        - Clique no botão “Incluir Novo Cliente ou Grupo” ![Painel Clientes e Grupos](../static/img/prints/buttons/btn_add.png), preencha os dados obrigatórios e clique em “Salvar”.
 
     - ### ❓ É possível importar uma lista de clientes?
 

@@ -90,7 +90,59 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 
     ![Painel Atendimento](../../../static/img/prints/atendimento/020.png)
 
-:::note
+## Incluir um agendamento de um atendimento dentro de uma disponibilidade
+
+1. No *card* da disponibilidade (horário) acione o botão ![Botão de Edição](../../../static/img/prints/buttons/btn_card-edit.png).
+
+1. Se a disponibilidade for no futuro, o sistema mostrará a tela:
+    
+    ![Painel Atendimento](../../../static/img/prints/atendimento/087.png)
+
+1. Se a disponibilidade for no passado, o sistema mostrará:
+
+    ![Painel Atendimento](../../../static/img/prints/atendimento/086.png)
+
+1. Preencha o campo "Cliente", informe se o atendimento será "Presencial" ou "Remoto", informe se este atendimento está ou não "Confirmado" (no caso de disponibilidades futuras) ou se foi ou não "Realizado" (no caso de disponibilidades passadas).
+
+1. Acione o botão "Incluir" ![Botão Incluir](../../../static/img/prints/buttons/btn_incluir.png).
+
+## Agendar múltiplos atendimentos
+
+1. Acione o botão "Agendar atendimento" ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_add.png).
+
+1. O sistema abrirá a tela "Agendamento".
+
+    ![Painel Clientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-015.png)
+
+1. Preencha o campo "Cliente".
+
+1. Preencha o campo "Qtde." com o número total de atendimentos que você deseja agendar.
+
+1. No campo "A partir de", informe a data em que os agendamentos devem começar.
+
+1. No campo "A primeira", escolha o dia da semana em que os atendimentos devem ser realizados.
+
+1. Se desejar configurar os agendamentos de acordo com disponibilidades previamente definidas, acione o botão "![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_disponibilidades.png)". O sistema exibirá opções de horário baseadas nas disponibilidades previamente configuradas. Selecione uma disponibilidade de horário adequada.
+
+    ![Painel Clientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-016.png)
+
+1. Escolha a periodicidade desejada para os atendimentos: "Semanal", "Quinzenal" ou "Mensal".
+
+1. Selecione se os atendimentos serão presenciais ou remotos.
+
+1. Informe o valor de cada atendimento no campo correspondente.
+
+1. Acione a opção "Ver Disponibilidades" ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_ver-disponibilidades.png). O sistema abrirá a tela de análise de disponibilidades, onde você poderá revisar os horários disponíveis.
+
+1. Marque ou desmarque as disponibilidades que deseja agendar e acione o botão "Agendar Marcados" ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_agendar-marcados.png) para confirmar e finalizar os agendamentos dos atendimentos.
+
+1. Em dias úteis, ou seja, sem recesso ou feriado, o sistema marcará automaticamente esses dias com um check. Mantenha esta marcação ou desmarque caso prefira não agendar neste dia.
+​​
+1. Em dias sem recesso, mas que são feriados, o sistema deixará esses dias inativados e desmarcados. Mantenha desmarcado ou marque caso queira agendar neste feriado.
+​​
+1. Em dias de recesso, o sistema manterá esses dias inativos. Você não tem a opção de marcar estes dias pois recessos são dias bloqueados para agendamentos.
+
+:::note Agendar fora de disponibilidades
     É possível incluir agendamentos fora dos horários definidos como disponibilidades. Para isso basta acionar a opção ![Painel Atendimento](../../../static/img/prints/buttons/btn_add.png).
 
     Os atendimentos agendados fora das disponibilidades serão mostrados com uma moldura pontilhada.
@@ -98,7 +150,7 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
     ![Painel Atendimento](../../../static/img/prints/atendimento/021.png)
 :::
 
-:::note
+:::note Uso sem disponilidades configuradas
     Embora seja possível configurar disponibilidades e intervalos através da opção "Configurações => Disponibilidades", o eConsult pode ser utilizado mesmo sem essa configuração. Nesse caso, a agenda não exibirá informações sobre disponibilidades e intervalos, mas os agendamentos de atendimentos ainda poderão ser realizados normalmente através do botão ![Painel Atendimento](../../../static/img/prints/buttons/btn_add.png).
 :::
 
