@@ -343,3 +343,11 @@ h2.text--truncate {
   font-size: clamp(0.75rem, 1.5vw, 0.875rem); /* 12px–14px */
   line-height: 1.4;
 }
+
+.navbar__item svg {
+  display: none;
+}
+
+.menu__link svg {
+  display: none;
+}

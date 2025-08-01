@@ -10,7 +10,7 @@ const FeatureList = [
     title: 'Abra sua conta e ative o eConsult',
     icon: <LuAward />,
     description: (
-      <>Crie sua conta e faça a configuração inicial para começar a utilizar o sistema com segurança e personalização.</>
+      <>Crie sua conta e realize a configuração inicial para começar a usar o sistema com segurança e personalização, garantindo uma experiência eficiente desde o primeiro uso.</>
     ),
   },
   {
@@ -18,7 +18,7 @@ const FeatureList = [
     title: 'Primeiros passos: usando o eConsult',
     icon: <LuUserCheck />,
     description: (
-      <>Aprenda rapidamente como acessar, navegar, agendar atendimentos e organizar seus pacientes no eConsult.</>
+      <>Aprenda rapidamente a acessar, navegar, agendar atendimentos e organizar seus pacientes no eConsult, tornando sua rotina mais prática e eficiente.</>
     ),
   },
   {
@@ -26,7 +26,7 @@ const FeatureList = [
     title: 'Perguntas frequentes (FAQ)',
     icon: <LuBadgeHelp />,
     description: (
-      <>Encontre respostas objetivas para dúvidas comuns sobre cadastros, configurações, acessos e suporte ao sistema.</>
+      <>Encontre respostas objetivas para dúvidas frequentes sobre cadastros, configurações, acessos e suporte, garantindo agilidade na resolução de problemas do sistema.</>
     ),
   },
   {
@@ -34,7 +34,7 @@ const FeatureList = [
     title: 'Ajustes e preferências do sistema',
     icon: <LuBadgeHelp />,
     description: (
-      <>Configure o sistema conforme sua rotina: horários, agenda, lembretes, integrações e fluxos de trabalho.</>
+      <>Configure e personalize o sistema de acordo com suas necessidades, ajustando agenda, clientes, finanças e integrações para uma gestão completa e eficiente.</>
     ),
   },
   {
@@ -42,7 +42,7 @@ const FeatureList = [
     title: 'Cadastro de clientes',
     icon: <LuUser />,
     description: (
-      <>Organize o cadastro de pacientes para acesso rápido às informações e acompanhamento eficiente da evolução clínica.</>
+      <>Otimize o cadastro de clientes para acesso rápido às informações e facilite o acompanhamento contínuo da evolução do seu consultório ou organização, promovendo gestão eficiente.</>
     ),
   },
   {
@@ -50,7 +50,7 @@ const FeatureList = [
     title: 'Cadastro de Grupos de Atendimento',
     icon: <LuUsers />,
     description: (
-      <>Cadastre e atenda casais, famílias ou grupos terapêuticos, e gerencie as informações de forma integrada e organizada.</>
+      <>Cadastre e atenda casais, famílias ou grupos terapêuticos, gerenciando informações de forma integrada e organizada para um acompanhamento eficiente e completo.</>
     ),
   },
   {
@@ -58,7 +58,7 @@ const FeatureList = [
     title: 'Gerenciar atendimentos e agenda',
     icon: <LuCalendarClock />,
     description: (
-      <>Agende, reagende, registre evoluções clínicas, acompanhe pagamentos e organize sua agenda com eficiência.</>
+      <>Agende, reagende, registre evoluções, acompanhe pagamentos e organize sua agenda com praticidade e eficiência, garantindo um fluxo de trabalho otimizado.</>
     ),
   },
   {
@@ -66,7 +66,7 @@ const FeatureList = [
     title: 'Relatórios e indicadores de desempenho',
     icon: <LuChartColumnStacked />,
     description: (
-      <>Acompanhe gráficos e métricas de produção, receita, atendimentos e performance financeira da clínica.</>
+      <>Monitore gráficos e indicadores de produção, faturamento, atendimentos e desempenho financeiro do seu consultório ou organização para uma gestão completa e eficiente.</>
     ),
   },
   {
@@ -74,7 +74,7 @@ const FeatureList = [
     title: 'Painel de alertas e pendências',
     icon: <LuLayoutDashboard />,
     description: (
-      <>Monitore tarefas, ocorrências e avisos importantes para manter o fluxo de trabalho sempre organizado.</>
+      <>Centralize ocorrências e anomalias para permitir ações rápidas e uma gestão proativa, garantindo que a plataforma funcione com máxima eficiência.</>
     ),
   },
   {
@@ -82,7 +82,7 @@ const FeatureList = [
     title: 'Controle de faturas dos clientes',
     icon: <LuFileDiff />,
     description: (
-      <>Gerencie vencimentos, pagamentos e cobranças de forma prática, com controle detalhado das faturas.</>
+      <>Gerencie vencimentos, pagamentos e cobranças de forma prática, mantendo controle detalhado das faturas para garantir eficiência e organização financeira.</>
     ),
   },
   {
@@ -90,7 +90,7 @@ const FeatureList = [
     title: 'Fluxo de caixa: receitas e despesas',
     icon: <LuCircleDollarSign />,
     description: (
-      <>Registre entradas e saídas financeiras, acompanhe o caixa e obtenha relatórios detalhados do seu financeiro.</>
+      <>Registre entradas e saídas financeiras, monitore o fluxo de caixa e obtenha relatórios detalhados para uma gestão financeira completa e precisa do seu negócio.</>
     ),
   },
   {
@@ -98,7 +98,7 @@ const FeatureList = [
     title: 'Consolidação financeira completa',
     icon: <LuReceipt />,
     description: (
-      <>Visualize seus resultados consolidados com base em todos os lançamentos financeiros da operação.</>
+      <>Visualize seus resultados consolidados com base em todos os lançamentos financeiros da sua operação, facilitando a análise completa e a tomada de decisões estratégicas.</>
     ),
   },
   {
@@ -106,7 +106,7 @@ const FeatureList = [
     title: 'Gestão de inadimplências',
     icon: <LuHandHelping />,
     description: (
-      <>Acompanhe atendimentos não pagos, identifique inadimplências e facilite o planejamento de cobrança.</>
+      <>Monitore atendimentos não pagos, identifique inadimplências rapidamente e facilite o planejamento eficiente das cobranças, garantindo melhor controle financeiro.</>
     ),
   },
   {
@@ -114,7 +114,7 @@ const FeatureList = [
     title: 'Controle de perdas e baixas contábeis',
     icon: <LuHeartCrack />,
     description: (
-      <>Registre inadimplências que viraram perdas e mantenha o controle contábil atualizado.</>
+      <>Registre inadimplências convertidas em perdas e mantenha o controle contábil sempre atualizado, garantindo uma gestão financeira precisa e transparente.</>
     ),
   },
   {
@@ -122,7 +122,7 @@ const FeatureList = [
     title: 'Recuperação de inadimplências',
     icon: <LuHandshake />,
     description: (
-      <>Acompanhe valores recuperados após baixas e mantenha o controle da sua recuperação financeira.</>
+      <>Monitore os valores recuperados e tenha controle total da recuperação financeira do seu consultório, identificando com agilidade perdas revertidas com eficiência.</>
     ),
   },
   {
@@ -130,7 +130,7 @@ const FeatureList = [
     title: 'Análise de score dos clientes',
     icon: <TbDashboard />,
     description: (
-      <>Visualize o comportamento dos clientes baseado em dados históricos e acompanhe o nível de engajamento.</>
+      <>Visualize o comportamento dos clientes com base em dados históricos e monitore o nível de engajamento para orientar ações mais assertivas e personalizadas.</>
     ),
   },
   {
@@ -138,7 +138,7 @@ const FeatureList = [
     title: 'Campanhas de cashback e fidelização',
     icon: <TbCashRegister />,
     description: (
-      <>Crie programas de cashback para estimular retorno de pacientes e aumentar a recorrência de atendimentos.</>
+      <>Implemente programas de cashback para incentivar a fidelização dos clientes e aumentar a recorrência dos atendimentos de forma estratégica e sustentável.</>
     ),
   },
   {
@@ -146,7 +146,7 @@ const FeatureList = [
     title: 'Prontuário eletrônico integrado',
     icon: <LuBook />,
     description: (
-      <>Organize registros clínicos estruturados, seguros e integrados aos atendimentos realizados na plataforma.</>
+      <>Mantenha registros clínicos estruturados, seguros e integrados aos atendimentos, garantindo organização, confiabilidade e continuidade no cuidado ao paciente.</>
     ),
   }
 ];
@@ -179,7 +179,6 @@ export default function HomepageFeatures() {
                   <a href="https://econsult.app.br" target="_blank">
                     <div className='econ-box-site'>
                       <img src="/img/Logotipo.svg" alt="Logotipo" className='econ-logo-box-col' />
-                      <small>Site oficial – econsult.app.br</small>
                     </div>
                   </a>
                 </div>

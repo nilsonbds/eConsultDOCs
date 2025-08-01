@@ -141,6 +141,14 @@ Avaliação em três níveis:
 
   *[Mais sobre gestão de atendimentos.](/docs/funcionalidades/atendimentos/visao)*
 
+### Teleatendimento Integrado
+
+- Consultas online rápidas e seguras
+- Conexão fácil e estável
+- Atenda seus pacientes onde estiver
+
+*[Mais sobre teleatendimento.](#)*
+
 ### Prontuário Eletrônico Personalizável
 
 - Modelos de anamnese prontos e editáveis  
