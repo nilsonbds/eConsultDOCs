@@ -59,6 +59,10 @@ Para ativar o teleatendimento via Daily no eConsult, siga estes passos:
 - Cole a **chave de API** copiada anteriormente
 - Clique em **Salvar**
 
+:::note
+    - O Daily exigirá o cadastro de um cartão de crédito.
+:::
+
 **Pronto!** A partir de agora, você poderá iniciar videochamadas diretamente no eConsult.
 
 ---
