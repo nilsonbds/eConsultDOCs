@@ -63,6 +63,7 @@ Para ativar o teleatendimento via Daily no eConsult, siga estes passos:
     - O Daily exigirá o cadastro de um cartão de crédito.
 :::
 
+
 **Pronto!** A partir de agora, você poderá iniciar videochamadas diretamente no eConsult.
 
 ---
@@ -86,4 +87,5 @@ Caso precise de mais tempo, é possível contratar planos pagos diretamente na p
 ---
 
 Se tiver dúvidas sobre a integração ou como utilizar o recurso, entre em contato com o suporte técnico do eConsult:  
-📧 atendimento@econsult.app.br
+
+- atendimento@econsult.app.br
