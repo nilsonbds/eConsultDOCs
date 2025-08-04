@@ -20,7 +20,7 @@ Os *cards* mostram alguns ícones informativos como:
 
 |Ícone|Indicação|
 |-|-|
-|![Atendimentos](../../../static/img/prints/buttons/btn_remoto.png)|Podendo ser exibido ao lado do nome do cliente ou grupo de atendimento, indicando que se trata de um atendimento remoto. Se este icone não for mostrado, significa que o atendimento é presencial.|
+|![Atendimentos](../../../static/img/prints/buttons/btn_remoto.png)|Podendo ser exibido abaixo do nome do cliente ou grupo de atendimento, indicando que se trata de um atendimento remoto. Se este icone não for mostrado, significa que o atendimento é presencial.|
 |![Atendimentos](../../../static/img/prints/buttons/btn-nao-pago.png)|Podendo ser exibido ao lado do valor do atendimento, indicando que este valor ainda não foi 100% (cem por cento) recebido.|
 |![Atendimentos](../../../static/img/prints/buttons/btn-pago.png)|Podendo ser exibido ao lado do valor do atendimento, indicando que este valor foi 100% (cem por cento) recebido.|
 |![Atendimentos](../../../static/img/prints/buttons/btn-question.png)|Indica que se trata de um atendimento passado que ainda não tem um informe de "Realizado" ou "Não Realizado". |
