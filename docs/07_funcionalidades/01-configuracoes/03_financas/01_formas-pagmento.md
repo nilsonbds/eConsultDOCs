@@ -43,8 +43,20 @@ O cadastro de Formas de Pagamento no eConsult é uma etapa crucial para o gerenc
 1. Confirme a exclusão acionando o botão **Sim**.
 
 :::note
-**Integração com Pix:** Caso o eConsult esteja integrado ao seu PIX, essa opção será exibida automaticamente na lista de formas de pagamento disponíveis no sistema. É importante destacar que a forma de pagamento 'PIX' se aplica exclusivamente a intenções de recebimento por atendimentos. Ela será utilizada para o pagamento de despesas e nem para a quitação de atendimentos, pois, neste último caso, trata-se de uma efetivação e não de uma intenção.
+**Integração com Pix:** 
 
-**Integração com Mercado Pago:** Caso o eConsult esteja integrado à plataforma 'Mercado Pago', essa opção será exibida automaticamente na lista de formas de pagamento disponíveis no sistema. É importante destacar que a forma de pagamento 'Mercado Pago' se aplica exclusivamente a intenções de recebimento de valores relacionados a atendimentos. Ela não será utilizada para o pagamento de despesas nem para a quitação de atendimentos, pois, neste último caso, trata-se de uma efetivação e não de uma intenção.
+    - Caso o eConsult esteja integrado ao seu sistema PIX, a opção correspondente será exibida automaticamente na lista de formas de pagamento.
+
+    - É importante destacar que a forma de pagamento 'PIX' se aplica exclusivamente a intenções de recebimento por atendimentos. Ela representa uma intenção de pagamento, e não um pagamento efetivado.
+
+    - A confirmação do pagamento ocorrerá somente após a comprovação da transferência via PIX por parte do cliente.
+
+**Integração com Mercado Pago:** 
+
+    - Caso o eConsult esteja integrado à plataforma Mercado Pago, essa opção será exibida automaticamente na lista de formas de pagamento disponíveis no sistema.
+
+    - É importante destacar que a forma de pagamento 'Mercado Pago' se aplica exclusivamente às intenções de recebimento de valores referentes a atendimentos.
+
+Essas opções não serão utilizadas para o pagamento de despesas, pois são exclusivamente para você receber valores e não pagar valores (são para seus DEVEDORES e não para seus CREDORES).
 :::
 

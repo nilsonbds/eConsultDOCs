@@ -131,7 +131,7 @@ Avaliação em três níveis:
 - Recompensas em créditos para atendimentos futuros  
 - Fidelização sem descontos fixos
 
-  *[Mais sobre score campanhas de cashback.](/docs/funcionalidades/campanha-cashback/visao)*
+  *[Mais sobre campanhas de cashback.](/docs/funcionalidades/campanha-cashback/visao)*
 
 ### Gestão de Atendimentos
 

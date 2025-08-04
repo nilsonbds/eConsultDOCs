@@ -45,6 +45,7 @@ Integra, de forma facilitada, o eConsult com outras ferramentas e sistemas para 
 - **Servidor SMTP:** Configure os parâmetros relacionado ao seu servidor de envio de e-mails.
 - **GoogleDrive:** Configure a integração do eConsult com seu GoogleDrive.
 - **ChatGPT:** Configure a integração do eConsult com seu ChatGPT.
+- **Daily (Teleatendimento):** Configure a integração do eConsult com a plataforma Daily e tenha um sistema de teleatendimento totalmente integrado.
 - **PIX:** Configure seu PIX para permitir que o sistema gere QRCodes de pagamento para seus clientes.
 - **Mercado Pago:** Configure a integração do eConsult com seu Mercado Pago.
 
