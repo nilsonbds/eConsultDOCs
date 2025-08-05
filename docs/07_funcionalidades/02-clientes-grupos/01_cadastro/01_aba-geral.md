@@ -49,3 +49,5 @@ Os demais campos (informações de contato ou o responsável pelo grupo) são op
     :::note
         As regras de cobrança podem ser cadastradas na tela Regras de Cobrança do painel de configuração do sistema.
     :::
+- **Área do cliente:** Indica que permissões o cliente pode ter acesso em sua área.
+    ![Permissões Área do cliente](../../../../static/img/prints/areacliente/001.png)
