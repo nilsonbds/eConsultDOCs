@@ -94,108 +94,176 @@ Tudo isso por valores acessíveis e com planos flexíveis.
 
 ### Cadastro de Clientes e Grupos de Atendimento
 
-- Histórico completo de sessões  
-- Organização inteligente de grupos  
-- Centralização de informações em poucos cliques
+Gerencie clientes e grupos de forma estratégica e eficiente. Tenha uma visão clara e personalizada de seus atendimentos com o painel de clientes e grupos. Com uma interface intuitiva e bem estruturada, você acessa informações detalhadas com rapidez, organiza demandas com mais precisão e minimiza falhas operacionais. Uma solução completa para quem busca agilidade, controle e excelência na gestão de atendimentos.
 
-  *[Mais sobre Cadastro de Clientes e Grupos de Atendimento.](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos)*
+- Visualização clara e personalizada de clientes e grupos
+
+- Acesso rápido a dados detalhados  
+
+- Organização eficiente das demandas
+
+  *👉 [Mais sobre Cadastro de Clientes e Grupos de Atendimento.](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos)*
 
 ### Campos Altamente Personalizáveis
 
+Personalize os cadastros de acordo com a sua metodologia e colete apenas as informações realmente relevantes. Tenha total liberdade para adaptar o sistema às suas necessidades com precisão e flexibilidade.
+
 - Adapte o cadastro às suas necessidades  
+
 - Colete informações relevantes para seu método  
+
 - Flexibilidade máxima com precisão
 
-  *[Mais sobre personalização de campos.](/docs/funcionalidades/clientes-grupos/cadastro/aba-adicionais)*
+  *👉 [Mais sobre personalização de campos.](/docs/funcionalidades/clientes-grupos/cadastro/aba-adicionais)*
 
 ### Gestão de Créditos
 
+Controle de forma simples os créditos de clientes. Faça a atribuição de valores antecipados e garanta total transparência nas transações financeiras.
+
 - Atribuição de valores antecipados  
-- Controle de saldo individual e em grupo  
+
+- Controle de saldo individual  
+
 - Transparência nas transações
 
-  *[Mais sobre créditos antecipados.](/docs/funcionalidades/clientes-grupos/cadastro/aba-creditos-e-perdas)*
+  *👉 [Mais sobre créditos antecipados.](/docs/funcionalidades/clientes-grupos/cadastro/aba-creditos-e-perdas)*
 
 ### Score Inteligente do Cliente
 
+Acompanhe o engajamento dos seus clientes com um sistema de pontuação em três níveis: global, anual e mensal. Tome decisões baseadas em dados e otimize sua estratégia de relacionamento.
+
 Avaliação em três níveis:
+
 - **Global**: histórico completo  
+
 - **Anual**: desempenho do ano atual  
+
 - **Mensal**: engajamento no mês
 
-  *[Mais sobre score inteligente.](/docs/funcionalidades/analise-score/visao)*
+  *👉 [Mais sobre score inteligente.](/docs/funcionalidades/analise-score/visao)*
 
 ### Campanhas de Cashback Personalizadas
 
+Crie campanhas de fidelização inteligentes, baseadas no comportamento do cliente. Recompense com créditos ao invés de descontos, incentivando a continuidade dos atendimentos sem comprometer a rentabilidade.
+
 - Incentivo baseado em frequência, valor ou score  
+
 - Recompensas em créditos para atendimentos futuros  
+
 - Fidelização sem descontos fixos
 
-  *[Mais sobre campanhas de cashback.](/docs/funcionalidades/campanha-cashback/visao)*
+  *👉 [Mais sobre campanhas de cashback.](/docs/funcionalidades/campanha-cashback/visao)*
 
 ### Gestão de Atendimentos
 
+Simplifique sua rotina com uma agenda centralizada, intuitiva e eficiente. O foco fica no atendimento, não na burocracia, proporcionando uma experiência mais fluida e produtiva.
+
 - Agenda centralizada e organizada  
+
 - Interface intuitiva  
+
 - Foco no atendimento, não na burocracia
 
-  *[Mais sobre gestão de atendimentos.](/docs/funcionalidades/atendimentos/visao)*
+  *👉 [Mais sobre gestão de atendimentos.](/docs/funcionalidades/atendimentos/visao)*
 
 ### Teleatendimento Integrado
 
+Ofereça consultas online com qualidade e segurança. O sistema proporciona uma conexão estável e descomplicada com interface integrada com o prontuário, faturas e histórico de atendimentos, para que você possa atender de onde estiver, sem perder a eficiência.
+
 - Consultas online rápidas e seguras
+
 - Conexão fácil e estável
+
 - Atenda seus pacientes onde estiver
 
-*[Mais sobre teleatendimento.](#)*
+  *👉 [Mais sobre teleatendimento.](#)*
 
 ### Prontuário Eletrônico Personalizável
+
+Registre e acesse com facilidade a evolução dos atendimentos por meio de prontuários personalizáveis, com modelos prontos de anamnese e histórico clínico ou pedagógico sempre à mão.
 
 - Modelos de anamnese prontos e editáveis  
 - Registro de evolução clínica ou pedagógica  
 - Acesso rápido e seguro ao histórico do cliente
 
-  *[Mais sobre prontuários.](/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario)*
+  *👉 [Mais sobre prontuários.](/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario)*
 
-  *[Mais sobre modelos de anamnese.](/docs/funcionalidades/modelo-anamnese/visao)*
+  *👉 [Mais sobre modelos de anamnese.](/docs/funcionalidades/modelo-anamnese/visao)*
+
+### Testes Psicológicos Integrados
+
+Aplique, registre e acompanhe avaliações com praticidade através de testes psicológicos digitais, com modelos padronizados e interpretações automáticas sempre à mão, diretamente no prontuário.
+
+- Modelos de testes validados pelo CFP
+
+- Aplicação presencial com registro automático de respostas
+
+- Resultados organizados e interpretações por fatores e escores
+
+- Acesso seguro ao histórico de testes de cada cliente
+
+  *👉 [Mais sobre testes psicológicos.](#)*
 
 ### Inteligência Artificial Integrada
 
-- Sugestões de preenchimento  
-- Insights de gestão e finanças  
-- Apoio na tomada de decisões estratégicas
-- Análise de dados do prontuário para identificar padrões auxiliando na formulação de hipóteses ou sugestões de abordagens terapêuticas (sempre com supervisão humana e respeitando a ética).
+Conte com o apoio da IA para gerar anotações inteligentes, hipóteses diagnósticas, análises mensais e visões estratégicas anuais. Um verdadeiro assistente digital para ampliar sua precisão e produtividade.
 
-  *[Mais sobre IA no eConsult.](/docs/funcionalidades/configuracoes/integracoes/chatgpt)*
+- Anotações inteligentes em atendimentos com respostas no contexto profissional
 
+- Hipóteses Diagnósticas e Prognósticas 
+
+- Análises Mensais com Insights
+
+- Análises Anuais com Visão Estratégica
+
+  *👉 [Mais sobre IA no eConsult.](/docs/funcionalidades/configuracoes/integracoes/chatgpt)*
 
 ### Gestão de Faturas e Recibos
 
+Automatize a emissão de faturas e recibos com opções personalizadas. Facilite os processos de reembolso e atendimento a convênios com um sistema ágil e confiável.
+
 - Emissão automática e controle de faturas  
+
 - Recibos personalizados  
+
 - Adequado para convênios e reembolsos
 
 ### Financeiro Integrado
 
+Tenha total controle do seu fluxo de caixa com relatórios atualizados em tempo real. Gerencie suas finanças de forma unificada e simplificada, tudo em um só lugar.
+
 - Visão completa do fluxo de caixa  
+
 - Relatórios financeiros em tempo real  
+
 - Gestão unificada e descomplicada
 
 ### Pagamentos via PIX
 
+Receba pagamentos com agilidade e sem taxas intermediárias, graças à integração direta com o sistema financeiro. Praticidade para você e para seus clientes.
+
 - Integração direta com o sistema financeiro  
+
 - Sem taxas intermediárias
 
 ### Integração com Google Drive
 
+Armazene e compartilhe documentos de maneira segura e eficiente. Com a integração ao Google Drive, seus arquivos estão sempre organizados e acessíveis dentro da sua rotina de trabalho.
+
 - Armazenamento e compartilhamento de documentos  
+
 - Acesso seguro e organizado  
+
 - Totalmente conectado à sua rotina
 
 ### Integração com Mercado Pago
 
+Ofereça mais formas de pagamento com a integração ao Mercado Pago. Acompanhe os recebimentos em tempo real e proporcione mais segurança e comodidade para seus clientes.
+
 - Mais opções de pagamento para seus clientes  
+
 - Controle em tempo real  
+
 - Segurança e praticidade nos recebimentos
 
 ---

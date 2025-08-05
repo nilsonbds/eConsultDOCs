@@ -1,6 +1,6 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
-import { LuAward, LuUserCheck, LuBadgeHelp, LuUser, LuUsers, LuCalendarClock, LuChartColumnStacked, LuLayoutDashboard, LuFileDiff, LuCircleDollarSign, LuReceipt, LuHandHelping, LuHeartCrack, LuHandshake, LuBook } from "react-icons/lu";
+import { LuAward, LuUserCheck, LuBadgeHelp, LuUser, LuUsers, LuCalendarClock, LuChartColumnStacked, LuLayoutDashboard, LuFileDiff, LuCircleDollarSign, LuReceipt, LuHandHelping, LuHeartCrack, LuHandshake, LuBook, LuBrainCircuit } from "react-icons/lu";
 import { TbDashboard, TbCashRegister } from "react-icons/tb";
 import styles from './styles.module.css';
 
@@ -39,10 +39,10 @@ const FeatureList = [
   },
   {
     link: '/docs/funcionalidades/clientes-grupos/visao-clientes-grupos',
-    title: 'Cadastro de clientes',
-    icon: <LuUser />,
+    title: 'Inteligência Artificial',
+    icon: <LuBrainCircuit />,
     description: (
-      <>Otimize o cadastro de clientes para acesso rápido às informações e facilite o acompanhamento contínuo da evolução do seu consultório ou organização, promovendo gestão eficiente.</>
+      <>A IA do eConsult gera anotações inteligentes, insights mensais e anuais, e sugere hipóteses diagnósticas e prognósticas no contexto da especialidade do profissional.</>
     ),
   },
   {

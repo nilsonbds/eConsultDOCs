@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# ChatGPT
+# IA eConsult
 
 **O eConsult já conta com inteligência artificial nativa para agilizar tarefas do dia a dia, como geração de textos e análises automáticas. Mas, se preferir, você também pode configurar sua própria conta do ChatGPT e personalizar ainda mais a experiência.**
 
@@ -14,9 +14,55 @@ Mesmo com a IA já ativa por padrão no eConsult, essa configuração com a sua 
 - Personalização da capacidade de uso  
 - Escalabilidade conforme suas necessidades
 
-## Funcionalidades com suporte de IA
+## Funcionalidades com Inteligência Artificial no eConsult
 
-A IA é utilizada nos seguintes fluxos ou funcionalidades do eConsult:
+A Inteligência Artificial (IA) integrada ao eConsult foi desenvolvida para apoiar o profissional da saúde nas áreas clínica e gerencial, oferecendo recursos que se adaptam à sua especialidade (psicologia, terapia integrativa, coaching, fisioterapia, nutrição, entre outras).
+
+### 1. Anotações Inteligentes
+
+A IA auxilia na elaboração e revisão de anotações clínicas, permitindo:
+
+- Geração de textos completos com base nas informações do atendimento;
+- Reformulação, resumo ou expansão de anotações;
+- Adaptação ao vocabulário e à lógica da especialidade do profissional.
+
+### 2. Respostas no Contexto Profissional
+
+A IA responde perguntas e oferece sugestões sempre dentro do contexto da área de atuação do especialista. Por exemplo:
+
+- **Psicólogos** recebem respostas baseadas em conceitos da psicologia;
+- **Nutricionistas** recebem sugestões alinhadas às práticas da nutrição.
+
+### 3. Hipóteses Diagnósticas e Prognósticas
+
+Com base nos dados do prontuário, nos testes aplicados (como testes psicológicos) e anotações feitas durante os atendimentos, a IA pode sugerir:
+
+- Hipóteses diagnósticas iniciais;
+- Possíveis prognósticos;
+- Pistas clínicas úteis ao raciocínio do profissional.
+
+> **Observação:** essas sugestões são auxiliares e não substituem a análise clínica do especialista.
+
+### 4. Análises Mensais com Insights
+
+A IA gera relatórios mensais com insights sobre:
+
+- Desempenho clínico (número de atendimentos, taxa de comparecimento, entre outros);
+- Resultados financeiros (faturamento, média por sessão, etc.).
+
+Essas informações ajudam o profissional a acompanhar e melhorar sua performance mensalmente.
+
+### 5. Análises Anuais com Visão Estratégica
+
+Além dos relatórios mensais, a IA também oferece uma análise anual com:
+
+- Dados consolidados de desempenho e finanças;
+- Comparações ao longo do tempo;
+- Insights para decisões estratégicas de médio e longo prazo.
+
+---
+
+**Importante:** A IA é uma ferramenta de apoio. Todas as decisões clínicas e administrativas continuam sob responsabilidade do profissional.
 
 - **Anotação de Atendimento**: ao incluir ou editar uma anotação, aparece o botão ![Botão ChatGPT](../../../../static/img/prints/buttons/btn_chatgpt.png), que abre um editor que permite sugestões automáticas baseadas em IA.
 
@@ -24,7 +70,7 @@ A IA é utilizada nos seguintes fluxos ou funcionalidades do eConsult:
 
 - **Painel de Resultados – Análise Anual**: permite gerar análise com insights com base nos indicadores de um determinado ano.
 
-Essas funcionalidades já funcionam com a IA do eConsult. A seguir, você aprenderá como conectar sua própria conta do ChatGPT caso queira personalizar essa experiência.
+- **Prontuário:** no prontuário o botão Gerar ![Botão ChatGPT](../../../../static/img/prints/buttons/btn_gerar.png), nos campos "Hipóteses diagnósticas sugeridas por IA" e "Prognóstico gerado por IA (sugestivo)" permite gerar hipóteses considerando o prontuário, as anotações dos atendimentos e os testes psicológigos. 
 
 ---
 
@@ -61,16 +107,21 @@ O **eConsult utiliza exclusivamente o modelo GPT-4o-mini** da OpenAI para todas 
 - **Mais econômico** que modelos como o GPT-4o e GPT-4-turbo, ideal para uso contínuo
 :::
 
+Essas funcionalidades funcionam de forma nativa do eConsult. 
+
+Você pode também conectar sua própria conta da OpenAI caso queira personalizar ainda mais essa experiência.
+
 ## Se você usar a sua própria API da OpenAI?
 
 Se preferir usar a sua **API da OpenAI diretamente**, você será responsável por inserir créditos e gerenciar o uso.
 
 :::note **Exemplo:** 
-Com apenas **$1 por mês**, usando o modelo GPT-4o-mini, você consegue gerar aproximadamente:
+Com apenas **$2 por mês**, usando o modelo GPT-4o-mini, você consegue gerar com folga:
 - 8 anotações de atendimento por dia (~300 tokens cada)
 - 1 análise mensal (~900 tokens)
 - 1 análise anual (~900 tokens)  
-- **Total:** cerca de 60.000 tokens/mês — **bem abaixo do limite mensal disponível** no eConsult mas suficiente para um uso moderado.
+- 20 hipóteses disgnóticas por mês
+- 20 hipóteses prognósticas por mês
 :::
 
 ## Resumo
@@ -135,17 +186,6 @@ Se tiver dúvidas sobre o consumo de tokens ou desejar monitorar o uso, entre em
 **Pronto! Sua integração está feita.**
 
 ---
-
-Para que esta integração funcione, é necessário adicionar créditos ao projeto criado na plataforma OpenAI.
-
-:::note
-
-Acreditamos que **$1 por mês** é mais do que suficiente para:
-- 8 anotações de atendimento por dia
-- 1 análise mensal
-- 1 análise anual
-
-:::
 
 ## Inserir créditos na plataforma OpenAI
 
