@@ -6,32 +6,38 @@ sidebar_position: 10
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-prontuario.png)
 
-A aba Prontuário reúne, de forma sistemática e organizada, todas as informações relevantes sobre o atendimento prestado ao cliente ou grupo atendido. Trata-se de um instrumento essencial para assegurar a continuidade e a qualidade do cuidado, além de exercer funções legais, administrativas e científicas.
+A aba **Prontuário** reúne, de forma sistematizada e organizada, todas as informações relevantes sobre os atendimentos realizados, seja a indivíduos ou grupos. Trata-se de um instrumento essencial para garantir a continuidade do cuidado, a qualidade dos serviços prestados e o cumprimento de funções legais, administrativas e científicas.
 
-O prontuário pode incluir dados pessoais, anamnese, histórico clínico, resultados de exames, diagnósticos, prescrições, anotações de atendimento, evolução do quadro e outros registros pertinentes. Sua elaboração deve obedecer a normas técnicas e éticas, garantindo confidencialidade, precisão e clareza nas informações registradas.
+O prontuário pode conter dados pessoais, anamnese, testes psicológicos, histórico clínico, exames, diagnósticos, prescrições, anotações, evolução do quadro e outros registros pertinentes. Sua elaboração deve seguir normas técnicas e éticas, assegurando **confidencialidade, precisão e clareza**.
 
-No eConsult, o prontuário eletrônico é adotado como padrão, oferecendo maior agilidade no acesso às informações e promovendo melhor integração entre os profissionais e seus clientes. A segurança dos dados é uma prioridade na plataforma, sendo implementadas medidas robustas de proteção e controle de acesso para assegurar a privacidade das informações.
+No **eConsult**, o prontuário é estruturado a partir de um modelo de anamnese previamente configurado, oferecendo agilidade no registro e facilitando a integração entre profissionais e clientes. A plataforma adota medidas rigorosas de **segurança da informação**, com controle de acesso e proteção robusta dos dados.
 
-Sob o aspecto legal, o prontuário é considerado um documento oficial e pode ser utilizado como prova em processos judiciais — tanto em defesa do paciente quanto do profissional de saúde. Por esse motivo, é fundamental que os registros sejam feitos com exatidão e responsabilidade.
+Sob o ponto de vista legal, o prontuário é um **documento oficial**, podendo ser utilizado como prova judicial — tanto em defesa do cliente quanto do profissional. Por isso, é fundamental que os registros sejam feitos com **exatidão e responsabilidade**.
 
-Além de sua função assistencial e legal, o prontuário também desempenha um papel relevante na educação e na pesquisa científica, permitindo a análise de casos, a avaliação de práticas clínicas e o desenvolvimento de novas abordagens terapêuticas.
+Além da função assistencial e jurídica, o prontuário tem grande valor na **educação e na pesquisa científica**, contribuindo para a análise de casos, o aprimoramento das práticas clínicas e o desenvolvimento de novas abordagens terapêuticas.
 
-Confira os principais recursos disponibilizados pelo Prontuário:
+Confira os principais recursos disponibilizados no Prontuário:
 
 ### **Anamnese**
 Permite ao profissional registrar de forma estruturada as informações iniciais do cliente ou grupo, como queixas principais, histórico de saúde, antecedentes familiares, hábitos de vida e outros dados relevantes para o entendimento global do caso. A anamnese é o ponto de partida para um atendimento qualificado, servindo como base para avaliações futuras e para a construção de um plano de cuidado personalizado.
 
-### **Histórico Completo**
+### **Testes psicológicos**
+Permite aplicar e registrar testes psicológicos validados pelo CFP diretamente na plataforma. Inclui escalas como BDI, BAI, SDQ, CD-RISC, entre outras, com resultados automaticamente integrados ao prontuário do cliente.
+
+### **Histórico de Atendimentos**
 Permite registrar todos os atendimentos realizados, com datas e horários detalhados. Isso oferece uma linha do tempo clara da trajetória do cliente ou grupo, facilitando o entendimento da evolução dos casos e auxiliando na tomada de decisões.
 
 ### **Arquivos**
-Disponibiliza a visualização de arquivos vinculados a clientes, grupos ou atendimentos específicos. Esses documentos ficam acessíveis por meio de links de download, garantindo que todas as informações relevantes estejam sempre disponíveis para o profissional e para as pessoas com quem ele optar por compartilhá-las.
+Disponibiliza a visualização de arquivos vinculados. Esses documentos ficam acessíveis por meio de links de download, garantindo que todas as informações relevantes estejam sempre disponíveis para o profissional e para as pessoas com quem ele optar por compartilhá-las.
 
 ### **Anotações e Observações**
 O profissional pode adicionar anotações diretamente no prontuário, com a possibilidade de incluir campos personalizados conforme suas necessidades. Também é possível consultar observações registradas em atendimentos anteriores, contribuindo para um acompanhamento mais preciso e embasado.
 
+### **Inteligência Artificial Gerando Hipóteses**
+O profissional pode contar com o apoio da inteligência artificial para gerar hipóteses diagnósticas e prognósticas de forma mais precisa, considerando dados da anamnese, anotações em atendimentos, resultados de testes psicológicos e o contexto específico da sua área de atuação.
+
 ### **Acesso Seguro e Privado**
-Todas as informações registradas são protegidas com rigorosos padrões de segurança e ficam disponíveis apenas para pessoas previamente autorizadas pelo profissional. Isso assegura a privacidade dos dados do cliente, em conformidade com as melhores práticas de proteção da informação.
+Todas as informações registradas são protegidas e criptografadas com rigorosos padrões de segurança e ficam disponíveis apenas para pessoas previamente autorizadas pelo profissional. Isso assegura a privacidade dos dados do cliente, em conformidade com as melhores práticas de proteção da informação.
 
 Com essas funcionalidades, o **eConsult** garante ao profissional uma visão integrada, segura e de fácil acesso do histórico de cada cliente, contribuindo para um atendimento mais completo, personalizado e eficaz.
 
