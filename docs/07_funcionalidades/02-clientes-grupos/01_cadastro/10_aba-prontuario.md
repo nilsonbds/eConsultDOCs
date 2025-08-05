@@ -47,21 +47,36 @@ Após o cadastramento de modelos de anamnese, você estará apto a iniciar os re
 
 ## Incluir prontuário do cliente
 
-1. Na aba "Prontuário", na opção "Modelo de Anamnese", selecione um modelo.
+1. Na aba "Prontuário", na opção "Modelo de Anamnese", selecione um modelo de anamnese.
+
+    ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-063.png)
 
 1. o sistema passa a mostrar a estrutura (formulários) de prontuário do cliente.
 
+    ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-064.png)
+
 1. Ajuste a estrutura do prontuário, incluindo, alterando ou excluindo tópicos e seus respectivos campos conforme suas necessidades.
 
-    ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-036.png)
+1. Utilize o tópico "Avaliações Psicológicas" para incluir testes psicológicos conforme suas necessidades.
 
     :::note Para ajuste da estrutura use:
-        - ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_print_gray.png) Mostra ou oculta o campo na impressão do prontuário.
+        - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-065.png) Mostra ou oculta o campo para o cliente.
         - ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_add_campo_gray.png) Inclui um novo campo para o prontuário.
         - ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_delete_gray.png) Exclui campo do prontuário.
+        - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-067.png) Para fechar todos os tópicos.
+        - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-066.png) Para abrir todos os tópicos.
+    :::
+
+    :::note Uso da IA para hipóteses diagnósticas e prognósticas
+        - No tópico "Diagnóstico", campo "Hipóteses diagnósticas sugeridas por IA", acione o botão "Gerar" para incluir uma hipótese diagnóstica gerada por IA.
+        - No tópico "Prognóstico", campo "Prognóstico gerado por IA (sugestivo)", acione o botão "Gerar" para incluir uma hipótese prognóstica gerada por IA.
     :::
 
 1. Acione o botão "Salvar" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_salvar.png).
+
+## Tópico arquivos anexados
+
+O sistema inclui uma seção (tópico) que lista os links de todos os arquivos vinculados ao cliente ou atendimentos.
 
 ## Tópico atendimentos
 
@@ -74,7 +89,8 @@ Ao selecionar a opção "Últimos Meses", o sistema exibirá os atendimentos con
 ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-038.png)
 
 :::note
-    - O botão "Visualizar" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_visualizar-prontuario.png) mostra um preview do prontuário disponibilizando-o para impressão.
-    
-    - O botão "Restaurar" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_restaurar-prontuario.png) exclui o prontuário atual restaurando a tela.
+    - ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_salvar.png): permite salvar o prontuário para o cliente ou grupo.
+    - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-068.png): permite salvar o prontuário e mostra um preview com a visão do especialista.     
+    - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-069.png): mostra um preview do prontuário com a visão do cliente.    
+    - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-070.png): exclui o prontuário atual.
 :::
