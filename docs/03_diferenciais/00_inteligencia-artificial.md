@@ -2,9 +2,11 @@
 sidebar_position: 0
 ---
 
-# Inteligência Artificial no eConsult: Mais Tempo para o Cuidado, Mais Inteligência para o Atendimento
+# Inteligência Artificial no eConsult
 
-A Inteligência Artificial (IA) do eConsult foi desenvolvida para transformar a forma como profissionais da saúde conduzem seus atendimentos, tomam decisões clínicas e gerenciam seus consultórios. Com uma atuação contextualizada e inteligente, a IA se adapta à especialidade do profissional — seja psicologia, nutrição, psiquiatria, entre outras — oferecendo suporte técnico e prático com precisão e fluidez.
+***Mais tempo para o cuidado, mais inteligência para o atendimento.***
+
+A Inteligência Artificial (IA) do eConsult foi desenvolvida para transformar a forma como profissionais da saúde conduzem seus atendimentos, tomam decisões clínicas e gerenciam seus consultórios. Com uma atuação contextualizada e inteligente, a IA se adapta à especialidade do profissional — seja psicologia, nutrição, terapia integrativa, entre outras — oferecendo suporte técnico e prático com precisão e fluidez.
 
 ## ✦ Anotações Inteligentes e Contextualizadas
 
@@ -65,50 +67,69 @@ Neste cenário, você usará 85.000 tokens de saída, é razoável estimar que o
 
 Isso confirma que há uma grande margem de uso ainda disponível, mesmo em cenários intensos de trabalho.
 
-### Por que a IA do eConsult é única no mercado?
+---
+
+# Por que a IA do eConsult é única no mercado?
 
 A IA no eConsult é um diferencial competitivo claro para um sistema voltado para psicólogos — e para profissionais da saúde em geral. Vamos analisar ponto a ponto por que isso se destaca:
 
-**✅ 1. Anotações Inteligentes e Contextualizadas**
+### 1. Anotações Inteligentes e Contextualizadas
 
 - **Diferencial:** Psicólogos gastam tempo considerável redigindo registros clínicos que precisam ser técnicos, éticos e coerentes. Uma IA que entende a linguagem e o contexto da psicologia ajuda a reduzir esse tempo e melhora a qualidade do registro.
 - **Valor percebido:** Eficiência + profissionalismo na documentação.
-- **Destaque:** A personalização por especialidade (psicologia, nutrição, psiquiatria) é um diferencial relevante.
+- **Destaque:** A personalização por especialidade (psicologia, nutrição, terapia integrativa) é um diferencial relevante.
 
-**✅ 2. Suporte a Diagnóstico e Prognóstico**
+### 2. Suporte a Diagnóstico e Prognóstico
 
 - **Diferencial:** Ainda que a decisão final seja sempre do psicólogo, ter uma IA que oferece hipóteses com base no prontuário e testes aplicados agrega inteligência clínica.
 - **Valor percebido:** Apoio no raciocínio clínico, maior segurança e agilidade na tomada de decisão.
 - **Destaque:** Esse tipo de suporte é raro em plataformas comuns de prontuário eletrônico.
 
-**✅ 3. Relatórios com Insights Estratégicos (Mensais e Anuais)**
+### 3. Relatórios com Insights Estratégicos (Mensais e Anuais)
 
 - **Diferencial:** Psicólogos autônomos ou que gerenciam consultórios geralmente não têm tempo ou conhecimento para fazer análise estratégica de desempenho clínico e financeiro.
 - **Valor percebido:** Suporte à gestão do consultório, algo que muitos profissionais sentem falta.
 - **Destaque:** O uso da IA para consolidar esses dados economiza tempo e facilita decisões.
 
-**✅ 4. Limite de Tokens e Transparência de Uso**
+### 4. Limite de Tokens e Transparência de Uso
 
 - **Diferencial:** Muitos sistemas omitem esse tipo de detalhe técnico. A comunicação clara sobre limites, exemplos de uso e transparência no modelo de consumo ajuda na confiança do profissional.
 - **Valor percebido:** Tranquilidade e previsibilidade no uso da IA, sem custos adicionais ou surpresas.
 
-**✅ 5. Foco ético e de apoio (sem substituir o profissional)**
+### 5. Foco ético e de apoio (sem substituir o profissional)
 
 - **Diferencial:** Afirmar que a IA apoia sem substituir o julgamento clínico é essencial para ganhar a confiança de psicólogos, que são especialmente sensíveis a esse tipo de questão ética.
 - **Valor percebido:** A IA é vista como assistente e não ameaça.
 
-**✴️ Em resumo:**
+## Comparando com outros sistemas de mercado
 
-Sim, a inteligência artificial no eConsult representa um diferencial competitivo valioso, principalmente pelos seguintes motivos:
+A Inteligência Artificial do eConsult vai além das promessas genéricas e se posiciona como uma verdadeira assistente clínica e estratégica, adaptada às necessidades reais do profissional da saúde — especialmente o psicólogo. Em contraste com soluções de mercado, o eConsult entrega uma IA especializada, contextualizada e prática.
 
-- Foco em eficiência clínica e administrativa;
-- Adaptação contextual por especialidade (como psicologia);
-- A IA atua como ferramenta de apoio e não substituição;
-- Agrega valor sem aumentar a carga de trabalho;
-- Funcionalidade de IA ainda é rara em muitos sistemas de prontuário eletrônico voltados à psicologia.
+**Outros sistemas do mercado:**
+    
+    - IA genérica, focada apenas em automatizações simples (ex.: lembretes de agendamento, respostas automáticas de WhatsApp, autocompletar de texto).
+    - Sem adaptação ao vocabulário técnico da psicologia ou à prática clínica.
+    - Não há recursos para sugerir diagnósticos, revisar textos clínicos ou gerar relatórios analíticos inteligentes.
+    - Quando oferecem alguma funcionalidade de IA, ela atua isoladamente e sem integração com o prontuário ou histórico do paciente.
 
----
+**eConsult:**
 
-A inteligência artificial no eConsult não é apenas um recurso adicional — é uma **parceira estratégica** na sua jornada profissional.
+    - Anotações Inteligentes e Contextualizadas
+        - A IA compreende o contexto do atendimento e ajuda na escrita de evoluções clínicas, com vocabulário técnico alinhado à especialidade (psicologia, terapia integrativa, nutrição...).
+        - Interação em formato de chat: o profissional pode pedir resumos, reformulações ou complementos com base nas informações da sessão.
+    - Suporte a Diagnóstico e Prognóstico
+        - A IA cruza dados do prontuário, engajamento, anotações feitas em sessões psicoterapêuticas e testes psicológicos aplicados, para sugerir hipóteses diagnósticas e prognósticas, sempre respeitando a autonomia clínica do profissional.
+        - Facilita o raciocínio clínico, acelera decisões e ajuda a prevenir erros de omissão.
+    - Relatórios Mensais com Insights Estratégicos
+        - Geração automática de relatórios sobre produtividade, padrões de atendimento e performance financeira do consultório.
+        - Suporte para decisões mais informadas sobre agenda, retorno de pacientes e gestão estratégica.
+    - Visão Anual com Dados Consolidados
+        - Acompanhamento de longo prazo com indicadores clínicos e administrativos agregados, permitindo reflexões sobre crescimento, sazonalidades e pontos de melhoria.
 
-Adaptando-se ao contexto específico de cada especialidade, ela contribui para liberar tempo e foco, permitindo que você se concentre no que realmente importa: **cuidar do paciente com mais qualidade, eficiência e inteligência.**
+**O que isso representa na prática?**
+
+Enquanto outros sistemas apenas registram, o eConsult interpreta, sugere, organiza e projeta — colocando o psicólogo em posição de foco no cuidado, sem abrir mão da gestão clínica e administrativa baseada em dados.
+
+:::tip **Diferencial real** 
+A IA do eConsult atua em todo o ciclo do atendimento, e não apenas como uma "curiosidade tecnológica". Isso transforma a rotina do profissional com eficiência, profundidade e inteligência contextualizada.
+:::
