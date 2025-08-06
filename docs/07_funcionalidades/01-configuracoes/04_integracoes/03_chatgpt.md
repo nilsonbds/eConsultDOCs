@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# IA eConsult
+# ChatGPT
 
 **O eConsult já conta com inteligência artificial nativa para agilizar tarefas do dia a dia, como geração de textos e análises automáticas. Mas, se preferir, você também pode configurar sua própria conta do ChatGPT e personalizar ainda mais a experiência.**
 
