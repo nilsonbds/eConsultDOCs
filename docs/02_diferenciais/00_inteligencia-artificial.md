@@ -57,7 +57,7 @@ O limite de **192.000 tokens/mês** considera a **soma dos tokens de entrada e d
 
 Considere o seguinte cenário de utilização:
 
-- 8 anotações de atendimento por dia (~400 tokens de saída)  
+- 8 anotações de atendimento por dia (~400 tokens de saída para cada anotação)  
 - 1 análise mensal (~900 tokens de saída por interação)  
 - 1 análise anual (~900 tokens de saída por interação)  
 - 20 hipóteses diagnósticas por mês (~6.000 tokens de saída no total)  
