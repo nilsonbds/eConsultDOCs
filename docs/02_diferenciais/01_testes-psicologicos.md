@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Testes Psicológicos no eConsult
+# Testes Psicológicos
 
 ***Avaliações científicas integradas à rotina clínica.***
 

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Modelos de Anamnese do eConsult
+# Modelos de Anamnese
 
 ***Estrutura, agilidade e consistência clínica***
 

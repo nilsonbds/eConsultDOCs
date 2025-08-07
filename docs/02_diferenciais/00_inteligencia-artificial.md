@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Inteligência Artificial no eConsult
+# Inteligência Artificial
 
 ***Mais tempo para o cuidado, mais inteligência para o atendimento.***
 

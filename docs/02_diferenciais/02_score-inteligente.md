@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Análise de Score do eConsult
+# Análise de Score
 
 ***Inteligência para engajamento e gestão de pacientes.***
 
