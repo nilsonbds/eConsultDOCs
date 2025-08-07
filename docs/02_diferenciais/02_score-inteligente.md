@@ -53,7 +53,7 @@ Quando combinada com os recursos de agenda, prontuário e gestão financeira, a 
 
 ### 4. Complementa outras ferramentas do sistema
 
-- Quando combinada com prontuário, agenda, testes e IA, a análise de score fecha o ciclo: do cuidado clínico à gestão estratégica.
+- Quando combinada com prontuário, agenda, avaliações psicológicas e IA, a análise de score fecha o ciclo: do cuidado clínico à gestão estratégica.
 
 ## Comparando com outros sistemas de mercado
 

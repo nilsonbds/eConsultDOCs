@@ -190,19 +190,19 @@ Registre e acesse com facilidade a evolução dos atendimentos por meio de pront
 
   *👉 [Mais sobre modelos de anamnese.](/docs/funcionalidades/modelo-anamnese/visao)*
 
-### Testes Psicológicos Integrados
+### Avaliações Psicológicas Integradas
 
-Aplique, registre e acompanhe avaliações com praticidade através de testes psicológicos digitais, com modelos padronizados e interpretações automáticas sempre à mão, diretamente no prontuário.
+Aplique, registre e acompanhe com praticidade avaliações psicológicas digitais, com modelos padronizados e interpretações automáticas sempre à mão, diretamente no prontuário.
 
-- Modelos de testes validados pelo CFP
+- Modelos de avaliação amplamente utilizados
 
 - Aplicação presencial com registro automático de respostas
 
 - Resultados organizados e interpretações por fatores e escores
 
-- Acesso seguro ao histórico de testes de cada cliente
+- Acesso seguro ao histórico de avaliações de cada cliente
 
-  *👉 [Mais sobre testes psicológicos.](#)*
+  *👉 [Mais sobre avaliações psicológicas.](/docs/diferenciais/testes-psicologicos)*
 
 ### Inteligência Artificial Integrada
 

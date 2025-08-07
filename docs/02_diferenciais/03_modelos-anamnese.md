@@ -12,6 +12,8 @@ O recurso Modelos de Anamnese do eConsult oferece fichas clínicas predefinidas 
 
 O eConsult disponibiliza versões prontas de anamnese, com roteiros alinhados às melhores práticas clínicas. É possível adaptar campos, sequência e profundidade de perguntas conforme abordagem teórica ou tipo de atendimento, trazendo coerência e personalidade ao registro.
 
+[👉 Veja aqui os modelos de anamnese disponibilizados pelo eConsult](/docs/funcionalidades/modelo-anamnese/modelos-econsult)
+
 ## ✦ Menor Tempo de Registro, Mais Atenção à Escuta
 
 Com o modelo já montado, o profissional pode se dedicar à escuta ativa e à interação, sem se preocupar em lembrar de todos os campos. Basta confirmar ou editar rapidamente durante a sessão, reduzindo o tempo de transcrição e evitando erros de omissão.

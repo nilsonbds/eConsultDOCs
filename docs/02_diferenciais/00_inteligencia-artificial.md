@@ -14,7 +14,7 @@ A IA colabora na elaboração dos textos, ajudando o profissional a construir re
 
 ## ✦ Suporte a Diagnóstico e Prognóstico
 
-Com base nos dados do prontuário eletrônico e em resultados de testes psicológicos (quando aplicados), a IA sugere hipóteses diagnósticas e prognósticas que podem auxiliar o raciocínio clínico. Essas sugestões respeitam a autonomia do profissional e atuam como um recurso adicional para apoiar a tomada de decisão com mais segurança e agilidade.
+Com base nos dados do prontuário eletrônico e em resultados de avaliações psicológicas (quando aplicadas), a IA sugere hipóteses diagnósticas e prognósticas que podem auxiliar o raciocínio clínico. Essas sugestões respeitam a autonomia do profissional e atuam como um recurso adicional para apoiar a tomada de decisão com mais segurança e agilidade.
 
 ## ✦ Análises Mensais com Insights Estratégicos
 
@@ -81,7 +81,7 @@ A IA no eConsult é um diferencial competitivo claro para um sistema voltado par
 
 ### 2. Suporte a Diagnóstico e Prognóstico
 
-- **Diferencial:** Ainda que a decisão final seja sempre do psicólogo, ter uma IA que oferece hipóteses com base no prontuário e testes aplicados agrega inteligência clínica.
+- **Diferencial:** Ainda que a decisão final seja sempre do psicólogo, ter uma IA que oferece hipóteses com base no prontuário e avaliações psicológicas aplicadas agrega inteligência clínica.
 - **Valor percebido:** Apoio no raciocínio clínico, maior segurança e agilidade na tomada de decisão.
 - **Destaque:** Esse tipo de suporte é raro em plataformas comuns de prontuário eletrônico.
 
@@ -118,7 +118,7 @@ A Inteligência Artificial do eConsult vai além das promessas genéricas e se p
         - A IA compreende o contexto do atendimento e ajuda na escrita de evoluções clínicas, com vocabulário técnico alinhado à especialidade (psicologia, terapia integrativa, nutrição...).
         - Interação em formato de chat: o profissional pode pedir resumos, reformulações ou complementos com base nas informações da sessão.
     - Suporte a Diagnóstico e Prognóstico
-        - A IA cruza dados do prontuário, engajamento, anotações feitas em sessões psicoterapêuticas e testes psicológicos aplicados, para sugerir hipóteses diagnósticas e prognósticas, sempre respeitando a autonomia clínica do profissional.
+        - A IA cruza dados do prontuário, engajamento, anotações feitas em sessões psicoterapêuticas e avaliações psicológicas aplicadas, para sugerir hipóteses diagnósticas e prognósticas, sempre respeitando a autonomia clínica do profissional.
         - Facilita o raciocínio clínico, acelera decisões e ajuda a prevenir erros de omissão.
     - Relatórios Mensais com Insights Estratégicos
         - Geração automática de relatórios sobre produtividade, padrões de atendimento e performance financeira do consultório.
