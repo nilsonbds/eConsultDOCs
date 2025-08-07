@@ -14,7 +14,7 @@ A IA colabora na elaboração dos textos, ajudando o profissional a construir re
 
 ## ✦ Suporte a Diagnóstico e Prognóstico
 
-Com base nos dados do prontuário eletrônico e em resultados de avaliações psicológicas (quando aplicadas), a IA sugere hipóteses diagnósticas e prognósticas que podem auxiliar o raciocínio clínico. Essas sugestões respeitam a autonomia do profissional e atuam como um recurso adicional para apoiar a tomada de decisão com mais segurança e agilidade.
+Com base nos dados do prontuário eletrônico, avaliações psicológicas (quando aplicadas), anotações feitas em atendimentos e em dados de engajamento a IA sugere hipóteses diagnósticas e prognósticas que podem auxiliar o raciocínio clínico. Essas sugestões respeitam a autonomia do profissional e atuam como um recurso adicional para apoiar a tomada de decisão com mais segurança e agilidade.
 
 ## ✦ Análises Mensais com Insights Estratégicos
 
