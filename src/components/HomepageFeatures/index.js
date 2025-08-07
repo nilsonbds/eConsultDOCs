@@ -1,6 +1,6 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
-import { LuAward, LuUserCheck, LuBadgeHelp, LuUser, LuUsers, LuCalendarClock, LuChartColumnStacked, LuLayoutDashboard, LuFileDiff, LuCircleDollarSign, LuReceipt, LuHandHelping, LuHeartCrack, LuHandshake, LuBook, LuBrainCircuit } from "react-icons/lu";
+import { LuAward, LuUserCheck, LuBadgeHelp, LuUser, LuUsers, LuCalendarClock, LuChartColumnStacked, LuLayoutDashboard, LuFileDiff, LuCircleDollarSign, LuReceipt, LuHandHelping, LuHeartCrack, LuHandshake, LuBook, LuBrainCircuit, LuSettings } from "react-icons/lu";
 import { TbDashboard, TbCashRegister } from "react-icons/tb";
 import styles from './styles.module.css';
 
@@ -32,13 +32,13 @@ const FeatureList = [
   {
     link: '/docs/funcionalidades/configuracoes/visao-configuracoes',
     title: 'Ajustes e preferências do sistema',
-    icon: <LuBadgeHelp />,
+    icon: <LuSettings />,
     description: (
       <>Configure e personalize o sistema de acordo com suas necessidades, ajustando agenda, clientes, finanças e integrações para uma gestão completa e eficiente.</>
     ),
   },
   {
-    link: '/docs/funcionalidades/clientes-grupos/visao-clientes-grupos',
+    link: '/docs/diferenciais/inteligencia-artificial',
     title: 'Inteligência Artificial',
     icon: <LuBrainCircuit />,
     description: (

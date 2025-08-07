@@ -21,8 +21,10 @@ Confira os principais recursos disponibilizados no Prontuário:
 ### **Anamnese**
 Permite ao profissional registrar de forma estruturada as informações iniciais do cliente ou grupo, como queixas principais, histórico de saúde, antecedentes familiares, hábitos de vida e outros dados relevantes para o entendimento global do caso. A anamnese é o ponto de partida para um atendimento qualificado, servindo como base para avaliações futuras e para a construção de um plano de cuidado personalizado.
 
-### **Testes psicológicos**
-Permite aplicar e registrar testes psicológicos validados pelo CFP diretamente na plataforma. Inclui escalas como BDI, BAI, SDQ, CD-RISC, entre outras, com resultados automaticamente integrados ao prontuário do cliente.
+### **Avaliações psicológicas**
+Permite aplicar e registrar avaliações psicológicas validadas pelo CFP diretamente na plataforma. Inclui escalas como BDI, BAI, SDQ, CD-RISC, entre outras, com resultados automaticamente integrados ao prontuário do cliente.
+
+São as avaliações possíveis:
 
 ### **Histórico de Atendimentos**
 Permite registrar todos os atendimentos realizados, com datas e horários detalhados. Isso oferece uma linha do tempo clara da trajetória do cliente ou grupo, facilitando o entendimento da evolução dos casos e auxiliando na tomada de decisões.
@@ -51,13 +53,13 @@ Após o cadastramento de modelos de anamnese, você estará apto a iniciar os re
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-063.png)
 
-1. o sistema passa a mostrar a estrutura (formulários) de prontuário do cliente.
+1. O sistema passa a mostrar a estrutura (formulários) de prontuário do cliente.
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-064.png)
 
 1. Ajuste a estrutura do prontuário, incluindo, alterando ou excluindo tópicos e seus respectivos campos conforme suas necessidades.
 
-1. Utilize o tópico "Avaliações Psicológicas" para incluir testes psicológicos conforme suas necessidades.
+1. Utilize o tópico "Avaliações Psicológicas" para incluir avaliações conforme suas necessidades.
 
     :::note Para ajuste da estrutura use:
         - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-065.png) Mostra ou oculta o campo para o cliente.

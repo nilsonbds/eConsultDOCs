@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Testes Psicológicos
+# Avaliações Psicológicas
 
 ***Avaliações científicas integradas à rotina clínica.***
 
-A aplicação de testes psicológicos é parte essencial da prática em saúde mental. No eConsult, essa funcionalidade foi desenvolvida para trazer mais rigor técnico, praticidade e agilidade para o cotidiano de psicólogos. Com um portfólio de escalas de uso livre, os testes estão integrados diretamente ao prontuário eletrônico, com aplicação digital e interpretação automática.
+A aplicação de avaliações psicológicas é parte essencial da prática em saúde mental. No eConsult, essa funcionalidade foi desenvolvida para trazer mais rigor técnico, praticidade e agilidade para o cotidiano de psicólogos. Com um portfólio de escalas de uso livre, os testes estão integrados diretamente ao prontuário eletrônico, com aplicação digital e interpretação automática.
 
 ## ✦ Avaliações Baseadas em Evidências, Sem Complicações
 
@@ -14,27 +14,104 @@ O eConsult disponibiliza uma série de instrumentos validados para rastreamento 
 
 ## ✦ Testes Disponíveis na Plataforma
 
-Entre os principais instrumentos disponíveis, estão:
+Os instrumentos disponíveis, são:
 
-- PHQ-9: Rastreio de depressão.
+##### Afeto
+- PANAS - Positive and Negative Affect Schedule
 
-- GAD-7: Rastreio de ansiedade generalizada.
+##### Alcoolismo
+- AUDIT - Alcohol Use Disorders Identification Test
+- CAGE - Cut-down, Annoyed, Guilty, Eye-opener
 
-- SRQ-20: Avaliação geral de psicopatologias.
+##### Ansiedade
+- BAI - Beck Anxiety Inventory
+- GAD-7 - Generalized Anxiety Disorder-7
 
-- AUDIT e CAGE: Rastreio de uso e dependência de álcool.
+##### Apoio social
+- MSPSS - Multidimensional Scale of Perceived Social Support
 
-- WHO-5: Índice de bem-estar psicológico.
+##### Autismo
+- M-CHAT-R/F - Modified Checklist for Autism in Toddlers, Revised, with Follow-Up
 
-- Plutchik: Avaliação de risco de suicídio.
+##### Autocompaixão
+- SCS - Escala de Autocompaixão (Self-Compassion Scale)
 
-- Danger Assessment: Risco de violência doméstica.
+##### Autoestima
+- RSES - Escala de Autoestima de Rosenberg
 
-- K10: Sofrimento psicológico não específico.
+##### Bem estar psicológico
+- WHO-5 - Well-Being Index
 
-- RSES (Rosenberg): Autoestima.
+##### Cognição
+- MoCA - Montreal Cognitive Assessment
+- MMSE - Mini-Mental State Examination
 
-Estes e outros testes disponíveis são de uso livre, validados cientificamente e amplamente utilizados em contextos clínicos e de saúde pública.
+##### Comportamental
+- EPL - Escala de Procrastinação de Lay
+
+##### Depressão
+- PHQ-9 - Patient Health Questionnaire-9
+
+##### Depressão pós parto
+- EPDS - Escala de Depressão Pós-Parto de Edimburgo
+
+##### Estresse
+- PSS-10 - Escala de Estresse Percebido
+
+##### Estresse pós-traumático (TEPT)
+- PCL-5 - PTSD Checklist for DSM-5
+
+##### Funcionamento e deficiência
+- WHODAS 2.0 - World Health Organization Disability Assessment Schedule
+
+##### Insônia
+- ISI (Insomnia Severity Index)
+
+##### Personalidade
+- BFI-10 - Inventário dos Cinco Grandes Fatores da Personalidade (versão reduzida)
+- BFI-44 - Inventário dos Cinco Grandes Fatores da Personalidade
+- IPIP-NEO - Versão Aberta do NEO PI-R
+- TIPI - Ten Item Personality Inventory
+
+##### Psicopatologia
+- SRQ-20 - Self-Reporting Questionnaire-20
+
+##### Resiliência
+- CD-RISC-10 - Escala de Resiliência
+- RS-25 - Escala de Resiliência de Wagnild & Young
+
+##### Satisfação sobre a vida
+- SWLS - Escala de Satisfação com a Vida
+
+##### Sofrimento psicológico
+- K10 – Escala de Sofrimento Psicológico
+
+##### Suicídio
+- Plutchik - Escala de Risco de Suicídio de Plutchik
+
+##### TDAH adulto
+- ASRS-6 - Adult ADHD Self-Report Scale
+
+##### TDAH infantil
+- Vanderbilt-Pais - Escala de Triagem para TDAH - Vanderbilt (Versão para Pais)
+
+##### Transtorno alimentar
+- SCOFF - Triagem para Anorexia e Bulimia
+
+##### Transtorno bipolar
+- MDQ - Mood Disorder Questionnaire
+
+##### Transtorno obsessivo-compulsivo (TOC)
+- OCI-R - Inventário Obsessivo-Compulsivo Revisado (versão abreviada)
+
+##### Trauma infantil
+- CTQ - Childhood Trauma Questionnaire
+
+##### Violência doméstica
+- Danger Assessment - Escala de Risco de Violência
+
+
+As avaliações acima são de uso livre, validados cientificamente e amplamente utilizados em contextos clínicos e de saúde pública.
 
 ## ✦ Relatórios Interpretativos Automatizados
 
@@ -46,39 +123,39 @@ Com escalas como PHQ-9, GAD-7, SRQ-20, AUDIT, Plutchik, K10, WHO-5, RSES, entre 
 
 ## ✦ Aplicação Ética e Responsável
 
-O eConsult segue rigorosamente as normas éticas do uso de instrumentos psicológicos. Todos os testes disponibilizados são de domínio público, não exigindo autorização do SATEPSI/CFP para uso, e são aplicados como ferramentas complementares à avaliação clínica. O acesso aos testes é exclusivo para psicólogos, sendo restrito a profissionais devidamente registrados. Outros profissionais não têm acesso aos instrumentos de avaliação psicológica.
+O eConsult segue rigorosamente as normas éticas relativas ao uso de instrumentos psicológicos. Todas as avaliações disponibilizadas são de domínio público, não exigindo autorização do SATEPSI/CFP para sua utilização, e são aplicadas exclusivamente como ferramentas complementares à avaliação clínica. O uso dessas avaliações é restrito a psicólogos devidamente registrados, e o sistema não concede acesso a profissionais que não possuam habilitação regular na área de Psicologia, com registro ativo no CRP (Conselho Regional de Psicologia).
 
 ## ✦ Eficiência e Qualidade no Atendimento
 
-Com a integração dos testes psicológicos ao sistema, o profissional economiza tempo em tarefas operacionais e ganha mais clareza no processo de avaliação e acompanhamento. O resultado é um atendimento mais qualificado, estruturado e centrado no paciente.
+Com a integração das avaliações psicológicas ao sistema, o profissional economiza tempo em tarefas operacionais e ganha mais clareza no processo de avaliação e acompanhamento. O resultado é um atendimento mais qualificado, estruturado e centrado no paciente.
 
 ---
 
-# Por que a funcionalidade de Testes Psicológicos do eConsult é única no mercado?
+# Por que a funcionalidade de avaliações psicológicas do eConsult é única no mercado?
 
-Sim, a funcionalidade de aplicação de testes psicológicos integrados ao prontuário é um diferencial claro e valioso para um sistema voltado para psicólogos — especialmente por que envolve:
+Sim, a funcionalidade de aplicação de avaliações psicológicas integradas ao prontuário é um diferencial claro e valioso para um sistema voltado para psicólogos — especialmente por que envolve:
 
-### 1. Aplicação Digital e Automatizada
+##### 1. Aplicação Digital e Automatizada
 
 - **Benefício:** Elimina a necessidade de papéis, planilhas ou correções manuais.
 - **Valor percebido:** Economia de tempo e redução de erros operacionais.
 
-### 2. Interpretação Automática
+##### 2. Interpretação Automática
 
 - **Benefício:** O sistema calcula a pontuação e já apresenta o resultado interpretado.
 - **Valor percebido:** Agilidade no raciocínio clínico e documentação mais precisa.
 
-### 3. Testes Cientificamente Validados e de Uso Livre
+##### 3. Testes Cientificamente Validados e de Uso Livre
 
 - **Benefício:** Evita o risco ético de uso indevido de testes restritos e dispensa licenças.
 - **Valor percebido:** Segurança jurídica e técnica para o profissional.
 
-### 4. Integração com o Prontuário Eletrônico
+##### 4. Integração com o Prontuário Eletrônico
 
 - **Benefício:** Registro direto no histórico do paciente.
 - **Valor percebido:** Organização e rastreabilidade clínica aprimoradas.
 
-### 5. Diversidade de Instrumentos
+##### 5. Diversidade de Instrumentos
 
 Com escalas como PHQ-9, GAD-7, SRQ-20, AUDIT, Plutchik, K10, WHO-5, RSES, entre outras, o sistema oferece ferramentas para rastrear depressão, ansiedade, autoestima, sofrimento psicológico, risco de suicídio, uso de álcool, violência doméstica, etc.
 
@@ -86,11 +163,11 @@ Com escalas como PHQ-9, GAD-7, SRQ-20, AUDIT, Plutchik, K10, WHO-5, RSES, entre 
 
 ## Comparando com outros sistemas de mercado
 
-A funcionalidade de aplicação de testes psicológicos integrados ao prontuário, com interpretação automática e embasamento científico, posiciona o eConsult à frente da maioria dos sistemas voltados a psicólogos.
+A funcionalidade de aplicação de avaliações psicológicas integradas ao prontuário, com interpretação automática e embasamento científico, posiciona o eConsult à frente da maioria dos sistemas voltados a psicólogos.
 
 **Outros sistemas do mercado**
 
-- Poucos oferecem testes psicológicos integrados à plataforma.
+- Poucos oferecem avaliações psicológicas integradas à plataforma.
 - Quando disponíveis, costumam estar em formatos genéricos, sem validação científica ou sem automação de pontuação e interpretação.
 - Muitos sistemas evitam incluir testes por questões regulatórias, deixando o profissional sem ferramentas estruturadas de avaliação.
 - Os que oferecem algo similar raramente organizam os resultados no prontuário ou os vinculam à evolução do paciente.
