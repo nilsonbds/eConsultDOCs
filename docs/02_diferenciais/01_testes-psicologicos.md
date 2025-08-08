@@ -10,7 +10,7 @@ A aplicação de avaliações psicológicas é parte essencial da prática em sa
 
 ## ✦ Avaliações Baseadas em Evidências, Sem Complicações
 
-O eConsult disponibiliza uma série de instrumentos validados para rastreamento de transtornos mentais comuns, sofrimento psíquico, uso de substâncias, risco de suicídio e violência, entre outros. As avaliações são aplicadas de forma digital, com pontuação automatizada e interpretação imediata, economizando tempo e garantindo maior precisão nos registros.
+O eConsult oferece um conjunto abrangente de instrumentos validados e de uso livre para avaliação de afeto, saúde mental, funcionamento cognitivo, qualidade de vida, uso de substâncias, risco de suicídio e violência, entre outros. As aplicações são realizadas de forma digital, com pontuação automática e interpretação imediata, otimizando o tempo do profissional e garantindo maior precisão nos registros.
 
 ## ✦ Avaliações Disponíveis na Plataforma
 
@@ -82,10 +82,6 @@ Os instrumentos disponíveis, são:
 - WHODAS 2.0 - World Health Organization Disability Assessment Schedule
     - Para avaliação do nível de funcionamento e incapacidade
 
-##### Insônia
-- ISI (Insomnia Severity Index)
-    - Rápida triagem para insônia
-
 ##### Personalidade
 - BFI-10 - Inventário dos Cinco Grandes Fatores da Personalidade (versão reduzida)
     - Para avaliação de personalidade
@@ -100,6 +96,10 @@ Os instrumentos disponíveis, são:
 - SRQ-20 - Self-Reporting Questionnaire-20
     - Para rastreamento geral de psicopatologia
 
+##### Qualidade de vida
+- WHOQOL-BREF - World Health Organization Quality of Life (Bref)
+    - Para avaliação da qualidade de vida em quatro domínios: físico, psicológico, relações sociais e meio ambiente
+
 ##### Resiliência
 - CD-RISC-10 - Escala de Resiliência
     - Para avaliação de resiliência
@@ -113,6 +113,10 @@ Os instrumentos disponíveis, são:
 ##### Sofrimento psicológico
 - K10 – Escala de Sofrimento Psicológico
     - Para rastreamento de sofrimento psicológico
+
+##### Sono
+- ISI - Insomnia Severity Index
+    - Para avaliação sa gravidade da insônia e seu impacto na vida diária
 
 ##### Suicídio
 - Plutchik - Escala de Risco de Suicídio de Plutchik
@@ -145,8 +149,8 @@ Os instrumentos disponíveis, são:
     - Para rastreamento de sintomas obsessivo-compulsivos
 
 ##### Trauma infantil
-- CTQ - Childhood Trauma Questionnaire
-    - Para avaliação de trauma infantil
+- CTQ - Childhood Trauma Questionnaire (versão breve)
+    - Para avaliar experiências adversas na infância, incluindo abuso e negligência
 
 ##### Violência doméstica
 - Danger Assessment - Escala de Risco de Violência
