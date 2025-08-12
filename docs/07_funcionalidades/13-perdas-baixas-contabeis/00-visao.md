@@ -14,9 +14,9 @@ Essa abordagem evita distorções nos indicadores financeiros, melhora a gestão
 
 ![Baixas Contábeis](../../../static/img/prints/perdas/001.png)
 
-No painel, os clientes e grupos de atendimento são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do cliente e valor total dos atendimento com registro de presução de não pagamento.
+No painel, os clientes e grupos terapêuticos são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do cliente e valor total dos atendimento com registro de presução de não pagamento.
 
-Para consultar estes atendimentos, com presunção de não pagamento, basta clicar no botão ![Baixas contábeis](../../../static/img/prints/buttons/btn_card-edit.png) localizado no *card* do cliente ou grupo de atendimento. Após selecionar o cliente ou grupo, o sistema exibirá as informações relevantes.
+Para consultar estes atendimentos, com presunção de não pagamento, basta clicar no botão ![Baixas contábeis](../../../static/img/prints/buttons/btn_card-edit.png) localizado no *card* do cliente ou grupo terapêutico. Após selecionar o cliente ou grupo, o sistema exibirá as informações relevantes.
 
 ![Baixas Contábeis](../../../static/img/prints/perdas/002.png)
 
@@ -24,7 +24,7 @@ Nesta tela, é possível visualizar ou excluir registros de perdas ou, ainda, ad
 
 ## Excluir registro de perda
 
-1. Acione o botão ![Baixas Contábeis](../../../static/img/prints/perdas/011.png) no *card* do cliente ou grupo de atendimento.
+1. Acione o botão ![Baixas Contábeis](../../../static/img/prints/perdas/011.png) no *card* do cliente ou grupo terapêutico.
 
 1. O sistema abre tela mostrando todas as perdas registradas para este cliente ou grupo.
 
@@ -42,7 +42,7 @@ Você pode adicionar fundos (crédito) para o cliente a fim de fazer uma recuper
 
 Este crédito gerará uma fatura no sistema como um recebimento contabilmente realizado.
 
-1. Acione o botão ![Baixas Contábeis](../../../static/img/prints/perdas/011.png) no *card* do cliente ou grupo de atendimento.
+1. Acione o botão ![Baixas Contábeis](../../../static/img/prints/perdas/011.png) no *card* do cliente ou grupo terapêutico.
 
 1. O sistema abre tela mostrando todas as perdas registradas para este cliente ou grupo.
 

@@ -18,7 +18,7 @@ Além disso, é apresentada uma lista de *cards*, onde cada um representa um ate
 
     :::tip
 
-        Os *cards* da aba Atendimentos permite você gerenciar anotações, arquivos, lembretes e informes de presença e pagamentos (no caso de grupos de atendimento) do atendimento.
+        Os *cards* da aba Atendimentos permite você gerenciar anotações, arquivos, lembretes e informes de presença e pagamentos (no caso de grupos terapêuticos) do atendimento.
 
         ![Painel Lembretes](../../../../static/img/prints/lembretes/005.png)
 
@@ -28,13 +28,13 @@ Além disso, é apresentada uma lista de *cards*, onde cada um representa um ate
         
         - **Lembretes de Atendimentos:** ![Painel Lembretes](../../../../static/img/prints/lembretes/008.png) Mostra as cores de todos os tipos de lembretes vinculados ao atendimento e permite fazer a gestão destes lembretes do atendimento.
         
-        - **Informes de presença e pagamentos:** ![Painel Lembretes](../../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo de atendimento. Permite informar a presença dos clientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
+        - **Informes de presença e pagamentos:** ![Painel Lembretes](../../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo terapêutico. Permite informar a presença dos clientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
         
         Você também tem acesso a diversas funcionalidades relacionadas ao atendimento, como "Desmarcar", "Remarcar", "Excluir", alterar "Modalidade" e "Status", além de realizar "Recebimentos". Tudo isso está disponível de forma prática através de um único botão ![Painel Lembretes](../../../../static/img/prints/buttons/btn_card-edit.png).
 
     :::
 
-É permitido ainda o **agendamento de múltiplos atendimentos para o cliente ou grupo de atendimento**, com ampla flexibilidade. Essa funcionalidade foi pensada para otimizar o fluxo de trabalho dos profissionais, possibilitando o planejamento de diversas sessões de forma centralizada, de acordo com as necessidades e a disponibilidade de cada cliente. Com isso, torna-se mais simples manter a regularidade dos atendimentos e garantir um acompanhamento contínuo e personalizado.
+É permitido ainda o **agendamento de múltiplos atendimentos para o cliente ou grupo terapêutico**, com ampla flexibilidade. Essa funcionalidade foi pensada para otimizar o fluxo de trabalho dos profissionais, possibilitando o planejamento de diversas sessões de forma centralizada, de acordo com as necessidades e a disponibilidade de cada cliente. Com isso, torna-se mais simples manter a regularidade dos atendimentos e garantir um acompanhamento contínuo e personalizado.
 
 ## Agendar múltiplos atendimentos
 

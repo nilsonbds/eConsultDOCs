@@ -4,13 +4,13 @@ sidebar_position: 0
 
 # Sobre Faturas do Cliente
 
-O painel Faturas do Cliente é uma ferramenta para a gestão financeira e o controle das transações realizadas com determinado cliente ou grupo de atendimento indicado. Neste painel, você encontrará um conjunto completo de funcionalidades que ajudam a organizar, visualizar e gerenciar todas as faturas associadas a atendimentos de um cliente ou grupo de atendimento específico.
+O painel Faturas do Cliente é uma ferramenta para a gestão financeira e o controle das transações realizadas com determinado cliente ou grupo terapêutico indicado. Neste painel, você encontrará um conjunto completo de funcionalidades que ajudam a organizar, visualizar e gerenciar todas as faturas associadas a atendimentos de um cliente ou grupo terapêutico específico.
 
-O painel, para exibição das faturas, exige a seleção de um cliente ou grupo de atendimento.
+O painel, para exibição das faturas, exige a seleção de um cliente ou grupo terapêutico.
 
 ![Painel Faturas do Cliente](../../../static/img/prints/faturascliente/001.png)
 
-Uma vez indicado o cliente ou grupo de atendimento, o sistema mostra:
+Uma vez indicado o cliente ou grupo terapêutico, o sistema mostra:
 
 ![Painel Faturas do Cliente](../../../static/img/prints/faturascliente/002.png)
 

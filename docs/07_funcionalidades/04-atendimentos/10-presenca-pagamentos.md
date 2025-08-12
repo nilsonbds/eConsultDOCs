@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Informes de Presença e Pagamentos
 
-O eConsult disponibiliza uma ferramenta prática e eficiente para o **registro de pagamentos, presenças e ausências** dos participantes em **grupos de atendimento**, proporcionando um controle detalhado e organizado da participação de cada cliente ao longo das sessões.
+O eConsult disponibiliza uma ferramenta prática e eficiente para o **registro de pagamentos, presenças e ausências** dos participantes em **grupos terapêuticos**, proporcionando um controle detalhado e organizado da participação de cada cliente ao longo das sessões.
 
 Com essa funcionalidade, é possível acompanhar, de forma centralizada, o **engajamento individual dos membros do grupo**, identificando com facilidade quem compareceu, quem se ausentou e quais pagamentos foram realizados. Isso não apenas **otimiza a gestão administrativa**, mas também contribui para um melhor planejamento terapêutico e financeiro, tanto para os profissionais quanto para as instituições que conduzem os atendimentos em grupo.
 
@@ -12,7 +12,7 @@ O recurso permite ainda **visualizações rápidas e precisas**, que auxiliam na
 
 Em suma, essa ferramenta do eConsult é um diferencial importante para quem trabalha com **atendimentos coletivos**, oferecendo **mais organização, agilidade e confiabilidade** na gestão de grupos.
 
-## Registrar recebimento de um membro do grupo de atendimento
+## Registrar recebimento de um membro do grupo terapêutico
 
 1. Acione a opção ![Atendimento](../../../static/img/prints/atendimento/071.png) no *card* do atendimento desejado.
 
@@ -60,7 +60,7 @@ Em suma, essa ferramenta do eConsult é um diferencial importante para quem trab
 
     ![Atendimento](../../../static/img/prints/atendimento/081.png)
 
-## Registrar recebimento de alguém de fora do grupo de atendimento
+## Registrar recebimento de alguém de fora do grupo terapêutico
 
 **Imagine o seguinte cenário:** um instituto contrata seus serviços para oferecer terapia em grupo. Nesse caso, quem arca com o pagamento não são os participantes, mas sim o próprio instituto. Como proceder diante dessa situação?
 
@@ -98,7 +98,7 @@ Em suma, essa ferramenta do eConsult é um diferencial importante para quem trab
 
 1. Repare que o *card* de atendimento passa a mostrar o valor "Pago".
 
-## Registrar presença/ausência dos membros do grupo de atendimento
+## Registrar presença/ausência dos membros do grupo terapêutico
 
 1. Acione a opção ![Atendimento](../../../static/img/prints/atendimento/071.png) no *card* do atendimento desejado.
 

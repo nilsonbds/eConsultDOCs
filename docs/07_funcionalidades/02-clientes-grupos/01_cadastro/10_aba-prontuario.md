@@ -43,7 +43,7 @@ Todas as informações registradas são protegidas e criptografadas com rigoroso
 
 Com essas funcionalidades, o **eConsult** garante ao profissional uma visão integrada, segura e de fácil acesso do histórico de cada cliente, contribuindo para um atendimento mais completo, personalizado e eficaz.
 
-Para utilizar as funcionalidades de prontuário do eConsult, é necessário, primeiramente, cadastrar os [Modelos de Anamnese](/docs/funcionalidades/modelo-anamnese/visao). Esses modelos definem a estrutura e os campos personalizados que serão utilizados para o registro das informações no prontuário de cada cliente ou grupo de atendimento, garantindo padronização e organização dos dados.
+Para utilizar as funcionalidades de prontuário do eConsult, é necessário, primeiramente, cadastrar os [Modelos de Anamnese](/docs/funcionalidades/modelo-anamnese/visao). Esses modelos definem a estrutura e os campos personalizados que serão utilizados para o registro das informações no prontuário de cada cliente ou grupo terapêutico, garantindo padronização e organização dos dados.
 
 Após o cadastramento de modelos de anamnese, você estará apto a iniciar os registros nos prontuários.
 

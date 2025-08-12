@@ -39,7 +39,7 @@ Como mencionado antes, o profissional pode configurar o que o cliente pode ou n�
 
 ## Configurar os acessos da Área do Cliente
 
-1. No painel "Clientes ou Grupo" selecione a opção ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_card-edit.png) no *card* do cliente ou grupo de atendimento desejado.
+1. No painel "Clientes ou Grupo" selecione a opção ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_card-edit.png) no *card* do cliente ou grupo terapêutico desejado.
 
 1. O sistema abre a tela de cadastro "Cliente" com todas as suas abas disponíveis.
 
@@ -49,7 +49,7 @@ Como mencionado antes, o profissional pode configurar o que o cliente pode ou n�
 
 1. Marque as opções para conceder acesso ou desmarque caso queira restringir o acesso.
 
-## Disponibilizar link de acesso a Área do Cliente para o cliente ou grupo de atendimento
+## Disponibilizar link de acesso a Área do Cliente para o cliente ou grupo terapêutico
 
 1. No painel "Clientes ou Grupo", no *card* do cliente ou grupo, a opção "Enviar link para Área do Cliente" ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_enviar-link-para-area-do-cliente-wat-ema.png) será exibida caso existam acessos liberados para aquele cliente ou grupo.
 

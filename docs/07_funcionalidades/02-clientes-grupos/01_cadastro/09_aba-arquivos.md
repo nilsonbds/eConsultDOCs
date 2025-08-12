@@ -10,7 +10,7 @@ sidebar_position: 9
 A aba Arquivos não será mostrada se você não fizer antes a configuração "**[Integração com Google Drive](/docs/funcionalidades/configuracoes/integracoes/googledrive)**".
 :::
 
-O eConsult oferece um sistema integrado de gerenciamento de arquivos, diretamente conectado ao seu Google Drive, proporcionando uma solução centralizada, segura e eficiente para armazenar e acessar documentos de clientes ou grupos de atendimento.
+O eConsult oferece um sistema integrado de gerenciamento de arquivos, diretamente conectado ao seu Google Drive, proporcionando uma solução centralizada, segura e eficiente para armazenar e acessar documentos de clientes ou grupos terapêuticos.
 
 Com essa integração, todos os arquivos — como documentos, relatórios, imagens e outros formatos — podem ser facilmente organizados, acessados e compartilhados pela própria plataforma. Isso otimiza o fluxo de trabalho, melhora a organização e permite a categorização lógica e personalizada dos arquivos, de acordo com as necessidades do seu atendimento.
 

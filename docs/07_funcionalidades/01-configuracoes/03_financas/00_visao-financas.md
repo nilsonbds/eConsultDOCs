@@ -47,7 +47,7 @@ Categorizar despesas ajuda a entender onde o dinheiro está sendo gasto e a iden
 
 ## Padrões para Atendimentos
 
-Em "Padrões para Atendimentos", o parâmetro "Valor Padrão de Atendimentos" é utilizado pelo sistema para sugerir automaticamente um valor de atendimento ao cadastrar um novo cliente ou grupo de atendimento. Esse valor é utilizado como sugestão sempre que um novo atendimento é registrado.
+Em "Padrões para Atendimentos", o parâmetro "Valor Padrão de Atendimentos" é utilizado pelo sistema para sugerir automaticamente um valor de atendimento ao cadastrar um novo cliente ou grupo terapêutico. Esse valor é utilizado como sugestão sempre que um novo atendimento é registrado.
 
 ## Mensagens Padronizadas
 

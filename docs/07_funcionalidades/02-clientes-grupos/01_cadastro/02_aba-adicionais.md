@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-adicionais.png)
 
-O eConsult permite criar um formulário padrão de campos adicionais para o cadastro de novos clientes ou grupos de atendimento, por meio da opção **[Configuração / Campos Adicionais](/docs/funcionalidades/configuracoes/clientes/campos-adicionais)**. Esse formulário padrão serve como base e é automaticamente aplicado sempre que um novo cliente for cadastrado, facilitando a padronização das informações coletadas.
+O eConsult permite criar um formulário padrão de campos adicionais para o cadastro de novos clientes ou grupos terapêuticos, por meio da opção **[Configuração / Campos Adicionais](/docs/funcionalidades/configuracoes/clientes/campos-adicionais)**. Esse formulário padrão serve como base e é automaticamente aplicado sempre que um novo cliente for cadastrado, facilitando a padronização das informações coletadas.
 
 No entanto, essa padronização é totalmente **flexível e adaptável**. Ao acessar o cadastro do cliente ou grupo, na aba Campos Adicionais, você pode modificar o formulário conforme necessário — seja alterando, removendo ou adicionando novos campos, de acordo com as particularidades do cliente ou grupo.
 

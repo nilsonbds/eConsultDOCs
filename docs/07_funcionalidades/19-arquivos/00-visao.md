@@ -10,11 +10,11 @@ Essa integração não só simplifica o acesso aos arquivos, mas também melhora
 
 Para utilizar o sistema de gerenciamento de arquivos, é necessário configurar a integração com o seu Google Drive. Você pode fazer isso acessando o ["Painel Configurações => Integrações => Google Drive"](/docs/funcionalidades/configuracoes/visao-configuracoes) para conectar sua conta do Google Drive ao eConsult.
 
-O painel Arquivos, utilizando o sistema de gerenciamento de arquivos, permite você visualizar e até anexar arquivos vinculados a um cliente, grupo de atendimento ou atendimento selecionado.
+O painel Arquivos, utilizando o sistema de gerenciamento de arquivos, permite você visualizar e até anexar arquivos vinculados a um cliente, grupo terapêutico ou atendimento selecionado.
 
 ![Arquivos](../../../static/img/prints/arquivos/001.png)
 
-## Mostrar arquivos de um determinado cliente ou grupo de atendimento
+## Mostrar arquivos de um determinado cliente ou grupo terapêutico
 
 1. Acione a opção ![Arquivos](../../../static/img/prints/buttons/btn_open.png) no cliente ou grupo atendimento.
 
@@ -24,7 +24,7 @@ O painel Arquivos, utilizando o sistema de gerenciamento de arquivos, permite vo
 
 ## incluir arquivos
 
-1. Indique o cliente ou grupo de atendimento desejado no campo "Cliente".
+1. Indique o cliente ou grupo terapêutico desejado no campo "Cliente".
 
     ![Arquivos](../../../static/img/prints/arquivos/003.png)
 
@@ -38,7 +38,7 @@ O painel Arquivos, utilizando o sistema de gerenciamento de arquivos, permite vo
 
 1. Uma vez selecionado o arquivo do seu computador ou dispositivo, o sistema preencherá automaticamente os campos "Nome Original do Arquivo", "Tamanho" e "Tipo".
 
-1. No campo "Vinculado a", selecione o nome do cliente ou grupo de atendimento ao qual deseja vincular o arquivo. Se preferir vincular o arquivo a um atendimento específico, também é possível selecioná-lo nesse mesmo campo.
+1. No campo "Vinculado a", selecione o nome do cliente ou grupo terapêutico ao qual deseja vincular o arquivo. Se preferir vincular o arquivo a um atendimento específico, também é possível selecioná-lo nesse mesmo campo.
 
 1. Marque, ou não, a opção "Publicar no Prontuário (PÚBLICO)".
 
@@ -46,7 +46,7 @@ O painel Arquivos, utilizando o sistema de gerenciamento de arquivos, permite vo
 
 :::tip DICAS
 
-- Você também pode utilizar os botões ![Arquivos](../../../static/img/prints/buttons/btn_atach.png) correspondentes para incluir arquivos diretamente para os clientes ou grupos de atendimento respectivos.
+- Você também pode utilizar os botões ![Arquivos](../../../static/img/prints/buttons/btn_atach.png) correspondentes para incluir arquivos diretamente para os clientes ou grupos terapêuticos respectivos.
 
 - É possível utilizar os botões "Editar" ![Arquivos](../../../static/img/prints/buttons/btn_card-edit.png) e "Excluir" ![Arquivos](../../../static/img/prints/buttons/btn_card-delete.png) para modificar ou remover arquivos conforme necessário. Além disso, a opção "Visualizar" ![Arquivos](../../../static/img/prints/buttons/btn_visualizar.png) permite que você examine o arquivo diretamente, facilitando a consulta e o gerenciamento dos arquivos.
 

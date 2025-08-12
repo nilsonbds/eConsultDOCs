@@ -2,13 +2,13 @@
 sidebar_position: 0
 ---
 
-# Sobre Cadastro de Clientes e Grupos de Atendimento
+# Sobre Cadastro de Clientes e Grupos Terapêuticos
 
-O cadastro de Clientes e Grupos de Atendimento do eConsult é uma funcionalidade completa e centralizada que permite a gestão eficiente de todas as informações essenciais relacionadas aos clientes e grupos de atendimento. Essa ferramenta foi projetada para garantir que os profissionais tenham acesso rápido e fácil a todos os dados relevantes, desde informações básicas até o histórico de interações e documentos importantes.
+O cadastro de Clientes e Grupos Terapêuticos do eConsult é uma funcionalidade completa e centralizada que permite a gestão eficiente de todas as informações essenciais relacionadas aos clientes e grupos terapêuticos. Essa ferramenta foi projetada para garantir que os profissionais tenham acesso rápido e fácil a todos os dados relevantes, desde informações básicas até o histórico de interações e documentos importantes.
 
 O cadastro foi pensado para reunir, em um único lugar, todas as informações e rotinas necessárias ao relacionamento operacional, administrativo e financeiro. Para isso, o cadastro foi subdividido em seções (abas), organizadas para facilitar o acesso e a gestão dos diferentes tipos de informações. A seguir, veja um panorama de cada aba e como elas apoiam seu trabalho diário.
 
-## Abas do Cadastro de Clientes e Grupos de Atendimento no eConsult
+## Abas do Cadastro de Clientes e Grupos Terapêuticos no eConsult
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-006.png)
 
@@ -102,7 +102,7 @@ Com essas abas, o eConsult transforma o cadastro em um hub centralizado de infor
         Nesta aba, apenas os campos "Nome Completo" e "Sexo" (Masculino ou Feminino) são de preenchimento obrigatório, pois são essenciais para o registro básico do cliente. Os demais campos, como informações de contato e outros dados pessoais, são opcionais e podem ser preenchidos conforme a relevância para o objetivo do cadastro ou para a coleta de informações complementares. Essa abordagem oferece maior flexibilidade, permitindo que você registre apenas os dados que considerar necessários no momento.
     :::
 
-## Incluir novo grupo de atendimento
+## Incluir novo grupo terapêutico
 
 No eConsult, você pode cadastrar e realizar atendimentos a grupos, como casais, famílias ou grupos terapêuticos.
 
@@ -128,23 +128,23 @@ Com todos os membros cadastrados, siga o passo a passo abaixo para criar o grupo
 
 1. O sistema exibirá a lista de *cards* atualizada, na aba "Grupo", incluindo o novo membro vinculado.
 
-## Alterar cliente ou grupo de atendimento
+## Alterar cliente ou grupo terapêutico
 
-1. No painel Clientes ou Grupos selecione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png) no *card* do cliente ou grupo de atendimento desejado.
+1. No painel Clientes ou Grupos selecione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png) no *card* do cliente ou grupo terapêutico desejado.
 
 2. O sistema abre a tela de cadastro "Cliente" com todas as suas abas disponíveis.
 
 3. Navegue pelas abas, preencha os campos que deseja alterar e salve.
 
-## Inativar cliente ou grupo de atendimento
+## Inativar cliente ou grupo terapêutico
 
-No sistema eConsult, a função de **exclusão definitiva** de cadastros de clientes e grupos de atendimento não é permitida para garantir a segurança e a integridade dos dados armazenados. Esta medida é essencial para prevenir a **perda irreversível de informações** que podem ser importantes para o histórico do atendimento e cumprimento de obrigações legais.
+No sistema eConsult, a função de **exclusão definitiva** de cadastros de clientes e grupos terapêuticos não é permitida para garantir a segurança e a integridade dos dados armazenados. Esta medida é essencial para prevenir a **perda irreversível de informações** que podem ser importantes para o histórico do atendimento e cumprimento de obrigações legais.
 
 Além disso, essa restrição está alinhada com as diretrizes da **LGPD (Lei Geral de Proteção de Dados)**, que estabelece normas rigorosas sobre a gestão e a proteção dos dados pessoais. Segundo a LGPD, o tratamento de dados pessoais deve ser feito de maneira a assegurar sua integridade, evitando o descarte imprudente de informações que possam ser relevantes para a privacidade dos titulares e para a transparência das operações.
 
 Por isso, em vez de permitir a exclusão definitiva, o eConsult adota práticas como a **inativação ou anonimização** dos dados, conforme previsto pela legislação, garantindo assim o equilíbrio entre a preservação das informações e os direitos dos titulares.
 
-No entanto, caso você deseje interromper o uso de um cadastro, é possível inativá-lo de forma simples. Para inativar o cadastro de um cliente ou grupo de atendimento, siga os seguintes passos:
+No entanto, caso você deseje interromper o uso de um cadastro, é possível inativá-lo de forma simples. Para inativar o cadastro de um cliente ou grupo terapêutico, siga os seguintes passos:
 
 - No painel "Clientes e Grupos" selecione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png) no cartão do cliente ou grupo desejado.
 - O sistema abre a tela de cadastro "Cliente".
@@ -153,9 +153,9 @@ No entanto, caso você deseje interromper o uso de um cadastro, é possível ina
 
 Com isso, o registro ficará inativo no sistema, impedindo que ele seja acessado ou utilizado em operações futuras, mas mantendo o histórico para consultas ou auditorias, caso necessário.
 
-## Reativar cliente ou grupo de atendimento
+## Reativar cliente ou grupo terapêutico
 
-Caso seja necessário voltar a utilizar o cadastro de um cliente ou grupo de atendimento inativado no eConsult, o sistema oferece a opção de reativação, garantindo que todos os dados previamente registrados sejam recuperados de forma completa e segura. A reativação é um processo simples e prático, permitindo que o cliente ou grupo volte a ser incluído nas operações e interações do sistema sem a necessidade de recriar o cadastro do zero.
+Caso seja necessário voltar a utilizar o cadastro de um cliente ou grupo terapêutico inativado no eConsult, o sistema oferece a opção de reativação, garantindo que todos os dados previamente registrados sejam recuperados de forma completa e segura. A reativação é um processo simples e prático, permitindo que o cliente ou grupo volte a ser incluído nas operações e interações do sistema sem a necessidade de recriar o cadastro do zero.
 
 Para reativar um cadastro, siga os seguintes passos:
 
@@ -166,7 +166,7 @@ Para reativar um cadastro, siga os seguintes passos:
 - Na aba "Geral", desmarque a opção "Inativar".
 - Clique no botão "Salvar" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_check.png) para aplicar e salvar a alteração.
 
-Ao finalizar este processo, o status do cliente passará de inativo para ativo, possibilitando o acesso a todas as informações associadas a esse cadastro, incluindo o histórico de atendimentos, serviços ou transações. Isso proporciona agilidade e segurança ao retomar o relacionamento com o cliente ou grupo de atendimento, mantendo a integridade dos dados e o fluxo de trabalho eficiente.
+Ao finalizar este processo, o status do cliente passará de inativo para ativo, possibilitando o acesso a todas as informações associadas a esse cadastro, incluindo o histórico de atendimentos, serviços ou transações. Isso proporciona agilidade e segurança ao retomar o relacionamento com o cliente ou grupo terapêutico, mantendo a integridade dos dados e o fluxo de trabalho eficiente.
 
 # Score do Cliente
 

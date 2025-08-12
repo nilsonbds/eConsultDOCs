@@ -86,7 +86,7 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 
     ![Painel Atendimento](../../../static/img/prints/atendimento/019.png)
 
-- Já os atendimentos agendados mostram o nome do cliente ou grupo de atendimento, status e valores.
+- Já os atendimentos agendados mostram o nome do cliente ou grupo terapêutico, status e valores.
 
     ![Painel Atendimento](../../../static/img/prints/atendimento/020.png)
 

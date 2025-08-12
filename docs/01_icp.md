@@ -92,7 +92,7 @@ Tudo isso por valores acessíveis e com planos flexíveis.
 
 ## Principais Funcionalidades do eConsult
 
-### Cadastro de Clientes e Grupos de Atendimento
+### Cadastro de Clientes e Grupos Terapêuticos
 
 Gerencie clientes e grupos de forma estratégica e eficiente. Tenha uma visão clara e personalizada de seus atendimentos com o painel de clientes e grupos. Com uma interface intuitiva e bem estruturada, você acessa informações detalhadas com rapidez, organiza demandas com mais precisão e minimiza falhas operacionais. Uma solução completa para quem busca agilidade, controle e excelência na gestão de atendimentos.
 
@@ -102,7 +102,7 @@ Gerencie clientes e grupos de forma estratégica e eficiente. Tenha uma visão c
 
 - Organização eficiente das demandas
 
-  *👉 [Mais sobre Cadastro de Clientes e Grupos de Atendimento.](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos)*
+  *👉 [Mais sobre Cadastro de Clientes e Grupos Terapêuticos.](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos)*
 
 ### Campos Altamente Personalizáveis
 

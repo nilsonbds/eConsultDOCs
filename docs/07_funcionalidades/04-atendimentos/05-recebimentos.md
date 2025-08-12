@@ -28,7 +28,7 @@ Cada transação registrada conta com informações detalhadas, como o "nome do 
 
 - **Faturas e Recibos**
 
-    - Os registros de pagamento ficam vinculados automaticamente com a fatura do atendimento e, após pagamento total do atendimento, você pode emitir recibo para o cliente ou grupo de atendimento, garantindo transparência e formalidade nas transações.
+    - Os registros de pagamento ficam vinculados automaticamente com a fatura do atendimento e, após pagamento total do atendimento, você pode emitir recibo para o cliente ou grupo terapêutico, garantindo transparência e formalidade nas transações.
 
 - **Notificações de Pagamento**
 

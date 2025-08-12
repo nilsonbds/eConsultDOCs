@@ -6,7 +6,7 @@ sidebar_position: 0
 
 O Painel Perdas Recuperadas do eConsult é uma ferramenta estratégica desenvolvida para monitorar e gerenciar com eficiência os atendimentos que, mesmo após terem sido classificados como perdas contábeis, tiveram seus valores posteriormente recuperados.
 
-Essa funcionalidade permite identificar de forma clara quais clientes ou grupos de atendimento realizaram pagamentos referentes a créditos anteriormente considerados de difícil recebimento. Com isso, é possível manter o controle preciso sobre os valores efetivamente recuperados e reverter, quando necessário, registros de baixa contábil.
+Essa funcionalidade permite identificar de forma clara quais clientes ou grupos terapêuticos realizaram pagamentos referentes a créditos anteriormente considerados de difícil recebimento. Com isso, é possível manter o controle preciso sobre os valores efetivamente recuperados e reverter, quando necessário, registros de baixa contábil.
 
 O painel oferece uma visão consolidada dessas recuperações, auxiliando na análise de desempenho das ações de cobrança, na revisão de estratégias financeiras e na melhoria da acurácia dos relatórios contábeis.
 
@@ -14,7 +14,7 @@ Mais do que um controle operacional, o Painel de Perdas Recuperadas reforça a t
 
 ![Perdas Recuperadas](../../../static/img/prints/perdasrecuperadas/001.png)
 
-No painel, os clientes e grupos de atendimento são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do cliente e valor total das perdas recuperadas.
+No painel, os clientes e grupos terapêuticos são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do cliente e valor total das perdas recuperadas.
 
 Para consultar os atendimentos com perdas recuperadas ou não, basta clicar no botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) localizado no *card* do cliente ou grupo.
 
@@ -34,7 +34,7 @@ Você pode adicionar fundos (crédito) para o cliente a fim de fazer uma recuper
 
 Este crédito gerará uma fatura no sistema como um recebimento contabilmente realizado.
 
-1. Acione o botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) no *card* do cliente ou grupo de atendimento.
+1. Acione o botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) no *card* do cliente ou grupo terapêutico.
 
 1. O sistema abre tela mostrando todas as perdas registradas para este cliente ou grupo.
 
@@ -94,7 +94,7 @@ Para que sejam considerados "Realizados", é necessário confirmar a efetivaçã
 
 ## Excluir registros de perdas recuperadas
 
-1. Acione o botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) correspondente ao cliente ou grupo de atendimento no painel "Perdas Recuperadas".
+1. Acione o botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) correspondente ao cliente ou grupo terapêutico no painel "Perdas Recuperadas".
 
 1. O sistema abre tela mostrando todas as perdas (recuperdas ou não) registradas para este cliente ou grupo.
 

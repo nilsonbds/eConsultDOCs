@@ -4,15 +4,15 @@ sidebar_position: 0
 
 # Sobre Inadimplências
 
-O Painel Inadimplências do eConsult é uma solução estratégica projetada para o acompanhamento e a gestão eficiente de situações de inadimplência. Ele proporciona uma visão centralizada e detalhada sobre os clientes e grupos de atendimento que possuem atendimentos com pagamentos em atraso, auxiliando na identificação de riscos, no planejamento de ações de cobrança e na melhoria do desempenho financeiro.
+O Painel Inadimplências do eConsult é uma solução estratégica projetada para o acompanhamento e a gestão eficiente de situações de inadimplência. Ele proporciona uma visão centralizada e detalhada sobre os clientes e grupos terapêuticos que possuem atendimentos com pagamentos em atraso, auxiliando na identificação de riscos, no planejamento de ações de cobrança e na melhoria do desempenho financeiro.
 
 ![Painel Inadimplências](../../../static/img/prints/inadimplencias/001.png)
 
-No painel, os clientes e grupos de atendimento são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do cliente e a quantidade de atendimentos com recebimentos pendentes.
+No painel, os clientes e grupos terapêuticos são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do cliente e a quantidade de atendimentos com recebimentos pendentes.
 
-Para consultar os atendimentos em atraso, basta clicar no botão ![Painel Inadimplências](../../../static/img/prints/buttons/btn_card-edit.png) localizado no *card* do cliente ou grupo de atendimento. 
+Para consultar os atendimentos em atraso, basta clicar no botão ![Painel Inadimplências](../../../static/img/prints/buttons/btn_card-edit.png) localizado no *card* do cliente ou grupo terapêutico. 
 
-Uma vez indicado o cliente ou grupo de atendimento, o sistema mostra:
+Uma vez indicado o cliente ou grupo terapêutico, o sistema mostra:
 
 ![Painel Inadimplências](../../../static/img/prints/inadimplencias/002.png)
 

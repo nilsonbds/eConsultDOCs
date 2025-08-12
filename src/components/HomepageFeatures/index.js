@@ -47,7 +47,7 @@ const FeatureList = [
   },
   {
     link: '/docs/funcionalidades/clientes-grupos/cadastro/cadastro#incluir-novo-grupo-de-atendimento',
-    title: 'Cadastro de Grupos de Atendimento',
+    title: 'Cadastro de Grupos Terapêuticos',
     icon: <LuUsers />,
     description: (
       <>Cadastre e atenda casais, famílias ou grupos terapêuticos, gerenciando informações de forma integrada e organizada para um acompanhamento eficiente e completo.</>

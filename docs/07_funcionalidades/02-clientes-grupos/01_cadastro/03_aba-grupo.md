@@ -6,11 +6,11 @@ sidebar_position: 3
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-grupo.png)
 
-**Específica para os Grupos de Atendimento**, a aba "Grupo" oferece uma interface intuitiva para vincular e desvincular membros de forma prática, facilitando um gerenciamento mais ágil, organizado e eficiente dos integrantes do grupo de atendimento.
+**Específica para os Grupos Terapêuticos**, a aba "Grupo" oferece uma interface intuitiva para vincular e desvincular membros de forma prática, facilitando um gerenciamento mais ágil, organizado e eficiente dos integrantes do grupo terapêutico.
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-012.png)
 
-## Vincular um membro ao grupo de atendimento
+## Vincular um membro ao grupo terapêutico
 
 1. No campo Cliente, selecione o membro que deseja vincular.
 
@@ -18,7 +18,7 @@ sidebar_position: 3
 
 1. O sistema exibirá a lista de *cards* atualizada, incluindo o novo membro vinculado ao grupo.
 
-## Desvincular um membro ao grupo de atendimento
+## Desvincular um membro ao grupo terapêutico
 
 1. No *card* do membro que deseja remover, clique no botão ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-delete.png).
 

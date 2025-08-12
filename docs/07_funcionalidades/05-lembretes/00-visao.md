@@ -54,7 +54,7 @@ Os *cards* de atendimento no painel Lembretes de Atendimentos oferece uma visão
 
     :::tip
 
-        Da mesma forma como no painel Atendimentos, o painel Lembretes permite você gerenciar anotações, arquivos, lembretes e informes de presença e pagamentos (no caso de grupos de atendimento) do atendimento.
+        Da mesma forma como no painel Atendimentos, o painel Lembretes permite você gerenciar anotações, arquivos, lembretes e informes de presença e pagamentos (no caso de grupos terapêuticos) do atendimento.
 
         ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/005.png)
 
@@ -64,7 +64,7 @@ Os *cards* de atendimento no painel Lembretes de Atendimentos oferece uma visão
         
         - **Lembretes de Atendimentos:** ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/008.png) Mostra as cores de todos os tipos de lembretes vinculados ao atendimento e permite fazer a gestão destes lembretes do atendimento.
         
-        - **Informes de presença e pagamentos:** ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo de atendimento. Permite informar a presença dos clientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
+        - **Informes de presença e pagamentos:** ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo terapêutico. Permite informar a presença dos clientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
         
         Você também tem acesso a diversas funcionalidades relacionadas ao atendimento, como Desmarcar, Remarcar, Excluir, alterar Modalidade e Status, além de realizar Recebimentos. Tudo isso está disponível de forma prática através de um único botão ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_card-edit.png).
     :::

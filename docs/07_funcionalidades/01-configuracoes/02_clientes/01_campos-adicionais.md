@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Campos Adicionais para Clientes
 
-O cadastro de **Campos Adicionais para Clientes** é uma funcionalidade que permite expandir as informações padrão registradas sobre cada cliente ou grupo de atendimento, oferecendo uma visão mais detalhada e adaptada às suas necessidades específicas. Essa personalização serve para aprimorar o cadastro de clientes.
+O cadastro de **Campos Adicionais para Clientes** é uma funcionalidade que permite expandir as informações padrão registradas sobre cada cliente ou grupo terapêutico, oferecendo uma visão mais detalhada e adaptada às suas necessidades específicas. Essa personalização serve para aprimorar o cadastro de clientes.
 
 ## Incluir Campo Adicional para Clientes
 

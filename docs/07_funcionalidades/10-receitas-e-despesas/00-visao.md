@@ -38,7 +38,7 @@ Cada aba, quando selecionada, exibe os eventos correspondentes: a aba de Receita
 
 Os *cards* em vermelho claro indicam transações planejadas, ou seja, ainda pendentes (a pagar ou a receber). Por outro lado, os *cards* em verde claro sinalizam que a transação já foi concluída, seja ela paga ou recebida.
 
-Cada *card* exibe informações como a Descrição, Recebedor ou Pagador (no caso de grupos de atendimento mostra o nome do grupo), a Data e o Valor de Vencimento, e, por fim, a Data e o Valor de Pagamento.
+Cada *card* exibe informações como a Descrição, Recebedor ou Pagador (no caso de grupos terapêuticos mostra o nome do grupo), a Data e o Valor de Vencimento, e, por fim, a Data e o Valor de Pagamento.
 
 Você pode utilizar o campo Filtro para filtrar eventos financeiros com base no pagador ou recebedor, facilitando a visualização específica dos eventos desejados.
 
