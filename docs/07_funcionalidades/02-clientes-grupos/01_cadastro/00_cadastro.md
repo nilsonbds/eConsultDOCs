@@ -138,13 +138,13 @@ Com todos os membros cadastrados, siga o passo a passo abaixo para criar o grupo
 
 ## Inativar cliente ou grupo terapêutico
 
-No sistema eConsult, a função de **exclusão definitiva** de cadastros de clientes e grupos terapêuticos não é permitida para garantir a segurança e a integridade dos dados armazenados. Esta medida é essencial para prevenir a **perda irreversível de informações** que podem ser importantes para o histórico do atendimento e cumprimento de obrigações legais.
+No sistema eConsult, os cadastros de clientes e grupos terapêuticos não são excluídos de forma definitiva durante o uso da plataforma. Em vez disso, eles são inativados, garantindo a preservação do histórico de atendimentos e o cumprimento de obrigações legais e regulatórias, como os prazos de guarda definidos por normas da área da saúde.
 
-Além disso, essa restrição está alinhada com as diretrizes da **LGPD (Lei Geral de Proteção de Dados)**, que estabelece normas rigorosas sobre a gestão e a proteção dos dados pessoais. Segundo a LGPD, o tratamento de dados pessoais deve ser feito de maneira a assegurar sua integridade, evitando o descarte imprudente de informações que possam ser relevantes para a privacidade dos titulares e para a transparência das operações.
+No entanto, quando o profissional solicita a exclusão de sua conta no eConsult, todos os dados vinculados a ela — incluindo informações do profissional, de seus pacientes e de seus grupos terapêuticos — são excluídos de forma permanente e irreversível, em conformidade com a LGPD.
 
-Por isso, em vez de permitir a exclusão definitiva, o eConsult adota práticas como a **inativação ou anonimização** dos dados, conforme previsto pela legislação, garantindo assim o equilíbrio entre a preservação das informações e os direitos dos titulares.
+Essa política assegura o equilíbrio entre a preservação das informações necessárias durante a vigência do uso e o respeito ao direito de exclusão definitiva quando o vínculo com a plataforma é encerrado.
 
-No entanto, caso você deseje interromper o uso de um cadastro, é possível inativá-lo de forma simples. Para inativar o cadastro de um cliente ou grupo terapêutico, siga os seguintes passos:
+Para inativar o cadastro de um cliente ou grupo terapêutico, siga os seguintes passos:
 
 - No painel "Clientes e Grupos" selecione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png) no cartão do cliente ou grupo desejado.
 - O sistema abre a tela de cadastro "Cliente".

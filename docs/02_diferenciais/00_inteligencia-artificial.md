@@ -8,6 +8,10 @@ sidebar_position: 0
 
 A Inteligência Artificial (IA) do eConsult foi desenvolvida para transformar a forma como profissionais da saúde conduzem seus atendimentos, tomam decisões clínicas e gerenciam seus consultórios. Com uma atuação contextualizada e inteligente, a IA se adapta à especialidade do profissional — seja psicologia, nutrição, terapia integrativa, entre outras — oferecendo suporte técnico e prático com precisão e fluidez.
 
+Respeitando integralmente a LGPD, o eConsult garante que, ao utilizar recursos de IA, todas as informações sensíveis sejam tratadas com segurança. Os dados dos pacientes são automaticamente anonimizados, assegurando que nenhum dado pessoal seja exposto ou identificado durante o processamento.
+
+Como os dados são anonimizados, deixando de ser informações pessoais identificáveis, **o uso desses recursos de IA não requer uma autorização específica adicional do paciente** para essa finalidade. Ainda assim, **recomenda-se que o profissional informe seus pacientes sobre o uso da plataforma e a anonimização dos dados**, garantindo transparência e alinhamento com as boas práticas éticas.
+
 ## ✦ Anotações Inteligentes e Contextualizadas
 
 A IA colabora na elaboração dos textos, ajudando o profissional a construir registros mais claros, coerentes e completos. Assim como em um chat, o profissional pode interagir com a IA para revisar, resumir ou expandir anotações com base nas informações do atendimento. O sistema compreende o contexto específico da especialidade, gerando respostas, sugestões e textos alinhados à linguagem técnica e à prática clínica de cada área.
@@ -23,6 +27,10 @@ A IA oferece relatórios mensais que analisam o desempenho clínico e os resulta
 ## ✦ Visão Anual com Dados Consolidados
 
 Além dos relatórios mensais, o eConsult gera análises anuais completas, permitindo uma visão estratégica e de longo prazo sobre o crescimento, desafios e oportunidades da atuação profissional — tanto na esfera clínica quanto na financeira.
+
+## ✦ Segurança e Anonimização de Dados
+
+O eConsult adota protocolos rigorosos de segurança e está em total conformidade com a LGPD. Sempre que utiliza recursos de Inteligência Artificial, o sistema anonimiza automaticamente as informações dos pacientes, garantindo que dados pessoais não sejam expostos ou identificados. Dessa forma, o profissional pode contar com todo o suporte tecnológico da IA sem abrir mão da confidencialidade e do sigilo profissional.
 
 ---
 

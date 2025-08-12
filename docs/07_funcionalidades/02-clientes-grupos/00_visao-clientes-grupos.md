@@ -4,11 +4,13 @@ sidebar_position: 0
 
 # Sobre Clientes e Grupos Terapêuticos
 
-**O painel Clientes e Grupos Terapêuticos do eConsult é uma ferramenta estratégica e indispensável para a gestão eficaz de informações cruciais no ambiente corporativo. Desenvolvido para atender às demandas de organizações que lidam com múltiplos atendimentos e perfis de clientes, esse painel possibilita a centralização, organização e rápida consulta de dados relevantes, promovendo maior agilidade nos processos operacionais.**
+O painel **Clientes e Grupos Terapêuticos** do eConsult é uma ferramenta estratégica e indispensável para a gestão eficaz de informações cruciais no ambiente corporativo. Desenvolvido para atender às demandas de organizações que lidam com múltiplos atendimentos e perfis de clientes, esse painel possibilita a centralização, organização e rápida consulta de dados relevantes, promovendo maior agilidade nos processos operacionais.
 
 Por meio de uma interface intuitiva e funcional, o painel permite o acesso facilitado a informações detalhadas sobre os clientes, bem como à estruturação de grupos terapêuticos conforme critérios personalizados. Isso garante maior controle, melhor distribuição de demandas e uma visão unificada das relações com os clientes, o que resulta em um fluxo de trabalho mais eficiente e integrado.
 
-Além disso, ao reunir todos os dados em um único ambiente, o painel contribui significativamente para a redução de erros, aumento da produtividade e tomada de decisões mais assertivas, tornando-se uma peça-chave para organizações que buscam excelência na gestão de atendimentos e no relacionamento com o cliente.
+Além disso, ao reunir todos os dados em um único ambiente, o painel contribui significativamente para a redução de erros, aumento da produtividade e tomada de decisões mais assertivas. **Todos os dados sensíveis que possam, direta ou indiretamente, identificar o paciente são criptografados em conformidade com a LGPD**, assegurando máxima proteção, privacidade e sigilo profissional.
+
+Assim, o painel se torna uma peça-chave para organizações que buscam excelência na gestão de atendimentos e no relacionamento com o cliente, unindo eficiência operacional e segurança da informação.
 
 ![Painel Clientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-001.png)
 

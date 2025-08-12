@@ -102,7 +102,7 @@ Os instrumentos disponíveis, são:
 
 ##### Resiliência
 - CD-RISC-10 - Escala de Resiliência
-    - Para avaliação de resiliência
+    - Para avaliação de resirliência
 - RS-25 - Escala de Resiliência de Wagnild & Young
     - Para rastreamento de resiliência
 
