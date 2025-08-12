@@ -24,7 +24,7 @@ O cadastro foi pensado para reunir, em um único lugar, todas as informações e
 
     Permite **criar campos personalizados** para atender necessidades específicas do seu serviço: preferências, referências internas, observações técnicas ou qualquer outro dado relevante. **Dessa forma, o cadastro se adapta ao seu fluxo de trabalho, mantendo tudo padronizado e pesquisável.
 
-3. **Aba Grupo de Atendimento**
+3. **Aba Grupo Terapêutico**
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-grupo.png)
 
@@ -114,7 +114,7 @@ Com todos os membros cadastrados, siga o passo a passo abaixo para criar o grupo
 
 1. O sistema abre a tela de cadatro "Cliente" com a aba "Geral" aberta.
 
-1. Acione a opção "Grupo de Atendimento" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_grupo-de-atendimento.png).
+1. Acione a opção "Grupo Terapêutico" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_grupo-de-atendimento.png).
 
 1. Escolha a opção "Masculino" ou "Feminino", preencha os campos "Nome Completo", "Data de Nascimento" (no caso de grupos você pode utilizar este campo - não obrigatório - para segmentar o grupo por faixa etária), "Email", "Telefone", "Celular", "CPF" e "Valor" (com o valor dos atendimentos).
 

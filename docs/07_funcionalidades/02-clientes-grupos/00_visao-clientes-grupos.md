@@ -23,7 +23,7 @@ O painel Clientes e Grupos Terapêuticos do eConsult oferece uma visão completa
 
 <figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/clientegrupo/clientegrupo-003.png" alt="Clientes e Grupos" />
-  <figcaption style={{ fontStyle: "italic"}}>Exemplo de card de um Grupo de Atendimento</figcaption>
+  <figcaption style={{ fontStyle: "italic"}}>Exemplo de card de um Grupo Terapêutico</figcaption>
 </figure>
 
 Cada *card* apresenta informações essenciais de forma concisa, incluindo o "Nome" do cliente ou grupo de atendimeto, "Email", "Grupo etário", "Telefones", "Valor Padrão de Atendimento", "Número de Atendimentos Vinculados", e a "Data do Último Atendimento Agendado". Essa estrutura facilita a consulta rápida e eficiente dos principais dados de cada cliente ou grupo, permitindo que os profissionais acessem as informações necessárias com apenas um olhar.
@@ -45,7 +45,7 @@ O cliente ou grupo poderá acessar diversas informações relevantes, previament
 Sendo:
 
 
-1. **Nome do Cliente ou Grupo de Atendimento:** Exibe o nome do cliente ou do grupo.
+1. **Nome do Cliente ou Grupo Terapêutico:** Exibe o nome do cliente ou do grupo.
 1. **Grupo Etário do Cliente:** Informa o grupo etário do cliente ou grupo.
 1. **Celular (Chamada Direta):** Número de celular com link para realizar chamadas diretamente pelo dispositivo.
 1. **Celular (WhatsApp):** Número de celular com link direto para contato via WhatsApp.

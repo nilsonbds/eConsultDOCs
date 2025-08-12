@@ -8,7 +8,7 @@ sidebar_position: 1
 
 No cadastro de Clientes e Grupos Terapêuticos, na aba "Geral", os campos são organizados para a inserção das informações essenciais. Nesta seção, apenas "Nome" e Sexo são de preenchimento obrigatório. Esses dados são fundamentais para atender às exigências mínimas necessárias para o registro.
 
-Nesta aba, estão disponíveis ainda, as opções 'Inativar' e 'Grupo de Atendimento'. A primeira permite inativar o cadastro, enquanto a segunda serve para indicar se o cadastro se refere a um cliente ou a um grupo terapêutico.
+Nesta aba, estão disponíveis ainda, as opções 'Inativar' e 'Grupo Terapêutico'. A primeira permite inativar o cadastro, enquanto a segunda serve para indicar se o cadastro se refere a um cliente ou a um grupo terapêutico.
 
 Os demais campos (informações de contato ou o responsável pelo grupo) são opcionais e podem ser preenchidos conforme necessidade. Essa abordagem proporciona maior flexibilidade, permitindo que sejam inseridos apenas os dados considerados relevantes no momento. Assim, o sistema facilita a personalização e otimização do cadastro, adaptando-se aos objetivos específicos de cada caso, sem exigir informações desnecessárias.
 
