@@ -20,13 +20,7 @@ Os instrumentos disponíveis, são:
 - PANAS - Positive and Negative Affect Schedule
     - Para avaliação de afeto
 
-##### Alcoolismo
-- AUDIT - Alcohol Use Disorders Identification Test
-    - Para rastreamento de abuso de álcool
-- CAGE - Cut-down, Annoyed, Guilty, Eye-opener
-    - Para rastreamento de alcoolismo
-
-##### Ansiedade
+##### Ansiedade e fobia social
 - BAI - Beck Anxiety Inventory
     - Para rastreamento de ansiedade
 - GAD-7 - Generalized Anxiety Disorder-7
@@ -35,6 +29,8 @@ Os instrumentos disponíveis, são:
 ##### Apoio social
 - MSPSS - Multidimensional Scale of Perceived Social Support
     - Para rastreamento de apoio social
+- ***EM BREVE*** SPIN (Social Phobia Inventory) 
+    – Para triagem e monitoramento de fobia social.
 
 ##### Autismo
 - M-CHAT-R/F - Modified Checklist for Autism in Toddlers, Revised, with Follow-Up
@@ -106,9 +102,19 @@ Os instrumentos disponíveis, são:
 - RS-25 - Escala de Resiliência de Wagnild & Young
     - Para rastreamento de resiliência
 
+##### Risco de Suicídio
+- Plutchik - Escala de Risco de Suicídio de Plutchik
+    - Para rastreamento de propensão ao suicídio
+- ***EM BREVE*** C-SSRS (Columbia Suicide Severity Rating Scale) 
+    - Para avaliação estruturada da gravidade e intensidade da ideação/conduta suicida.
+
 ##### Satisfação sobre a vida
 - SWLS - Escala de Satisfação com a Vida
     - Para avaliação de satisfação com a vida
+
+##### Saúde mental infantil/adolescente
+- ***EM BREVE*** SDQ (Strengths and Difficulties Questionnaire) 
+    – Para triagem de dificuldades emocionais e comportamentais em crianças e adolescentes.
 
 ##### Sofrimento psicológico
 - K10 – Escala de Sofrimento Psicológico
@@ -117,13 +123,13 @@ Os instrumentos disponíveis, são:
 ##### Sono
 - ISI - Insomnia Severity Index
     - Para avaliação sa gravidade da insônia e seu impacto na vida diária
-
-##### Suicídio
-- Plutchik - Escala de Risco de Suicídio de Plutchik
-    - Para rastreamento de propensão ao suicídio
+- ***EM BREVE*** PSQI (Pittsburgh Sleep Quality Index) 
+    – Para avaliação abrangente da qualidade do sono
 
 ##### TDAH adulto
 - ASRS-6 - Adult ADHD Self-Report Scale
+    - Para avaliação de TDAH adulto
+- ASRS-18 - Adult ADHD Self-Report Scale
     - Para avaliação de TDAH adulto
 
 ##### TDAH infantil
@@ -151,6 +157,14 @@ Os instrumentos disponíveis, são:
 ##### Trauma infantil
 - CTQ - Childhood Trauma Questionnaire (versão breve)
     - Para avaliar experiências adversas na infância, incluindo abuso e negligência
+
+##### Uso de substâncias
+- AUDIT - Alcohol Use Disorders Identification Test
+    - Para rastreamento de abuso de álcool
+- CAGE - Cut-down, Annoyed, Guilty, Eye-opener
+    - Para rastreamento de alcoolismo
+- ***EM BREVE*** DAST-10 (Drug Abuse Screening Test) 
+    – Para rastreio de uso de drogas ilícitas
 
 ##### Violência doméstica
 - Danger Assessment - Escala de Risco de Violência
