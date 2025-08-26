@@ -45,6 +45,7 @@ O eConsult cumpre todas as exigências legais e éticas para uso de instrumentos
 3. **Validade Técnica e Direitos Autorais**  
    - Apenas escalas de domínio público ou de uso livre.  
    - Elimina risco de uso indevido de instrumentos restritos.  
+   - As devidas bibliografias são incluídas tanto nos testes como nos resultados
 
 4. **Uso Exclusivo por Psicólogos**  
    - O sistema apoia o processo avaliativo, mas o **diagnóstico e a interpretação final** são responsabilidade do psicólogo.
@@ -222,7 +223,7 @@ Enquanto outros sistemas deixam o psicólogo depender de avaliações em papel, 
 ---
 
 :::note
-Todas as avaliações são de **uso livre**, **validadas cientificamente** e amplamente utilizadas em contextos clínicos e de saúde pública.
+Todas as avaliações são de **uso livre, validadas cientificamente e amplamente utilizadas em contextos clínicos** e de saúde pública.
 :::
 
 ---
