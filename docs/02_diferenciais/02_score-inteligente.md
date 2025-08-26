@@ -6,78 +6,120 @@ sidebar_position: 2
 
 ***Inteligência para engajamento e gestão de pacientes.***
 
-O painel de Análise de Score é uma funcionalidade estratégica voltada à gestão clínica e comercial do consultório. Ele permite que os profissionais acompanhem, de forma analítica e visual, o comportamento dos pacientes e identifiquem oportunidades para aumentar o engajamento e a fidelização.
+A **Análise de Score** é uma funcionalidade estratégica do eConsult que apoia tanto a gestão clínica quanto a administrativa do consultório.  
 
-## ✦ Monitoramento Inteligente do Engajamento
-
-Com base em dados históricos de atendimento, frequência, pagamentos e interações, o eConsult gera scores que refletem o engajamento do paciente com os serviços prestados. Isso ajuda o profissional a identificar casos que demandam atenção proativa ou comunicação personalizada.
-
-## ✦ Insights de Retenção e Recorrência
-
-O sistema classifica os pacientes em diferentes níveis de interação — ativos, inativos ou propensos a abandonar. Esses insights são apresentados de forma clara no painel, permitindo a execução de ações estratégicas, como lembretes, reativação ou campanhas de fidelização, tudo de forma integrada ao sistema.
-
-## ✦ Visualização Prática no Painel de Resultados
-
-A funcionalidade está integrada ao menu "Análise de Score" no painel de resultados do eConsult, onde gráficos e indicadores permitem visualizar rapidamente padrões de comportamento dos pacientes e identificar tendências relevantes para gestão do atendimento.
-
-## ✦ Valor Clínico e Administrativo
-
-- Otimiza o controle da frequência de avaliação e acompanhamento de pacientes.
-- Oferece suporte em ações de fidelização, incentivando a continuidade dos atendimentos.
-- Permite melhor gestão de receita recorrente, diminuindo faltas e abandono.
-
-## ✦ Sinergia com Outros Recursos do eConsult
-
-Quando combinada com os recursos de agenda, prontuário e gestão financeira, a funcionalidade de score enriquece a plataforma como um hub completo de gestão — integrando clínico e administrativo com uma visão estratégica do consultório.
+Com ela, o profissional acompanha de forma analítica e visual o comportamento dos pacientes, identifica oportunidades de engajamento e promove maior fidelização.
 
 ---
 
-# Por que a funcionalidade Análise de Score do eConsult é única no mercado?
+## ✦ Monitoramento Inteligente de Engajamento
 
-### 1. Gestão de engajamento clínico (algo raro em sistemas de psicologia)
+O sistema utiliza dados históricos de **atendimento, frequência, pagamentos e interações** para gerar scores de engajamento.  
 
-- A maioria dos sistemas se limita a agendamento e prontuário. A análise de score permite acompanhar o comportamento do paciente — frequência, cancelamentos, continuidade no tratamento.
-- Isso permite ações mais proativas e personalizadas, como:
-    - Reengajamento de pacientes que interromperam o processo.
-    - Detecção precoce de possíveis abandonos.
-    - Apoio na tomada de decisão clínica sobre periodicidade dos encontros.
+Esses indicadores permitem identificar:
 
-### 2. Facilita estratégias de fidelização
+- Pacientes que exigem **atenção proativa**.  
+- Casos que necessitam de **comunicação personalizada**.  
+- Situações de **risco de abandono**.
 
-- Psicólogos que atuam de forma autônoma muitas vezes perdem pacientes por falta de follow-up estruturado.
-- O score permite identificar pacientes que estão prestes a “sumir do radar” — e ajuda o profissional a agir antes que isso aconteça.
+---
 
-### 3. Alinha cuidado clínico com visão de negócio
+## ✦ Insights de Retenção e Recorrência
 
-- Embora o foco do psicólogo seja o cuidado, muitos precisam também lidar com a gestão do consultório. Ter uma métrica objetiva sobre engajamento ajuda na saúde financeira e na sustentabilidade da prática.
+O painel classifica automaticamente os pacientes em diferentes níveis de interação:
 
-### 4. Complementa outras ferramentas do sistema
+- **Com engajamento em declínio**  
+- **Com engajamento em crescimento**  
+- **Estáveis engajados**   
+- **Não engajados**   
+- **Com engajamento volátil**  
 
-- Quando combinada com prontuário, agenda, avaliações psicológicas e IA, a análise de score fecha o ciclo: do cuidado clínico à gestão estratégica.
+Essas informações possibilitam ações estratégicas, como:
 
-## Comparando com outros sistemas de mercado
+- Envio de **lembretes automáticos**.  
+- **Reengajamento de pacientes**.  
+- **Campanhas de fidelização** totalmente integradas ao sistema.  
 
-A funcionalidade de Análise de Score do eConsult entrega ao psicólogo um recurso estratégico e visual para entender o engajamento dos pacientes, antecipar abandonos e melhorar a gestão do consultório — algo raro entre os sistemas voltados à prática clínica.
+---
 
-**Outros sistemas do mercado**
+## ✦ Visualização no Painel de Resultados
 
-- Geralmente não oferecem nenhum tipo de análise preditiva ou painel de engajamento.
-- Quando há relatórios, são limitados a informações financeiras ou agendamentos passados, sem leitura estratégica.
-- Não identificam pacientes com risco de abandono nem oferecem suporte para reengajamento.
-- Focam na operação (agenda e pagamentos), mas não apoiam a continuidade do cuidado clínico.
+Na seção **“Análise de Score”**, gráficos e indicadores apresentam de forma clara:
 
-**eConsult**
+- Padrões de comportamento.  
+- Tendências relevantes para o consultório.  
+- Oportunidades de intervenção clínica e administrativa.  
 
-- Usa dados reais de frequência, pagamentos e interações para gerar scores de engajamento dos pacientes.
-- Classifica automaticamente os pacientes em ativos, inativos ou propensos ao abandono.
-- Permite ações estratégicas integradas ao sistema: lembretes, convites para retorno, campanhas de fidelização.
-- Oferece gráficos e indicadores visuais, acessíveis diretamente no painel de resultados.
-- Atua como ferramenta de gestão clínica e comercial ao mesmo tempo — com impacto direto na produtividade e na receita recorrente.
+---
 
-**O que isso representa na prática?**
+## ✦ Valor Clínico e Administrativo
 
-Enquanto a maioria dos sistemas apenas registra o que já aconteceu, o eConsult antecipa movimentos e orienta ações com base em dados inteligentes. Isso ajuda o psicólogo a manter pacientes em acompanhamento, reduzir ausências e fortalecer a relação terapêutica com mais consistência e planejamento.
+A Análise de Score contribui diretamente para:
+
+- Controle otimizado da **frequência de pacientes**.  
+- Apoio em **ações de fidelização e continuidade de tratamento**.  
+- Melhoria na **gestão da receita recorrente**, reduzindo faltas e abandonos.  
+
+---
+
+## ✦ Combinando com Outros Recursos do eConsult
+
+Combinada a módulos como **agenda, prontuário e gestão financeira**, a Análise de Score transforma o eConsult em um verdadeiro **hub estratégico**, unindo:
+
+- Gestão clínica.  
+- Organização administrativa.  
+- Inteligência de negócio para consultórios de psicologia.  
+
+---
+
+# Por que a Análise de Score do eConsult é única?
+
+### 1. Gestão de Engajamento Clínico
+- Diferente da maioria dos sistemas, não se limita a agendamento ou prontuário.  
+- Permite acompanhar frequência, cancelamentos e continuidade no tratamento.  
+- Gera ações proativas, como:
+  - Reengajamento de pacientes.  
+  - Detecção precoce de abandono.  
+  - Apoio na definição da periodicidade dos encontros.  
+
+### 2. Estratégias de Fidelização
+- Psicólogos autônomos costumam perder pacientes por falta de follow-up estruturado.  
+- O score sinaliza quem está prestes a “sumir do radar”, permitindo agir antes da evasão.  
+
+### 3. Equilíbrio entre Cuidado Clínico e Negócio
+- Oferece métricas objetivas de engajamento.  
+- Apoia a **saúde financeira** e a **sustentabilidade** do consultório.  
+
+### 4. Complemento a Outras Ferramentas
+- Ao integrar-se a **agenda, prontuário, avaliações psicológicas e IA**, fecha o ciclo:  
+  do cuidado clínico à **gestão estratégica do consultório**.  
+
+---
+
+## ✦ Comparação com Outros Sistemas
+
+##### Outros sistemas do mercado  
+- Limitam-se a relatórios financeiros ou de agendamentos passados.  
+- Não oferecem análise preditiva nem suporte ao reengajamento.  
+- Focam apenas na operação (agenda e pagamentos), sem visão estratégica.  
+
+##### eConsult  
+- Utiliza dados reais de frequência, pagamentos e interações.  
+- Classifica pacientes em **ativos, inativos ou em risco de abandono**.  
+- Disponibiliza gráficos e indicadores visuais no painel.  
+- Permite ações estratégicas integradas: lembretes, convites e campanhas.  
+- Atua como ferramenta de **gestão clínica e comercial** ao mesmo tempo.  
+
+### O que isso representa na prática?
+
+Enquanto outros sistemas apenas **registram o passado**, o eConsult **antecipa movimentos** e orienta decisões com base em dados inteligentes.  
+
+Isso resulta em:
+
+- Maior retenção de pacientes.  
+- Redução de ausências.  
+- Relação terapêutica fortalecida com planejamento e consistência.  
 
 :::tip Diferencial real
-O eConsult transforma dados clínicos e operacionais em inteligência prática para fidelizar pacientes, reduzir evasões e sustentar o crescimento do consultório — uma funcionalidade praticamente inexistente nos concorrentes diretos.
+O eConsult transforma dados clínicos e operacionais em **inteligência prática** para fidelizar pacientes, reduzir evasões e sustentar o crescimento do consultório — algo praticamente inexistente nos concorrentes diretos.
 :::
