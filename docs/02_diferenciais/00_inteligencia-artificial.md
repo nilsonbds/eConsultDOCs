@@ -13,20 +13,16 @@ O eConsult adota rigorosamente as diretrizes da **LGPD**, garantindo a **privaci
 
 - **Anonimização dos dados:**  
 
-  Antes de qualquer análise, informações que possam identificar o paciente são removidas (nome, CPF, endereço).
+   Antes de qualquer análise, informações que possam identificar o paciente direta ou indiretamente são anonimizados.
 
 - **Proteção avançada:**  
 
-  - Remoção de identificadores diretos e indiretos.  
-
-  - Substituição por identificadores aleatórios.  
-
-  - **Criptografia de dados sensíveis** no armazenamento.
+   Criptografia de dados sensíveis no armazenamento.
 
 Com isso, os dados **anonimizados deixam de ser considerados pessoais** pela LGPD, **não sendo necessária autorização adicional do paciente**.
 
 :::tip  
-**Recomendação:** Mesmo que os dados deixem de ser considerados pessoais, recomendamos que o profissional informe os pacientes que a plataforma utiliza IA e que os dados são tratados de forma anonimizada, garantindo transparência, segurança e confiança.  
+**Recomendação:** Mesmo não sendo necessária autorização adicional do paciente, recomendamos que o profissional informe os pacientes que a plataforma utiliza IA e que os dados são tratados de forma anonimizada, garantindo transparência, segurança e confiança.  
 :::
 
 ---
@@ -38,12 +34,12 @@ A IA **não toma decisões por conta própria**: ela **sugere hipóteses, organi
 ### Principais Recursos
 
 ##### ✔ **Anotações Inteligentes e Contextualizadas**  
-- Auxilia na elaboração de registros clínicos claros e técnicos.  
-- Interação em formato de chat para **resumir, revisar ou expandir anotações**.  
+- Interação em formato de chat para **resumir, revisar ou expandir anotações durante o atendimento**.  
 
-##### ✔ **Suporte a Diagnóstico e Prognóstico**  
-- Sugere hipóteses baseadas em dados do prontuário, avaliações psicológicas e engajamento do paciente.  
-- Apoia o raciocínio clínico com agilidade e segurança.  
+##### ✔ **Suporte a Diagnósticos e Prognósticos**  
+- Sugere hipóteses diagnósticas e prognósticas baseadas em dados do prontuário, avaliações psicológicas e engajamento do paciente.  
+- Apoia o raciocínio clínico com agilidade e segurança.
+- No caso de grupos terapêuticos a IA considera os dados do grupo e dos membros do grupo para elaborar as hipóteses. 
 
 ##### ✔ **Análise e Sugestão de Plano de Tratamento**  
 - Com base na abordagem terapêutica e histórico clínico, gera sugestões personalizadas para o plano de tratamento.  
@@ -76,7 +72,7 @@ Os limites de uso variam conforme o plano contratado:
 
 ---
 
-## Monitoramento do Consumo (Tokens)
+## Monitoramento de Consumo em Tokens
 
 **Tokens** são unidades de texto processadas pela IA. Cada interação envolve:
 
@@ -98,7 +94,7 @@ Os limites de uso variam conforme o plano contratado:
 
 Consumo estimado: **~85.000 tokens/mês**.  
 
-Você pode acompanhar o uso em:  `Configurações > Integrações > ChatGPT`
+Você pode acompanhar o uso em:  `Configurações > Integrações > OpenAI`
 
 :::info  
 📌 **Sugestão de Print:** Tela de “Configuração de Integrações” mostrando consumo de tokens.  
