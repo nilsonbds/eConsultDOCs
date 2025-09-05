@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Para quem serve o eConsult?
 
-## ICP (Ideal Customer Profile)
+## ICP (Ideal Customer Profile) do eConsult
 
-O **ICP (Ideal Customer Profile)**, ou *Perfil de Cliente Ideal*, é uma representação do profissional que mais se beneficia com a utilização do **eConsult**. Ele orienta o desenvolvimento e as funcionalidades da plataforma para garantir máxima utilidade, eficiência e aderência às necessidades do usuário.
+O **ICP (Ideal Customer Profile)**, ou *Perfil de Cliente Ideal*, do eConsult é um estudo que identifica quais profissionais mais se beneficiam da plataforma. Ele orienta o desenvolvimento e a evolução das funcionalidades, garantindo máxima utilidade, eficiência e alinhamento às necessidades dos usuários.
 
 ### Quem é o cliente ideal?
 
@@ -16,7 +16,7 @@ Profissionais **autônomos** que realizam **atendimentos mediante agendamento**,
 
 **Feito para Profissionais Autônomos**  
 
-- **O eConsult foi feito principalmente para psicólogos**, mas também atende terapeutas, coaches, personal trainers, fisioterapeutas, nutricionistas, professores de idiomas, instrutores de yoga, pilates e meditação, consultores de bem-estar, entre outros profissionais.
+- **O eConsult foi feito principalmente para psicólogos**, mas também atende psiquiatras, psicanalistas, neuropsicólogos, psicopedagogos, terapeutas ocupacionais, arteterapeutas, musicoterapeutas, consteladores familiares, terapeutas integrativos, coachs, mentores, nutricionistas, fisioterapeutas, massoterapeutas, personal trainers, instrutores de yoga, instrutores de pilates e guias de meditação.
 
 - **Necessidade de Agendamentos Online e Gestão de Grupos**  
   Profissionais que atendem individualmente ou em grupo e precisam de uma ferramenta que automatize o controle de agendamentos, presença e organização de sessões.
@@ -34,7 +34,7 @@ Profissionais **autônomos** que realizam **atendimentos mediante agendamento**,
   - Necessidade de melhor organização para atender múltiplos clientes simultaneamente
 
 :::note
-O **eConsult não é um sistema genérico** – ele foi desenvolvido especialmente para psicólogos. Ainda assim, a experiência é automaticamente personalizada de acordo com a área de atuação de cada profissional
+O **eConsult não é um sistema genérico** — ele foi criado especialmente para psicólogos. Ao mesmo tempo, a plataforma adapta automaticamente a experiência conforme a área de atuação de cada profissional, oferecendo recursos realmente relevantes para sua prática.
 :::
 
 ## Principais Benefícios do eConsult

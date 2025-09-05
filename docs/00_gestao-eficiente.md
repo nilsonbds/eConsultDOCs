@@ -15,11 +15,24 @@ O eConsult vai além da gestão básica. Ele foi projetado com base nas rotinas 
 Seja você:
 
 - Psicólogo(a)
-- Terapeuta
-- Nutricionista
+- Psiquiatra
+- Psicanalista
+- Neuropsicólogo(a)
+- Psicopedagogo(a)
+- Terapeuta Ocupacional
+- Arteterapeuta
+- Musicoterapeuta
+- Constelador Familiar
+- Terapeuta Integrativo
 - Coach
-- Esteticista
-- Ou outro profissional da área da saúde e bem-estar
+- Mentor(a)
+- Nutricionista
+- Fisioterapeuta
+- Massoterapeuta
+- Personal Trainer
+- Instrutor(a) de Yoga
+- Instrutor(a) de Pilates
+- Guia de Meditação
 
 O sistema reconhece seu perfil e personaliza a experiência conforme sua área de atuação.
 
@@ -40,7 +53,7 @@ A interface é intuitiva, moderna e fácil de usar, mesmo para quem tem pouca fa
 - ✅ 100% online e baseado na nuvem
 - 🔄 Atualizações automáticas e constantes
 - 💡 Sem necessidade de instalação ou manutenção
-- 💳 Modelo de assinatura acessível, sem grandes investimentos iniciais
+- 💳 Modelo de assinatura acessível, sem investimentos iniciais
 
 ## Segurança como prioridade
 
@@ -51,9 +64,9 @@ O eConsult adota práticas rigorosas de proteção de dados:
 - 💾 **Backups automáticos e regulares**
 - 📜 **Conformidade com a LGPD**
 
-Seus dados — e os dos seus clientes — estão sempre seguros.
+Seus dados e os de seus clientes permanecem seguros em todos os momentos.
 
-## Mais tempo, mais controle, mais excelência
+### Mais tempo, mais controle, mais excelência
 
 Ao automatizar tarefas operacionais, o eConsult libera seu tempo para o que realmente importa: oferecer um atendimento de excelência. Com mais agilidade e menos estresse, você foca no que faz de melhor: cuidar de pessoas.
 
@@ -62,3 +75,11 @@ Ao automatizar tarefas operacionais, o eConsult libera seu tempo para o que real
 ### Descubra o que o **eConsult** pode fazer por você
 
 Agilize sua rotina, aumente sua produtividade e eleve o nível da sua atuação profissional com uma plataforma feita sob medida para quem cuida de pessoas.
+
+---
+
+### O eConsult é a escolha certa para quem busca mais eficiência, controle e profissionalismo na gestão de atendimentos
+
+> Pronto para transformar sua rotina?
+> Experimente gratuitamente e descubra por que o eConsult é o sistema que se adapta a você — e não o contrário.
+> [Clique aqui e comece agora mesmo.](https://econsult.app.br/multidisciplinar)

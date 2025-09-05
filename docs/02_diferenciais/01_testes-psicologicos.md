@@ -12,11 +12,15 @@ No **eConsult**, essa funcionalidade foi desenvolvida para oferecer rigor técni
 
 Com um portfólio amplo de escalas de uso livre, as avaliações estão integradas diretamente ao atendimento e/ou prontuário eletrônico, com **aplicação digital, pontuação automática e relatórios interpretativos imediatos**.
 
+:::warning
+A funcionalidade **Avaliações Psicológicas** é **exclusiva para psicólogos**, em conformidade com as exigências legais e éticas que regulam o uso de instrumentos psicológicos.
+:::
+
 ---
 
 ## ✦ Avaliações Baseadas em Evidências
 
-O eConsult oferece instrumentos validados e de uso livre para avaliar:
+O eConsult oferece instrumentos validados e de uso livre para psicólogos para avaliar:
 
 - Afeto  
 - Ansiedade, depressão e estresse  
@@ -35,20 +39,20 @@ O eConsult oferece instrumentos validados e de uso livre para avaliar:
 O eConsult cumpre todas as exigências legais e éticas para uso de instrumentos psicológicos:
 
 1. **Regulamentação Profissional**  
-   - Apenas psicólogos registrados no **CRP** podem aplicar e interpretar avaliações.  
+   - Apenas **psicólogos** registrados no **CRP** podem aplicar e interpretar avaliações.  
    - O sistema valida o registro do profissional diretamente junto ao **CFP**.  
 
 2. **Sigilo e Privacidade**  
-   - Dados protegidos por criptografia e acessíveis apenas ao psicólogo autorizado.  
-   - Conformidade com a **LGPD** no Brasil.  
+   - Os dados **são protegidos por criptografia** e acessíveis **apenas ao psicólogo autorizado**.  
+   - **Conformidade com a LGPD** no Brasil.  
 
 3. **Validade Técnica e Direitos Autorais**  
-   - Apenas escalas de domínio público ou de uso livre.  
-   - Elimina risco de uso indevido de instrumentos restritos.  
-   - As devidas bibliografias são incluídas tanto nos testes como nos resultados
+   - Apenas **escalas de domínio público** ou de **uso livre**.  
+   - **Elimina risco de uso indevido** de instrumentos restritos.  
+   - As devidas **bibliografias são incluídas** tanto nos testes como nos resultados.
 
 4. **Uso Exclusivo por Psicólogos**  
-   - O sistema apoia o processo avaliativo, mas o **diagnóstico e a interpretação final** são responsabilidade do psicólogo.
+   - O sistema apoia o processo avaliativo, mas o **diagnóstico e a interpretação final** são **responsabilidade do psicólogo**.
 
 ---
 
@@ -85,7 +89,7 @@ A funcionalidade de aplicação de avaliações psicológicas integradas ao pron
 - Respeita os critérios éticos do CFP: acesso restrito a psicólogos registrados, com uso responsável e dentro dos limites legais.
 - Permite aplicação prática em contexto clínico com foco na eficiência e profundidade diagnóstica.
 
-#### O que isso representa na prática?
+##### O que isso representa na prática?
 
 Enquanto outros sistemas deixam o psicólogo depender de avaliações em papel, PDFs soltos ou ferramentas externas, o eConsult entrega uma solução completa, integrada, ética e baseada em evidências — economizando tempo, elevando a qualidade da avaliação e fortalecendo a tomada de decisão clínica.  
 
@@ -227,3 +231,9 @@ Todas as avaliações são de **uso livre, validadas cientificamente e amplament
 :::
 
 ---
+
+**O eConsult é a escolha certa para quem busca mais eficiência, controle e profissionalismo na gestão de atendimentos.**
+
+> Pronto para transformar sua rotina?
+> Experimente gratuitamente e descubra por que o eConsult é o sistema que se adapta a você — e não o contrário.
+> [Clique aqui e comece agora mesmo.](https://econsult.app.br/multidisciplinar)

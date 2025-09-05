@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Modelos de Anamnese
@@ -12,7 +12,7 @@ O recurso **Modelos de Anamnese** do eConsult oferece fichas clínicas pré-defi
 
 ## ✦ Fichas Estruturadas e Personalizáveis
 
-O eConsult disponibiliza modelos prontos de anamnese, baseados em boas práticas clínicas.  
+O eConsult disponibiliza modelos prontos de anamnese personalizáveis, baseados em boas práticas clínicas.  
 O profissional pode **adaptar campos, sequência e profundidade das perguntas** conforme a abordagem teórica ou o tipo de atendimento — trazendo coerência, personalização e consistência ao registro.
 
 👉 [Veja aqui os modelos de anamnese disponibilizados pelo eConsult](/docs/funcionalidades/modelo-anamnese/modelos-econsult)
@@ -21,14 +21,16 @@ O profissional pode **adaptar campos, sequência e profundidade das perguntas** 
 
 ## ✦ Mais Tempo para a Escuta, Menos para o Registro
 
-Com o modelo já estruturado, o psicólogo pode se dedicar à escuta ativa e à interação, sem se preocupar em lembrar de todos os campos.  
+Com o modelo já estruturado, o psicólogo pode se dedicar à escuta ativa e à interação, sem se preocupar em lembrar de todos os campos.
+
 O preenchimento é feito de forma rápida e prática durante a sessão, **reduzindo transcrições manuais e evitando omissões**.
 
 ---
 
 ## ✦ Integração ao Histórico do Paciente
 
-Todos os dados da anamnese são armazenados diretamente no prontuário eletrônico do paciente.  
+Todos os dados da anamnese são armazenados diretamente nos prontuários eletrônicos do paciente.  
+
 Isso garante que **toda a trajetória clínica** esteja organizada em um único lugar, de fácil acesso e acompanhamento ao longo da jornada terapêutica.
 
 ---
@@ -45,7 +47,7 @@ Isso garante que **toda a trajetória clínica** esteja organizada em um único 
 
 ## ✦ Sinergia com Outros Recursos
 
-Em conjunto com **testes psicológicos, IA para anotações e análise de score**, o modelo de anamnese fecha o ciclo do atendimento: da coleta inicial à avaliação, registro, acompanhamento e gestão estratégica em um único ambiente integrado.
+Em conjunto com **análises psicológicas, IA para anotações em atendimentos e análise de score**, o modelo de anamnese fecha o ciclo para prontuários: da coleta inicial à avaliação, registro, acompanhamento e gestão estratégica em um único ambiente integrado.
 
 ---
 
@@ -103,8 +105,8 @@ Em conjunto com **testes psicológicos, IA para anotações e análise de score*
 ### eConsult
 - **Modelos prontos baseados em boas práticas clínicas**, que podem ser usados imediatamente ou ajustados livremente.  
 - **Customização total** conforme linha teórica, perfil do paciente (adulto, infantil, casal) e tipo de demanda.  
-- **Integração completa ao prontuário eletrônico**, formando uma linha do tempo clínica desde a primeira consulta.  
-- **Controle granular de visibilidade**, permitindo decidir exatamente o que o paciente pode visualizar em cada campo da anamnese.  
+- **Integração completa a prontuários eletrônicos**, formando uma linha do tempo clínica desde a primeira consulta.  
+- **Controle granular de visibilidade**, permitindo ao profissional decidir exatamente o que o paciente pode visualizar em cada campo da anamnese.  
 - **Agilidade com profundidade**, equilibrando eficiência no preenchimento e rigor clínico.  
 
 ---
@@ -112,8 +114,17 @@ Em conjunto com **testes psicológicos, IA para anotações e análise de score*
 ## O que isso representa na prática?
 
 Enquanto muitos sistemas já permitem personalização de anamneses, o **eConsult se diferencia por oferecer uma solução estruturada, flexível e ética — com integração total e controle de privacidade em nível de campo**.  
+
 Isso reduz riscos, economiza tempo e aumenta a qualidade e a consistência dos registros clínicos desde o primeiro atendimento.
 
 :::tip Diferencial real
 O eConsult assegura que a coleta de informações clínicas seja feita com **eficiência, profundidade e segurança**, elevando o padrão de qualidade em relação à maioria dos sistemas disponíveis no mercado.
 :::
+
+---
+
+**O eConsult é a escolha certa para quem busca mais eficiência, controle e profissionalismo na gestão de atendimentos.**
+
+> Pronto para transformar sua rotina?
+> Experimente gratuitamente e descubra por que o eConsult é o sistema que se adapta a você — e não o contrário.
+> [Clique aqui e comece agora mesmo.](https://econsult.app.br/multidisciplinar)

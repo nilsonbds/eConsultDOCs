@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# Análise de Score
+# Análise Inteligente de Engajamento
 
 ***Inteligência para engajamento e gestão de pacientes.***
 
-A **Análise de Score** é uma funcionalidade estratégica do eConsult que apoia tanto a gestão clínica quanto a administrativa do consultório.  
+A **Análise Inteligente de Engajamento** é uma funcionalidade estratégica do eConsult que apoia tanto a gestão clínica quanto a administrativa do consultório.  
 
 Com ela, o profissional acompanha de forma analítica e visual o comportamento dos pacientes, identifica oportunidades de engajamento e promove maior fidelização.
 
@@ -30,7 +30,7 @@ O painel classifica automaticamente os pacientes em diferentes níveis de intera
 
 - **Com engajamento em declínio**  
 - **Com engajamento em crescimento**  
-- **Estáveis engajados**   
+- **Estáveis e engajados**   
 - **Não engajados**   
 - **Com engajamento volátil**  
 
@@ -107,7 +107,7 @@ Combinada a módulos como **agenda, prontuário e gestão financeira**, a Análi
 - Utiliza dados reais de frequência, pagamentos e interações.  
 - Classifica pacientes em **ativos, inativos ou em risco de abandono**.  
 - Disponibiliza gráficos e indicadores visuais no painel.  
-- Permite ações estratégicas integradas: lembretes, convites e campanhas.  
+- Permite ações estratégicas: lembretes, convites e campanhas.  
 - Atua como ferramenta de **gestão clínica e comercial** ao mesmo tempo.  
 
 ### O que isso representa na prática?
@@ -120,6 +120,14 @@ Isso resulta em:
 - Redução de ausências.  
 - Relação terapêutica fortalecida com planejamento e consistência.  
 
-:::tip Diferencial real
+:::tip Diferencial Real
 O eConsult transforma dados clínicos e operacionais em **inteligência prática** para fidelizar pacientes, reduzir evasões e sustentar o crescimento do consultório — algo praticamente inexistente nos concorrentes diretos.
 :::
+
+---
+
+**O eConsult é a escolha certa para quem busca mais eficiência, controle e profissionalismo na gestão de atendimentos.**
+
+> Pronto para transformar sua rotina?
+> Experimente gratuitamente e descubra por que o eConsult é o sistema que se adapta a você — e não o contrário.
+> [Clique aqui e comece agora mesmo.](https://econsult.app.br/multidisciplinar)
