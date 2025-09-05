@@ -16,7 +16,25 @@ Profissionais **autônomos** que realizam **atendimentos mediante agendamento**,
 
 **Feito para Profissionais Autônomos**  
 
-- **O eConsult foi feito principalmente para psicólogos**, mas também atende psiquiatras, psicanalistas, neuropsicólogos, psicopedagogos, terapeutas ocupacionais, arteterapeutas, musicoterapeutas, consteladores familiares, terapeutas integrativos, coachs, mentores, nutricionistas, fisioterapeutas, massoterapeutas, personal trainers, instrutores de yoga, instrutores de pilates e guias de meditação.
+- **O eConsult foi feito principalmente para psicólogos**, mas também atende:
+  - Psiquiatras
+  - Psicanalistas
+  - Neuropsicólogos
+  - Psicopedagogos
+  - Terapeutas Ocupacionais
+  - Arteterapeutas
+  - Musicoterapeutas
+  - Consteladores Familiares
+  - Terapeutas Integrativos
+  - Coachs
+  - Mentores
+  - Nutricionistas
+  - Fisioterapeutas
+  - Massoterapeutas
+  - Personal Trainers
+  - Instrutores de Yoga
+  - Instrutores de Pilates
+  - Guias de Meditação
 
 - **Necessidade de Agendamentos Online e Gestão de Grupos**  
   Profissionais que atendem individualmente ou em grupo e precisam de uma ferramenta que automatize o controle de agendamentos, presença e organização de sessões.

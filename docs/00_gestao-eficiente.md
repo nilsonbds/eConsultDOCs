@@ -12,28 +12,6 @@ Pensando nisso, nasceu o **eConsult** — uma plataforma completa, desenvolvida 
 
 O eConsult vai além da gestão básica. Ele foi projetado com base nas rotinas reais de quem atua no atendimento individualizado, oferecendo uma estrutura intuitiva, flexível e adaptável.
 
-Seja você:
-
-- Psicólogo(a)
-- Psiquiatra
-- Psicanalista
-- Neuropsicólogo(a)
-- Psicopedagogo(a)
-- Terapeuta Ocupacional
-- Arteterapeuta
-- Musicoterapeuta
-- Constelador Familiar
-- Terapeuta Integrativo
-- Coach
-- Mentor(a)
-- Nutricionista
-- Fisioterapeuta
-- Massoterapeuta
-- Personal Trainer
-- Instrutor(a) de Yoga
-- Instrutor(a) de Pilates
-- Guia de Meditação
-
 O sistema reconhece seu perfil e personaliza a experiência conforme sua área de atuação.
 
 ## Tudo o que você precisa, em um só lugar

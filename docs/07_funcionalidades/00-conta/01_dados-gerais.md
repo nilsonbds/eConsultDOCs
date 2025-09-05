@@ -12,9 +12,13 @@ Para alteração de seus dados gerais, acesse a opção correspondente a **Dados
 
 1. Atualize os dados necessários, como nome, sexo, especialidade, registro no conselho (se for o caso), tipo de atendimento padrão, cidade de atuação, e-mail, telefone, celular e CPF.
 
-    ![Painel Conta](../../../static/img/prints/01_dados-gerais-002.png)
+    ![Painel Conta](../../../static/img/prints/00_visao-conta-001.png)
 
 2. Após realizar as mudanças, certifique-se de salvar as alterações para que sejam efetivadas.
+
+:::warning
+    O campo **"Abordagem Terapêutica Padrão"** é exclusivo para psicólogos.
+:::
 
 :::tip Dica
 **Alterar senha:** Se desejar alterar sua senha basta preencher os campos "Senha" e "Repita a Senha".
