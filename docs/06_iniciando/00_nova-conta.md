@@ -57,3 +57,5 @@ O cadastro é rápido e **leva menos de 2 minutos**.
 
 Criar uma nova conta é o primeiro passo para aproveitar todas as vantagens e funcionalidades oferecidas pelo eConsult. Siga os passos acima e comece a explorar!
 
+> [Clique aqui para criar nova conta.](https://econsult.app.br/multidisciplinar)
+

@@ -19,8 +19,8 @@ O checklist fica disponível no **Painel Inicial**  no **PainelAlertas** sempre 
 A boa notícia é que o próprio eConsult se encarrega de configurar automaticamente algumas dessas recomendações/exigências para facilitar sua jornada inicial. São elas:
 
 - ***Recomendação* — Grupos por Idade:** O eConsult já vem com um cadastro completo de Grupos por Idade.
-- ***Exigência* — Formas de Pagamento:** O eConsult cadastra previamente diversas formas de pagamento.
-- ***Exigência* — Modelos de Anamnese:** O eConsult já oferece diversos modelos de anamnese pré-configurados de acordo com a sua especialidade, prontos para serem utilizados nos prontuários.
+- ***Exigência* — Formas de Pagamento:** O eConsult cadastra previamente diversas Formas de Pagamento.
+- ***Exigência* — Modelos de Anamnese:** O eConsult já oferece diversos Modelos de Anamnese pré-configurados de acordo com a sua especialidade, prontos para serem utilizados nos prontuários.
 
 ## Quer ir além?
 
@@ -36,7 +36,7 @@ Defina um valor sugerido automaticamente sempre que for criado um novo atendimen
 
 Configure facilmente seu próprio servidor SMTP para envio de e-mails diretamente pela plataforma.
 
-Isso permite que as mensagens aos clientes sejam enviadas usando seu domínio de e-mail.
+Isso permite que as mensagens aos clientes sejam enviadas usando seu próprio domínio de e-mail.
 
 - 👉 [Configurar seu SMTP](/docs/funcionalidades/configuracoes/integracoes/servidor-smtp)
 
@@ -48,19 +48,19 @@ A integração é simples, rápida e não requer conhecimentos técnicos.
 
 - 👉 [Configurar a integração com o Google Drive](/docs/funcionalidades/configuracoes/integracoes/googledrive)
 
-### **Integrar com o ChatGPT**
+### **Integrar com a OpenIA**
 
-O eConsult já conta com recursos nativos de Inteligência Artificial. Mas, se desejar, você pode integrar sua própria conta do ChatGPT e aproveitar funcionalidades personalizadas com seus próprios refinamentos.
+O eConsult já conta com recursos nativos de Inteligência Artificial (disponíveis conforme a versão). Caso prefira, você também pode integrar sua própria conta da OpenAI e utilizar as funcionalidades de IA de forma independente da versão do eConsult.
 
-A configuração é intuitiva, não exige conhecimentos avançados, e oferece liberdade para adaptar a IA ao seu estilo de trabalho.
+A configuração é intuitiva, não exige conhecimentos avançados.
 
-- 👉 [Configurar seu ChatGPT](/docs/funcionalidades/configuracoes/integracoes/chatgpt)
+- 👉 [Configurar sua conta da OpenIA](/docs/funcionalidades/configuracoes/integracoes/chatgpt)
 
 ### **Ativar o PIX como forma de recebimento**
 
-Ofereça o PIX como método de pagamento para seus clientes.
+Ofereça PIX como método de pagamento para seus clientes.
 
-Você poderá gerar QR Codes ou links de pagamento a partir da sua chave PIX.
+Você poderá gerar QR Codes ou links de pagamento a partir da sua chave própria chave PIX.
 
 - 👉 [Configurar seu PIX](/docs/funcionalidades/configuracoes/integracoes/pix)
 
@@ -68,6 +68,14 @@ Você poderá gerar QR Codes ou links de pagamento a partir da sua chave PIX.
 
 Conecte sua conta do Mercado Pago ao eConsult de forma prática.
 
-O processo é guiado passo a passo e não exige conhecimentos técnicos avançados.
+O processo é guiado com um passo a passo e não exige conhecimentos técnicos avançados.
 
 - 👉 [Configurar a integração com o Mercado Pago](/docs/funcionalidades/configuracoes/integracoes/mpago)
+
+### **Integrar com Focus NFe**
+
+O Focus NFe é uma plataforma de emissão e gestão de notas fiscais eletrônicas usada por empresas e sistemas que precisam automatizar a emissão de documentos fiscais no Brasil.
+
+Você pode integrar o eConsult com sua conta na Focus NFe. O processo é rápido e não exige conhecimentos técnicos avançados.
+
+- 👉 [Configurar a integração com a Focus NFe](#)
