@@ -14,12 +14,15 @@ O Painel Inicial exibe, primeiramente, alertas e informes importantes, destacand
 
 ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002.png)
 
-- **Sua conta:** Atalho para o Painel Conta.
 - **Atendimentos agendados para hoje:** Mostra a quantidade de atendimentos agendados para o dia atual.
 - **Anotação(ões) de confirmação pendente(s):** Mostra o número de confirmações de atendimentos pendentes e tem link para o painel Alertas.
 - **Anotação(ões) de realização pendente(s):** Mostra o número de anotações de realizado ou não realizado pendentes em atendimentos e tem link para o painel Alertas.
 - **Pagamento(s) em atraso:** Mostra o número de recebimentos pendentes e tem link para o painel Alertas.
 - **Cliente(s) ativo(s) sem e-mail, celular e/ou data de nascimento:** Mostra o número de cadasros de clientes ou grupos terapêuticos que não tem e-mails e/ou celular cadastrados.
+- **Exportar dados da conta:** Atalho para a tela que permite a exportação de todos os dados da sua conta (backup).
+- **Excluir conta:** Atalho para a tela que permite a exclusão da sua conta.
+- **Importar dados de conta:** Atalho para a tela que permite a importação de arquivo de dados de uma conta antiga.
+- **Sua conta:** Atalho para o Painel Conta.
 
 Além dos alertas e informações, o Painel Inicial oferece ainda atalhos rápidos para as principais funcionalidades do sistema. Esses atalhos foram projetados para facilitar a navegação e agilizar o acesso às ferramentas mais utilizadas, otimizando o fluxo de trabalho e a gestão das operações diárias.
 
