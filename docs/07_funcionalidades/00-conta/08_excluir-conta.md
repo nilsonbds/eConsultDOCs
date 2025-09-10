@@ -6,6 +6,10 @@ sidebar_position: 8
 
 A tela de exclusão de conta do sistema eConsult é utilizada quando você deseja remover permanentemente sua conta e todos os dados associados.
 
+Para acessar o painel **Excluir Conta**, acione a opção correspondente ![Conta](../../../static/img/prints/buttons/excluir_conta.png) na aba Dados Gerais.
+
+    ![Conta](../../../static/img/prints/00_visao-conta-002.png)
+
 :::warning
 - A exclusão da conta é permanente e irreversível.
 

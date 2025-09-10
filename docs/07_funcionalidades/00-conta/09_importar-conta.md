@@ -6,6 +6,10 @@ sidebar_position: 9
 
 A tela de restauração de conta do sistema eConsult permite que o usuário recupere seus dados utilizando o arquivo de backup gerado anteriormente (arquivo eConsultData.json).
 
+Para acessar o painel **Importar Dados de Conta**, acione a opção correspondente ![Conta](../../../static/img/prints/buttons/restaurar_dados_da_conta.png) na aba Dados Gerais.
+
+    ![Conta](../../../static/img/prints/00_visao-conta-002.png)
+
 ### Orientações importantes
 
 - **Verificação do arquivo:** certifique-se de que o arquivo selecionado é realmente o backup correto da conta que deseja restaurar.

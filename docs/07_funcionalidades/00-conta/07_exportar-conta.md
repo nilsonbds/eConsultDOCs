@@ -8,6 +8,10 @@ A tela "Exportar dados" (JSON) permite que você gere um arquivo contendo todas 
 
 Esse arquivo é útil como backup completo do seu ambiente e pode ser utilizado futuramente para restaurar sua conta no sistema.
 
+Para acessar o painel **Exportar Dados da Conta**, acione a opção correspondente ![Conta](../../../static/img/prints/buttons/exportar_dados_gerais_da_conta.png) na aba Dados Gerais.
+
+    ![Conta](../../../static/img/prints/00_visao-conta-002.png)
+    
 ## O que é exportado?
 
 O arquivo gerado terá o formato eConsultData.json, legível por máquina e interoperável.
