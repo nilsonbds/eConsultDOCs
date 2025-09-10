@@ -29,8 +29,6 @@ Com a anonimização, essas informações deixam de ser classificadas como dados
 
 ---
 
----
-
 ## Como a IA atua no eConsult
 
 A IA **não toma decisões por conta própria**: ela **sugere hipóteses, organiza informações e gera insights** para apoiar o profissional.
@@ -84,7 +82,7 @@ Os limites de uso variam conforme o plano contratado:
 
 - **Tokens de saída:** resposta gerada pela IA.  
 
-### Exemplo de Uso Mensal:
+#### Exemplo de Uso Mensal:
 
 - 8 anotações/dia (~400 tokens cada)  
 
@@ -112,9 +110,7 @@ Consumo estimado: **~85.000 tokens/mês**.
 
 ---
 
-## Diferenciais da IA do eConsult
-
-### Por que é única no mercado?
+## Por que a IA do eConsult é única no mercado?
 
 1. **Anotações Inteligentes e Contextualizadas**
    - Personalização por especialidade (psicologia, nutrição, terapias integrativas, etc) e propósito (relato, queixa, evolução, etc).  
@@ -134,7 +130,7 @@ Consumo estimado: **~85.000 tokens/mês**.
 
 ---
 
-## Comparativo com Outros Sistemas
+#### Comparativo com Outros Sistemas
 
 **Outros sistemas:**  
 - IA genérica, limitada a lembretes ou "autocompletar".  

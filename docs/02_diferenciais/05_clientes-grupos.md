@@ -18,7 +18,7 @@ Assim, o eConsult transforma o cadastro de clientes e grupos em um verdadeiro **
 
 ---
 
-## ✦ Cadastro de Clientes
+## Cadastro de Clientes
 
 No eConsult, cada cliente possui um **registro único e completo**. Esse cadastro vai muito além de armazenar nome e contato: ele funciona como o núcleo central de todas as informações relacionadas a essa pessoa.
 
@@ -38,7 +38,9 @@ A partir desse registro, além dos dados pessoais do cliente, o sistema organiza
 
 Com isso, o cadastro de clientes no eConsult deixa de ser apenas um formulário e se torna o ponto de integração entre prática clínica e gestão eficiente, oferecendo uma visão ampla e organizada de cada pessoa atendida.
 
-## ✦ Cadastro de Grupos Terapêuticos
+---
+
+## Cadastro de Grupos Terapêuticos
 
 No eConsult, cada grupo terapêutico é tratado como uma **entidade independente**, com registro próprio e organizado.
 
@@ -62,31 +64,31 @@ Assim, o cadastro de grupos terapêuticos no eConsult transforma a gestão colet
 
 ---
 
-## ✦ Centralização
+## Centralização
 
 Cada cadastro, seja de cliente ou de grupo, se torna o ponto central de gestão. Todas as informações — clínicas, financeiras e administrativas — ficam reunidas em um só lugar, facilitando a organização e eliminando a fragmentação de dados em planilhas ou sistemas paralelos.
 
 ---
 
-## ✦ Rastreabilidade
+## Rastreabilidade
 
 Cada ação realizada com aquele cliente ou grupo (atendimentos, pagamentos, ausências, relatórios, arquivos) é automaticamente vinculada ao registro correspondente. Isso garante histórico completo e confiável, evitando perda de informações e trazendo mais segurança para a prática profissional.
 
 ---
 
-## ✦ Visão clínica + administrativa
+## Visão clínica + administrativa
 
 O sistema integra de forma natural os dois lados da gestão: o clínico, com prontuários, relatórios e evolução terapêutica; e o administrativo, com faturas, créditos, perdas e indicadores. Assim, o profissional tem uma visão 360° do cliente ou grupo, unindo cuidado e organização.
 
 ---
 
-## ✦ Escalabilidade
+## Escalabilidade
 
 A mesma lógica de cadastro serve tanto para atendimentos individuais quanto para grupos terapêuticos. Isso torna o eConsult um sistema flexível e escalável, que cresce junto com a prática profissional, sem complicar os processos à medida que o número de clientes e grupos aumenta.
 
 ---
 
-## ✦ Segurança e Compromisso com a LGPD
+## Segurança e Compromisso com a LGPD
 
 O eConsult segue rigorosamente as diretrizes da Lei Geral de Proteção de Dados (LGPD), assegurando a privacidade e a segurança das informações de profissionais, clientes e grupos terapêuticos.
 
@@ -108,9 +110,7 @@ Com a anonimização, essas informações deixam de ser classificadas como dados
 
 ---
 
-## Diferenciais do Cadastro de Clientes e Grupos Terapêuticos
-
-### Por que se destaca no mercado?
+## Por as funcionalidades de Cadastro de Cliente e Grupos Terapêuticos do eConsult se destaca no mercado?
 
 A funcionalidade de **gestão de grupos terapêuticos**, principalmente, se destaca no mercado porque é algo que a maioria dos sistemas voltados para psicólogos simplesmente não oferece.
 
@@ -130,7 +130,9 @@ Na prática, isso significa mais **eficiência, segurança e clareza** para o ps
 
 Por isso, o recurso de gestão de grupos terapêuticos é um **diferencial competitivo** que posiciona o eConsult à frente de grande parte dos sistemas disponíveis no mercado.
 
-## Comparativo com Outros Sistemas
+---
+
+#### Comparativo com Outros Sistemas
 
 **Outros sistemas:**
 - Cadastro restrito a dados básicos de identificação.

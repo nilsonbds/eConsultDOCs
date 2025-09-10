@@ -12,7 +12,7 @@ Além disso, o eConsult mantém um **histórico completo de todos os prontuário
 
 ---
 
-## ✦ Histórico e Publicação de Prontuários
+## Histórico e Publicação de Prontuários
 
 O eConsult permite criar múltiplos prontuários para cada cliente, grupo terapêutico ou membro de um grupo. Você inicia a elaboração do prontuário e, ao finalizá-lo, ele é publicado e automaticamente registrado no histórico de prontuários, garantindo que todas as versões sejam preservadas.
 
@@ -20,7 +20,7 @@ Após a publicação, você pode escolher tornar o prontuário público, permiti
 
 ---
 
-## ✦ Componentes do Prontuário
+## Componentes do Prontuário
 
 No eConsult, o prontuário é criado a partir de um modelo de anamnese, estruturado para abranger todas as etapas do acompanhamento clínico. Ele é composto pelos seguintes blocos:
 
@@ -40,7 +40,7 @@ Todos os blocos e campos são totalmente personalizáveis durante a edição do 
 
 ---
 
-## ✦ Segurança e Compromisso com a LGPD
+## Segurança e Compromisso com a LGPD
 
 O eConsult segue rigorosamente as diretrizes da Lei Geral de Proteção de Dados (LGPD), assegurando a privacidade e a segurança das informações de profissionais, clientes e grupos terapêuticos.
 
@@ -62,7 +62,7 @@ Com a anonimização, essas informações deixam de ser classificadas como dados
 
 ---
 
-## ✦ Uso de Inteligência Artificial no Prontuário
+## Uso de Inteligência Artificial no Prontuário
 
 O **eConsult** incorpora recursos de **IA generativa** diretamente nos blocos Diagnóstico, Prognóstico, Plano de Tratamento e Evolução do Tratamento.
 
@@ -86,9 +86,7 @@ Esse recurso funciona como um suporte ao raciocínio clínico, auxiliando na org
 
 ---
 
-## Diferenciais do Prontuário Eletrônico do eConsult
-
-### Por que se destaca no mercado?
+## Por que a funcionalidade Prontuário Eletrônico do eConsult é única no mercado?
 
 1. **Prontuários Flexíveis e Personalizáveis**
   - Configurável por especialidade e tipo de atendimento (individual, casal, família, grupo terapêutico).
@@ -109,7 +107,9 @@ Esse recurso funciona como um suporte ao raciocínio clínico, auxiliando na org
 5. **Controle de Visibilidade**
   - Prontuários podem ser publicados, mantidos privados ou disponibilizados ao cliente/grupo conforme decisão do profissional.
 
-## Comparativo com Outros Sistemas
+---
+
+#### Comparativo com Outros Sistemas
 
 **Outros sistemas:**
   - Pouca ou nenhuma flexibilidade para grupos terapêuticos.

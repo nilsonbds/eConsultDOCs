@@ -12,7 +12,7 @@ Com ela, o profissional acompanha de forma analítica e visual o comportamento d
 
 ---
 
-## ✦ Monitoramento Inteligente de Engajamento
+## Monitoramento Inteligente de Engajamento
 
 O sistema utiliza dados históricos de **atendimento, frequência, pagamentos e interações** para gerar scores de engajamento.  
 
@@ -24,7 +24,7 @@ Esses indicadores permitem identificar:
 
 ---
 
-## ✦ Insights de Retenção e Recorrência
+## Insights de Retenção e Recorrência
 
 O painel classifica automaticamente os pacientes em diferentes níveis de interação:
 
@@ -42,7 +42,7 @@ Essas informações possibilitam ações estratégicas, como:
 
 ---
 
-## ✦ Visualização no Painel de Resultados
+## Visualização no Painel de Resultados
 
 Na seção **“Análise de Score”**, gráficos e indicadores apresentam de forma clara:
 
@@ -52,7 +52,7 @@ Na seção **“Análise de Score”**, gráficos e indicadores apresentam de fo
 
 ---
 
-## ✦ Valor Clínico e Administrativo
+## Valor Clínico e Administrativo
 
 A Análise de Score contribui diretamente para:
 
@@ -62,7 +62,7 @@ A Análise de Score contribui diretamente para:
 
 ---
 
-## ✦ Combinando com Outros Recursos do eConsult
+## Combinando com Outros Recursos do eConsult
 
 Combinada a módulos como **agenda, prontuário e gestão financeira**, a Análise de Score transforma o eConsult em um verdadeiro **hub estratégico**, unindo:
 
@@ -72,9 +72,9 @@ Combinada a módulos como **agenda, prontuário e gestão financeira**, a Análi
 
 ---
 
-# Por que a Análise de Score do eConsult é única?
+## Por que a funcionlidade de Análise de Score do eConsult é única no mercado?
 
-### 1. Gestão de Engajamento Clínico
+1. **Gestão de Engajamento Clínico**
 - Diferente da maioria dos sistemas, não se limita a agendamento ou prontuário.  
 - Permite acompanhar frequência, cancelamentos e continuidade no tratamento.  
 - Gera ações proativas, como:
@@ -82,35 +82,35 @@ Combinada a módulos como **agenda, prontuário e gestão financeira**, a Análi
   - Detecção precoce de abandono.  
   - Apoio na definição da periodicidade dos encontros.  
 
-### 2. Estratégias de Fidelização
+2. **Estratégias de Fidelização**
 - Psicólogos autônomos costumam perder pacientes por falta de follow-up estruturado.  
 - O score sinaliza quem está prestes a “sumir do radar”, permitindo agir antes da evasão.  
 
-### 3. Equilíbrio entre Cuidado Clínico e Negócio
+3. **Equilíbrio entre Cuidado Clínico e Negócio**
 - Oferece métricas objetivas de engajamento.  
 - Apoia a **saúde financeira** e a **sustentabilidade** do consultório.  
 
-### 4. Complemento a Outras Ferramentas
+4.** Complemento a Outras Ferramentas**
 - Ao integrar-se a **agenda, prontuário, avaliações psicológicas e IA**, fecha o ciclo:  
   do cuidado clínico à **gestão estratégica do consultório**.  
 
 ---
 
-## ✦ Comparação com Outros Sistemas
+#### Comparativo com Outros Sistemas
 
-##### Outros sistemas do mercado  
+**Outros sistemas:** 
 - Limitam-se a relatórios financeiros ou de agendamentos passados.  
 - Não oferecem análise preditiva nem suporte ao reengajamento.  
 - Focam apenas na operação (agenda e pagamentos), sem visão estratégica.  
 
-##### eConsult  
+**eConsult:**   
 - Utiliza dados reais de frequência, pagamentos e interações.  
 - Classifica pacientes em **ativos, inativos ou em risco de abandono**.  
 - Disponibiliza gráficos e indicadores visuais no painel.  
 - Permite ações estratégicas: lembretes, convites e campanhas.  
 - Atua como ferramenta de **gestão clínica e comercial** ao mesmo tempo.  
 
-### O que isso representa na prática?
+#### O que isso representa na prática?
 
 Enquanto outros sistemas apenas **registram o passado**, o eConsult **antecipa movimentos** e orienta decisões com base em dados inteligentes.  
 

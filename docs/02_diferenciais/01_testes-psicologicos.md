@@ -18,7 +18,7 @@ A funcionalidade **Avaliações Psicológicas** é **exclusiva para psicólogos*
 
 ---
 
-## ✦ Avaliações Baseadas em Evidências
+## Avaliações Baseadas em Evidências
 
 O eConsult oferece instrumentos validados e de uso livre para psicólogos para avaliar:
 
@@ -34,7 +34,7 @@ O eConsult oferece instrumentos validados e de uso livre para psicólogos para a
 
 ---
 
-## ✦ Regras e Conformidade
+## Regras e Conformidade
 
 O eConsult cumpre todas as exigências legais e éticas para uso de instrumentos psicológicos:
 
@@ -56,7 +56,7 @@ O eConsult cumpre todas as exigências legais e éticas para uso de instrumentos
 
 ---
 
-## ✦ Diferenciais do eConsult
+## Diferenciais do eConsult
 
 - **Aplicação digital e automatizada** → elimina papéis e erros manuais  
 - **Interpretação imediata** → relatórios prontos no prontuário do paciente  
@@ -70,32 +70,30 @@ O eConsult transforma as avaliações em **parte estratégica do cuidado clínic
 
 ---
 
-## ✦ Comparando com Outros Sistemas
+#### Comparativo com Outros Sistemas
 
 A funcionalidade de aplicação de avaliações psicológicas integradas ao prontuário, com interpretação automática e embasamento científico, posiciona o eConsult à frente da maioria dos sistemas voltados a psicólogos.
 
-##### Outros sistemas do mercado
-
+**Outros sistemas:**  
 - Poucos oferecem avaliações psicológicas integradas à plataforma.
 - Quando disponíveis, costumam estar em formatos genéricos, sem validação científica ou sem automação de pontuação e interpretação.
 - Muitos sistemas evitam incluir avaliações por questões regulatórias, deixando o profissional sem ferramentas estruturadas de avaliação.
 - Os que oferecem algo similar raramente organizam os resultados no prontuário ou os vinculam à evolução do paciente.
 
-##### eConsult
-
+**eConsult:**
 - Oferece um portfólio completo de escalas de uso livre e validadas, como PHQ-9, GAD-7, SRQ-20, K10, WHO-5, AUDIT, Plutchik, entre outras.
 - Aplicação 100% digital, com pontuação automática e relatório interpretativo instantâneo.
 - Resultados ficam salvos no prontuário do paciente, organizados e prontos para consultas futuras.
 - Respeita os critérios éticos do CFP: acesso restrito a psicólogos registrados, com uso responsável e dentro dos limites legais.
 - Permite aplicação prática em contexto clínico com foco na eficiência e profundidade diagnóstica.
 
-##### O que isso representa na prática?
+#### O que isso representa na prática?
 
 Enquanto outros sistemas deixam o psicólogo depender de avaliações em papel, PDFs soltos ou ferramentas externas, o eConsult entrega uma solução completa, integrada, ética e baseada em evidências — economizando tempo, elevando a qualidade da avaliação e fortalecendo a tomada de decisão clínica.  
 
 ---
 
-## ✦ Avaliações Disponíveis
+## Avaliações Disponíveis
 
 ##### Afeto
 - **PANAS** – Positive and Negative Affect Schedule  
