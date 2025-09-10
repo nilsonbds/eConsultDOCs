@@ -54,8 +54,11 @@ Em "Padrões para Atendimentos", o parâmetro "Valor Padrão de Atendimentos" é
 O uso de mensagens padronizadas é uma estratégia essencial para otimizar a comunicação com clientes e melhorar a eficiência dos atendimentos. Ao adotar mensagens predefinidas, garante-se agilidade nas interações, padronização da linguagem e um atendimento mais organizado e profissional.
 
 - **Notificações de cobrança:** As notificações de cobrança ajuda a lembrar os clientes sobre pagamentos devidos, reduzindo o risco de inadimplência e mantendo o fluxo de caixa da organização estável. Essas notificações podem ser enviadas em diferentes momentos, como antes do vencimento da fatura, no dia do vencimento e após o vencimento, em caso de atraso.
+
 - **Notificações de registro de pagamentos:** As notificações de registro de pagamentos é uma prática importante para manter uma comunicação transparente com os clientes. Isso também auxilia na conciliação financeira, garantindo que todos os pagamentos sejam devidamente registrados e conhecidos.
+
 - **Texto padrão para recibos:** Estabelecer um texto padrão para recibos assegura que todas as informações necessárias sejam incluídas de forma clara e consistente. Esse texto pode incluir detalhes como a descrição dos serviços prestados, o valor total, a data de pagamento, e quaisquer outras informações relevantes.
+
 - **Outros textos padrões para recibos:** Além do texto padrão principal, é possível definir outros textos padrões. Isso é importante porque você pode precisar de recibos com textos diferenciados, adaptados ao perfil do cliente. Dessa forma, você pode personalizar a comunicação, garantindo que ela esteja alinhada com as necessidades e expectativas de diferentes tipos de clientes.
 
 ## Regras de Cobrança

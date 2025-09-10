@@ -41,7 +41,7 @@ Uma vez acionada a opção **PIX** o sistema abrirá a seguinte tela:
             É importante destacar que o status do pagamento permanecerá como 'Aguardando Pagamento' até que você registre manualmente no sistema que o cliente efetuou o pagamento. Por isso, recomenda-se orientar o cliente a enviar o comprovante assim que realizar o pagamento, já que a atualização do status não é feita de forma automática.
         :::
 
-## Configurar su PIX no eConsult
+## Configurar seu PIX no eConsult
 
 1. Cadastre as informações de seu PIX no eConsult
 

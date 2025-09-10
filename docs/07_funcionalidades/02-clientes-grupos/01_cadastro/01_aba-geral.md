@@ -49,5 +49,11 @@ Os demais campos (informações de contato ou o responsável pelo grupo) são op
     :::note
         As regras de cobrança podem ser cadastradas na tela Regras de Cobrança do painel de configuração do sistema.
     :::
-- **Área do cliente:** Indica que permissões o cliente pode ter acesso em sua área.
+- **Área do cliente:** Indica que permissões o cliente pode ter acesso em sua Área do Cliente.
     ![Permissões Área do cliente](../../../../static/img/prints/areacliente/001.png)
+
+:::tip
+- Você pode visualizar a área do cliente através do botão "Abrir Área do Cliente" ![Área do Cliente](../../../../static/img/prints/buttons/area_do_cliente.png).
+
+- Você pode eviar o link da Área do Cliente para o cliente ou Grupo, por WhatsApp ou Email, através do grupo de botões específico ![Área do Cliente](../../../../static/img/prints/buttons/enviar_link_area_do_cliente.png).
+:::

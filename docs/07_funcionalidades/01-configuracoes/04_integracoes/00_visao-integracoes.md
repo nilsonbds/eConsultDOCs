@@ -22,13 +22,21 @@ Essa configuração permite que notificações, comunicados e outros tipos de me
 
 Com essa integração, documentos, imagens e relatórios ficam sempre acessíveis diretamente pela plataforma, garantindo mais segurança, organização e praticidade no compartilhamento com seus clientes.
 
-## ChatGPT
+## OpenAI
 
-**O eConsult já fornece serviços de IA nativamente, mas você pode configurar facilmente uma integração do eConsult com seu ChatGPT, sem necessidade de conhecimentos técnicos avançados.**
+**O eConsult já fornece serviços de IA nativamente, mas você pode configurar facilmente uma integração do eConsult com a sua conta OpenAI, sem necessidade de conhecimentos técnicos avançados.**
 
-Com essa integração, você poderá utilizar a inteligência artificial do seu próprio ChatGPT, mantendo todas as configurações personalizadas, preferências e refinamentos que você definiu na sua conta do ChatGPT.
+Com essa integração, você poderá utilizar a inteligência artificial da sua conta OpenAI, preservando todas as configurações, preferências e ajustes personalizados que definiu.
 
 Essa opção é ideal para quem já utiliza o ChatGPT de forma recorrente e deseja incorporar seus fluxos de trabalho personalizados diretamente no eConsult.
+
+## Daily
+
+**Integre sua conta Daily.co ao eConsult e ofereça teleatendimentos de forma simples e eficiente.**
+
+Com essa integração, você poderá realizar atendimentos remotos diretamente pelo eConsult, utilizando toda a infraestrutura de videoconferência da Daily.co.
+
+Essa solução é perfeita para profissionais que atendem pacientes à distância, garantindo agilidade, segurança e qualidade nas consultas online.
 
 ## PIX
 
@@ -41,4 +49,12 @@ Ao conectar sua chave à plataforma, você permite que os pagamentos sejam reali
 **Configure a integração do Mercado Pago com o eConsult para ampliar as opções de pagamento disponíveis aos seus clientes.**
 
 Com essa integração, você pode gerar cobranças diretamente pela plataforma, aceitar cartões, boletos e PIX com segurança, além de acompanhar os recebimentos de forma centralizada, facilitando a gestão financeira da sua operação.
+
+## Focus NFe
+
+**Integre sua conta Focus NFe ao eConsult e simplifique a emissão de notas fiscais eletrônicas.**
+
+Com essa integração, você poderá gerar, enviar e gerenciar suas notas fiscais diretamente pelo eConsult, aproveitando toda a eficiência e confiabilidade do Focus NFe.
+
+Essa solução é ideal para profissionais que desejam automatizar a gestão fiscal e garantir conformidade com a legislação, sem sair do sistema eConsult.
 
