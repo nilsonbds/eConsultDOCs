@@ -2,11 +2,11 @@
 sidebar_position: 6
 ---
 
-# Aba Desmarcações e Remarcações
+# Aba Remarcações e Desmarcações
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-desmarcacao-remarcacao.png)
 
-A aba Desmarcações e Remarcações exibe o histórico detalhado de todas as desmarcações e remarcações de atendimentos do cliente.
+A aba Remarcações e Desmarcações exibe o histórico detalhado de todas as remarcações e desmarcações de atendimentos do cliente.
 
 A aba conta com filtros mês e ano, permitindo uma visualização segmentada dos registros dentro de períodos específicos.
 

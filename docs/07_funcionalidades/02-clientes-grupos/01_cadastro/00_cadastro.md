@@ -42,7 +42,7 @@ O cadastro foi pensado para reunir, em um único lugar, todas as informações e
 
     Exibe um **histórico detalhado de todos os atendimentos** já realizados — data, horário, modalidade (presencial ou online) e profissional responsável. **É aqui que você acompanha a evolução clínica, identifica padrões e planeja as próximas etapas.
 
-6. **Aba Desmarcações e Remarcações**
+6. **Aba Remarcações e Desmarcações**
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-desmarcacao-remarcacao.png)
 
