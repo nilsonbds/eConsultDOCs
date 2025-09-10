@@ -54,7 +54,7 @@ O eConsult já conta com recursos nativos de Inteligência Artificial (disponív
 
 A configuração é intuitiva, não exige conhecimentos avançados.
 
-- 👉 [Configurar sua conta da OpenIA](/docs/funcionalidades/configuracoes/integracoes/chatgpt)
+- 👉 [Configurar sua conta da OpenIA](/docs/funcionalidades/configuracoes/integracoes/openai)
 
 ### **Ativar o PIX como forma de recebimento**
 

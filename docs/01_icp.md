@@ -234,7 +234,7 @@ Conte com o apoio da IA para gerar anotações inteligentes, hipóteses diagnós
 
 - Análises Anuais com Visão Estratégica
 
-  *👉 [Mais sobre IA no eConsult.](/docs/funcionalidades/configuracoes/integracoes/chatgpt)*
+  *👉 [Mais sobre IA no eConsult.](/docs/funcionalidades/configuracoes/integracoes/openai)*
 
 ### Gestão de Faturas e Recibos
 
