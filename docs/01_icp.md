@@ -224,11 +224,15 @@ Aplique, registre e acompanhe com praticidade avaliações psicológicas digitai
 
 ### Inteligência Artificial Integrada
 
-Conte com o apoio da IA para gerar anotações inteligentes, hipóteses diagnósticas, análises mensais e visões estratégicas anuais. Um verdadeiro assistente digital para ampliar sua precisão e produtividade.
+Conte com o apoio da IA para gerar anotações inteligentes, hipóteses diagnósticas, hipóteses prognósticas, planos de tratamento, evoluções terapêuticas, análises mensais e visões estratégicas anuais. Um verdadeiro assistente digital para ampliar sua precisão e produtividade.
 
-- Anotações inteligentes em atendimentos com respostas no contexto profissional
+- Anotações clínicas inteligentes em atendimentos com respostas que levam em consideração propósito e contexto profissional
 
-- Hipóteses Diagnósticas e Prognósticas 
+- Hipóteses Diagnósticas e Prognósticas
+
+- Planos de Tratamentos
+
+- Evoluções Terapêuticas
 
 - Análises Mensais com Insights
 
@@ -236,19 +240,21 @@ Conte com o apoio da IA para gerar anotações inteligentes, hipóteses diagnós
 
   *👉 [Mais sobre IA no eConsult.](/docs/funcionalidades/configuracoes/integracoes/openai)*
 
-### Gestão de Faturas e Recibos
+### Gestão de Faturas, Recibos e Notas Fiscais
 
-Automatize a emissão de faturas e recibos com opções personalizadas. Facilite os processos de reembolso e atendimento a convênios com um sistema ágil e confiável.
+Automatize a emissão de faturas, recibos e notas fiscais com opções personalizadas. 
 
 - Emissão automática e controle de faturas  
 
-- Recibos personalizados  
+- Recibos personalizados
 
-- Adequado para convênios e reembolsos
+- Anotação e emissão de Notas Fiscais
 
 ### Financeiro Integrado
 
-Tenha total controle do seu fluxo de caixa com relatórios atualizados em tempo real. Gerencie suas finanças de forma unificada e simplificada, tudo em um só lugar.
+Tenha total controle do seu fluxo de caixa com relatórios atualizados em tempo real. 
+
+Gerencie suas finanças de forma unificada e simplificada, tudo em um só lugar.
 
 - Visão completa do fluxo de caixa  
 

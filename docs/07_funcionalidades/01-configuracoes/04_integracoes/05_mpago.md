@@ -7,6 +7,18 @@ sidebar_position: 5
 **Configure a integração do seu Mercado Pago com a plataforma eConsult para ampliar suas opções de pagamento e facilitar a gestão financeira do seu negócio.
 Essa integração permite que você receba pagamentos de forma prática e segura por meio da conta Mercado Pago, diretamente pelo sistema eConsult, otimizando o processo de cobrança e reduzindo tarefas manuais.**
 
+:::note
+✅ **Vantagem**: Você recebe confirmação automática de pagamentos em tempo real pelo webhook do Mercado Pago.
+
+✅ **Vantagem**: Você não precisa se preocupar em atualizar o status da cobrança.
+
+✅ **Vantagem**: Você pode ofertar a seus clientes várias formas de pagamento (PIX, Cartão de Crédito, Boleto, Link, etc.)
+
+❌ **Desvantagem**: Há taxas do Mercado Pago (normalmente 0,99% a 1,99%).
+
+❌ **Desvantagem**: Dinheiro não cai diretamente na sua conta bancária (tem que transferir do Mercado Pago).
+:::
+
 Além de aumentar a agilidade nas operações, a funcionalidade permite a geração de links de pagamento personalizados, acompanhamento do status das transações de forma automática e centralização das informações financeiras em um só lugar.
 
 Com a integração ao Mercado Pago, você oferece mais flexibilidade aos seus clientes, reduz a inadimplência e proporciona uma experiência de pagamento moderna e confiável.
@@ -35,8 +47,10 @@ Uma vez acionada a opção **Mercado Pago** o sistema abrirá a seguinte tela:
 
         ![Painel Configurações](../../../../static/img/prints/mpago/mpago-004.png)
 
-    :::note
-        É importante destacar que o status do pagamento será atualizado automaticamente assim que o cliente efetuar o pagamento, desde que o webhook do eConsult esteja devidamente cadastrado na plataforma do Mercado Pago. Caso contrário, o status permanecerá como 'Aguardando Pagamento' até que o registro seja feito manualmente no sistema.
+    :::warning **Importante**
+        O status do pagamento será atualizado **automaticamente** assim que o cliente concluir a transação, desde que o **webhook do eConsult esteja corretamente configurado na plataforma do Mercado Pago**.
+
+        Caso o webhook não esteja ativo, o status permanecerá como **“Aguardando Pagamento”** até que a confirmação seja realizada manualmente no sistema.
 :::
 
 ## Configurar meu Mercado Pago no eConsult
@@ -119,7 +133,7 @@ Uma vez acionada a opção **Mercado Pago** o sistema abrirá a seguinte tela:
 
     - Vá para o Mercado Pago, e abra a aba "Webhooks".
 
-        ![Painel Configurações](../../../../static/img/prints/mpago/mpago-015.png).
+        ![Painel Configurações](../../../../static/img/prints/mpago/mpago-015.png)
  
     - Clique no botão "Configurar notificações" ![Painel Configurações](../../../../static/img/prints/mpago/mpago-016.png).
     
@@ -127,14 +141,14 @@ Uma vez acionada a opção **Mercado Pago** o sistema abrirá a seguinte tela:
 
     - Clique na opção "Modo de Produção".
 
-        ![Painel Configurações](../../../../static/img/prints/mpago/mpago-017.png).
+        ![Painel Configurações](../../../../static/img/prints/mpago/mpago-017.png)
 
     - Preencha o campo "URL de produção" com a url "https://econsultapp.com/invoice/mpago/webhook" (copiado anteriormente).
 
-        ![Painel Configurações](../../../../static/img/prints/mpago/mpago-018.png).
+        ![Painel Configurações](../../../../static/img/prints/mpago/mpago-018.png)
 
     - Marque a opção "Pagamentos" e acione o botão "Salvar configurações".
 
-        ![Painel Configurações](../../../../static/img/prints/mpago/mpago-019.png).
+        ![Painel Configurações](../../../../static/img/prints/mpago/mpago-019.png)
 
 Pronto! Sua integração está feita.

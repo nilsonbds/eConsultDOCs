@@ -6,11 +6,17 @@ sidebar_position: 6
 
 **Configure a integração com o seu PIX na plataforma eConsult para facilitar transações financeiras e otimizar o processo de cobrança e recebimento em seu ambiente de trabalho.**
 
-Essa integração permite que você receba pagamentos de forma rápida e segura diretamente pelo sistema, eliminando etapas manuais e reduzindo o tempo de processamento.
+:::note
+✅ **Vantagem**: sem taxas de intermediação.
 
-Além de oferecer mais agilidade nas operações, a funcionalidade permite gerar QR Codes para pagamentos e acompanhar o status de cada transação em tempo real.
+❌ **Desvantagem**: não há como confirmar automaticamente → o psicólogo precisa fazer controle manual (olhar extrato e marcar no sistema).
+:::
 
-Com a integração PIX, você melhora a gestão financeira, reduz a inadimplência e proporciona uma experiência de pagamento mais prática e moderna para seus clientes.
+Com essa integração, você pode receber pagamentos diretamente em sua **chave PIX**, de forma rápida, segura e sem burocracia.
+
+A funcionalidade possibilita a **emissão de QR Codes personalizados** para cada cobrança, além do **acompanhamento em tempo real do status das transações**, trazendo mais controle e transparência.
+
+Ao adotar o PIX no seu dia a dia, você **otimiza a gestão financeira**, reduz o risco de inadimplência e ainda oferece aos seus clientes uma **experiência de pagamento prática, moderna e alinhada às novas formas de consumo**.
 
 A página de configuração do PIX pode ser acessada através do [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) opção **PIX**.
 
@@ -36,9 +42,9 @@ Uma vez acionada a opção **PIX** o sistema abrirá a seguinte tela:
 
         ![Painel Configurações](../../../../static/img/prints/pix/pix-004.png)
 
-        :::note
-
-            É importante destacar que o status do pagamento permanecerá como 'Aguardando Pagamento' até que você registre manualmente no sistema que o cliente efetuou o pagamento. Por isso, recomenda-se orientar o cliente a enviar o comprovante assim que realizar o pagamento, já que a atualização do status não é feita de forma automática.
+        :::warning **Importante** 
+            O status do pagamento permanecerá como **“Aguardando Pagamento”** até que você registre manualmente no sistema a confirmação do recebimento.
+            Por isso, recomendamos que você oriente o cliente a **enviar o comprovante do PIX assim que concluir o pagamento**, garantindo maior agilidade na conferência, já que a atualização do status **não ocorre de forma automática**.
         :::
 
 ## Configurar seu PIX no eConsult
