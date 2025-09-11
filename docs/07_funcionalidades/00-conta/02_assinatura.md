@@ -16,13 +16,13 @@ Na tela **Assinatura** é possível ver informações da sua assinatura atual e 
 
 ![Painel Conta](../../../static/img/prints/02_assinatura-002.png)
 
-:::note Vantagens da Assinatura eConsultTRIAL
+:::note Vantagens da Assinatura TRIAL
 - **Teste Completo:** Permite que os usuários explorem todas as funcionalidades do eConsult (menos cadastro e gestão de cashbacks e assistentes), ajudando a determinar se ele atende às suas necessidades.
 - **Sem Compromisso Inicial:** Os usuários podem experimentar o produto sem a necessidade de um investimento financeiro imediato, reduzindo o risco de insatisfação.
 - **Facilidade de Decisão:** Ao utilizar a versão TRIAL, os usuários podem tomar uma decisão mais informada sobre a aquisição da assinatura paga.
 :::
 
-## Assinatura eConsultTRIAL
+## Assinatura TRIAL
 
 - **Cadastro:** O usuário cria uma conta no eConsult, fornecendo informações básicas (não são solicitadas informações de cartão de crédito).
 - **Período de teste:** O usuário tem acesso completo ao eConsult por um período de 30 dias.
@@ -59,7 +59,7 @@ Você pode escolher entre os planos disponíveis nas versões PRO, PLUS ou PREMI
 7. Proceda o pagamento em sua instituição financeira.
 
 :::warning   
-O eConsult **não solicita informações de pagamento**, como cartão de crédito. Os pagamentos das assinaturas PRO são realizados **exclusivamente via PIX** no momento da aquisição. A vigência da assinatura é imediata após a confirmação do pagamento.
+O eConsult **não solicita informações de pagamento**, como cartão de crédito. Os pagamentos das assinaturas PRO, PLUS e PREMIUM são realizados **exclusivamente via PIX** no momento da aquisição. A vigência da assinatura é imediata após a confirmação do pagamento.
 :::
 
 :::note
