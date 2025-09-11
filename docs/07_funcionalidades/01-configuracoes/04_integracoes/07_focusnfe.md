@@ -4,7 +4,8 @@ sidebar_position: 7
 
 # Focus NFe
 
-A integração do **eConsult** com a **Focus NFe** permite a automatização da emissão de notas fiscais de serviços diretamente pelo sistema, sem precisar alternar entre diferentes plataformas. Essa funcionalidade é ideal para profissionais que desejam otimizar o processo administrativo, garantindo mais eficiência e segurança no controle fiscal de seus atendimentos.
+A integração do **eConsult** com a **Focus NFe** permite a automatização da emissão de notas fiscais de serviços diretamente pelo sistema, sem precisar alternar entre diferentes plataformas. Essa funcionalidade é ideal para profissio
+nais que desejam otimizar o processo administrativo, garantindo mais eficiência e segurança no controle fiscal de seus atendimentos.
 
 ![Focus NFe](../../../../static/img/prints/focusnfe/focusnfe_001.png)
 
