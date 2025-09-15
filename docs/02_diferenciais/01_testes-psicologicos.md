@@ -102,9 +102,9 @@ Enquanto outros sistemas deixam o psicólogo depender de avaliações em papel, 
 ##### Ansiedade e Fobia Social
 - **BAI** – Beck Anxiety Inventory  
 - **GAD-7** – Generalized Anxiety Disorder-7  
-- ***(Em breve)*** CAS – Coronavirus Anxiety Scale  
-- ***(Em breve)*** FNE – Fear of Negative Evaluation Scale  
-- ***(Em breve)*** SPIN – Social Phobia Inventory  
+- **CAS** – Coronavirus Anxiety Scale  
+- **FNE** – Fear of Negative Evaluation Scale  
+- **SPIN** – Social Phobia Inventory  
 
 ##### Apoio Social
 - **MSPSS** – Multidimensional Scale of Perceived Social Support  
@@ -122,7 +122,7 @@ Enquanto outros sistemas deixam o psicólogo depender de avaliações em papel, 
 - **WHO-5** – Well-Being Index  
 
 ##### Burnout
-- ***(Em breve)*** CBI – Copenhagen Burnout Inventory  
+- **CBI** – Copenhagen Burnout Inventory  
 
 ##### Cognição
 - **MoCA** – Montreal Cognitive Assessment  
