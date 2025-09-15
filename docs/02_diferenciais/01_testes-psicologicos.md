@@ -147,7 +147,7 @@ Enquanto outros sistemas deixam o psicólogo depender de avaliações em papel, 
 - **WHODAS 2.0** – Disability Assessment Schedule  
 
 ##### Funções Executivas
-- ***(Em breve)*** BDEFS-SF – Barkley Deficits in Executive Functioning Scale  
+- **BDEFS-SF** – Barkley Deficits in Executive Functioning Scale  
 
 ##### Mindfulness
 - ***(Em breve)*** FFMQ – Five Facet Mindfulness Questionnaire  
