@@ -132,8 +132,8 @@ Enquanto outros sistemas deixam o psicólogo depender de avaliações em papel, 
 - **EPL** – Escala de Procrastinação de Lay  
 
 ##### Crianças e Adolescentes
-- ***(Em breve)*** PSC-17 – Pediatric Symptom Checklist (17 itens)  
-- ***(Em breve)*** CES-DC – Depression Scale for Children  
+- **PSC-17** – Pediatric Symptom Checklist  
+- **CES-DC** – Depression Scale for Children  
 
 ##### Depressão
 - **PHQ-9** – Patient Health Questionnaire-9  
