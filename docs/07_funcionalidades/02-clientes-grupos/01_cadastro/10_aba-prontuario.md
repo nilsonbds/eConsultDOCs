@@ -119,9 +119,7 @@ O prontuário é elaborado a partir de um Modelo de Anamnese previamente configu
    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_009.png).
 
 :::note
-A opção **Visualizar Prontuário**  
-![Prontuário](../../../../static/img/prints/prontuario/prontuario_006.png)  
-abre o prontuário em **modo de visualização apenas**, ou seja, não será possível editá-lo.
+A opção **Visualizar Prontuário** ![Prontuário](../../../../static/img/prints/prontuario/prontuario_007.png) abre o prontuário em **modo de visualização apenas**, ou seja, não será possível editá-lo.
 :::
 
 :::warning
