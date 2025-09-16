@@ -96,7 +96,7 @@ Você pode selecionar um atendimento ou fatura qualquer e proceder um pagamento 
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-028.png)
 
-## Excluir um débito de um "CRÉDITO ANTECIPADO"
+## Excluir um débito de um Crédito Antecipado
 
 1. Na aba "Créditos e Perdas", no *card* do débito respectivo, acione a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-delete.png).
 
