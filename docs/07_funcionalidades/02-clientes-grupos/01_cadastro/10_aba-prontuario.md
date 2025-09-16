@@ -6,93 +6,137 @@ sidebar_position: 10
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-prontuario.png)
 
-A aba **Prontuário** reúne, de forma sistematizada e organizada, todas as informações relevantes sobre os atendimentos realizados, seja a indivíduos ou grupos. Trata-se de um instrumento essencial para garantir a continuidade do cuidado, a qualidade dos serviços prestados e o cumprimento de funções legais, administrativas e científicas.
+A aba **Prontuário**, localizada no painel **Clientes e Grupos**, concentra todas as informações clínicas e administrativas referentes ao acompanhamento de clientes ou grupos terapêuticos.
 
-O prontuário pode conter dados pessoais, anamnese, testes psicológicos, histórico clínico, exames, diagnósticos, prescrições, anotações, evolução do quadro e outros registros pertinentes. Sua elaboração deve seguir normas técnicas e éticas, assegurando **confidencialidade, precisão e clareza**.
+No **eConsult**, é possível cadastrar **múltiplos prontuários** para um mesmo cliente ou grupo, permitindo maior flexibilidade na organização dos registros.
 
-No **eConsult**, o prontuário é estruturado a partir de um modelo de anamnese previamente configurado, oferecendo agilidade no registro e facilitando a integração entre profissionais e clientes. A plataforma adota medidas rigorosas de **segurança da informação**, com controle de acesso e proteção robusta dos dados.
+Os prontuários podem estar em dois estágios:
 
-Sob o ponto de vista legal, o prontuário é um **documento oficial**, podendo ser utilizado como prova judicial — tanto em defesa do cliente quanto do profissional. Por isso, é fundamental que os registros sejam feitos com **exatidão e responsabilidade**.
+- **Prontuário em Elaboração:** em fase de construção, ainda não publicado, visível apenas ao profissional responsável.
 
-Além da função assistencial e jurídica, o prontuário tem grande valor na **educação e na pesquisa científica**, contribuindo para a análise de casos, o aprimoramento das práticas clínicas e o desenvolvimento de novas abordagens terapêuticas.
+- **Prontuários Publicados:** já concluídos e salvos, podendo ser:
 
-Confira os principais recursos disponibilizados no Prontuário:
+    - **Privados** – acessíveis apenas pelo profissional.
 
-### **Anamnese**
-Permite ao profissional registrar de forma estruturada as informações iniciais do cliente ou grupo, como queixas principais, histórico de saúde, antecedentes familiares, hábitos de vida e outros dados relevantes para o entendimento global do caso. A anamnese é o ponto de partida para um atendimento qualificado, servindo como base para avaliações futuras e para a construção de um plano de cuidado personalizado.
+    - **Públicos** – acessíveis ao cliente, desde que o profissional disponibilize o acesso.
 
-### **Avaliações psicológicas**
-Permite aplicar e registrar avaliações psicológicas validadas pelo CFP diretamente na plataforma. Inclui escalas como BDI, BAI, SDQ, CD-RISC, entre outras, com resultados automaticamente integrados ao prontuário do cliente.
+Essa estrutura garante que o profissional tenha liberdade para organizar diferentes versões ou fases do prontuário, mantendo controle total sobre o que é compartilhado.
 
-São as avaliações possíveis:
+---
 
-### **Histórico de Atendimentos**
-Permite registrar todos os atendimentos realizados, com datas e horários detalhados. Isso oferece uma linha do tempo clara da trajetória do cliente ou grupo, facilitando o entendimento da evolução dos casos e auxiliando na tomada de decisões.
+## Importância do Prontuário
 
-### **Arquivos**
-Disponibiliza a visualização de arquivos vinculados. Esses documentos ficam acessíveis por meio de links de download, garantindo que todas as informações relevantes estejam sempre disponíveis para o profissional e para as pessoas com quem ele optar por compartilhá-las.
+O prontuário no eConsult cumpre funções assistenciais, jurídicas, administrativas e científicas.
 
-### **Anotações e Observações**
-O profissional pode adicionar anotações diretamente no prontuário, com a possibilidade de incluir campos personalizados conforme suas necessidades. Também é possível consultar observações registradas em atendimentos anteriores, contribuindo para um acompanhamento mais preciso e embasado.
+Ele pode conter:
 
-### **Inteligência Artificial Gerando Hipóteses**
-O profissional pode contar com o apoio da inteligência artificial para gerar hipóteses diagnósticas e prognósticas de forma mais precisa, considerando dados da anamnese, anotações em atendimentos, resultados de testes psicológicos e o contexto específico da sua área de atuação.
+    - Dados pessoais e anamnese
 
-### **Acesso Seguro e Privado**
-Todas as informações registradas são protegidas e criptografadas com rigorosos padrões de segurança e ficam disponíveis apenas para pessoas previamente autorizadas pelo profissional. Isso assegura a privacidade dos dados do cliente, em conformidade com as melhores práticas de proteção da informação.
+    - Avaliações psicológicas
 
-Com essas funcionalidades, o **eConsult** garante ao profissional uma visão integrada, segura e de fácil acesso do histórico de cada cliente, contribuindo para um atendimento mais completo, personalizado e eficaz.
+    - Histórico de atendimentos com suas devidas anotações clínicas
 
-Para utilizar as funcionalidades de prontuário do eConsult, é necessário, primeiramente, cadastrar os [Modelos de Anamnese](/docs/funcionalidades/modelo-anamnese/visao). Esses modelos definem a estrutura e os campos personalizados que serão utilizados para o registro das informações no prontuário de cada cliente ou grupo terapêutico, garantindo padronização e organização dos dados.
+    - Arquivos anexados
 
-Após o cadastramento de modelos de anamnese, você estará apto a iniciar os registros nos prontuários.
+A elaboração deve seguir normas éticas e técnicas, garantindo clareza, confidencialidade e precisão.
 
-## Incluir prontuário do cliente
+---
 
-1. Na aba "Prontuário", na opção "Modelo de Anamnese", selecione um modelo de anamnese.
+## Estrutura do Prontuário
 
-    ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-063.png)
+O prontuário é elaborado a partir de um Modelo de Anamnese previamente configurado, aliado à escolha da Abordagem Terapêutica. O Modelo de Anamnese define os campos e tópicos exibidos no formulário, garantindo padronização e agilidade no registro. Já a Abordagem Terapêutica é utilizada para apoiar a geração de hipóteses com o uso de inteligência artificial.
 
-1. O sistema passa a mostrar a estrutura (formulários) de prontuário do cliente.
+---
 
-    ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-064.png)
+## Recursos disponíveis
 
-1. Ajuste a estrutura do prontuário, incluindo, alterando ou excluindo tópicos e seus respectivos campos conforme suas necessidades.
+- **Anamnese:** coleta inicial das informações do cliente ou grupo (histórico, queixas, antecedentes, hábitos de vida etc.).
 
-1. Utilize o tópico "Avaliações Psicológicas" para incluir avaliações conforme suas necessidades.
+- **Avaliações Psicológicas:** aplicação de escalas validadas pelo CFP (como BDI, BAI, SDQ, CD-RISC). Os resultados ficam integrados ao prontuário.
 
-    :::note Para ajuste da estrutura use:
-        - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-065.png) Mostra ou oculta o campo para o cliente.
-        - ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_add_campo_gray.png) Inclui um novo campo para o prontuário.
-        - ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_delete_gray.png) Exclui campo do prontuário.
-        - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-067.png) Para fechar todos os tópicos.
-        - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-066.png) Para abrir todos os tópicos.
-    :::
+- **Histórico de Atendimentos:** registro detalhado com datas e horários, organizado em linha do tempo para facilitar a visualização da evolução do caso. Cada atendimento reúne também todas as anotações clínicas correspondentes.
 
-    :::note Uso da IA para hipóteses diagnósticas e prognósticas
-        - No tópico "Diagnóstico", campo "Hipóteses diagnósticas sugeridas por IA", acione o botão "Gerar" para incluir uma hipótese diagnóstica gerada por IA.
-        - No tópico "Prognóstico", campo "Prognóstico gerado por IA (sugestivo)", acione o botão "Gerar" para incluir uma hipótese prognóstica gerada por IA.
-    :::
+- **Arquivos:** upload e acesso a documentos vinculados.
 
-1. Acione o botão "Salvar" ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_salvar.png).
+- **Inteligência Artificial (IA):** recurso que apoia o profissional na prática clínica por meio da geração de hipóteses diagnósticas e prognósticas, além de sugerir planos terapêuticos e evoluções clínicas. Essas sugestões são construídas a partir dos dados inseridos no prontuário e do nível de engajamento do cliente, oferecendo suporte adicional à tomada de decisão.
 
-## Tópico arquivos anexados
+- **Acesso Seguro:** criptografia e controle de permissões, assegurando confidencialidade.
 
-O sistema inclui uma seção (tópico) que lista os links de todos os arquivos vinculados ao cliente ou atendimentos.
+---
 
-## Tópico atendimentos
+## Como Criar e Gerenciar Prontuários
 
-Ao final do prontuário, o sistema inclui uma seção (tópico) que lista todos os atendimentos realizados para o cliente. Neste tópico, é possível filtrar os atendimentos por períodos específicos, incluindo opções para visualizar apenas os atendimentos de meses anteriores através da seguinte opção:
+1. Acesse a aba Prontuário no painel **Clientes e Grupos**.
 
-![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-037.png)
+    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_001.png)
 
-Ao selecionar a opção "Últimos Meses", o sistema exibirá os atendimentos conforme a configuração definida, apresentando a data e hora de cada atendimento. Para cada registro, serão exibidas as anotações marcadas com a opção "Publicar no Prontuário".
+1. Clique no botão **"+"** para iniciar um novo prontuário.
 
-![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-038.png)
+    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_002.png)
+
+1. Selecione um modelo previamente configurado.
+
+    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_003.png)
+
+1. O sistema exibirá a estrutura do prontuário. Você pode:
+
+    - Escolher uma Abordagem Terapêutica.
+
+    - Adicionar, editar ou excluir tópicos e campos.
+
+    - Incluir avaliações psicológicas.
+
+    - Acionar a IA para gerar hipóteses diagnósticas e prognósticas, além de sugerir planos terapêuticos e evoluções clínicas.
+
+    - Mostrar/ocultar campos/tópicos para a versão pública do prontuário.
+
+    - Salvar, fechar ou excluir o prontuário em elaboração.
+
+    - Imprimir a versão Privada do prontuário (aquela que só o profissional tem acesso).
+
+    - Imprimir a versão Pública do prontuário (aquela que o cliente pode ter acesso além do profissional).
+
+1. Uma vez que você Salva ou Fecha o prontuário o sistema apresenta um ***Card*** correspondente a "Prontuário não Finalizado", ou seja, em elaboração.
+
+    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_004.png)
+
+1. Neste ***card*** você poderá **Finalizar** o prontuário ou ainda **Continuar a edição**.
+
+    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_005.png)
+
+1. Ao clicar em "Continuar Edição", o sistema reabre o prontuário exatamente do ponto em que você parou.
+
+1. Ao clicar em "Finalizar", o sistema encerra a edição e publica o prontuário, que passa a integrar a lista de prontuários finalizados e publicado.
+
+    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_006.png)
+
+1. Na lista de prontuários, você poderá **visualizar** um prontuário  
+   ![Prontuário](../../../../static/img/prints/prontuario/prontuario_007.png)  
+   ou torná-lo **Público**  
+   ![Prontuário](../../../../static/img/prints/prontuario/prontuario_008.png).
+
+1. Para os prontuários que foram tornados públicos, é possível **torná-los Privados**  
+   ![Prontuário](../../../../static/img/prints/prontuario/prontuario_009.png).
 
 :::note
-    - ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_salvar.png): permite salvar o prontuário para o cliente ou grupo.
-    - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-068.png): permite salvar o prontuário e mostra um preview com a visão do especialista.     
-    - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-069.png): mostra um preview do prontuário com a visão do cliente.    
-    - ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-070.png): exclui o prontuário atual.
+A opção **Visualizar Prontuário**  
+![Prontuário](../../../../static/img/prints/prontuario/prontuario_006.png)  
+abre o prontuário em **modo de visualização apenas**, ou seja, não será possível editá-lo.
 :::
+
+:::warning
+Prontuários publicados **não podem mais ser editados ou excluídos**.  
+A única ação disponível é alterá-los entre **Públicos** ou **Privados**.
+:::
+
+:::tip Boas Práticas
+- Mantenha os registros claros, objetivos e atualizados.
+
+- Use o prontuário público apenas quando necessário para compartilhar informações com o cliente.
+
+- Utilize os recursos da IA como apoio, mas sempre valide as sugestões com base no julgamento clínico.
+
+- Garanta que os modelos de anamnese estejam bem configurados para assegurar padronização.
+:::
+
+Com esse recurso, o eConsult permite que cada profissional mantenha vários prontuários organizados por cliente ou grupo terapêutico, com segurança, flexibilidade e suporte à prática clínica.
