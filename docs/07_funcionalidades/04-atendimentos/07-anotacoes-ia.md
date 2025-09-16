@@ -2,13 +2,13 @@
 sidebar_position: 7
 ---
 
-# Inteligência Artificial em Anotações
+# Inteligência Artificial em Anotações Clínicas
 
-O eConsult conta com inteligência artificial nativa para agilizar tarefas do dia a dia, como no caso de anotações do atendimento.
+O eConsult conta com inteligência artificial nativa para agilizar tarefas do dia a dia, como no caso de anotações clínicas.
 
-Ao incluir ou editar uma anotação, aparece o botão ![Botão ChatGPT](../../../static/img/prints/buttons/btn_chatgpt.png), que abre um editor que permite sugestões automáticas baseadas em IA.
+Ao incluir ou editar uma anotação, aparece o botão ![Botão IA](../../../static/img/prints/atendimento/088.png), que abre um editor que permite sugestões automáticas baseadas em IA.
 
-Ao clicar nesse botão, será exibida a tela de edição de texto com recursos de Inteligência Artificial. Nessa interface, você poderá aprimorar conteúdos, desenvolver textos ou obter respostas com base no material inserido.
+Ao clicar nesse botão, será exibida a tela de edição de texto com recursos de Inteligência Artificial. Nessa interface, você poderá aprimorar conteúdos, desenvolver textos ou obter respostas com base no propósito e material inserido.
 
 ![Atendimento](../../../static/img/prints/atendimento/053.png)
 

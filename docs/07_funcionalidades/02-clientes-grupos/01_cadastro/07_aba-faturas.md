@@ -38,7 +38,7 @@ Sendo assim, na aba Faturas, você encontrará duas sub-abas distintas para um g
 
     ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-020.png)
 
-Na sub-aba "Pendentes", você dispõe de duas funções essenciais para o gerenciamento das faturas em aberto:
+Na sub-aba "Pendentes", você dispõe de 2 (duas) funções essenciais para o gerenciamento das faturas em aberto:
 
 - **Função "Notificar":** Permite enviar notificações diretamente pelo WhatsApp ou E-mail aos clientes sobre os pagamentos pendentes selecionados. Ao ativar essa função, é possível disparar uma mensagem personalizada, alertando o cliente sobre a necessidade de quitação das faturas marcadas. Essa comunicação direta torna o lembrete rápido e eficiente, facilitando a recuperação de pagamentos.
 
@@ -52,11 +52,13 @@ Na sub-aba "Pendentes", você dispõe de duas funções essenciais para o gerenc
     Se na quitação o sistema não listar nenhuma forma de pagamento, significa que não existem formas de pagamento cadastradas. Utilize a tela de [cadastro de formas de pagamento](/docs/funcionalidades/configuracoes/financas/formas-pagmento) para corrigir isso.
     :::
 
-Na sub-aba Recebidas, você conta com duas funções essenciais para o gerenciamento das faturas já quitadas:
+Na sub-aba "Recebidas", você conta com 3 (três) funções essenciais para o gerenciamento das faturas já quitadas:
 
 - **Notificar:** Permite informar o cliente, via WhatsApp ou E-mail, que o pagamento das faturas selecionadas foram recebidas e registradas. Essa comunicação mantém o cliente atualizado e fortalece a transparência no relacionamento.
 
 - **Recibo:** Com essa função, você pode gerar um recibo oficial para o cliente, contemplando as faturas selecionadas. Esse documento formaliza o pagamento de forma clara e profissional, auxiliando no controle e na prestação de contas.
+
+- **Nota Fiscal:** Com essa função, você pode gerar um registro de informações relativas a nota fiscal emitida para faturas selecionadas. Também é possível, através desta opção, emitir uma nota fiscal a partir de uma integração com a plataforma Focus NFe.
 
 :::note Edição de faturas
 Utilize a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png) localizada nos *cards* de faturas, tanto pendentes quanto recebidas, para realizar alterações nas informações da fatura. Com essa opção, é possível:
