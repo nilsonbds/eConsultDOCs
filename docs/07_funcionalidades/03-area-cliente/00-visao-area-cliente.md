@@ -24,6 +24,8 @@ Na Área do Cliente, o cliente pode ter acesso a:
 
 - **Recibos:** Download de recibos disponibilizados pelo profissional.
 
+- **Notas Fiscai:** Acesso a registros feitos relativos a notas fiscais.
+
 - **Documentos:** Download de arquivos disponibilizados pelo profissional, com fácil acesso a qualquer momento.
 
 O profissional pode configurar de forma flexível quais informações e funcionalidades estarão disponíveis para cada cliente em sua Área do Cliente. Essa personalização é feita diretamente no cadastro do cliente dentro do sistema, permitindo ao especialista definir níveis de acesso conforme a necessidade do atendimento, o tipo de serviço prestado ou o perfil do cliente.
