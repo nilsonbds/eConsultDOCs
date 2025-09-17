@@ -35,3 +35,15 @@ Cada registro de nota fiscal aparece em formato de card, contendo:
 - **Botão Cancelamento:** Permite indicar que a nota fiscal foi cancelada (irreversível).
 
 - **Botão Excluir:** Permite excluir o registro da Nota Fiscal (irreversível).
+
+## Como Utilizar
+
+1. **Visualizar notas do mês atual** – A lista já carrega automaticamente o período em vigor.
+
+1. **Navegar entre meses** – Use as setas laterais para ver notas anteriores ou futuras.
+
+1. **Identificar a origem da emissão** – Verifique se foi feita manualmente ou via integração Focus NFe.
+
+1. **Verificar status** – Caso a nota apresente erro, leia a mensagem para corrigir a emissão.
+
+1. **Visualizar, Cancelar ou Excluir** – Utilize os ícones de ação quando necessário.
