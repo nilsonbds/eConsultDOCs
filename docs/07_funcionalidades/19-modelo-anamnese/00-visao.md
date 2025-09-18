@@ -61,16 +61,11 @@ Os tópicos são seções da anamnese, permitindo que as informações sejam reg
 
   Além disso, mesmo após selecionar um modelo, você ainda pode personalizá-lo conforme o perfil ou necessidade individual de cada cliente.
 
-
 ## Benefícios dos Modelos de Anamnese:
 
 - **Padronização:** Garante que todas as informações sejam coletadas de forma uniforme.
 - **Eficiência:** Facilita a criação e o preenchimento de prontuários, economizando tempo e reduzindo erros.
 - **Organização:** Ajuda a manter as informações bem estruturadas e acessíveis.
-
-## Inclui modelos de anamnese do eConsult
-
-1. No painel "Modelos de Anamnese" clique no botão "Restaurar Padrões do Sistema" ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_add.png).
 
 ## Incluir um novo Modelo de Anamnese
 
@@ -90,17 +85,33 @@ Os tópicos são seções da anamnese, permitindo que as informações sejam reg
 
 1. Acione o botão "Salvar" ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_salvar.png).
 
-## Mostrar e ocultar campos e/ou valores de campos de um tópico
+:::note
+**Mostrar e ocultar campos e/ou valores de campos de um tópico:**
 
-No momento do cadastro você pode mostrar ou ocultar os campos ou valores de campos de um determinado tópico (isto para melhorar sua navegação na tela apenas). Para isso use os botões ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_nao-visualizar.png) e ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_visualizar.png) ao lado do tópico, onde ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_nao-visualizar.png) indica que os campos estão ocultos e ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_visualizar.png) indica que os campos estão sendo mostrados.
+No momento do cadastro você pode mostrar ou ocultar os campos ou valores de campos de um determinado tópico (isto para melhorar sua navegação na tela apenas). Para isso use os botões ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_abrir_topico.png) e ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_fechar_topico.png) ao lado do tópico.
+:::
+
+## Incluir modelos padrão de anamnese do eConsult
+
+1. No painel "Modelos de Anamnese" clique no botão "Restaurar Padrões do Sistema" ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_restaurar_padroes_do_sistema.png).
+
+1. O sistema restaura os modelos de anamnese mantendo somente os modelos padrões do sistema.
 
 ## Incluir novos tópicos
+
+1. No painel **Modelos de Anamnese**, clique no botão de edição ![Editar Modelo de Anamnese](../../../static/img/prints/buttons/btn_card-edit.png) do modelo em que deseja incluir o tópico.
 
 1. Acione uma das opções "Incluir Tópico" ![Modelos de Anamnese](../../../static/img/prints/anamnese/005.png).
 
 1. Preencha o campo "Rótulo" com nome desejado para o novo tópico.
 
     ![Modelos de Anamnese](../../../static/img/prints/anamnese/006.png)
+
+    :::note
+    Os **novos tópicos** serão exibidos com **fundo em cinza claro** e um **contorno em verde destacado**, facilitando a identificação visual.  
+
+    Esse destaque indica que o tópico ainda **não foi salvo** no sistema.
+    :::
 
 ## Incluir campos num determinado tópico
 
