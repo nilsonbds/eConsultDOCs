@@ -115,7 +115,11 @@ No momento do cadastro você pode mostrar ou ocultar os campos ou valores de cam
 
 ## Incluir campos num determinado tópico
 
-1. Acione a opção "Adicionar Campo" ![Modelos de Anamnese](../../../static/img/prints/anamnese/007.png).
+1. Acione a opção "Adicionar Campo" ![Modelos de Anamnese](../../../static/img/prints/anamnese/007.png) no tópico onde deseja incluir o novo campo.
+
+1. o sistema passa a mostrar o novo campo em destaque.
+
+    ![Modelos de Anamnese](../../../static/img/prints/anamnese/010.png)
 
 1. Dê um nome para o campo.
 
@@ -125,7 +129,17 @@ No momento do cadastro você pode mostrar ou ocultar os campos ou valores de cam
 
     ![Modelos de Anamnese](../../../static/img/prints/anamnese/009.png)
 
+1. Acione o botão "Salvar" ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_salvar.png).
+
+    :::note
+    Os **novos campos** serão exibidos com **fundo em cinza claro** e um **contorno em verde destacado**, facilitando a identificação visual.  
+
+    Esse destaque indica que o campo ainda **não foi salvo** no sistema.
+    :::
+
 ## Excluir campos ou tópicos
 
 1. Utilize os botões ![Modelos de Anamnese](../../../static/img/prints/buttons/btn_card-delete.png) para excluir campos ou tópicos.
+
+1. Acione o botão "Salvar" ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_salvar.png) para que a exclusão seja aplicada.
 
