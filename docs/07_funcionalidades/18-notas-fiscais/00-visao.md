@@ -47,3 +47,25 @@ Cada registro de nota fiscal aparece em formato de card, contendo:
 1. **Verificar status** – Caso a nota apresente erro, leia a mensagem para corrigir a emissão.
 
 1. **Visualizar, Cancelar ou Excluir** – Utilize os ícones de ação quando necessário.
+
+## Incluir Registros de Nota Fiscal
+
+Você pode incluir novos registros de Notas Fiscais utilizando o botão ![Notas Fiscais](../../../static/img/prints/buttons/btn_add.png).
+
+Siga os passos:
+
+1. Acione o botão "Incluir Nota Fiscal" ![Notas Fiscais](../../../static/img/prints/buttons/btn_add.png).
+
+1. Selecione um cliente.
+
+1. O sistema mostra as faturas já recebidas do cliente selecionado.
+
+1. Marque as faturas que não tenham ainda nota fiscal associada.
+
+1. Acione o botão "Incluir Nota Fiscal".
+
+1. Preencha os campos relativos a nota fiscal se a NF foi emitida em outro sistema.
+
+1. Acione o botão "Salvar dados de NF" se a NF foi emitida em outro sistema.
+
+1. Acione o botão "Emitir NF com Focus NFe" se desejar emitir a NF utilizando sua integração com a plataforma Focus NFe.
