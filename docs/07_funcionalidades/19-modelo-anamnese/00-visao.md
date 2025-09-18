@@ -143,3 +143,6 @@ No momento do cadastro você pode mostrar ou ocultar os campos ou valores de cam
 
 1. Acione o botão "Salvar" ![Modelo de Anamnese](../../../static/img/prints/buttons/btn_salvar.png) para que a exclusão seja aplicada.
 
+Os **Modelos de Anamnese no eConsult** oferecem flexibilidade e organização para que cada profissional estruture seus prontuários de acordo com suas necessidades. Ao personalizar tópicos e campos, é possível garantir que as informações mais relevantes sejam coletadas de forma prática e padronizada.
+
+Dessa forma, o uso adequado dos modelos contribui para a qualidade do atendimento, a continuidade do cuidado e a segurança dos registros, tornando o prontuário um recurso ainda mais completo e eficaz.
