@@ -1,19 +1,24 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+psicologia:
+  label: Psicologia
+  permalink: /psicologia
+  description: Conteúdos relacionados à psicologia, estudos do comportamento e bem-estar mental.
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+gestão:
+  label: Gestão
+  permalink: /gestao
+  description: Artigos sobre administração, organização e estratégias de gestão em diferentes contextos.
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+clínica:
+  label: Clínica
+  permalink: /clinica
+  description: Informações e conteúdos relacionados à prática clínica e atendimento de pacientes.
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+tecnologia:
+  label: Tecnologia
+  permalink: /tecnologia
+  description: Conteúdos sobre inovações, ferramentas digitais e impactos da tecnologia.
+
+ia:
+  label: Inteligência Artificial
+  permalink: /ia
+  description: Artigos e insights sobre inteligência artificial, aprendizado de máquina e suas aplicações.
