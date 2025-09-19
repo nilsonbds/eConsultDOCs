@@ -1,0 +1,110 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "O rótulo da versão atual"
+  },
+  "sidebar.tutorialSidebar.category.Diferenciais Estratégicos do eConsult": {
+    "message": "Diferenciais Estratégicos do eConsult",
+    "description": "O rótulo da categoria Diferenciais Estratégicos do eConsult na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Diferenciais Estratégicos do eConsult.link.generated-index.description": {
+    "message": "Mais que um sistema de gestão, o eConsult é uma plataforma inteligente pensada para a prática clínica. Ao unir tecnologia e cuidado em saúde mental, transforma a rotina de atendimentos, oferecendo recursos estratégicos apresentados nesta sessão. Tudo isso em um ambiente seguro e ético, projetado para otimizar o tempo, aprimorar registros e apoiar decisões clínicas e administrativas.",
+    "description": "A descrição da página de índice gerada para a categoria Diferenciais Estratégicos do eConsult na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Termos, condições e políticas de privacidade": {
+    "message": "Termos, condições e políticas de privacidade",
+    "description": "O rótulo da categoria Termos, condições e políticas de privacidade na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Termos, condições e políticas de privacidade.link.generated-index.description": {
+    "message": "Nesta seção, você encontrará informações importantes sobre os termos de uso, condições gerais e nossa política de privacidade. Recomendamos a leitura atenta para entender como protegemos seus dados e quais são seus direitos e deveres ao utilizar nossos serviços.",
+    "description": "A descrição da página de índice gerada para a categoria Termos, condições e políticas de privacidade na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Iniciando": {
+    "message": "Iniciando",
+    "description": "O rótulo da categoria Iniciando na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Iniciando.link.generated-index.description": {
+    "message": "Nesta seção, você aprenderá como criar uma nova conta, recuperar o acesso em caso de senha esquecida, fazer login na plataforma, dar os primeiros passos no uso do sistema e se familiarizar com a interface e a navegação.",
+    "description": "A descrição da página de índice gerada para a categoria Iniciando na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Interface e navegação": {
+    "message": "Interface e navegação",
+    "description": "O rótulo da categoria Interface e navegação na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Interface e navegação.link.generated-index.description": {
+    "message": "Desenvolvido para proporcionar acesso rápido e prático às principais funcionalidades do eConsult",
+    "description": "A descrição da página de índice gerada para a categoria Interface e navegação na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Funcionalidades": {
+    "message": "Funcionalidades",
+    "description": "O rótulo da categoria Funcionalidades na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Funcionalidades.link.generated-index.description": {
+    "message": "O Manual de Funcionalidades do eConsult é um guia prático que ensina, passo a passo, como aproveitar todos os recursos da plataforma para facilitar sua rotina profissional.",
+    "description": "A descrição da página de índice gerada para a categoria Funcionalidades na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Sua Conta": {
+    "message": "Sua Conta",
+    "description": "O rótulo da categoria Sua Conta na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Sua Conta.link.generated-index.description": {
+    "message": "As telas do Painel Conta reúnem diversas configurações importantes, permitindo que você atualize as suas informações como dados gerais, assinaturas, endereços, foto de perfil, logotipo e assistentes.",
+    "description": "A descrição da página de índice gerada para a categoria Sua Conta na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Configurações": {
+    "message": "Configurações",
+    "description": "O rótulo da categoria Configurações na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Configurações.link.generated-index.description": {
+    "message": "O Painel de Configurações do eConsult é uma ferramenta central que facilita a gestão do sistema, permitindo personalizações e ajustes conforme as necessidades do negócio.",
+    "description": "A descrição da página de índice gerada para a categoria Configurações na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Configurações para Clientes": {
+    "message": "Configurações para Clientes",
+    "description": "O rótulo da categoria Configurações para Clientes na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Configurações para Clientes.link.generated-index.description": {
+    "message": "O painel de Configurações para Clientes no eConsult é dedicado ao gerenciamento de perfis e preferências dos clientes, oferecendo flexibilidade e personalização no atendimento.",
+    "description": "A descrição da página de índice gerada para a categoria Configurações para Clientes na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Financeiro": {
+    "message": "Financeiro",
+    "description": "O rótulo da categoria Financeiro na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Financeiro.link.generated-index.description": {
+    "message": "A categoria Financeiro do eConsult oferece ferramentas para gerenciar receitas, despesas, pagamentos e relatórios, proporcionando uma visão clara da saúde financeira.",
+    "description": "A descrição da página de índice gerada para a categoria Financeiro na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Atendimentos": {
+    "message": "Atendimentos",
+    "description": "O rótulo da categoria Atendimentos na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Atendimentos.link.generated-index.description": {
+    "message": "A seção de Atendimentos organiza consultas, sessões e históricos, permitindo registros precisos e acompanhamento contínuo dos clientes.",
+    "description": "A descrição da página de índice gerada para a categoria Atendimentos na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Prontuário": {
+    "message": "Prontuário",
+    "description": "O rótulo da categoria Prontuário na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Prontuário.link.generated-index.description": {
+    "message": "O prontuário eletrônico centraliza informações clínicas e administrativas dos clientes, garantindo segurança, acessibilidade e organização dos dados.",
+    "description": "A descrição da página de índice gerada para a categoria Prontuário na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Relatórios": {
+    "message": "Relatórios",
+    "description": "O rótulo da categoria Relatórios na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Relatórios.link.generated-index.description": {
+    "message": "A área de Relatórios do eConsult fornece análises detalhadas de atendimentos, finanças e evolução clínica, apoiando a tomada de decisões estratégicas.",
+    "description": "A descrição da página de índice gerada para a categoria Relatórios na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ajuda": {
+    "message": "Ajuda",
+    "description": "O rótulo da categoria Ajuda na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ajuda.link.generated-index.description": {
+    "message": "Encontre guias, tutoriais e suporte para aproveitar ao máximo os recursos do eConsult.",
+    "description": "A descrição da página de índice gerada para a categoria Ajuda na barra lateral tutorialSidebar"
+  }
+}

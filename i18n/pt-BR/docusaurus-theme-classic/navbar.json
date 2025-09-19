@@ -1,0 +1,26 @@
+{
+  "logo.alt": {
+    "message": "eConsultDOC",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Criar uma conta": {
+    "message": "Criar uma conta",
+    "description": "Navbar item with label Criar uma conta"
+  },
+  "item.label.Ir para o sistema": {
+    "message": "Ir para o sistema",
+    "description": "Navbar item with label Ir para o sistema"
+  },
+  "item.label.Planos e preços": {
+    "message": "Planos e preços",
+    "description": "Navbar item with label Planos e preços"
+  }
+}

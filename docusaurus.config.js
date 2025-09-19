@@ -4,32 +4,21 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Bem-vindo à Central de Ajuda eConsult',
-
   tagline: 'Aqui você encontra tutoriais, guias e respostas rápidas para usar o eConsult com facilidade',
-
   favicon: 'img/favicon.ico',
-
   future: {
     v4: true,
   },
-
   url: 'https://documents.econsult.app.br',
-
   baseUrl: '/',
-
   organizationName: 'facebook',
-
   projectName: 'docusaurus',
-
   onBrokenLinks: 'throw',
-  
   onBrokenMarkdownLinks: 'warn',
-
   i18n: {
-    defaultLocale: 'pt',
-    locales: ['pt'],
+    defaultLocale: 'pt-BR',
+    locales: ['pt-BR'],
   },
-
   presets: [
     [
       'classic',
@@ -37,7 +26,12 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
-        blog: false,
+        blog: {
+          showReadingTime: true,
+          path: './blog',
+          routeBasePath: '/blog',
+          postsPerPage: 5,
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -75,6 +69,11 @@ const config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Tutorial',
+        },
+        {
+          to: '/blog', // ou type: 'blog'
+          position: 'left',
+          label: 'Blog',
         },
         {
           href: 'https://econsult.app.br/userregister',
