@@ -22,3 +22,18 @@ ia:
   label: Inteligência Artificial
   permalink: /ia
   description: Artigos e insights sobre inteligência artificial, aprendizado de máquina e suas aplicações.
+
+prontuario:
+  label: "Prontuário Eletrônico"
+  permalink: "/prontuario"
+  description: "Recursos de registro clínico digitalizados, modelos de anamnese e gestão de histórico do paciente."
+
+avaliacao_psicologica:
+  label: "Avaliação Psicológica"
+  permalink: "/avaliacao-psicologica"
+  description: "Testes e escalas psicológicas integradas à rotina clínica para apoio à tomada de decisão."
+
+score:
+  label: "Análise Inteligente de Engajamento"
+  permalink: "/score"
+  description: "Funcionalidade estratégica do eConsult que apoia a gestão clínica e administrativa. Permite acompanhar o comportamento dos pacientes, identificar oportunidades de engajamento e promover maior fidelização."
