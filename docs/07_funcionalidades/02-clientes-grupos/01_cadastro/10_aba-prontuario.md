@@ -6,21 +6,25 @@ sidebar_position: 10
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-prontuario.png)
 
-A aba **Prontuário**, localizada no painel **Clientes e Grupos**, concentra todas as informações clínicas e administrativas referentes ao acompanhamento de clientes ou grupos terapêuticos.
+A aba **Prontuário**, disponível no painel **Clientes e Grupos Terapêuticos**, reúne todas as informações clínicas relacionadas ao acompanhamento individual ou em grupo.  
 
-No **eConsult**, é possível cadastrar **múltiplos prontuários** para um mesmo cliente ou grupo, permitindo maior flexibilidade na organização dos registros.
+No **eConsult**, cada cliente ou grupo pode possuir **múltiplos prontuários**, oferecendo flexibilidade na organização e registro das informações, seja para diferentes etapas do processo terapêutico, seja para separar versões relacionadas a fase do processo terapêutico ou enfoques distintos de acompanhamento.  
 
-Os prontuários podem estar em dois estágios:
+Os prontuários podem assumir dois estágios:  
 
-- **Prontuário em Elaboração:** em fase de construção, ainda não publicado, visível apenas ao profissional responsável.
+**Prontuário em Elaboração** – encontra-se em fase de construção, ainda não publicado, sendo visível exclusivamente ao profissional responsável.  
 
-- **Prontuários Publicados:** já concluídos e salvos, podendo ser:
+:::warning
+Cada cliente ou grupo pode ter apenas **um prontuário em elaboração** por vez.
+:::  
 
-    - **Privados** – acessíveis apenas pelo profissional.
+**Prontuário Publicado** – já concluído e salvo, com duas possibilidades de acesso:  
 
-    - **Públicos** – acessíveis ao cliente, desde que o profissional disponibilize o acesso.
+  - **Privado**: restrito apenas ao profissional.  
 
-Essa estrutura garante que o profissional tenha liberdade para organizar diferentes versões ou fases do prontuário, mantendo controle total sobre o que é compartilhado.
+  - **Público**: acessível ao cliente, caso o profissional opte por disponibilizar.  
+
+Essa estrutura garante ao profissional **autonomia e segurança** para gerenciar o ciclo de elaboração dos registros, definindo com clareza **o que permanece restrito** e **o que pode ser compartilhado** com o cliente.
 
 ---
 
@@ -44,13 +48,13 @@ A elaboração deve seguir normas éticas e técnicas, garantindo clareza, confi
 
 ## Estrutura do Prontuário
 
-O prontuário é elaborado a partir de um Modelo de Anamnese previamente configurado, aliado à escolha da Abordagem Terapêutica. O Modelo de Anamnese define os campos e tópicos exibidos no formulário, garantindo padronização e agilidade no registro. Já a Abordagem Terapêutica é utilizada para apoiar a geração de hipóteses com o uso de inteligência artificial.
+O prontuário é criado com base em um Modelo de Anamnese previamente cadastrado e na Abordagem Terapêutica escolhida. O Modelo de Anamnese estabelece os campos e tópicos do formulário, garantindo padronização e agilidade no registro, enquanto a Abordagem Terapêutica apoia a geração de hipóteses por meio de inteligência artificial.
 
 ---
 
 ## Recursos disponíveis
 
-- **Anamnese:** coleta inicial das informações do cliente ou grupo (histórico, queixas, antecedentes, hábitos de vida etc.).
+- **Anamnese:** coleta das informações do cliente ou grupo (histórico, queixas, antecedentes, hábitos de vida etc.).
 
 - **Avaliações Psicológicas:** aplicação de escalas validadas pelo CFP (como BDI, BAI, SDQ, CD-RISC). Os resultados ficam integrados ao prontuário.
 
@@ -58,9 +62,9 @@ O prontuário é elaborado a partir de um Modelo de Anamnese previamente configu
 
 - **Arquivos:** upload e acesso a documentos vinculados.
 
-- **Inteligência Artificial (IA):** recurso que apoia o profissional na prática clínica por meio da geração de hipóteses diagnósticas e prognósticas, além de sugerir planos terapêuticos e evoluções clínicas. Essas sugestões são construídas a partir dos dados inseridos no prontuário e do nível de engajamento do cliente, oferecendo suporte adicional à tomada de decisão.
+- **Inteligência Artificial (IA):** recurso que apoia o profissional na prática clínica por meio da geração de hipóteses diagnósticas e prognósticas, além de sugerir planos de tratamento e evoluções clínicas. Essas sugestões são construídas a partir dos dados inseridos no prontuário e do nível de engajamento do cliente, oferecendo suporte adicional à tomada de decisão.
 
-- **Acesso Seguro:** criptografia e controle de permissões, assegurando confidencialidade.
+- **Acesso Seguro:** todos os dados são protegidos por criptografia avançada e rigoroso controle de permissões, garantindo que apenas profissionais autorizados possam visualizar ou editar informações, assegurando total confidencialidade e integridade dos prontuários.
 
 ---
 
@@ -70,11 +74,11 @@ O prontuário é elaborado a partir de um Modelo de Anamnese previamente configu
 
     ![Prontuário](../../../../static/img/prints/prontuario/prontuario_001.png)
 
-1. Clique no botão **"+"** para iniciar um novo prontuário.
+1. Clique no botão **![Prontuário](../../../../static/img/prints/buttons/btn_add_grupo.png)** para iniciar um novo prontuário.
 
     ![Prontuário](../../../../static/img/prints/prontuario/prontuario_002.png)
 
-1. Selecione um modelo previamente configurado.
+1. Selecione um modelo de anamnese previamente cadastrado.
 
     ![Prontuário](../../../../static/img/prints/prontuario/prontuario_003.png)
 
@@ -86,45 +90,46 @@ O prontuário é elaborado a partir de um Modelo de Anamnese previamente configu
 
     - Incluir avaliações psicológicas.
 
-    - Acionar a IA para gerar hipóteses diagnósticas e prognósticas, além de sugerir planos terapêuticos e evoluções clínicas.
+    - Acionar a IA para gerar hipóteses diagnósticas e prognósticas, além de sugerir planos de tratamento e evoluções clínicas.
 
     - Mostrar/ocultar campos/tópicos para a versão pública do prontuário.
 
-    - Salvar, fechar ou excluir o prontuário em elaboração.
+    - Salvar, fechar ou excluir o prontuário em elaboração (não finalizado).
 
     - Imprimir a versão Privada do prontuário (aquela que só o profissional tem acesso).
 
     - Imprimir a versão Pública do prontuário (aquela que o cliente pode ter acesso além do profissional).
 
-1. Uma vez que você Salva ou Fecha o prontuário o sistema apresenta um ***Card*** correspondente a "Prontuário não Finalizado", ou seja, em elaboração.
+1. Uma vez que você Salva e Fecha o prontuário o sistema apresenta um ***card*** correspondente a "Prontuário não Finalizado", ou seja, em elaboração.
 
     ![Prontuário](../../../../static/img/prints/prontuario/prontuario_004.png)
 
-1. Neste ***card*** você poderá **Finalizar** o prontuário ou ainda **Continuar a edição**.
+1. Neste ***card*** você poderá **Finalizar** o prontuário ou ainda **Continuar Edição**.
 
     ![Prontuário](../../../../static/img/prints/prontuario/prontuario_005.png)
 
 1. Ao clicar em "Continuar Edição", o sistema reabre o prontuário exatamente do ponto em que você parou.
 
-1. Ao clicar em "Finalizar", o sistema encerra a edição e publica o prontuário, que passa a integrar a lista de prontuários finalizados e publicado.
+1. Ao clicar em "Finalizar", o sistema encerra a edição e publica o prontuário, que passa a integrar a lista de prontuários finalizados e publicados.
 
     ![Prontuário](../../../../static/img/prints/prontuario/prontuario_006.png)
 
-1. Na lista de prontuários, você poderá **visualizar** um prontuário  
-   ![Prontuário](../../../../static/img/prints/prontuario/prontuario_007.png)  
-   ou torná-lo **Público**  
-   ![Prontuário](../../../../static/img/prints/prontuario/prontuario_008.png).
+1. Na lista de prontuários publicados e finalizados, você pode:
 
-1. Para os prontuários que foram tornados públicos, é possível **torná-los Privados**  
-   ![Prontuário](../../../../static/img/prints/prontuario/prontuario_009.png).
+    - **Visualizar um prontuário** ![Prontuário](../../../../static/img/prints/prontuario/prontuario_007.png)
 
-:::note
-A opção **Visualizar Prontuário** ![Prontuário](../../../../static/img/prints/prontuario/prontuario_007.png) abre o prontuário em **modo de visualização apenas**, ou seja, não será possível editá-lo.
-:::
+    - **Tornar o prontuário público** ![Prontuário](../../../../static/img/prints/prontuario/prontuario_008.png)
+
+    - **Tornar o prontuário privado** ![Prontuário](../../../../static/img/prints/prontuario/prontuario_009.png)
+
+    - **Duplicar o prontuário e colocando a dulicata em edição** ![Prontuário](../../../../static/img/prints/prontuario/prontuario_010.png)
 
 :::warning
 Prontuários publicados **não podem mais ser editados ou excluídos**.  
-A única ação disponível é alterá-los entre **Públicos** ou **Privados**.
+
+A única ação disponível é alterá-los entre **Público** ou **Privado**.
+
+A opção **Visualizar Prontuário** ![Prontuário](../../../../static/img/prints/prontuario/prontuario_007.png), abre o prontuário em **modo de visualização apenas**, ou seja, não será possível editá-lo.
 :::
 
 :::tip Boas Práticas
