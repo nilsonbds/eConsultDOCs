@@ -101,5 +101,5 @@ Para que sejam considerados "Realizados", é necessário confirmar a efetivaçã
 :::
 
 :::warning 
-O sistema impede o registro de novos atendimentos para cliente que tem perdas registradas.
+O sistema impede o registro de novos atendimentos para cliente ou grupo terapêutico que tem perdas registradas.
 :::
