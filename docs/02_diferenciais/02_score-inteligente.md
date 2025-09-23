@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ***Inteligência para engajamento e gestão de pacientes.***
 
-A **Análise Inteligente de Engajamento** é uma funcionalidade estratégica do eConsult que apoia tanto a gestão clínica quanto a administrativa do consultório.  
+A **Análise Inteligente de Engajamento** é uma funcionalidade estratégica do eConsult que apoia tanto a gestão administrativa do consultório quanto no apoio clínico ao paciente.  
 
 Com ela, o profissional acompanha de forma analítica e visual o comportamento dos pacientes, identifica oportunidades de engajamento e promove maior fidelização.
 
