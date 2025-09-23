@@ -24,16 +24,26 @@ ia:
   description: Artigos e insights sobre inteligência artificial, aprendizado de máquina e suas aplicações.
 
 prontuario:
-  label: "Prontuário Eletrônico"
-  permalink: "/prontuario"
-  description: "Recursos de registro clínico digitalizados, modelos de anamnese e gestão de histórico do paciente."
+  label: Prontuário Eletrônico
+  permalink: /prontuario
+  description: Recursos de registro clínico digitalizados, modelos de anamnese e gestão de histórico do paciente.
 
 avaliacao_psicologica:
-  label: "Avaliação Psicológica"
-  permalink: "/avaliacao-psicologica"
-  description: "Testes e escalas psicológicas integradas à rotina clínica para apoio à tomada de decisão."
+  label: Avaliação Psicológica
+  permalink: /avaliacao-psicologica
+  description: Testes e escalas psicológicas integradas à rotina clínica para apoio à tomada de decisão.
 
 score:
-  label: "Análise Inteligente de Engajamento"
-  permalink: "/score"
-  description: "Funcionalidade estratégica do eConsult que apoia a gestão clínica e administrativa. Permite acompanhar o comportamento dos pacientes, identificar oportunidades de engajamento e promover maior fidelização."
+  label: Análise Inteligente de Engajamento
+  permalink: /score
+  description: Funcionalidade estratégica do eConsult que apoia a gestão clínica e administrativa. Permite acompanhar o comportamento dos pacientes, identificar oportunidades de engajamento e promover maior fidelização.
+
+pep:
+  label: Prontuário Eletrônico do Paciente (PEP)
+  permalink: /pep
+  description: O PEP centraliza informações clínicas, administrativas e financeiras em um único registro digital. No eConsult, funciona como base para análises, relatórios e suporte à decisão, garantindo maior organização e continuidade do cuidado.
+
+cdss:
+  label: Clinical Decision Support Systems (CDSS)
+  permalink: /cdss
+  description: Os CDSS são sistemas de apoio à decisão clínica que auxiliam psicólogos a formular hipóteses diagnósticas, definir planos terapêuticos e acompanhar a evolução dos pacientes. No eConsult, integram inteligência artificial e dados clínicos para oferecer recomendações precisas e contextualizadas.
