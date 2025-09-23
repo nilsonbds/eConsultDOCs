@@ -47,3 +47,8 @@ cdss:
   label: Clinical Decision Support Systems (CDSS)
   permalink: /cdss
   description: Os CDSS são sistemas de apoio à decisão clínica que auxiliam psicólogos a formular hipóteses diagnósticas, definir planos terapêuticos e acompanhar a evolução dos pacientes. No eConsult, integram inteligência artificial e dados clínicos para oferecer recomendações precisas e contextualizadas.
+
+grupo_terapeutico:
+  label: Gestão de Grupos Terapêuticos
+  permalink: /grupo_terapeutico
+  description: A gestão de grupos terapêuticos é essencial para psicólogos que trabalham com atendimentos coletivos. No eConsult, cada grupo é tratado como uma entidade própria, integrando prontuários individuais e coletivos, controle financeiro, indicadores de engajamento e evolução dos participantes em um só lugar.
