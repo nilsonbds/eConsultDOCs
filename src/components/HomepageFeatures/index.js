@@ -165,7 +165,6 @@ function Feature({ link, title, icon, description }) {
 export default function HomepageFeatures() {
   return (
     <>
-      <h2 class="text--center margin-bottom--lg">Principais Funcionalidades</h2>
       <section className={styles.features}>
         <div className="container">
           <div className="row">
@@ -189,7 +188,7 @@ export default function HomepageFeatures() {
                   <p className='econ-text-box'>Ainda com dúvidas? Nossa equipe pode ajudar:</p>
                   <p className='econ-title-box'>📞 Suporte Personalizado</p>
                   <p className='econ-text-box'>•&nbsp;&nbsp;atendimento@econsult.app.br</p>
-                  <p className='econ-text-box'>•&nbsp;&nbsp;+55 (47) 99915-3002 (WhatsApp)</p><br />
+                  <p className='econ-text-box'>•&nbsp;&nbsp;+55 (47) 99915-3002 (WhatsApp)</p><br/>
                   <p className='econ-title-box'>👉 <a href="https://econsult.app.br/plans" target="_blank">Planos e preços</a></p>
                   <p className='econ-title-box'>👉 <a href="https://econsult.app.br/userregister" target="_blank">Criar uma conta</a></p>
                 </div>
@@ -197,7 +196,7 @@ export default function HomepageFeatures() {
               <div className='econ-box-col'>
                 <div className='econ-footer-container'>
                   <p className='econ-text-box'><a href="/docs/iniciando/primeiros-passos" target="_blank">•&nbsp;&nbsp;Primeiros passos</a></p>
-                  <p className='econ-text-box'><a href="/docs/sobre-econsult/faq" target="_blank">•&nbsp;&nbsp;FAQ - Perguntas frequentes</a></p><br />
+                  <p className='econ-text-box'><a href="/docs/sobre-econsult/faq" target="_blank">•&nbsp;&nbsp;FAQ - Perguntas frequentes</a></p><br/>
                   <p className='econ-text-box'><a href="/docs/sobre-econsult/privacidade-condicoes-privacidade/termos-condicoes" target="_blank">Termos e Condições</a></p>
                   <p className='econ-text-box'><a href="/docs/sobre-econsult/privacidade-condicoes-privacidade/politica-privacidade" target="_blank">Política de privacidade</a></p>
                 </div>
