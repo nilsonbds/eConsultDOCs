@@ -31,6 +31,12 @@ const config = {
           path: './blog',
           routeBasePath: '/blog',
           postsPerPage: 5,
+          feedOptions: {
+            type: 'all', // rss + atom + json
+            title: 'Central de Ajuda eConsult',
+            description: 'Últimos artigos e novidades sobre o eConsult',
+            language: 'pt-BR',
+          },
         },
         theme: {
           customCss: './src/css/custom.css',
