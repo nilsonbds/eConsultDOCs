@@ -32,7 +32,7 @@ export default function RecentPosts() {
       <div className="row">
         {posts.slice(0, 4).map((post) => (
           <div className="col col--3" key={post.id}>
-            <div className="card shadow--md">
+            <div className="card card_blog shadow--md">
               {/* Imagem */}
               {getImageUrl(post) && (
                 <div className="card__image">

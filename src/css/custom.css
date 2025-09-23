@@ -50,6 +50,15 @@
   transform: translateY(-4px);
 }
 
+.card_blog {
+  max-width: 500px;
+  margin: auto;
+}
+
+.card__image img {
+  border-radius: 3px;
+}
+
 /* Links */
 a {
   transition: color 0.2s ease;
@@ -240,6 +249,7 @@ h3.title-links {
 
 .econ-footer p {
   font-size: .8rem;
+  color: black;
 }
 
 .econ-footer-container {

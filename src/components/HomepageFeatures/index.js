@@ -172,41 +172,8 @@ export default function HomepageFeatures() {
               <Feature key={idx} {...props} />
             ))}
           </div>
-          <div className="row">
-            <div className="econ-footer">
-              <div className='econ-box-col'>
-                <div className='econ-footer-container'>
-                  <a href="https://econsult.app.br" target="_blank">
-                    <div className='econ-box-site'>
-                      <img src="/img/Logotipo.svg" alt="Logotipo" className='econ-logo-box-col' />
-                    </div>
-                  </a>
-                </div>
-              </div>
-              <div className='econ-box-col'>
-                <div className='econ-footer-container'>
-                  <p className='econ-text-box'>Ainda com dúvidas? Nossa equipe pode ajudar:</p>
-                  <p className='econ-title-box'>📞 Suporte Personalizado</p>
-                  <p className='econ-text-box'>•&nbsp;&nbsp;atendimento@econsult.app.br</p>
-                  <p className='econ-text-box'>•&nbsp;&nbsp;+55 (47) 99915-3002 (WhatsApp)</p><br/>
-                  <p className='econ-title-box'>👉 <a href="https://econsult.app.br/plans" target="_blank">Planos e preços</a></p>
-                  <p className='econ-title-box'>👉 <a href="https://econsult.app.br/userregister" target="_blank">Criar uma conta</a></p>
-                </div>
-              </div>
-              <div className='econ-box-col'>
-                <div className='econ-footer-container'>
-                  <p className='econ-text-box'><a href="/docs/iniciando/primeiros-passos" target="_blank">•&nbsp;&nbsp;Primeiros passos</a></p>
-                  <p className='econ-text-box'><a href="/docs/sobre-econsult/faq" target="_blank">•&nbsp;&nbsp;FAQ - Perguntas frequentes</a></p><br/>
-                  <p className='econ-text-box'><a href="/docs/sobre-econsult/privacidade-condicoes-privacidade/termos-condicoes" target="_blank">Termos e Condições</a></p>
-                  <p className='econ-text-box'><a href="/docs/sobre-econsult/privacidade-condicoes-privacidade/politica-privacidade" target="_blank">Política de privacidade</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </section>
-      <div className="container">
-      </div>
     </>
   );
 }
