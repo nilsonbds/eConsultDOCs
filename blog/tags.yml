@@ -68,7 +68,7 @@ lgpd:
   permalink: "/lgpd"
   description: "A Lei Geral de Proteção de Dados (LGPD) estabelece diretrizes para o tratamento de informações pessoais e sensíveis, garantindo transparência, segurança e respeito à privacidade. No eConsult, a LGPD é aplicada de forma prática, com anonimização de dados em IA, controle de acesso por perfil, auditoria de operações e políticas de minimização de dados clínicos."
 
-seguranca:
+segurança:
   label: "Segurança da Informação"
   permalink: "/seguranca"
   description: "Segurança da informação é o conjunto de práticas, tecnologias e políticas que protegem dados contra acessos não autorizados, perdas ou vazamentos. No eConsult, envolve criptografia ponta a ponta, autenticação multifator, backups redundantes e monitoramento contínuo, assegurando a confidencialidade e a integridade dos registros clínicos."
