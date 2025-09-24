@@ -38,6 +38,11 @@ score:
   permalink: /score
   description: Funcionalidade estratégica do eConsult que apoia a gestão clínica e administrativa. Permite acompanhar o comportamento dos pacientes, identificar oportunidades de engajamento e promover maior fidelização.
 
+engajamento:
+  label: Análise Inteligente de Engajamento
+  permalink: /engajamento
+  description: Funcionalidade estratégica do eConsult que apoia a gestão clínica e administrativa. Permite acompanhar o comportamento dos pacientes, identificar oportunidades de engajamento e promover maior fidelização.
+
 pep:
   label: Prontuário Eletrônico do Paciente (PEP)
   permalink: /pep
@@ -52,3 +57,18 @@ grupo_terapeutico:
   label: Gestão de Grupos Terapêuticos
   permalink: /grupo_terapeutico
   description: A gestão de grupos terapêuticos é essencial para psicólogos que trabalham com atendimentos coletivos. No eConsult, cada grupo é tratado como uma entidade própria, integrando prontuários individuais e coletivos, controle financeiro, indicadores de engajamento e evolução dos participantes em um só lugar.
+
+anamnese:
+  label: Modelos de Anamnese
+  permalink: /anamnese
+  description: A anamnese é o ponto de partida para compreender a história, o contexto e as necessidades do paciente. No eConsult, os modelos de anamnese são totalmente personalizáveis, permitindo que o psicólogo organize campos e tópicos de acordo com sua abordagem. Além de padronização, o sistema possibilita ajustes específicos por paciente, controle de acesso em nível de campo e integração direta com relatórios, evoluções clínicas e apoio da inteligência artificial.
+
+lgpd:
+  label: "LGPD e Privacidade de Dados"
+  permalink: "/lgpd"
+  description: "A Lei Geral de Proteção de Dados (LGPD) estabelece diretrizes para o tratamento de informações pessoais e sensíveis, garantindo transparência, segurança e respeito à privacidade. No eConsult, a LGPD é aplicada de forma prática, com anonimização de dados em IA, controle de acesso por perfil, auditoria de operações e políticas de minimização de dados clínicos."
+
+seguranca:
+  label: "Segurança da Informação"
+  permalink: "/seguranca"
+  description: "Segurança da informação é o conjunto de práticas, tecnologias e políticas que protegem dados contra acessos não autorizados, perdas ou vazamentos. No eConsult, envolve criptografia ponta a ponta, autenticação multifator, backups redundantes e monitoramento contínuo, assegurando a confidencialidade e a integridade dos registros clínicos."

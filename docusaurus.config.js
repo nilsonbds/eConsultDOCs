@@ -30,7 +30,8 @@ const config = {
           showReadingTime: true,
           path: './blog',
           routeBasePath: '/blog',
-          postsPerPage: 5,
+          postsPerPage: 8,
+          blogSidebarCount: 7,
           feedOptions: {
             type: 'all', // rss + atom + json
             title: 'Central de Ajuda eConsult',
