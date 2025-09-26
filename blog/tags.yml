@@ -72,3 +72,13 @@ segurança:
   label: "Segurança da Informação"
   permalink: "/seguranca"
   description: "Segurança da informação é o conjunto de práticas, tecnologias e políticas que protegem dados contra acessos não autorizados, perdas ou vazamentos. No eConsult, envolve criptografia ponta a ponta, autenticação multifator, backups redundantes e monitoramento contínuo, assegurando a confidencialidade e a integridade dos registros clínicos."
+
+historico:
+  label: Histórico Clínico
+  permalink: /historico
+  description: O registro histórico clínico é essencial para contextualizar a trajetória do paciente. No eConsult, o psicólogo pode criar um prontuário inicial resumido para dar continuidade ao acompanhamento sem sobrecarga, garantindo segurança clínica e legal.
+
+econsult:
+  label: eConsult
+  permalink: /econsult
+  description: O eConsult é uma plataforma moderna de gestão clínica para psicólogos, que integra prontuários individuais e de grupos, inteligência artificial, relatórios e suporte ético-legal em um único sistema.
