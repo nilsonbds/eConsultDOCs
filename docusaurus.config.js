@@ -83,7 +83,7 @@ const config = {
           label: 'Blog',
         },
         {
-          href: 'https://econsult.app.br/userregister',
+          href: 'https://econsult.app.br/multidisciplinar',
           position: 'left',
           label: 'Criar uma conta',
         },
