@@ -14,7 +14,14 @@ const config = {
   organizationName: 'facebook',
   projectName: 'docusaurus',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+  // 🔽 novo bloco substituindo `onBrokenMarkdownLinks`
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
+
   i18n: {
     defaultLocale: 'pt-BR',
     locales: ['pt-BR'],
