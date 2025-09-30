@@ -26,6 +26,7 @@ const config = {
     defaultLocale: 'pt-BR',
     locales: ['pt-BR'],
   },
+
   presets: [
     [
       'classic',
@@ -128,6 +129,18 @@ const config = {
       darkTheme: prismThemes.dracula,
     },
   },
+
+  scripts: [
+    {
+      src: "https://accounts.google.com/gsi/client",
+      async: true,
+      defer: true,
+    },
+  ],
+
+  customFields: {
+    GOOGLE_CLIENT_ID: "371082572823-p7f1r97si3o26i5plreplkrice4bbp0n.apps.googleusercontent.com",
+  }
 };
 
 export default config;
