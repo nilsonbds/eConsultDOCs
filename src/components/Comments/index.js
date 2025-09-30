@@ -61,8 +61,13 @@ export default function Comments({ postId }) {
 
     // Enviar comentário
     const handleSubmit = async () => {
-        if (!token) return alert("Faça login para comentar");
+        if (!content.trim()) {
+            alert('✍️ Opa! Escreva algo antes de enviar seu comentário! 😉');
+            return
+        }
 
+        if (!token) return alert("Faça login para comentar");
+        F
         try {
             const res = await axios.post(
                 `${API_URL}/blog/comments`,
