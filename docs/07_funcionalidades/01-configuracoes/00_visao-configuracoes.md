@@ -27,7 +27,7 @@ O objetivo aqui é configurar e personalizar a agenda para otimizar o planejamen
 Objetiva facilitar o gerenciamento e a personalização das informações dos clientes para melhorar o atendimento e a comunicação.
 
 - **Campos Adicionais para Clientes:** Adicione e configure campos adicionais personalizados para clientes a fim de coletar informações específicas dos clientes, conforme as necessidades do seu negócio.
-- **Grupos de Clientes por Idade:** Crie e gerencie grupos de clientes por idade para segmentação.
+- **Grupos Etários:** Crie e gerencie Grupos Etários para segmentação.
 - **Mensagens Padronizadas:** Crie padrões de mensagens relacionadas a clientes.
 
 ## Finanças

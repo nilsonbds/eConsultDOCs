@@ -2,11 +2,11 @@
 sidebar_position: 3
 ---
 
-# Aba Grupo
+# Aba Membros do Grupo
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-grupo.png)
 
-**Específica para os Grupos Terapêuticos**, a aba "Grupo" oferece uma interface intuitiva para vincular e desvincular membros de forma prática, facilitando um gerenciamento mais ágil, organizado e eficiente dos integrantes do grupo terapêutico.
+**Específica para os Grupos Terapêuticos**, a aba "Membros do Grupo" oferece uma interface intuitiva para vincular e desvincular membros de forma prática, facilitando um gerenciamento mais ágil, organizado e eficiente dos integrantes do grupo terapêutico.
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-012.png)
 

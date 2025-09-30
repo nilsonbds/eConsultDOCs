@@ -58,7 +58,7 @@ O eConsult pode exibir, no Painel Alertas, as chamadas "![Painel Alertas](../../
 </figure>
 <figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/011.png" alt="Painel de Alertas" />
-  <figcaption style={{ fontStyle: "italic"}}>Recomenda a inclusão de Grupos por Idade</figcaption>
+  <figcaption style={{ fontStyle: "italic"}}>Recomenda a inclusão de Grupos Etários</figcaption>
 </figure>
 <figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/012.png" alt="Painel de Alertas" />
@@ -73,7 +73,7 @@ O eConsult pode exibir, no Painel Alertas, as chamadas "![Painel Alertas](../../
 
 O próprio eConsult se encarrega de configurar automaticamente algumas dessas **recomendações/exigências** para facilitar sua jornada inicial. São eles:
 
-- **Recomendação — Grupos por Idade:** O eConsult já vem com um cadastro completo de Grupos por Idade.
+- **Recomendação — Grupos Etários:** O eConsult já vem com um cadastro completo de Grupos Etários.
 - **Exigência — Formas de Pagamento:** O eConsult cadastra previamente formas de pagamento.
 - **Exigência — Modelos de Anamnese:** O eConsult já oferece diversos modelos de anamnese pré-configurados de acordo com a sua especialidade, prontos para serem utilizados nos prontuários.
 
@@ -91,14 +91,21 @@ Esse checklist fica sempre disponível no painel "Alertas", enquanto houver pend
 
 Assim, você é notificado de forma **prática e centralizada**, garantindo que **nenhuma etapa importante passe despercebida** no processo de configuração e uso inicial da ferramenta.
 
-## Outros Alertas Inteligentes
+## Alertas Prioritários e Alertas Informativos
 
-O painel também exibe **outros alertas inteligentes**, que funcionam como **lembretes estratégicos para ações importantes** dentro da plataforma.
+O painel também exibe **alertas prioritários e informativos**, que funcionam como **lembretes estratégicos para ações importantes** dentro da plataforma.
 
 ![Painel Alertas](../../../static/img/prints/alertas/019.png)
 
-Esses alertas mantêm você informado sobre **pendências, atualizações e tarefas que pedem sua atenção**, oferecendo mais controle e agilidade no uso do eConsult.
+Esses alertas têm como objetivo **manter você sempre atualizado sobre pendências, atualizações e tarefas que exigem atenção**, garantindo maior controle e agilidade no uso do eConsult.  
 
-Importante destacar que esses alertas **aparecem somente quando são de fato relevantes**, evitando distrações e mantendo seu foco no que é mais importante.
+Outro ponto importante é que os alertas **só aparecem quando realmente são relevantes**, evitando notificações desnecessárias que poderiam causar distrações. Assim, você mantém o foco no que é essencial para a sua rotina de trabalho.  
 
-Ao clicar em qualquer um desses alertas, o sistema abre automaticamente uma interface que **permite resolver as pendências de forma rápida e prática**.
+### Tipos de alertas  
+
+- **Prioritários**: correspondem a itens que exigem uma ação imediata ou que fazem parte de tarefas rotineiras do dia a dia.  
+- **Informativos**: têm caráter comunicativo, mantendo o profissional informado. Não exigem ação imediata, mas podem eventualmente requerer uma ação não urgente.
+
+### Ações rápidas  
+
+Ao clicar em qualquer alerta, o sistema abre automaticamente a interface correspondente, permitindo **resolver as pendências de forma rápida, prática e integrada ao fluxo de trabalho**.  

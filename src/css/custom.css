@@ -361,3 +361,7 @@ h2.text--truncate {
 .menu__link svg {
   display: none;
 }
+
+.menu__list {
+    padding-bottom: 40px;
+}

@@ -53,13 +53,13 @@ Esse nível de organização resulta em uma operação mais fluida e reduz a cha
     ![Painel Configurações](../../../../static/img/prints/01_carga-horária-semanal-004.png)
 
 :::note
-- ![Painel Configurações](../../../../static/img/prints/buttons/btn_disponibilidade.png) Indica que o horário está liberado para atendimentos.
-- ![Painel Configurações](../../../../static/img/prints/buttons/btn_intervalo.png) Indica que o horário está bloqueado para atendimentos e que trata-se de um intervalo.
+- **![Painel Configurações](../../../../static/img/prints/buttons/btn_disponibilidade.png) Disponibilidades:** Indica que o horário está liberado para atendimentos.
+- **![Painel Configurações](../../../../static/img/prints/buttons/btn_intervalo.png) Intervalos:** Indica que o horário está bloqueado para atendimentos e que trata-se de um intervalo.
 :::
 
 :::tip Outras Opções de Disponibilidades
 - **Seleção de Dias:** O sistema permite que você selecione e processe um ou mais dias da semana de uma vez. Isso é especialmente útil se você tiver disponibilidades ou intervalos diferentes para cada dia. Por exemplo, se suas dispobilidades de sexta-feira é diferente de segunda-feira, você pode configurá-las separadamente.
-- **Botão Limpar:** Se for necessário remover configurações feitas, basta clicar no botão “Limpar”. Isso apagará as configurações atuais apenas dos dias selecionados, permitindo que você reconfigure esses dias do zero, se necessário.
+- **Botão Limpar Dias Selecionados:** Se for necessário remover configurações feitas, basta clicar no botão “Limpar Dias Selecionados”. Isso apagará as configurações atuais apenas dos dias selecionados, permitindo que você reconfigure esses dias do zero, se necessário.
 - **Data Início:** As disponibilidades configuradas serão aplicadas na agenda a partir da data que você inserir no campo "Início". Isso permite que você programe as mudanças com antecedência, controlando quando a nova configuração entrará em vigor.
 - **Alteração de Configurações:** Se precisar ajustar cargas horárias ou intervalos que já foram cadastrados, utilize o botão de edição  na lista de Cargas Horárias. Isso facilita a atualização das configurações, garantindo que sua agenda reflita suas necessidades atuais.
 - **Exclusão de Configurações:** Se precisar excluir cargas horárias que já foram cadastradas, utilize o botão de exclusão  na lista de Cargas Horárias.

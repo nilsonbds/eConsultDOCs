@@ -3,8 +3,285 @@
         "tipo": "Psicologia",
         "modelos": [
             {
+                "title": "Histórico Clínico Resumido (Individual)",
+                "class": "anamnesis-content",
+                "grupo_terapeutico": false,
+                "topics": [
+                    {
+                        "index": 0,
+                        "title": "Identificação",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Nome completo",
+                                "value": "@nomepessoa",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Nascimento",
+                                "value": "@nascimento",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "title": "Idade",
+                                "value": "@idade",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 3,
+                                "title": "Gênero",
+                                "value": "@genero",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 4,
+                                "title": "Email",
+                                "value": "@email",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 5,
+                                "title": "Telefone(s)",
+                                "value": "@telefone",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 6,
+                                "title": "Endereço",
+                                "value": "@endereco",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 7,
+                                "title": "Estado Civil",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 8,
+                                "title": "Profissão",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "title": "Resumo Histórico",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Tempo de acompanhamento até aqui",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Queixas ou motivos principais que trouxeram ao atendimento",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "title": "Principais eventos ou mudanças relevantes no histórico",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "title": "Histórico Recente",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Resumo da evolução clínica nos últimos 1–2 meses",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Tratamentos, intervenções ou medicações em curso",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "title": "Estado Atual",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Condições diagnósticas (se aplicável)",
+                                "value": "",
+                                "class": "children",
+                                "visible": false,
+                                "cid_10": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Nível atual de funcionamento (emocional, social, escolar/profissional)",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "title": "Rede de apoio principal",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Histórico Clínico Resumido (Grupo Terapêutico)",
+                "class": "anamnesis-content",
+                "grupo_terapeutico": true,
+                "topics": [
+                    {
+                        "index": 0,
+                        "title": "Identificação do Grupo",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Nome ou identificação do grupo",
+                                "value": "@nomegrupo",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Membros do grupo",
+                                "value": "@membros",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "title": "Critérios de inclusão/exclusão",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 3,
+                                "title": "Duração prevista do grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "title": "Resumo Histórico do Grupo",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Motivo principal para formação do grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Principais objetivos terapêuticos do grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "title": "Histórico prévio relevante dos participantes (síntese coletiva)",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "title": "Histórico Recente",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Evolução clínica observada no grupo nos últimos 1–2 meses",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Principais temas discutidos recentemente",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "title": "Estado Atual do Grupo",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Hipóteses diagnósticas coletivas ou predominantes",
+                                "value": "",
+                                "class": "children",
+                                "visible": false,
+                                "cid_10": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Nível atual de engajamento e funcionamento do grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "title": "Para Adultos",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -319,6 +596,7 @@
             {
                 "title": "Para Crianças e Adolescentes",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -577,6 +855,7 @@
             {
                 "title": "Para Terceira Idade (60+)",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -892,6 +1171,7 @@
             {
                 "title": "Para Gestantes",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -1127,6 +1407,7 @@
             {
                 "title": "Para Jovens Universitários (18 a 25 anos)",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -1392,6 +1673,7 @@
             {
                 "title": "Para Pessoas com Deficiência (PCD)",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -1700,6 +1982,7 @@
             {
                 "title": "Para Casais",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": true,
                 "topics": [
                     {
                         "index": 0,
@@ -1709,41 +1992,34 @@
                         "children": [
                             {
                                 "index": 0,
-                                "title": "Nome completo (Parceiro 1)",
-                                "value": "",
+                                "title": "Nome ou identificação do casal",
+                                "value": "@nomegrupo",
                                 "class": "children",
                                 "visible": false
                             },
                             {
                                 "index": 1,
-                                "title": "Nome completo (Parceiro 2)",
-                                "value": "",
+                                "title": "Membros",
+                                "value": "@membros",
                                 "class": "children",
                                 "visible": false
                             },
                             {
                                 "index": 2,
-                                "title": "Idades",
-                                "value": "",
-                                "class": "children",
-                                "visible": false
-                            },
-                            {
-                                "index": 3,
                                 "title": "Tempo de relacionamento",
                                 "value": "",
                                 "class": "children",
                                 "visible": false
                             },
                             {
-                                "index": 4,
-                                "title": "Estado civil atual",
+                                "index": 3,
+                                "title": "Tipo de relacionamento",
                                 "value": "",
                                 "class": "children",
                                 "visible": false
                             },
                             {
-                                "index": 5,
+                                "index": 4,
                                 "title": "Filhos? Quantos? Idades?",
                                 "value": "",
                                 "class": "children",
@@ -2006,8 +2282,912 @@
                 ]
             },
             {
-                "title": "Para Famílias",
+                "title": "Para Grupos Psicoeducativos (Ansiedade/Depressão)",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": true,
+                "topics": [
+                    {
+                        "index": 0,
+                        "title": "Identificação do Grupo",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Nome ou identificação do grupo",
+                                "value": "@nomegrupo",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Membros do grupo",
+                                "value": "@membros",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "title": "Critérios de inclusão/exclusão",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 3,
+                                "title": "Duração prevista do grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "title": "Expectativas em relação ao grupo",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "O que espera aprender?",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Objetivos pessoais com o grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "title": "Conhecimento prévio sobre o tema",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Participou de grupos semelhantes?",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Nível de informação atual (baixo/médio/alto)",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "title": "Estratégias já utilizadas",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Técnicas já experimentadas (respiração, relaxamento, terapia, etc.)",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Quais funcionaram melhor?",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "title": "Disponibilidade para aplicar técnicas fora das sessões",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Tempo disponível semanal",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Apoio familiar/social para aplicar as técnicas",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Para Grupos de Habilidades Sociais",
+                "class": "anamnesis-content",
+                "grupo_terapeutico": true,
+                "topics": [
+                    {
+                        "index": 0,
+                        "title": "Identificação do Grupo",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Nome ou identificação do grupo",
+                                "value": "@nomegrupo",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Membros do grupo",
+                                "value": "@membros",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "title": "Critérios de inclusão/exclusão",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 3,
+                                "title": "Duração prevista do grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "title": "Autopercepção de habilidades sociais",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Como se percebe em interações sociais?",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Pontos fortes identificados",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "title": "Principais dificuldades",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Situações que geram ansiedade",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Comportamentos evitativos",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "title": "Contextos de maior insegurança",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Ambiente escolar/profissional",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Relacionamentos interpessoais",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "title": "Rede de apoio atual",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Amigos próximos",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Apoio familiar",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Para Grupos de Dependência Química",
+                "class": "anamnesis-content",
+                "grupo_terapeutico": true,
+                "topics": [
+                    {
+                        "index": 0,
+                        "title": "Identificação do Grupo",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Nome ou identificação do grupo",
+                                "value": "@nomegrupo",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Membros do grupo",
+                                "value": "@membros",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "title": "Critérios de inclusão/exclusão",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 3,
+                                "title": "Duração prevista do grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "title": "Histórico de uso de substâncias",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Substâncias utilizadas",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Idade de início",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "title": "Tentativas anteriores de abstinência",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Tratamentos prévios",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Período de abstinência alcançado",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "title": "Rede de apoio familiar e social",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Família envolvida",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Participação em grupos de apoio (ex.: NA, AA)",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "title": "Principais gatilhos identificados",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Situações de risco",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Emoções associadas",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 5,
+                        "title": "Expectativas em relação ao grupo",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Objetivos pessoais",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Para Grupos de Terapia Familiar (várias famílias)",
+                "class": "anamnesis-content",
+                "grupo_terapeutico": true,
+                "topics": [
+                    {
+                        "index": 0,
+                        "title": "Identificação do Grupo",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Nome ou identificação do grupo",
+                                "value": "@nomegrupo",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Membros do grupo",
+                                "value": "@membros",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "title": "Critérios de inclusão/exclusão",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 3,
+                                "title": "Duração prevista do grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "title": "Estrutura familiar",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Quem mora na mesma casa",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Papel de cada membro",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "title": "Problemas de relacionamento frequentes",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Conflitos principais",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Frequência dos conflitos",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "title": "Histórico de saúde mental na família",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Transtornos conhecidos",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Histórico de tratamento",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "title": "Estratégias de resolução de conflitos já tentadas",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Métodos utilizados",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Resultados alcançados",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Para Grupos de Luto e Perdas",
+                "class": "anamnesis-content",
+                "grupo_terapeutico": true,
+                "topics": [
+                    {
+                        "index": 0,
+                        "title": "Identificação do Grupo",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Nome ou identificação do grupo",
+                                "value": "@nomegrupo",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Membros do grupo",
+                                "value": "@membros",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "title": "Critérios de inclusão/exclusão",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 3,
+                                "title": "Duração prevista do grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "title": "Natureza da perda",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Quem foi perdido",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Circunstâncias da perda",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "title": "Impacto emocional predominante",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Principais emoções vividas",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Intensidade da dor (escala)",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "title": "Rituais ou crenças espirituais/culturais",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Práticas religiosas",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Rituais de despedida",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "title": "Recursos de enfrentamento já utilizados",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Estratégias de enfrentamento",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Apoio profissional buscado",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Para Grupos de Crianças e Adolescentes",
+                "class": "anamnesis-content",
+                "grupo_terapeutico": true,
+                "topics": [
+                    {
+                        "index": 0,
+                        "title": "Identificação do Grupo",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Nome ou identificação do grupo",
+                                "value": "@nomegrupo",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Membros do grupo",
+                                "value": "@membros",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "title": "Critérios de inclusão/exclusão",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 3,
+                                "title": "Duração prevista do grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "title": "Dinâmica escolar",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Rendimento acadêmico",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Relacionamento com professores e colegas",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "title": "Interesses e hobbies",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Atividades favoritas",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Participação em esportes ou artes",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "title": "Rede de apoio familiar",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Principais cuidadores",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Participação da família no tratamento",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "title": "Principais dificuldades em casa e na escola",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Queixas relatadas em casa",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Queixas relatadas na escola",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Para Grupos de Apoio (Condições Crônicas, Gestantes, Cuidadores)",
+                "class": "anamnesis-content",
+                "grupo_terapeutico": true,
+                "topics": [
+                    {
+                        "index": 0,
+                        "title": "Identificação do Grupo",
+                        "class": "topic",
+                        "visible": false,
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Nome ou identificação do grupo",
+                                "value": "@nomegrupo",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 1,
+                                "title": "Membros do grupo",
+                                "value": "@membros",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 2,
+                                "title": "Critérios de inclusão/exclusão",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            },
+                            {
+                                "index": 3,
+                                "title": "Duração prevista do grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "title": "Condição clínica associada",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Diagnóstico principal",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Tempo de diagnóstico",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "title": "Sintomas ou desafios diários",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Principais dificuldades no cotidiano",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Impacto na qualidade de vida",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "title": "Apoio de familiares/cuidadores",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "Quem oferece apoio",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Frequência e qualidade desse apoio",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "title": "Expectativas de aprendizado e troca",
+                        "class": "topic",
+                        "children": [
+                            {
+                                "index": 0,
+                                "title": "O que deseja aprender no grupo",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            },
+                            {
+                                "index": 1,
+                                "title": "Como pretende contribuir",
+                                "value": "",
+                                "class": "children",
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Para Famílias (membros da mesma família)",
+                "class": "anamnesis-content",
+                "grupo_terapeutico": true,
                 "topics": [
                     {
                         "index": 0,
@@ -2337,6 +3517,7 @@
             {
                 "title": "Para Profissionais em Situação de Burnout",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -2659,6 +3840,7 @@
             {
                 "title": "Para Processos de Luto",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -2974,6 +4156,7 @@
             {
                 "title": "Para Transtornos Alimentares",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -3346,6 +4529,7 @@
             {
                 "title": "Para Ansiedade e Transtornos Relacionados",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -3718,6 +4902,7 @@
             {
                 "title": "Para Depressão",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -4068,6 +5253,7 @@
             {
                 "title": "Para Avaliação Neuropsicológica",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -4391,6 +5577,7 @@
             {
                 "title": "Para Orientação Vocacional/Profissional",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -4664,6 +5851,7 @@
             {
                 "title": "Para Pacientes Oncológicos",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -5021,6 +6209,7 @@
             {
                 "title": "Para Vítimas de Trauma",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -5364,6 +6553,7 @@
             {
                 "title": "Para Dependentes Químicos",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -5692,6 +6882,7 @@
             {
                 "title": "Para LGBTQIA+ (Questões Específicas)",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -6032,6 +7223,7 @@
             {
                 "title": "Para Migrantes e Refugiados",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -6280,6 +7472,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -6493,6 +7686,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -6706,6 +7900,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -6919,6 +8114,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -7132,6 +8328,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -7345,6 +8542,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -7558,6 +8756,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -7771,6 +8970,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -7984,6 +9184,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -8197,6 +9398,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -8410,6 +9612,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -8623,6 +9826,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -8836,6 +10040,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -9049,6 +10254,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -9262,6 +10468,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -9475,6 +10682,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -9688,6 +10896,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,
@@ -9901,6 +11110,7 @@
             {
                 "title": "Anamnese Geral",
                 "class": "anamnesis-content",
+                "grupo_terapeutico": false,
                 "topics": [
                     {
                         "index": 0,

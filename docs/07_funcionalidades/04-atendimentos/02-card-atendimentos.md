@@ -31,7 +31,7 @@ Além dos ícones informativos, os *cards* também disponibilizam os seguintes b
 
 |Botão|Ação|
 |-|-|
-|![Atendimentos](../../../static/img/prints/buttons/btn-anotacoes.png)|**Anotações:** Mostra a quantidade de anotações e permite abrir a [tela de gestão de anotações do atendimento](/docs/funcionalidades/atendimentos/anotacoes).|
+|![Atendimentos](../../../static/img/prints/buttons/btn-anotacoes.png)|**Anotações:** Mostra a quantidade de anotações e permite abrir a [tela de gestão de Anotações Clínicas](/docs/funcionalidades/atendimentos/anotacoes).|
 |![Atendimentos](../../../static/img/prints/buttons/btn-anexos.png)|**Arquivos:** Mostra a quantidade de arquivos vinculados e permite abrir a [tela de gestão de arquivos do atendimento](/docs/funcionalidades/atendimentos/arquivos).|
 |![Atendimentos](../../../static/img/prints/buttons/btn-lembretes.png)|**Lembretes de Atendimentos:** Mostra as cores dos lembretes vinculados ao atendimento e permite fazer a gestão destes [lembretes](/docs/funcionalidades/atendimentos/lembretes).|
 |![Atendimentos](../../../static/img/prints/buttons/btn-presenca.png)|**Informe de Presença (somente para grupos terapêuticos):** Mostra a quantidade de membros vinculados ao grupo terapêutico e permite o [registro de ausências e presenças](/docs/funcionalidades/atendimentos/presenca-pagamentos).​|

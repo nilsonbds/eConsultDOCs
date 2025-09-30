@@ -10,11 +10,15 @@ A aba Atendimentos exibe o histórico completo de atendimentos realizados e auxi
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-013.png)
 
-A aba conta com os filtros mês e ano, permitindo uma visualização segmentada dos compromissos realizados ou agendados dentro de períodos específicos. Essa funcionalidade facilita a análise de padrões, o acompanhamento da frequência e a gestão eficiente do tempo.
+No caso de clientes, a aba apresenta duas subabas distintas: "Individuais", destinada ao acompanhamento e organização dos atendimentos realizados de forma exclusiva para aquele cliente, e "Em Grupo", voltada para os atendimentos em que o cliente participa junto a outros, no contexto de grupos terapêuticos (como casais, famílias ou grupos maiores). Essa separação proporciona maior clareza na visualização e no gerenciamento, permitindo ao profissional identificar rapidamente o tipo de atendimento e acessar as informações de maneira estruturada e objetiva.
+
+![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-072.png)
+
+A aba conta ainda com filtros de "mês e ano", que possibilitam uma visualização segmentada dos compromissos realizados ou agendados dentro de períodos específicos. Essa funcionalidade apoia a análise de padrões, o acompanhamento da frequência e a gestão eficiente do tempo.
 
 ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-014.png)
 
-Além disso, é apresentada uma lista de *cards*, onde cada um representa um atendimento agendado. 
+Além disso, em cada subaba é exibida uma lista de cards, onde cada card representa um atendimento agendado, oferecendo ao profissional uma forma prática e organizada de acompanhar os compromissos. 
 
     :::tip
 

@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Anotações do Atendimento
+# Anotações Clínicas
 
 Você pode elaborar anotações detalhadas para os atendimentos realizados no eConsult, com o objetivo de registrar informações essenciais desde o motivo inicial do atendimento até observações feitas durante a interação. Essas anotações são fundamentais para documentar decisões, raciocínios, e orientações fornecidas ao cliente, garantindo que o atendimento seja compreendido e que haja continuidade adequada nos cuidados ou serviços prestados.
 
@@ -16,13 +16,13 @@ A decisão de publicar ou não as anotações no prontuário deve levar em conta
 
 1. Acione a opção ![Atendimento](../../../static/img/prints/buttons/btn-anotacoes.png) no *card* do atendimento que deseja incluir uma anotação.
 
-1. O sistema abre a tela "Anotações do Atendimento".
+1. O sistema abre a tela "Anotações Clínicas".
 
     ![Atendimento](../../../static/img/prints/atendimento/047.png)
 
 1. Acione o botão "Incluir" ![Atendimento](../../../static/img/prints/buttons/btn_incluir.png).
 
-1. O sistema abre o formulário "Anotações do Atendimento".
+1. O sistema abre o formulário "Anotações Clínicas".
 
     ![Atendimento](../../../static/img/prints/atendimento/048.png)
 
@@ -30,7 +30,7 @@ A decisão de publicar ou não as anotações no prontuário deve levar em conta
 
     ![Atendimento](../../../static/img/prints/atendimento/049.png)
 
-1. Após a inclusão, o sistema exibe a tela "Anotações do Atendimento" com a anotação registrada.
+1. Após a inclusão, o sistema exibe a tela "Anotações Clínicas" com a anotação registrada.
 
     ![Atendimento](../../../static/img/prints/atendimento/050.png)
 
@@ -39,7 +39,7 @@ A decisão de publicar ou não as anotações no prontuário deve levar em conta
     ![Atendimento](../../../static/img/prints/atendimento/052.png)
 
 :::tip
-Você pode incluir quantas anotações desejar por atendimento, sem limite. Na tela "Anotações do Atendimento", é possível utilizar os botões "Alterar" ![Atendimento](../../../static/img/prints/buttons/btn_card-edit.png) e "Excluir" ![Atendimento](../../../static/img/prints/buttons/btn_card-delete.png) para modificar ou remover uma anotação conforme necessário.
+Você pode incluir quantas anotações desejar por atendimento, sem limite. Na tela "Anotações Clínicas", é possível utilizar os botões "Alterar" ![Atendimento](../../../static/img/prints/buttons/btn_card-edit.png) e "Excluir" ![Atendimento](../../../static/img/prints/buttons/btn_card-delete.png) para modificar ou remover uma anotação conforme necessário.
 :::
 
 :::note

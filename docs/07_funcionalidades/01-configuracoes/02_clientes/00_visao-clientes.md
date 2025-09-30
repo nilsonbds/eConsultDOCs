@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Sobre Configurações para Clientes
 
-As configurações para **Clientes** que incluem campos adicionais personalizados e grupos de clientes por idade são essenciais para uma gestão mais detalhada e eficiente. Essas funcionalidades permitem adaptar o sistema de gerenciamento de clientes às necessidades específicas do seu negócio, oferecendo uma visão mais precisa e segmentada.
+As configurações para **Clientes** que incluem campos adicionais personalizados e Grupos Etários são essenciais para uma gestão mais detalhada e eficiente. Essas funcionalidades permitem adaptar o sistema de gerenciamento de clientes às necessidades específicas do seu negócio, oferecendo uma visão mais precisa e segmentada.
 
 ## Campos Adicionais para Clientes
 
@@ -15,7 +15,7 @@ Permite você criar um formulário padrão para cadastro de informações adicio
 - **Ordenação:** Utilize os botões de ordenação para ajustar a ordem dos campos adicionais, facilitando o acesso e a organização das informações.
 - **Edição e Exclusão:** Modifique ou exclua campos conforme necessidade para manter a relevância e a eficiência dos registros.
 
-## Grupos por Idade
+## Grupos Etários
 
 Permite criar grupos etários no sistema, que são atribuídos automaticamente aos clientes com base na data de nascimento informada.
 

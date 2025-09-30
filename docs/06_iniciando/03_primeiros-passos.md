@@ -18,7 +18,7 @@ O checklist fica disponível no **Painel Inicial**  no **PainelAlertas** sempre 
 
 A boa notícia é que o próprio eConsult se encarrega de configurar automaticamente algumas dessas recomendações/exigências para facilitar sua jornada inicial. São elas:
 
-- ***Recomendação* — Grupos por Idade:** O eConsult já vem com um cadastro completo de Grupos por Idade.
+- ***Recomendação* — Grupos Etários:** O eConsult já vem com um cadastro completo de Grupos Etários.
 - ***Exigência* — Formas de Pagamento:** O eConsult cadastra previamente diversas Formas de Pagamento.
 - ***Exigência* — Modelos de Anamnese:** O eConsult já oferece diversos Modelos de Anamnese pré-configurados de acordo com a sua especialidade, prontos para serem utilizados nos prontuários.
 
