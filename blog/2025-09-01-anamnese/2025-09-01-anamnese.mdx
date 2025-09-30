@@ -8,6 +8,7 @@ date: 2025-09-01
 image: "https://documents.econsult.app.br/images/blog/anamnese.png"
 ---
 
+import BrowserOnly from '@docusaurus/BrowserOnly';
 import Comments from '@site/src/components/Comments';
 
 <div className="card__image">
@@ -74,4 +75,6 @@ Com o eConsult, a anamnese deixa de ser um formulário engessado e passa a ser u
 4. Kawamoto, K., et al. *“Clinical Decision Support Systems for the practice of evidence-based medicine.”* Journal of the American Medical Informatics Association, 2005.  
 5. Wright, A., et al. *“Clinical decision support: a 25-year retrospective.”* Yearbook of Medical Informatics, 2014.  
 
-<Comments postId="anamnese" />
+<BrowserOnly>
+  {() => <Comments postId="anamnese" />}
+</BrowserOnly>
