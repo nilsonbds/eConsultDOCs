@@ -1,18 +1,44 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useRef } from "react";
 import axios from "axios";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import { SiGooglechrome } from "react-icons/si";
+
 
 // URL da sua API (ajuste se backend estiver em outra porta/domínio)
 const API_URL = "https://econsultapp.com";
 
 export default function Comments({ postId }) {
+    const buttonDiv = useRef(null);
     const { siteConfig } = useDocusaurusContext();
     const googleClientId = siteConfig.customFields.GOOGLE_CLIENT_ID;
     const [comments, setComments] = useState([]);
     const [content, setContent] = useState("");
     const [token, setToken] = useState(localStorage.getItem("google_token"));
-    const [user, setUser] = useState(null);
+    const [user, setUser] = useState({name: '', email: ''});
     const [allowEmails, setAllowEmails] = useState(true);
+
+    function GoogleLoginButton({ onSuccess }) {
+        const buttonDiv = useRef(null);
+
+        useEffect(() => {
+            if (window.google && buttonDiv.current) {
+                window.google.accounts.id.initialize({
+                    client_id: "<SEU_CLIENT_ID>.apps.googleusercontent.com",
+                    callback: onSuccess,
+                });
+
+                window.google.accounts.id.renderButton(buttonDiv.current, {
+                    theme: "outline",   // outline | filled_blue | filled_black
+                    size: "large",      // small | medium | large
+                    shape: "rectangular", // rectangular | pill | circle | square
+                    logo_alignment: "left", // left |
+                    text: "continue_with",  // "signin_with" ou "continue_with"
+                });
+            }
+        }, []);
+
+        return <div ref={buttonDiv}></div>;
+    }
 
     // Carregar comentários ao montar
     useEffect(() => {
@@ -61,13 +87,11 @@ export default function Comments({ postId }) {
 
     // Enviar comentário
     const handleSubmit = async () => {
-        if (!content.trim()) {
-            alert('✍️ Opa! Escreva algo antes de enviar seu comentário! 😉');
+        if (!user.name.trim() || !user.email.trim()) {
+            alert('Informe seu nome e email!');
             return
         }
 
-        if (!token) return alert("Faça login para comentar");
-        F
         try {
             const res = await axios.post(
                 `${API_URL}/blog/comments`,
@@ -101,45 +125,88 @@ export default function Comments({ postId }) {
         <div style={{ marginTop: "2rem" }}>
             <h3>Comentários</h3>
 
-            {!token ? (
-                <button onClick={handleGoogleLogin}>Login com Google</button>
-            ) : (
-                <div style={{ marginBottom: "1rem" }}>
-                    <img
-                        src={user?.picture}
-                        alt={user?.name}
-                        style={{ width: "40px", borderRadius: "50%" }}
-                    />
-                    <span style={{ marginLeft: "0.5rem" }}>{user?.name}</span>
-                    <button onClick={handleLogout} style={{ marginLeft: "1rem" }}>
-                        Sair
-                    </button>
-                </div>
-            )}
-
-            {token && (
-                <>
-                    <textarea
-                        value={content}
-                        onChange={(e) => setContent(e.target.value)}
-                        placeholder="Escreva seu comentário..."
-                        rows="3"
-                        style={{ width: "100%", marginBottom: "0.5rem" }}
-                    />
-                    <button onClick={handleSubmit}>Enviar</button>
-
-                    <div style={{ marginTop: "1rem" }}>
-                        <label>
-                            <input
-                                type="checkbox"
-                                checked={allowEmails}
-                                onChange={(e) => handleEmailPreference(e.target.checked)}
-                            />
-                            Quero receber novidades por e-mail
-                        </label>
+            <div className="container">
+                <div className="row" style={{ margin: 0, padding: 0, rowGap: "10px", }}>
+                    <div className="col col--12" style={{paddingLeft: "5px",paddingRight: "5px"}}>
+                        <input
+                            type="text"
+                            id="nome"
+                            className="form-control shadow--lw"
+                            placeholder="Digite seu nome"
+                            style={{
+                                borderRadius: "8px",
+                                border: "1px solid #ccc",
+                                padding: "10px",
+                                fontSize: "1rem",
+                                width: "100%",
+                            }}
+                        />
                     </div>
-                </>
-            )}
+
+                    <div className="col col--12" style={{paddingLeft: "5px",paddingRight: "5px"}}>
+                        <input
+                            type="email"
+                            id="email"
+                            className="form-control shadow--lw"
+                            placeholder="Digite seu e-mail"
+                            style={{
+                                borderRadius: "8px",
+                                border: "1px solid #ccc",
+                                padding: "10px",
+                                fontSize: "1rem",
+                                width: "100%",
+                            }}
+                        />
+                    </div>
+
+                    <div className="col col--12" style={{paddingLeft: "5px",paddingRight: "5px"}}>
+                        <textarea
+                            value={content}
+                            onChange={(e) => setContent(e.target.value)}
+                            placeholder="Escreva seu comentário..."
+                            rows="3"
+                            style={{
+                                borderRadius: "8px",
+                                border: "1px solid #ccc",
+                                padding: "10px",
+                                fontSize: "1rem",
+                                width: "100%",
+                            }}
+                        />
+                    </div>
+
+                    <div className="col col--6" style={{paddingLeft: "5px",paddingRight: "5px"}}>
+                        <GoogleLoginButton onSuccess={(response) => {
+                            const token = response.credential;
+                            localStorage.setItem("google_token", token);
+                            setToken(token);
+                            const payload = JSON.parse(atob(token.split(".")[1]));
+                            setUser({
+                                name: payload.name,
+                                email: payload.email,
+                                picture: payload.picture,
+                            });
+                        }} />
+                    </div>
+
+                    <div className="col col--6" style={{ textAlign: "right", paddingLeft: "5px",paddingRight: "5px" }}>
+                        <button
+                            onClick={handleSubmit}
+                            style={{
+                                borderRadius: "8px",
+                                border: "1px solid #ccc",
+                                padding: "10px",
+                                fontSize: "1rem",
+                                width: "100%",
+                            }}
+                        >
+                            Enviar
+                        </button>
+                    </div>
+
+
+                </div>
+            </div>
 
             <div style={{ marginTop: "2rem" }}>
                 {comments.map((c) => (
