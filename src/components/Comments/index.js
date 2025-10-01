@@ -4,8 +4,10 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import dayjs from "dayjs";
 import relativeTime from "dayjs/plugin/relativeTime";
 import "dayjs/locale/pt-br";
+import { Filter } from 'bad-words'
 
 export default function Comments({ postId }) {
+    const filter = new Filter();
     const API_URL = "https://econsultapp.com";
     const [clear, setClear] = useState(0);
     const [error, setError] = useState("");
@@ -74,6 +76,10 @@ export default function Comments({ postId }) {
     const handleSubmit = async () => {
         if (!name.trim() || !email.trim()) {
             setError("⚠️ Informe seu nome e e-mail para comentar.");
+            return;
+        }
+        if (filter.isProfane(content)) {
+            setError("🚫 Seu comentário contém palavras inadequadas.");
             return;
         }
         setError(""); // limpa erro antes de enviar
