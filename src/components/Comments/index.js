@@ -56,8 +56,8 @@ export default function Comments({ postId }) {
     }, [postId, clear]);
 
     useEffect(() => {
-        setName(JSON.parse(atob(token.split(".")[1])).name);
-        setEmail(JSON.parse(atob(token.split(".")[1])).email);
+        setName(token ? JSON.parse(atob(token.split(".")[1])).name : "");
+        setEmail(token ? JSON.parse(atob(token.split(".")[1])).email: "");
     }, [token]);
 
     async function toBase64FromUrl(imageUrl) {
