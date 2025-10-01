@@ -8,6 +8,9 @@ date: 2025-09-01
 image: "https://documents.econsult.app.br/images/blog/engajamento.png"
 ---
 
+import BrowserOnly from '@docusaurus/BrowserOnly';
+import Comments from '@site/src/components/Comments';
+
 <div className="card__image">
     <img
     src="/img/blog/engajamento.png"
@@ -95,3 +98,7 @@ No fim, trata-se de uma ferramenta que fortalece a relação terapêutica, ampli
 - Kleiman, E. M., Turner, B. J., Fedor, S., Beale, E. E., Picard, R. W., Huffman, J. C., & Nock, M. K. (2017). *Digital phenotyping of suicidal thoughts*. Depression and Anxiety, 34(7), 601–608.  
 - Linardon, J., Cuijpers, P., Carlbring, P., Messer, M., & Fuller-Tyszkiewicz, M. (2019). *The efficacy of app-supported smartphone interventions for mental health problems: a meta-analysis of randomized controlled trials*. World Psychiatry, 18(3), 325–336.  
 - Swift, J. K., & Greenberg, R. P. (2012). *Premature discontinuation in adult psychotherapy: A meta-analysis*. Journal of Consulting and Clinical Psychology, 80(4), 547–559.  
+
+<BrowserOnly>
+  {() => <Comments postId="engajamento" />}
+</BrowserOnly>

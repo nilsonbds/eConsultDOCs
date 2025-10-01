@@ -34,12 +34,12 @@ avaliacao_psicologica:
   description: Testes e escalas psicológicas integradas à rotina clínica para apoio à tomada de decisão.
 
 score:
-  label: Análise Inteligente de Engajamento
+  label: Scores de Engajamento
   permalink: /score
   description: Funcionalidade estratégica do eConsult que apoia a gestão clínica e administrativa. Permite acompanhar o comportamento dos pacientes, identificar oportunidades de engajamento e promover maior fidelização.
 
 engajamento:
-  label: Análise Inteligente de Engajamento
+  label: Engajamento
   permalink: /engajamento
   description: Funcionalidade estratégica do eConsult que apoia a gestão clínica e administrativa. Permite acompanhar o comportamento dos pacientes, identificar oportunidades de engajamento e promover maior fidelização.
 

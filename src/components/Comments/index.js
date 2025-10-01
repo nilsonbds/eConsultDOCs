@@ -9,6 +9,7 @@ import { Filter } from 'bad-words'
 export default function Comments({ postId }) {
     const filter = new Filter();
     const API_URL = "https://econsultapp.com";
+    //const API_URL = "http://localhost:3000";
     const [clear, setClear] = useState(0);
     const [error, setError] = useState("");
     const [success, setSuccess] = useState("");
