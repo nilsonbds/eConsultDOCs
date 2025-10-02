@@ -8,6 +8,9 @@ date: 2025-09-28
 image: "https://documents.econsult.app.br/images/blog/escalas.png"
 ---
 
+import BrowserOnly from '@docusaurus/BrowserOnly';
+import Comments from '@site/src/components/Comments';
+
 <div className="card__image">
     <img
     src="/img/blog/escalas.png"
@@ -85,3 +88,7 @@ O eConsult se diferencia ao adotar uma postura **ética, científica e centrada 
 - Morgeson, F. P., et al. (2007). *Are we getting fooled again? Coming to terms with limitations in the use of personality tests for personnel selection*. Personnel Psychology, 60(4), 1029–1049.  
 - Conselho Federal de Psicologia (CFP). *Resoluções sobre Avaliação Psicológica*.  
 - American Psychological Association (APA). *Standards for Educational and Psychological Testing*.  
+
+<BrowserOnly>
+  {() => <Comments postId="escalas" />}
+</BrowserOnly>

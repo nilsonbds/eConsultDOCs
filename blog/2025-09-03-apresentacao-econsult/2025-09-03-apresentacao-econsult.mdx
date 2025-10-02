@@ -9,6 +9,9 @@ date: 2025-09-03
 image: "https://documents.econsult.app.br/images/blog/apresentacao-econsult.png"
 ---
 
+import BrowserOnly from '@docusaurus/BrowserOnly';
+import Comments from '@site/src/components/Comments';
+
 <small><strong>📌 Post Fixado</strong></small>
 
 <div className="card__image">
@@ -71,3 +74,7 @@ Mais do que um sistema, o eConsult é um **parceiro estratégico para psicólogo
 <a href="https://econsult.app.br/multidisciplinar" target="_blank" rel="noopener noreferrer">
   👉 Crie sua conta gratuita
 </a>
+
+<BrowserOnly>
+  {() => <Comments postId="apresentacao-econsult" />}
+</BrowserOnly>

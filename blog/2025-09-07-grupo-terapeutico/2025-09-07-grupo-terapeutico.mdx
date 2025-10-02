@@ -8,6 +8,9 @@ date: 2025-09-07
 image: "https://documents.econsult.app.br/images/blog/grupo-terapeutico.png"
 ---
 
+import BrowserOnly from '@docusaurus/BrowserOnly';
+import Comments from '@site/src/components/Comments';
+
 <div className="card__image">
     <img
     src="/img/blog/grupo-terapeutico.png"
@@ -85,3 +88,7 @@ O que antes era disperso em planilhas externas passa a ser parte de um **sistema
 
 > Pronto para transformar sua rotina?  
 > [Clique aqui e experimente gratuitamente.](https://econsult.app.br/multidisciplinar)
+
+<BrowserOnly>
+  {() => <Comments postId="grupo-terapeutico" />}
+</BrowserOnly>

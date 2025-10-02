@@ -8,6 +8,9 @@ date: 2025-09-26
 image: "https://documents.econsult.app.br/images/blog/historico.png"
 ---
 
+import BrowserOnly from '@docusaurus/BrowserOnly';
+import Comments from '@site/src/components/Comments';
+
 <div className="card__image">
     <img
     src="/img/blog/historico.png"
@@ -103,4 +106,6 @@ Se você está começando no eConsult:
 
 👍 Assim, você aproveita desde já os recursos do eConsult sem sobrecarga, mantém consistência clínica e garante respaldo ético-legal.  
 
----
+<BrowserOnly>
+  {() => <Comments postId="historico" />}
+</BrowserOnly>
