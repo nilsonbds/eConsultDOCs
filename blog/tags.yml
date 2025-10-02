@@ -92,3 +92,18 @@ escalas:
   label: Escalas Psicológicas
   permalink: /escalas
   description: Discussões críticas e aplicações práticas de testes e escalas psicológicas no contexto clínico e tecnológico.
+
+sigilo:
+  label: Sigilo Profissional
+  permalink: /sigilo
+  description: Reflexões sobre confidencialidade, ética e proteção de dados no exercício da psicologia, tanto presencial quanto online.
+
+telepsicologia:
+  label: Telepsicologia
+  permalink: /telepsicologia
+  description: Conteúdos e práticas relacionadas ao atendimento psicológico online, incluindo ética, segurança e ferramentas digitais.
+
+dailyco:
+  label: Daily.co
+  permalink: /dailyco
+  description: Posts sobre a plataforma de videoconferência Daily.co, suas vantagens, integrações e uso no contexto da psicologia digital.

@@ -1,0 +1,102 @@
+---
+slug: anotacoes-clinicas-com-ia
+title: "Anotações clínicas com IA: ética, ciência e segurança"
+authors: [eConsultTeam]
+tags: [psicologia, tecnologia, ia, lgpd, etica, prontuario]
+description: "Por que a maioria dos sistemas de mercado erra no uso da IA em anotações clínicas e como o eConsult traz um modelo moderno, seguro e cientificamente embasado."
+date: 2025-10-02
+image: "https://documents.econsult.app.br/images/blog/anotacoes-clinicas-com-ia.png"
+---
+
+import BrowserOnly from '@docusaurus/BrowserOnly';
+import Comments from '@site/src/components/Comments';
+
+<div className="card__image">
+  <img
+    src="/img/blog/anotacoes-clinicas-com-ia.png"
+    alt="Ilustração de psicólogo fazendo anotações clínicas"
+    style={{ width: "100%", height: "200px", objectFit: "cover" }}
+  />
+</div>
+
+# 🚫 O problema dos sistemas atuais  
+
+As **anotações clínicas** — registros feitos sessão a sessão pelo psicólogo (ex.: SOAP, PPR) — são parte essencial do acompanhamento terapêutico.  
+Embora não sejam o prontuário completo, possuem o **mesmo peso ético e legal**, já que contêm **dados sensíveis de saúde** e informações que podem identificar o paciente.  
+
+<!-- truncate -->
+
+O problema é que muitos sistemas de mercado que integram **IA** ainda cometem erros sérios:  
+
+- **Enviam dados crus para a IA** (nomes, locais, parentescos, diagnósticos), ferindo sigilo.  
+- **Não padronizam registros** em modelos científicos (SOAP, PPR), deixando cada anotação inconsistente.  
+- **Não deixam claro o papel da IA**, levando à falsa impressão de que a análise clínica pode ser delegada.  
+
+Essas falhas expõem o psicólogo a **riscos éticos e jurídicos** (Código de Ética Profissional do Psicólogo, CFP 2005; LGPD, Lei 13.709/2018).  
+
+---
+
+## O que um sistema moderno deve fazer  
+
+Para alinhar-se à ética profissional e às boas práticas de documentação clínica, um sistema moderno precisa aplicar:  
+
+1. **Anonimização**: substituição automática de dados identificáveis (nome, cidade, empresa) por placeholders, como `[NOME1]` ou `[CIDADE1]`.  
+    
+    :::note
+    Funcionalidades de anonimização:
+        - *Regex (expressões regulares)*: técnica de programação que detecta padrões no texto (ex.: nomes próprios).  
+        - *NER (Named Entity Recognition)*: Identifica entidades básicas no texto, ou seja, palavras ou expressões que representam algo específico. Exemplos típicos que essas libs detectam:
+            - Nomes próprios → “João”, “Maria”, “Dr. Carlos”.
+            - Locais → “São Paulo”, “Hospital Santa Casa”.
+            - Datas → “12 de março”, “ontem”, “2022”.
+            - Números → “35 anos”, “dois filhos”.
+            - Organizações → “Fiat”, “Prefeitura de Belo Horizonte”.  
+        - *Placeholder*: marcador temporário usado para proteger a identidade.
+    :::  
+
+2. **Envio seguro à IA**: a IA só processa o texto anonimizado, nunca o dado real.  
+
+3. **Desanonimização**: processo inverso, em que os dados originais são recolocados pelo próprio sistema antes de apresentar ao psicólogo.  
+
+4. **Padronização científica**: estruturação em modelos reconhecidos como **SOAP (Subjective, Objective, Assessment, Plan)** ou **PPR (Prontuário Psicológico Resumido, CFP/2018)**.  
+
+5. **Revisão obrigatória**: nada é salvo automaticamente; o psicólogo revisa e valida o texto.  
+
+Essas práticas garantem conformidade com a **LGPD** (princípio da minimização de dados) e preservam a **autonomia técnica do psicólogo**.  
+
+---
+
+## A proposta do eConsult  
+
+O **eConsult** já nasce com essa visão moderna:  
+
+✔️ Captura o que o psicólogo escreve de forma livre.  
+✔️ Estrutura automaticamente em formatos como **SOAP** ou **PPR**.  
+✔️ **Anonimiza** dados sensíveis antes de enviar à IA.  
+✔️ Organiza o texto em linguagem clara e padronizada.  
+✔️ **Desanonimiza** os dados de volta no resultado, sem expor sigilo.  
+✔️ Exige **revisão e validação final** do psicólogo.  
+
+👉 Esse mesmo processo é aplicado tanto nas **anotações clínicas de cada sessão** quanto no **prontuário completo**.  
+
+Assim, o eConsult entrega:  
+- **Produtividade**: menos tempo com burocracia, mais foco no paciente.  
+- **Autoridade científica**: uso de estruturas validadas como SOAP e PPR.  
+- **Ética profissional**: sigilo preservado e respeito ao Código de Ética.  
+- **Segurança jurídica**: conformidade com a LGPD.  
+
+---
+
+## 📚 Referências  
+
+- Conselho Federal de Psicologia (2005). *Código de Ética Profissional do Psicólogo.*  
+- CFP (2018). *Resolução nº 01/2018: dispõe sobre documentos produzidos pelo psicólogo.*  
+- Brasil (2018). *Lei nº 13.709 – Lei Geral de Proteção de Dados (LGPD).*  
+- Dolin, R. H. et al. (2010). HL7 Clinical Document Architecture. *Journal of the American Medical Informatics Association.*  
+- Gkoulalas-Divanis, A., Loukides, G., Sun, J. (2014). Publishing data from electronic health records while preserving privacy. *Journal of Biomedical Informatics.*  
+
+---
+
+<BrowserOnly>
+  {() => <Comments postId="anotacoes-clinicas-com-ia" />}
+</BrowserOnly>
