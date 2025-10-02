@@ -48,18 +48,27 @@ export default function Comments({ postId }) {
         return <div ref={buttonDiv}></div>;
     }
 
-    // Carregar comentários ao montar
-    useEffect(() => {
-        const url = API_URL + "/blog/comments?postId=" + postId;
-        axios.get(url)
-            .then((response) => setComments(response.data))
-            .catch((error) => console.error("Erro ao carregar comentários", error));
-    }, [postId, clear]);
+    function decodeJwt(token) {
+        try {
+            const payload = JSON.parse(atob(token.split(".")[1]));
+            return payload;
+        } catch (e) {
+            return null;
+        }
+    }
 
-    useEffect(() => {
-        setName(token ? JSON.parse(atob(token.split(".")[1])).name : "");
-        setEmail(token ? JSON.parse(atob(token.split(".")[1])).email: "");
-    }, [token]);
+    function isTokenExpired(token) {
+        const payload = decodeJwt(token);
+        if (!payload) return true;
+
+        const now = Math.floor(Date.now() / 1000); // tempo atual em segundos
+        return payload.exp < now;
+    }
+
+    function isValidEmail(email) {
+        const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        return regex.test(email);
+    }
 
     async function toBase64FromUrl(imageUrl) {
         const response = await fetch(imageUrl);
@@ -75,12 +84,16 @@ export default function Comments({ postId }) {
 
     // Enviar comentário
     const handleSubmit = async () => {
+        if (!isValidEmail(email.trim())) {
+            setError("⚠️ Informe um e-mail válido!");
+            return
+        }
         if (!name.trim() || !email.trim()) {
-            setError("⚠️ Informe seu nome e e-mail para comentar.");
+            setError("⚠️ Informe seu nome e e-mail para comentar!");
             return;
         }
         if (filter.isProfane(content)) {
-            setError("🚫 Seu comentário contém palavras inadequadas.");
+            setError("🚫 Seu comentário contém palavras inadequadas!");
             return;
         }
         setError(""); // limpa erro antes de enviar
@@ -103,7 +116,27 @@ export default function Comments({ postId }) {
                 // handle error
                 console.error("Erro ao enviar comentário", error);
             });
-    };
+    }
+
+    useEffect(() => {
+        if (token && isTokenExpired(token)) {
+            localStorage.removeItem("google_token");
+            setToken(null);
+        }
+    }, [token]);
+
+    // Carregar comentários ao montar
+    useEffect(() => {
+        const url = API_URL + "/blog/comments?postId=" + postId;
+        axios.get(url)
+            .then((response) => setComments(response.data))
+            .catch((error) => console.error("Erro ao carregar comentários", error));
+    }, [postId, clear]);
+
+    useEffect(() => {
+        setName(token ? JSON.parse(atob(token.split(".")[1])).name : "");
+        setEmail(token ? JSON.parse(atob(token.split(".")[1])).email : "");
+    }, [token]);
 
     return (
         <div style={{ marginTop: "2rem" }}>
@@ -125,13 +158,13 @@ export default function Comments({ postId }) {
                         <input
                             type="text"
                             id="nome"
-                            className="form-control shadow--lw"
+                            className="form-control"
                             placeholder="Digite seu nome"
                             disabled={!!token}
                             value={name}
                             onChange={(e) => setName(e.target.value)}
                             style={{
-                                borderRadius: "8px",
+                                borderRadius: "3px",
                                 border: "1px solid #ccc",
                                 padding: "10px",
                                 fontSize: "1rem",
@@ -144,12 +177,12 @@ export default function Comments({ postId }) {
                             type="email"
                             id="email"
                             disabled={!!token}
-                            className="form-control shadow--lw"
+                            className="form-control"
                             placeholder="Digite seu e-mail"
                             value={email}
                             onChange={(e) => setEmail(e.target.value)}
                             style={{
-                                borderRadius: "8px",
+                                borderRadius: "3px",
                                 border: "1px solid #ccc",
                                 padding: "10px",
                                 fontSize: "1rem",
@@ -164,12 +197,30 @@ export default function Comments({ postId }) {
                             placeholder="Escreva seu comentário..."
                             rows="3"
                             style={{
-                                borderRadius: "8px",
+                                padding: "10px",
+                                margin: "0px",
+                                borderRadius: "3px",
                                 border: "1px solid #ccc",
                                 fontSize: "1rem",
                                 width: "100%",
                             }}
                         />
+                    </div>
+                    <div className="col col--6" style={{ paddingLeft: "5px", paddingRight: "5px" }}>
+                        <button
+                            onClick={handleSubmit}
+                            disabled={!name.trim() || !email.trim() || !content.trim()}
+                            style={{
+                                borderRadius: "3px",
+                                border: "1px solid #ccc",
+                                padding: "10px",
+                                fontSize: "1rem",
+                                width: "100%",
+                                cursor: "pointer",
+                            }}
+                        >
+                            Enviar
+                        </button>                        
                         {error && (
                             <div style={{ color: "red", fontSize: "0.9rem", marginTop: "5px" }}>
                                 {error}
@@ -180,22 +231,6 @@ export default function Comments({ postId }) {
                                 {success}
                             </div>
                         )}
-                    </div>
-                    <div className="col col--6" style={{ paddingLeft: "5px", paddingRight: "5px" }}>
-                        <button
-                            onClick={handleSubmit}
-                            disabled={!name.trim() || !email.trim() || !content.trim()}
-                            style={{
-                                borderRadius: "8px",
-                                border: "1px solid #ccc",
-                                padding: "10px",
-                                fontSize: "1rem",
-                                width: "100%",
-                                cursor: "pointer",
-                            }}
-                        >
-                            Enviar
-                        </button>
                     </div>
                 </div>
             </div>
