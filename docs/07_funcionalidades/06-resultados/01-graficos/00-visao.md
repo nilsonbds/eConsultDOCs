@@ -12,7 +12,7 @@ Os gráficos contemplados incluem:
 
     ![Painel Resultados](../../../../static/img/prints/resultados/001.png)
 
-- **Detalhe da Frequência:** Mostra o comportamento de comparecimento dos clientes, permitindo identificar padrões de assiduidade.
+- **Detalhe da Frequência:** Mostra o comportamento de comparecimento dos pacientes, permitindo identificar padrões de assiduidade.
 
     ![Painel Resultados](../../../../static/img/prints/resultados/002.png)
 
@@ -36,7 +36,7 @@ Os gráficos contemplados incluem:
 
     ![Painel Resultados](../../../../static/img/prints/resultados/007.png)
 
-- **Desmarcações e Remarcações:** Permite visualizar tendências de cancelamentos e reagendamentos, auxiliando na análise de aderência dos clientes aos atendimentos e na gestão da agenda.
+- **Desmarcações e Remarcações:** Permite visualizar tendências de cancelamentos e reagendamentos, auxiliando na análise de aderência dos pacientes aos atendimentos e na gestão da agenda.
 
     ![Painel Resultados](../../../../static/img/prints/resultados/008.png)
 

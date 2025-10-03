@@ -64,7 +64,7 @@
     "description": "O rótulo da categoria Configurações para Pacientes na barra lateral tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Configurações para Pacientes.link.generated-index.description": {
-    "message": "O painel de Configurações para Pacientes no eConsult é dedicado ao gerenciamento de perfis e preferências dos clientes, oferecendo flexibilidade e personalização no atendimento.",
+    "message": "O painel de Configurações para Pacientes no eConsult é dedicado ao gerenciamento de perfis e preferências dos pacientes, oferecendo flexibilidade e personalização no atendimento.",
     "description": "A descrição da página de índice gerada para a categoria Configurações para Pacientes na barra lateral tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Financeiro": {
@@ -80,7 +80,7 @@
     "description": "O rótulo da categoria Atendimentos na barra lateral tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Atendimentos.link.generated-index.description": {
-    "message": "A seção de Atendimentos organiza consultas, sessões e históricos, permitindo registros precisos e acompanhamento contínuo dos clientes.",
+    "message": "A seção de Atendimentos organiza consultas, sessões e históricos, permitindo registros precisos e acompanhamento contínuo dos pacientes.",
     "description": "A descrição da página de índice gerada para a categoria Atendimentos na barra lateral tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Prontuário": {
@@ -88,7 +88,7 @@
     "description": "O rótulo da categoria Prontuário na barra lateral tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Prontuário.link.generated-index.description": {
-    "message": "O prontuário eletrônico centraliza informações clínicas e administrativas dos clientes, garantindo segurança, acessibilidade e organização dos dados.",
+    "message": "O prontuário eletrônico centraliza informações clínicas e administrativas dos pacientes, garantindo segurança, acessibilidade e organização dos dados.",
     "description": "A descrição da página de índice gerada para a categoria Prontuário na barra lateral tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Relatórios": {

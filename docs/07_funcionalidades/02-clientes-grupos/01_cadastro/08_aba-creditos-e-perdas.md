@@ -8,7 +8,7 @@ sidebar_position: 8
 
 A aba Créditos e Perdas oferece funcionalidades para o gerenciamento de créditos antecipados e perdas financeiras, garantindo um controle financeiro preciso e confiável.
 
-- **Créditos Antecipados:** São valores recebidos de clientes ou grupos independentemente da prestação dos serviços. Esses créditos podem ser utilizados como forma de pagamento em atendimentos futuros, proporcionando flexibilidade e praticidade para os clientes. O sistema registra detalhadamente cada transação, assegurando que os créditos sejam devidamente contabilizados e descontados conforme sua utilização, com total transparência e rastreabilidade.
+- **Créditos Antecipados:** São valores recebidos de pacientes ou grupos independentemente da prestação dos serviços. Esses créditos podem ser utilizados como forma de pagamento em atendimentos futuros, proporcionando flexibilidade e praticidade para os pacientes. O sistema registra detalhadamente cada transação, assegurando que os créditos sejam devidamente contabilizados e descontados conforme sua utilização, com total transparência e rastreabilidade.
 
 - **Perdas:** Referem-se a valores de atendimentos realizados, mas que não foram recebidos e são considerados irrecuperáveis. O sistema identifica, registra e categoriza essas perdas, permitindo um acompanhamento detalhado e auxiliando na análise financeira e na tomada de decisões estratégicas para reduzir a inadimplência.
 

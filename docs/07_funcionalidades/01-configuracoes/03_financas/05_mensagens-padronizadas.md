@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Mensagens Padronizadas
 
-O uso de mensagens padronizadas relacionadas a atendimentos é uma estratégia essencial para otimizar a comunicação com clientes e melhorar a eficiência da comunicação com o paciente. Ao adotar mensagens predefinidas, garante-se agilidade nas interações, padronização da linguagem e um atendimento mais organizado e profissional.
+O uso de mensagens padronizadas relacionadas a atendimentos é uma estratégia essencial para otimizar a comunicação com pacientes e melhorar a eficiência da comunicação com o paciente. Ao adotar mensagens predefinidas, garante-se agilidade nas interações, padronização da linguagem e um atendimento mais organizado e profissional.
 
 ## Notificações de Cobrança
 

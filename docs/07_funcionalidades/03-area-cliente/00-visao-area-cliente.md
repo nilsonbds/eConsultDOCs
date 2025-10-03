@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Sobre Área do Paciente
 
-A **Área do Paciente** é uma funcionalidade exclusiva do eConsult, desenvolvida para oferecer mais autonomia, transparência e praticidade aos clientes dos profissionais que utilizam a plataforma. Através de um link individual e seguro, enviado diretamente para o e-mail do paciente, é possível acessar um ambiente digital completo, onde o paciente pode acompanhar todas as informações relacionadas ao seu atendimento.
+A **Área do Paciente** é uma funcionalidade exclusiva do eConsult, desenvolvida para oferecer mais autonomia, transparência e praticidade aos pacientes dos profissionais que utilizam a plataforma. Através de um link individual e seguro, enviado diretamente para o e-mail do paciente, é possível acessar um ambiente digital completo, onde o paciente pode acompanhar todas as informações relacionadas ao seu atendimento.
 
 Na Área do Paciente, o paciente pode ter acesso a:
 

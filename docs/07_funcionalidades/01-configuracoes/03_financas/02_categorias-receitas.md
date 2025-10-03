@@ -6,6 +6,10 @@ sidebar_position: 2
 
 As Categorias de Receitas no eConsult é uma ferramenta para a organização e a gestão financeira do seu negócio. Ela permite classificar e agrupar as diferentes fontes de receita, oferecendo uma visão clara e detalhada dos ganhos gerados por suas atividades. Isso facilita não apenas o acompanhamento do fluxo de caixa, mas também a análise financeira, o planejamento estratégico e a tomada de decisões informadas.
 
+:::note
+O sistema já vem, por padrão com diversas categorias de receitas.
+:::
+
 ## Incluir Categoria de Receitas
 
 1. No painel "Configurações", acione a opção "Categorias de Receitas".

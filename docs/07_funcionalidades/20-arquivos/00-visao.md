@@ -46,7 +46,7 @@ O painel Arquivos, utilizando o sistema de gerenciamento de arquivos, permite vo
 
 :::tip DICAS
 
-- Você também pode utilizar os botões ![Arquivos](../../../static/img/prints/buttons/btn_atach.png) correspondentes para incluir arquivos diretamente para os clientes ou grupos terapêuticos respectivos.
+- Você também pode utilizar os botões ![Arquivos](../../../static/img/prints/buttons/btn_atach.png) correspondentes para incluir arquivos diretamente para os pacientes ou grupos terapêuticos respectivos.
 
 - É possível utilizar os botões "Editar" ![Arquivos](../../../static/img/prints/buttons/btn_card-edit.png) e "Excluir" ![Arquivos](../../../static/img/prints/buttons/btn_card-delete.png) para modificar ou remover arquivos conforme necessário. Além disso, a opção "Visualizar" ![Arquivos](../../../static/img/prints/buttons/btn_visualizar.png) permite que você examine o arquivo diretamente, facilitando a consulta e o gerenciamento dos arquivos.
 

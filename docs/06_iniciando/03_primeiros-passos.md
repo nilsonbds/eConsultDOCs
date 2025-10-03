@@ -36,7 +36,7 @@ Defina um valor sugerido automaticamente sempre que for criado um novo atendimen
 
 Configure facilmente seu próprio servidor SMTP para envio de e-mails diretamente pela plataforma.
 
-Isso permite que as mensagens aos clientes sejam enviadas usando seu próprio domínio de e-mail.
+Isso permite que as mensagens aos pacientes sejam enviadas usando seu próprio domínio de e-mail.
 
 - 👉 [Configurar seu SMTP](/docs/funcionalidades/configuracoes/integracoes/servidor-smtp)
 
@@ -58,7 +58,7 @@ A configuração é intuitiva, não exige conhecimentos avançados.
 
 ### **Ativar o PIX como forma de recebimento**
 
-Ofereça PIX como método de pagamento para seus clientes.
+Ofereça PIX como método de pagamento para seus pacientes.
 
 Você poderá gerar QR Codes ou links de pagamento a partir da sua chave própria chave PIX.
 

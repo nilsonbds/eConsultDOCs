@@ -4,9 +4,9 @@ sidebar_position: 0
 
 # Sobre Aba Indicadores
 
-A aba Indicadores apresenta uma visão abrangente e consolidada do desempenho de todos os clientes no mês selecionado. Nela, estão reunidas informações-chave como volume de atendimentos, principais demandas, níveis de satisfação e outros dados relevantes que possibilitam uma análise comparativa no mês e facilitam a identificação de padrões, oportunidades de melhoria e tomada de decisões estratégicas com base em dados concretos.
+A aba Indicadores apresenta uma visão abrangente e consolidada do desempenho de todos os pacientes no mês selecionado. Nela, estão reunidas informações-chave como volume de atendimentos, principais demandas, níveis de satisfação e outros dados relevantes que possibilitam uma análise comparativa no mês e facilitam a identificação de padrões, oportunidades de melhoria e tomada de decisões estratégicas com base em dados concretos.
 
-Os dados agregados permitem acompanhar, em um único painel, a performance financeira, o engajamento e o risco da carteira como um todo, bem como de grupos específicos de clientes.
+Os dados agregados permitem acompanhar, em um único painel, a performance financeira, o engajamento e o risco da carteira como um todo, bem como de grupos específicos de pacientes.
 
 Os indicadores estão organizados nos seguintes *cards*:
 
@@ -89,7 +89,7 @@ Os indicadores estão organizados nos seguintes *cards*:
 
 1. **Engajamento Global**
 
-    Frequência de atendimentos e índices de presença mostram o nível de participação média dos clientes; quedas sugerem necessidade de reengajamento.
+    Frequência de atendimentos e índices de presença mostram o nível de participação média dos pacientes; quedas sugerem necessidade de reengajamento.
 
 1. **Saúde Financeira**
 

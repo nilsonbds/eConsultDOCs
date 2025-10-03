@@ -10,7 +10,7 @@ A aba Atendimentos exibe o histórico completo de atendimentos realizados e auxi
 
 ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-013.png)
 
-No caso de clientes, a aba apresenta duas subabas distintas: "Individuais", destinada ao acompanhamento e organização dos atendimentos realizados de forma exclusiva para aquele paciente, e "Em Grupo", voltada para os atendimentos em que o paciente participa junto a outros, no contexto de grupos terapêuticos (como casais, famílias ou grupos maiores). Essa separação proporciona maior clareza na visualização e no gerenciamento, permitindo ao profissional identificar rapidamente o tipo de atendimento e acessar as informações de maneira estruturada e objetiva.
+No caso de pacientes, a aba apresenta duas subabas distintas: "Individuais", destinada ao acompanhamento e organização dos atendimentos realizados de forma exclusiva para aquele paciente, e "Em Grupo", voltada para os atendimentos em que o paciente participa junto a outros, no contexto de grupos terapêuticos (como casais, famílias ou grupos maiores). Essa separação proporciona maior clareza na visualização e no gerenciamento, permitindo ao profissional identificar rapidamente o tipo de atendimento e acessar as informações de maneira estruturada e objetiva.
 
 ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-072.png)
 
@@ -32,7 +32,7 @@ Além disso, em cada subaba é exibida uma lista de cards, onde cada card repres
         
         - **Lembretes de Atendimentos:** ![Painel Lembretes](../../../../static/img/prints/lembretes/008.png) Mostra as cores de todos os tipos de lembretes vinculados ao atendimento e permite fazer a gestão destes lembretes do atendimento.
         
-        - **Informes de presença e pagamentos:** ![Painel Lembretes](../../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo terapêutico. Permite informar a presença dos clientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
+        - **Informes de presença e pagamentos:** ![Painel Lembretes](../../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo terapêutico. Permite informar a presença dos pacientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
         
         Você também tem acesso a diversas funcionalidades relacionadas ao atendimento, como "Desmarcar", "Remarcar", "Excluir", alterar "Modalidade" e "Status", além de realizar "Recebimentos". Tudo isso está disponível de forma prática através de um único botão ![Painel Lembretes](../../../../static/img/prints/buttons/btn_card-edit.png).
 

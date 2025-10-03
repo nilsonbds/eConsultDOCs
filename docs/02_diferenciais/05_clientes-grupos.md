@@ -6,15 +6,15 @@ sidebar_position: 4
 
 ***Paciente ou Grupo Terapêutico como centro de um ecossistema que integra atendimentos, finanças e evolução clínica em um só lugar.***
 
-No eConsult, o cadastro de clientes e grupos terapêuticos vai muito além de um simples registro de dados. Cada entrada no sistema — seja de um paciente individual ou de um grupo — se torna o **núcleo central de organização**, conectando informações clínicas, financeiras e administrativas em um único lugar.
+No eConsult, o cadastro de pacientes e grupos terapêuticos vai muito além de um simples registro de dados. Cada entrada no sistema — seja de um paciente individual ou de um grupo — se torna o **núcleo central de organização**, conectando informações clínicas, financeiras e administrativas em um único lugar.
 
 Ao cadastrar um **paciente**, é possível relacionar de forma automática todos os atendimentos realizados, faturas emitidas, créditos adquiridos, perdas registradas, além de prontuários, arquivos pessoais e relatórios. Esse vínculo direto garante que cada pessoa tenha seu histórico completo disponível de forma clara, organizada e acessível.
 
-Já o cadastro de **grupos terapêuticos** permite a vinculação de clientes como membros, estendendo a mesma lógica de centralização. Com isso, cada grupo passa a ter seus atendimentos, registros financeiros, materiais compartilhados, relatórios de evolução coletiva e indicadores de participação. Ainda assim, cada integrante mantém seu histórico individual, conectado ao grupo, sem perder a visão personalizada.
+Já o cadastro de **grupos terapêuticos** permite a vinculação de pacientes como membros, estendendo a mesma lógica de centralização. Com isso, cada grupo passa a ter seus atendimentos, registros financeiros, materiais compartilhados, relatórios de evolução coletiva e indicadores de participação. Ainda assim, cada integrante mantém seu histórico individual, conectado ao grupo, sem perder a visão personalizada.
 
-Esse modelo integrado traz um diferencial importante: a **centralização inteligente das informações**. Em vez de dispersar dados em planilhas ou registros isolados, o eConsult organiza tudo em torno dos clientes e grupos, criando uma visão única e confiável. Isso proporciona mais clareza para a condução clínica, mais segurança na gestão financeira e mais eficiência no acompanhamento de indicadores.
+Esse modelo integrado traz um diferencial importante: a **centralização inteligente das informações**. Em vez de dispersar dados em planilhas ou registros isolados, o eConsult organiza tudo em torno dos pacientes e grupos, criando uma visão única e confiável. Isso proporciona mais clareza para a condução clínica, mais segurança na gestão financeira e mais eficiência no acompanhamento de indicadores.
 
-Assim, o eConsult transforma o cadastro de clientes e grupos em um verdadeiro **hub de gestão terapêutica**, unindo atendimento, administração e análise em um fluxo simples e coeso.
+Assim, o eConsult transforma o cadastro de pacientes e grupos em um verdadeiro **hub de gestão terapêutica**, unindo atendimento, administração e análise em um fluxo simples e coeso.
 
 ---
 
@@ -36,7 +36,7 @@ A partir desse registro, além dos dados pessoais do paciente, o sistema organiz
 
 - **Gráficos e Indicadores** → métricas que permitem avaliar presença, adesão e evolução ao longo do processo.
 
-Com isso, o cadastro de clientes no eConsult deixa de ser apenas um formulário e se torna o ponto de integração entre prática clínica e gestão eficiente, oferecendo uma visão ampla e organizada de cada pessoa atendida.
+Com isso, o cadastro de pacientes no eConsult deixa de ser apenas um formulário e se torna o ponto de integração entre prática clínica e gestão eficiente, oferecendo uma visão ampla e organizada de cada pessoa atendida.
 
 ---
 
@@ -44,7 +44,7 @@ Com isso, o cadastro de clientes no eConsult deixa de ser apenas um formulário 
 
 No eConsult, cada grupo terapêutico é tratado como uma **entidade independente**, com registro próprio e organizado.
 
-Nesse cadastro, é possível **vincular vários clientes como membros**, mantendo a integração entre o acompanhamento individual e coletivo.
+Nesse cadastro, é possível **vincular vários pacientes como membros**, mantendo a integração entre o acompanhamento individual e coletivo.
 
 A partir desse registro de grupo, o sistema permite gerenciar:
 
@@ -84,13 +84,13 @@ O sistema integra de forma natural os dois lados da gestão: o clínico, com pro
 
 ## Escalabilidade
 
-A mesma lógica de cadastro serve tanto para atendimentos individuais quanto para grupos terapêuticos. Isso torna o eConsult um sistema flexível e escalável, que cresce junto com a prática profissional, sem complicar os processos à medida que o número de clientes e grupos aumenta.
+A mesma lógica de cadastro serve tanto para atendimentos individuais quanto para grupos terapêuticos. Isso torna o eConsult um sistema flexível e escalável, que cresce junto com a prática profissional, sem complicar os processos à medida que o número de pacientes e grupos aumenta.
 
 ---
 
 ## Segurança e Compromisso com a LGPD
 
-O eConsult segue rigorosamente as diretrizes da Lei Geral de Proteção de Dados (LGPD), assegurando a privacidade e a segurança das informações de profissionais, clientes e grupos terapêuticos.
+O eConsult segue rigorosamente as diretrizes da Lei Geral de Proteção de Dados (LGPD), assegurando a privacidade e a segurança das informações de profissionais, pacientes e grupos terapêuticos.
 
 Todas as informações confidenciais são protegidas com algoritmos de criptografia de última geração, impedindo acessos não autorizados, mesmo em caso de incidentes de segurança.
 
@@ -100,7 +100,7 @@ O sistema conta com camadas adicionais de proteção, incluindo auditorias inter
 
 **Anonimização de dados para análises externas**
 
-Antes de qualquer uso externo, os dados passam por processos de anonimização, eliminando qualquer possibilidade de identificação direta ou indireta dos profissionais, clientes e grupos terapêuticos.
+Antes de qualquer uso externo, os dados passam por processos de anonimização, eliminando qualquer possibilidade de identificação direta ou indireta dos profissionais, pacientes e grupos terapêuticos.
 
 Com a anonimização, essas informações deixam de ser classificadas como dados pessoais pela LGPD, o que dispensa a necessidade de autorizações adicionais por parte do paciente, sem comprometer a segurança ou a conformidade legal.
 
@@ -146,7 +146,7 @@ Por isso, o recurso de gestão de grupos terapêuticos é um **diferencial compe
 - Histórico completo de atendimentos, faturas, créditos, perdas e relatórios vinculados diretamente ao cadastro.
 - Suporte avançado para grupos terapêuticos, com prontuários individuais e coletivos.
 - Integração com arquivos, documentos, exames e evolução clínica em um só lugar.
-- Visão unificada: o sistema conecta clientes e grupos, permitindo acompanhar o coletivo sem perder a individualidade de cada membro.
+- Visão unificada: o sistema conecta pacientes e grupos, permitindo acompanhar o coletivo sem perder a individualidade de cada membro.
 
 :::tip  
 **Diferencial Real:** Transformar cada paciente e grupo em um núcleo central que integra atendimentos, finanças e evolução clínica, oferecendo controle completo e visão unificada, algo que a maioria dos sistemas para psicólogos não proporciona.  

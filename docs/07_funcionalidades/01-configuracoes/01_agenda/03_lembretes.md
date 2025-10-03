@@ -8,7 +8,7 @@ Os **Lembretes de Atendimentos** funcionam como destaques que você pode atribui
 
 No eConsult, é possível configurar até 6 (seis) tipos de lembretes de atendimentos, cada um identificado por uma cor distinta para facilitar a organização e visualização.
 
-Lembretes de atendimentos podem ser extremamente úteis para organizar atendimentos, acompanhar o progresso dos seus clientes e garantir a eficiência na gestão das sessões.
+Lembretes de atendimentos podem ser extremamente úteis para organizar atendimentos, acompanhar o progresso dos seus pacientes e garantir a eficiência na gestão das sessões.
 
 ## Configurar Lembretes de Atendimentos
 

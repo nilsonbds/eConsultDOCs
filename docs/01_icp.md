@@ -40,16 +40,16 @@ Profissionais **autônomos** que realizam **atendimentos mediante agendamento**,
   Profissionais que atendem individualmente ou em grupo e precisam de uma ferramenta que automatize o controle de agendamentos, presença e organização de sessões.
 
 - **Organização de Atendimentos**  
-  Profissionais que atuam presencialmente e/ou à distância e que desejam oferecer uma experiência mais organizada aos seus clientes.
+  Profissionais que atuam presencialmente e/ou à distância e que desejam oferecer uma experiência mais organizada aos seus pacientes.
 
 - **Gestão de Pagamentos e Comunicação**  
-  Usuários que precisam gerenciar diversos atendimentos, emitir cobranças, integrar métodos de pagamento e manter a comunicação com múltiplos clientes de forma prática.
+  Usuários que precisam gerenciar diversos atendimentos, emitir cobranças, integrar métodos de pagamento e manter a comunicação com múltiplos pacientes de forma prática.
 
 - **Desafios Comuns**  
   - Dificuldade para acompanhar agendamentos e pagamentos  
   - Problemas com esquecimento de sessões  
   - Tempo excessivo gasto com cobrança manual  
-  - Necessidade de melhor organização para atender múltiplos clientes simultaneamente
+  - Necessidade de melhor organização para atender múltiplos pacientes simultaneamente
 
 :::note
 O **eConsult não é um sistema genérico** — ele foi criado especialmente para psicólogos. Ao mesmo tempo, a plataforma adapta automaticamente a experiência conforme a área de atuação de cada profissional, oferecendo recursos realmente relevantes para sua prática.
@@ -112,9 +112,9 @@ Tudo isso por valores acessíveis e com planos flexíveis.
 
 ### Cadastro de Pacientes e Grupos Terapêuticos
 
-Gerencie clientes e grupos de forma estratégica e eficiente. Tenha uma visão clara e personalizada de seus atendimentos com o painel de clientes e grupos. Com uma interface intuitiva e bem estruturada, você acessa informações detalhadas com rapidez, organiza demandas com mais precisão e minimiza falhas operacionais. Uma solução completa para quem busca agilidade, controle e excelência na gestão de atendimentos.
+Gerencie pacientes e grupos de forma estratégica e eficiente. Tenha uma visão clara e personalizada de seus atendimentos com o painel de pacientes e grupos. Com uma interface intuitiva e bem estruturada, você acessa informações detalhadas com rapidez, organiza demandas com mais precisão e minimiza falhas operacionais. Uma solução completa para quem busca agilidade, controle e excelência na gestão de atendimentos.
 
-- Visualização clara e personalizada de clientes e grupos
+- Visualização clara e personalizada de pacientes e grupos
 
 - Acesso rápido a dados detalhados  
 
@@ -136,7 +136,7 @@ Personalize os cadastros de acordo com a sua metodologia e colete apenas as info
 
 ### Gestão de Créditos
 
-Controle de forma simples os créditos de clientes. Faça a atribuição de valores antecipados e garanta total transparência nas transações financeiras.
+Controle de forma simples os créditos de pacientes. Faça a atribuição de valores antecipados e garanta total transparência nas transações financeiras.
 
 - Atribuição de valores antecipados  
 
@@ -148,7 +148,7 @@ Controle de forma simples os créditos de clientes. Faça a atribuição de valo
 
 ### Score Inteligente do Paciente
 
-Acompanhe o engajamento dos seus clientes com um sistema de pontuação em três níveis: global, anual e mensal. Tome decisões baseadas em dados e otimize sua estratégia de relacionamento.
+Acompanhe o engajamento dos seus pacientes com um sistema de pontuação em três níveis: global, anual e mensal. Tome decisões baseadas em dados e otimize sua estratégia de relacionamento.
 
 Avaliação em três níveis:
 
@@ -264,7 +264,7 @@ Gerencie suas finanças de forma unificada e simplificada, tudo em um só lugar.
 
 ### Pagamentos via PIX
 
-Receba pagamentos com agilidade e sem taxas intermediárias, graças à integração direta com o sistema financeiro. Praticidade para você e para seus clientes.
+Receba pagamentos com agilidade e sem taxas intermediárias, graças à integração direta com o sistema financeiro. Praticidade para você e para seus pacientes.
 
 - Integração direta com o sistema financeiro  
 
@@ -282,9 +282,9 @@ Armazene e compartilhe documentos de maneira segura e eficiente. Com a integraç
 
 ### Integração com Mercado Pago
 
-Ofereça mais formas de pagamento com a integração ao Mercado Pago. Acompanhe os recebimentos em tempo real e proporcione mais segurança e comodidade para seus clientes.
+Ofereça mais formas de pagamento com a integração ao Mercado Pago. Acompanhe os recebimentos em tempo real e proporcione mais segurança e comodidade para seus pacientes.
 
-- Mais opções de pagamento para seus clientes  
+- Mais opções de pagamento para seus pacientes  
 
 - Controle em tempo real  
 

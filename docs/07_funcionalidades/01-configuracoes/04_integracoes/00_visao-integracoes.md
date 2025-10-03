@@ -20,7 +20,7 @@ Essa configuração permite que notificações, comunicados e outros tipos de me
 
 **Configure facilmente a integração do seu Google Drive com o eConsult, sem necessidade de conhecimentos técnicos avançados, e centralize o armazenamento e a gestão de arquivos em um só lugar.**
 
-Com essa integração, documentos, imagens e relatórios ficam sempre acessíveis diretamente pela plataforma, garantindo mais segurança, organização e praticidade no compartilhamento com seus clientes.
+Com essa integração, documentos, imagens e relatórios ficam sempre acessíveis diretamente pela plataforma, garantindo mais segurança, organização e praticidade no compartilhamento com seus pacientes.
 
 ## OpenAI
 
@@ -46,7 +46,7 @@ Ao conectar sua chave à plataforma, você permite que os pagamentos sejam reali
 
 ## Mercado Pago
 
-**Configure a integração do Mercado Pago com o eConsult para ampliar as opções de pagamento disponíveis aos seus clientes.**
+**Configure a integração do Mercado Pago com o eConsult para ampliar as opções de pagamento disponíveis aos seus pacientes.**
 
 Com essa integração, você pode gerar cobranças diretamente pela plataforma, aceitar cartões, boletos e PIX com segurança, além de acompanhar os recebimentos de forma centralizada, facilitando a gestão financeira da sua operação.
 

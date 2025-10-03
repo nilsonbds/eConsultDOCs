@@ -48,7 +48,7 @@ sidebar_position: 5
         
     - Clique no botão “Incluir Novo Paciente ou Grupo” ![Painel Pacientes e Grupos](../static/img/prints/buttons/btn_add.png), preencha os dados obrigatórios e clique em “Salvar”.
 
-### ❓ É possível importar uma lista de clientes?
+### ❓ É possível importar uma lista de pacientes?
 
     - Sim. A funcionalidade de importação por planilha (.csv) está disponível em “Pacientes” > “Importar”.
 
@@ -62,19 +62,19 @@ sidebar_position: 5
 
 ### ❓ Onde acompanho inadimplência?
 
-    - Acesse “Resultados” > “Análise de Inadimplência” para ver clientes em atraso, valores devidos e recuperar perdas.
+    - Acesse “Resultados” > “Análise de Inadimplência” para ver pacientes em atraso, valores devidos e recuperar perdas.
 
 ---
 
 ## Configurações
 
-### ❓ Posso personalizar notificações para meus clientes?
+### ❓ Posso personalizar notificações para meus pacientes?
 
     - Sim. Vá em “Configurações” > “Notificações” e defina os lembretes de atendimentos e mensagens que deseja ativar por e-mail ou WhatsApp.
 
 ### ❓ O sistema envia lembretes automáticos?
 
-    - Sim, você pode configurar para que os clientes recebam lembretes atendimentos 24h ou 1h antes da consulta.
+    - Sim, você pode configurar para que os pacientes recebam lembretes atendimentos 24h ou 1h antes da consulta.
 
 ---
 

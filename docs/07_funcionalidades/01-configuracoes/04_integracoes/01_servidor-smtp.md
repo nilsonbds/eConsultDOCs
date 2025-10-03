@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **O servidor SMTP (Simple Mail Transfer Protocol) é responsável pelo envio de e-mails. Ele atua como um intermediário, encaminhando as mensagens do remetente para o servidor de destino.**
 
-O **eConsult** envia e-mails automaticamente aos seus clientes utilizando o SMTP padrão do sistema. No entanto, se preferir, você pode configurar **seu próprio servidor SMTP** para o envio dessas mensagens.
+O **eConsult** envia e-mails automaticamente aos seus pacientes utilizando o SMTP padrão do sistema. No entanto, se preferir, você pode configurar **seu próprio servidor SMTP** para o envio dessas mensagens.
 
 ### Por que usar um servidor SMTP personalizado?
 

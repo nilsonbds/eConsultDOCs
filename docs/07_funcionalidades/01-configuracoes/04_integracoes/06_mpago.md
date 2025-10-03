@@ -12,7 +12,7 @@ Essa integração permite que você receba pagamentos de forma prática e segura
 
 ✅ **Vantagem**: Você não precisa se preocupar em atualizar o status da cobrança.
 
-✅ **Vantagem**: Você pode ofertar a seus clientes várias formas de pagamento (PIX, Cartão de Crédito, Boleto, Link, etc.)
+✅ **Vantagem**: Você pode ofertar a seus pacientes várias formas de pagamento (PIX, Cartão de Crédito, Boleto, Link, etc.)
 
 ❌ **Desvantagem**: Há taxas do Mercado Pago (normalmente 0,99% a 1,99%).
 
@@ -21,7 +21,7 @@ Essa integração permite que você receba pagamentos de forma prática e segura
 
 Além de aumentar a agilidade nas operações, a funcionalidade permite a geração de links de pagamento personalizados, acompanhamento do status das transações de forma automática e centralização das informações financeiras em um só lugar.
 
-Com a integração ao Mercado Pago, você oferece mais flexibilidade aos seus clientes, reduz a inadimplência e proporciona uma experiência de pagamento moderna e confiável.
+Com a integração ao Mercado Pago, você oferece mais flexibilidade aos seus pacientes, reduz a inadimplência e proporciona uma experiência de pagamento moderna e confiável.
 
 A página de configuração Mercado Pago pode ser acessada através do [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) opção **Mercado Pago**.
 
@@ -31,7 +31,7 @@ Uma vez acionada a opção **Mercado Pago** o sistema abrirá a seguinte tela:
 
 :::note Por que configurar meu Mercado Pago no eConsult?
 
-    Com essa configuração, o eConsult poderá gerar links de pagamento vinculados ao seu Mercado Pago, facilitando para que seus clientes realizem os pagamentos de forma prática e segura. 
+    Com essa configuração, o eConsult poderá gerar links de pagamento vinculados ao seu Mercado Pago, facilitando para que seus pacientes realizem os pagamentos de forma prática e segura. 
 
     Após a conclusão da configuração, o sistema passará a exibir:
     

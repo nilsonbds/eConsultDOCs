@@ -4,6 +4,6 @@
   "link": {
     "slug": "/arquivos",
     "type": "generated-index",
-    "description": "O eConsult integra-se ao Google Drive, oferecendo um sistema centralizado para armazenamento, acesso e compartilhamento de documentos, relatórios e imagens. A integração facilita a organização dos arquivos, com categorização personalizada, backups automáticos e sincronização em tempo real. Para ativar, basta configurar a integração no Painel Configurações do eConsult. No painel Arquivos, é possível visualizar e anexar documentos relacionados a clientes e atendimentos."
+    "description": "O eConsult integra-se ao Google Drive, oferecendo um sistema centralizado para armazenamento, acesso e compartilhamento de documentos, relatórios e imagens. A integração facilita a organização dos arquivos, com categorização personalizada, backups automáticos e sincronização em tempo real. Para ativar, basta configurar a integração no Painel Configurações do eConsult. No painel Arquivos, é possível visualizar e anexar documentos relacionados a pacientes e atendimentos."
   }
 }

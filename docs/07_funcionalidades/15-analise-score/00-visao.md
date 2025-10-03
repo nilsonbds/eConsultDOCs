@@ -4,9 +4,9 @@ sidebar_position: 0
 
 # Sobre Análise de Score
 
-O painel **Análise de Score** exibe a pontuação e o comportamento dos clientes com base em dados históricos de relacionamento. As informações são organizadas por período e segmentadas em categorias para facilitar a tomada de decisões estratégicas.
+O painel **Análise de Score** exibe a pontuação e o comportamento dos pacientes com base em dados históricos de relacionamento. As informações são organizadas por período e segmentadas em categorias para facilitar a tomada de decisões estratégicas.
 
-A ferramenta avalia o desempenho dos clientes com base em três dimensões principais: **Global, Ano e Mês**. Cada dimensão fornece uma visão específica da relação do paciente com o seu negócio, considerando histórico, comportamento recente e engajamento atual.
+A ferramenta avalia o desempenho dos pacientes com base em três dimensões principais: **Global, Ano e Mês**. Cada dimensão fornece uma visão específica da relação do paciente com o seu negócio, considerando histórico, comportamento recente e engajamento atual.
 
 Essas informações são acompanhadas por indicadores que facilitam a análise do **valor gerado**, da **frequência de interações** e do **custo de manutenção de cada paciente**.
 
@@ -22,21 +22,21 @@ Essas informações são acompanhadas por indicadores que facilitam a análise d
 
 ## Filtros por tipo de Classificação ou Nome do Paciente
 
-Esta seção permite ao usuário **filtrar a exibição de clientes** com base em sua **classificação comportamental** ou localizar um paciente específico pelo **nome**.
+Esta seção permite ao usuário **filtrar a exibição de pacientes** com base em sua **classificação comportamental** ou localizar um paciente específico pelo **nome**.
 
 ![Análise de Score](../../../static/img/prints/analisescore/003.png)
 
-Os números entre parênteses indicam a **quantidades de clientes** em cada classificação.
+Os números entre parênteses indicam a **quantidades de pacientes** em cada classificação.
 
 ### São os tipos de classificações possíveis:
 
 - **Pacientes em declínio:** Pacientes que apresentam redução progressiva na frequência de interações e no valor gerado. Podem estar perdendo o interesse ou migrando para concorrentes. Exigem atenção e possíveis ações de reativação, como campanhas de retenção ou ofertas personalizadas.
 - **Pacientes em crescimento:** Pacientes que mostram evolução positiva, com aumento na frequência de compras ou atendimentos e no valor gerado. Estão em processo de consolidação do relacionamento com a sua organização e podem ser alvos para ações de fidelização e up-sell.
-- **Pacientes estáveis e engajados:** Apresentam comportamento consistente, com boa frequência e geração de valor contínua. São clientes confiáveis e fiéis, já consolidados, ideais para manutenção do relacionamento, programas de recompensa e possíveis influenciadores da sua marca.
+- **Pacientes estáveis e engajados:** Apresentam comportamento consistente, com boa frequência e geração de valor contínua. São pacientes confiáveis e fiéis, já consolidados, ideais para manutenção do relacionamento, programas de recompensa e possíveis influenciadores da sua marca.
 - **Pacientes voláteis:** Apresentam comportamento irregular, alternando períodos de alta e baixa atividade. Podem ser sensível a fatores externos ou promoções pontuais. Requerem monitoramento e estratégias personalizadas para aumentar o engajamento e reduzir a oscilação.
 - **Todos:** Todos os Pacientes.
 
-Para filtrar e exibir apenas clientes de um tipo de classificação, basta clicar sobre o link respectivo.
+Para filtrar e exibir apenas pacientes de um tipo de classificação, basta clicar sobre o link respectivo.
 
 Você pode ainda filtrar por nome de paciente, para isso basta preencher o campo correspondente.
 
@@ -71,7 +71,7 @@ Cada uma dessas seções exibe um conjunto de indicadores que refletem o desempe
     - **★★★ – Normal – Dentro da média**: Apresentou no período um comportamento regular e estável. Ainda não demonstra sinais claros de crescimento ou risco. Estratégias de engajamento e acompanhamento podem melhorar seu desempenho.
     - **★★ – Alerta – Abaixo da média**: Pode estar diminuindo, no período, o número de interações ou o valor gerado. Requer análise e ações de reengajamento para evitar perda de relacionamento.
     - **★ – Crítico – Muito abaixo da média**: Pouca ou nenhuma interação no período e baixo valor agregado. Pode estar em risco de perda ou abandono. Recomenda-se ação imediata de recuperação.
-    - **Nenhuma estrela – Sem dados**: Não há dados suficientes do período para gerar um score confiável. Isso ocorre normalmente com clientes recém-cadastrados ou com histórico incompleto. É necessário aguardar o acúmulo de informações.
+    - **Nenhuma estrela – Sem dados**: Não há dados suficientes do período para gerar um score confiável. Isso ocorre normalmente com pacientes recém-cadastrados ou com histórico incompleto. É necessário aguardar o acúmulo de informações.
 - **FREQ (Frequência)**: número de atendimentos ou interações do paciente no período avaliado.
 - **LTV (Lifetime Value)**: valor total gerado pelo paciente para a organização no período.
 - **CLC (Customer Lifetime Cost)**: custo total no período relacionado à manutenção do paciente.

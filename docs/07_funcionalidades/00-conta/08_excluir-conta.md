@@ -15,7 +15,7 @@ Para acessar o painel **Excluir Conta**, acione a opção correspondente ![Conta
 
 - Todos os dados vinculados serão removidos, incluindo:
     - Informações pessoais do usuário.
-    - Registros de clientes.
+    - Registros de pacientes.
     - Histórico de sessões e pagamentos.
     - Uma vez confirmada a exclusão, não será possível recuperar os dados.
 :::

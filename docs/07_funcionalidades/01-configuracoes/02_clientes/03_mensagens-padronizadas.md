@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Mensagens Padronizadas
 
-O uso de mensagens padronizadas é uma estratégia essencial para otimizar a comunicação com clientes e melhorar a eficiência dos atendimentos. Ao adotar mensagens predefinidas, garante-se agilidade nas interações, padronização da linguagem e um atendimento mais organizado e profissional.
+O uso de mensagens padronizadas é uma estratégia essencial para otimizar a comunicação com pacientes e melhorar a eficiência dos atendimentos. Ao adotar mensagens predefinidas, garante-se agilidade nas interações, padronização da linguagem e um atendimento mais organizado e profissional.
 
 ## Texto Padrão para Mensagens de Aniversário
 

@@ -16,7 +16,7 @@ Com essa integração, você pode receber pagamentos diretamente em sua **chave 
 
 A funcionalidade possibilita a **emissão de QR Codes personalizados** para cada cobrança, além do **acompanhamento em tempo real do status das transações**, trazendo mais controle e transparência.
 
-Ao adotar o PIX no seu dia a dia, você **otimiza a gestão financeira**, reduz o risco de inadimplência e ainda oferece aos seus clientes uma **experiência de pagamento prática, moderna e alinhada às novas formas de consumo**.
+Ao adotar o PIX no seu dia a dia, você **otimiza a gestão financeira**, reduz o risco de inadimplência e ainda oferece aos seus pacientes uma **experiência de pagamento prática, moderna e alinhada às novas formas de consumo**.
 
 A página de configuração do PIX pode ser acessada através do [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) opção **PIX**.
 
@@ -26,7 +26,7 @@ Uma vez acionada a opção **PIX** o sistema abrirá a seguinte tela:
 
 :::note Por que configurar meu PIX no eConsult?
 
-    Com essa configuração, o eConsult poderá gerar QR Codes de pagamento vinculados ao seu PIX, facilitando para que seus clientes realizem os pagamentos de forma prática e segura. 
+    Com essa configuração, o eConsult poderá gerar QR Codes de pagamento vinculados ao seu PIX, facilitando para que seus pacientes realizem os pagamentos de forma prática e segura. 
     
     Após a conclusão da configuração, o sistema passará a exibir:
     

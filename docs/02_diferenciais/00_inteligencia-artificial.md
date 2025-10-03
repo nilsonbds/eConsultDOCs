@@ -9,7 +9,7 @@ Com atuação contextualizada, a IA **se adapta à especialidade** (psicologia, 
 
 ## Segurança e Compromisso com a LGPD
 
-O eConsult segue rigorosamente as diretrizes da Lei Geral de Proteção de Dados (LGPD), assegurando a privacidade e a segurança das informações de profissionais, clientes e grupos terapêuticos.
+O eConsult segue rigorosamente as diretrizes da Lei Geral de Proteção de Dados (LGPD), assegurando a privacidade e a segurança das informações de profissionais, pacientes e grupos terapêuticos.
 
 Todas as informações confidenciais são protegidas com algoritmos de criptografia de última geração, impedindo acessos não autorizados, mesmo em caso de incidentes de segurança.
 
@@ -19,7 +19,7 @@ O sistema conta com camadas adicionais de proteção, incluindo auditorias inter
 
 **Anonimização de dados para análises externas**
 
-Antes de qualquer uso externo, os dados passam por processos de anonimização, eliminando qualquer possibilidade de identificação direta ou indireta dos profissionais, clientes e grupos terapêuticos.
+Antes de qualquer uso externo, os dados passam por processos de anonimização, eliminando qualquer possibilidade de identificação direta ou indireta dos profissionais, pacientes e grupos terapêuticos.
 
 Com a anonimização, essas informações deixam de ser classificadas como dados pessoais pela LGPD, o que dispensa a necessidade de autorizações adicionais por parte do paciente, sem comprometer a segurança ou a conformidade legal.
 

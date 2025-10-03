@@ -6,7 +6,7 @@ sidebar_position: 7
 
 ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/aba-faturas.png)
 
-A aba Faturas no eConsult é uma ferramenta essencial para a gestão financeira e o controle das transações realizadas com os clientes. Nesta aba, você encontrará um conjunto completo de funcionalidades que ajudam a organizar, visualizar e gerenciar todas as faturas associadas aos atendimentos.
+A aba Faturas no eConsult é uma ferramenta essencial para a gestão financeira e o controle das transações realizadas com os pacientes. Nesta aba, você encontrará um conjunto completo de funcionalidades que ajudam a organizar, visualizar e gerenciar todas as faturas associadas aos atendimentos.
 
 Para cada atendimento cadastrado no sistema, uma fatura correspondente é gerada automaticamente. Essas faturas incluem informações essenciais para o controle financeiro e a gestão de pagamentos.
 
@@ -40,7 +40,7 @@ Sendo assim, na aba Faturas, você encontrará duas sub-abas distintas para um g
 
 Na sub-aba "Pendentes", você dispõe de 2 (duas) funções essenciais para o gerenciamento das faturas em aberto:
 
-- **Função "Notificar":** Permite enviar notificações diretamente pelo WhatsApp ou E-mail aos clientes sobre os pagamentos pendentes selecionados. Ao ativar essa função, é possível disparar uma mensagem personalizada, alertando o paciente sobre a necessidade de quitação das faturas marcadas. Essa comunicação direta torna o lembrete rápido e eficiente, facilitando a recuperação de pagamentos.
+- **Função "Notificar":** Permite enviar notificações diretamente pelo WhatsApp ou E-mail aos pacientes sobre os pagamentos pendentes selecionados. Ao ativar essa função, é possível disparar uma mensagem personalizada, alertando o paciente sobre a necessidade de quitação das faturas marcadas. Essa comunicação direta torna o lembrete rápido e eficiente, facilitando a recuperação de pagamentos.
 
     ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-021.png)
     

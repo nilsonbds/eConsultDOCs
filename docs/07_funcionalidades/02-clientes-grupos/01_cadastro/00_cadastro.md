@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Sobre Cadastro de Pacientes e Grupos Terapêuticos
 
-O cadastro de Pacientes e Grupos Terapêuticos do eConsult é uma funcionalidade completa e centralizada que permite a gestão eficiente de todas as informações essenciais relacionadas aos clientes e grupos terapêuticos. Essa ferramenta foi projetada para garantir que os profissionais tenham acesso rápido e fácil a todos os dados relevantes, desde informações básicas até o histórico de interações e documentos importantes.
+O cadastro de Pacientes e Grupos Terapêuticos do eConsult é uma funcionalidade completa e centralizada que permite a gestão eficiente de todas as informações essenciais relacionadas aos pacientes e grupos terapêuticos. Essa ferramenta foi projetada para garantir que os profissionais tenham acesso rápido e fácil a todos os dados relevantes, desde informações básicas até o histórico de interações e documentos importantes.
 
 O cadastro foi pensado para reunir, em um único lugar, todas as informações e rotinas necessárias ao relacionamento operacional, administrativo e financeiro. Para isso, o cadastro foi subdividido em seções (abas), organizadas para facilitar o acesso e a gestão dos diferentes tipos de informações. A seguir, veja um panorama de cada aba e como elas apoiam seu trabalho diário.
 
@@ -108,7 +108,7 @@ No eConsult, você pode cadastrar e realizar atendimentos a grupos, como casais,
 
 Antes de criar o grupo, cadastre cada participante individualmente como paciente no sistema.
 
-Com todos os membros cadastrados, siga o passo a passo abaixo para criar o grupo e vincular os clientes que fazem parte dele. Assim, o acompanhamento e o registro dos atendimentos em grupo ficam organizados em um único lugar.
+Com todos os membros cadastrados, siga o passo a passo abaixo para criar o grupo e vincular os pacientes que fazem parte dele. Assim, o acompanhamento e o registro dos atendimentos em grupo ficam organizados em um único lugar.
 
 1. No painel "Pacientes e Grupos" acione o botão "Incluir Paciente ou Grupo" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_add.png).
 
@@ -138,7 +138,7 @@ Com todos os membros cadastrados, siga o passo a passo abaixo para criar o grupo
 
 ## Inativar paciente ou grupo terapêutico
 
-No sistema eConsult, os cadastros de clientes e grupos terapêuticos não são excluídos de forma definitiva durante o uso da plataforma. Em vez disso, eles são inativados, garantindo a preservação do histórico de atendimentos e o cumprimento de obrigações legais e regulatórias, como os prazos de guarda definidos por normas da área da saúde.
+No sistema eConsult, os cadastros de pacientes e grupos terapêuticos não são excluídos de forma definitiva durante o uso da plataforma. Em vez disso, eles são inativados, garantindo a preservação do histórico de atendimentos e o cumprimento de obrigações legais e regulatórias, como os prazos de guarda definidos por normas da área da saúde.
 
 No entanto, quando o profissional solicita a exclusão de sua conta no eConsult, todos os dados vinculados a ela — incluindo informações do profissional, de seus pacientes e de seus grupos terapêuticos — são excluídos de forma permanente e irreversível, em conformidade com a LGPD.
 
@@ -160,7 +160,7 @@ Caso seja necessário voltar a utilizar o cadastro de um paciente ou grupo terap
 Para reativar um cadastro, siga os seguintes passos:
 
 - No painel "Pacientes e Grupos" marque a opção de filtro "INATIVADOS" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_inativados.png).
-- O sistema lista todos os clientes "INATIVADOS".
+- O sistema lista todos os pacientes "INATIVADOS".
 - Selecione a opção ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png) no *card* do paciente que deseja reativar.
 - O sistema abre a tela de cadastro "Paciente".
 - Na aba "Geral", desmarque a opção "Inativar".
@@ -217,7 +217,7 @@ Cada uma dessas seções exibe um conjunto de indicadores que refletem o desempe
     - **★★★ – Normal – Dentro da média:** Apresentou no período um comportamento regular e estável. Ainda não demonstra sinais claros de crescimento ou risco. Estratégias de engajamento e acompanhamento podem melhorar seu desempenho.
     - **★★ – Alerta – Abaixo da média:** Pode estar diminuindo, no período, o número de interações ou o valor gerado. Requer análise e ações de reengajamento para evitar perda de relacionamento.
     - **★ – Crítico – Muito abaixo da média:** Pouca ou nenhuma interação no período e baixo valor agregado. Pode estar em risco de perda ou abandono. Recomenda-se ação imediata de recuperação.
-    - **Nenhuma estrela – Sem dados:** Não há dados suficientes do período para gerar um score confiável. Isso ocorre normalmente com clientes recém-cadastrados ou com histórico incompleto. É necessário aguardar o acúmulo de informações.
+    - **Nenhuma estrela – Sem dados:** Não há dados suficientes do período para gerar um score confiável. Isso ocorre normalmente com pacientes recém-cadastrados ou com histórico incompleto. É necessário aguardar o acúmulo de informações.
 
 - **FREQ (Frequência):** número de atendimentos ou interações do paciente no período avaliado.
 

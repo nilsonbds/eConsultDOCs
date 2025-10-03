@@ -16,7 +16,7 @@ Essa abordagem facilita o gerenciamento dos compromissos, permitindo que o profi
 
 ### Exemplo prático
 
-Imagine que você tenha dois atendimentos agendados para clientes diferentes, mas ambos estejam associados a um mesmo tipo de lembrete, como:
+Imagine que você tenha dois atendimentos agendados para pacientes diferentes, mas ambos estejam associados a um mesmo tipo de lembrete, como:
 
 **"Emitir recibo"**  
 
@@ -64,10 +64,10 @@ Os *cards* de atendimento no painel Lembretes de Atendimentos oferece uma visão
         
         - **Lembretes de Atendimentos:** ![Painel Pacientes e Grupos](../../../static/img/prints/lembretes/008.png) Mostra as cores de todos os tipos de lembretes vinculados ao atendimento e permite fazer a gestão destes lembretes do atendimento.
         
-        - **Informes de presença e pagamentos:** ![Painel Pacientes e Grupos](../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo terapêutico. Permite informar a presença dos clientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
+        - **Informes de presença e pagamentos:** ![Painel Pacientes e Grupos](../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo terapêutico. Permite informar a presença dos pacientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
         
         Você também tem acesso a diversas funcionalidades relacionadas ao atendimento, como Desmarcar, Remarcar, Excluir, alterar Modalidade e Status, além de realizar Recebimentos. Tudo isso está disponível de forma prática através de um único botão ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_card-edit.png).
     :::
 
 
-Esses elementos visuais, informativos e interativos tornam a gestão dos atendimentos mais eficiente, reunindo todos os detalhes importantes em um único lugar, de forma organizada e acessível. Isso melhora a experiência tanto dos profissionais quanto dos clientes, diminuindo as chances de que informações importantes sejam esquecidas ou negligenciadas.
+Esses elementos visuais, informativos e interativos tornam a gestão dos atendimentos mais eficiente, reunindo todos os detalhes importantes em um único lugar, de forma organizada e acessível. Isso melhora a experiência tanto dos profissionais quanto dos pacientes, diminuindo as chances de que informações importantes sejam esquecidas ou negligenciadas.

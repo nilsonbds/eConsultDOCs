@@ -4,11 +4,11 @@ sidebar_position: 6
 
 # Regras de Cobrança
 
-Permite a inclusão de regras que definem como serão aplicados descontos, juros e multas nas transações de pagamentos dos clientes.
+Permite a inclusão de regras que definem como serão aplicados descontos, juros e multas nas transações de pagamentos dos pacientes.
 
 Por meio dessas regras, é possível configurar, por exemplo, o percentual de desconto para pagamento antecipado, bem como critérios para incidência de juros e mora em casos de atraso.
 
-Essas configurações são cadastradas previamente e podem ser associadas aos clientes conforme a política comercial da sua organização, garantindo padronização e controle no processo de faturamento.
+Essas configurações são cadastradas previamente e podem ser associadas aos pacientes conforme a política comercial da sua organização, garantindo padronização e controle no processo de faturamento.
 
 ## Incluir uma nova Regra de Cobrança
 
@@ -32,7 +32,7 @@ Essas configurações são cadastradas previamente e podem ser associadas aos cl
 
 1. Preencha o campo "Mora diária (%) após tolerância" com o percentual de juros que será cobrado por dia de atraso, a partir do fim do período de tolerância.
 
-1. Marque a opção "Aplicar a todos os clientes" caso queira que esta regra seja válida para todos os clientes, de forma automática.
+1. Marque a opção "Aplicar a todos os pacientes" caso queira que esta regra seja válida para todos os pacientes, de forma automática.
 
 1. Marque a opção 'Aplicar a todos os atendimentos' caso deseje que esta regra seja aplicada automaticamente a todos os atendimentos não pagos.
 
@@ -56,7 +56,7 @@ Essas configurações são cadastradas previamente e podem ser associadas aos cl
 
 1. Altere o campo "Mora diária (%) após tolerância" com o percentual de juros que será cobrado por dia de atraso, a partir do fim do período de tolerância.
 
-1. Marque a opção "Aplicar a todos os clientes" caso queira que esta regra seja válida para todos os clientes, de forma automática.
+1. Marque a opção "Aplicar a todos os pacientes" caso queira que esta regra seja válida para todos os pacientes, de forma automática.
 
 1. Marque a opção 'Aplicar a todos os atendimentos' caso deseje que esta regra seja aplicada automaticamente a todos os atendimentos não pagos.
 
@@ -70,9 +70,9 @@ Essas configurações são cadastradas previamente e podem ser associadas aos cl
 
 1. Confirme a exclusão acionando o botão **Sim**.
 
-:::note Como excluir regras de todos os clientes e/ou atendimentos?
+:::note Como excluir regras de todos os pacientes e/ou atendimentos?
 
 Uma vez que exista pelo menos uma regra cadastrada, o eConsult mostrará as seguintes opções:
 
-- ![Painel Configurações](../../../../static/img/prints/buttons/btn_excluir-regras-em-todos-os-clientes.png): Permite excluir a regra de todos os clientes, ou seja, todos os clientes passarão a não ter uma regra de cobrança.
+- ![Painel Configurações](../../../../static/img/prints/buttons/btn_excluir-regras-em-todos-os-clientes.png): Permite excluir a regra de todos os pacientes, ou seja, todos os pacientes passarão a não ter uma regra de cobrança.
 - ![Painel Configurações](../../../../static/img/prints/buttons/btn_excluir-regras-em-todos-os-atendimentos.png): Permite excluir a regra de todos os atendimentos, ou seja, todos os atendimentos passarão a não ter uma regra de cobrança.

@@ -8,7 +8,7 @@ O eConsult disponibiliza uma ferramenta prática e eficiente para o **registro d
 
 Com essa funcionalidade, é possível acompanhar, de forma centralizada, o **engajamento individual dos membros do grupo**, identificando com facilidade quem compareceu, quem se ausentou e quais pagamentos foram realizados. Isso não apenas **otimiza a gestão administrativa**, mas também contribui para um melhor planejamento terapêutico e financeiro, tanto para os profissionais quanto para as instituições que conduzem os atendimentos em grupo.
 
-O recurso permite ainda **visualizações rápidas e precisas**, que auxiliam na tomada de decisões, no acompanhamento da evolução dos participantes e no cumprimento das metas estabelecidas. A transparência no registro dessas informações fortalece a relação com os clientes, ao mesmo tempo em que assegura maior controle e segurança nos processos internos.
+O recurso permite ainda **visualizações rápidas e precisas**, que auxiliam na tomada de decisões, no acompanhamento da evolução dos participantes e no cumprimento das metas estabelecidas. A transparência no registro dessas informações fortalece a relação com os pacientes, ao mesmo tempo em que assegura maior controle e segurança nos processos internos.
 
 Em suma, essa ferramenta do eConsult é um diferencial importante para quem trabalha com **atendimentos coletivos**, oferecendo **mais organização, agilidade e confiabilidade** na gestão de grupos.
 

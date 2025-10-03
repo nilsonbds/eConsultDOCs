@@ -18,7 +18,7 @@ O Painel Inicial exibe, primeiramente, alertas e informes importantes, destacand
 - **Anotação(ões) de confirmação pendente(s):** Mostra o número de confirmações de atendimentos pendentes e tem link para o painel Alertas.
 - **Anotação(ões) de realização pendente(s):** Mostra o número de anotações de realizado ou não realizado pendentes em atendimentos e tem link para o painel Alertas.
 - **Pagamento(s) em atraso:** Mostra o número de recebimentos pendentes e tem link para o painel Alertas.
-- **Paciente(s) ativo(s) sem e-mail, celular e/ou data de nascimento:** Mostra o número de cadasros de clientes ou grupos terapêuticos que não tem e-mails e/ou celular cadastrados.
+- **Paciente(s) ativo(s) sem e-mail, celular e/ou data de nascimento:** Mostra o número de cadasros de pacientes ou grupos terapêuticos que não tem e-mails e/ou celular cadastrados.
 
 - **Sua conta:** Atalho para o Painel Conta.
 

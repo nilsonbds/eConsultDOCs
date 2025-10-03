@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Sobre Relatórios
 
-No eConsult, o Painel Relatórios reúne um conjunto robusto de funcionalidades para a emissão de relatórios detalhados. Essas ferramentas permitem aos profissionais extrair informações valiosas sobre o desempenho operacional, financeiro e o relacionamento com seus clientes. Os relatórios são fundamentais para proporcionar uma visão clara, organizada e estratégica dos atendimentos realizados, das receitas geradas e do comportamento dos clientes.
+No eConsult, o Painel Relatórios reúne um conjunto robusto de funcionalidades para a emissão de relatórios detalhados. Essas ferramentas permitem aos profissionais extrair informações valiosas sobre o desempenho operacional, financeiro e o relacionamento com seus pacientes. Os relatórios são fundamentais para proporcionar uma visão clara, organizada e estratégica dos atendimentos realizados, das receitas geradas e do comportamento dos pacientes.
 
 ![Relatórios](../../../static/img/prints/relatorios/001.png)
 
@@ -28,7 +28,7 @@ Apresentam uma visão detalhada das informações financeiras relacionadas à op
 
 ### Relatórios de Pacientes e Grupos Terapêuticos
 
-Esses relatórios são essenciais para avaliar a interação entre os clientes (individuais ou em grupos) e a instituição. Oferecem dados quantitativos e qualitativos sobre os atendimentos realizados, possibilitando a consolidação de informações úteis para otimização de recursos, aprimoramento dos processos e elaboração de estratégias de fidelização.
+Esses relatórios são essenciais para avaliar a interação entre os pacientes (individuais ou em grupos) e a instituição. Oferecem dados quantitativos e qualitativos sobre os atendimentos realizados, possibilitando a consolidação de informações úteis para otimização de recursos, aprimoramento dos processos e elaboração de estratégias de fidelização.
 
 ![Relatórios](../../../static/img/prints/relatorios/004.png)
 

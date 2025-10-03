@@ -18,7 +18,7 @@ O sistema reconhece seu perfil e personaliza a experiência conforme sua área d
 
 Com o eConsult, você simplifica e centraliza atividades essenciais:
 
-- 📋 **Cadastro e histórico de clientes**
+- 📋 **Cadastro e histórico de pacientes e grupos terapêuticos**
 - 📅 **Gestão de agendamentos com notificações automáticas**
 - 💰 **Emissão de faturas, recibos e relatórios financeiros**
 - 📊 **Controle financeiro com visualização em tempo real**
@@ -42,7 +42,7 @@ O eConsult adota práticas rigorosas de proteção de dados:
 - 💾 **Backups automáticos e regulares**
 - 📜 **Conformidade com a LGPD**
 
-Seus dados e os de seus clientes permanecem seguros em todos os momentos.
+Seus dados e os de seus pacientes permanecem seguros em todos os momentos.
 
 ### Mais tempo, mais controle, mais excelência
 

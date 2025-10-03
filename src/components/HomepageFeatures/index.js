@@ -34,7 +34,7 @@ const FeatureList = [
     title: 'Ajustes e preferências do sistema',
     icon: <LuSettings />,
     description: (
-      <>Configure e personalize o sistema de acordo com suas necessidades, ajustando agenda, clientes, finanças e integrações para uma gestão completa e eficiente.</>
+      <>Configure e personalize o sistema de acordo com suas necessidades, ajustando agenda, pacientes, finanças e integrações para uma gestão completa e eficiente.</>
     ),
   },
   {
@@ -79,7 +79,7 @@ const FeatureList = [
   },
   {
     link: '/docs/funcionalidades/faturas-cliente/visao',
-    title: 'Controle de faturas dos clientes',
+    title: 'Controle de faturas dos pacientes',
     icon: <LuFileDiff />,
     description: (
       <>Gerencie vencimentos, pagamentos e cobranças de forma prática, mantendo controle detalhado das faturas para garantir eficiência e organização financeira.</>
@@ -127,10 +127,10 @@ const FeatureList = [
   },
   {
     link: '/docs/funcionalidades/analise-score/visao',
-    title: 'Análise de score dos clientes',
+    title: 'Análise de score dos pacientes',
     icon: <TbDashboard />,
     description: (
-      <>Visualize o comportamento dos clientes com base em dados históricos e monitore o nível de engajamento para orientar ações mais assertivas e personalizadas.</>
+      <>Visualize o comportamento dos pacientes com base em dados históricos e monitore o nível de engajamento para orientar ações mais assertivas e personalizadas.</>
     ),
   },
   {
@@ -138,7 +138,7 @@ const FeatureList = [
     title: 'Campanhas de cashback e fidelização',
     icon: <TbCashRegister />,
     description: (
-      <>Implemente programas de cashback para incentivar a fidelização dos clientes e aumentar a recorrência dos atendimentos de forma estratégica e sustentável.</>
+      <>Implemente programas de cashback para incentivar a fidelização dos pacientes e aumentar a recorrência dos atendimentos de forma estratégica e sustentável.</>
     ),
   },
   {

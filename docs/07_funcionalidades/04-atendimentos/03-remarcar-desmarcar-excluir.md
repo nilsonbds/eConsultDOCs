@@ -4,11 +4,11 @@ sidebar_position: 3
 
 # Desmarcação, Remarcação e Exclusão de Atendimentos
 
-No eConsult, existem funcionalidades específicas que permitem a desmarcação, remarcação e exclusão de agendamentos de atendimentos, garantindo maior flexibilidade e organização tanto para os clientes quanto para o profissional.
+No eConsult, existem funcionalidades específicas que permitem a desmarcação, remarcação e exclusão de agendamentos de atendimentos, garantindo maior flexibilidade e organização tanto para os pacientes quanto para o profissional.
 
 ## Desmarcação de Atendimento
 
-A desmarcação de um agendamento de atendimento no eConsult é uma funcionalidade que permite cancelar um atendimento previamente agendado. Essa opção é importante para evitar que horários sejam ocupados desnecessariamente por atendimentos que não serão realizadas, permitindo que outros clientes possam utilizar esse tempo. Ao desmarcar um atendimento, a plataforma registra esta desmarcação no cadastro do paciente como histórico.
+A desmarcação de um agendamento de atendimento no eConsult é uma funcionalidade que permite cancelar um atendimento previamente agendado. Essa opção é importante para evitar que horários sejam ocupados desnecessariamente por atendimentos que não serão realizadas, permitindo que outros pacientes possam utilizar esse tempo. Ao desmarcar um atendimento, a plataforma registra esta desmarcação no cadastro do paciente como histórico.
 
 ### Desmarcar um atendimento
 

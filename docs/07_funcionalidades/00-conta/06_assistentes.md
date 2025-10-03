@@ -6,7 +6,7 @@ sidebar_position: 6
 
 O eConsult permite que você adicione assistentes para realizar atividades específicas dentro do sistema.
 
-O assistente pode, por exemplo, auxiliar na administração da organização, gerenciando tarefas como agendamento, cobrança, emissão de recibos, cadastramento de clientes, entre outras.
+O assistente pode, por exemplo, auxiliar na administração da organização, gerenciando tarefas como agendamento, cobrança, emissão de recibos, cadastramento de pacientes, entre outras.
 
 Você convida um assistente por e-mail para ajudar em atividades específicas que você configura no sistema.
 

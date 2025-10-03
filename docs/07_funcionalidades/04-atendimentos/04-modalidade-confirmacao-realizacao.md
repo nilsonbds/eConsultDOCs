@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Modalidade, Confirmação e Realização de Atendimentos
 
-No eConsult, a gestão dos atendimentos é feita de maneira eficiente por meio das funcionalidades de Modalidade, Confirmação e Realização de atendimentos. Essas funcionalidades ajudam garantir uma experiência fluida e organizada tanto para os clientes e grupos terapêuticos quanto para os profissionais.
+No eConsult, a gestão dos atendimentos é feita de maneira eficiente por meio das funcionalidades de Modalidade, Confirmação e Realização de atendimentos. Essas funcionalidades ajudam garantir uma experiência fluida e organizada tanto para os pacientes e grupos terapêuticos quanto para os profissionais.
 
 ## Modalidade dos Atendimentos
 

@@ -4,13 +4,13 @@ sidebar_position: 0
 
 # Sobre Campanhas de Cashback
 
-As *Campanhas de Cashback* são estratégias promocionais desenvolvidas por você, especialista, para estimular a fidelização e o engajamento dos seus clientes. Nessas ações, um valor em dinheiro — fixo (em reais) ou percentual (%) — é devolvido ao paciente com base no total pago em atendimentos durante um determinado período de apuração, geralmente mensal.
+As *Campanhas de Cashback* são estratégias promocionais desenvolvidas por você, especialista, para estimular a fidelização e o engajamento dos seus pacientes. Nessas ações, um valor em dinheiro — fixo (em reais) ou percentual (%) — é devolvido ao paciente com base no total pago em atendimentos durante um determinado período de apuração, geralmente mensal.
 
 A principal vantagem dessas campanhas está na sua **flexibilidade**: você define os critérios de elegibilidade conforme o perfil da sua clientela e os objetivos do seu negócio.
 
-Entre as possibilidades de configuração, é possível segmentar por frequência de atendimentos, valor total gasto, engajamento, entre outros filtros. Essa personalização torna a campanha mais eficaz e alinhada ao comportamento de consumo dos seus clientes.
+Entre as possibilidades de configuração, é possível segmentar por frequência de atendimentos, valor total gasto, engajamento, entre outros filtros. Essa personalização torna a campanha mais eficaz e alinhada ao comportamento de consumo dos seus pacientes.
 
-Ao usar o cashback de forma estratégica, você reforça o vínculo com seus clientes, estimula o retorno recorrente e agrega valor à sua proposta de atendimento.
+Ao usar o cashback de forma estratégica, você reforça o vínculo com seus pacientes, estimula o retorno recorrente e agrega valor à sua proposta de atendimento.
 
 ---
 
@@ -74,7 +74,7 @@ Ao usar o cashback de forma estratégica, você reforça o vínculo com seus cli
 
 ### Na aba "Excessões":
 
-12. Indique os clientes que não devem receber cashback selecionando o paciente e acionando o botão ![Cashback](../../../static/img/prints/buttons/btn_add_campo_gray.png).
+12. Indique os pacientes que não devem receber cashback selecionando o paciente e acionando o botão ![Cashback](../../../static/img/prints/buttons/btn_add_campo_gray.png).
 
 13. Despois que preencher todas as informações, acione o botão "Salvar" ![Cashback](../../../static/img/prints/buttons/btn_salvar.png).
 
@@ -104,7 +104,7 @@ O sistema não permite campanhas com períodos sobrepostos.
 ---
 
 :::tip Dicas importantes
-- O sistema verifica automaticamente, no primeiro dia de cada mês, quais campanhas e clientes atendem aos critérios.
+- O sistema verifica automaticamente, no primeiro dia de cada mês, quais campanhas e pacientes atendem aos critérios.
 - Pacientes elegíveis recebem o cashback automaticamente, para uso em atendimentos futuros.
 - É possível processar a campanha manualmente na primeira vez.
 ![Cashback](../../../static/img/prints/cashback/011.png)  

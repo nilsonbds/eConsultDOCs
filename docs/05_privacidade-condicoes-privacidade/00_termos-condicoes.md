@@ -14,7 +14,7 @@ O eConsult é uma plataforma destinada a instrutores autônomos de aulas e servi
 
 - **Organização de aulas e sessões**
     - Gestão de pagamentos e cobranças
-    - Envio de lembretes automáticos para os clientes
+    - Envio de lembretes automáticos para os pacientes
     - Controle de presença
 
 ### 2. Registro de Conta
@@ -33,7 +33,7 @@ Você concorda em utilizar a Plataforma exclusivamente para os fins a que se des
 
 O eConsult pode cobrar uma taxa pelo uso da Plataforma, que será divulgada previamente. Ao optar por planos pagos, você concorda em pagar as taxas aplicáveis.
 
-Pagamentos de clientes podem ser gerenciados através da Plataforma, mas o eConsult não é responsável por inadimplências de clientes ou disputas relacionadas a pagamentos.
+Pagamentos de pacientes podem ser gerenciados através da Plataforma, mas o eConsult não é responsável por inadimplências de pacientes ou disputas relacionadas a pagamentos.
 
 ### 5. Cancelamentos e Reembolsos
 
@@ -58,7 +58,7 @@ Em caso de falha técnica prolongada, definida como inoperância total da Plataf
 Você é responsável por:
 
 - Garantir que as informações fornecidas na Plataforma sejam precisas e atualizadas.
-- Garantir que seus clientes estejam cientes das condições das aulas ou serviços, incluindo horários e políticas de cancelamento.
+- Garantir que seus pacientes estejam cientes das condições das aulas ou serviços, incluindo horários e políticas de cancelamento.
 - Proteger seus dados de acesso à Plataforma.
 
 ### 7. Limitação de Responsabilidade

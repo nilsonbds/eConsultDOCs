@@ -6,7 +6,7 @@ sidebar_position: 0
 
 O Painel Perdas Recuperadas do eConsult é uma ferramenta estratégica desenvolvida para monitorar e gerenciar com eficiência os atendimentos que, mesmo após terem sido classificados como perdas contábeis, tiveram seus valores posteriormente recuperados.
 
-Essa funcionalidade permite identificar de forma clara quais clientes ou grupos terapêuticos realizaram pagamentos referentes a créditos anteriormente considerados de difícil recebimento. Com isso, é possível manter o controle preciso sobre os valores efetivamente recuperados e reverter, quando necessário, registros de baixa contábil.
+Essa funcionalidade permite identificar de forma clara quais pacientes ou grupos terapêuticos realizaram pagamentos referentes a créditos anteriormente considerados de difícil recebimento. Com isso, é possível manter o controle preciso sobre os valores efetivamente recuperados e reverter, quando necessário, registros de baixa contábil.
 
 O painel oferece uma visão consolidada dessas recuperações, auxiliando na análise de desempenho das ações de cobrança, na revisão de estratégias financeiras e na melhoria da acurácia dos relatórios contábeis.
 
@@ -14,7 +14,7 @@ Mais do que um controle operacional, o Painel de Perdas Recuperadas reforça a t
 
 ![Perdas Recuperadas](../../../static/img/prints/perdasrecuperadas/001.png)
 
-No painel, os clientes e grupos terapêuticos são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do paciente e valor total das perdas recuperadas.
+No painel, os pacientes e grupos terapêuticos são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do paciente e valor total das perdas recuperadas.
 
 Para consultar os atendimentos com perdas recuperadas ou não, basta clicar no botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) localizado no *card* do paciente ou grupo.
 

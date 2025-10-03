@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Formas de Pagamento
 
-O cadastro de Formas de Pagamento no eConsult é uma etapa crucial para o gerenciamento eficiente das transações financeiras da sua organização. Esse processo permite registrar os diversos métodos pelos quais os clientes podem efetuar pagamentos, assim como os métodos utilizados para o registro de pagamento das suas despesas. Dessa forma, todas as operações, tanto de receitas quanto de despesas, são devidamente documentadas e organizadas no sistema, assegurando um controle financeiro mais preciso.
+O cadastro de Formas de Pagamento no eConsult é uma etapa crucial para o gerenciamento eficiente das transações financeiras da sua organização. Esse processo permite registrar os diversos métodos pelos quais os pacientes podem efetuar pagamentos, assim como os métodos utilizados para o registro de pagamento das suas despesas. Dessa forma, todas as operações, tanto de receitas quanto de despesas, são devidamente documentadas e organizadas no sistema, assegurando um controle financeiro mais preciso.
 
 ## Incluir Forma de Pagamento
 

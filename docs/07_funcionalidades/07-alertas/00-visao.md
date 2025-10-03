@@ -8,7 +8,7 @@ O Painel Alertas é uma ferramenta que auxilia na gestão proativa e eficiente d
 
 O principal objetivo do painel Alertas é identificar e destacar situações que requerem alguma ação, ajudando a garantir que problemas sejam resolvidos rapidamente e que a plataforma opere com eficiência máxima. O painel visa:
 
-- **Monitorar Problemas Potenciais:** Alertar sobre questões que podem afetar o desempenho, a qualidade do serviço ou a satisfação dos clientes.
+- **Monitorar Problemas Potenciais:** Alertar sobre questões que podem afetar o desempenho, a qualidade do serviço ou a satisfação dos pacientes.
 - **Facilitar a Ação Imediata:** Proporcionar informações em tempo real para que decisões possam ser tomadas rapidamente.
 - **Prevenir Impactos Negativos:** Minimizar os impactos negativos ao abordar problemas antes que eles se agravem.
   

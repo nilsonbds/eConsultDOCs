@@ -32,7 +32,7 @@ Cada transação registrada conta com informações detalhadas, como o "nome do 
 
 - **Notificações de Pagamento**
 
-    - O sistema permite o envio de notificações por whatsapp ou e-mail para lembrar os clientes sobre pagamentos pendentes.
+    - O sistema permite o envio de notificações por whatsapp ou e-mail para lembrar os pacientes sobre pagamentos pendentes.
 
     - Também é possível o envio de notificações por whatsapp ou e-mail de pagamentos já registrados.
 

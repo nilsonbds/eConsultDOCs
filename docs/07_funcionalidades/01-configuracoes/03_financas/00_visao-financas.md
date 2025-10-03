@@ -8,7 +8,7 @@ Para uma gestão financeira eficaz, é essencial ter um entendimento claro e org
 
 ## Formas de Pagamento
 
-Oferece o cadastro de formas de pagamento que é crucial para facilitar a quitação de faturas e atender às preferências dos clientes. Exemplos:
+Oferece o cadastro de formas de pagamento que é crucial para facilitar a quitação de faturas e atender às preferências dos pacientes. Exemplos:
 
 - **Dinheiro:** Pagamento em espécie, comum em transações presenciais.
 - **Transferências Bancárias:** Pagamentos diretos entre contas bancárias, útil para transações maiores ou recorrentes.
@@ -23,7 +23,7 @@ Oferece o cadastro de formas de pagamento que é crucial para facilitar a quita�
 Categorizar receitas é essencial para monitorar e analisar a origem dos ganhos da organização. Exemplos:
 
 - Vendas de Produtos: Receita gerada pela venda de mercadorias.
-- Prestação de Serviços: Receita proveniente da oferta de serviços aos clientes.
+- Prestação de Serviços: Receita proveniente da oferta de serviços aos pacientes.
 - Outras Receitas: Qualquer outra fonte de receita, como comissões ou rendimentos financeiros.
 
     :::note
@@ -51,17 +51,17 @@ Em "Padrões para Atendimentos", o parâmetro "Valor Padrão de Atendimentos" é
 
 ## Mensagens Padronizadas
 
-O uso de mensagens padronizadas é uma estratégia essencial para otimizar a comunicação com clientes e melhorar a eficiência dos atendimentos. Ao adotar mensagens predefinidas, garante-se agilidade nas interações, padronização da linguagem e um atendimento mais organizado e profissional.
+O uso de mensagens padronizadas é uma estratégia essencial para otimizar a comunicação com pacientes e melhorar a eficiência dos atendimentos. Ao adotar mensagens predefinidas, garante-se agilidade nas interações, padronização da linguagem e um atendimento mais organizado e profissional.
 
-- **Notificações de cobrança:** As notificações de cobrança ajuda a lembrar os clientes sobre pagamentos devidos, reduzindo o risco de inadimplência e mantendo o fluxo de caixa da organização estável. Essas notificações podem ser enviadas em diferentes momentos, como antes do vencimento da fatura, no dia do vencimento e após o vencimento, em caso de atraso.
+- **Notificações de cobrança:** As notificações de cobrança ajuda a lembrar os pacientes sobre pagamentos devidos, reduzindo o risco de inadimplência e mantendo o fluxo de caixa da organização estável. Essas notificações podem ser enviadas em diferentes momentos, como antes do vencimento da fatura, no dia do vencimento e após o vencimento, em caso de atraso.
 
-- **Notificações de registro de pagamentos:** As notificações de registro de pagamentos é uma prática importante para manter uma comunicação transparente com os clientes. Isso também auxilia na conciliação financeira, garantindo que todos os pagamentos sejam devidamente registrados e conhecidos.
+- **Notificações de registro de pagamentos:** As notificações de registro de pagamentos é uma prática importante para manter uma comunicação transparente com os pacientes. Isso também auxilia na conciliação financeira, garantindo que todos os pagamentos sejam devidamente registrados e conhecidos.
 
 - **Texto padrão para recibos:** Estabelecer um texto padrão para recibos assegura que todas as informações necessárias sejam incluídas de forma clara e consistente. Esse texto pode incluir detalhes como a descrição dos serviços prestados, o valor total, a data de pagamento, e quaisquer outras informações relevantes.
 
-- **Outros textos padrões para recibos:** Além do texto padrão principal, é possível definir outros textos padrões. Isso é importante porque você pode precisar de recibos com textos diferenciados, adaptados ao perfil do paciente. Dessa forma, você pode personalizar a comunicação, garantindo que ela esteja alinhada com as necessidades e expectativas de diferentes tipos de clientes.
+- **Outros textos padrões para recibos:** Além do texto padrão principal, é possível definir outros textos padrões. Isso é importante porque você pode precisar de recibos com textos diferenciados, adaptados ao perfil do paciente. Dessa forma, você pode personalizar a comunicação, garantindo que ela esteja alinhada com as necessidades e expectativas de diferentes tipos de pacientes.
 
 ## Regras de Cobrança
-O sistema permite cadastrar regras de cobrança que poderão ser aplicadas no cadastro de clientes, incluindo definição de prazos para concessão de descontos por pagamento antecipado, bem como critérios para cobrança de juros e multas por atraso.
+O sistema permite cadastrar regras de cobrança que poderão ser aplicadas no cadastro de pacientes, incluindo definição de prazos para concessão de descontos por pagamento antecipado, bem como critérios para cobrança de juros e multas por atraso.
 
 A configuração cuidadosa desses parâmetros permite que o processo de faturamento seja conduzido de forma eficaz, reduzindo erros e melhorando a sua experiência e do paciente.

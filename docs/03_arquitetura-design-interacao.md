@@ -10,7 +10,7 @@ O eConsult é uma plataforma projetada para otimizar a gestão de atendimentos e
 
 A arquitetura do eConsult é estruturada para suportar uma gestão eficaz dos atendimentos, integrando funcionalidades essenciais de maneira lógica e acessível. A plataforma organiza informações e processos de forma hierárquica, permitindo um fluxo de trabalho claro e eficiente.
 
-* **Estrutura de Dados:** O eConsult organiza dados de clientes, atendimentos e relatórios de maneira estruturada, facilitando o acesso rápido e seguro às informações.
+* **Estrutura de Dados:** O eConsult organiza dados de pacientes, atendimentos e relatórios de maneira estruturada, facilitando o acesso rápido e seguro às informações.
 
 * **Hierarquia de Funcionalidades:** A plataforma divide suas funcionalidades em seções bem definidas, tornando a navegação intuitiva.
 

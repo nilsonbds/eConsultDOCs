@@ -22,13 +22,13 @@ O objetivo aqui é configurar e personalizar a agenda para otimizar o planejamen
 - **Recessos:** Defina períodos de pausa, férias ou feriados nos quais sua agenda ficará bloqueada para agendamentos.
 - **Lembretes de Atendimentos:** Configure agrupamentos de atendimentos com base em ações pendentes, como emissão de recibos ou preenchimento de prontuários, para não esquecer de realizá-las.
 
-## Pacientes
+## Pacientes e Grupos Terapêuticos
 
-Objetiva facilitar o gerenciamento e a personalização das informações dos clientes para melhorar o atendimento e a comunicação.
+Objetiva facilitar o gerenciamento e a personalização das informações dos pacientes e grupos terapêuticos para melhorar o atendimento e a comunicação.
 
-- **Campos Adicionais para Pacientes:** Adicione e configure campos adicionais personalizados para clientes a fim de coletar informações específicas dos clientes, conforme as necessidades do seu negócio.
+- **Campos Adicionais para Pacientes e Grupos Terapêuticos:** Adicione e configure campos adicionais personalizados para pacientes e grupos a fim de coletar informações específicas dos pacientes/grupos, conforme as necessidades do seu negócio.
 - **Grupos Etários:** Crie e gerencie Grupos Etários para segmentação.
-- **Mensagens Padronizadas:** Crie padrões de mensagens relacionadas a clientes.
+- **Mensagens Padronizadas:** Crie padrões de mensagens relacionadas a pacientes e grupos.
 
 ## Finanças
 Gerencia aspectos financeiros relacionados ao sistema e garantir o controle e a precisão nas transações e relatórios financeiros.
@@ -46,7 +46,7 @@ Integra, de forma facilitada, o eConsult com outras ferramentas e sistemas para 
 - **GoogleDrive:** Configure a integração do eConsult com seu GoogleDrive.
 - **OpenAI:** Configure a integração do eConsult com a sua conta OpenAI.
 - **Daily (Teleatendimento):** Configure a integração do eConsult com a plataforma Daily e tenha um sistema de teleatendimento totalmente integrado.
-- **PIX:** Configure seu PIX para permitir que o sistema gere QRCodes de pagamento para seus clientes.
+- **PIX:** Configure seu PIX para permitir que o sistema gere QRCodes de pagamento para seus pacientes.
 - **Mercado Pago:** Configure a integração do eConsult com seu Mercado Pago.
 - **Focus NFe:** Configure a integração do eConsult com a plataforma Focus NFe.
 
