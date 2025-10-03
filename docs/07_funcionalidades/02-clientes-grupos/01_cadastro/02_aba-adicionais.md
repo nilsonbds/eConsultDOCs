@@ -6,13 +6,19 @@ sidebar_position: 2
 
 ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/aba-adicionais.png)
 
-O eConsult permite criar um formulário padrão de campos adicionais para o cadastro de novos pacientes ou grupos terapêuticos, por meio da opção **[Configuração / Campos Adicionais](/docs/funcionalidades/configuracoes/clientes/campos-adicionais)**. Esse formulário padrão pode ser aplicado sempre que um novo paciente for cadastrado, facilitando a padronização das informações coletadas.
+O eConsult permite criar um formulário de campos adicionais para o paciente ou grupo terapêutico.
 
-No entanto, essa padronização é totalmente **flexível e adaptável**. Ao acessar o cadastro do paciente ou grupo, na aba Campos Adicionais, você pode modificar o formulário conforme necessário — seja alterando, removendo ou adicionando novos campos, de acordo com as particularidades do paciente ou grupo.
+Você pode criar este formulário adicionando novos campos começando com a opção "Incluir Campo Personalizado".
 
-Dessa forma, o sistema oferece um equilíbrio entre **padronização e personalização**: você parte de um modelo pré-definido para garantir consistência, mas pode ajustá-lo livremente para registrar informações específicas e relevantes de cada paciente ou grupo. Isso torna o processo mais eficiente e o serviço mais direcionado e qualificado.
+Você pode também, utilizando a opção "Incluir Campos Padrões", carregar o grupo padrão de campos adicionais que você cria na "Configuração -> Campos Adicionais". 
 
-## Incluir novo campo
+O formulário é totalmente **flexível e adaptável**. Você pode modificar conforme necessário — seja alterando, removendo ou adicionando novos campos, de acordo com as particularidades do paciente ou grupo.
+
+:::note
+Este formulário constará nos novos prontuários do paciente ou grupo terapêutico.
+:::
+
+## Incluir novo campo personalizado
 
 1. Clique no ícone de “![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_add_campo.png)” (Adicionar).
 
