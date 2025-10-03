@@ -14,9 +14,9 @@ Além disso, o eConsult mantém um **histórico completo de todos os prontuário
 
 ## Histórico e Publicação de Prontuários
 
-O eConsult permite criar múltiplos prontuários para cada cliente, grupo terapêutico ou membro de um grupo. Você inicia a elaboração do prontuário e, ao finalizá-lo, ele é publicado e automaticamente registrado no histórico de prontuários, garantindo que todas as versões sejam preservadas.
+O eConsult permite criar múltiplos prontuários para cada paciente, grupo terapêutico ou membro de um grupo. Você inicia a elaboração do prontuário e, ao finalizá-lo, ele é publicado e automaticamente registrado no histórico de prontuários, garantindo que todas as versões sejam preservadas.
 
-Após a publicação, você pode escolher tornar o prontuário público, permitindo que o cliente, grupo ou membro do grupo tenha acesso ao documento, ou mantê-lo privado, garantindo total controle sobre a visibilidade das informações.
+Após a publicação, você pode escolher tornar o prontuário público, permitindo que o paciente, grupo ou membro do grupo tenha acesso ao documento, ou mantê-lo privado, garantindo total controle sobre a visibilidade das informações.
 
 ---
 
@@ -36,7 +36,7 @@ No eConsult, o prontuário é criado a partir de um modelo de anamnese, estrutur
 - Links de Arquivos Registrados para Downloads
 - Histórico de Sessões com suas respectivas anotações clínicas
 
-Todos os blocos e campos são totalmente personalizáveis durante a edição do prontuário: é possível incluir, excluir ou alterar blocos e campos conforme a necessidade de cada cliente, grupo terapêutico ou membro de grupo.
+Todos os blocos e campos são totalmente personalizáveis durante a edição do prontuário: é possível incluir, excluir ou alterar blocos e campos conforme a necessidade de cada paciente, grupo terapêutico ou membro de grupo.
 
 ---
 
@@ -57,7 +57,7 @@ Antes de qualquer uso externo, os dados passam por processos de anonimização, 
 Com a anonimização, essas informações deixam de ser classificadas como dados pessoais pela LGPD, o que dispensa a necessidade de autorizações adicionais por parte do paciente, sem comprometer a segurança ou a conformidade legal.
 
 :::note  
-**Recomendação:** Mesmo não sendo necessária autorização adicional do cliente, recomendamos que o profissional informe os pacientes que a plataforma utiliza IA e que os dados são tratados de forma anonimizada, garantindo transparência, segurança e confiança.  
+**Recomendação:** Mesmo não sendo necessária autorização adicional do paciente, recomendamos que o profissional informe os pacientes que a plataforma utiliza IA e que os dados são tratados de forma anonimizada, garantindo transparência, segurança e confiança.  
 :::
 
 ---
@@ -98,14 +98,14 @@ Esse recurso funciona como um suporte ao raciocínio clínico, auxiliando na org
 
 3. **Integração com Recursos Clínicos e Arquivos**
   - Possibilidade de vincular exames, relatórios, laudos e documentos para download.
-  - Registro do histórico de sessões com anotações detalhadas por cliente ou grupo.
+  - Registro do histórico de sessões com anotações detalhadas por paciente ou grupo.
 
 4. **Segurança e Confiabilidade**
   - Controle de acesso, criptografia e conformidade com normas éticas e legais.
   - Garantia de confidencialidade e integridade das informações.
 
 5. **Controle de Visibilidade**
-  - Prontuários podem ser publicados, mantidos privados ou disponibilizados ao cliente/grupo conforme decisão do profissional.
+  - Prontuários podem ser publicados, mantidos privados ou disponibilizados ao paciente/grupo conforme decisão do profissional.
 
 ---
 

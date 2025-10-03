@@ -18,7 +18,7 @@ sidebar_position: 5
 
 ## Agenda e Atendimentos
     
-### ❓ Como agendo um atendimento para um cliente?
+### ❓ Como agendo um atendimento para um paciente?
     
     - No menu principal acione a opção "Atendimentos".
 
@@ -30,27 +30,27 @@ sidebar_position: 5
 
     - Sim, para isso, no menu principal, acione a opção "Atendimentos".
 
-    - Acione o botão "Agendar atendimento" ![Painel Clientes e Grupos](../static/img/prints/buttons/btn_add.png).
+    - Acione o botão "Agendar atendimento" ![Painel Pacientes e Grupos](../static/img/prints/buttons/btn_add.png).
 
     - Preencha o formulário com as informações solicitadase pertinentes e clique em "Ver disponibilidades".
 
-    - Marque ou desmarque as disponibilidades que deseja agendar e acione o botão "Agendar Marcados" ![Painel Clientes e Grupos](../static/img/prints/buttons/btn_agendar-marcados.png) para confirmar e finalizar os agendamentos dos atendimentos.
+    - Marque ou desmarque as disponibilidades que deseja agendar e acione o botão "Agendar Marcados" ![Painel Pacientes e Grupos](../static/img/prints/buttons/btn_agendar-marcados.png) para confirmar e finalizar os agendamentos dos atendimentos.
 
         Mais detalhes sobre agendamentos [clique aqui](/docs/funcionalidades/atendimentos/interacao-navegacao) 
 
 ---
 
-## Cadastro de Clientes
+## Cadastro de Pacientes
 
-### ❓ Como cadastrar um novo cliente?
+### ❓ Como cadastrar um novo paciente?
 
-    - No menu principal, acesse “Clientes”.
+    - No menu principal, acesse “Pacientes”.
         
-    - Clique no botão “Incluir Novo Cliente ou Grupo” ![Painel Clientes e Grupos](../static/img/prints/buttons/btn_add.png), preencha os dados obrigatórios e clique em “Salvar”.
+    - Clique no botão “Incluir Novo Paciente ou Grupo” ![Painel Pacientes e Grupos](../static/img/prints/buttons/btn_add.png), preencha os dados obrigatórios e clique em “Salvar”.
 
 ### ❓ É possível importar uma lista de clientes?
 
-    - Sim. A funcionalidade de importação por planilha (.csv) está disponível em “Clientes” > “Importar”.
+    - Sim. A funcionalidade de importação por planilha (.csv) está disponível em “Pacientes” > “Importar”.
 
 ---
 
@@ -82,7 +82,7 @@ sidebar_position: 5
 
 ### ❓ Onde vejo gráficos de desempenho dos atendimentos?
 
-    - Em “Resultados” > “Desempenho por período”, você terá acesso a gráficos de produtividade, cancelamentos e evolução por cliente ou grupo.
+    - Em “Resultados” > “Desempenho por período”, você terá acesso a gráficos de produtividade, cancelamentos e evolução por paciente ou grupo.
 
 ---
 

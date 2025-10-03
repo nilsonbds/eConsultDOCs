@@ -24,7 +24,7 @@ Antes de qualquer uso externo, os dados passam por processos de anonimização, 
 Com a anonimização, essas informações deixam de ser classificadas como dados pessoais pela LGPD, o que dispensa a necessidade de autorizações adicionais por parte do paciente, sem comprometer a segurança ou a conformidade legal.
 
 :::note  
-**Recomendação:** Mesmo não sendo necessária autorização adicional do cliente, recomendamos que o profissional informe os pacientes que a plataforma utiliza IA e que os dados são tratados de forma anonimizada, garantindo transparência, segurança e confiança.  
+**Recomendação:** Mesmo não sendo necessária autorização adicional do paciente, recomendamos que o profissional informe os pacientes que a plataforma utiliza IA e que os dados são tratados de forma anonimizada, garantindo transparência, segurança e confiança.  
 :::
 
 ---

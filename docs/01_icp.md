@@ -6,9 +6,9 @@ sidebar_position: 1
 
 ## ICP (Ideal Customer Profile) do eConsult
 
-O **ICP (Ideal Customer Profile)**, ou *Perfil de Cliente Ideal*, do eConsult é um estudo que identifica quais profissionais mais se beneficiam da plataforma. Ele orienta o desenvolvimento e a evolução das funcionalidades, garantindo máxima utilidade, eficiência e alinhamento às necessidades dos usuários.
+O **ICP (Ideal Customer Profile)**, ou *Perfil de Paciente Ideal*, do eConsult é um estudo que identifica quais profissionais mais se beneficiam da plataforma. Ele orienta o desenvolvimento e a evolução das funcionalidades, garantindo máxima utilidade, eficiência e alinhamento às necessidades dos usuários.
 
-### Quem é o cliente ideal?
+### Quem é o paciente ideal?
 
 Profissionais **autônomos** que realizam **atendimentos mediante agendamento**, seja de forma individual ou em grupo, e que buscam uma solução prática para organizar compromissos, automatizar cobranças e centralizar informações em um só lugar.
 
@@ -110,7 +110,7 @@ Tudo isso por valores acessíveis e com planos flexíveis.
 
 ## Principais Funcionalidades do eConsult
 
-### Cadastro de Clientes e Grupos Terapêuticos
+### Cadastro de Pacientes e Grupos Terapêuticos
 
 Gerencie clientes e grupos de forma estratégica e eficiente. Tenha uma visão clara e personalizada de seus atendimentos com o painel de clientes e grupos. Com uma interface intuitiva e bem estruturada, você acessa informações detalhadas com rapidez, organiza demandas com mais precisão e minimiza falhas operacionais. Uma solução completa para quem busca agilidade, controle e excelência na gestão de atendimentos.
 
@@ -120,7 +120,7 @@ Gerencie clientes e grupos de forma estratégica e eficiente. Tenha uma visão c
 
 - Organização eficiente das demandas
 
-  *👉 [Mais sobre Cadastro de Clientes e Grupos Terapêuticos.](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos)*
+  *👉 [Mais sobre Cadastro de Pacientes e Grupos Terapêuticos.](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos)*
 
 ### Campos Altamente Personalizáveis
 
@@ -146,7 +146,7 @@ Controle de forma simples os créditos de clientes. Faça a atribuição de valo
 
   *👉 [Mais sobre créditos antecipados.](/docs/funcionalidades/clientes-grupos/cadastro/aba-creditos-e-perdas)*
 
-### Score Inteligente do Cliente
+### Score Inteligente do Paciente
 
 Acompanhe o engajamento dos seus clientes com um sistema de pontuação em três níveis: global, anual e mensal. Tome decisões baseadas em dados e otimize sua estratégia de relacionamento.
 
@@ -162,7 +162,7 @@ Avaliação em três níveis:
 
 ### Campanhas de Cashback Personalizadas
 
-Crie campanhas de fidelização inteligentes, baseadas no comportamento do cliente. Recompense com créditos ao invés de descontos, incentivando a continuidade dos atendimentos sem comprometer a rentabilidade.
+Crie campanhas de fidelização inteligentes, baseadas no comportamento do paciente. Recompense com créditos ao invés de descontos, incentivando a continuidade dos atendimentos sem comprometer a rentabilidade.
 
 - Incentivo baseado em frequência, valor ou score  
 
@@ -202,7 +202,7 @@ Registre e acesse com facilidade a evolução dos atendimentos por meio de pront
 
 - Modelos de anamnese prontos e editáveis  
 - Registro de evolução clínica ou pedagógica  
-- Acesso rápido e seguro ao histórico do cliente
+- Acesso rápido e seguro ao histórico do paciente
 
   *👉 [Mais sobre prontuários.](/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario)*
 
@@ -218,7 +218,7 @@ Aplique, registre e acompanhe com praticidade avaliações psicológicas digitai
 
 - Resultados organizados e interpretações por fatores e escores
 
-- Acesso seguro ao histórico de avaliações de cada cliente
+- Acesso seguro ao histórico de avaliações de cada paciente
 
   *👉 [Mais sobre avaliações psicológicas.](/docs/diferenciais/testes-psicologicos)*
 

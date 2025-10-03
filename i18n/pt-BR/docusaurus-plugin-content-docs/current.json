@@ -59,13 +59,13 @@
     "message": "O Painel de Configurações do eConsult é uma ferramenta central que facilita a gestão do sistema, permitindo personalizações e ajustes conforme as necessidades do negócio.",
     "description": "A descrição da página de índice gerada para a categoria Configurações na barra lateral tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Configurações para Clientes": {
-    "message": "Configurações para Clientes",
-    "description": "O rótulo da categoria Configurações para Clientes na barra lateral tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Configurações para Pacientes": {
+    "message": "Configurações para Pacientes",
+    "description": "O rótulo da categoria Configurações para Pacientes na barra lateral tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Configurações para Clientes.link.generated-index.description": {
-    "message": "O painel de Configurações para Clientes no eConsult é dedicado ao gerenciamento de perfis e preferências dos clientes, oferecendo flexibilidade e personalização no atendimento.",
-    "description": "A descrição da página de índice gerada para a categoria Configurações para Clientes na barra lateral tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Configurações para Pacientes.link.generated-index.description": {
+    "message": "O painel de Configurações para Pacientes no eConsult é dedicado ao gerenciamento de perfis e preferências dos clientes, oferecendo flexibilidade e personalização no atendimento.",
+    "description": "A descrição da página de índice gerada para a categoria Configurações para Pacientes na barra lateral tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Financeiro": {
     "message": "Financeiro",

@@ -16,7 +16,7 @@ Cada registro de nota fiscal aparece em formato de card, contendo:
 
 - **Nota Fiscal:** número e série.
 
-- **Cliente:** nome do cliente vinculado.
+- **Paciente:** nome do paciente vinculado.
 
 - **Data de Emissão:** data da emissão da nota.
 
@@ -56,9 +56,9 @@ Siga os passos:
 
 1. Acione o botão "Incluir Nota Fiscal" ![Notas Fiscais](../../../static/img/prints/buttons/btn_add.png).
 
-1. Selecione um cliente.
+1. Selecione um paciente.
 
-1. O sistema mostra as faturas já recebidas do cliente selecionado.
+1. O sistema mostra as faturas já recebidas do paciente selecionado.
 
 1. Marque as faturas que não tenham ainda nota fiscal associada.
 

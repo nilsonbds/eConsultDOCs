@@ -18,7 +18,7 @@ O Painel Inicial exibe, primeiramente, alertas e informes importantes, destacand
 - **Anotação(ões) de confirmação pendente(s):** Mostra o número de confirmações de atendimentos pendentes e tem link para o painel Alertas.
 - **Anotação(ões) de realização pendente(s):** Mostra o número de anotações de realizado ou não realizado pendentes em atendimentos e tem link para o painel Alertas.
 - **Pagamento(s) em atraso:** Mostra o número de recebimentos pendentes e tem link para o painel Alertas.
-- **Cliente(s) ativo(s) sem e-mail, celular e/ou data de nascimento:** Mostra o número de cadasros de clientes ou grupos terapêuticos que não tem e-mails e/ou celular cadastrados.
+- **Paciente(s) ativo(s) sem e-mail, celular e/ou data de nascimento:** Mostra o número de cadasros de clientes ou grupos terapêuticos que não tem e-mails e/ou celular cadastrados.
 
 - **Sua conta:** Atalho para o Painel Conta.
 
@@ -26,13 +26,13 @@ Além dos alertas e informações, o Painel Inicial oferece ainda atalhos rápid
 
 |Atalho|Destino|
 |--------------|-------------|
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-003.png) | Abre o [Painel Clientes e Grupos](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-003.png) | Abre o [Painel Pacientes e Grupos](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-004.png) | Abre o [Painel Atendimentos](/docs/funcionalidades/atendimentos/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-005.png) | Abre o [Painel Lembretes de Atendimentos](/docs/funcionalidades/lembretes/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-006.png) | Abre o [Painel Resultados](/docs/funcionalidades/resultados/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-007.png) | Abre o [Painel Alertas](/docs/funcionalidades/alertas/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-008.png) | Abre o [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-009.png) | Abre o [Painel Faturas do Cliente](/docs/funcionalidades/faturas-cliente/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-009.png) | Abre o [Painel Faturas do Paciente](/docs/funcionalidades/faturas-cliente/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-010.png) | Abre o [Painel Atendimentos do Mês](/docs/funcionalidades/atendimentos-do-mes/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-011.png) | Abre o [Painel Receitas e Despesas](/docs/funcionalidades/receitas-e-despesas/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-012.png) | Abre o [Painel Consolidação Financeira](/docs/funcionalidades/consolidacao-financeira/visao) |

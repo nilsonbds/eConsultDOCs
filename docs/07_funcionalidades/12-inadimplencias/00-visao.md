@@ -8,11 +8,11 @@ O Painel Inadimplências do eConsult é uma solução estratégica projetada par
 
 ![Painel Inadimplências](../../../static/img/prints/inadimplencias/001.png)
 
-No painel, os clientes e grupos terapêuticos são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do cliente e a quantidade de atendimentos com recebimentos pendentes.
+No painel, os clientes e grupos terapêuticos são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do paciente e a quantidade de atendimentos com recebimentos pendentes.
 
-Para consultar os atendimentos em atraso, basta clicar no botão ![Painel Inadimplências](../../../static/img/prints/buttons/btn_card-edit.png) localizado no *card* do cliente ou grupo terapêutico. 
+Para consultar os atendimentos em atraso, basta clicar no botão ![Painel Inadimplências](../../../static/img/prints/buttons/btn_card-edit.png) localizado no *card* do paciente ou grupo terapêutico. 
 
-Uma vez indicado o cliente ou grupo terapêutico, o sistema mostra:
+Uma vez indicado o paciente ou grupo terapêutico, o sistema mostra:
 
 ![Painel Inadimplências](../../../static/img/prints/inadimplencias/002.png)
 
@@ -30,11 +30,11 @@ Com esses dados, o sistema permite verificar o status das faturas, indicando se 
 
 Essa organização facilita o acompanhamento das transações financeiras, ajudando a manter o controle sobre pagamentos pendentes e recebidos, e garantindo uma gestão eficiente das finanças associadas aos atendimentos.
 
-Sendo assim, no painel Faturas do Cliente, você encontrará duas sub-abas distintas para um gerenciamento mais detalhado:
+Sendo assim, no painel Faturas do Paciente, você encontrará duas sub-abas distintas para um gerenciamento mais detalhado:
 
 ![Painel Inadimplências](../../../static/img/prints/inadimplencias/003.png)
 
-- **Sub-aba "Pendentes":** Nesta seção, são listadas todas as faturas do cliente especificado que ainda não foram pagas em suas totalidades. A sub-aba fornece uma visão clara das faturas com valores e datas de vencimento, permitindo o acompanhamento das pendências e a gestão eficaz dos pagamentos que estão por vencer ou que estão inadimplentes.
+- **Sub-aba "Pendentes":** Nesta seção, são listadas todas as faturas do paciente especificado que ainda não foram pagas em suas totalidades. A sub-aba fornece uma visão clara das faturas com valores e datas de vencimento, permitindo o acompanhamento das pendências e a gestão eficaz dos pagamentos que estão por vencer ou que estão inadimplentes.
 
     ![Painel Inadimplências](../../../static/img/prints/inadimplencias/004.png)
 
@@ -44,7 +44,7 @@ Sendo assim, no painel Faturas do Cliente, você encontrará duas sub-abas disti
 
 Na sub-aba Pendentes, você tem duas funções importantes para gerenciar faturas pendentes:
 
-- **Função "Notificar":** Permite notificar o cliente diretamente pelo WhatsApp sobre os pagamentos pendentes que estão marcados (selecionados). Ao acionar essa função, uma mensagem personalizada pode ser enviada, alertando o cliente sobre a necessidade de quitação das faturas em aberto que estão marcadas (selecionadas). Essa comunicação direta ajuda a lembrar o cliente de forma rápida e eficaz.
+- **Função "Notificar":** Permite notificar o paciente diretamente pelo WhatsApp sobre os pagamentos pendentes que estão marcados (selecionados). Ao acionar essa função, uma mensagem personalizada pode ser enviada, alertando o paciente sobre a necessidade de quitação das faturas em aberto que estão marcadas (selecionadas). Essa comunicação direta ajuda a lembrar o paciente de forma rápida e eficaz.
 
     ![Painel Inadimplências](../../../static/img/prints/inadimplencias/006.png)
 
@@ -58,10 +58,10 @@ Na sub-aba Pendentes, você tem duas funções importantes para gerenciar fatura
 
 Na sub-aba Recebidas, você também dispõe de duas funções importantes para gerenciar as faturas já quitadas:
 
-- **Notificar:** Permite informar ao cliente, através do WhatsApp ou E-mail, que o pagamento das faturas marcadas (selecionadas) foram recebidas e registradas. Isso mantém o cliente atualizado e garante uma comunicação eficiente.
-- **Recibo:** Com essa função, você pode gerar e fornecer um recibo seu oficial para o cliente, contendo as faturas marcadas (selecionadas), documentando o pagamento efetuado de maneira clara e profissional.
+- **Notificar:** Permite informar ao paciente, através do WhatsApp ou E-mail, que o pagamento das faturas marcadas (selecionadas) foram recebidas e registradas. Isso mantém o paciente atualizado e garante uma comunicação eficiente.
+- **Recibo:** Com essa função, você pode gerar e fornecer um recibo seu oficial para o paciente, contendo as faturas marcadas (selecionadas), documentando o pagamento efetuado de maneira clara e profissional.
 
-Essas funções ajudam a manter o registro financeiro organizado e a garantir uma comunicação transparente com o cliente.
+Essas funções ajudam a manter o registro financeiro organizado e a garantir uma comunicação transparente com o paciente.
 
 :::tip
 Utilize a opção ![Painel Inadimplências](../../../static/img/prints/buttons/btn_card-edit.png) localizada nos *cards* de faturas, tanto "Pendentes" quanto "Recebidas", para realizar alterações. Com essa opção, você pode:

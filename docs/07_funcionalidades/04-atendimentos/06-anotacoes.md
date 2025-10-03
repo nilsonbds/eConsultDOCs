@@ -4,13 +4,13 @@ sidebar_position: 6
 
 # Anotações Clínicas
 
-Você pode elaborar anotações detalhadas para os atendimentos realizados no eConsult, com o objetivo de registrar informações essenciais desde o motivo inicial do atendimento até observações feitas durante a interação. Essas anotações são fundamentais para documentar decisões, raciocínios, e orientações fornecidas ao cliente, garantindo que o atendimento seja compreendido e que haja continuidade adequada nos cuidados ou serviços prestados.
+Você pode elaborar anotações detalhadas para os atendimentos realizados no eConsult, com o objetivo de registrar informações essenciais desde o motivo inicial do atendimento até observações feitas durante a interação. Essas anotações são fundamentais para documentar decisões, raciocínios, e orientações fornecidas ao paciente, garantindo que o atendimento seja compreendido e que haja continuidade adequada nos cuidados ou serviços prestados.
 
-As anotações podem incluir detalhes como o histórico do cliente, relatos, respostas a perguntas específicas, além de orientações ou recomendações feitas durante o atendimento. A precisão e a clareza são cruciais para assegurar que todas as informações sejam facilmente compreendidas e possam ser referenciadas posteriormente.
+As anotações podem incluir detalhes como o histórico do paciente, relatos, respostas a perguntas específicas, além de orientações ou recomendações feitas durante o atendimento. A precisão e a clareza são cruciais para assegurar que todas as informações sejam facilmente compreendidas e possam ser referenciadas posteriormente.
 
-Essas anotações podem ser de uso interno, servindo exclusivamente como referência para o profissional, ou podem ser integradas ao prontuário do cliente. Quando publicadas no prontuário, elas se tornam parte permanente do registro do cliente, acessíveis para futuros atendimentos e podendo ser visualizadas pelo cliente.
+Essas anotações podem ser de uso interno, servindo exclusivamente como referência para o profissional, ou podem ser integradas ao prontuário do paciente. Quando publicadas no prontuário, elas se tornam parte permanente do registro do paciente, acessíveis para futuros atendimentos e podendo ser visualizadas pelo paciente.
 
-A decisão de publicar ou não as anotações no prontuário deve levar em conta a relevância das informações para o histórico do cliente e a necessidade de compartilhá-las para garantir um cuidado contínuo e eficaz. Independentemente de serem publicadas no prontuário, todas as anotações são realizadas com rigor e em conformidade com as normas de confidencialidade e privacidade, garantindo a proteção dos dados do cliente e a integridade do processo de atendimento.
+A decisão de publicar ou não as anotações no prontuário deve levar em conta a relevância das informações para o histórico do paciente e a necessidade de compartilhá-las para garantir um cuidado contínuo e eficaz. Independentemente de serem publicadas no prontuário, todas as anotações são realizadas com rigor e em conformidade com as normas de confidencialidade e privacidade, garantindo a proteção dos dados do paciente e a integridade do processo de atendimento.
 
 ## Incluir anotação para o atendimento
 
@@ -26,7 +26,7 @@ A decisão de publicar ou não as anotações no prontuário deve levar em conta
 
     ![Atendimento](../../../static/img/prints/atendimento/048.png)
 
-1. Preencha o campo "Propósito" (opcional), marque a opção "Tornar visível ao cliente" se desejar que a anotação seja visível no prontuário do cliente. Em seguida, complete o campo "Anotações" e clique no botão "Incluir" para adicionar a anotação.
+1. Preencha o campo "Propósito" (opcional), marque a opção "Tornar visível ao paciente" se desejar que a anotação seja visível no prontuário do paciente. Em seguida, complete o campo "Anotações" e clique no botão "Incluir" para adicionar a anotação.
 
     ![Atendimento](../../../static/img/prints/atendimento/049.png)
 

@@ -9,11 +9,11 @@ function ImageSlider() {
     const images = [
         { index: 0, src: "/img/prints/slider/000.png", alt: "Painel inicial", src_small: "/img/prints/slider/small/000.png" },
         { index: 1, src: "/img/prints/slider/001.png", alt: "Atendimentos", src_small: "/img/prints/slider/small/001.png" },
-        { index: 2, src: "/img/prints/slider/002.png", alt: "Clientes e Grupos", src_small: "/img/prints/slider/small/002.png" },
+        { index: 2, src: "/img/prints/slider/002.png", alt: "Pacientes e Grupos", src_small: "/img/prints/slider/small/002.png" },
         { index: 3, src: "/img/prints/slider/003.png", alt: "Resultados", src_small: "/img/prints/slider/small/003.png" },
         { index: 4, src: "/img/prints/slider/004.png", alt: "Alertas", src_small: "/img/prints/slider/small/004.png" },
         { index: 5, src: "/img/prints/slider/005.png", alt: "Consolidação Financeira", src_small: "/img/prints/slider/small/005.png" },
-        { index: 6, src: "/img/prints/slider/006.png", alt: "Cadastro de Clientes e Grupos", src_small: "/img/prints/slider/small/006.png" },
+        { index: 6, src: "/img/prints/slider/006.png", alt: "Cadastro de Pacientes e Grupos", src_small: "/img/prints/slider/small/006.png" },
         { index: 7, src: "/img/prints/slider/007.png", alt: "Análise de Score", src_small: "/img/prints/slider/small/007.png" },
     ];
 

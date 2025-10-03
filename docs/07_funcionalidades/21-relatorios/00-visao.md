@@ -26,7 +26,7 @@ Apresentam uma visão detalhada das informações financeiras relacionadas à op
 
 ![Relatórios](../../../static/img/prints/relatorios/003.png)
 
-### Relatórios de Clientes e Grupos Terapêuticos
+### Relatórios de Pacientes e Grupos Terapêuticos
 
 Esses relatórios são essenciais para avaliar a interação entre os clientes (individuais ou em grupos) e a instituição. Oferecem dados quantitativos e qualitativos sobre os atendimentos realizados, possibilitando a consolidação de informações úteis para otimização de recursos, aprimoramento dos processos e elaboração de estratégias de fidelização.
 

@@ -86,7 +86,7 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 
     ![Painel Atendimento](../../../static/img/prints/atendimento/019.png)
 
-- Já os atendimentos agendados mostram o nome do cliente ou grupo terapêutico, status e valores.
+- Já os atendimentos agendados mostram o nome do paciente ou grupo terapêutico, status e valores.
 
     ![Painel Atendimento](../../../static/img/prints/atendimento/020.png)
 
@@ -102,19 +102,19 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 
     ![Painel Atendimento](../../../static/img/prints/atendimento/086.png)
 
-1. Preencha o campo "Cliente", informe se o atendimento será "Presencial" ou "Remoto", informe se este atendimento está ou não "Confirmado" (no caso de disponibilidades futuras) ou se foi ou não "Realizado" (no caso de disponibilidades passadas).
+1. Preencha o campo "Paciente", informe se o atendimento será "Presencial" ou "Remoto", informe se este atendimento está ou não "Confirmado" (no caso de disponibilidades futuras) ou se foi ou não "Realizado" (no caso de disponibilidades passadas).
 
 1. Acione o botão "Incluir" ![Botão Incluir](../../../static/img/prints/buttons/btn_incluir.png).
 
 ## Agendar múltiplos atendimentos
 
-1. Acione o botão "Agendar atendimento" ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_add.png).
+1. Acione o botão "Agendar atendimento" ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_add.png).
 
 1. O sistema abrirá a tela "Agendamento".
 
-    ![Painel Clientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-015.png)
+    ![Painel Pacientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-015.png)
 
-1. Preencha o campo "Cliente".
+1. Preencha o campo "Paciente".
 
 1. Preencha o campo "Qtde." com o número total de atendimentos que você deseja agendar.
 
@@ -122,9 +122,9 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 
 1. No campo "A primeira", escolha o dia da semana em que os atendimentos devem ser realizados.
 
-1. Se desejar configurar os agendamentos de acordo com disponibilidades previamente definidas, acione o botão "![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_disponibilidades.png)". O sistema exibirá opções de horário baseadas nas disponibilidades previamente configuradas. Selecione uma disponibilidade de horário adequada.
+1. Se desejar configurar os agendamentos de acordo com disponibilidades previamente definidas, acione o botão "![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_disponibilidades.png)". O sistema exibirá opções de horário baseadas nas disponibilidades previamente configuradas. Selecione uma disponibilidade de horário adequada.
 
-    ![Painel Clientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-016.png)
+    ![Painel Pacientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-016.png)
 
 1. Escolha a periodicidade desejada para os atendimentos: "Semanal", "Quinzenal" ou "Mensal".
 
@@ -132,9 +132,9 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 
 1. Informe o valor de cada atendimento no campo correspondente.
 
-1. Acione a opção "Ver Disponibilidades" ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_ver-disponibilidades.png). O sistema abrirá a tela de análise de disponibilidades, onde você poderá revisar os horários disponíveis.
+1. Acione a opção "Ver Disponibilidades" ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_ver-disponibilidades.png). O sistema abrirá a tela de análise de disponibilidades, onde você poderá revisar os horários disponíveis.
 
-1. Marque ou desmarque as disponibilidades que deseja agendar e acione o botão "Agendar Marcados" ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_agendar-marcados.png) para confirmar e finalizar os agendamentos dos atendimentos.
+1. Marque ou desmarque as disponibilidades que deseja agendar e acione o botão "Agendar Marcados" ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_agendar-marcados.png) para confirmar e finalizar os agendamentos dos atendimentos.
 
 1. Em dias úteis, ou seja, sem recesso ou feriado, o sistema marcará automaticamente esses dias com um check. Mantenha esta marcação ou desmarque caso prefira não agendar neste dia.
 ​​

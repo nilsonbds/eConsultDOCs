@@ -1,9 +1,9 @@
 {
-  "label": "Cadastro de Clientes e Grupos Terapêuticoss",
+  "label": "Cadastro de Pacientes e Grupos Terapêuticoss",
   "position": 1,
   "link": {
     "slug": "/cadastro-clientes-grupos",
     "type": "generated-index",
-    "description": "O cadastro de Clientes e Grupos Terapêuticos do eConsult é uma ferramenta centralizada que organiza todas as informações essenciais para a gestão operacional, administrativa e financeira. Dividido em seções (abas), permite acesso rápido a dados, históricos e documentos, facilitando o acompanhamento completo de cada cliente ou grupo."
+    "description": "O cadastro de Pacientes e Grupos Terapêuticos do eConsult é uma ferramenta centralizada que organiza todas as informações essenciais para a gestão operacional, administrativa e financeira. Dividido em seções (abas), permite acesso rápido a dados, históricos e documentos, facilitando o acompanhamento completo de cada paciente ou grupo."
   }
 }

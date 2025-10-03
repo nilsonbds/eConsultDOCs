@@ -28,7 +28,7 @@ Descubra mais possibilidades com os recursos avançados disponíveis a seguir:
 
 ### **Configurar um valor padrão para atendimentos**
 
-Defina um valor sugerido automaticamente sempre que for criado um novo atendimento para um cliente.
+Defina um valor sugerido automaticamente sempre que for criado um novo atendimento para um paciente.
 
 - 👉 [Configurar Valor Padrão de Atendimentos](/docs/funcionalidades/configuracoes/financas/padroes-atendimentos)
 

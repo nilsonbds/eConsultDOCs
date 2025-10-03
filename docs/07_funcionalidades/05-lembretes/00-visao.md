@@ -32,23 +32,23 @@ Os *cards* de atendimento no painel Lembretes de Atendimentos oferece uma visão
 
 - **Data e Hora de Início e Fim do Atendimento:** Mostra a data, hora de início e fim do atendimento.
 
-- **Nome do Cliente:** O nome do cliente ao qual o atendimento está relacionado é destacado no *card*. Isso facilita a identificação rápida e direta de quem será atendido, essencial para o preparo adequado antes de cada atendimento.
+- **Nome do Paciente:** O nome do paciente ao qual o atendimento está relacionado é destacado no *card*. Isso facilita a identificação rápida e direta de quem será atendido, essencial para o preparo adequado antes de cada atendimento.
 
 - **Valor e Valor Pago:**
 
     - **Valor:** Indica o custo total do atendimento, permitindo que o profissional tenha uma visão clara do valor financeiro envolvido.
 
-    - **Valor Pago:** Mostra quanto já foi pago pelo cliente até o momento. Essa informação é útil para verificar se há pendências financeiras antes do atendimento ou para facilitar a cobrança posterior, se necessário.
+    - **Valor Pago:** Mostra quanto já foi pago pelo paciente até o momento. Essa informação é útil para verificar se há pendências financeiras antes do atendimento ou para facilitar a cobrança posterior, se necessário.
 
 - **Informe de Status:** O status do atendimento é claramente indicado, refletindo a situação atual, como:
 
-    - **Confirmado:** Indica que o cliente confirmou sua presença para o atendimento.
+    - **Confirmado:** Indica que o paciente confirmou sua presença para o atendimento.
 
-    - **Não Confirmado:** Mostra que ainda não houve confirmação por parte do cliente, sugerindo a necessidade de uma verificação ou lembrete adicional.
+    - **Não Confirmado:** Mostra que ainda não houve confirmação por parte do paciente, sugerindo a necessidade de uma verificação ou lembrete adicional.
 
-    - **Realizado:** Indica que o atendimento foi concluído com a participação do cliente.
+    - **Realizado:** Indica que o atendimento foi concluído com a participação do paciente.
 
-    - **Não Realizado:** Sinaliza que o atendimento não foi realizado por falta do cliente.
+    - **Não Realizado:** Sinaliza que o atendimento não foi realizado por falta do paciente.
 
     - **Informe Pendente:** Caso não haja um status definido, o sistema exibirá "informe pendente", indicando que o status ainda precisa ser atualizado.
 
@@ -56,17 +56,17 @@ Os *cards* de atendimento no painel Lembretes de Atendimentos oferece uma visão
 
         Da mesma forma como no painel Atendimentos, o painel Lembretes permite você gerenciar anotações, arquivos, lembretes e informes de presença e pagamentos (no caso de grupos terapêuticos) do atendimento.
 
-        ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/005.png)
+        ![Painel Pacientes e Grupos](../../../static/img/prints/lembretes/005.png)
 
-        - **Anotações:** ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/006.png) Permite incluir, alterar ou excluir anotações vinculadas a cada atendimento, oferecendo um espaço para registrar observações importantes que podem ser consultadas posteriormente e até mesmo publicadas no prontuário do cliente.
+        - **Anotações:** ![Painel Pacientes e Grupos](../../../static/img/prints/lembretes/006.png) Permite incluir, alterar ou excluir anotações vinculadas a cada atendimento, oferecendo um espaço para registrar observações importantes que podem ser consultadas posteriormente e até mesmo publicadas no prontuário do paciente.
         
-        - **Arquivos:** ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/007.png) Permite incluir, alterar ou excluir arquivos vinculados a cada atendimento.
+        - **Arquivos:** ![Painel Pacientes e Grupos](../../../static/img/prints/lembretes/007.png) Permite incluir, alterar ou excluir arquivos vinculados a cada atendimento.
         
-        - **Lembretes de Atendimentos:** ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/008.png) Mostra as cores de todos os tipos de lembretes vinculados ao atendimento e permite fazer a gestão destes lembretes do atendimento.
+        - **Lembretes de Atendimentos:** ![Painel Pacientes e Grupos](../../../static/img/prints/lembretes/008.png) Mostra as cores de todos os tipos de lembretes vinculados ao atendimento e permite fazer a gestão destes lembretes do atendimento.
         
-        - **Informes de presença e pagamentos:** ![Painel Clientes e Grupos](../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo terapêutico. Permite informar a presença dos clientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
+        - **Informes de presença e pagamentos:** ![Painel Pacientes e Grupos](../../../static/img/prints/lembretes/009.png) Mostrado somente quando se tratar de um grupo terapêutico. Permite informar a presença dos clientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
         
-        Você também tem acesso a diversas funcionalidades relacionadas ao atendimento, como Desmarcar, Remarcar, Excluir, alterar Modalidade e Status, além de realizar Recebimentos. Tudo isso está disponível de forma prática através de um único botão ![Painel Clientes e Grupos](../../../static/img/prints/buttons/btn_card-edit.png).
+        Você também tem acesso a diversas funcionalidades relacionadas ao atendimento, como Desmarcar, Remarcar, Excluir, alterar Modalidade e Status, além de realizar Recebimentos. Tudo isso está disponível de forma prática através de um único botão ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_card-edit.png).
     :::
 
 

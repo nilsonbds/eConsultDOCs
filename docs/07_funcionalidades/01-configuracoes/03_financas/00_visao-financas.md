@@ -47,7 +47,7 @@ Categorizar despesas ajuda a entender onde o dinheiro está sendo gasto e a iden
 
 ## Padrões para Atendimentos
 
-Em "Padrões para Atendimentos", o parâmetro "Valor Padrão de Atendimentos" é utilizado pelo sistema para sugerir automaticamente um valor de atendimento ao cadastrar um novo cliente ou grupo terapêutico. Esse valor é utilizado como sugestão sempre que um novo atendimento é registrado.
+Em "Padrões para Atendimentos", o parâmetro "Valor Padrão de Atendimentos" é utilizado pelo sistema para sugerir automaticamente um valor de atendimento ao cadastrar um novo paciente ou grupo terapêutico. Esse valor é utilizado como sugestão sempre que um novo atendimento é registrado.
 
 ## Mensagens Padronizadas
 
@@ -59,9 +59,9 @@ O uso de mensagens padronizadas é uma estratégia essencial para otimizar a com
 
 - **Texto padrão para recibos:** Estabelecer um texto padrão para recibos assegura que todas as informações necessárias sejam incluídas de forma clara e consistente. Esse texto pode incluir detalhes como a descrição dos serviços prestados, o valor total, a data de pagamento, e quaisquer outras informações relevantes.
 
-- **Outros textos padrões para recibos:** Além do texto padrão principal, é possível definir outros textos padrões. Isso é importante porque você pode precisar de recibos com textos diferenciados, adaptados ao perfil do cliente. Dessa forma, você pode personalizar a comunicação, garantindo que ela esteja alinhada com as necessidades e expectativas de diferentes tipos de clientes.
+- **Outros textos padrões para recibos:** Além do texto padrão principal, é possível definir outros textos padrões. Isso é importante porque você pode precisar de recibos com textos diferenciados, adaptados ao perfil do paciente. Dessa forma, você pode personalizar a comunicação, garantindo que ela esteja alinhada com as necessidades e expectativas de diferentes tipos de clientes.
 
 ## Regras de Cobrança
 O sistema permite cadastrar regras de cobrança que poderão ser aplicadas no cadastro de clientes, incluindo definição de prazos para concessão de descontos por pagamento antecipado, bem como critérios para cobrança de juros e multas por atraso.
 
-A configuração cuidadosa desses parâmetros permite que o processo de faturamento seja conduzido de forma eficaz, reduzindo erros e melhorando a sua experiência e do cliente.
+A configuração cuidadosa desses parâmetros permite que o processo de faturamento seja conduzido de forma eficaz, reduzindo erros e melhorando a sua experiência e do paciente.

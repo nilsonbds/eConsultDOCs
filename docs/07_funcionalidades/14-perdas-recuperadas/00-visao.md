@@ -14,29 +14,29 @@ Mais do que um controle operacional, o Painel de Perdas Recuperadas reforça a t
 
 ![Perdas Recuperadas](../../../static/img/prints/perdasrecuperadas/001.png)
 
-No painel, os clientes e grupos terapêuticos são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do cliente e valor total das perdas recuperadas.
+No painel, os clientes e grupos terapêuticos são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do paciente e valor total das perdas recuperadas.
 
-Para consultar os atendimentos com perdas recuperadas ou não, basta clicar no botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) localizado no *card* do cliente ou grupo.
+Para consultar os atendimentos com perdas recuperadas ou não, basta clicar no botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) localizado no *card* do paciente ou grupo.
 
-Após selecionar o cliente ou grupo, o sistema exibirá as informações relevantes.
+Após selecionar o paciente ou grupo, o sistema exibirá as informações relevantes.
 
 ![Perdas Recuperadas](../../../static/img/prints/perdasrecuperadas/002.png)
 
 ## Recuperar perdas
 
-A recuperação de perdas no eConsult é feita exclusivamente por meio da adição de crédito ao cliente.
+A recuperação de perdas no eConsult é feita exclusivamente por meio da adição de crédito ao paciente.
 
 Ao incluir um novo crédito, o sistema identifica automaticamente as perdas registradas e realiza a recuperação utilizando o valor disponível para cobrir o máximo possível das perdas pendentes.
 
 ## Adicionar fundos para recuperação de perdas
 
-Você pode adicionar fundos (crédito) para o cliente a fim de fazer uma recuperação de perdas.
+Você pode adicionar fundos (crédito) para o paciente a fim de fazer uma recuperação de perdas.
 
 Este crédito gerará uma fatura no sistema como um recebimento contabilmente realizado.
 
-1. Acione o botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) no *card* do cliente ou grupo terapêutico.
+1. Acione o botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) no *card* do paciente ou grupo terapêutico.
 
-1. O sistema abre tela mostrando todas as perdas registradas para este cliente ou grupo.
+1. O sistema abre tela mostrando todas as perdas registradas para este paciente ou grupo.
 
     ![Perdas Recuperadas](../../../static/img/prints/perdas/002.png)
 
@@ -94,9 +94,9 @@ Para que sejam considerados "Realizados", é necessário confirmar a efetivaçã
 
 ## Excluir registros de perdas recuperadas
 
-1. Acione o botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) correspondente ao cliente ou grupo terapêutico no painel "Perdas Recuperadas".
+1. Acione o botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) correspondente ao paciente ou grupo terapêutico no painel "Perdas Recuperadas".
 
-1. O sistema abre tela mostrando todas as perdas (recuperdas ou não) registradas para este cliente ou grupo.
+1. O sistema abre tela mostrando todas as perdas (recuperdas ou não) registradas para este paciente ou grupo.
 
 1. Localize o *card* correspondente a perda recuperada cuja recuperação se quer excluir.
 

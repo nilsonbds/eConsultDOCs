@@ -8,7 +8,7 @@ No eConsult, existem funcionalidades específicas que permitem a desmarcação, 
 
 ## Desmarcação de Atendimento
 
-A desmarcação de um agendamento de atendimento no eConsult é uma funcionalidade que permite cancelar um atendimento previamente agendado. Essa opção é importante para evitar que horários sejam ocupados desnecessariamente por atendimentos que não serão realizadas, permitindo que outros clientes possam utilizar esse tempo. Ao desmarcar um atendimento, a plataforma registra esta desmarcação no cadastro do cliente como histórico.
+A desmarcação de um agendamento de atendimento no eConsult é uma funcionalidade que permite cancelar um atendimento previamente agendado. Essa opção é importante para evitar que horários sejam ocupados desnecessariamente por atendimentos que não serão realizadas, permitindo que outros clientes possam utilizar esse tempo. Ao desmarcar um atendimento, a plataforma registra esta desmarcação no cadastro do paciente como histórico.
 
 ### Desmarcar um atendimento
 
@@ -28,7 +28,7 @@ A desmarcação de um agendamento de atendimento no eConsult é uma funcionalida
 
 ## Remarcação de Atendimento
 
-A remarcação de um agendamento de atendimento no eConsult permite  a alteração da data e/ou horário de um atendimento previamente marcada. Essa funcionalidade é essencial para situações em que se precisa ajustar o atendimento devido a imprevistos ou mudanças na agenda. A remarcação facilita o processo, evitando a necessidade de desmarcar o agendamento e criar um novo, o que poderia ser mais demorado e confuso. Ao fazer uma remarcação, a plataforma registra esta informação no cadastro do cliente como histórico.
+A remarcação de um agendamento de atendimento no eConsult permite  a alteração da data e/ou horário de um atendimento previamente marcada. Essa funcionalidade é essencial para situações em que se precisa ajustar o atendimento devido a imprevistos ou mudanças na agenda. A remarcação facilita o processo, evitando a necessidade de desmarcar o agendamento e criar um novo, o que poderia ser mais demorado e confuso. Ao fazer uma remarcação, a plataforma registra esta informação no cadastro do paciente como histórico.
 
 ### Remarcar um atendimento
 

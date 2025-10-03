@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Aba Faturas
 
-![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-faturas.png)
+![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/aba-faturas.png)
 
 A aba Faturas no eConsult é uma ferramenta essencial para a gestão financeira e o controle das transações realizadas com os clientes. Nesta aba, você encontrará um conjunto completo de funcionalidades que ajudam a organizar, visualizar e gerenciar todas as faturas associadas aos atendimentos.
 
@@ -32,21 +32,21 @@ Sendo assim, na aba Faturas, você encontrará duas sub-abas distintas para um g
 
 - **Sub-aba "Pendentes":** Nesta seção, são listadas todas as faturas que ainda não foram quitadas integralmente. A sub-aba oferece uma visão clara dos valores pendentes e das respectivas datas de vencimento, facilitando o acompanhamento das faturas em aberto e permitindo uma gestão eficiente dos pagamentos, sejam eles próximos do vencimento ou já em atraso.
 
-    ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-019.png)
+    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-019.png)
 
 - **Sub-aba "Recebidas":** Nesta seção, estão registradas todas as faturas cujo pagamento já foi confirmado. Ela exibe informações detalhadas, como a data do pagamento e o valor recebido, facilitando a verificação das transações concluídas e o controle financeiro eficiente.
 
-    ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-020.png)
+    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-020.png)
 
 Na sub-aba "Pendentes", você dispõe de 2 (duas) funções essenciais para o gerenciamento das faturas em aberto:
 
-- **Função "Notificar":** Permite enviar notificações diretamente pelo WhatsApp ou E-mail aos clientes sobre os pagamentos pendentes selecionados. Ao ativar essa função, é possível disparar uma mensagem personalizada, alertando o cliente sobre a necessidade de quitação das faturas marcadas. Essa comunicação direta torna o lembrete rápido e eficiente, facilitando a recuperação de pagamentos.
+- **Função "Notificar":** Permite enviar notificações diretamente pelo WhatsApp ou E-mail aos clientes sobre os pagamentos pendentes selecionados. Ao ativar essa função, é possível disparar uma mensagem personalizada, alertando o paciente sobre a necessidade de quitação das faturas marcadas. Essa comunicação direta torna o lembrete rápido e eficiente, facilitando a recuperação de pagamentos.
 
-    ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-021.png)
+    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-021.png)
     
 - **Função "Quitar":** Para registrar o pagamento integral das faturas, você pode usar a função Quitar. Ao acioná-la, o sistema exibe uma tela com as informações necessárias, solicitando a data de recebimento e a forma de pagamento. Após a confirmação, as faturas selecionadas são transferidas da lista de pendentes para a sub-aba Recebidas, atualizando o status e garantindo um controle financeiro preciso e atualizado.
 
-    ![Painel Clientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-022.png)
+    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-022.png)
 
     :::warning 
     Se na quitação o sistema não listar nenhuma forma de pagamento, significa que não existem formas de pagamento cadastradas. Utilize a tela de [cadastro de formas de pagamento](/docs/funcionalidades/configuracoes/financas/formas-pagmento) para corrigir isso.
@@ -54,16 +54,16 @@ Na sub-aba "Pendentes", você dispõe de 2 (duas) funções essenciais para o ge
 
 Na sub-aba "Recebidas", você conta com 3 (três) funções essenciais para o gerenciamento das faturas já quitadas:
 
-- **Notificar:** Permite informar o cliente, via WhatsApp ou E-mail, que o pagamento das faturas selecionadas foram recebidas e registradas. Essa comunicação mantém o cliente atualizado e fortalece a transparência no relacionamento.
+- **Notificar:** Permite informar o paciente, via WhatsApp ou E-mail, que o pagamento das faturas selecionadas foram recebidas e registradas. Essa comunicação mantém o paciente atualizado e fortalece a transparência no relacionamento.
 
-- **Recibo:** Com essa função, você pode gerar um recibo oficial para o cliente, contemplando as faturas selecionadas. Esse documento formaliza o pagamento de forma clara e profissional, auxiliando no controle e na prestação de contas.
+- **Recibo:** Com essa função, você pode gerar um recibo oficial para o paciente, contemplando as faturas selecionadas. Esse documento formaliza o pagamento de forma clara e profissional, auxiliando no controle e na prestação de contas.
 
 - **Nota Fiscal:** Com essa função, você pode gerar um registro de informações relativas a nota fiscal emitida para faturas selecionadas. Também é possível, através desta opção, emitir uma nota fiscal a partir de uma integração com a plataforma Focus NFe.
 
 :::note Edição de faturas
-Utilize a opção ![Painel Clientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png) localizada nos *cards* de faturas, tanto pendentes quanto recebidas, para realizar alterações nas informações da fatura. Com essa opção, é possível:
+Utilize a opção ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png) localizada nos *cards* de faturas, tanto pendentes quanto recebidas, para realizar alterações nas informações da fatura. Com essa opção, é possível:
 - Efetuar pagamentos totais ou parciais.
 - Excluir pagamentos já feitos, caso necessário.
 :::
 
-Essas funcionalidades são fundamentais para manter o registro financeiro sempre atualizado e organizado, além de promover uma comunicação clara e transparente com o cliente. Ao facilitar o acompanhamento dos pagamentos e a emissão de comprovantes, elas contribuem para fortalecer a confiança no relacionamento e assegurar um fluxo administrativo mais eficiente e profissional.
+Essas funcionalidades são fundamentais para manter o registro financeiro sempre atualizado e organizado, além de promover uma comunicação clara e transparente com o paciente. Ao facilitar o acompanhamento dos pagamentos e a emissão de comprovantes, elas contribuem para fortalecer a confiança no relacionamento e assegurar um fluxo administrativo mais eficiente e profissional.

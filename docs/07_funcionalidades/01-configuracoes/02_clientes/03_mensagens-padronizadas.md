@@ -8,26 +8,26 @@ O uso de mensagens padronizadas é uma estratégia essencial para otimizar a com
 
 ## Texto Padrão para Mensagens de Aniversário
 
-No painel Alertas o sistema mostra a opção de "Aniversariantes do Mês". Nesta funcionalidade o sistema permite o envio de uma mensagem para o cliente. Este campo cria um modelo padrão para esta mensagem. 
+No painel Alertas o sistema mostra a opção de "Aniversariantes do Mês". Nesta funcionalidade o sistema permite o envio de uma mensagem para o paciente. Este campo cria um modelo padrão para esta mensagem. 
 
 ## Texto Padrão em Atendimentos Prováveis
 
-No painel Alertas o sistema mostra uma opção de "Atendimentos Prováveis". Nesta funcionalidade o sistema permite o envio de uma mensagem para o cliente entrar em contato e agendar um atendimento. Este campo cria um modelo padrão para esta mensagem. 
+No painel Alertas o sistema mostra uma opção de "Atendimentos Prováveis". Nesta funcionalidade o sistema permite o envio de uma mensagem para o paciente entrar em contato e agendar um atendimento. Este campo cria um modelo padrão para esta mensagem. 
 
 ## Texto Padrão para Confirmações de Atendimento
 
-No painel Alertas o sistema mostra a opção "Confirmação". Nesta funcionalidade o sistema permite o envio de uma mensagem com link que permite o cliente confirmar um agendamento de atendimento. Este campo cria o modelo padrão para esta mensagem.
+No painel Alertas o sistema mostra a opção "Confirmação". Nesta funcionalidade o sistema permite o envio de uma mensagem com link que permite o paciente confirmar um agendamento de atendimento. Este campo cria o modelo padrão para esta mensagem.
 
-## Configurar Mensagens Padronizadas para Clientes
+## Configurar Mensagens Padronizadas para Pacientes
 
-1. No painel "Configurações", no grupo "Clientes", acione a opção "Mensagens Padronizadas".
+1. No painel "Configurações", no grupo "Pacientes", acione a opção "Mensagens Padronizadas".
 
     ![Painel Configurações](../../../../static/img/prints/03_mensagens-padronizadas-002.png)
 
 1. Altere as mensagens padronizadas desejadas.
 
     :::tip Use variáveis de ambiente
-    O eConsult utiliza tags para variáveis de ambiente. Por exemplo, se você deseja que o sistema insira automaticamente o nome do cliente num texto padrão, basta utilizar a tag ```<NomeCliente>```.
+    O eConsult utiliza tags para variáveis de ambiente. Por exemplo, se você deseja que o sistema insira automaticamente o nome do paciente num texto padrão, basta utilizar a tag ```<NomeCliente>```.
 
     Existem várias variáveis de ambiente, para vê-las e utilizá-las, siga os passos abaixo:
 

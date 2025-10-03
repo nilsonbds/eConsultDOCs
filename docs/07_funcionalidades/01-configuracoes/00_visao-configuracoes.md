@@ -22,11 +22,11 @@ O objetivo aqui é configurar e personalizar a agenda para otimizar o planejamen
 - **Recessos:** Defina períodos de pausa, férias ou feriados nos quais sua agenda ficará bloqueada para agendamentos.
 - **Lembretes de Atendimentos:** Configure agrupamentos de atendimentos com base em ações pendentes, como emissão de recibos ou preenchimento de prontuários, para não esquecer de realizá-las.
 
-## Clientes
+## Pacientes
 
 Objetiva facilitar o gerenciamento e a personalização das informações dos clientes para melhorar o atendimento e a comunicação.
 
-- **Campos Adicionais para Clientes:** Adicione e configure campos adicionais personalizados para clientes a fim de coletar informações específicas dos clientes, conforme as necessidades do seu negócio.
+- **Campos Adicionais para Pacientes:** Adicione e configure campos adicionais personalizados para clientes a fim de coletar informações específicas dos clientes, conforme as necessidades do seu negócio.
 - **Grupos Etários:** Crie e gerencie Grupos Etários para segmentação.
 - **Mensagens Padronizadas:** Crie padrões de mensagens relacionadas a clientes.
 

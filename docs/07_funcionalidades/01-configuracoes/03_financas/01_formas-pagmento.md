@@ -49,7 +49,7 @@ O cadastro de Formas de Pagamento no eConsult é uma etapa crucial para o gerenc
 
     - É importante destacar que a forma de pagamento 'PIX' se aplica exclusivamente a intenções de recebimento por atendimentos. Ela representa uma intenção de pagamento, e não um pagamento efetivado.
 
-    - A confirmação do pagamento ocorrerá somente após a comprovação da transferência via PIX por parte do cliente.
+    - A confirmação do pagamento ocorrerá somente após a comprovação da transferência via PIX por parte do paciente.
 
 **Integração com Mercado Pago:** 
 

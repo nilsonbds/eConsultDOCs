@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Informes de Presença e Pagamentos
 
-O eConsult disponibiliza uma ferramenta prática e eficiente para o **registro de pagamentos, presenças e ausências** dos participantes em **grupos terapêuticos**, proporcionando um controle detalhado e organizado da participação de cada cliente ao longo das sessões.
+O eConsult disponibiliza uma ferramenta prática e eficiente para o **registro de pagamentos, presenças e ausências** dos participantes em **grupos terapêuticos**, proporcionando um controle detalhado e organizado da participação de cada paciente ao longo das sessões.
 
 Com essa funcionalidade, é possível acompanhar, de forma centralizada, o **engajamento individual dos membros do grupo**, identificando com facilidade quem compareceu, quem se ausentou e quais pagamentos foram realizados. Isso não apenas **otimiza a gestão administrativa**, mas também contribui para um melhor planejamento terapêutico e financeiro, tanto para os profissionais quanto para as instituições que conduzem os atendimentos em grupo.
 

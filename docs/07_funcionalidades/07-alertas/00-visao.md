@@ -17,7 +17,7 @@ O principal objetivo do painel Alertas é identificar e destacar situações que
 ## Benefícios do Painel Alertas
 
 - **Resposta Rápida a Problemas:** Com alertas em tempo real, pode-se reagir rapidamente a problemas e evitar que se agravem, garantindo uma operação mais fluida e eficiente.
-- **Melhoria na Qualidade do Serviço:** A identificação precoce de problemas relacionados a atendimentos ajuda a melhorar a experiência do cliente e a satisfação geral.
+- **Melhoria na Qualidade do Serviço:** A identificação precoce de problemas relacionados a atendimentos ajuda a melhorar a experiência do paciente e a satisfação geral.
 - **Eficiência Operacional:** O painel ajuda a manter o controle sobre as operações e a otimizar recursos ao focar nas áreas que realmente necessitam de intervenção.
 - **Análise e Melhoria Contínua:** Oferece dados para análise posterior, permitindo ajustes e melhorias contínuas nos processos e políticas da plataforma.
 
@@ -34,7 +34,7 @@ O eConsult pode exibir, no Painel Alertas, as chamadas "![Painel Alertas](../../
 
 <figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/005.png" alt="Painel de Alertas" />
-  <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de Clientes</figcaption>
+  <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de Pacientes</figcaption>
 </figure>
 <figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/006.png" alt="Painel de Alertas" />

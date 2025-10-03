@@ -4,27 +4,27 @@ sidebar_position: 10
 
 # Aba Prontuário
 
-![Painel Clientes e Grupos](../../../../static/img/prints/buttons/aba-prontuario.png)
+![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/aba-prontuario.png)
 
-A aba **Prontuário**, disponível no painel **Clientes e Grupos Terapêuticos**, reúne todas as informações clínicas relacionadas ao acompanhamento individual ou em grupo.  
+A aba **Prontuário**, disponível no painel **Pacientes e Grupos Terapêuticos**, reúne todas as informações clínicas relacionadas ao acompanhamento individual ou em grupo.  
 
-No **eConsult**, cada cliente ou grupo pode possuir **múltiplos prontuários**, oferecendo flexibilidade na organização e registro das informações, seja para diferentes etapas do processo terapêutico, seja para separar versões relacionadas a fase do processo terapêutico ou enfoques distintos de acompanhamento.  
+No **eConsult**, cada paciente ou grupo pode possuir **múltiplos prontuários**, oferecendo flexibilidade na organização e registro das informações, seja para diferentes etapas do processo terapêutico, seja para separar versões relacionadas a fase do processo terapêutico ou enfoques distintos de acompanhamento.  
 
 Os prontuários podem assumir dois estágios:  
 
 **Prontuário em Elaboração** – encontra-se em fase de construção, ainda não publicado, sendo visível exclusivamente ao profissional responsável.  
 
 :::warning
-Cada cliente ou grupo pode ter apenas **um prontuário em elaboração** por vez.
+Cada paciente ou grupo pode ter apenas **um prontuário em elaboração** por vez.
 :::  
 
 **Prontuário Publicado** – já concluído e salvo, com duas possibilidades de acesso:  
 
   - **Privado**: restrito apenas ao profissional.  
 
-  - **Público**: acessível ao cliente, caso o profissional opte por disponibilizar.  
+  - **Público**: acessível ao paciente, caso o profissional opte por disponibilizar.  
 
-Essa estrutura garante ao profissional **autonomia e segurança** para gerenciar o ciclo de elaboração dos registros, definindo com clareza **o que permanece restrito** e **o que pode ser compartilhado** com o cliente.
+Essa estrutura garante ao profissional **autonomia e segurança** para gerenciar o ciclo de elaboração dos registros, definindo com clareza **o que permanece restrito** e **o que pode ser compartilhado** com o paciente.
 
 ---
 
@@ -54,7 +54,7 @@ O prontuário é criado com base em um Modelo de Anamnese previamente cadastrado
 
 ## Recursos disponíveis
 
-- **Anamnese:** coleta das informações do cliente ou grupo (histórico, queixas, antecedentes, hábitos de vida etc.).
+- **Anamnese:** coleta das informações do paciente ou grupo (histórico, queixas, antecedentes, hábitos de vida etc.).
 
 - **Avaliações Psicológicas:** aplicação de escalas validadas pelo CFP (como BDI, BAI, SDQ, CD-RISC). Os resultados ficam integrados ao prontuário.
 
@@ -62,7 +62,7 @@ O prontuário é criado com base em um Modelo de Anamnese previamente cadastrado
 
 - **Arquivos:** upload e acesso a documentos vinculados.
 
-- **Inteligência Artificial (IA):** recurso que apoia o profissional na prática clínica por meio da geração de hipóteses diagnósticas e prognósticas, além de sugerir planos de tratamento e evoluções clínicas. Essas sugestões são construídas a partir dos dados inseridos no prontuário e do nível de engajamento do cliente, oferecendo suporte adicional à tomada de decisão.
+- **Inteligência Artificial (IA):** recurso que apoia o profissional na prática clínica por meio da geração de hipóteses diagnósticas e prognósticas, além de sugerir planos de tratamento e evoluções clínicas. Essas sugestões são construídas a partir dos dados inseridos no prontuário e do nível de engajamento do paciente, oferecendo suporte adicional à tomada de decisão.
 
 - **Acesso Seguro:** todos os dados são protegidos por criptografia avançada e rigoroso controle de permissões, garantindo que apenas profissionais autorizados possam visualizar ou editar informações, assegurando total confidencialidade e integridade dos prontuários.
 
@@ -70,7 +70,7 @@ O prontuário é criado com base em um Modelo de Anamnese previamente cadastrado
 
 ## Como Criar e Gerenciar Prontuários
 
-1. Acesse a aba Prontuário no painel **Clientes e Grupos**.
+1. Acesse a aba Prontuário no painel **Pacientes e Grupos**.
 
     ![Prontuário](../../../../static/img/prints/prontuario/prontuario_001.png)
 
@@ -98,7 +98,7 @@ O prontuário é criado com base em um Modelo de Anamnese previamente cadastrado
 
     - Imprimir a versão Privada do prontuário (aquela que só o profissional tem acesso).
 
-    - Imprimir a versão Pública do prontuário (aquela que o cliente pode ter acesso além do profissional).
+    - Imprimir a versão Pública do prontuário (aquela que o paciente pode ter acesso além do profissional).
 
 1. Uma vez que você Salva e Fecha o prontuário o sistema apresenta um ***card*** correspondente a "Prontuário não Finalizado", ou seja, em elaboração.
 
@@ -135,11 +135,11 @@ A opção **Visualizar Prontuário** ![Prontuário](../../../../static/img/print
 :::tip Boas Práticas
 - Mantenha os registros claros, objetivos e atualizados.
 
-- Use o prontuário público apenas quando necessário para compartilhar informações com o cliente.
+- Use o prontuário público apenas quando necessário para compartilhar informações com o paciente.
 
 - Utilize os recursos da IA como apoio, mas sempre valide as sugestões com base no julgamento clínico.
 
 - Garanta que os modelos de anamnese estejam bem configurados para assegurar padronização.
 :::
 
-Com esse recurso, o eConsult permite que cada profissional mantenha vários prontuários organizados por cliente ou grupo terapêutico, com segurança, flexibilidade e suporte à prática clínica.
+Com esse recurso, o eConsult permite que cada profissional mantenha vários prontuários organizados por paciente ou grupo terapêutico, com segurança, flexibilidade e suporte à prática clínica.

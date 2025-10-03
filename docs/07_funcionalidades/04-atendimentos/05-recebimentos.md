@@ -28,7 +28,7 @@ Cada transação registrada conta com informações detalhadas, como o "nome do 
 
 - **Faturas e Recibos**
 
-    - Os registros de pagamento ficam vinculados automaticamente com a fatura do atendimento e, após pagamento total do atendimento, você pode emitir recibo para o cliente ou grupo terapêutico, garantindo transparência e formalidade nas transações.
+    - Os registros de pagamento ficam vinculados automaticamente com a fatura do atendimento e, após pagamento total do atendimento, você pode emitir recibo para o paciente ou grupo terapêutico, garantindo transparência e formalidade nas transações.
 
 - **Notificações de Pagamento**
 
@@ -57,7 +57,7 @@ Cada transação registrada conta com informações detalhadas, como o "nome do 
 1. Ao fechar esta tela, será exibido no *card* do atendimento as informações de pagamento já atualizadas.
 
     :::tip
-    Caso o pagador seja diferente do cliente, você pode informar o nome do pagador diretamente no campo específico para esse propósito.
+    Caso o pagador seja diferente do paciente, você pode informar o nome do pagador diretamente no campo específico para esse propósito.
 
     Quando o atendimento for direcionado a um grupo, o sistema exibirá um botão ![Atendimento](../../../static/img/prints/atendimento/042.png) ao lado do campo "Pagador". Esse botão permite selecionar um dos membros do grupo ou o próprio grupo como responsável pelo pagamento.
 

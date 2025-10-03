@@ -38,13 +38,13 @@ Uma vez acionada a opção **PIX** o sistema abrirá a seguinte tela:
 
         ![Painel Configurações](../../../../static/img/prints/pix/pix-003.png)
     
-    - Nas telas de pagamento: após a seleção do PIX como intenção de pagamento, o sistema gera um QR Code com o link correspondente, que pode ser compartilhado com o cliente via WhatsApp ou E-mail. Além disso, é exibido o botão 'Pagou', permitindo registrar quando o cliente efetivar o pagamento.
+    - Nas telas de pagamento: após a seleção do PIX como intenção de pagamento, o sistema gera um QR Code com o link correspondente, que pode ser compartilhado com o paciente via WhatsApp ou E-mail. Além disso, é exibido o botão 'Pagou', permitindo registrar quando o paciente efetivar o pagamento.
 
         ![Painel Configurações](../../../../static/img/prints/pix/pix-004.png)
 
         :::warning **Importante** 
             O status do pagamento permanecerá como **“Aguardando Pagamento”** até que você registre manualmente no sistema a confirmação do recebimento.
-            Por isso, recomendamos que você oriente o cliente a **enviar o comprovante do PIX assim que concluir o pagamento**, garantindo maior agilidade na conferência, já que a atualização do status **não ocorre de forma automática**.
+            Por isso, recomendamos que você oriente o paciente a **enviar o comprovante do PIX assim que concluir o pagamento**, garantindo maior agilidade na conferência, já que a atualização do status **não ocorre de forma automática**.
         :::
 
 ## Configurar seu PIX no eConsult

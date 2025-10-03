@@ -14,7 +14,7 @@ O cadastro de Grupos Etários é uma ferramenta para entender e segmentar sua ba
 
     ![Painel Configurações](../../../../static/img/prints/02_grupos-por-idade-001.png)
 
-3. Acione o botão **Incluir Grupo de Clientes** ![Painel Configurações](../../../../static/img/prints/buttons/btn_add.png).
+3. Acione o botão **Incluir Grupo de Pacientes** ![Painel Configurações](../../../../static/img/prints/buttons/btn_add.png).
 
 4. O sistema abrirá o formulário de cadastro de novo grupo de clientes por idade.
 

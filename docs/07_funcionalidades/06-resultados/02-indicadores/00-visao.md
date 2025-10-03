@@ -38,7 +38,7 @@ Os indicadores estão organizados nos seguintes *cards*:
 
     ![Painel Resultados](../../../../static/img/prints/resultados/012.png)
 
-    - Valor das perdas geradas pelo cliente no mês, no ano e no total.
+    - Valor das perdas geradas pelo paciente no mês, no ano e no total.
 
 1. **Perdas Recuperadas**
 
@@ -50,7 +50,7 @@ Os indicadores estão organizados nos seguintes *cards*:
 
     ![Painel Resultados](../../../../static/img/prints/resultados/014.png)
 
-    - Horários ocupados pelo cliente, categorizados por:
+    - Horários ocupados pelo paciente, categorizados por:
         - Remotos pagos
         - Remotos gratuitos
         - Presenciais pagos
@@ -62,7 +62,7 @@ Os indicadores estão organizados nos seguintes *cards*:
 
     ![Painel Resultados](../../../../static/img/prints/resultados/015.png)
 
-    - Valor mínimo, médio e máximo pago pelo cliente em atendimentos no mês.
+    - Valor mínimo, médio e máximo pago pelo paciente em atendimentos no mês.
     
 1. **Detalhamento da Frequência**
 

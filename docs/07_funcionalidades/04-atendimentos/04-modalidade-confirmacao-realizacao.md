@@ -8,7 +8,7 @@ No eConsult, a gestão dos atendimentos é feita de maneira eficiente por meio d
 
 ## Modalidade dos Atendimentos
 
-A Modalidade dos Atendimentos no eConsult define o tipo de atendimento que será oferecido, podendo ser "presencial" ou "remoto" (atendimento online). A modalidade é escolhida no momento do agendamento, garantindo que o atendimento seja ajustado às necessidades específicas do cliente ou do grupo terapêutico. Essa flexibilidade não apenas melhora a experiência do atendimento, mas também facilita a segmentação e análise em relatórios, oferecendo informações valiosas para o gerenciamento dos serviços.
+A Modalidade dos Atendimentos no eConsult define o tipo de atendimento que será oferecido, podendo ser "presencial" ou "remoto" (atendimento online). A modalidade é escolhida no momento do agendamento, garantindo que o atendimento seja ajustado às necessidades específicas do paciente ou do grupo terapêutico. Essa flexibilidade não apenas melhora a experiência do atendimento, mas também facilita a segmentação e análise em relatórios, oferecendo informações valiosas para o gerenciamento dos serviços.
 
 ### Escolher a modalidade de um atendimento
 
@@ -20,7 +20,7 @@ A Modalidade dos Atendimentos no eConsult define o tipo de atendimento que será
 
 Confirmação de Atendimentos no eConsult refere-se ao processo em que o profissional de saúde informa se um atendimento agendado está de fato confirmado para ocorrer. Essa confirmação pode ser feita antes do horário marcado para o atendimento — ou seja, nunca depois que o horário já passou.
 
-Essa informação ajuda o profissional lembrar que ainda precisa de uma confirmação do cliente apesar do atendimento já estar agendado.
+Essa informação ajuda o profissional lembrar que ainda precisa de uma confirmação do paciente apesar do atendimento já estar agendado.
 
 :::warning
   Mesmo sem confirmação, o sistema já considera esses atendimentos como parte da agenda e os inclui nas previsões de receita, pois há uma expectativa de que eles aconteçam.

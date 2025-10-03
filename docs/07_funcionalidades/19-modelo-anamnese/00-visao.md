@@ -4,9 +4,9 @@ sidebar_position: 0
 
 # Sobre Modelos de Anamnese
 
-O prontuário do cliente é uma ferramenta essencial no eConsult, proporcionando um registro detalhado e organizado de todas as informações relacionadas ao histórico do cliente. O prontuário centraliza informações importantes e facilita o acompanhamento contínuo das necessidades do cliente.
+O prontuário do paciente é uma ferramenta essencial no eConsult, proporcionando um registro detalhado e organizado de todas as informações relacionadas ao histórico do paciente. O prontuário centraliza informações importantes e facilita o acompanhamento contínuo das necessidades do paciente.
 
-Para vincular um prontuário a um cliente, é necessário que os **Modelos de Anamnese** estejam previamente cadastrados, pois estes serão utilizados como base na composição do prontuário.
+Para vincular um prontuário a um paciente, é necessário que os **Modelos de Anamnese** estejam previamente cadastrados, pois estes serão utilizados como base na composição do prontuário.
 
 :::tip Diferenças entre Prontuário e Anamnese
 
@@ -14,22 +14,22 @@ A diferença entre prontuário e anamnese está no conteúdo, na finalidade e no
 
 ### Anamnese
 
-- **Definição:** É a entrevista inicial feita pelo profissional com seu cliente.
+- **Definição:** É a entrevista inicial feita pelo profissional com seu paciente.
 - **Objetivo:** Coletar informações subjetivas sobre o histórico do paciente, seus sintomas, hábitos, doenças anteriores, uso de medicamentos, antecedentes familiares, etc.
 - **Importância:** Guia o raciocínio e orienta exames físicos e hipóteses diagnósticas.
 
 ### Prontuário
-    - **Definição:** É o documento completo (físico ou eletrônico) que reúne todo o histórico do cliente dentro de um serviço de atendimentos.
+    - **Definição:** É o documento completo (físico ou eletrônico) que reúne todo o histórico do paciente dentro de um serviço de atendimentos.
     - **Objetivo:** Registrar todas as informações de forma organizada, contínua e legal, incluindo anamnese, exames, evoluções, prescrições, procedimentos, etc.
     - **Conteúdo típico:** 
         - Dados do profissional, 
-        - Dados de identificação do cliente
+        - Dados de identificação do paciente
         - **Anamnese**
-        - Arquivos anexados vinculados ao cliente
+        - Arquivos anexados vinculados ao paciente
         - Arquivos anexados vinculados aos atendimentos feitos
         - Histórico de atendimentos com suas anotações
     - **Importância:** Serve como documento legal, instrumento de comunicação entre profissionais e base para pesquisas e auditorias.
-    - **Publicidade das informações do prontuário:** O prontuário reúne todas as informações e dados do cliente coletados durante os atendimentos. Como parte dessas informações pode incluir observações e anotações de uso exclusivo do profissional, cabe a ele (profissional) definir quais dados serão compartilhados (publicados) ou não com o cliente e, também, em que momento.
+    - **Publicidade das informações do prontuário:** O prontuário reúne todas as informações e dados do paciente coletados durante os atendimentos. Como parte dessas informações pode incluir observações e anotações de uso exclusivo do profissional, cabe a ele (profissional) definir quais dados serão compartilhados (publicados) ou não com o paciente e, também, em que momento.
 :::
 
 O eConsult já vem com modelos adaptados ao seu perfil profissional, mas você pode personalizá-los ou criar novos modelos diretamente no painel "Modelos de Anamnese".
@@ -57,9 +57,9 @@ Os tópicos são seções da anamnese, permitindo que as informações sejam reg
   É possível incluir novos campos ou remover os existentes dentro de cada tópico, de forma flexível e adaptável à realidade de cada público ou especialidade.
 
 - **Uso dos Modelos no Prontuário:**  
-  Ao iniciar um novo prontuário para um cliente, você pode utilizar um modelo previamente cadastrado como base. Ele serve como guia para o preenchimento estruturado dos tópicos e campos.  
+  Ao iniciar um novo prontuário para um paciente, você pode utilizar um modelo previamente cadastrado como base. Ele serve como guia para o preenchimento estruturado dos tópicos e campos.  
 
-  Além disso, mesmo após selecionar um modelo, você ainda pode personalizá-lo conforme o perfil ou necessidade individual de cada cliente.
+  Além disso, mesmo após selecionar um modelo, você ainda pode personalizá-lo conforme o perfil ou necessidade individual de cada paciente.
 
 ## Benefícios dos Modelos de Anamnese:
 

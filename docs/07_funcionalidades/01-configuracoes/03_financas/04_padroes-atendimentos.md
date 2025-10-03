@@ -19,5 +19,5 @@ Hoje o sistema permite configurar somente o campo "Valor Padrão para Atendiment
 1. Acione o botão "Salvar" ![Painel Configurações](../../../../static/img/prints/buttons/btn_salvar.png).
 
     :::note
-    O valor inserido neste campo será sugerido automaticamente como valor de atendimento ao cadastrar um novo cliente.
+    O valor inserido neste campo será sugerido automaticamente como valor de atendimento ao cadastrar um novo paciente.
     :::

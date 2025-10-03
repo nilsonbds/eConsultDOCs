@@ -43,12 +43,12 @@ Uma vez acionada a opção **Mercado Pago** o sistema abrirá a seguinte tela:
 
         ![Painel Configurações](../../../../static/img/prints/mpago/mpago-003.png)
 
-    - **Nas telas de pagamento:** após a seleção do Mercado Pago como forma de pagamento, o sistema gera um link correspondente que pode ser compartilhado com o cliente via WhatsApp ou por e-mail. Além disso, é exibido o botão 'Pagou', permitindo o registro manual do pagamento assim que o cliente o realizar.
+    - **Nas telas de pagamento:** após a seleção do Mercado Pago como forma de pagamento, o sistema gera um link correspondente que pode ser compartilhado com o paciente via WhatsApp ou por e-mail. Além disso, é exibido o botão 'Pagou', permitindo o registro manual do pagamento assim que o paciente o realizar.
 
         ![Painel Configurações](../../../../static/img/prints/mpago/mpago-004.png)
 
     :::warning **Importante**
-        O status do pagamento será atualizado **automaticamente** assim que o cliente concluir a transação, desde que o **webhook do eConsult esteja corretamente configurado na plataforma do Mercado Pago**.
+        O status do pagamento será atualizado **automaticamente** assim que o paciente concluir a transação, desde que o **webhook do eConsult esteja corretamente configurado na plataforma do Mercado Pago**.
 
         Caso o webhook não esteja ativo, o status permanecerá como **“Aguardando Pagamento”** até que a confirmação seja realizada manualmente no sistema.
 :::

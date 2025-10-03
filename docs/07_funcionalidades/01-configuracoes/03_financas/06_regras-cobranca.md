@@ -22,11 +22,11 @@ Essas configurações são cadastradas previamente e podem ser associadas aos cl
 
     ![Painel Configurações](../../../../static/img/prints/06_regras-cobranca-002.png)
 
-1. Preencha o campo "Desconto (%) até o vencimento" com o percentual que será concedido ao cliente que realizar o pagamento até a data de vencimento.
+1. Preencha o campo "Desconto (%) até o vencimento" com o percentual que será concedido ao paciente que realizar o pagamento até a data de vencimento.
 
-1. Preencha o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o cliente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
+1. Preencha o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o paciente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
 
-1. Preencha o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o cliente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
+1. Preencha o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o paciente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
 
 1. Preencha o campo "Multa (%) após tolerância" com o percentual de multa que será aplicado sobre o valor devido caso o pagamento seja realizado após o período de tolerância.
 
@@ -46,11 +46,11 @@ Essas configurações são cadastradas previamente e podem ser associadas aos cl
 
 1. O sistema abrirá o formulário de cadastro de alteração de regra de cobrança.
 
-1. Altere o campo "Desconto (%) até o vencimento" com o percentual que será concedido ao cliente que realizar o pagamento até a data de vencimento.
+1. Altere o campo "Desconto (%) até o vencimento" com o percentual que será concedido ao paciente que realizar o pagamento até a data de vencimento.
 
-1. Altere o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o cliente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
+1. Altere o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o paciente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
 
-1. Altere o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o cliente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
+1. Altere o campo "Número de dias para período de tolerância" com a quantidade de dias, contados a partir da data de vencimento, durante os quais o paciente poderá efetuar o pagamento sem a incidência de juros (mora diária) ou multa.
 
 1. Altere o campo "Multa (%) após tolerância" com o percentual de multa que será aplicado sobre o valor devido caso o pagamento seja realizado após o período de tolerância.
 

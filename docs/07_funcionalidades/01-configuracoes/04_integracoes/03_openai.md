@@ -37,7 +37,7 @@ A IA responde perguntas e oferece sugestões sempre dentro do propósito especif
 
 ### 3. Hipóteses Diagnósticas, Prognósticas, Planos e Evoluções de Tratamento
 
-Com base nos dados do prontuário, na bordagem terapêutica do profissional, nos testes psicológicos aplicados, anotações clínicas feitas durante os atendimentos e no engajamento nos atendimentos do cliente, a IA pode sugerir:
+Com base nos dados do prontuário, na bordagem terapêutica do profissional, nos testes psicológicos aplicados, anotações clínicas feitas durante os atendimentos e no engajamento nos atendimentos do paciente, a IA pode sugerir:
 
 - Hipótese diagnóstica;
 - Hipótese prognóstica;

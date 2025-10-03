@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Gestão Inteligente para Profissionais que Cuidam de Pessoas
 
-Em um mundo cada vez mais dinâmico, onde tempo e eficiência são recursos valiosos, contar com um sistema de gestão inteligente deixou de ser um diferencial — passou a ser uma necessidade. Profissionais da saúde, bem-estar e desenvolvimento humano lidam diariamente com tarefas administrativas e clínicas que, se não forem bem geridas, comprometem o foco no que realmente importa: o cuidado com o cliente.
+Em um mundo cada vez mais dinâmico, onde tempo e eficiência são recursos valiosos, contar com um sistema de gestão inteligente deixou de ser um diferencial — passou a ser uma necessidade. Profissionais da saúde, bem-estar e desenvolvimento humano lidam diariamente com tarefas administrativas e clínicas que, se não forem bem geridas, comprometem o foco no que realmente importa: o cuidado com o paciente.
 
 Pensando nisso, nasceu o **eConsult** — uma plataforma completa, desenvolvida inicialmente para psicólogos clínicos, mas que rapidamente se destacou como uma solução versátil para diversos profissionais que atuam com atendimentos personalizados e agendamentos regulares.
 

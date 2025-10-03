@@ -19,7 +19,7 @@ Uma vez aciona a opção será mostrada a seguinte tela:
 Essa configuração permitirá que o eConsult se conecte ao seu Google Drive, facilitando o armazenamento, a gestão e o compartilhamento de arquivos diretamente pela plataforma. Uma vez feita a configuração o sistema passa a mostrar:
 
 - **Opção Arquivos no menu Principal:** Permite a gestão de arquivos dos clientes.
-- **Aba Arquivos no cadastro do Cliente:** Permite a gestão de arquivos do cliente.
+- **Aba Arquivos no cadastro do Paciente:** Permite a gestão de arquivos do paciente.
 - **Mostra o botão Anexar Arquivos ![Painel Configurações](../../../../static/img/prints/buttons/btn_files.png) nos *cards* de Atentimento:** Permite fazer uma gestão de arquivos por atendimento.
 
 :::
