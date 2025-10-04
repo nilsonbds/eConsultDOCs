@@ -27,13 +27,13 @@ Isso significa que, ao instalar o eConsult como um app PWA, você terá acesso f
 
 - Conexão com a internet
 - Navegador compatível com PWA
-- Acesse o site: https://econsult.app.br
+- Acesse o site: https://econsult.app.br/home
 
 ### Instalar o APP eConsult no Android usando o Google Chrome
 
 1. Abra o Google Chrome.
 
-2. Acesse: https://econsult.app.br
+2. Acesse: https://econsult.app.br/home
 
 3. Aguarde o carregamento completo do site.
 
@@ -47,7 +47,7 @@ Isso significa que, ao instalar o eConsult como um app PWA, você terá acesso f
 
 1. Abra o Samsung Internet.
 
-2. Acesse: https://econsult.app.br
+2. Acesse: https://econsult.app.br/home
 
 3. Toque no menu (☰) no canto inferior direito.
 
@@ -67,7 +67,7 @@ Isso significa que, ao instalar o eConsult como um app PWA, você terá acesso f
 
 1. Abra o Safari.
 
-2. Vá para https://econsult.app.br.
+2. Vá para https://econsult.app.br/home.
 
 3. Toque no botão de compartilhar (ícone de quadrado com seta).
 
@@ -79,7 +79,7 @@ Isso significa que, ao instalar o eConsult como um app PWA, você terá acesso f
 
 ### Instalar o APP eConsult no desktop (note book ou computador com Windows) usando o Google Chrome
 
-1. Acesse https://econsult.app.br no Chrome.
+1. Acesse https://econsult.app.br/home no Chrome.
 
 2. Clique no ícone de instalação (um pequeno símbolo de computador com uma seta, na barra de endereços).
 
@@ -91,7 +91,7 @@ Isso significa que, ao instalar o eConsult como um app PWA, você terá acesso f
 
 ### Instalar o APP eConsult no desktop (note book ou computador com Windows) usando o Microsoft Edge
 
-1. Acesse https://econsult.app.br no Edge.
+1. Acesse https://econsult.app.br/home no Edge.
 
 2. Clique nos três pontinhos (...) no canto superior direito.
 

@@ -95,7 +95,7 @@ Uma vez acionada a opção **Mercado Pago** o sistema abrirá a seguinte tela:
     
         - Setor com "Outros".
         
-        - Site com "https://econsult.app.br/".
+        - Site com "https://econsult.app.br/home/".
 
     - Marque as opções "Eu autorizo" e "Não sou Robô".
 

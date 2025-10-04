@@ -76,7 +76,7 @@ const config = {
       title: null,
       logo: {
         alt: 'eConsultDOC',
-        src: 'img/LogotipoDOC.svg',
+        src: 'img/LogotipoDOCs.svg',
       },
       items: [
         {
@@ -96,7 +96,7 @@ const config = {
           label: 'Criar uma conta',
         },
         {
-          href: 'https://econsult.app.br',
+          href: 'https://econsult.app.br/home',
           label: 'Ir para o sistema',
           position: 'right',
         },

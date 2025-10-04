@@ -32,7 +32,7 @@ function HomepageFooter() {
             <div className="econ-footer">
               <div className='econ-box-col'>
                 <div className='econ-footer-container'>
-                  <a href="https://econsult.app.br" target="_blank">
+                  <a href="https://econsult.app.br/home" target="_blank">
                     <div className='econ-box-site'>
                       <img src="/img/Logotipo.svg" alt="Logotipo" className='econ-logo-box-col' />
                     </div>
@@ -46,7 +46,7 @@ function HomepageFooter() {
                   <p className='econ-text-box'>•&nbsp;&nbsp;atendimento@econsult.app.br</p>
                   <p className='econ-text-box'>•&nbsp;&nbsp;+55 (47) 99915-3002 (WhatsApp)</p><br />
                   <p className='econ-title-box'>👉 <a href="https://econsult.app.br/plans" target="_blank">Planos e preços</a></p>
-                  <p className='econ-title-box'>👉 <a href="https://econsult.app.br/userregister" target="_blank">Criar uma conta</a></p>
+                  <p className='econ-title-box'>👉 <a href="https://econsult.app.br/multidisciplinar" target="_blank">Criar uma conta</a></p>
                 </div>
               </div>
               <div className='econ-box-col'>
