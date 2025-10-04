@@ -107,3 +107,8 @@ dailyco:
   label: Daily.co
   permalink: /dailyco
   description: Posts sobre a plataforma de videoconferência Daily.co, suas vantagens, integrações e uso no contexto da psicologia digital.
+
+mercado:
+  label: Mercado
+  permalink: /mercado
+  description: Reflexões sobre a influência do mercado, tecnologia e modelos de negócio na atuação do psicólogo.
