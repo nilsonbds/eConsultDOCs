@@ -10,7 +10,7 @@ O cadastro foi pensado para reunir, em um único lugar, todas as informações e
 
 ## Abas do Cadastro de Pacientes e Grupos Terapêuticos no eConsult
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-006.png)
+![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-006.png)
 
 1. **Aba Geral**
 
