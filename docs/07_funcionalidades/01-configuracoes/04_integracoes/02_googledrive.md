@@ -12,7 +12,7 @@ A página Google Drive pode ser acessada através do [Painel Configurações](/d
 
 Uma vez aciona a opção será mostrada a seguinte tela:
 
-    ![Painel Configurações](../../../../static/img/prints/02_googledrive-001.png)
+![Painel Configurações](../../../../static/img/prints/02_googledrive-001.png)
 
 :::note Por que configurar meu Google Drive no eConsult? 
 
