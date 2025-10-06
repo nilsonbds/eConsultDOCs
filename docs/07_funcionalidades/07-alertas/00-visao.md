@@ -12,7 +12,7 @@ O principal objetivo do painel Alertas é identificar e destacar situações que
 - **Facilitar a Ação Imediata:** Proporcionar informações em tempo real para que decisões possam ser tomadas rapidamente.
 - **Prevenir Impactos Negativos:** Minimizar os impactos negativos ao abordar problemas antes que eles se agravem.
   
-  ![Painel Alertas](../../../static/img/prints/alertas/001.png)
+![Painel Alertas](../../../static/img/prints/alertas/001.png)
 
 ## Benefícios do Painel Alertas
 
