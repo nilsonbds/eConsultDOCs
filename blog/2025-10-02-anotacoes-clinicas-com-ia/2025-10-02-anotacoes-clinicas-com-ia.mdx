@@ -43,17 +43,18 @@ Para alinhar-se à ética profissional e às boas práticas de documentação cl
 
 1. **Anonimização**: substituição automática de dados identificáveis (nome, cidade, empresa) por placeholders, como `[NOME1]` ou `[CIDADE1]`.  
     
-    :::note
-    Funcionalidades de anonimização:
-        - *Regex (expressões regulares)*: técnica de programação que detecta padrões no texto (ex.: nomes próprios).  
-        - *NER (Named Entity Recognition)*: Identifica entidades básicas no texto, ou seja, palavras ou expressões que representam algo específico. Exemplos típicos que essas libs detectam:
-            - Nomes próprios → “João”, “Maria”, “Dr. Carlos”.
-            - Locais → “São Paulo”, “Hospital Santa Casa”.
-            - Datas → “12 de março”, “ontem”, “2022”.
-            - Números → “35 anos”, “dois filhos”.
-            - Organizações → “Fiat”, “Prefeitura de Belo Horizonte”.  
-        - *Placeholder*: marcador temporário usado para proteger a identidade.
-    :::  
+:::note
+### Funcionalidades de anonimização
+
+    - *Regex (expressões regulares)*: técnica de programação que detecta padrões no texto (ex.: nomes próprios).  
+    - *NER (Named Entity Recognition)*: Identifica entidades básicas no texto, ou seja, palavras ou expressões que representam algo específico. Exemplos típicos que essas libs detectam:
+        - Nomes próprios → “João”, “Maria”, “Dr. Carlos”.
+        - Locais → “São Paulo”, “Hospital Santa Casa”.
+        - Datas → “12 de março”, “ontem”, “2022”.
+        - Números → “35 anos”, “dois filhos”.
+        - Organizações → “Fiat”, “Prefeitura de Belo Horizonte”.  
+    - *Placeholder*: marcador temporário usado para proteger a identidade.
+:::  
 
 2. **Envio seguro à IA**: a IA só processa o texto anonimizado, nunca o dado real.  
 
