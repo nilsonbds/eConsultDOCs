@@ -1,0 +1,156 @@
+---
+title: "Por que o eConsult não armazena seus arquivos — e por que isso é uma decisão ética e segura"
+slug: armazenamento-seguro
+authors: [eConsultTeam]
+tags: [etica, lgpd, segurança, gestão, psicologia]
+description: "Uma análise crítica sobre o armazenamento de arquivos clínicos em sistemas de gestão e a proposta ética do eConsult ao integrar-se ao Google Drive do próprio psicólogo."
+image: /img/blog/armazenamento-seguro.jpg
+date: 2025-10-07
+---
+
+import BrowserOnly from '@docusaurus/BrowserOnly';
+import Comments from '@site/src/components/Comments';
+
+<div className="card__image">
+    <img
+    src="/img/blog/armazenamento-seguro.png"
+    alt="Por que o eConsult não armazena seus arquivos"
+    style={{ width: "100%", height: "200px", objectFit: "cover" }}
+    />
+</div>
+
+## O perigo dos sistemas para psicólogos que  armazenam arquivos
+
+Nos últimos anos, muitos sistemas de gestão para psicólogos passaram a oferecer **armazenamento de arquivos** — como PDFs, laudos, documentos, imagens, relatórios de terceiros, resultados de testes.  
+
+À primeira vista, essa funcionalidade pode parecer prática. Mas, do ponto de vista **ético, jurídico e técnico**, ela representa **um risco significativo**.
+
+<!-- truncate -->
+
+Segundo o **Código de Ética Profissional do Psicólogo (Resolução CFP nº 010/2005)**, o profissional tem o dever de **zelar pela guarda e confidencialidade** dos registros clínicos (Art. 9º e 18).  
+
+Quando um sistema terceirizado armazena esses arquivos em seus próprios servidores, ele **se torna co-responsável** pelo sigilo do paciente — mesmo que o psicólogo não tenha controle direto sobre onde e como esses dados estão armazenados.
+
+Além disso, pela **Lei Geral de Proteção de Dados (LGPD)**, esses arquivos são classificados como **dados sensíveis** (Art. 11). Isso significa que quem os guarda deve garantir:
+
+- criptografia em repouso e em trânsito,  
+
+- controle de acesso granular,  
+
+- logs de auditoria,  
+
+- políticas de exclusão segura,  
+
+- e infraestrutura certificada (como ISO 27001 e SOC 2).  
+
+A realidade é que **poucos sistemas de mercado cumprem integralmente essas exigências**. 
+
+Ao vender armazenamento de dados clínicos como um “serviço adicional”, essas plataformas **transferem para si um dever ético que pertence exclusivamente ao psicólogo**, enfraquecendo a cadeia de sigilo e aumentando a vulnerabilidade jurídica.
+
+> ⚠️ Em termos simples: armazenar o conteúdo clínico de pacientes em servidores de terceiros **fere o princípio do sigilo profissional** e cria um elo desnecessário entre o consultório e a empresa de software.
+
+---
+
+## A diferença entre dados clínicos e arquivos anexados
+
+Antes de uma decisão de onde armazenar seus arquivos, é essencial distinguir **dois tipos de informações** envolvidas na prática clínica digital:
+
+| Tipo de dado | Exemplos | Local ideal de armazenamento | Proteção aplicada |
+|---------------|-----------|------------------------|-------------------|
+| **Dados clínicos estruturados** | informações de prontuário, anamneses, registros SOAP, diagnósticos, evolução, agendamentos | **Banco de dados** | Criptografia em repouso, anonimização parcial, controle de acesso e logs de auditoria |
+| **Arquivos anexados** | PDFs, laudos, documentos, imagens, relatórios de terceiros, resultados de testes | **Google Drive pessoal do psicólogo (via integração segura)** | Criptografia e controle sob titularidade direta do psicólogo |
+
+Essa separação segue o **princípio da minimização de dados** da LGPD e o **princípio ético do sigilo direto**:  
+
+> O que é parte funcional do sistema (prontuário, textos, registros) fica protegido dentro do sistema;  
+> O que é arquivo pessoal do paciente (documentos, anexos, imagens) fica sob guarda direta do psicólogo.
+
+---
+
+## Por que o Google Drive pessoal do psicólogo **pode**
+
+O **Google Drive pessoal** é uma **ferramenta sob controle direto do profissional**.  
+Isso significa que:
+
+- o **psicólogo é o controlador dos dados** (decide finalidade, acesso e exclusão); 
+
+- o **Google atua apenas como operador técnico**, obedecendo às instruções do titular da conta;
+
+- o **sigilo permanece na esfera de guarda ética do profissional**.
+
+Esse modelo está em conformidade com:
+
+- o **Código de Ética do Psicólogo** (Art. 18: guarda sob responsabilidade direta); 
+
+- a **Resolução CFP nº 011/2018**, que regula o uso de tecnologias;  
+
+- e a **LGPD**, que permite o uso de operadores certificados, desde que o controlador (no caso, o psicólogo) mantenha o poder decisório.
+
+Além disso, o Google Drive oferece **segurança corporativa**:
+
+- **Criptografia ponta a ponta** (em repouso e em trânsito);  
+
+- **Autenticação de dois fatores**;  
+
+- **Certificações ISO 27001, SOC 2, HIPAA e GDPR**;  
+
+- **Gerenciamento de acessos e logs de auditoria**.
+
+Do ponto de vista ético, o Google Drive pessoal funciona como **um armário trancado digital**, onde apenas o psicólogo possui a chave.
+
+---
+
+## A proposta ética do eConsult
+
+O **eConsult** foi projetado com base em uma filosofia simples e sólida:
+
+> “O eConsult foi concebido para guardar com segurança apenas o que é necessário para o trabalho clínico — e deixar sob controle do psicólogo tudo o que diz respeito ao sigilo e aos arquivos do paciente.”
+
+Por isso, a plataforma adota um modelo híbrido e seguro:
+
+- **Os dados estruturados** (registros, anotações, anamneses, evoluções) ficam **armazenados e criptografados no banco de dados do eConsult**, com camadas de proteção, anonimização e auditoria.  
+
+- **Os arquivos anexados** (PDFs, imagens, relatórios) são armazenados **diretamente no Google Drive do psicólogo**, por meio de uma integração OAuth segura.
+
+Essa arquitetura garante:
+
+- conformidade plena com a LGPD e o Código de Ética; 
+
+- eliminação de riscos jurídicos associados à guarda indevida de arquivos clínicos; 
+
+- autonomia total para o profissional decidir sobre exclusão, backup ou compartilhamento; 
+
+- **independência do psicólogo em relação ao sistema** — seus dados permanecem acessíveis e sob seu controle, mesmo fora do eConsult;
+
+- **transparência na cadeia de sigilo** — o sistema não “vê” o conteúdo, apenas o referencia.
+
+> O eConsult é um sistema de gestão clínica — não um cofre de pacientes. 
+> A ética está no design.
+
+---
+
+## Conclusão
+
+O eConsult escolheu um caminho ético, técnico e juridicamente sólido:
+
+- **Não armazenar arquivos anexados de pacientes**;  
+
+- **Manter dados estruturados sob criptografia controlada**.
+
+Essa decisão reflete o compromisso da plataforma com uma prática psicológica moderna, responsável e transparente — em que a tecnologia respeita a ética e a lei.
+
+---
+
+### 📚 Referências
+
+- Conselho Federal de Psicologia. *Código de Ética Profissional do Psicólogo.* Resolução CFP nº 010/2005.  
+- Conselho Federal de Psicologia. *Serviços psicológicos mediados por tecnologia.* Resolução CFP nº 011/2018.  
+- Lei nº 13.709/2018 (LGPD) — Lei Geral de Proteção de Dados Pessoais.  
+- Google Cloud. *Compliance Resource Center.*  
+- ISO/IEC 27001:2013 — Information Security Management Systems.  
+- ANPD. *Guia Orientativo de Segurança da Informação para Controladores e Operadores.* (2023).
+
+
+<BrowserOnly>
+  {() => <Comments postId="armazenamento-seguro" />}
+</BrowserOnly>
