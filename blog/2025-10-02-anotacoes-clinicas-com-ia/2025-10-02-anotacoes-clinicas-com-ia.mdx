@@ -26,12 +26,13 @@ Embora não sejam o prontuário completo, possuem o **mesmo peso ético e legal*
 
 <!-- truncate -->
 
-O problema é que muitos sistemas de mercado que integram **IA** ainda cometem erros sérios:  
+A integração da IA em sistemas de prontuários eletrônicos é promissora, mas exige uma implementação cuidadosa para não incorrer em riscos. É fundamental que o psicólogo esteja atento a algumas **armadilhas técnicas e éticas comuns** que podem surgir: 
 
-- **Enviam dados crus para a IA** (nomes, locais, parentescos, diagnósticos), ferindo sigilo.  
-- **Não padronizam registros** em modelos científicos (SOAP, PPR), deixando cada anotação inconsistente.  
-- **Não deixam claro o papel da IA**, levando à falsa impressão de que a análise clínica pode ser delegada.  
+- **Risco de Exposição de Dados**: Implementações que enviam o conteúdo das sessões diretamente para serviços de IA genéricos, sem uma camada de anonimização prévia, podem violar o sigilo profissional ao expor dados identificáveis.
 
+- **Falta de Padronização Científica**: A ausência de uma estruturação baseada em modelos validados (como SOAP ou PPR) pode resultar em anotações inconsistentes e de menor valor clínico e científico.
+
+- **Ambiguidade sobre o Papel da IA**: É crucial que a ferramenta deixe claro que a IA atua como uma assistente de organização e resumo, e não como um substituto para o julgamento clínico do profissional, que é soberano e insubstituível.
 Essas falhas expõem o psicólogo a **riscos éticos e jurídicos** (Código de Ética Profissional do Psicólogo, CFP 2005; LGPD, Lei 13.709/2018).  
 
 ---
@@ -77,7 +78,23 @@ O **eConsult** já nasce com essa visão moderna:
 ✔️ **Desanonimiza** os dados de volta no resultado, sem expor sigilo.  
 ✔️ Exige **revisão e validação final** do psicólogo.  
 
-👉 Esse mesmo processo é aplicado tanto nas **anotações clínicas de cada sessão** quanto no **prontuário completo**.  
+👉 Esse mesmo processo é aplicado tanto nas **anotações clínicas de cada sessão** quanto no **prontuário completo**. 
+
+:::note
+### Limitações da Anonimização
+
+Embora a anonimização por substituição de entidades (nomes, locais, etc.) seja uma camada de proteção essencial, é importante ter a consciência de que nenhum método é 100% infalível em todos os cenários. Teoricamente, a combinação de múltiplos dados, mesmo que anônimos, poderia levar à **reidentificação** de um indivíduo por inferência.
+
+Cientes disso, uma plataforma robusta deve adotar uma abordagem de "**defesa em profundidade**". No eConsult, isso significa que, além da anonimização, garantimos que:
+
+1. A comunicação com a IA ocorre em um canal criptografado e seguro.
+
+1. Os dados enviados para a IA não são armazenados ou utilizados para treinar modelos de terceiros.
+
+1. O psicólogo permanece sempre no controle, com a revisão e validação final sendo uma etapa obrigatória.
+
+Essa abordagem multicamadas minimiza o risco a um nível residual, garantindo que a segurança e a ética não dependam de um único ponto de falha.
+:::
 
 Assim, o eConsult entrega:  
 - **Produtividade**: menos tempo com burocracia, mais foco no paciente.  
