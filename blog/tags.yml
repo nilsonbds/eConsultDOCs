@@ -112,3 +112,14 @@ mercado:
   label: Mercado
   permalink: /mercado
   description: Reflexões sobre a influência do mercado, tecnologia e modelos de negócio na atuação do psicólogo.
+
+psicometria:
+  label: Psicometria
+  permalink: /psicometria
+  description: Conceitos, métodos e discussões sobre validade, fidedignidade e padronização de instrumentos psicológicos aplicados no contexto digital.
+
+pratica_baseada_em_evidencias:
+  label: Prática Baseada em Evidências
+  permalink: /pratica-baseada-em-evidencias
+  description: Aplicação de conhecimentos científicos e evidências empíricas na prática psicológica, integrando dados de pesquisa, experiência clínica e contexto do paciente.
+
