@@ -93,6 +93,12 @@ Enquanto outros sistemas deixam o psicólogo depender de avaliações em papel, 
 
 ---
 
+:::warning
+As escalas (análises psicológicas) no eConsult têm finalidade de **triagem e acompanhamento clínico digital**. Baseiam-se em instrumentos científicos reconhecidos, mas sua **aplicação automatizada não substitui instrumentos padronizados para diagnóstico ou pesquisa**.
+
+Os resultados devem ser entendidos como **indicadores auxiliares**, integrados à avaliação profissional.
+:::
+
 ## 🧠 Avaliações  Psicológicas no eConsult
 
 O **eConsult** reúne uma ampla biblioteca de instrumentos psicométricos validados, voltados à avaliação, rastreamento e apoio à decisão clínica.
