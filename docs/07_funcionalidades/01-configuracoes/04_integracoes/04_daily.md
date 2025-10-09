@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Daily (Teleatendimento)
+# Daily.co (Teleatendimento)
 
 O **eConsult** possui integração nativa com o Daily.co — uma plataforma moderna, estável e segura para teleatendimento profissional.
 Essa integração foi pensada para oferecer consultas online com máxima praticidade, permitindo que o psicólogo realize atendimentos diretamente pelo eConsult, sem depender de aplicativos externos ou instalações adicionais.
@@ -67,14 +67,14 @@ Para ativar o teleatendimento via Daily.c no eConsult, siga estes passos:
 
 - No eConsult, vá até o painel **Configurações**
 
-- Acesse **Integrações / Daily (Teleatendimento)**
+- Acesse **Integrações / Daily.co (Teleatendimento)**
 
 - Cole a **chave de API** copiada anteriormente
 
 - Clique em **Salvar**
 
 :::note
-    - O Daily exigirá o cadastro de um cartão de crédito.
+    - O Daily.co exigirá o cadastro de um cartão de crédito.
 :::
 
 
