@@ -44,6 +44,10 @@ Você pode escolher entre os planos disponíveis nas versões PRO, PLUS ou PREMI
 
     ![Painel Conta](../../../static/img/prints/02_assinatura-003.png)
 
+    :::note
+    _Os preços apresentados aqui são meramente ilustrativos e podem não refletir os preços atuais._
+    :::
+
 3. Clique sobre o plano desejado (por exemplo PLU - 1 mês).
 
 4. O sistema mostra tela de confirmação informando o que você está alterando.

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Campos Adicionais para Pacientes e Grupos Terapêuticos
+# Campos Adicionais
 
 O cadastro de **Campos Adicionais para Pacientes e Grupos Terapêuticos** é uma funcionalidade que permite expandir as informações padrão registradas sobre cada paciente ou grupo terapêutico, oferecendo uma visão mais detalhada e adaptada às suas necessidades específicas. Essa personalização serve para aprimorar o cadastro de pacientes.
 

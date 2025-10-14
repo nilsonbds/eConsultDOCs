@@ -45,9 +45,10 @@ Categorizar despesas ajuda a entender onde o dinheiro está sendo gasto e a iden
     - Estabeleça categorias claras e específicas para a classificação das despesas, facilitando a análise e o planejamento estratégico.
     :::
 
-## Padrões para Atendimentos
+## Tipos de Atendimentos
 
-Em "Padrões para Atendimentos", o parâmetro "Valor Padrão de Atendimentos" é utilizado pelo sistema para sugerir automaticamente um valor de atendimento ao cadastrar um novo paciente ou grupo terapêutico. Esse valor é utilizado como sugestão sempre que um novo atendimento é registrado.
+O cadastro de "Tipos de Atendimentos" define as modalidades clínicas e profissionais e seus respectivos valores padrões oferecidas pelo especialista dentro do eConsult.
+Cada tipo de atendimento representa uma categoria de serviço que o profissional pode realizar — como sessões de psicoterapia, avaliações psicológicas, supervisões, entre outros.
 
 ## Mensagens Padronizadas
 

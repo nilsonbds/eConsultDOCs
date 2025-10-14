@@ -26,7 +26,7 @@ O objetivo aqui é configurar e personalizar a agenda para otimizar o planejamen
 
 Objetiva facilitar o gerenciamento e a personalização das informações dos pacientes e grupos terapêuticos para melhorar o atendimento e a comunicação.
 
-- **Campos Adicionais para Pacientes e Grupos Terapêuticos:** Adicione e configure campos adicionais personalizados para pacientes e grupos a fim de coletar informações específicas dos pacientes/grupos, conforme as necessidades do seu negócio.
+- **Campos Adicionais:** Adicione e configure campos adicionais personalizados para pacientes e grupos a fim de coletar informações específicas dos pacientes/grupos, conforme as necessidades do seu negócio.
 - **Grupos Etários:** Crie e gerencie Grupos Etários para segmentação.
 - **Mensagens Padronizadas:** Crie padrões de mensagens relacionadas a pacientes e grupos.
 
@@ -35,7 +35,7 @@ Gerencia aspectos financeiros relacionados ao sistema e garantir o controle e a 
 - **Formas de Pagamento:** Configure os métodos de pagamento aceitos por você, como cartões de crédito, transferências bancárias e pagamentos online.
 - **Categorias de Receitas:** Defina e organize categorias para classificar receitas, facilitando a análise financeira e o planejamento.
 - **Categorias de Despesas:** Defina e organize categorias para classificar despesas, facilitando a análise financeira e o planejamento.
-- **Padrões para Atendimento:** Estabeleça configurações e personalizações relacionadas a atendimentos.
+- **Tipos de Atendimento:** Estabeleça configurações relacionadas a tipos de atendimentos.
 - **Mensagens Padronizadas:** Crie padrões de mensagens relacionadas a atendimentos.
 - **Regras de Cobrança:** Permite o cadastro de regras de cobrança para os atendimentos, incluindo descontos, multas, juros por atraso e mora diária.
 

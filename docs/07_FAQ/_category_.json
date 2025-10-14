@@ -1,0 +1,9 @@
+{
+  "label": "FAQ - Perguntas e Respostas",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "slug": "/faq",
+    "description": "Central de perguntas e respostas sobre o eConsult, organizada por módulos e temas."
+  }
+}

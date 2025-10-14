@@ -29,6 +29,7 @@ Os demais campos (informações de contato ou o responsável pelo grupo) são op
         Nos campos Telefone e Celular, ao digitar o código DDI (por exemplo, +55), o sistema identifica automaticamente o país e exibe a respectiva bandeira como ícone. Caso você não saiba o DDI, basta clicar no ícone da bandeira e selecionar o país desejado. Depois disso, é só digitar o número — o sistema fará a formatação conforme o padrão do país escolhido.
     :::
 - **Campo CPF:** Permite indicar o CPF do paciente ou CPF do responsável pelo grupo terapêutico (opcional).
+- **Tipo de atendimento:** Permite indicar o tipo de atendimento que será dado ao cliente ou grupo. Os tipos de atendimento aqui apresentados são configurados na tela de Configuração => Tipos de Atendimento.
 - **Valor dos atendimentos no vencimento:** Permite indicar o valor padrão dos atendimentos no vencimento para o paciente ou grupo terapêutico. 
     :::note
         O sistema sugere o valor indicado na configuração **[Padrões para Atendimentos](/docs/funcionalidades/configuracoes/financas/padroes-atendimentos)**.
@@ -49,9 +50,3 @@ Os demais campos (informações de contato ou o responsável pelo grupo) são op
     :::note
         As regras de cobrança podem ser cadastradas na tela Regras de Cobrança do painel de configuração do sistema.
     :::
-
-:::tip
-- Você pode visualizar a área do paciente através do botão "Abrir Área do Paciente" ![Área do Paciente](../../../../static/img/prints/buttons/area_do_cliente.png).
-
-- Você pode eviar o link da Área do Paciente para o paciente ou Grupo, por WhatsApp ou Email, através do grupo de botões específico ![Área do Paciente](../../../../static/img/prints/buttons/enviar_link_area_do_cliente.png).
-:::

@@ -26,11 +26,11 @@ A boa notícia é que o próprio eConsult se encarrega de configurar automaticam
 
 Descubra mais possibilidades com os recursos avançados disponíveis a seguir:
 
-### **Configurar um valor padrão para atendimentos**
+### **Configurar seus tipos de atendimentos**
 
-Defina um valor sugerido automaticamente sempre que for criado um novo atendimento para um paciente.
+Defina seus tipos de atendimentos e seus respectivos valores para melhorar sua experiência com o eConsult.
 
-- 👉 [Configurar Valor Padrão de Atendimentos](/docs/funcionalidades/configuracoes/financas/padroes-atendimentos)
+- 👉 [Configurar Tipos de Atendimentos](/docs/funcionalidades/configuracoes/financas/padroes-atendimentos)
 
 ### **Integrar seu SMTP para envio de e-mails**
 
