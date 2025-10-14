@@ -1,14 +1,8 @@
 [
   {
-    "pergunta": "Como configurar tipos de atendimento?",
-    "resposta": "Acesse o painel Configurações > Tipos de Atendimento. Marque os tipos e clique em Salvar.",
-    "slug": "configurar-tipos-atendimento",
-    "public": true
-  },
-  {
-    "pergunta": "Por que o sistema pede reconexão do Daily.co?",
-    "resposta": "Isso ocorre quando o token de integração expira. Basta reconectar em Configurações > Integrações > Daily.co.",
-    "slug": "reconexao-dailyco",
-    "public": true
+    "pergunta": "",
+    "resposta": "",
+    "categoria": "",
+    "public": false
   }
 ]
