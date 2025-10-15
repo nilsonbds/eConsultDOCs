@@ -1,0 +1,140 @@
+[
+  {
+    "pergunta": "O que é o Painel de Configurações do eConsult?",
+    "resposta": "É o espaço central onde o profissional define como o eConsult funcionará no dia a dia. Através dele, é possível ajustar agenda, finanças, integrações, mensagens automáticas, campos personalizados e preferências de atendimento, personalizando completamente a experiência de uso.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como o painel de Configurações está organizado?",
+    "resposta": "As configurações são agrupadas em quatro grandes seções: **Agenda**, **Pacientes e Grupos Terapêuticos**, **Finanças** e **Integrações**. Cada grupo reúne recursos específicos, tornando o ajuste do sistema mais intuitivo e modular.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como definir minhas disponibilidades de horário (carga horária semanal)?",
+    "resposta": "Na seção **Agenda > Disponibilidades**, é possível configurar os dias e horários de atendimento, pausas e intervalos entre sessões. Essa configuração alimenta automaticamente o agendamento, evitando sobreposição e garantindo precisão nos horários disponíveis.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Posso configurar períodos de recesso?",
+    "resposta": "Sim. Em **Agenda > Recessos**, você pode registrar férias, feriados ou ausências. O sistema bloqueia automaticamente esses dias na agenda, evitando agendamentos indevidos.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "O que são os lembretes coloridos?",
+    "resposta": "São marcadores visuais que ajudam a sinalizar ações importantes relacionadas aos atendimentos. Podem ser configurados até seis lembretes personalizados, cada um com cor, título e descrição definidos pelo profissional.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como criar tipos de atendimentos personalizados?",
+    "resposta": "Na aba **Tipos de Atendimentos**, você define as modalidades oferecidas (individual, casal, grupo, avaliação, etc.) e atribui valores padrão. Esses valores são sugeridos automaticamente, mas podem ser alterados caso a caso.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "O que são grupos etários e como configurá-los?",
+    "resposta": "Os grupos etários permitem classificar pacientes por faixa de idade — por exemplo: Crianças, Adolescentes, Adultos e Idosos. Essa segmentação facilita relatórios e análises de público-alvo. Você pode definir os intervalos em **Configurações > Grupos por Idade**.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como personalizar o cadastro dos pacientes?",
+    "resposta": "Usando **Campos Adicionais**, você pode criar novos campos no cadastro (ex.: profissão, convênio, observações clínicas). Eles aparecem nas telas e relatórios e podem ser usados em mensagens automáticas.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "O que são Mensagens Padronizadas?",
+    "resposta": "São textos automáticos que o eConsult envia em situações específicas, como aniversários, confirmações de consulta ou cobranças. Elas podem ser personalizadas com variáveis dinâmicas (como <NomeCliente> ou <DataAgendamento>) para gerar comunicações individualizadas.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Posso editar ou restaurar mensagens padrão?",
+    "resposta": "Sim. Cada mensagem padronizada pode ser editada ou restaurada para o modelo original do sistema, garantindo flexibilidade e segurança nas alterações.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como cadastrar formas de pagamento?",
+    "resposta": "Em **Finanças > Formas de Pagamento**, é possível ativar e configurar métodos como PIX, dinheiro, cartão, transferência e Mercado Pago. O sistema reconhece automaticamente as formas habilitadas e as exibe no momento da cobrança.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "O que são categorias de receitas e despesas?",
+    "resposta": "São classificações financeiras que permitem organizar melhor os lançamentos contábeis. As categorias ajudam na análise de rentabilidade, relatórios de fluxo de caixa e dashboards de desempenho financeiro.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como funcionam as regras de cobrança?",
+    "resposta": "Em **Finanças > Regras de Cobrança**, o profissional pode definir políticas automáticas de desconto, tolerância de atraso, juros e multa. O sistema aplica essas regras aos recebimentos e faturas de forma consistente.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como configurar o PIX no eConsult?",
+    "resposta": "No painel **PIX**, basta informar sua chave e cidade de atuação. O eConsult passará a gerar QR Codes automáticos de pagamento. O status deve ser confirmado manualmente, pois o sistema não acessa extratos bancários.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Qual a diferença entre PIX e Mercado Pago?",
+    "resposta": "O PIX é direto e sem taxas, mas exige confirmação manual. Já o Mercado Pago possui taxas de transação, porém atualiza pagamentos automaticamente e permite recebimentos por cartão, boleto e PIX integrado.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como integrar o Mercado Pago?",
+    "resposta": "Em **Finanças > Mercado Pago**, insira seu Access Token e User ID. O eConsult se conecta via API, permitindo gerar links de pagamento e receber notificações automáticas de quitação via webhook.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como integrar a Focus NFe para emissão de notas fiscais?",
+    "resposta": "Na aba **Focus NFe**, preencha dados fiscais (CNPJ, inscrição municipal, alíquota ISS, código de serviço e token). Essa integração automatiza a emissão de notas fiscais de serviço, conforme legislação municipal.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como integrar o Google Drive ao eConsult?",
+    "resposta": "No menu **Integrações > Google Drive**, envie a chave JSON da conta de serviço criada no Google Cloud e compartilhe a pasta 'eConsult'. Assim, o sistema armazena arquivos diretamente no seu Drive, com segurança e criptografia.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como configurar o servidor SMTP para envio de e-mails?",
+    "resposta": "Na aba **Servidor SMTP**, informe servidor, porta, usuário e senha de autenticação. Isso permite que o eConsult envie e-mails pelo seu domínio profissional, garantindo identidade visual e autenticidade.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como ativar o teleatendimento com a Daily.co?",
+    "resposta": "Em **Integrações > Daily.co**, insira sua API Key. O eConsult passará a gerar automaticamente links seguros de videoconferência para atendimentos online, com criptografia ponta a ponta e sem necessidade de apps externos.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como integrar minha conta OpenAI?",
+    "resposta": "No painel **OpenAI**, insira sua API Key. Isso permite que você use seus próprios créditos e configurações para as funcionalidades de inteligência artificial do eConsult, sem depender dos limites padrão de cada plano.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Posso redefinir todas as configurações do sistema?",
+    "resposta": "Sim. Na seção de **Configurações Avançadas**, existe a opção de restaurar todos os parâmetros aos padrões originais do sistema. Essa ação deve ser feita com cautela, pois substitui personalizações existentes.",
+    "categoria": "Configurações",
+    "public": true
+  },
+  {
+    "pergunta": "Como manter a segurança das integrações?",
+    "resposta": "O eConsult utiliza autenticação segura via token e criptografia SSL/TLS em todas as conexões externas (Google, OpenAI, Mercado Pago, Daily.co, Focus NFe). Nenhuma senha é armazenada em texto simples e as chaves podem ser regeneradas a qualquer momento.",
+    "categoria": "Configurações",
+    "public": true
+  }
+]

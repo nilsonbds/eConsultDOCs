@@ -1,0 +1,92 @@
+[
+  {
+    "pergunta": "O que são os Modelos de Anamnese no eConsult?",
+    "resposta": "São estruturas personalizáveis que servem como base para o registro da anamnese do paciente dentro do prontuário. Cada modelo é composto por tópicos e campos que organizam as informações de forma lógica e padronizada.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "Qual a diferença entre anamnese e prontuário?",
+    "resposta": "A anamnese é a entrevista inicial e subjetiva, onde o profissional coleta informações sobre histórico, sintomas e hábitos do paciente. O prontuário é o documento completo que reúne todos os registros clínicos, incluindo a anamnese, evoluções, anexos, exames e prescrições.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "O eConsult já vem com modelos prontos de anamnese?",
+    "resposta": "Sim. O eConsult disponibiliza modelos pré-definidos adaptados ao perfil do profissional, que podem ser usados imediatamente ou personalizados conforme sua prática clínica.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "Posso criar meus próprios modelos de anamnese?",
+    "resposta": "Sim. É possível criar modelos do zero, definindo seus próprios tópicos e campos. Essa flexibilidade permite adaptar o formato da anamnese ao seu estilo de trabalho ou às necessidades de diferentes especialidades.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "O que são os tópicos e campos dentro de um modelo?",
+    "resposta": "Os tópicos são seções que dividem o conteúdo da anamnese (como Histórico Familiar, Hábitos, Queixa Principal). Dentro de cada tópico há campos específicos para preenchimento, como textos, observações ou valores padrão.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "Como incluir um novo modelo de anamnese?",
+    "resposta": "No painel 'Modelos de Anamnese', clique em 'Incluir novo modelo'. Escolha uma pré-definição ou crie do zero, informe o nome do modelo e adicione ou remova tópicos e campos conforme desejar. Depois clique em 'Salvar'.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "Como restaurar os modelos padrão do sistema?",
+    "resposta": "No painel 'Modelos de Anamnese', clique em 'Restaurar Padrões do Sistema'. O eConsult excluirá os modelos personalizados e manterá apenas os modelos originais fornecidos pela plataforma.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "Posso editar um modelo de anamnese existente?",
+    "resposta": "Sim. Basta abrir o modelo desejado, clicar em editar e alterar tópicos, campos ou valores. As mudanças ficam disponíveis imediatamente para uso nos prontuários.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "Como adicionar novos tópicos a um modelo?",
+    "resposta": "Ao editar um modelo, clique em 'Incluir Tópico'. Defina um nome para o novo tópico e salve. Os tópicos recém-criados aparecem destacados até serem confirmados com o botão 'Salvar'.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "Como incluir novos campos dentro de um tópico?",
+    "resposta": "Durante a edição de um modelo, clique em 'Adicionar Campo' dentro do tópico desejado. Informe o nome do campo e, opcionalmente, um valor padrão. Depois clique em 'Salvar' para confirmar.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "Posso remover tópicos ou campos?",
+    "resposta": "Sim. Utilize o ícone de exclusão no card do tópico ou campo que deseja remover. Confirme e salve para que as alterações sejam aplicadas ao modelo.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "Como os modelos são usados no prontuário do paciente?",
+    "resposta": "Ao criar o prontuário de um novo paciente, você pode selecionar um modelo de anamnese previamente cadastrado. Ele servirá como guia para o preenchimento das informações iniciais e pode ser personalizado durante o atendimento.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "Posso personalizar a anamnese para cada paciente?",
+    "resposta": "Sim. Mesmo que você utilize um modelo base, é possível ajustar ou complementar as informações dentro do prontuário conforme as necessidades específicas de cada paciente.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "Qual a importância dos modelos de anamnese no eConsult?",
+    "resposta": "Eles garantem padronização e completude nas informações registradas, otimizam o tempo de atendimento e reforçam a qualidade e segurança dos dados clínicos. Além disso, tornam os prontuários mais organizados e auditáveis.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  },
+  {
+    "pergunta": "É possível ocultar campos durante o cadastro de um modelo?",
+    "resposta": "Sim. No momento da criação ou edição de um modelo, você pode ocultar campos ou valores de campos de determinados tópicos, facilitando a navegação e o foco no que é mais relevante.",
+    "categoria": "Modelos de Anamnese",
+    "public": true
+  }
+]
