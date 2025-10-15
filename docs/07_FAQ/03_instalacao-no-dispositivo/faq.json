@@ -1,119 +1,139 @@
 [
   {
+    "more_details_url": null,
     "pergunta": "Preciso instalar o eConsult no computador?",
     "resposta": "Não. O eConsult é uma aplicação web progressiva (PWA) e pode ser acessado diretamente pelo navegador, sem necessidade de instalação. Basta entrar com seu login e senha em econsult.app.br.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult pode ser usado em celular ou tablet?",
     "resposta": "Sim. O eConsult foi desenvolvido com design responsivo, adaptando-se automaticamente a telas de smartphones e tablets, sem perder funcionalidade.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult funciona em qualquer sistema operacional?",
     "resposta": "Sim. O eConsult funciona em Windows, macOS, Linux, Android e iOS, pois é acessado via navegador. Recomenda-se o uso do Google Chrome, Microsoft Edge ou Safari atualizados.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": "/docs/pwa",
     "pergunta": "Como adicionar o eConsult à tela inicial do celular?",
     "resposta": "Abra o eConsult no navegador do celular, toque em 'Compartilhar' e selecione 'Adicionar à Tela Inicial'. O ícone do eConsult será instalado como um aplicativo PWA, permitindo acesso rápido e notificação visual moderna.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": "/docs/pwa",
     "pergunta": "O eConsult tem aplicativo na Play Store ou App Store?",
     "resposta": "Não. O eConsult funciona como aplicativo web progressivo (PWA), oferecendo a mesma experiência de um app nativo, mas sem depender das lojas de aplicativos.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Posso usar o eConsult em mais de um dispositivo?",
     "resposta": "Sim. Você pode acessar sua conta do eConsult em quantos dispositivos desejar, desde que use o mesmo login. As informações ficam sincronizadas automaticamente na nuvem.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult precisa de internet para funcionar?",
     "resposta": "Sim. Por ser uma aplicação online, o eConsult requer conexão à internet. Alguns dados podem permanecer temporariamente em cache, mas o uso completo exige conexão ativa.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult é seguro em redes públicas de Wi-Fi?",
     "resposta": "Sim, desde que a rede seja protegida por senha. O eConsult utiliza HTTPS e criptografia ponta a ponta, mas recomenda-se evitar o uso em redes públicas sem autenticação.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult é compatível com todos os navegadores?",
     "resposta": "Sim. O eConsult é compatível com os principais navegadores modernos: Google Chrome, Microsoft Edge, Mozilla Firefox e Safari. Navegadores antigos podem apresentar limitações visuais.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como limpar o cache do eConsult se algo travar?",
     "resposta": "No navegador, acesse as configurações, localize 'Privacidade e dados do site', selecione o domínio econsult.app.br e limpe o cache. Isso força o carregamento da versão mais recente do sistema.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult é leve e rápido em celulares simples?",
     "resposta": "Sim. O eConsult foi otimizado com React (Vite), garantindo carregamento rápido mesmo em dispositivos intermediários. Recursos de cache inteligente reduzem o uso de dados e tornam o sistema mais leve.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult consome muita bateria no celular?",
     "resposta": "Não. O eConsult é uma aplicação web otimizada para baixo consumo de energia e processamento, especialmente no modo PWA, onde recursos de fundo são minimizados.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult envia notificações no celular?",
     "resposta": "Não. O eConsult não utiliza notificações push em celulares para preservar o sigilo profissional e evitar a exposição de informações sensíveis fora do ambiente seguro da plataforma.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Há diferença entre acessar o eConsult pelo computador e pelo celular?",
     "resposta": "As funcionalidades são as mesmas, mas o layout se adapta ao tamanho da tela. No celular, os menus são simplificados e o acesso rápido à agenda e atendimentos é priorizado.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult precisa de atualização manual?",
     "resposta": "Não. O sistema atualiza automaticamente em cada acesso, baixando a versão mais recente do front-end hospedado na Vercel. O usuário não precisa reinstalar nem atualizar manualmente.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult pode ser usado offline?",
     "resposta": "Não. O eConsult não pode ser usado offline, pois depende de conexão com a internet para garantir sincronização em tempo real dos dados, segurança criptografada, backups automáticos e conformidade com as normas de sigilo e armazenamento em nuvem.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Posso usar o eConsult em mais de um navegador ao mesmo tempo?",
     "resposta": "Sim. O sistema permite múltiplas sessões ativas com o mesmo usuário, mas para segurança, apenas uma aba pode gravar dados sensíveis por vez. As demais ficam em modo de leitura.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult armazena arquivos no meu dispositivo?",
     "resposta": "Não diretamente. Arquivos e anexos são armazenados no Google Drive vinculado à conta, garantindo segurança, backup automático e conformidade com a LGPD.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como saber se estou usando a versão mais recente do eConsult?",
     "resposta": "Sempre que há uma nova versão, o eConsult atualiza automaticamente. Se desejar forçar a atualização, basta recarregar a página (Ctrl + F5) ou limpar o cache do navegador.",
     "categoria": "Instalação e uso em dispositivos",
     "public": true
   },
   {
+    "more_details_url": "/docs/funcionalidades/conta/assistentes",
     "pergunta": "O eConsult pode ser instalado em dispositivos de secretárias ou assistentes?",
     "resposta": "Sim. Basta fazer login com as credenciais apropriadas e permissões definidas. Cada colaborador tem acesso limitado conforme seu papel, garantindo segurança e sigilo.",
     "categoria": "Instalação e uso em dispositivos",

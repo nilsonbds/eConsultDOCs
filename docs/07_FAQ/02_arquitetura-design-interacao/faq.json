@@ -1,149 +1,174 @@
 [
   {
+    "more_details_url": null,
     "pergunta": "Qual é a arquitetura do eConsult?",
     "resposta": "O eConsult utiliza uma arquitetura moderna baseada em APIs REST. O back-end é desenvolvido em Node.js com Express e PostgreSQL, hospedado na AWS. O front-end é construído em React (Vite) e hospedado na Vercel. Essa separação garante alta performance, escalabilidade e segurança.",
     "categoria": "Estrutura técnica e arquitetura geral",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Em quais tecnologias o eConsult foi desenvolvido?",
     "resposta": "O eConsult é desenvolvido em React (Vite) no front-end, Node.js/Express no back-end e PostgreSQL como banco de dados relacional. A infraestrutura é hospedada em AWS (servidores e banco) e Vercel (front-end).",
     "categoria": "Estrutura técnica e arquitetura geral",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Onde o eConsult é hospedado?",
     "resposta": "O front-end do eConsult é hospedado na Vercel e o back-end na AWS, com banco de dados PostgreSQL e backups automáticos. Essa combinação garante velocidade, redundância e conformidade com práticas de segurança internacionais.",
     "categoria": "Estrutura técnica e arquitetura geral",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult utiliza APIs próprias?",
     "resposta": "Sim. O eConsult é totalmente baseado em APIs próprias internas. Elas conectam o front-end ao back-end e aos módulos integrados, como Mercado Pago, Google Drive, Focus NFe e Daily.co, garantindo padronização e segurança de comunicação.",
     "categoria": "Estrutura técnica e arquitetura geral",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Por que o eConsult separa o front-end e o back-end?",
     "resposta": "A separação entre front-end e back-end permite escalar de forma independente, reforçar segurança, simplificar manutenção e facilitar o isolamento de dados sensíveis no servidor, garantindo conformidade com a LGPD.",
     "categoria": "Estrutura técnica e arquitetura geral",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Qual banco de dados o eConsult utiliza?",
     "resposta": "O eConsult utiliza PostgreSQL, um banco de dados relacional robusto, seguro e amplamente adotado em sistemas de missão crítica. Ele permite consultas complexas, encriptação e controle de permissões por nível de usuário.",
     "categoria": "Estrutura técnica e arquitetura geral",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como o design do eConsult foi pensado?",
     "resposta": "O design do eConsult foi construído a partir da jornada do psicólogo. As telas são limpas, intuitivas e priorizam a clareza visual, reduzindo sobrecarga cognitiva. Cada decisão de layout foi guiada por princípios de UX clínico e atenção plena ao contexto terapêutico.",
     "categoria": "Design e experiência do usuário",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult é responsivo?",
     "resposta": "Sim. O eConsult é 100% responsivo e adaptado para funcionar em computadores, tablets e smartphones. O design ajusta-se automaticamente ao tamanho da tela, mantendo fluidez e legibilidade.",
     "categoria": "Design e experiência do usuário",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Por que o eConsult tem uma interface minimalista?",
     "resposta": "O minimalismo no design do eConsult tem um propósito clínico: reduzir distrações, simplificar a tomada de decisão e criar um ambiente tranquilo para o registro e análise de atendimentos. Cada elemento visual tem função clara e intencional.",
     "categoria": "Design e experiência do usuário",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult segue princípios de design acessível?",
     "resposta": "Sim. O sistema foi projetado com princípios de acessibilidade digital, como contraste adequado, fontes legíveis e interação por teclado. Isso garante inclusão e conforto visual para todos os profissionais.",
     "categoria": "Design e experiência do usuário",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult diferencia visualmente informações clínicas de dados administrativos?",
     "resposta": "Sim. A interface separa claramente áreas de trabalho: o prontuário clínico, as finanças e a agenda possuem cores e ícones distintos. Isso ajuda o profissional a se situar e reduz erros de contexto.",
     "categoria": "Design e experiência do usuário",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como o eConsult organiza a navegação entre módulos?",
     "resposta": "A navegação do eConsult é baseada em uma barra lateral fixa e seções contextuais. O menu é organizado por áreas clínicas, administrativas e de configuração, permitindo acesso rápido sem perda de contexto.",
     "categoria": "Interação e usabilidade",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult oferece feedback visual nas ações do usuário?",
     "resposta": "Sim. Toda ação importante gera um retorno visual — como confirmações, ícones de carregamento ou mensagens de sucesso/erro — garantindo transparência e segurança nas operações.",
     "categoria": "Interação e usabilidade",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult foi projetado para evitar perda de dados?",
     "resposta": "Sim. O sistema utiliza salvamento automático e confirmações antes de ações críticas, como exclusões. Além disso, logs e backups são registrados periodicamente, reduzindo riscos de perda de informação.",
     "categoria": "Interação e usabilidade",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult possui confirmações antes de excluir dados?",
     "resposta": "Sim. A exclusão de qualquer registro importante exige confirmação explícita do usuário, com aviso sobre a irreversibilidade da ação. Isso reforça segurança e responsabilidade no uso.",
     "categoria": "Interação e usabilidade",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como o eConsult reflete princípios éticos da psicologia no design?",
     "resposta": "O eConsult foi desenhado para preservar o foco e o sigilo. Evita elementos sensacionalistas, animações desnecessárias e cores que possam distrair ou induzir interpretações emocionais. O ambiente é neutro e acolhedor, em respeito à prática clínica.",
     "categoria": "Decisões éticas e psicológicas de design",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult evita notificações invasivas ou estímulos excessivos?",
     "resposta": "Sim. O sistema evita notificações desnecessárias e prioriza comunicações relevantes ao trabalho clínico, reduzindo ansiedade digital e interrupções cognitivas.",
     "categoria": "Decisões éticas e psicológicas de design",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult é atualizado automaticamente?",
     "resposta": "Sim. O eConsult recebe atualizações automáticas e seguras sem interromper o uso. Cada versão passa por testes e logs de compatibilidade para garantir continuidade de dados e estabilidade.",
     "categoria": "Performance, compatibilidade e atualização",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult funciona em qualquer navegador?",
     "resposta": "Sim. O eConsult é compatível com os principais navegadores modernos (Chrome, Edge, Firefox, Safari) e não requer instalação de extensões adicionais.",
     "categoria": "Performance, compatibilidade e atualização",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como o eConsult lida com cache e novas versões?",
     "resposta": "O eConsult utiliza cache controlado no front-end e atualização instantânea a cada build novo. Isso evita versões desatualizadas e garante que o usuário sempre acesse a versão mais recente.",
     "categoria": "Performance, compatibilidade e atualização",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult possui redundância e backups automáticos?",
     "resposta": "Sim. O sistema realiza backups automáticos diários e mantém cópias redundantes em diferentes regiões da AWS, assegurando restauração em caso de falhas ou perda de dados.",
     "categoria": "Performance, compatibilidade e atualização",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Há planos de disponibilizar API pública no futuro?",
     "resposta": "Atualmente, as APIs do eConsult são internas e voltadas à operação da própria plataforma. No futuro, pode haver abertura de endpoints específicos para integrações seguras, respeitando sempre a LGPD e a privacidade clínica.",
     "categoria": "Integração com o ecossistema e futuro técnico",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como o eConsult garante escalabilidade conforme o número de usuários cresce?",
     "resposta": "A arquitetura modular e a infraestrutura em nuvem da AWS permitem escalar horizontalmente servidores e bancos conforme a demanda, mantendo performance e estabilidade mesmo em uso intensivo.",
     "categoria": "Integração com o ecossistema e futuro técnico",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult utiliza inteligência artificial no back-end?",
     "resposta": "Sim. O back-end do eConsult incorpora recursos de processamento semântico e anonimização via IA para garantir segurança nos prompts e aprimorar análises de uso, sem expor dados sensíveis.",
     "categoria": "Integração com o ecossistema e futuro técnico",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como a equipe mantém a evolução contínua da arquitetura?",
     "resposta": "O eConsult segue um ciclo contínuo de versionamento, revisão de logs e refatoração técnica. Cada melhoria é validada em ambiente de testes antes do deploy para produção.",
     "categoria": "Integração com o ecossistema e futuro técnico",

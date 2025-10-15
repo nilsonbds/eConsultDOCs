@@ -1,89 +1,104 @@
 [
   {
+    "more_details_url": null,
     "pergunta": "Qual é a diferença entre recibo e nota fiscal no eConsult?",
     "resposta": "O recibo é um comprovante de pagamento emitido diretamente pelo profissional, enquanto a nota fiscal é um documento fiscal obrigatório que registra a prestação de serviço perante o fisco. O eConsult permite emitir ambos, conforme a necessidade e o regime tributário do psicólogo.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como emitir um recibo no eConsult?",
     "resposta": "No painel 'Recibos', clique no botão de impressão do atendimento desejado. O sistema abrirá a tela de informações do recibo e, em seguida, basta clicar em 'Gerar PDF' para salvar ou imprimir o documento. É necessário ter um logotipo cadastrado para gerar o recibo corretamente.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Posso cancelar um recibo emitido?",
     "resposta": "Sim. Você pode cancelar o recibo clicando na opção 'Cancelamento' disponível no card do documento. O status será atualizado automaticamente, e o cancelamento é irreversível.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como emitir uma nota fiscal pelo eConsult?",
     "resposta": "No painel 'Notas Fiscais', clique em 'Incluir Nota Fiscal', selecione o paciente e as faturas correspondentes. Depois, escolha entre cadastrar manualmente os dados da nota ou emitir automaticamente pela integração com a Focus NFe.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O que é a integração com a Focus NFe?",
     "resposta": "É uma integração disponível nos planos PREMIUM do eConsult que permite emitir notas fiscais de serviço automaticamente, sem precisar acessar outras plataformas. A comunicação é segura e segue as regras fiscais vigentes, com cálculo automático de impostos e armazenamento dos dados no eConsult.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como configurar a integração com a Focus NFe?",
     "resposta": "No menu 'Configurações > Integrações > Focus NFe', preencha os dados fiscais da sua empresa (CNPJ, inscrição municipal, alíquota de ISS, códigos de serviço e tributário) e insira o token de autenticação da sua conta Focus NFe. Também é possível configurar o Webhook para comunicação automática entre as plataformas.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Posso emitir notas fiscais manualmente?",
     "resposta": "Sim. Se preferir não utilizar a integração com a Focus NFe, você pode cadastrar manualmente os dados da nota fiscal emitida por outro sistema, mantendo o controle centralizado no eConsult.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult calcula automaticamente os impostos das notas?",
     "resposta": "Sim. Quando a integração com a Focus NFe está ativa, o sistema aplica automaticamente os parâmetros fiscais configurados, incluindo o cálculo de ISS, retenções e códigos de serviço conforme as regras municipais.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como verificar o status das notas fiscais emitidas?",
     "resposta": "Cada nota é exibida em formato de card com o status atualizado (emitida, cancelada, com erro, etc.). O sistema também mostra se a emissão foi manual ou via Focus NFe e, em caso de erro, apresenta a mensagem explicando o motivo da falha.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "É possível cancelar ou excluir uma nota fiscal?",
     "resposta": "Sim. No card da nota fiscal, utilize os botões 'Cancelar' ou 'Excluir'. Ambas as ações são irreversíveis, por isso devem ser usadas com atenção. Caso a nota tenha sido emitida pela Focus NFe, o cancelamento seguirá as regras fiscais vigentes do município.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O que é o Webhook da Focus NFe?",
     "resposta": "É um recurso que permite ao eConsult receber automaticamente notificações da Focus NFe sobre o status das notas emitidas. Com isso, o sistema atualiza o painel de notas em tempo real, sem necessidade de checagem manual.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult está em conformidade com a legislação fiscal?",
     "resposta": "Sim. A integração com a Focus NFe garante a emissão de notas fiscais dentro das exigências legais de cada município, incluindo campos obrigatórios, códigos de serviço e registro seguro das informações fiscais.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Posso usar o eConsult mesmo sem emitir notas fiscais?",
     "resposta": "Sim. A emissão de notas fiscais é opcional. O profissional pode usar apenas os recibos internos do sistema caso não esteja obrigado a emitir NF, conforme seu enquadramento tributário e orientação contábil.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como a integração com a Focus NFe beneficia o psicólogo?",
     "resposta": "Ela economiza tempo, reduz erros de digitação e centraliza toda a gestão fiscal dentro do eConsult. As notas ficam registradas automaticamente, facilitando a contabilidade e evitando retrabalho.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Posso emitir notas fiscais de diferentes CNPJs?",
     "resposta": "Atualmente, a integração permite apenas um CNPJ ativo por conta. Para emitir notas com outro CNPJ, é necessário configurar uma nova conta na Focus NFe e atualizar os dados no eConsult.",
     "categoria": "Recibos e Notas Fiscais",

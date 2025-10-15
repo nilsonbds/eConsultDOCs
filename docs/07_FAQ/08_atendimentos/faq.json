@@ -1,119 +1,139 @@
 [
   {
+    "more_details_url": null,
     "pergunta": "O que é o painel de Atendimentos do eConsult?",
     "resposta": "É o módulo central de gestão da rotina clínica, onde o profissional visualiza, organiza e acompanha todos os atendimentos — individuais ou em grupo. Ele reúne recursos para agendamento, remarcação, confirmação, anotações, recebimentos e até teleatendimento, tudo em uma única interface.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como visualizar os atendimentos agendados?",
     "resposta": "O painel mostra os atendimentos no formato de calendário, permitindo alternar entre visão diária ou semanal. Cada card exibe paciente, horário, modalidade, status e valor. O sistema também se adapta automaticamente a telas de notebook ou celular.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como funciona o card de atendimento?",
     "resposta": "Cada card representa um atendimento e exibe dados essenciais como nome, horário, valor, status (confirmado, realizado, não confirmado, etc.), ícones de pagamento e botões de ação para editar, anotar, anexar arquivos, marcar presenças ou acessar o teleatendimento.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como agendar um novo atendimento?",
     "resposta": "Basta clicar em 'Agendar atendimento' no painel, escolher paciente, data, horário e modalidade (presencial ou remoto). É possível usar disponibilidades pré-configuradas ou agendar fora delas, além de criar múltiplos atendimentos com frequência semanal, quinzenal ou mensal.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Posso agendar múltiplos atendimentos de uma só vez?",
     "resposta": "Sim. Na tela de agendamento, defina quantidade, periodicidade e data inicial. O eConsult cria automaticamente as sessões futuras conforme as disponibilidades configuradas, respeitando feriados e recessos.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como remarcar um atendimento?",
     "resposta": "Acesse o card do atendimento e clique em 'Remarcar'. Escolha a nova data e horário, podendo usar as disponibilidades cadastradas. O histórico de remarcações é automaticamente registrado no cadastro do paciente.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como desmarcar um atendimento?",
     "resposta": "Selecione o card e clique em 'Desmarcar'. O sistema solicitará confirmação e registrará o cancelamento no histórico do paciente, liberando o horário para novos agendamentos.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Posso excluir um atendimento definitivamente?",
     "resposta": "Sim, mas com cautela. A exclusão remove o atendimento e todas as informações relacionadas — faturas, recebimentos e histórico. Só deve ser usada em casos de erro de agendamento.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O que significa confirmar um atendimento?",
     "resposta": "A confirmação indica que o paciente confirmou presença para o horário agendado. Atendimentos futuros podem estar como 'Confirmado' ou 'Não Confirmado'. O status influencia as previsões de receita e a organização da agenda.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O que significa marcar um atendimento como realizado?",
     "resposta": "Após o horário do atendimento, o profissional deve informar se foi 'Realizado' ou 'Não Realizado'. Isso mantém o histórico atualizado e é usado nos relatórios e indicadores clínico-financeiros.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como registrar um recebimento de atendimento?",
     "resposta": "Clique no card do atendimento e depois em 'Pagamentos'. Informe valor, data e forma de pagamento. É possível registrar pagamentos parciais, indicar o pagador e emitir recibos após quitação total.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como excluir um recebimento incorreto?",
     "resposta": "Acesse o card, clique em 'Pagamentos', localize o registro e acione o botão de exclusão. O sistema atualiza o saldo automaticamente e mantém o histórico de alterações.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como criar anotações clínicas em um atendimento?",
     "resposta": "Clique no ícone de anotações do card. Insira o conteúdo desejado e, se quiser, marque a opção 'Tornar visível ao paciente' para publicar no prontuário. Você pode editar ou excluir as anotações a qualquer momento.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult tem inteligência artificial para ajudar nas anotações?",
     "resposta": "Sim. O botão IA abre um editor inteligente que ajuda a melhorar, elaborar ou responder textos clínicos com base no conteúdo inserido. O sistema utiliza GPT integrado e oferece controle de criatividade e limite de caracteres.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como anexar arquivos a um atendimento?",
     "resposta": "Clique no ícone de anexos e selecione o arquivo. Os documentos são armazenados no seu Google Drive vinculado, garantindo segurança e sincronização automática. É possível visualizar, alterar ou excluir os anexos quando necessário.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como usar lembretes nos atendimentos?",
     "resposta": "Os lembretes permitem marcar até seis tipos diferentes de avisos, identificados por cores. Basta clicar no ícone de lembretes no card e escolher as cores correspondentes a cada tipo de alerta, como follow-ups ou pendências.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como registrar presenças e pagamentos em grupos terapêuticos?",
     "resposta": "Clique no botão 'Presenças e Pagamentos' no card do grupo. Registre quem compareceu, quem se ausentou e os valores pagos. É possível indicar o pagador (membro ou instituição) e emitir recibos individuais.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O que é o Teleatendimento no eConsult?",
     "resposta": "É o recurso que permite realizar sessões online via integração com o Daily.co. O profissional cria e entra na sala virtual diretamente pelo eConsult, com áudio e vídeo criptografados e compatibilidade total com dispositivos móveis.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como enviar o link do teleatendimento para o paciente?",
     "resposta": "O link pode ser enviado automaticamente por e-mail ou copiado manualmente para envio por WhatsApp. O paciente acessa diretamente no navegador, sem precisar instalar aplicativos ou criar conta.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como o eConsult garante segurança e sigilo nos atendimentos?",
     "resposta": "Todos os dados são criptografados, acessos são auditados e o teleatendimento segue normas da LGPD. Nenhum conteúdo audiovisual é armazenado e o profissional tem controle total sobre início e término de cada sessão.",
     "categoria": "Gestão de Atendimentos",

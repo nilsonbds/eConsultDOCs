@@ -1,101 +1,118 @@
 [
   {
+    "more_details_url": null,
     "pergunta": "Como funciona o gerenciamento de arquivos no eConsult?",
     "resposta": "O eConsult utiliza uma integração direta com o Google Drive para armazenar, organizar e acessar arquivos clínicos com segurança. Isso inclui documentos, relatórios, imagens, PDFs e outros tipos de arquivos vinculados a pacientes, grupos terapêuticos ou atendimentos.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Por que o eConsult utiliza o Google Drive para armazenar arquivos?",
     "resposta": "Porque o Google Drive oferece alto nível de segurança, criptografia, backups automáticos e conformidade com normas internacionais de proteção de dados. O eConsult evita armazenar arquivos sensíveis em seus próprios servidores, delegando a guarda e a proteção ao provedor de nuvem certificado.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como configurar o Google Drive no eConsult?",
     "resposta": "Acesse 'Configurações > Integrações > Google Drive', envie o arquivo de chave privada gerado no Google Cloud Console e vincule a pasta 'eConsult' do seu Drive. O sistema solicitará que você compartilhe essa pasta com o serviço do eConsult para concluir a integração.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Quais são as etapas para integrar o eConsult ao Google Drive?",
     "resposta": "1. Crie um projeto no Google Cloud Console.\n2. Habilite a Google Drive API.\n3. Crie uma conta de serviço e gere uma chave JSON.\n4. Configure a integração no eConsult enviando o arquivo JSON.\n5. Compartilhe a pasta 'eConsult' do seu Google Drive com o e-mail da conta de serviço gerado pelo sistema e salve as configurações.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Onde posso gerenciar os arquivos dos pacientes?",
     "resposta": "Você pode acessar e gerenciar arquivos diretamente no painel 'Arquivos' do menu principal, na aba 'Arquivos' dentro do cadastro de pacientes ou ainda nos cards de atendimento, através do botão de anexo de arquivos.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como incluir novos arquivos?",
     "resposta": "Clique em 'Incluir novo arquivo', selecione o paciente ou grupo terapêutico, escolha o arquivo do seu computador e confirme. O eConsult preencherá automaticamente as informações básicas e enviará o arquivo ao Google Drive vinculado.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Posso vincular arquivos a atendimentos específicos?",
     "resposta": "Sim. Durante o envio, selecione no campo 'Vinculado a' o atendimento desejado. Assim, o arquivo ficará relacionado diretamente à sessão correspondente no prontuário do paciente.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O que significa 'Publicar no Prontuário (PÚBLICO)'?",
     "resposta": "Essa opção torna o arquivo visível para o paciente na área do prontuário compartilhado. Caso não seja marcada, o arquivo permanecerá restrito ao psicólogo, visível apenas em sua área profissional.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Posso editar ou excluir arquivos depois de enviados?",
     "resposta": "Sim. Use os botões de edição ou exclusão disponíveis em cada card de arquivo. A exclusão é irreversível e também remove o vínculo correspondente no Google Drive.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como visualizar os arquivos armazenados?",
     "resposta": "No painel 'Arquivos', clique em 'Visualizar'. O arquivo será aberto diretamente a partir do Google Drive, mantendo a visualização segura e sem necessidade de download local.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Os arquivos são armazenados no servidor do eConsult?",
     "resposta": "Não. O eConsult não armazena nenhum arquivo em seus próprios servidores. Todo o conteúdo é salvo diretamente no Google Drive do profissional, garantindo segurança, autonomia e conformidade com a LGPD.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O eConsult tem acesso aos meus arquivos do Google Drive?",
     "resposta": "Não. O eConsult apenas acessa a pasta vinculada criada para o sistema, sem permissão para visualizar ou editar outros arquivos do seu Google Drive pessoal. O acesso é limitado e controlado pela conta de serviço configurada.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Como o eConsult garante a segurança dos arquivos?",
     "resposta": "Todos os arquivos são transmitidos e armazenados de forma criptografada, com autenticação segura via Google OAuth2. O sistema segue as diretrizes da LGPD e não mantém cópias locais dos documentos, reduzindo riscos de exposição.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Posso usar outra solução de armazenamento além do Google Drive?",
     "resposta": "No momento, o eConsult oferece integração exclusiva com o Google Drive, por ser uma das soluções mais seguras e compatíveis com as exigências de confidencialidade e conformidade da área da saúde.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O que devo fazer se a integração com o Google Drive parar de funcionar?",
     "resposta": "Verifique se a chave de serviço e as permissões da pasta 'eConsult' ainda estão válidas. Caso necessário, gere uma nova chave JSON e atualize a configuração na área 'Configurações > Integrações > Google Drive'.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "O armazenamento no Google Drive é ilimitado?",
     "resposta": "Depende do plano do Google vinculado à sua conta. O eConsult não impõe limite de espaço, mas o armazenamento segue as regras e capacidade do seu Google Drive pessoal ou corporativo.",
     "categoria": "Arquivos",
     "public": true
   },
   {
+    "more_details_url": null,
     "pergunta": "Os arquivos podem ser compartilhados com o paciente?",
     "resposta": "Sim. Arquivos marcados como 'Públicos' são exibidos na área do paciente. O profissional tem total controle sobre o que é visível, garantindo sigilo e confidencialidade das informações sensíveis.",
     "categoria": "Arquivos",

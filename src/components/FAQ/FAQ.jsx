@@ -8,7 +8,7 @@ export default function FAQ({ folder }) {
 
   try {
     // encontra o caminho do arquivo correspondente à pasta
-    const path = `./${folder}/faq.json`;    
+    const path = `./${folder}/faq.json`;
     data = faqContext(path);
   } catch (e) {
     console.error("FAQ não encontrado para:", folder);
@@ -23,8 +23,24 @@ export default function FAQ({ folder }) {
     <div>
       {faqs.map((f, i) => (
         <details key={i} className="faq-item">
-          <summary style={{fontSize: "18px"}}>{f.pergunta}</summary>
-          <p style={{ marginTop: "0.5rem", color: "#414141" }}>{f.resposta}</p>
+          <summary style={{ fontSize: "18px", marginTop: "1rem" }}>{f.pergunta}</summary>
+          <p style={{ marginTop: "0px", marginBottom: "0px", color: "#808080ff", fontSize: "16px" }}>{f.resposta}</p>
+          {f.more_details_url && (
+            <a
+              href={f.more_details_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                display: "inline-block",
+                marginTop: "0px",
+                fontWeight: 500,
+                color: "#007bff",
+                textDecoration: "none",
+              }}
+            >
+              Mais detalhes →
+            </a>
+          )}
         </details>
       ))}
     </div>
