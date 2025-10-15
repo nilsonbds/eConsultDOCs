@@ -1,8 +1,194 @@
 [
-    {
-    "pergunta": "",
-    "resposta": "",
-    "categoria": "",
-    "public": false
+  {
+    "pergunta": "O que são as integrações do eConsult?",
+    "resposta": "As integrações do eConsult permitem que o sistema se conecte a outras plataformas — como Google Drive, Mercado Pago, Daily.co, Focus NFe, OpenAI, PIX e servidores SMTP — ampliando as funcionalidades e automatizando processos clínicos, financeiros e administrativos.",
+    "categoria": "Integrações",
+    "public": true
+  },
+  {
+    "pergunta": "Qual é o objetivo das integrações do eConsult?",
+    "resposta": "O objetivo é promover interoperabilidade entre o eConsult e outras ferramentas já utilizadas pelo profissional, garantindo eficiência operacional, centralização de informações e redução de tarefas manuais.",
+    "categoria": "Integrações",
+    "public": true
+  },
+  {
+    "pergunta": "Quais integrações estão disponíveis no eConsult?",
+    "resposta": "As principais integrações são: **Servidor SMTP**, **Google Drive**, **OpenAI (IA assistida)**, **Daily.co (teleatendimento)**, **PIX**, **Mercado Pago** e **Focus NFe**.",
+    "categoria": "Integrações",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o Servidor SMTP no eConsult?",
+    "resposta": "O servidor SMTP é o sistema responsável por enviar e-mails diretamente a partir do seu domínio. Ele permite personalizar o remetente das mensagens, garantindo autenticidade, entregabilidade e maior controle sobre os envios.",
+    "categoria": "Servidor SMTP",
+    "public": true
+  },
+  {
+    "pergunta": "Por que configurar um SMTP personalizado?",
+    "resposta": "Configurar um SMTP próprio permite enviar e-mails com o seu domínio (ex: contato@seudominio.com), acompanhar status de entrega e atender políticas internas de segurança ou compliance.",
+    "categoria": "Servidor SMTP",
+    "public": true
+  },
+  {
+    "pergunta": "Como configurar o Servidor SMTP no eConsult?",
+    "resposta": "Acesse **Configurações → Servidor SMTP** e preencha os campos de servidor, porta, autenticação, tipo de segurança e credenciais da conta. O eConsult passará a usar esse servidor para todos os envios.",
+    "categoria": "Servidor SMTP",
+    "public": true
+  },
+  {
+    "pergunta": "O que é a integração com o Google Drive?",
+    "resposta": "A integração com o Google Drive conecta o eConsult ao seu armazenamento na nuvem, permitindo salvar relatórios, documentos e arquivos de pacientes diretamente na sua conta do Google Drive, com segurança e sincronização automática.",
+    "categoria": "Google Drive",
+    "public": true
+  },
+  {
+    "pergunta": "Quais benefícios o Google Drive oferece no eConsult?",
+    "resposta": "Oferece armazenamento seguro, backups automáticos, organização centralizada de arquivos e compartilhamento direto com pacientes sem sair do eConsult.",
+    "categoria": "Google Drive",
+    "public": true
+  },
+  {
+    "pergunta": "Como configurar a integração com o Google Drive?",
+    "resposta": "Crie um projeto no Google Cloud, habilite a API do Drive, gere credenciais e carregue a chave JSON no eConsult em **Configurações → Google Drive**. Depois, compartilhe a pasta criada com o eConsult para vincular o acesso.",
+    "categoria": "Google Drive",
+    "public": true
+  },
+  {
+    "pergunta": "O que é a integração com a OpenAI?",
+    "resposta": "Permite usar a sua própria conta e chave de API da OpenAI dentro do eConsult, expandindo o uso da inteligência artificial para gerar textos clínicos, análises, hipóteses diagnósticas e relatórios automatizados.",
+    "categoria": "OpenAI",
+    "public": true
+  },
+  {
+    "pergunta": "A IA já está disponível sem configurar a OpenAI?",
+    "resposta": "Sim. O eConsult oferece IA nativa em todos os planos, com limites definidos conforme o tipo de assinatura. A integração com a OpenAI é opcional para quem deseja uso ilimitado e personalização completa.",
+    "categoria": "OpenAI",
+    "public": true
+  },
+  {
+    "pergunta": "Como configurar a sua conta da OpenAI no eConsult?",
+    "resposta": "Crie uma conta na OpenAI, gere uma API Key em https://platform.openai.com/account/api-keys, copie a chave e insira em **Configurações → Integrações → ChatGPT** dentro do eConsult.",
+    "categoria": "OpenAI",
+    "public": true
+  },
+  {
+    "pergunta": "Quais são os principais usos da IA no eConsult?",
+    "resposta": "A IA auxilia na geração de anotações clínicas, hipóteses diagnósticas, planos terapêuticos, resumos, análises mensais e anuais, adaptadas à especialidade do profissional.",
+    "categoria": "OpenAI",
+    "public": true
+  },
+  {
+    "pergunta": "O que é a integração com o Daily.co?",
+    "resposta": "Permite realizar teleatendimentos diretamente pelo eConsult, sem precisar de aplicativos externos. As consultas são feitas em salas seguras e criptografadas, com link individual para cada atendimento.",
+    "categoria": "Daily.co",
+    "public": true
+  },
+  {
+    "pergunta": "Como ativar o teleatendimento Daily.co?",
+    "resposta": "Crie uma conta no Daily.co, copie sua API Key no painel de desenvolvedores e cole em **Configurações → Integrações → Daily.co (Teleatendimento)** dentro do eConsult.",
+    "categoria": "Daily.co",
+    "public": true
+  },
+  {
+    "pergunta": "Quantos minutos o plano gratuito do Daily.co oferece?",
+    "resposta": "O plano gratuito do Daily.co inclui **10.000 minutos por mês**, equivalentes a cerca de **5 atendimentos de 1 hora por dia útil**.",
+    "categoria": "Daily.co",
+    "public": true
+  },
+  {
+    "pergunta": "O que é a integração com o PIX?",
+    "resposta": "Permite gerar QR Codes personalizados para recebimento direto via chave PIX, simplificando transações e reduzindo burocracia no processo de cobrança.",
+    "categoria": "PIX",
+    "public": true
+  },
+  {
+    "pergunta": "O status do pagamento PIX é atualizado automaticamente?",
+    "resposta": "Não. No PIX direto, o psicólogo precisa confirmar manualmente o recebimento no sistema. É recomendável solicitar o comprovante ao paciente.",
+    "categoria": "PIX",
+    "public": true
+  },
+  {
+    "pergunta": "Como configurar o PIX no eConsult?",
+    "resposta": "Em **Configurações → PIX**, informe sua chave PIX e cidade de atuação, e clique em 'Salvar'. A partir daí, o sistema passa a gerar QR Codes automaticamente para cada cobrança.",
+    "categoria": "PIX",
+    "public": true
+  },
+  {
+    "pergunta": "Qual a diferença entre PIX e Mercado Pago no eConsult?",
+    "resposta": "O PIX requer confirmação manual dos pagamentos. Já o Mercado Pago atualiza automaticamente o status das faturas via webhook e aceita múltiplos meios de pagamento.",
+    "categoria": "Pagamentos",
+    "public": true
+  },
+  {
+    "pergunta": "Como funciona a integração com o Mercado Pago?",
+    "resposta": "Permite gerar links de pagamento automáticos, aceitar PIX, cartões e boletos, e receber confirmações de pagamento em tempo real diretamente no eConsult.",
+    "categoria": "Mercado Pago",
+    "public": true
+  },
+  {
+    "pergunta": "Como configurar o Mercado Pago no eConsult?",
+    "resposta": "Crie uma conta de vendedor no Mercado Pago, gere suas credenciais de produção (User ID e Access Token) e insira em **Configurações → Mercado Pago**. Em seguida, ative o webhook conforme instruções.",
+    "categoria": "Mercado Pago",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o webhook do Mercado Pago?",
+    "resposta": "É o mecanismo que notifica o eConsult automaticamente quando um pagamento é confirmado, atualizando o status da fatura sem necessidade de ação manual.",
+    "categoria": "Mercado Pago",
+    "public": true
+  },
+  {
+    "pergunta": "O Mercado Pago cobra taxas?",
+    "resposta": "Sim. Normalmente entre 0,99% e 1,99% por transação. Em contrapartida, o sistema automatiza a conciliação e reduz tarefas manuais.",
+    "categoria": "Mercado Pago",
+    "public": true
+  },
+  {
+    "pergunta": "O que é a integração com a Focus NFe?",
+    "resposta": "A integração com a Focus NFe automatiza a emissão de notas fiscais de serviço diretamente pelo eConsult, eliminando a necessidade de acessar sistemas externos.",
+    "categoria": "Focus NFe",
+    "public": true
+  },
+  {
+    "pergunta": "Em quais planos a Focus NFe está disponível?",
+    "resposta": "A integração com a Focus NFe está disponível exclusivamente nos planos **Premium** do eConsult.",
+    "categoria": "Focus NFe",
+    "public": true
+  },
+  {
+    "pergunta": "Como configurar a Focus NFe no eConsult?",
+    "resposta": "Em **Configurações → Focus NFe**, insira CNPJ, inscrição municipal, alíquota ISS, código IBGE, código de serviço e o token de produção fornecido pela Focus. Configure também o webhook para notificações automáticas.",
+    "categoria": "Focus NFe",
+    "public": true
+  },
+  {
+    "pergunta": "Quais dados são necessários para emissão de notas fiscais?",
+    "resposta": "CNPJ, inscrição municipal, código do serviço, alíquota ISS, token de produção e webhook ativo. Essas informações devem ser obtidas com o contador.",
+    "categoria": "Focus NFe",
+    "public": true
+  },
+  {
+    "pergunta": "As notas fiscais são armazenadas no eConsult?",
+    "resposta": "Sim. Todas as notas emitidas ficam registradas no eConsult, permitindo acompanhar o histórico e exportar relatórios fiscais com facilidade.",
+    "categoria": "Focus NFe",
+    "public": true
+  },
+  {
+    "pergunta": "As integrações respeitam a LGPD?",
+    "resposta": "Sim. Todas as integrações do eConsult utilizam conexões seguras, tokens criptografados e não compartilham dados sensíveis com terceiros sem consentimento.",
+    "categoria": "Integrações",
+    "public": true
+  },
+  {
+    "pergunta": "Preciso de conhecimentos técnicos para configurar integrações?",
+    "resposta": "Não. Todas as integrações foram desenvolvidas com instruções passo a passo, interfaces simples e suporte visual para auxiliar o usuário durante a configuração.",
+    "categoria": "Integrações",
+    "public": true
+  },
+  {
+    "pergunta": "Posso desativar uma integração a qualquer momento?",
+    "resposta": "Sim. Basta acessar a tela de configuração correspondente e clicar em 'Excluir' ou 'Desativar'. As funções relacionadas à integração deixam de operar imediatamente.",
+    "categoria": "Integrações",
+    "public": true
   }
 ]

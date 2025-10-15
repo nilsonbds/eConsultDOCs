@@ -1,8 +1,218 @@
 [
-    {
-    "pergunta": "",
-    "resposta": "",
-    "categoria": "",
-    "public": false
+  {
+    "pergunta": "O que é a Inteligência Artificial do eConsult?",
+    "resposta": "A IA do eConsult é um assistente clínico e estratégico que apoia profissionais da saúde na elaboração de anotações, diagnósticos, prognósticos e relatórios. Ela atua de forma contextualizada, adaptando-se à especialidade do profissional e mantendo total conformidade ética e de privacidade.",
+    "categoria": "Inteligência Artificial",
+    "public": true
+  },
+  {
+    "pergunta": "A IA do eConsult substitui o profissional?",
+    "resposta": "Não. A IA oferece suporte técnico e operacional, mas a decisão final e a responsabilidade clínica permanecem exclusivamente com o profissional. O sistema nunca age de forma autônoma.",
+    "categoria": "Inteligência Artificial",
+    "public": true
+  },
+  {
+    "pergunta": "Como a IA do eConsult garante segurança e conformidade com a LGPD?",
+    "resposta": "Todos os dados são criptografados e anonimizados antes de qualquer processamento. A IA nunca tem acesso direto a informações identificáveis de pacientes, garantindo conformidade integral com a LGPD.",
+    "categoria": "Segurança e LGPD",
+    "public": true
+  },
+  {
+    "pergunta": "O que é anonimização de dados no eConsult?",
+    "resposta": "É o processo de remover identificadores diretos e indiretos dos dados clínicos, tornando impossível associar as informações a uma pessoa específica. Assim, o uso de IA é seguro e legalmente permitido.",
+    "categoria": "Segurança e LGPD",
+    "public": true
+  },
+  {
+    "pergunta": "O paciente precisa autorizar o uso da IA?",
+    "resposta": "Não. Por lei, dados anonimizados deixam de ser considerados dados pessoais. Mesmo assim, o eConsult recomenda transparência, informando o paciente de forma ética sobre o uso de IA.",
+    "categoria": "Segurança e LGPD",
+    "public": true
+  },
+  {
+    "pergunta": "Como a IA é usada em anotações clínicas?",
+    "resposta": "Durante o atendimento, o profissional pode acionar o recurso de IA para gerar, revisar ou expandir textos diretamente nas anotações clínicas. A IA atua sempre com base no modelo de registro clínico escolhido, mantendo o propósito terapêutico e a coerência do conteúdo.",
+    "categoria": "Anotações Clínicas",
+    "public": true
+  },
+  {
+    "pergunta": "Quais são os modos de uso da IA nas anotações?",
+    "resposta": "A IA oferece quatro modos: **Elaborar**, **Melhorar**, **Expandir** e **Reperguntar**. O modo *Elaborar* cria um novo texto a partir do modelo escolhido, sem ser criativo. *Melhorar* corrige erros e aprimora a fluidez do texto original. *Expandir* adiciona complementos clínicos coerentes de forma criativa. Já *Reperguntar* permite reiniciar a interação, transferindo o texto da resposta para um novo ciclo de análise com a IA.",
+    "categoria": "Anotações Clínicas",
+    "public": true
+  },
+  {
+    "pergunta": "O que significa 'Alcance Criativo' nas anotações com IA?",
+    "resposta": "É um controle que define o grau de criatividade da resposta. Valores baixos tornam o texto mais objetivo; valores altos o tornam mais elaborado e expressivo.",
+    "categoria": "Anotações Clínicas",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o 'Limite de Caracteres' no editor de IA?",
+    "resposta": "Permite definir o tamanho máximo da resposta gerada pela IA, garantindo que o texto final seja conciso ou detalhado conforme a necessidade do atendimento.",
+    "categoria": "Anotações Clínicas",
+    "public": true
+  },
+  {
+    "pergunta": "A IA pode escrever sozinha uma anotação completa?",
+    "resposta": "Não. A IA atua sobre o texto inserido pelo profissional. Ela aprimora, complementa ou responde, mas sempre depende de um conteúdo inicial fornecido pelo usuário.",
+    "categoria": "Anotações Clínicas",
+    "public": true
+  },
+  {
+    "pergunta": "Como a IA apoia o prontuário clínico?",
+    "resposta": "A IA analisa dados de anamnese, avaliações e engajamento do paciente para sugerir hipóteses diagnósticas, prognósticas e planos terapêuticos. As sugestões são exibidas no prontuário e podem ser aceitas ou ajustadas pelo profissional.",
+    "categoria": "Prontuário e Hipóteses",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o recurso de Hipóteses Diagnósticas?",
+    "resposta": "A IA sugere possíveis diagnósticos baseados em sintomas, histórico e anotações. É um apoio clínico que ajuda o profissional a organizar o raciocínio, nunca uma definição automática.",
+    "categoria": "Prontuário e Hipóteses",
+    "public": true
+  },
+  {
+    "pergunta": "A IA gera hipóteses prognósticas também?",
+    "resposta": "Sim. Além de diagnósticos, a IA propõe hipóteses prognósticas, indicando possíveis desfechos ou evoluções esperadas com base no histórico e engajamento do paciente.",
+    "categoria": "Prontuário e Hipóteses",
+    "public": true
+  },
+  {
+    "pergunta": "A IA ajuda a montar planos terapêuticos?",
+    "resposta": "Sim. Com base na abordagem terapêutica e histórico clínico, a IA sugere objetivos, técnicas e estratégias de intervenção, que o profissional pode revisar e adaptar.",
+    "categoria": "Prontuário e Hipóteses",
+    "public": true
+  },
+  {
+    "pergunta": "Como a IA apoia a evolução do tratamento?",
+    "resposta": "Ela analisa o histórico de atendimentos e o comportamento do paciente, sugerindo ajustes ou reforços no plano de intervenção.",
+    "categoria": "Prontuário e Hipóteses",
+    "public": true
+  },
+  {
+    "pergunta": "O que é a Análise Inteligente de Engajamento?",
+    "resposta": "É um recurso que monitora frequência, pagamentos e interações para calcular um score de engajamento, identificando pacientes em risco de abandono ou declínio de participação.",
+    "categoria": "Análise de Engajamento",
+    "public": true
+  },
+  {
+    "pergunta": "Como o score de engajamento é calculado?",
+    "resposta": "A IA avalia dados históricos de comparecimento, regularidade de pagamentos e tempo entre sessões, gerando uma pontuação que classifica pacientes como estáveis, em declínio ou em risco.",
+    "categoria": "Análise de Engajamento",
+    "public": true
+  },
+  {
+    "pergunta": "O que o painel de score mostra?",
+    "resposta": "Mostra níveis de engajamento, tendências e recomendações visuais para reengajamento. Ele apoia o psicólogo tanto clinicamente quanto administrativamente.",
+    "categoria": "Análise de Engajamento",
+    "public": true
+  },
+  {
+    "pergunta": "O que são tokens e por que eles são mostrados no eConsult?",
+    "resposta": "Tokens são unidades de texto utilizadas pela IA da OpenAI para processar e gerar respostas. Embora o eConsult não limite o uso por tokens, o sistema exibe o consumo apenas para fins informativos — especialmente quando o profissional utiliza sua própria conta da OpenAI, na qual o custo é calculado com base em tokens.",
+    "categoria": "Limites e Consumo",
+    "public": true
+  },
+  {
+    "pergunta": "O eConsult tem limite de uso da IA?",
+    "resposta": "Sim. O eConsult estabelece limites mensais de análises de IA conforme o plano contratado — como número de anotações assistidas, hipóteses diagnósticas, análises mensais e anuais, entre outros. Esses limites não estão relacionados a tokens, mas sim à quantidade de operações realizadas.",
+    "categoria": "Limites e Consumo",
+    "public": true
+  },
+  {
+    "pergunta": "O que acontece ao atingir o limite de análises mensais da IA?",
+    "resposta": "Ao atingir o limite de análises do seu plano, as funções de IA específicas são pausadas até a renovação mensal automática. O uso pode continuar normalmente se o profissional optar por integrar sua conta pessoal da OpenAI.",
+    "categoria": "Limites e Consumo",
+    "public": true
+  },
+  {
+    "pergunta": "Posso usar minha conta da OpenAI no eConsult?",
+    "resposta": "Sim. O profissional pode integrar sua própria chave de API da OpenAI, removendo os limites de uso da IA no eConsult. Nesse caso, os custos passam a ser cobrados diretamente pela OpenAI, conforme o volume de tokens utilizados, e o eConsult exibe o consumo apenas para acompanhamento.",
+    "categoria": "Integração OpenAI",
+    "public": true
+  },
+  {
+    "pergunta": "Como configurar a integração com a OpenAI?",
+    "resposta": "Crie uma conta na OpenAI, gere uma API Key e insira em **Configurações → Integrações → ChatGPT (OpenAI)**. O eConsult passará a usar sua conta pessoal.",
+    "categoria": "Integração OpenAI",
+    "public": true
+  },
+  {
+    "pergunta": "A IA pode ser usada para gerar relatórios mensais e anuais?",
+    "resposta": "Sim. A IA analisa automaticamente dados financeiros e clínicos, produzindo relatórios descritivos com insights e recomendações.",
+    "categoria": "Relatórios e Insights",
+    "public": true
+  },
+  {
+    "pergunta": "A IA é usada em grupos terapêuticos também?",
+    "resposta": "Sim. Nos grupos, a IA considera tanto os dados coletivos quanto individuais dos membros para gerar hipóteses e evoluções integradas.",
+    "categoria": "Prontuário e Hipóteses",
+    "public": true
+  },
+  {
+    "pergunta": "A IA pode gerar textos automaticamente para relatórios?",
+    "resposta": "Sim. Ela pode sintetizar dados e gerar textos descritivos ou interpretativos com base nos registros existentes, sempre sob revisão do profissional.",
+    "categoria": "Relatórios e Insights",
+    "public": true
+  },
+  {
+    "pergunta": "A IA do eConsult é a mesma usada em outros sistemas?",
+    "resposta": "Não. A IA do eConsult foi treinada e calibrada especificamente para práticas clínicas e gestão de consultórios, com foco em ética, clareza e aplicabilidade profissional.",
+    "categoria": "Diferenciais da IA",
+    "public": true
+  },
+  {
+    "pergunta": "Como a IA do eConsult se diferencia de IAs genéricas?",
+    "resposta": "Ela entende o contexto clínico, gera sugestões baseadas em registros reais e oferece integração direta com prontuário e relatórios — algo que outras IAs não fazem.",
+    "categoria": "Diferenciais da IA",
+    "public": true
+  },
+  {
+    "pergunta": "A IA interfere na escrita técnica do profissional?",
+    "resposta": "Não. Ela aprimora clareza e estrutura, mas nunca altera termos técnicos, diagnósticos ou conceitos clínicos de forma autônoma.",
+    "categoria": "Anotações Clínicas",
+    "public": true
+  },
+  {
+    "pergunta": "A IA pode ajudar a criar evoluções terapêuticas?",
+    "resposta": "Sim. Com base nas anotações anteriores, a IA sugere resumos e diretrizes de evolução, economizando tempo e mantendo coerência nos registros.",
+    "categoria": "Prontuário e Hipóteses",
+    "public": true
+  },
+  {
+    "pergunta": "A IA do eConsult aprende com meus atendimentos?",
+    "resposta": "Não. A IA é contextual, mas não armazena nem treina com dados individuais. Cada uso é processado isoladamente, garantindo sigilo e proteção de dados.",
+    "categoria": "Segurança e LGPD",
+    "public": true
+  },
+  {
+    "pergunta": "O uso da IA é obrigatório?",
+    "resposta": "Não. O uso é totalmente opcional e pode ser ativado apenas quando o profissional desejar utilizar suporte automatizado.",
+    "categoria": "Configuração e Uso",
+    "public": true
+  },
+  {
+    "pergunta": "Posso revisar o texto gerado pela IA antes de salvar?",
+    "resposta": "Sim. O conteúdo gerado é exibido para revisão e só é aplicado após o profissional clicar em 'Aplicar'. Nenhum texto é salvo automaticamente.",
+    "categoria": "Anotações Clínicas",
+    "public": true
+  },
+  {
+    "pergunta": "A IA consome tokens mesmo sem salvar o resultado?",
+    "resposta": "Sim. O consumo de tokens ocorre ao gerar o texto, independentemente de o resultado ser salvo ou descartado.",
+    "categoria": "Limites e Consumo",
+    "public": true
+  },
+  {
+    "pergunta": "A IA pode ser usada para fins administrativos?",
+    "resposta": "Sim. Além de apoio clínico, ela pode gerar resumos de desempenho mensal e anual.",
+    "categoria": "Relatórios e Insights",
+    "public": true
+  },
+  {
+    "pergunta": "O eConsult monitora o uso de IA dos profissionais?",
+    "resposta": "Sim, apenas para controle de consumo e desempenho técnico. O conteúdo clínico processado pela IA nunca é armazenado nem analisado por terceiros.",
+    "categoria": "Segurança e LGPD",
+    "public": true
   }
 ]

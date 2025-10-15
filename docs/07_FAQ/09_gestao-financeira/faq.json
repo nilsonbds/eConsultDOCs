@@ -1,8 +1,176 @@
 [
-    {
-    "pergunta": "",
-    "resposta": "",
-    "categoria": "",
-    "public": false
+  {
+    "pergunta": "O que é Gestão Financeira do eConsult?",
+    "resposta": "É o conjunto de recursos do eConsult voltados à organização econômica da clínica. Nele, o profissional controla receitas, despesas, faturas, inadimplências, créditos, perdas e consolidações mensais, com relatórios e gráficos que auxiliam a tomada de decisão.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Como acessar os recursos de Gestão Financeira?",
+    "resposta": "No menu principal, acesse 'Receitas e Despesas', Consolidação, Inadimplências, Faturas, Créditos e Perdas, entre outros.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o painel Receitas e Despesas?",
+    "resposta": "Esse painel apresenta todas as movimentações financeiras de entrada e saída da clínica. Mostra receitas e despesas por mês, com filtros de status e cores que indicam valores quitados (verde) e pendentes (vermelho).",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Como incluir uma despesa manualmente?",
+    "resposta": "No painel Receitas e Despesas, clique em 'Nova Despesa'. Informe a descrição, valor, data e forma de pagamento, e clique em 'Salvar'. O registro será incluído na lista do mês correspondente.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Posso incluir receitas que não estão vinculadas a atendimentos?",
+    "resposta": "Sim. O eConsult permite cadastrar receitas diversas, como consultorias, palestras ou serviços administrativos, garantindo uma visão financeira completa da clínica.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Como visualizar um mês específico?",
+    "resposta": "Use o seletor de meses no topo do painel. As setas laterais permitem navegar entre meses e anos, atualizando os gráficos e totalizadores de forma automática.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Posso exportar as informações financeiras?",
+    "resposta": "Sim. No menu Principal > Relatórios é possivel emitir relatórios financeiros e exportá-los para PDF ou CSV",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o painel Consolidação Financeira?",
+    "resposta": "Reúne os principais indicadores financeiros do mês — valores recebidos, pagos, a receber, a pagar, saldo realizado e saldo projetado. É uma visão estratégica da saúde financeira da clínica.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Como interpretar o Saldo Realizado e o Saldo a Realizar?",
+    "resposta": "Saldo Realizado é o resultado efetivo das receitas e despesas já concluídas. Saldo a Realizar representa previsões futuras (valores ainda não pagos ou recebidos). Juntos, mostram o fluxo de caixa atual e projetado.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "O que significam os gráficos da Consolidação?",
+    "resposta": "Os gráficos exibem comparações entre receitas e despesas, e indicadores de crescimento mensal. Eles ajudam a identificar tendências, períodos de alta ou baixa e acompanhar a sustentabilidade financeira da clínica.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o painel Faturas do Paciente?",
+    "resposta": "Centraliza todas as cobranças associadas a um paciente ou grupo terapêutico. Permite consultar, quitar, emitir recibos e acompanhar pagamentos atrasados ou antecipados.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Como registrar um pagamento em fatura?",
+    "resposta": "Na aba 'Pendentes', selecione as faturas desejadas e clique em 'Quitar'. Escolha a forma de pagamento (PIX, dinheiro, crédito antecipado, etc.) e confirme. A fatura será movida automaticamente para 'Recebidas'.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Como gerar um recibo de pagamento?",
+    "resposta": "Após a quitação de uma fatura, acesse a aba 'Recebidas' e clique em 'Recibo'. O sistema gera um documento PDF com todas as informações do pagamento e dados do profissional, pronto para impressão ou envio.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Posso editar uma fatura já quitada?",
+    "resposta": "Sim. O eConsult permite editar faturas já quitadas, mas essa prática não é recomendada, especialmente se houver acompanhamento contábil. Toda alteração é registrada em um log auditável, garantindo transparência, porém recomenda-se realizar ajustes por meio de estorno ou nova fatura, preservando a integridade dos registros financeiros.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o painel Inadimplências?",
+    "resposta": "Identifica pacientes e grupos com pagamentos atrasados. Mostra o número de sessões pendentes, total devido e permite enviar notificações ou registrar perdas contábeis.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Como notificar um paciente inadimplente?",
+    "resposta": "Na aba 'Pendentes', selecione as faturas em atraso e clique em 'Notificar'. O eConsult envia uma mensagem personalizada via WhatsApp ou e-mail, lembrando o paciente do pagamento.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "O que são perdas contábeis?",
+    "resposta": "Perdas são valores de atendimentos não pagos e considerados irrecuperáveis. O registro mantém a contabilidade precisa, evitando distorções em relatórios financeiros e projeções de receita.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Como registrar uma perda contábil?",
+    "resposta": "Abra a fatura, escolha a forma de pagamento 'PERDA (BAIXA CONTÁBIL)' e confirme. O sistema registra a baixa e move o valor para o painel de Perdas.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Como recuperar uma perda?",
+    "resposta": "Ao registrar um novo crédito antecipado para o mesmo paciente, o sistema permite usá-lo para cobrir perdas anteriores. O registro é automaticamente movido para o painel 'Perdas Recuperadas'.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "O que são créditos antecipados?",
+    "resposta": "São valores pagos antes da realização de atendimentos. Eles funcionam como saldo positivo do paciente, que pode ser usado para quitar futuras sessões ou faturas pendentes.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Como registrar um crédito antecipado?",
+    "resposta": "Na aba 'Créditos e Perdas', clique em 'Incluir Crédito', informe o valor, data e forma de pagamento. Créditos futuros são marcados como 'Previstos' até a confirmação.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o painel Perdas Recuperadas?",
+    "resposta": "Exibe registros de valores recuperados após terem sido baixados como perdas. Serve para auditoria e análise da efetividade de ações de cobrança.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "O eConsult permite integração com PIX?",
+    "resposta": "Sim. O eConsult permite tanto o uso de PIX pessoal quanto a integração com o Mercado Pago. Ao usar o PIX pessoal, o profissional deve registrar manualmente a confirmação do pagamento. Já com a integração via Mercado Pago, que inclui a modalidade PIX, os pagamentos são conciliados automaticamente no sistema, garantindo praticidade e rastreabilidade.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Posso acompanhar o desempenho financeiro por paciente ou grupo terapêutico?",
+    "resposta": "Sim. A aba Resultados, no cadastro do paciente ou grupo exibe LTV e CLC, frequência média, ticket médio, perdas e engajamento, ajudando a avaliar a sustentabilidade de cada vínculo terapêutico.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "O que significam LTV e CLC mostrados na aba de Resultados do Paciente ou Grupo Terapêutico?",
+    "resposta": "O LTV (Lifetime Value) representa o valor total gerado por um paciente ou grupo ao longo do tempo, considerando todos os atendimentos realizados. Já o CLC (Customer Lifetime Cost) indica o custo médio do acompanhamento — quanto foi investido, em média, para manter aquele vínculo terapêutico. A relação entre LTV e CLC ajuda o profissional a compreender o equilíbrio entre retorno e custo de cada acompanhamento, apoiando decisões clínicas e financeiras.",
+    "categoria": "Dashboards e Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Os relatórios financeiros consideram atendimentos de grupo?",
+    "resposta": "Sim. Todos os relatórios e gráficos incluem automaticamente receitas e despesas provenientes de grupos terapêuticos, garantindo a visão completa da operação clínica.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "Como o eConsult trata dados financeiros conforme a LGPD?",
+    "resposta": "O eConsult segue rigorosamente a LGPD, criptografando todos os dados que possam identificar o paciente — como nome, CPF, e-mail, endereço e informações clínicas. Já os valores financeiros, por não serem considerados dados pessoais sensíveis, não são criptografados, mas são armazenados de forma segura em servidores da AWS, com controle de acesso e auditoria. Nenhum dado é compartilhado com terceiros, e o profissional mantém total controle sobre seus registros.",
+    "categoria": "Segurança e Privacidade",
+    "public": true
+  },
+  {
+    "pergunta": "Posso usar o eConsult para relatórios contábeis externos?",
+    "resposta": "Sim. Os relatórios podem ser exportados e integrados a sistemas contábeis externos ou enviados ao contador em formato consolidado, mantendo a compatibilidade com planilhas e ERPs.",
+    "categoria": "Gestão Financeira",
+    "public": true
+  },
+  {
+    "pergunta": "O eConsult substitui um sistema contábil completo?",
+    "resposta": "Não. O eConsult oferece controle financeiro clínico e analítico, mas não executa obrigações fiscais (como emissão de DARFs ou SPED). Ele é complementar à contabilidade formal da empresa.",
+    "categoria": "Gestão Financeira",
+    "public": true
   }
 ]

@@ -1,8 +1,314 @@
 [
-    {
-    "pergunta": "",
-    "resposta": "",
-    "categoria": "",
-    "public": false
+  {
+    "pergunta": "O que é o painel Resultados do eConsult?",
+    "resposta": "O Painel Resultados tem como principal objetivo oferecer à organização uma visão clara e estratégica do desempenho e da evolução do negócio. A partir da análise integrada de diversos gráficos, indicadores e análises textuais com insights, ele permite uma tomada de decisão mais informada, baseada em dados relevantes e atualizados.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Qual é o objetivo do painel Resultados?",
+    "resposta": "O objetivo é fornecer uma visão integrada do desempenho clínico e financeiro da organização, relacionando ganhos, custos e volume de atendimentos. Ele traduz dados complexos em análises visuais e textuais acessíveis.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Quais são as abas principais do painel Resultados?",
+    "resposta": "O painel é dividido em três abas: **Gráficos**, que mostram a evolução mensal dos indicadores; **Indicadores**, que consolidam métricas do mês selecionado; e **Análise Anual**, que gera interpretações inteligentes de todo o ano anterior.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que a aba Gráficos apresenta?",
+    "resposta": "Ela oferece uma visualização consolidada dos principais indicadores — Desempenho, Frequência, Inadimplência, Perdas, Perdas Recuperadas, Ocupação, Valor dos Atendimentos e Remarcações. Os gráficos abrangem os dois meses anteriores, o atual e o seguinte.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Como interpretar o gráfico Desempenho?",
+    "resposta": "O gráfico Desempenho exibe o total de atendimentos, valores recebidos e valores pagos no mês. Ele permite avaliar a rentabilidade e o equilíbrio financeiro da operação.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que o gráfico Detalhe da Frequência mostra?",
+    "resposta": "Esse gráfico representa o engajamento dos pacientes. Ele exibe quantos atendimentos foram confirmados, realizados ou não realizados, ajudando a identificar padrões de comparecimento.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Como usar o gráfico de Inadimplência?",
+    "resposta": "Ele monitora o valor de pagamentos em atraso, mostrando totais mensais, anuais e acumulados. É útil para detectar tendências de inadimplência e avaliar a efetividade das ações de cobrança.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que representa o gráfico de Perdas?",
+    "resposta": "Apresenta os valores baixados contabilmente como perdas definitivas. Ele ajuda a avaliar o impacto financeiro de créditos irrecuperáveis e a necessidade de revisar políticas de cobrança.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Como interpretar o gráfico de Perdas Recuperadas?",
+    "resposta": "Mostra valores que haviam sido registrados como perdas e foram posteriormente recuperados. O crescimento nesse gráfico indica sucesso nas políticas de renegociação e cobrança.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Qual é a função do gráfico de Ocupação?",
+    "resposta": "Avalia a utilização da capacidade de atendimentos — separando atendimentos presenciais e remotos, pagos e gratuitos — para medir eficiência da agenda e identificar ociosidade ou sobrecarga.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que o gráfico Valor dos Atendimentos mostra?",
+    "resposta": "Exibe o valor médio e o valor máximo dos atendimentos realizados, ajudando a monitorar a precificação e o ticket médio da clínica.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Como interpretar o gráfico de Remarcações e Desmarcações?",
+    "resposta": "Monitora a estabilidade da agenda, mostrando cancelamentos, reagendamentos e recuperações. Altas desmarcações não recuperadas indicam risco de ociosidade e perda de receita.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Posso ajustar o período dos gráficos?",
+    "resposta": "Sim. O seletor de período permite avançar, retroceder, adicionar ou remover meses da amostragem, possibilitando análises comparativas de curto e médio prazo.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que é a aba Indicadores?",
+    "resposta": "Apresenta os principais indicadores do mês selecionado em cards analíticos, abrangendo situação financeira, frequência, ocupação, perdas, inadimplência e remarcações.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Quais indicadores financeiros são exibidos?",
+    "resposta": "A aba mostra valores recebidos, pagos, realizados, a receber e a pagar, com diferenciação entre receitas e despesas realizadas e previstas.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que significa 'Realizado' e 'A Realizar'?",
+    "resposta": "‘Realizado’ representa receitas e despesas efetivamente concluídas no mês. ‘A Realizar’ mostra valores futuros ainda previstos, oferecendo uma projeção do fluxo de caixa.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que o card de Atendimentos do Mês mostra?",
+    "resposta": "Informa o número e o valor total dos atendimentos realizados, bem como a proporção entre os atendimentos quitados e não quitados.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Como acompanhar a inadimplência?",
+    "resposta": "O card de Inadimplência mostra os valores devidos no mês, no ano e no total acumulado, permitindo o controle do risco financeiro da clínica.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Como visualizar perdas e perdas recuperadas?",
+    "resposta": "Os cards mostram separadamente valores perdidos e recuperados, tanto no mês quanto no acumulado. Essa comparação ajuda a medir a efetividade das ações de cobrança.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que o indicador de Ocupação mostra?",
+    "resposta": "Aponta a taxa de utilização da agenda, segmentada entre atendimentos pagos, gratuitos, remotos e presenciais. Essa métrica indica o equilíbrio entre capacidade e demanda.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o card Custos Pagos?",
+    "resposta": "Mostra o valor mínimo, médio e máximo pago por paciente, permitindo avaliar dispersões de preço e oportunidades de padronização ou ajuste de valores.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Como interpretar o card Detalhamento da Frequência?",
+    "resposta": "Mostra o número de atendimentos confirmados, não confirmados, realizados e não realizados, ajudando a entender padrões de engajamento e comparecimento.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Como acompanhar as Remarcações e Desmarcações?",
+    "resposta": "O card específico mostra a quantidade de desmarcações, remarcações internas e reagendamentos entre meses, permitindo medir a estabilidade da agenda.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que é a Análise Anual?",
+    "resposta": "É uma funcionalidade que gera automaticamente uma análise textual do desempenho anual, reunindo métricas de crescimento, inadimplência, perdas e engajamento em um relatório completo.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Como gerar uma análise anual?",
+    "resposta": "Na aba Análise Anual, selecione o ano desejado e clique em 'Fazer análise'. O eConsult processará os dados e exibirá o texto analítico com resumo, tendências e alertas estratégicos.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Posso enviar a análise anual por e-mail?",
+    "resposta": "Sim. Após gerar a análise, clique em 'Enviar para meu e-mail'. O sistema envia automaticamente o relatório completo para o endereço cadastrado.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que significa o botão 'Fazer Análise' na aba Indicadores?",
+    "resposta": "Ele ativa o mecanismo de análise textual automática dos dados mensais, produzindo insights e interpretações inteligentes baseadas nas métricas do painel.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que são análises textuais inteligentes?",
+    "resposta": "São interpretações automáticas geradas pela IA do eConsult com base nos dados de desempenho. Elas destacam tendências, riscos e oportunidades de melhoria de forma contextualizada.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Como os dashboards ajudam na tomada de decisão?",
+    "resposta": "Os painéis gráficos e indicadores permitem cruzar dados clínicos e financeiros, revelando padrões de comportamento, sazonalidades e potenciais riscos. Isso facilita decisões embasadas em dados e não apenas em percepção subjetiva.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Os dashboards consideram grupos terapêuticos?",
+    "resposta": "Sim. Todos os gráficos e indicadores integram automaticamente dados de pacientes individuais e grupos, refletindo a operação completa da clínica.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Os relatórios são atualizados em tempo real?",
+    "resposta": "Sim. Os dashboards utilizam dados consolidados diretamente do banco do eConsult, atualizados automaticamente conforme as movimentações de atendimentos e finanças.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "Como o painel garante sigilo e segurança dos dados?",
+    "resposta": "Todos os dados exibidos nos dashboards são processados de forma criptografada, e nenhuma informação sensível do paciente é mostrada sem anonimização, em conformidade com a LGPD.",
+    "categoria": "Dashboards",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o Painel de Relatórios do eConsult?",
+    "resposta": "O Painel de Relatórios é o módulo responsável pela emissão de relatórios detalhados sobre atendimentos, finanças e pacientes. Ele permite extrair informações estratégicas sobre o desempenho operacional, clínico e financeiro da clínica, facilitando a tomada de decisão e o planejamento a longo prazo.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Qual é o objetivo do Painel de Relatórios?",
+    "resposta": "O objetivo é oferecer uma visão organizada e completa das atividades realizadas no sistema — atendimentos, receitas, despesas e interações com pacientes — permitindo ao profissional acompanhar a evolução da clínica com base em dados reais.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Como acessar o Painel de Relatórios?",
+    "resposta": "No Menu Principal > Relatórios. O painel abrirá com as categorias disponíveis: Atendimentos, Financeiro e Pacientes/Grupos Terapêuticos.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Quais tipos de relatórios o eConsult oferece?",
+    "resposta": "O sistema oferece três tipos principais: **Relatórios de Atendimentos**, **Relatórios Financeiros** e **Relatórios de Pacientes e Grupos Terapêuticos**. Cada tipo permite aplicar filtros e exportar dados personalizados conforme a necessidade do profissional.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "O que são Relatórios de Atendimentos?",
+    "resposta": "São relatórios que consolidam dados sobre atendimentos realizados, cancelados e reagendados. Ajudam a medir o desempenho da equipe, frequência dos pacientes e qualidade dos serviços prestados.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Quais informações constam nos Relatórios de Atendimentos?",
+    "resposta": "Eles incluem data, horário, paciente, tipo de atendimento, status (realizado, confirmado, ausente), forma de pagamento e valores recebidos ou pendentes, permitindo uma visão completa da rotina clínica.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "O que são Relatórios Financeiros?",
+    "resposta": "São relatórios voltados à gestão econômica da clínica. Reúnem receitas, despesas, créditos, perdas e saldos consolidados, permitindo o acompanhamento detalhado da saúde financeira da operação.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Quais informações os Relatórios Financeiros exibem?",
+    "resposta": "Eles exibem valores recebidos, pagos, previstos, créditos antecipados e perdas contábeis, segmentados por período, paciente ou forma de pagamento. Isso permite análises precisas de fluxo de caixa e rentabilidade.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "O que são Relatórios de Pacientes e Grupos Terapêuticos?",
+    "resposta": "Esses relatórios apresentam a relação de pacientes individuais e grupos atendidos, frequência, valores associados e desempenho terapêutico, auxiliando na gestão e fidelização de clientes.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Como gerar um relatório personalizado?",
+    "resposta": "Ao clicar em 'Imprimir' em qualquer tipo de relatório, o sistema abrirá uma tela com filtros específicos — como período, tipo de atendimento, paciente e forma de pagamento. Após aplicar os filtros, basta escolher o formato desejado (CSV ou PDF).",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Quais formatos de exportação estão disponíveis?",
+    "resposta": "Os relatórios podem ser gerados em dois formatos: **CSV**, ideal para análise em planilhas (Excel, Google Sheets), e **PDF**, pronto para impressão ou compartilhamento com outros profissionais.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "O que significa o botão Gerar CSV?",
+    "resposta": "O botão **Gerar CSV** exporta o relatório em formato `.csv`, permitindo manipulação e cruzamento de dados em planilhas externas para análises avançadas.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "O que significa o botão Gerar PDF?",
+    "resposta": "O botão **Gerar PDF** cria um arquivo em formato `.pdf`, pronto para impressão, envio ou arquivamento, mantendo o layout visual dos dados do relatório.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Posso filtrar relatórios por período?",
+    "resposta": "Sim. Todos os relatórios permitem selecionar intervalos de datas personalizados, facilitando análises mensais, trimestrais ou anuais.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Posso gerar relatórios de um único paciente?",
+    "resposta": "Sim. Ao selecionar o filtro 'Paciente', o sistema gera relatórios personalizados apenas para aquele paciente, reunindo histórico de atendimentos, faturas, créditos e perdas relacionadas.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Os relatórios incluem grupos terapêuticos?",
+    "resposta": "Sim. Assim como os pacientes individuais, os grupos terapêuticos também aparecem nos relatórios de atendimentos e financeiros, permitindo visão global das atividades coletivas.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Os relatórios podem ser usados para auditoria?",
+    "resposta": "Sim. O eConsult foi projetado com foco em transparência e rastreabilidade. Todos os relatórios podem ser utilizados para auditorias internas e externas, garantindo conformidade com normas éticas e contábeis.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Os relatórios respeitam a LGPD?",
+    "resposta": "Sim. Todos os relatórios são gerados com anonimização e controle de acesso. Informações sensíveis de pacientes só são exibidas ao profissional responsável pelo atendimento.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "Posso enviar relatórios por e-mail diretamente do eConsult?",
+    "resposta": "Sim. Após gerar o PDF, o sistema permite enviá-lo por e-mail de forma segura, sem necessidade de exportar manualmente o arquivo.",
+    "categoria": "Relatórios",
+    "public": true
+  },
+  {
+    "pergunta": "O eConsult guarda o histórico de relatórios gerados?",
+    "resposta": "Sim. Cada relatório gerado fica registrado no log de uso do sistema, permitindo rastrear data, tipo e autor da emissão para fins de auditoria e controle interno.",
+    "categoria": "Relatórios",
+    "public": true
   }
 ]

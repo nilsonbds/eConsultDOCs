@@ -1,8 +1,122 @@
 [
-    {
-    "pergunta": "",
-    "resposta": "",
-    "categoria": "",
-    "public": false
+  {
+    "pergunta": "O que é o Painel Conta no eConsult?",
+    "resposta": "O Painel Conta centraliza todas as informações pessoais e administrativas do profissional no eConsult. Nele é possível atualizar dados gerais, gerenciar assinaturas, endereços, foto de perfil, logotipo, assistentes e exportar ou restaurar dados da conta.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Como acessar o Painel Conta?",
+    "resposta": "No topo do sistema, clique sobre o botão com seu nome ou ícone de perfil e selecione a opção 'Conta'. O painel será aberto exibindo as abas: Dados Gerais, Assinatura, Endereços, Foto de Perfil, Logotipo, Assistentes e Exportar Dados.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Como alterar meus dados gerais?",
+    "resposta": "Acesse Conta > Dados Gerais. Atualize campos como nome, especialidade, registro profissional, cidade, e-mail e telefone. Após editar, clique em 'Salvar' para aplicar as alterações. É recomendável revisar os dados periodicamente.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Como alterar minha senha?",
+    "resposta": "Na aba Dados Gerais, preencha os campos 'Senha' e 'Repita a Senha' com a nova senha desejada e clique em 'Salvar'. Utilize senhas fortes, misturando letras, números e símbolos.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Posso atualizar meu e-mail cadastrado?",
+    "resposta": "Sim. O campo de e-mail está disponível na aba Dados Gerais. Ao alterar, o sistema enviará um aviso de confirmação ao novo endereço. É importante manter o e-mail atualizado, pois ele é usado para recuperação de senha e notificações.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Como gerenciar minha assinatura do eConsult?",
+    "resposta": "Acesse Conta > Assinatura. Lá você pode visualizar o tipo de plano atual (TRIAL, PRO, PLUS ou PREMIUM), alterar o plano, efetuar pagamento via PIX e acompanhar a validade da sua assinatura.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "O que é a assinatura TRIAL do eConsult?",
+    "resposta": "A assinatura TRIAL é um período gratuito de 30 dias que permite explorar todas as funcionalidades do eConsult sem precisar informar dados de pagamento. Após o término, é possível migrar para um plano pago mantendo os dados da conta.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Como alterar ou renovar meu plano de assinatura?",
+    "resposta": "Na aba Assinatura, clique em 'Alterar Plano' e escolha o novo plano desejado. Confirme a operação e efetue o pagamento via PIX. A mudança é aplicada automaticamente após a confirmação.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "O eConsult solicita dados de cartão de crédito?",
+    "resposta": "Não. Todos os pagamentos de planos pagos (PRO, PLUS e PREMIUM) são realizados exclusivamente via PIX no momento da aquisição, garantindo maior segurança e transparência.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Como cadastrar ou alterar meu endereço?",
+    "resposta": "Na aba Endereços, clique em 'Incluir Novo Endereço', preencha os campos solicitados e marque se será o endereço principal. Para editar um endereço, use o ícone de lápis; para excluir, o ícone de lixeira.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Posso cadastrar mais de um endereço?",
+    "resposta": "Sim. O eConsult permite cadastrar vários endereços, mas apenas o principal é utilizado em documentos e relatórios emitidos, como recibos e prontuários.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Como incluir minha foto de perfil?",
+    "resposta": "Na aba Foto de Perfil, clique em 'Escolher Arquivo', selecione uma imagem quadrada no formato JPG (até 60KB) e clique em 'Enviar'. O sistema exibirá a foto automaticamente após o upload.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Como adicionar o logotipo da minha clínica?",
+    "resposta": "Na aba Logotipo, clique em 'Escolher Arquivo', selecione uma imagem JPG de até 150KB e clique em 'Enviar'. O logotipo será aplicado automaticamente em relatórios e documentos gerados pelo sistema.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Como cadastrar assistentes para me ajudar na rotina clínica?",
+    "resposta": "Na aba Assistentes, clique em 'Novo Assistente', informe nome e e-mail, e defina as permissões desejadas. O assistente receberá um convite por e-mail e criará sua própria senha de acesso.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Quais planos permitem o uso de assistentes?",
+    "resposta": "A funcionalidade de assistentes está disponível apenas nos planos PLUS e PREMIUM. Planos FREE, TRIAL e PRO não incluem essa função.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Posso exportar todos os meus dados da conta?",
+    "resposta": "Sim. Na aba Dados Gerais, clique em 'Exportar Dados da Conta'. O sistema gerará um arquivo eConsultData.json contendo todas as informações do seu ambiente — incluindo pacientes, atendimentos e finanças — para backup seguro.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Como restaurar uma conta a partir de um backup?",
+    "resposta": "Na aba Dados Gerais, clique em 'Importar Dados da Conta', selecione o arquivo eConsultData.json exportado anteriormente, insira seu e-mail e senha e confirme. O sistema substituirá os dados atuais pelos do backup.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "Como excluir definitivamente minha conta?",
+    "resposta": "Na aba Dados Gerais, clique em 'Excluir Conta'. Para confirmar, insira seu e-mail e senha e clique em 'Confirmar Exclusão'. A operação é irreversível, portanto exporte seus dados antes de prosseguir.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "O que acontece ao excluir minha conta?",
+    "resposta": "A exclusão remove permanentemente todos os dados associados, incluindo informações pessoais, registros clínicos e financeiros. Essa operação não pode ser desfeita.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
+  },
+  {
+    "pergunta": "É possível restaurar minha conta após excluí-la?",
+    "resposta": "Não. Por motivos de segurança e LGPD, a exclusão é permanente. Apenas backups exportados antes da exclusão podem ser restaurados em uma nova conta.",
+    "categoria": "Contas, Perfil e Acessos",
+    "public": true
   }
 ]

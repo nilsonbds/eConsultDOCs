@@ -1,8 +1,122 @@
 [
-    {
-    "pergunta": "",
-    "resposta": "",
-    "categoria": "",
-    "public": false
+  {
+    "pergunta": "Como criar uma nova conta no eConsult?",
+    "resposta": "Para criar sua conta, acesse https://econsult.app.br/multidisciplinar, preencha nome e e-mail e clique em 'Criar minha conta'. Você receberá um código de acesso por e-mail para validar o cadastro e criar sua senha. O processo leva menos de dois minutos e oferece teste gratuito por 30 dias sem necessidade de cartão de crédito.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "É necessário cartão de crédito para criar a conta?",
+    "resposta": "Não. O eConsult oferece um período de teste gratuito de 30 dias sem exigir cartão de crédito ou qualquer dado financeiro.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "Como recebo o código de acesso para ativar minha conta?",
+    "resposta": "Após criar sua conta, o eConsult envia automaticamente um código de acesso para o e-mail informado. Caso não o receba, você pode clicar em 'Reenviar código' para gerar um novo código de forma instantânea.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "O que fazer se eu perder o e-mail com o código de acesso?",
+    "resposta": "Basta clicar em 'Reenviar código' na tela de verificação. Um novo código será enviado automaticamente para o e-mail cadastrado.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "Como criar uma senha segura para minha conta?",
+    "resposta": "Use uma combinação de letras maiúsculas e minúsculas, números e caracteres especiais. Evite senhas óbvias ou reutilizadas em outros sites.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "Como fazer login no eConsult?",
+    "resposta": "Acesse a página de login, insira o e-mail cadastrado e sua senha, e clique em 'Entrar'. Se os dados estiverem corretos, você será redirecionado para o Painel Inicial. Lembre-se de que os campos são sensíveis a maiúsculas e minúsculas.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "O que aparece após o primeiro login?",
+    "resposta": "Após o primeiro acesso, o eConsult abre o Painel Inicial, onde você verá alertas, pendências e atalhos rápidos para as principais funções, como Atendimentos, Pacientes, Finanças e Configurações.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o Painel Inicial?",
+    "resposta": "É a tela principal do eConsult. Ela exibe alertas de pendências, avisos importantes e atalhos diretos para painéis como Pacientes, Atendimentos, Financeiro e Configurações, otimizando seu fluxo de trabalho diário.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "O que são os alertas do Painel Inicial?",
+    "resposta": "Os alertas exibem informações prioritárias, como atendimentos agendados, confirmações pendentes e pagamentos em atraso. Eles facilitam o acompanhamento de tarefas críticas e ajudam a manter sua rotina organizada.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "O que é o Painel Alertas no eConsult?",
+    "resposta": "O Painel Alertas centraliza as pendências e tarefas que exigem atenção. Ele aparece automaticamente no Painel Inicial sempre que houver ações importantes a realizar.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "O que devo configurar primeiro ao começar a usar o eConsult?",
+    "resposta": "O sistema sugere automaticamente um checklist inicial com recomendações, como cadastrar Formas de Pagamento, revisar Modelos de Anamnese e configurar Tipos de Atendimento. Essas etapas garantem o uso completo da plataforma desde o início.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "O eConsult já vem configurado com informações padrão?",
+    "resposta": "Sim. O sistema já possui Grupos Etários, Formas de Pagamento e Modelos de Anamnese pré-cadastrados, facilitando sua adaptação e uso imediato.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "Onde encontro o checklist de primeiros passos?",
+    "resposta": "O checklist aparece automaticamente no Painel Inicial, dentro do PainelAlertas, sempre que houver configurações pendentes ou recomendações de uso.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "Como acessar as principais funcionalidades do sistema?",
+    "resposta": "Você pode acessar tudo pelo Menu Tarefas ou pelo Menu Principal. O Menu Tarefas fica no canto superior esquerdo (desktop) ou na parte inferior (mobile) e leva aos painéis de Atendimentos, Pacientes, Resultados, Alertas e mais.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "Qual a diferença entre o Menu Tarefas e o Menu Principal?",
+    "resposta": "O Menu Tarefas exibe atalhos rápidos para as áreas mais usadas no dia a dia, enquanto o Menu Principal organiza todas as seções do sistema, como Configurações, Resultados, Finanças e Relatórios, de forma estruturada.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "Posso acessar o eConsult pelo celular?",
+    "resposta": "Sim. O eConsult é responsivo e pode ser acessado por qualquer navegador moderno em dispositivos móveis. Basta entrar com seu login normalmente.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "O que fazer se esquecer a senha?",
+    "resposta": "Na tela de login, clique em 'Esqueci minha senha'. Você receberá um e-mail com instruções para redefini-la com segurança.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "Como acessar as configurações iniciais do sistema?",
+    "resposta": "No Painel Inicial, clique no atalho 'Configurações'. Lá você pode definir formas de pagamento, tipos de atendimento, integrações (como Google Drive e Mercado Pago) e preferências gerais.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "Preciso fazer alguma integração logo no início?",
+    "resposta": "Não é obrigatório, mas você pode desde o primeiro dia integrar o eConsult ao seu Google Drive, Mercado Pago, PIX ou servidor SMTP para otimizar suas operações clínicas e financeiras.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
+  },
+  {
+    "pergunta": "O que acontece após concluir o checklist inicial?",
+    "resposta": "Após completar as etapas sugeridas, o eConsult libera alertas e recomendações avançadas, ajudando você a explorar integrações, relatórios e funcionalidades adicionais.",
+    "categoria": "Iniciando (primeiros passos)",
+    "public": true
   }
 ]

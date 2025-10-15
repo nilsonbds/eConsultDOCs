@@ -1,8 +1,122 @@
 [
-    {
-    "pergunta": "",
-    "resposta": "",
-    "categoria": "",
-    "public": false
+  {
+    "pergunta": "O que é a Área do Paciente no eConsult?",
+    "resposta": "A Área do Paciente é um ambiente digital exclusivo para os pacientes dos profissionais que utilizam o eConsult. Através de um link individual e seguro, o paciente pode acompanhar seus dados pessoais, agendamentos, faturas, recibos e anotações clínicas compartilhadas, promovendo transparência e continuidade no cuidado.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "Como o paciente acessa sua Área do Paciente?",
+    "resposta": "O paciente recebe um link único e intransferível enviado pelo profissional, por e-mail ou WhatsApp. Esse link contém um token criptografado que garante segurança e identifica exclusivamente o paciente ou grupo terapêutico.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "O link da Área do Paciente é seguro?",
+    "resposta": "Sim. Cada link é gerado com um identificador único (token) e funciona apenas por HTTPS, garantindo criptografia de ponta a ponta. Nenhum dado sensível pode ser acessado sem o token válido e autorizado pelo profissional.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "O paciente precisa fazer login com senha para acessar a área?",
+    "resposta": "Não. O acesso é feito exclusivamente por meio do link seguro enviado pelo profissional, dispensando o uso de senha. Esse método reduz riscos de acesso indevido e mantém a navegação simples e intuitiva.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "Quais informações o paciente pode visualizar na sua área?",
+    "resposta": "Na Área do Paciente o paciente pode ver dados pessoais, endereços, atendimentos agendados, remarcações e desmarcações, faturas, créditos, perdas, prontuário compartilhado, recibos, notas fiscais e documentos enviados pelo profissional.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "O profissional pode escolher o que o paciente enxerga?",
+    "resposta": "Sim. Na aba 'Área do Paciente' do cadastro do paciente ou grupo terapêutico, o profissional pode ativar ou desativar o acesso a cada tipo de informação — como faturas, prontuário, documentos e dados pessoais.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "Como configurar os acessos da Área do Paciente?",
+    "resposta": "Acesse o cadastro do paciente, clique na aba 'Área do Paciente' e marque as opções que deseja liberar. Depois clique em 'Salvar'. O paciente só poderá acessar o que foi autorizado.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "Como enviar o link da Área do Paciente?",
+    "resposta": "No painel 'Pacientes e Grupos Terapêuticos', localize o card do paciente e clique no botão de envio via WhatsApp ou E-mail. O link será gerado automaticamente e enviado com segurança ao paciente.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "Posso enviar o link diretamente do cadastro do paciente?",
+    "resposta": "Sim. Na aba 'Área do Paciente', use os botões de envio disponíveis para encaminhar o link diretamente por WhatsApp ou E-mail. Você também pode clicar em 'Abrir Área do Paciente' para visualizar o ambiente antes de enviar.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "O mesmo link serve para grupos terapêuticos?",
+    "resposta": "Sim. Cada grupo terapêutico também possui um link próprio e seguro, permitindo que membros visualizem informações compartilhadas, como atendimentos, documentos e relatórios de grupo.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "O paciente pode alterar seus próprios dados?",
+    "resposta": "Sim, se o profissional autorizar. Quando a opção de edição estiver habilitada, o paciente poderá atualizar informações pessoais e endereços diretamente na sua área, mantendo os dados sempre atualizados.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "O paciente pode baixar recibos e documentos?",
+    "resposta": "Sim. O paciente pode fazer download de recibos, notas fiscais e documentos liberados pelo profissional, diretamente pela Área do Paciente, de forma segura e permanente.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "O que acontece se o paciente tentar acessar sem autorização?",
+    "resposta": "O sistema bloqueia automaticamente o acesso. Apenas pacientes com link autorizado e ativo conseguem visualizar suas informações. Isso impede o compartilhamento indevido de dados.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "Posso revogar o acesso de um paciente?",
+    "resposta": "Sim. Basta desmarcar todas as opções de acesso na aba 'Área do Paciente' e salvar. O link continuará existindo, mas o paciente verá uma mensagem informando que o acesso foi desativado pelo profissional.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "A Área do Paciente é compatível com dispositivos móveis?",
+    "resposta": "Sim. A Área do Paciente é totalmente responsiva, podendo ser acessada de qualquer dispositivo — computador, tablet ou celular — com a mesma segurança e facilidade de uso.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "O eConsult registra acessos à Área do Paciente?",
+    "resposta": "Sim. Todos os acessos são registrados com data, hora e origem. Esses logs podem ser auditados pelo profissional, reforçando a rastreabilidade e a segurança das informações.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "A Área do Paciente segue a LGPD?",
+    "resposta": "Sim. Todos os dados exibidos na Área do Paciente seguem as normas da LGPD, com controle de acesso definido pelo profissional e criptografia de ponta a ponta. Nenhuma informação é compartilhada com terceiros.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "O paciente pode responder mensagens ou enviar arquivos?",
+    "resposta": "Não. A Área do Paciente é apenas de consulta e download. A comunicação entre paciente e profissional ocorre por canais externos, como WhatsApp ou e-mail.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "O que fazer se o paciente perder o link de acesso?",
+    "resposta": "O profissional pode reenviar o link a qualquer momento, clicando nos botões de envio via WhatsApp ou E-mail na aba 'Área do Paciente'. O link é sempre o mesmo e permanece válido enquanto o acesso estiver ativo.",
+    "categoria": "Área do Paciente",
+    "public": true
+  },
+  {
+    "pergunta": "A Área do Paciente pode ser desativada totalmente no sistema?",
+    "resposta": "Sim. Caso o profissional prefira não utilizar o recurso, basta manter todas as permissões desmarcadas no cadastro de pacientes e grupos. Nenhum link será exibido ou enviado.",
+    "categoria": "Área do Paciente",
+    "public": true
   }
 ]
