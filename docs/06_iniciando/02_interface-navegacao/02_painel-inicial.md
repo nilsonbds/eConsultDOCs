@@ -39,7 +39,7 @@ Além dos alertas e informações, o Painel Inicial oferece ainda atalhos rápid
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-013.png) | Abre o [Painel Inadimplências](/docs/funcionalidades/inadimplencias/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-014.png) | Abre o [Painel Perdas (baixas contábeis)](/docs/funcionalidades/perdas-baixas-contabeis/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-015.png) | Abre o [Painel Perdas Recuperadas](/docs/funcionalidades/perdas-recuperadas/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-021.png) | Abre o [Painel Análise de Score](/docs/funcionalidades/analise-score/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-021.png) | Abre o [Painel Análise Inteligente de Engajamento](/docs/funcionalidades/analise-score/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-023.png) | Abre o [Painel Campanhas de Cashback](#) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-016.png) | Abre o [Painel Recibos](/docs/funcionalidades/recibos/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-022.png) | Abre o [Painel Notas Fiscais](#) |

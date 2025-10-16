@@ -1,139 +1,139 @@
 [
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "O que é o teleatendimento no eConsult?",
     "resposta": "É o recurso que permite ao psicólogo realizar atendimentos online diretamente pelo eConsult, utilizando a integração segura com a plataforma Daily.co, sem necessidade de instalar aplicativos externos.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "Qual plataforma o eConsult utiliza para teleatendimento?",
     "resposta": "O eConsult utiliza o Daily.co — uma plataforma moderna, estável e segura de videoconferência profissional, com criptografia ponta a ponta e compatibilidade com computadores, tablets e celulares.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "Preciso instalar algum aplicativo para usar o teleatendimento?",
     "resposta": "Não. Tanto o psicólogo quanto o paciente acessam a sala diretamente pelo navegador, sem necessidade de instalação ou criação de contas.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "Como o link de acesso é enviado ao paciente?",
     "resposta": "O eConsult gera automaticamente um link único e seguro para cada sessão, que pode ser enviado automaticamente por e-mail ou copiado manualmente pelo profissional para envio via WhatsApp ou outro meio.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "Posso fazer teleatendimentos pelo celular?",
     "resposta": "Sim. O eConsult e o Daily.co são totalmente compatíveis com navegadores móveis em Android e iOS, permitindo atendimento em qualquer lugar com conexão estável.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "O teleatendimento está disponível para qualquer tipo de sessão?",
     "resposta": "Não. A funcionalidade é exclusiva para atendimentos remotos. É necessário que o tipo de atendimento esteja configurado como 'Remoto' para que o botão de teleatendimento apareça.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "Como ativar o teleatendimento no eConsult?",
     "resposta": "Basta criar uma conta no Daily.co, copiar sua API Key no painel de desenvolvedores e configurá-la em 'Configurações > Integrações > Daily.co (Teleatendimento)'. Após salvar, as videochamadas podem ser iniciadas diretamente pelo eConsult.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "As sessões de teleatendimento são gravadas?",
     "resposta": "Não. O eConsult não grava nem transcreve sessões online. Essa decisão é ética e técnica, em conformidade com as normas do CFP, preservando o sigilo e a espontaneidade do encontro clínico.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "O teleatendimento cumpre as exigências éticas do CFP?",
     "resposta": "Sim. A integração respeita as resoluções do CFP sobre atendimento psicológico online, garantindo confidencialidade, registro responsável e ausência de armazenamento audiovisual.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "Como é garantida a segurança das chamadas?",
     "resposta": "As salas são criadas com links únicos e criptografia ponta a ponta (E2EE). Nenhum dado audiovisual é armazenado, e o controle da sessão é exclusivo do profissional.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "Qual a qualidade das chamadas no teleatendimento?",
     "resposta": "O Daily.co oferece áudio e vídeo de alta qualidade, com estabilidade de conexão e desempenho otimizado mesmo em redes domésticas, garantindo uma experiência fluida para ambas as partes.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "Há limites de uso no teleatendimento?",
     "resposta": "O plano gratuito do Daily.co inclui 10.000 minutos mensais — o equivalente a cerca de 5 sessões de uma hora por dia útil. Se necessário, o profissional pode contratar planos adicionais diretamente na plataforma.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "O eConsult armazena as gravações ou áudios das sessões?",
     "resposta": "Não. Nenhum áudio, vídeo ou transcrição é armazenado pelo eConsult ou pela integração com o Daily.co. Apenas metadados essenciais (data, hora e responsável) são mantidos para registro clínico.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "O que fazer se o paciente não conseguir acessar o link?",
     "resposta": "Verifique se o link foi corretamente enviado e se o paciente está usando um navegador compatível (Chrome, Edge ou Safari). Caso o problema persista, gere um novo link pelo botão 'Copiar link' no eConsult.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "Posso utilizar o teleatendimento com minha própria conta Daily.co?",
     "resposta": "Sim. O eConsult permite que o psicólogo integre sua conta pessoal do Daily.co, garantindo autonomia e controle sobre o uso e custos dos minutos de videoconferência.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "O paciente precisa criar conta para participar da sessão?",
     "resposta": "Não. O acesso é feito com um link direto e único, sem necessidade de login, cadastro ou instalação de aplicativo.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "É permitido transcrever ou registrar a fala do paciente?",
     "resposta": "O eConsult não grava nem transcreve atendimentos. A plataforma Daily.co, utilizada para o teleatendimento, possui recursos opcionais de gravação e transcrição, mas o eConsult **não os recomenda**. Segundo o CFP, gravar ou transcrever sessões sem consentimento expresso do paciente é **vedado** e pode comprometer o sigilo profissional.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "O teleatendimento pode ser usado para grupos terapêuticos?",
     "resposta": "Sim. O teleatendimento do eConsult pode ser utilizado para sessões em grupo, desde que todos os participantes recebam o link seguro da sala criada pelo Daily.co. No entanto, a conta gratuita da Daily.co possui limitações de minutos e número de participantes, sendo recomendado verificar os planos de assinatura caso realize atendimentos coletivos com frequência.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "Posso personalizar a sala de teleatendimento?",
     "resposta": "Não no momento. As salas são geradas automaticamente pelo eConsult com base na integração padrão do Daily.co, garantindo simplicidade e segurança. Futuras atualizações poderão oferecer opções de personalização.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "O eConsult oferece suporte em caso de instabilidade nas chamadas?",
     "resposta": "Sim. O suporte do eConsult auxilia na verificação de integração e configuração. Problemas específicos da conexão do Daily.co devem ser resolvidos diretamente com o suporte da plataforma.",
     "categoria": "Teleatendimento",

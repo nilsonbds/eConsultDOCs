@@ -127,7 +127,7 @@ const FeatureList = [
   },
   {
     link: '/docs/funcionalidades/analise-score/visao',
-    title: 'Análise de score dos pacientes',
+    title: 'Análise Inteligente de Engajamento dos pacientes',
     icon: <TbDashboard />,
     description: (
       <>Visualize o comportamento dos pacientes com base em dados históricos e monitore o nível de engajamento para orientar ações mais assertivas e personalizadas.</>

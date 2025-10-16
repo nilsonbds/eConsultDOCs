@@ -1,107 +1,125 @@
 [
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "O que são as campanhas de cashback no eConsult?",
         "resposta": "São ações promocionais criadas pelo psicólogo para estimular a fidelização e o engajamento dos pacientes. O cashback devolve ao paciente um valor fixo ou percentual do total gasto em atendimentos dentro de um período definido, geralmente mensal.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "Qual o objetivo das campanhas de cashback?",
         "resposta": "As campanhas têm como objetivo reforçar o vínculo entre psicólogo e paciente, incentivar retornos recorrentes e premiar o engajamento. Elas funcionam como uma estratégia de fidelização e valorização do paciente.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "Como criar uma campanha de cashback?",
         "resposta": "No painel 'Campanhas de Cashback', clique em 'Incluir Campanha'. Em seguida, defina nome, período de validade, periodicidade, valor do cashback (fixo ou percentual), requisitos mínimos e exceções. Após configurar, clique em 'Salvar' para ativar.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "Como o cashback é calculado?",
         "resposta": "O valor é calculado conforme as regras definidas na campanha — pode ser um valor fixo em reais ou um percentual sobre o total pago em atendimentos durante o período de apuração.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "Quando o cashback é processado?",
         "resposta": "As campanhas são processadas automaticamente no primeiro dia de cada mês. O sistema verifica os pacientes elegíveis e aplica os créditos conforme os critérios definidos. É possível também forçar o processamento manualmente na primeira execução.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "Posso definir critérios específicos para conceder cashback?",
         "resposta": "Sim. Você pode definir critérios como tempo de cadastro, pontuação do paciente (estrelas), número mínimo de atendimentos, valor gasto, presença, desmarcações e remarcações. Isso permite segmentar e personalizar a campanha conforme o perfil da clientela.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "O que é o score de paciente (estrelas)?",
         "resposta": "É uma métrica automática do eConsult que avalia o comportamento do paciente em valor, frequência e engajamento. Vai de ★ (crítico) a ★★★★★ (excelente) e pode ser usada como critério de elegibilidade para cashback.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "O paciente recebe o cashback automaticamente?",
         "resposta": "Sim. O sistema identifica automaticamente os pacientes elegíveis no momento do processamento e credita o valor do cashback para uso em atendimentos futuros.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "Posso simular os resultados de uma campanha antes de aplicar?",
         "resposta": "Sim. O eConsult permite rodar simulações de campanha sem efetivar os cashbacks. Assim, você pode visualizar quem seria elegível e estimar os valores antes de confirmar a execução.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "É possível excluir ou alterar uma campanha?",
         "resposta": "Sim. Basta clicar no botão de edição ou exclusão no card da campanha. Atenção: o sistema não permite campanhas com períodos sobrepostos, evitando duplicidade de apuração.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "O que acontece se eu deixar a data final da campanha em branco?",
         "resposta": "A campanha permanecerá ativa indefinidamente e continuará sendo processada nos meses seguintes, até que seja desativada manualmente.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "Posso restringir pacientes específicos de receber cashback?",
         "resposta": "Sim. Na aba 'Exceções', você pode selecionar pacientes que não participarão da campanha, mesmo que cumpram os demais critérios.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "O cashback pode ser fixo ou percentual?",
         "resposta": "Sim. Você pode escolher entre conceder um valor fixo (em reais) ou um percentual sobre o valor total gasto em atendimentos dentro do período de apuração.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "Posso ter várias campanhas de cashback ativas ao mesmo tempo?",
         "resposta": "Não. O sistema impede campanhas com períodos sobrepostos para evitar duplicidade de apuração e inconsistências nos créditos concedidos.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "Os pacientes são avisados quando recebem cashback?",
         "resposta": "Sim. Após o processamento, o crédito aparece vinculado ao cadastro do paciente e pode ser visualizado pelo profissional. O psicólogo pode optar por comunicar o benefício de forma personalizada.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "Posso acompanhar o desempenho das campanhas?",
         "resposta": "Sim. O eConsult exibe as datas do último e do próximo processamento, além de relatórios com os resultados de cada apuração, incluindo valores concedidos e pacientes contemplados.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "O cashback é descontado automaticamente nos próximos atendimentos?",
         "resposta": "Não automaticamente. O valor concedido fica disponível como crédito no cadastro do paciente e pode ser utilizado em atendimentos futuros, mas a decisão de aplicar o cashback em um pagamento é do psicólogo, que controla quando e como o crédito será usado.",
         "categoria": "Campanhas de Cashback",
         "public": true
     },
     {
+        "more_details_url": "/docs/funcionalidades/campanha-cashback/visao",
         "pergunta": "Qual a principal vantagem de usar campanhas de cashback no eConsult?",
         "resposta": "O cashback é uma ferramenta de fidelização inteligente: incentiva o retorno do paciente, aumenta a taxa de recompra e cria uma percepção positiva de valorização e reconhecimento pelo acompanhamento contínuo.",
         "categoria": "Campanhas de Cashback",

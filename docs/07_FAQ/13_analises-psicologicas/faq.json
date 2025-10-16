@@ -1,139 +1,132 @@
 [
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "O que são as análises e escalas psicológicas no eConsult?",
     "resposta": "São instrumentos psicométricos validados e de uso livre integrados ao prontuário do paciente, permitindo aplicação digital, pontuação automática e geração de relatórios interpretativos imediatos. Eles apoiam a triagem, acompanhamento e tomada de decisão clínica de forma ética e embasada.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/analises-psicologicas",
     "pergunta": "Quem pode aplicar avaliações psicológicas no eConsult?",
     "resposta": "Apenas psicólogos com registro ativo no Conselho Regional de Psicologia (CRP). O sistema valida o registro do profissional, garantindo que apenas usuários autorizados possam aplicar e interpretar as escalas.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "As avaliações são compatíveis com as normas do CFP?",
     "resposta": "Sim. O eConsult segue integralmente as normas do Conselho Federal de Psicologia, limitando o uso das avaliações a profissionais habilitados, com controle de acesso e registro de responsabilidade técnica.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "Os resultados das escalas podem ser vistos pelo paciente?",
     "resposta": "Não diretamente. Os resultados ficam disponíveis apenas ao psicólogo responsável. Caso o profissional deseje, pode compartilhar interpretações revisadas e validadas, garantindo sigilo e controle ético das informações.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "As análises substituem um diagnóstico clínico?",
     "resposta": "Não. As escalas têm caráter de triagem e apoio clínico. Elas não substituem instrumentos padronizados para diagnóstico nem a avaliação profissional, servindo como indicadores auxiliares dentro do processo terapêutico.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "Os resultados são calculados automaticamente?",
     "resposta": "Sim. Após a aplicação, o eConsult calcula automaticamente a pontuação e gera um relatório interpretativo com base nas referências científicas de cada instrumento, reduzindo erros e economizando tempo.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "O eConsult possui escalas validadas cientificamente?",
     "resposta": "Sim. O sistema reúne um portfólio de escalas validadas de domínio público, como PHQ-9, GAD-7, SRQ-20, WHO-5, CBI, BFI-44, FFMQ, SPANE, entre outras, todas com bibliografia e critérios técnicos reconhecidos.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "As escalas são de uso livre ou precisam de licença?",
     "resposta": "O eConsult utiliza exclusivamente instrumentos de uso livre ou domínio público, evitando riscos éticos e legais relacionados a direitos autorais e garantindo conformidade com a legislação vigente.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/analises-psicologicas",
     "pergunta": "Como as avaliações são integradas ao prontuário?",
     "resposta": "Cada aplicação é automaticamente vinculada ao prontuário do paciente, com data, responsável, pontuação e relatório. Isso garante rastreabilidade e histórico longitudinal para acompanhamento clínico.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/analises-psicologicas",
     "pergunta": "É possível acompanhar a evolução do paciente pelas escalas?",
     "resposta": "Sim. O eConsult organiza os resultados por paciente ou grupo terapêutico, permitindo comparar pontuações, visualizar gráficos de evolução e gerar relatórios periódicos de progresso clínico.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "O sistema protege os dados das avaliações?",
     "resposta": "Sim. Todos os dados são criptografados, armazenados com segurança e acessíveis apenas ao psicólogo responsável. O sistema segue as diretrizes da LGPD e as boas práticas de proteção de dados sensíveis.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "Há relatórios automáticos de interpretação?",
     "resposta": "Sim. Cada escala conta com algoritmos de pontuação e interpretação baseados em suas publicações originais. O relatório é gerado automaticamente no prontuário, pronto para revisão e validação pelo psicólogo.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/analises-psicologicas",
     "pergunta": "Posso aplicar escalas em grupo terapêutico?",
     "resposta": "Não. As escalas psicológicas no eConsult são aplicáveis apenas a indivíduos, pois cada instrumento é validado para uso individual. Em contextos de grupo terapêutico, o psicólogo pode acompanhar resultados individuais dos participantes, mas a aplicação e interpretação permanecem sempre em nível individual.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
-    "pergunta": "O eConsult emite relatórios de desempenho clínico com base nas escalas?",
-    "resposta": "Sim. Os resultados das escalas alimentam os painéis de desempenho clínico e indicadores de evolução, permitindo análises integradas entre dados de atendimento e resultados psicométricos.",
-    "categoria": "Análises e Escalas Psicológicas",
-    "public": true
-  },
-  {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "As escalas podem ser personalizadas ou criadas pelo psicólogo?",
-    "resposta": "Ainda não. Atualmente o eConsult trabalha apenas com instrumentos validados e de domínio público. Futuramente haverá um módulo de criação de formulários clínicos personalizados sem caráter psicométrico.",
+    "resposta": "Não. O eConsult trabalha apenas com instrumentos validados e de domínio público.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/atendimentos/analises-psicologicas",
     "pergunta": "As escalas podem ser reaplicadas para acompanhamento?",
     "resposta": "Sim. O eConsult permite reaplicações periódicas das mesmas escalas, comparando os resultados para monitorar a evolução clínica do paciente ou de grupos ao longo do tratamento.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "Há escalas específicas para diferentes faixas etárias?",
     "resposta": "Sim. O eConsult inclui instrumentos voltados a diferentes públicos — como SDQ, PSC-17 e M-CHAT para crianças, CES-DC para adolescentes e BDI-II, PHQ-9 e GAD-7 para adultos.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "Como o eConsult garante a validade científica das análises?",
     "resposta": "Cada instrumento incluído passa por revisão técnica e contém referência bibliográfica, método de pontuação e interpretação baseados em estudos validados e publicados.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "As escalas podem ser usadas para pesquisas?",
     "resposta": "Podem auxiliar em contextos de pesquisa clínica e científica, desde que o uso esteja dentro das diretrizes éticas e metodológicas vigentes. O eConsult não substitui plataformas de coleta acadêmica.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "Quais são os principais diferenciais das escalas no eConsult?",
     "resposta": "Aplicação digital, automação de pontuação e interpretação, portfólio amplo e validado, integração total ao prontuário e conformidade com CFP e LGPD. Esses fatores tornam o eConsult uma solução única e ética no mercado.",
     "categoria": "Análises e Escalas Psicológicas",

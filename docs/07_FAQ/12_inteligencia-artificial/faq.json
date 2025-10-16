@@ -105,65 +105,65 @@
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/analise-score/visao",
     "pergunta": "O que é a Análise Inteligente de Engajamento?",
     "resposta": "É um recurso que monitora frequência, pagamentos e interações para calcular um score de engajamento, identificando pacientes em risco de abandono ou declínio de participação.",
     "categoria": "Análise de Engajamento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/analise-score/visao",
     "pergunta": "Como o score de engajamento é calculado?",
     "resposta": "A IA avalia dados históricos de comparecimento, regularidade de pagamentos e tempo entre sessões, gerando uma pontuação que classifica pacientes como estáveis, em declínio ou em risco.",
     "categoria": "Análise de Engajamento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/analise-score/visao",
     "pergunta": "O que o painel de score mostra?",
     "resposta": "Mostra níveis de engajamento, tendências e recomendações visuais para reengajamento. Ele apoia o psicólogo tanto clinicamente quanto administrativamente.",
     "categoria": "Análise de Engajamento",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/inteligencia-artificial",
     "pergunta": "O que são tokens e por que eles são mostrados no eConsult?",
     "resposta": "Tokens são unidades de texto utilizadas pela IA da OpenAI para processar e gerar respostas. Embora o eConsult não limite o uso por tokens, o sistema exibe o consumo apenas para fins informativos — especialmente quando o profissional utiliza sua própria conta da OpenAI, na qual o custo é calculado com base em tokens.",
     "categoria": "Limites e Consumo",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/inteligencia-artificial",
     "pergunta": "O eConsult tem limite de uso da IA?",
     "resposta": "Sim. O eConsult estabelece limites mensais de análises de IA conforme o plano contratado — como número de anotações assistidas, hipóteses diagnósticas, análises mensais e anuais, entre outros. Esses limites não estão relacionados a tokens, mas sim à quantidade de operações realizadas.",
     "categoria": "Limites e Consumo",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/inteligencia-artificial",
     "pergunta": "O que acontece ao atingir o limite de análises mensais da IA?",
     "resposta": "Ao atingir o limite de análises do seu plano, as funções de IA específicas são pausadas até a renovação mensal automática. O uso pode continuar normalmente se o profissional optar por integrar sua conta pessoal da OpenAI.",
     "categoria": "Limites e Consumo",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/openai",
     "pergunta": "Posso usar minha conta da OpenAI no eConsult?",
     "resposta": "Sim. O profissional pode integrar sua própria chave de API da OpenAI, removendo os limites de uso da IA no eConsult. Nesse caso, os custos passam a ser cobrados diretamente pela OpenAI, conforme o volume de tokens utilizados, e o eConsult exibe o consumo apenas para acompanhamento.",
     "categoria": "Integração OpenAI",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/openai",
     "pergunta": "Como configurar a integração com a OpenAI?",
     "resposta": "Crie uma conta na OpenAI, gere uma API Key e insira em **Configurações → Integrações → ChatGPT (OpenAI)**. O eConsult passará a usar sua conta pessoal.",
     "categoria": "Integração OpenAI",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/resultados",
     "pergunta": "A IA pode ser usada para gerar relatórios mensais e anuais?",
-    "resposta": "Sim. A IA analisa automaticamente dados financeiros e clínicos, produzindo relatórios descritivos com insights e recomendações.",
+    "resposta": "Sim. A IA analisa automaticamente dados financeiros e clínicos, produzindo relatórios descritivos com insights e recomendações. A análise mensal pode ser feita no painel 'Resultados' na aba 'Indicadores'. Já a análise anual na aba 'Análise Anual'.",
     "categoria": "Relatórios e Insights",
     "public": true
   },
@@ -175,35 +175,28 @@
     "public": true
   },
   {
-    "more_details_url": null,
-    "pergunta": "A IA pode gerar textos automaticamente para relatórios?",
-    "resposta": "Sim. Ela pode sintetizar dados e gerar textos descritivos ou interpretativos com base nos registros existentes, sempre sob revisão do profissional.",
-    "categoria": "Relatórios e Insights",
-    "public": true
-  },
-  {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/openai",
     "pergunta": "A IA do eConsult é a mesma usada em outros sistemas?",
     "resposta": "Não. A IA do eConsult foi treinada e calibrada especificamente para práticas clínicas e gestão de consultórios, com foco em ética, clareza e aplicabilidade profissional.",
     "categoria": "Diferenciais da IA",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/openai",
     "pergunta": "Como a IA do eConsult se diferencia de IAs genéricas?",
     "resposta": "Ela entende o contexto clínico, gera sugestões baseadas em registros reais e oferece integração direta com prontuário e relatórios — algo que outras IAs não fazem.",
     "categoria": "Diferenciais da IA",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/openai",
     "pergunta": "A IA interfere na escrita técnica do profissional?",
     "resposta": "Não. Ela aprimora clareza e estrutura, mas nunca altera termos técnicos, diagnósticos ou conceitos clínicos de forma autônoma.",
     "categoria": "Anotações Clínicas",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/openai",
     "pergunta": "A IA pode ajudar a criar evoluções terapêuticas?",
     "resposta": "Sim. Com base nas anotações anteriores, a IA sugere resumos e diretrizes de evolução, economizando tempo e mantendo coerência nos registros.",
     "categoria": "Prontuário e Hipóteses",
@@ -238,14 +231,14 @@
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/resultados",
     "pergunta": "A IA pode ser usada para fins administrativos?",
-    "resposta": "Sim. Além de apoio clínico, ela pode gerar resumos de desempenho mensal e anual.",
+    "resposta": "Sim. Além de apoio clínico, ela pode gerar resumos de desempenho mensal e anual. A análise mensal pode ser feita no painel 'Resultados' na aba 'Indicadores'. Já a análise anual na aba 'Análise Anual'.",
     "categoria": "Relatórios e Insights",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/diferenciais/inteligencia-artificial",
     "pergunta": "O eConsult monitora o uso de IA dos profissionais?",
     "resposta": "Sim, apenas para controle de consumo e desempenho técnico. O conteúdo clínico processado pela IA nunca é armazenado nem analisado por terceiros.",
     "categoria": "Segurança e LGPD",

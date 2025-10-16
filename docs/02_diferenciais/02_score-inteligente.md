@@ -44,7 +44,7 @@ Essas informações possibilitam ações estratégicas, como:
 
 ## Visualização no Painel de Resultados
 
-Na seção **“Análise de Score”**, gráficos e indicadores apresentam de forma clara:
+Na seção **“Análise Inteligente de Engajamento”**, gráficos e indicadores apresentam de forma clara:
 
 - Padrões de comportamento.  
 - Tendências relevantes para o consultório.  
@@ -54,7 +54,7 @@ Na seção **“Análise de Score”**, gráficos e indicadores apresentam de fo
 
 ## Valor Clínico e Administrativo
 
-A Análise de Score contribui diretamente para:
+A Análise Inteligente de Engajamento contribui diretamente para:
 
 - Controle otimizado da **frequência de pacientes**.  
 - Apoio em **ações de fidelização e continuidade de tratamento**.  
@@ -64,7 +64,7 @@ A Análise de Score contribui diretamente para:
 
 ## Combinando com Outros Recursos do eConsult
 
-Combinada a módulos como **agenda, prontuário e gestão financeira**, a Análise de Score transforma o eConsult em um verdadeiro **hub estratégico**, unindo:
+Combinada a módulos como **agenda, prontuário e gestão financeira**, a Análise Inteligente de Engajamento transforma o eConsult em um verdadeiro **hub estratégico**, unindo:
 
 - Gestão clínica.  
 - Organização administrativa.  
@@ -72,7 +72,7 @@ Combinada a módulos como **agenda, prontuário e gestão financeira**, a Análi
 
 ---
 
-## Por que a funcionlidade de Análise de Score do eConsult é única no mercado?
+## Por que a funcionlidade de Análise Inteligente de Engajamento do eConsult é única no mercado?
 
 1. **Gestão de Engajamento Clínico**
 - Diferente da maioria dos sistemas, não se limita a agendamento ou prontuário.  

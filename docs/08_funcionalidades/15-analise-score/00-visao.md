@@ -2,29 +2,29 @@
 sidebar_position: 0
 ---
 
-# Sobre Análise de Score
+# Sobre Análise Inteligente de Engajamento
 
-O painel **Análise de Score** exibe a pontuação e o comportamento dos pacientes com base em dados históricos de relacionamento. As informações são organizadas por período e segmentadas em categorias para facilitar a tomada de decisões estratégicas.
+O painel **Análise Inteligente de Engajamento** exibe a pontuação e o comportamento dos pacientes com base em dados históricos de relacionamento. As informações são organizadas por período e segmentadas em categorias para facilitar a tomada de decisões estratégicas.
 
 A ferramenta avalia o desempenho dos pacientes com base em três dimensões principais: **Global, Ano e Mês**. Cada dimensão fornece uma visão específica da relação do paciente com o seu negócio, considerando histórico, comportamento recente e engajamento atual.
 
 Essas informações são acompanhadas por indicadores que facilitam a análise do **valor gerado**, da **frequência de interações** e do **custo de manutenção de cada paciente**.
 
-![Análise de Score](../../../static/img/prints/analisescore/001.png)
+![Análise Inteligente de Engajamento](../../../static/img/prints/analisescore/001.png)
 
 ## Seletor de Período
 
-![Análise de Score](../../../static/img/prints/analisescore/002.png)
+![Análise Inteligente de Engajamento](../../../static/img/prints/analisescore/002.png)
 
 - Exibe o mês atual da análise.
-- Setas permitem navegar para meses anteriores ![Análise de Score](../../../static/img/prints/buttons/btn_after.png) ou futuros ![Análise de Score](../../../static/img/prints/buttons/btn_before.png).
+- Setas permitem navegar para meses anteriores ![Análise Inteligente de Engajamento](../../../static/img/prints/buttons/btn_after.png) ou futuros ![Análise Inteligente de Engajamento](../../../static/img/prints/buttons/btn_before.png).
 - Botão de check  aplica o mês selecionado.
 
 ## Filtros por tipo de Classificação ou Nome do Paciente
 
 Esta seção permite ao usuário **filtrar a exibição de pacientes** com base em sua **classificação comportamental** ou localizar um paciente específico pelo **nome**.
 
-![Análise de Score](../../../static/img/prints/analisescore/003.png)
+![Análise Inteligente de Engajamento](../../../static/img/prints/analisescore/003.png)
 
 Os números entre parênteses indicam a **quantidades de pacientes** em cada classificação.
 
@@ -42,7 +42,7 @@ Você pode ainda filtrar por nome de paciente, para isso basta preencher o campo
 
 ## *Card* de Score
 
-![Análise de Score](../../../static/img/prints/analisescore/004.png)
+![Análise Inteligente de Engajamento](../../../static/img/prints/analisescore/004.png)
 
 O *card* de score é composto pelos seguintes elementos:
 
@@ -54,7 +54,7 @@ O *card* de score é composto pelos seguintes elementos:
 
 O Score do Paciente é apresentado por meio de três seções principais, que representam diferentes recortes de tempo:
 
-![Análise de Score](../../../static/img/prints/analisescore/005.png)
+![Análise Inteligente de Engajamento](../../../static/img/prints/analisescore/005.png)
 
 - **GLOBAL**: Considera todo o histórico do paciente desde o início do relacionamento com a sua organização.
 - **ANO**: Refere-se aos dados acumulados no ano corrente.
@@ -77,7 +77,7 @@ Cada uma dessas seções exibe um conjunto de indicadores que refletem o desempe
 - **CLC (Customer Lifetime Cost)**: custo total no período relacionado à manutenção do paciente.
 
 :::tip
-    Ao clicar sobre o botão ![Análise de Score](../../../static/img/prints/buttons/btn_info.png), o sistema abre a tela "Gráficos e Indicadores", cujo conteúdo é similar ao apresentado na tela de [Cadastro de paciente / Aba Resultados](/docs/funcionalidades/clientes-grupos/cadastro/aba-resultados).
+    Ao clicar sobre o botão ![Análise Inteligente de Engajamento](../../../static/img/prints/buttons/btn_info.png), o sistema abre a tela "Gráficos e Indicadores", cujo conteúdo é similar ao apresentado na tela de [Cadastro de paciente / Aba Resultados](/docs/funcionalidades/clientes-grupos/cadastro/aba-resultados).
 
-    ![Análise de Score](../../../static/img/prints/analisescore/006.png)
+    ![Análise Inteligente de Engajamento](../../../static/img/prints/analisescore/006.png)
 :::

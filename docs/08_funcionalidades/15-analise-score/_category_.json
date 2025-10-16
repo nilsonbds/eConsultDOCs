@@ -1,9 +1,9 @@
 {
-  "label": "Análise de Score",
+  "label": "Análise Inteligente de Engajamento",
   "position": 15,
   "link": {
     "slug": "/analise-score",
     "type": "generated-index",
-    "description": "O painel Análise de Score mostra a pontuação e o comportamento dos pacientes em três níveis — Global, Ano e Mês — com base no histórico e engajamento, para apoiar decisões estratégicas."
+    "description": "O painel Análise Inteligente de Engajamento mostra a pontuação e o comportamento dos pacientes em três níveis — Global, Ano e Mês — com base no histórico e engajamento, para apoiar decisões estratégicas."
   }
 }
