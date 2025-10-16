@@ -7,70 +7,63 @@
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/recibos/visao",
     "pergunta": "Como emitir um recibo no eConsult?",
     "resposta": "No painel 'Recibos', clique no botão de impressão do atendimento desejado. O sistema abrirá a tela de informações do recibo e, em seguida, basta clicar em 'Gerar PDF' para salvar ou imprimir o documento. É necessário ter um logotipo cadastrado para gerar o recibo corretamente.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/recibos/visao",
     "pergunta": "Posso cancelar um recibo emitido?",
     "resposta": "Sim. Você pode cancelar o recibo clicando na opção 'Cancelamento' disponível no card do documento. O status será atualizado automaticamente, e o cancelamento é irreversível.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/notas-fiscais/visao",
     "pergunta": "Como emitir uma nota fiscal pelo eConsult?",
     "resposta": "No painel 'Notas Fiscais', clique em 'Incluir Nota Fiscal', selecione o paciente e as faturas correspondentes. Depois, escolha entre cadastrar manualmente os dados da nota ou emitir automaticamente pela integração com a Focus NFe.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/focusnfe",
     "pergunta": "O que é a integração com a Focus NFe?",
     "resposta": "É uma integração disponível nos planos PREMIUM do eConsult que permite emitir notas fiscais de serviço automaticamente, sem precisar acessar outras plataformas. A comunicação é segura e segue as regras fiscais vigentes, com cálculo automático de impostos e armazenamento dos dados no eConsult.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/focusnfe",
     "pergunta": "Como configurar a integração com a Focus NFe?",
     "resposta": "No menu 'Configurações > Integrações > Focus NFe', preencha os dados fiscais da sua empresa (CNPJ, inscrição municipal, alíquota de ISS, códigos de serviço e tributário) e insira o token de autenticação da sua conta Focus NFe. Também é possível configurar o Webhook para comunicação automática entre as plataformas.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/notas-fiscais/visao",
     "pergunta": "Posso emitir notas fiscais manualmente?",
     "resposta": "Sim. Se preferir não utilizar a integração com a Focus NFe, você pode cadastrar manualmente os dados da nota fiscal emitida por outro sistema, mantendo o controle centralizado no eConsult.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
-    "more_details_url": null,
-    "pergunta": "O eConsult calcula automaticamente os impostos das notas?",
-    "resposta": "Sim. Quando a integração com a Focus NFe está ativa, o sistema aplica automaticamente os parâmetros fiscais configurados, incluindo o cálculo de ISS, retenções e códigos de serviço conforme as regras municipais.",
-    "categoria": "Recibos e Notas Fiscais",
-    "public": true
-  },
-  {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/notas-fiscais/visao",
     "pergunta": "Como verificar o status das notas fiscais emitidas?",
     "resposta": "Cada nota é exibida em formato de card com o status atualizado (emitida, cancelada, com erro, etc.). O sistema também mostra se a emissão foi manual ou via Focus NFe e, em caso de erro, apresenta a mensagem explicando o motivo da falha.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/notas-fiscais/visao",
     "pergunta": "É possível cancelar ou excluir uma nota fiscal?",
     "resposta": "Sim. No card da nota fiscal, utilize os botões 'Cancelar' ou 'Excluir'. Ambas as ações são irreversíveis, por isso devem ser usadas com atenção. Caso a nota tenha sido emitida pela Focus NFe, o cancelamento seguirá as regras fiscais vigentes do município.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/focusnfe",
     "pergunta": "O que é o Webhook da Focus NFe?",
     "resposta": "É um recurso que permite ao eConsult receber automaticamente notificações da Focus NFe sobre o status das notas emitidas. Com isso, o sistema atualiza o painel de notas em tempo real, sem necessidade de checagem manual.",
     "categoria": "Recibos e Notas Fiscais",
@@ -91,7 +84,7 @@
     "public": true
   },
   {
-    "more_details_url": null,
+    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/focusnfe",
     "pergunta": "Como a integração com a Focus NFe beneficia o psicólogo?",
     "resposta": "Ela economiza tempo, reduz erros de digitação e centraliza toda a gestão fiscal dentro do eConsult. As notas ficam registradas automaticamente, facilitando a contabilidade e evitando retrabalho.",
     "categoria": "Recibos e Notas Fiscais",
