@@ -138,7 +138,50 @@ export default function Comments({ postId }) {
         setEmail(token ? JSON.parse(atob(token.split(".")[1])).email : "");
     }, [token]);
 
-    return (
+    return (<>
+        <hr />
+        <div style={{ display: "flex", justifyContent: "center" }}>
+            <div style={{ textAlign: "center", width: "70%" }}>
+                <p id="cta-econsult-title" style={{
+                    fontSize: "1.5rem",
+                    lineHeight: "1.5rem",
+                    marginBottom: "20px"
+                }}>
+                    Crie sua conta no eConsult e transforme sua rotina clínica!
+                </p>
+                <a
+                    href="https://econsult.app.br/multidisciplinar"
+                    target="_blank"
+                    role="button"
+                    aria-label="Criar conta grátis no eConsult"
+                    style={{
+                        display: "inline-block",
+                        backgroundColor: "darkcyan",
+                        color: "white",
+                        fontWeight: "700",
+                        textDecoration: "none",
+                        padding: "12px 24px",
+                        borderRadius: "999px",
+                        fontSize: "18px",
+                        boxShadow: "0 6px 16px rgba(0,0,0,0.15)",
+                        transition: "all 0.2s ease",
+                        width: "100%",
+                        textAlign: "center"
+                    }}
+                    onMouseEnter={(e) => {
+                        e.currentTarget.style.transform = "translateY(-2px)";
+                        e.currentTarget.style.boxShadow = "0 10px 20px rgba(0,0,0,0.18)";
+                    }}
+                    onMouseLeave={(e) => {
+                        e.currentTarget.style.transform = "translateY(0)";
+                        e.currentTarget.style.boxShadow = "0 6px 16px rgba(0,0,0,0.15)";
+                    }}
+                >
+                    Criar conta grátis
+                </a>
+            </div>
+        </div>
+        <hr />
         <div style={{ marginTop: "2rem" }}>
             <h3>Comentários</h3>
             <div className="container">
@@ -220,7 +263,7 @@ export default function Comments({ postId }) {
                             }}
                         >
                             Enviar
-                        </button>                        
+                        </button>
                         {error && (
                             <div style={{ color: "red", fontSize: "0.9rem", marginTop: "5px" }}>
                                 {error}
@@ -315,5 +358,6 @@ export default function Comments({ postId }) {
                 }
             </div>
         </div>
+    </>
     );
 }
