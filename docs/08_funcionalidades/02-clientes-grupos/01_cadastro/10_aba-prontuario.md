@@ -108,7 +108,18 @@ O prontuário é criado com base em um Modelo de Anamnese previamente cadastrado
 
     ![Prontuário](../../../../static/img/prints/prontuario/prontuario_005.png)
 
-1. Ao clicar em "Continuar Edição", o sistema reabre o prontuário exatamente do ponto em que você parou.
+1. Ao clicar em "Continuar Edição", o sistema reabre o prontuário exatamente do ponto em que você parou. Veja vídeo:
+
+<video
+  src="/videos/prontuario/vscreen_elaboracao-prontuario.mp4"
+  width="100%"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{ borderRadius: "12px", boxShadow: "0 4px 20px rgba(0,0,0,0.15)", margin: "16px 0" }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
 
 1. Ao clicar em "Finalizar", o sistema encerra a edição e publica o prontuário, que passa a integrar a lista de prontuários finalizados e publicados.
 

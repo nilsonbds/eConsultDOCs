@@ -66,3 +66,31 @@ Esse nível de organização resulta em uma operação mais fluida e reduz a cha
 Esses recursos proporcionam flexibilidade na configuração da sua agenda, permitindo que você adapte suas cargas horárias e intervalos de acordo com sua rotina semanal.
 :::
 
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+### 🎬 *Incluindo Disponibilidades*
+
+<video
+  src="/videos/configuracoes/incluindo-disponibilidades.mp4"
+  maxWidth="100%"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo é possível verificar a inclusão de disponibilidades na agenda.
+</p>
+
+---

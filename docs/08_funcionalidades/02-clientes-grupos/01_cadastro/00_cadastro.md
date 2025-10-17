@@ -226,3 +226,76 @@ Cada uma dessas seções exibe um conjunto de indicadores que refletem o desempe
 - **CLC (Customer Lifetime Cost):** custo total no período relacionado à manutenção do paciente.
 
 Esse conjunto de informações oferece uma visão abrangente e estratégica do comportamento e valor de cada paciente, permitindo ações direcionadas de marketing, atendimento e fidelização.
+
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+### 🎬 *Incluindo novo paciente (celular)*
+
+<video
+  src="/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-paciente-mobile.mp4"
+  maxWidth="100%"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo é possível verificar a inclusão de um novo paciente ***(fake)*** num celular.
+</p>
+
+---
+
+### 🎬 *Incluindo novo paciente (desktop)*
+
+<video
+  src="/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-paciente.mp4"
+  Width="100%"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo é possível verificar a inclusão de um novo paciente ***(fake)*** num computador desktop.
+</p>
+
+---
+
+### 🎬 *Incluindo novo grupo terapêutico (celular)*
+
+<video
+  src="/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-grupo-terapeutico-mobile.mp4"
+  maxWidth="100%"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo é possível verificar a inclusão de um novo grupo terapêutico ***(fake)*** num celular.
+</p>
