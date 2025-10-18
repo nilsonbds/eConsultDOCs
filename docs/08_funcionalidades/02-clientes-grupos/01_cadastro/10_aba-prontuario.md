@@ -112,11 +112,10 @@ O prontuário é criado com base em um Modelo de Anamnese previamente cadastrado
 
 <video
   src="/videos/prontuario/vscreen_elaboracao-prontuario.mp4"
-  width="100%"
   height="auto"
   controls
   preload="metadata"
-  style={{ borderRadius: "12px", boxShadow: "0 4px 20px rgba(0,0,0,0.15)", margin: "16px 0" }}
+  style={{ maxWidth: '100%', borderRadius: "12px", boxShadow: "0 4px 20px rgba(0,0,0,0.15)", margin: "16px 0" }}
 >
   Seu navegador não suporta vídeo HTML5.
 </video>

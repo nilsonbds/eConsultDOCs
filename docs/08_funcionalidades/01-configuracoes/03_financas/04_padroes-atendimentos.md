@@ -65,11 +65,11 @@ Revise periodicamente seus tipos de atendimento para manter sua tabela de valore
 
 <video
   src="/videos/configuracoes/incluindo-tipos-de-atendimento.mp4"
-  maxWidth="100%"
   height="auto"
   controls
   preload="metadata"
   style={{
+    maxWidth: '100%',
     borderRadius: '12px',
     boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
     margin: '8px 0'

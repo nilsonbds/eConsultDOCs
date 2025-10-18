@@ -76,11 +76,11 @@ Esses recursos proporcionam flexibilidade na configuração da sua agenda, permi
 
 <video
   src="/videos/configuracoes/incluindo-disponibilidades.mp4"
-  maxWidth="100%"
   height="auto"
   controls
   preload="metadata"
   style={{
+    maxWidth: '100%',
     borderRadius: '12px',
     boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
     margin: '8px 0'
