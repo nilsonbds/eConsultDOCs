@@ -139,49 +139,69 @@ export default function Comments({ postId }) {
     }, [token]);
 
     return (<>
-        <hr />
+        {/* Bloco de CTA personalizado */}
         <div style={{ display: "flex", justifyContent: "center" }}>
-            <div style={{ textAlign: "center", width: "70%" }}>
-                <p id="cta-econsult-title" style={{
-                    fontSize: "1.5rem",
-                    lineHeight: "1.5rem",
-                    marginBottom: "20px"
-                }}>
-                    Crie sua conta no eConsult e transforme sua rotina clínica!
+            <div
+                style={{
+                    marginTop: '1.5rem',
+                    padding: '2rem 1.5rem',
+                    borderRadius: '16px',
+                    background: '#ecebebff',
+                    color: '#fff',
+                    textAlign: 'center',
+                    width: '100%',
+                }}
+            >
+                <h3 style={{ fontSize: '1.6rem', marginBottom: '0.5rem', color: 'darkcyan' }}>
+                    Comece a organizar seu consultório hoje mesmo
+                </h3>
+                <p style={{ fontSize: '1.1rem', marginBottom: '1.5rem', opacity: 0.95, color: 'gray' }}>
+                    Crie sua conta gratuita no eConsult e dê o primeiro passo agora!
                 </p>
                 <a
                     href="https://econsult.app.br/multidisciplinar"
-                    target="_blank"
-                    role="button"
-                    aria-label="Criar conta grátis no eConsult"
                     style={{
-                        display: "inline-block",
-                        backgroundColor: "darkcyan",
-                        color: "white",
-                        fontWeight: "700",
-                        textDecoration: "none",
-                        padding: "12px 24px",
-                        borderRadius: "999px",
-                        fontSize: "18px",
-                        boxShadow: "0 6px 16px rgba(0,0,0,0.15)",
-                        transition: "all 0.2s ease",
-                        width: "100%",
-                        textAlign: "center"
+                        display: 'inline-block',
+                        backgroundColor: 'darkcyan',
+                        color: 'white',
+                        fontWeight: 'bold',
+                        padding: '0.8rem 1.8rem',
+                        borderRadius: '8px',
+                        textDecoration: 'none',
+                        fontSize: '1rem',
+                        transition: 'all 0.2s ease-in-out',
                     }}
-                    onMouseEnter={(e) => {
-                        e.currentTarget.style.transform = "translateY(-2px)";
-                        e.currentTarget.style.boxShadow = "0 10px 20px rgba(0,0,0,0.18)";
-                    }}
-                    onMouseLeave={(e) => {
-                        e.currentTarget.style.transform = "translateY(0)";
-                        e.currentTarget.style.boxShadow = "0 6px 16px rgba(0,0,0,0.15)";
-                    }}
+                    onMouseOver={(e) => (e.target.style.backgroundColor = '#0c423cff')}
+                    onMouseOut={(e) => (e.target.style.backgroundColor = 'darkcyan')}
                 >
-                    Criar conta grátis
+                    🚀 TESTE GRÁTIS
                 </a>
             </div>
         </div>
-        <hr />
+
+        {/* Bloco secundário com link geral */}
+        <div
+            style={{
+                marginTop: '1rem',
+                marginBottom: '2rem',
+                paddingTop: '1rem',
+                textAlign: 'center',
+                fontSize: '0.95rem',
+                color: '#444',
+            }}
+        >
+            💡 Gostou deste conteúdo? Explore também a{' '}
+            <a href="/docs" style={{ color: '#0B57D0', fontWeight: 600 }}>
+                Central de Ajuda eConsult
+            </a>{' '}
+            e outros posts do{' '}
+            <a href="/blog" style={{ color: '#0B57D0', fontWeight: 600 }}>
+                nosso Blog
+            </a>.
+        </div>
+
+        {/* Bloco comentarios */}
+        <hr/>
         <div style={{ marginTop: "2rem" }}>
             <h3>Comentários</h3>
             <div className="container">
