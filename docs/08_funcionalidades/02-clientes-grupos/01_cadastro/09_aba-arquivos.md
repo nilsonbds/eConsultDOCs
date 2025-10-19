@@ -16,7 +16,7 @@ Com essa integração, todos os arquivos — como documentos, relatórios, image
 
 Ao centralizar os documentos no Google Drive, você conta com sincronização em tempo real, backups automáticos e maior segurança, reduzindo o risco de perda de informações importantes.
 
-Para ativar a integração, acesse: [Painel de Configurações => Google Drive](/docs/funcionalidades/configuracoes/integracoes/googledrive).
+Para ativar a integração, acesse: [Painel de Configurações > Google Drive](/docs/funcionalidades/configuracoes/integracoes/googledrive).
 
 Na aba Arquivos, é possível anexar documentos diretamente vinculados ao paciente, facilitando o gerenciamento e o acesso rápido a informações relevantes.
 

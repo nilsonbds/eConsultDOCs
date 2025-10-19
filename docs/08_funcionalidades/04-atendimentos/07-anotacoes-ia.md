@@ -70,3 +70,53 @@ Esse limite é renovado automaticamente no primeiro dia de cada mês e oferece u
 
 - Se você atingir o limite mensal, a IA será temporariamente desativada até o início do próximo mês, quando o saldo de tokens será renovado automaticamente.
 :::
+
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+### 🎬 *Incluindo Anotação Clínica SOAP*
+
+<video
+  src="/videos/atendimentos/usando-ia-em-anotacoes-clinicas.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo, é possível acompanhar a inclusão de uma anotação estruturada no formato SOAP, com o suporte da inteligência artificial como ferramenta de apoio clínico.
+</p>
+
+---
+
+### 🎬 *Incluindo Anotação SOAP com Escalas Psicológicas*
+
+<video
+  src="/videos/atendimentos/usando-ia-em-anotacoes-clinicas-avaliacao-psicologica.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo, é possível acompanhar a inclusão de uma anotação clínica estruturada no formato SOAP, integrando também escalas e inventários psicológicos aplicados durante o atendimento. O processo demonstra como a inteligência artificial pode auxiliar na análise dos resultados, na interpretação dos escores e na elaboração de hipóteses clínicas, oferecendo suporte ao raciocínio profissional sem substituir o julgamento do psicólogo.
+</p>
