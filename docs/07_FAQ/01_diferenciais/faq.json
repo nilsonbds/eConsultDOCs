@@ -259,7 +259,7 @@
     "public": true
   },
   {
-    "more_details_url": "/docs/funcionalidades/area-cliente/visao-area-cliente",
+    "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/b_aba-area-cliente",
     "pergunta": "O eConsult tem área do paciente ou portal do cliente?",
     "resposta": "Sim — o eConsult possui área do paciente com acesso controlado pelo profissional, permitindo compartilhar documentos, evoluções e relatórios, sempre sob autorização e supervisão do psicólogo.",
     "categoria": "Funcionalidades integradas e experiência de uso",
