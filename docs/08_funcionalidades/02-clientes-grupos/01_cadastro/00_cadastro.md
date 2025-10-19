@@ -236,7 +236,7 @@ Esse conjunto de informações oferece uma visão abrangente e estratégica do c
 ### 🎬 *Incluindo novo paciente (celular)*
 
 <video
-  src="/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-paciente-mobile.mp4"
+  src="https://econsultapp.com/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-paciente-mobile.mp4"
   height="auto"
   controls
   preload="metadata"
@@ -259,7 +259,7 @@ Esse conjunto de informações oferece uma visão abrangente e estratégica do c
 ### 🎬 *Incluindo novo paciente (desktop)*
 
 <video
-  src="/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-paciente.mp4"
+  src="https://econsultapp.com/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-paciente.mp4"
   height="auto"
   controls
   preload="metadata"
@@ -282,7 +282,7 @@ Esse conjunto de informações oferece uma visão abrangente e estratégica do c
 ### 🎬 *Incluindo novo grupo terapêutico (celular)*
 
 <video
-  src="/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-grupo-terapeutico-mobile.mp4"
+  src="https://econsultapp.com/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-grupo-terapeutico-mobile.mp4"
   height="auto"
   controls
   preload="metadata"

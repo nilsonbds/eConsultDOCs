@@ -63,7 +63,7 @@ Cadastrar dias de recesso na agenda é uma prática essencial para manter um flu
 ### 🎬 *Incluindo Recesso*
 
 <video
-  src="/videos/configuracoes/incluindo-recesso.mp4"
+  src="https://econsultapp.com/videos/configuracoes/incluindo-recesso.mp4"
   height="auto"
   controls
   preload="metadata"

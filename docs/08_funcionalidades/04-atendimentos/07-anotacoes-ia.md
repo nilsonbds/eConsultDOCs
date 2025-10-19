@@ -80,7 +80,7 @@ Esse limite é renovado automaticamente no primeiro dia de cada mês e oferece u
 ### 🎬 *Incluindo Anotação Clínica SOAP*
 
 <video
-  src="/videos/atendimentos/usando-ia-em-anotacoes-clinicas.mp4"
+  src="https://econsultapp.com/videos/atendimentos/usando-ia-em-anotacoes-clinicas.mp4"
   height="auto"
   controls
   preload="metadata"
@@ -103,7 +103,7 @@ Esse limite é renovado automaticamente no primeiro dia de cada mês e oferece u
 ### 🎬 *Incluindo Anotação SOAP com Escalas Psicológicas*
 
 <video
-  src="/videos/atendimentos/usando-ia-em-anotacoes-clinicas-avaliacao-psicologica.mp4"
+  src="https://econsultapp.com/videos/atendimentos/usando-ia-em-anotacoes-clinicas-avaliacao-psicologica.mp4"
   height="auto"
   controls
   preload="metadata"

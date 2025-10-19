@@ -83,7 +83,7 @@ Para facilitar ainda mais o acesso e a consulta, a opção "Visualizar" ![Painel
 ### 🎬 *Incluindo novo arquivo para paciente (desktop)*
 
 <video
-  src="/videos/arquivos/incluindo-novo-arquivo-para-paciente.mp4"
+  src="https://econsultapp.com/videos/arquivos/incluindo-novo-arquivo-para-paciente.mp4"
   height="auto"
   controls
   preload="metadata"
