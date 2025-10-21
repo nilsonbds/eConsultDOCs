@@ -73,23 +73,28 @@ h4 {
 }
 
 h1 {
-  font-size: clamp(2rem, 5vw, 3.5rem); /* 32px–56px */
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  /* 32px–56px */
 }
 
 h2 {
-  font-size: clamp(1.75rem, 4vw, 3rem); /* 28px–48px */
+  font-size: clamp(1.75rem, 4vw, 3rem);
+  /* 28px–48px */
 }
 
 h3 {
-  font-size: clamp(1.5rem, 3.5vw, 2.5rem); /* 24px–40px */
+  font-size: clamp(1.5rem, 3.5vw, 2.5rem);
+  /* 24px–40px */
 }
 
 h4 {
-  font-size: clamp(1.25rem, 3vw, 2rem); /* 20px–32px */
+  font-size: clamp(1.25rem, 3vw, 2rem);
+  /* 20px–32px */
 }
 
 h5 {
-  font-size: clamp(1.125rem, 2.5vw, 1.5rem); /* 18px–24px */
+  font-size: clamp(1.125rem, 2.5vw, 1.5rem);
+  /* 18px–24px */
 }
 
 p {
@@ -99,7 +104,8 @@ p {
 
 small {
   display: inline-block;
-  font-size: clamp(0.75rem, 1.5vw, 0.875rem); /* 12px–14px */
+  font-size: clamp(0.75rem, 1.5vw, 0.875rem);
+  /* 12px–14px */
   line-height: 1.4;
 }
 
@@ -281,6 +287,10 @@ h3.title-links {
     justify-content: left !important;
     align-items: start !important;
   }
+
+  .footer__copyright {
+    padding-right: 60px;
+  }
 }
 
 .econ-title-box {
@@ -338,9 +348,9 @@ h3.title-links {
 }
 
 h2.text--truncate {
-    font-size: 1.2rem;
-    margin-bottom: 0px;
-    text-wrap: wrap;
+  font-size: 1.2rem;
+  margin-bottom: 0px;
+  text-wrap: wrap;
 }
 
 .markdown p {
@@ -350,7 +360,8 @@ h2.text--truncate {
 
 .markdown small {
   display: inline-block;
-  font-size: clamp(0.75rem, 1.5vw, 0.875rem); /* 12px–14px */
+  font-size: clamp(0.75rem, 1.5vw, 0.875rem);
+  /* 12px–14px */
   line-height: 1.4;
 }
 
@@ -363,5 +374,5 @@ h2.text--truncate {
 }
 
 .menu__list {
-    padding-bottom: 40px;
+  padding-bottom: 40px;
 }

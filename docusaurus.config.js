@@ -136,6 +136,12 @@ const config = {
       async: true,
       defer: true,
     },
+    {
+      src: 'https://embed.tawk.to/68f795af7532b119528011cd/1j83i1dv2',
+      async: true,
+      charset: 'UTF-8',
+      crossorigin: '*',
+    },
   ],
 
   customFields: {
