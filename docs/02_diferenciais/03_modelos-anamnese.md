@@ -125,6 +125,3 @@ O eConsult assegura que a coleta de informações clínicas seja feita com **efi
 
 **O eConsult é a escolha certa para quem busca mais eficiência, controle e profissionalismo na gestão de atendimentos.**
 
-> Pronto para transformar sua rotina?
-> Experimente gratuitamente e descubra por que o eConsult é o sistema que se adapta a você — e não o contrário.
-> [Clique aqui e comece agora mesmo.](https://econsult.app.br/multidisciplinar)

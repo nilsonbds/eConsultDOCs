@@ -4,153 +4,225 @@ sidebar_position: 10
 
 # Aba Prontuário
 
-![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/aba-prontuario.png)
+***Gestão clínica completa, ética e inteligente.***
 
-A aba **Prontuário**, disponível no painel **Pacientes e Grupos Terapêuticos**, reúne todas as informações clínicas relacionadas ao acompanhamento individual ou em grupo.  
+O **Prontuário Eletrônico** do **eConsult** foi projetado para unir **rigor técnico**, **flexibilidade de uso** e **segurança avançada**, atendendo às necessidades específicas de psicólogos que trabalham com atendimentos individuais, casais, famílias ou grupos terapêuticos.  
 
-No **eConsult**, cada paciente ou grupo pode possuir **múltiplos prontuários**, oferecendo flexibilidade na organização e registro das informações, seja para diferentes etapas do processo terapêutico, seja para separar versões relacionadas a fase do processo terapêutico ou enfoques distintos de acompanhamento.  
-
-Os prontuários podem assumir dois estágios:  
-
-**Prontuário em Elaboração** – encontra-se em fase de construção, ainda não publicado, sendo visível exclusivamente ao profissional responsável.  
-
-:::warning
-Cada paciente ou grupo pode ter apenas **um prontuário em elaboração** por vez.
-:::  
-
-**Prontuário Publicado** – já concluído e salvo, com duas possibilidades de acesso:  
-
-  - **Privado**: restrito apenas ao profissional.  
-
-  - **Público**: acessível ao paciente, caso o profissional opte por disponibilizar.  
-
-Essa estrutura garante ao profissional **autonomia e segurança** para gerenciar o ciclo de elaboração dos registros, definindo com clareza **o que permanece restrito** e **o que pode ser compartilhado** com o paciente.
+Por meio da **aba Prontuário**, o profissional centraliza todo o acompanhamento clínico do paciente ou grupo, mantendo histórico completo, registros evolutivos, avaliações psicológicas, hipóteses clínicas e documentos anexados — tudo dentro de um ambiente seguro, criptografado e em conformidade com a LGPD.
 
 ---
 
-## Importância do Prontuário
+## ⚙️ Estrutura do Prontuário
 
-O prontuário no eConsult cumpre funções assistenciais, jurídicas, administrativas e científicas.
+Cada paciente ou grupo pode possuir **múltiplos prontuários**, permitindo que o profissional registre diferentes fases ou enfoques do processo terapêutico.  
+Os prontuários assumem dois estágios principais:
+
+- **🟡 Em elaboração:** visível apenas ao profissional até que seja concluído.  
+- **🟢 Publicado:** finalizado e salvo no histórico, podendo ser:
+  - **Privado:** acesso exclusivo do profissional;  
+  - **Público:** visível também ao paciente, se o profissional optar.
+
+> 🔒 Apenas **um prontuário em elaboração** pode existir por paciente ou grupo.
+
+---
+
+## 🧭 Importância Clínica e Ética
+
+O prontuário no eConsult cumpre funções **assistenciais, jurídicas, administrativas e científicas**, sendo elemento essencial de registro clínico e rastreabilidade.
 
 Ele pode conter:
+- Dados pessoais e anamnese  
+- Avaliações psicológicas aplicadas  
+- Histórico de atendimentos e anotações clínicas  
+- Arquivos anexados e relatórios  
+- Hipóteses, diagnósticos e planos terapêuticos  
+- Evoluções e encaminhamentos  
 
-    - Dados pessoais e anamnese
-
-    - Avaliações psicológicas
-
-    - Histórico de atendimentos com suas devidas anotações clínicas
-
-    - Arquivos anexados
-
-A elaboração deve seguir normas éticas e técnicas, garantindo clareza, confidencialidade e precisão.
+> Cada registro deve seguir as normas éticas do CFP e os princípios da LGPD, assegurando clareza, precisão e confidencialidade.
 
 ---
 
-## Estrutura do Prontuário
+## 🧩 Componentes e Recursos
 
-O prontuário é criado com base em um Modelo de Anamnese previamente cadastrado e na Abordagem Terapêutica escolhida. O Modelo de Anamnese estabelece os campos e tópicos do formulário, garantindo padronização e agilidade no registro, enquanto a Abordagem Terapêutica apoia a geração de hipóteses por meio de inteligência artificial.
+O prontuário é criado a partir de um **modelo de anamnese** e da **abordagem terapêutica** escolhida, que determinam sua estrutura e linguagem.  
 
----
+Durante a edição, o profissional pode acessar recursos integrados:
 
-## Recursos disponíveis
-
-- **Anamnese:** coleta das informações do paciente ou grupo (histórico, queixas, antecedentes, hábitos de vida etc.).
-
-- **Avaliações Psicológicas:** aplicação de escalas validadas pelo CFP (como BDI, BAI, SDQ, CD-RISC). Os resultados ficam integrados ao prontuário.
-
-- **Histórico de Atendimentos:** registro detalhado com datas e horários, organizado em linha do tempo para facilitar a visualização da evolução do caso. Cada atendimento reúne também todas as anotações clínicas correspondentes.
-
-- **Arquivos:** upload e acesso a documentos vinculados.
-
-- **Inteligência Artificial (IA):** recurso que apoia o profissional na prática clínica por meio da geração de hipóteses diagnósticas e prognósticas, além de sugerir planos de tratamento e evoluções clínicas. Essas sugestões são construídas a partir dos dados inseridos no prontuário e do nível de engajamento do paciente, oferecendo suporte adicional à tomada de decisão.
-
-- **Acesso Seguro:** todos os dados são protegidos por criptografia avançada e rigoroso controle de permissões, garantindo que apenas profissionais autorizados possam visualizar ou editar informações, assegurando total confidencialidade e integridade dos prontuários.
+- **🧠 Anamnese:** registro inicial estruturado conforme o modelo clínico configurado.  
+- **📈 Avaliações Psicológicas:** aplicação de testes validados (ex.: BDI, BAI, CD-RISC, SRQ-20) com resultados automáticos integrados.  
+- **🗂️ Histórico de Atendimentos:** linha do tempo com sessões, anotações clínicas e evolução do caso.  
+- **📎 Arquivos:** upload e gerenciamento de documentos e relatórios vinculados.  
+- **🤖 Inteligência Artificial Clínica:** sugestões de hipóteses diagnósticas, prognósticos e planos terapêuticos baseados no conteúdo do prontuário, nas escalas aplicadas e na abordagem escolhida.  
+- **🔐 Controle de acesso:** criptografia de dados e permissões avançadas garantem total segurança e confidencialidade.
 
 ---
 
-## Como Criar e Gerenciar Prontuários
+## 🧾 Como Criar e Gerenciar um Prontuário
 
-1. Acesse a aba Prontuário no painel **Pacientes e Grupos**.
+1. Acesse a aba **Prontuário** dentro de **Pacientes e Grupos Terapêuticos**.  
+2. Clique em **Novo Prontuário** ![botão novo](../../../../static/img/prints/buttons/btn_add_grupo.png).  
+3. Escolha um **modelo de anamnese** previamente cadastrado.  
+4. Configure a **abordagem terapêutica**, tópicos e campos.  
+5. Adicione avaliações, anotações e utilize os recursos de IA conforme desejar.  
+6. **Salve** para manter em elaboração ou **finalize** para publicar.
 
-    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_001.png)
+Após finalizado, o prontuário aparece na lista com as seguintes opções:
+- **Visualizar** 👁️ (modo leitura)  
+- **Tornar Público/Privado** 🔒  
+- **Duplicar para nova edição** 🔁  
 
-1. Clique no botão **![Prontuário](../../../../static/img/prints/buttons/btn_add_grupo.png)** para iniciar um novo prontuário.
+> ⚠️ Prontuários publicados não podem mais ser editados — apenas duplicados ou alterados quanto à visibilidade.
 
-    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_002.png)
+:::tip Boas Práticas
+- Mantenha os registros atualizados e objetivos.  
+- Valide todas as sugestões da IA antes de incluir no texto clínico.  
+- Use a versão pública apenas quando for clinicamente adequado.  
+- Configure modelos de anamnese personalizados por abordagem terapêutica.  
+:::
 
-1. Selecione um modelo de anamnese previamente cadastrado.
+---
 
-    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_003.png)
+## 🔐 Segurança e LGPD
 
-1. O sistema exibirá a estrutura do prontuário. Você pode:
+O eConsult adota padrões de segurança equivalentes a sistemas médicos e hospitalares:
 
-    - Escolher uma Abordagem Terapêutica.
+- **Criptografia de ponta a ponta (AES-256)**  
+- **Controle de acesso individualizado** por profissional  
+- **Auditoria e rastreabilidade de ações**  
+- **Anonimização de dados** para uso em relatórios ou IA  
+- **Monitoramento contínuo contra acessos indevidos**
 
-    - Adicionar, editar ou excluir tópicos e campos.
+> 💡 Mesmo com anonimização, recomenda-se informar ao paciente sobre o uso ético de IA e o tratamento anônimo dos dados, reforçando transparência e confiança.
 
-    - Incluir avaliações psicológicas.
+---
 
-    - Acionar a IA para gerar hipóteses diagnósticas e prognósticas, além de sugerir planos de tratamento e evoluções clínicas.
+## 🤖 Inteligência Artificial no Prontuário
 
-    - Mostrar/ocultar campos/tópicos para a versão pública do prontuário.
+A IA atua como **suporte ao raciocínio clínico**, gerando insights personalizados a partir dos registros existentes.  
+Ela considera:
 
-    - Salvar, fechar ou excluir o prontuário em elaboração (não finalizado).
+- Abordagem terapêutica (TCC, Psicanálise, Sistêmica, etc.)  
+- Grau de engajamento do paciente  
+- Avaliações psicológicas aplicadas  
+- Histórico clínico e anotações anteriores 
+- Último prontuário publicado (se houver)
 
-    - Imprimir a versão Privada do prontuário (aquela que só o profissional tem acesso).
+:::note 
+No caso de grupos terapêuticos, a IA considera os últimos prontuários publicados de cada membro do grupo.
+:::
 
-    - Imprimir a versão Pública do prontuário (aquela que o paciente pode ter acesso além do profissional).
+Os módulos que recebem apoio por IA são:
+- **Diagnóstico**  
+- **Prognóstico**  
+- **Plano de Tratamento**  
+- **Evolução do Tratamento**
 
-1. Uma vez que você Salva e Fecha o prontuário o sistema apresenta um ***card*** correspondente a "Prontuário não Finalizado", ou seja, em elaboração.
+:::warning
+A IA **não substitui o julgamento profissional**.  
+As sugestões são opcionais e devem ser validadas pelo psicólogo.
+:::
 
-    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_004.png)
+---
 
-1. Neste ***card*** você poderá **Finalizar** o prontuário ou ainda **Continuar Edição**.
+## 📊 Comparativo com Outros Sistemas
 
-    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_005.png)
+### Outros sistemas
+- Estrutura fixa e limitada a modelos genéricos.  
+- Histórico sobrescrito (sem preservação de versões).  
+- Falta de integração com grupos terapêuticos.  
+- Nenhum suporte de IA ou anonimização LGPD.  
+- Pouca ou nenhuma automação de registros.
 
-1. Ao clicar em "Continuar Edição", o sistema reabre o prontuário exatamente do ponto em que você parou. Veja vídeo:
+### eConsult
+- Prontuários **flexíveis, modulares e personalizáveis**.  
+- **Histórico completo e versionado** por paciente e grupo.  
+- **Integração total** com avaliações, arquivos e sessões.  
+- **IA clínica contextualizada**, com privacidade assegurada.  
+- **Controle granular** de visibilidade e publicação.  
+
+:::tip  
+**Diferencial real:** O eConsult eleva o conceito de prontuário eletrônico, tornando-o uma ferramenta ativa de raciocínio clínico e decisão terapêutica, não apenas um repositório de dados.
+:::
+
+---
+
+## 🧭 Análise Crítica da Funcionalidade
+
+### 💼 Design funcional
+O fluxo do prontuário é intuitivo: criação → edição → publicação → histórico.  
+A interface por *cards* facilita o gerenciamento de múltiplos registros e está visualmente bem resolvida tanto em desktop quanto mobile.
+
+### 🧩 Robustez técnica
+A arquitetura baseada em **modelos configuráveis (anamnese + abordagem)** permite adaptação a qualquer linha terapêutica.  
+O armazenamento versionado de prontuários e a IA integrada representam um salto em automação clínica.
+
+### 🔒 Ética e segurança
+O modelo de **visibilidade dupla (Privado/Público)** é excelente: preserva sigilo e, ao mesmo tempo, permite comunicação transparente com o paciente quando o profissional desejar.  
+A anonimização e conformidade com a LGPD são implementações exemplares no contexto psicológico.
+
+### 💡 Experiência e usabilidade
+O fluxo de edição e retomada do prontuário é fluido — especialmente o botão “Continuar Edição” exibido nos cards de prontuários em elaboração.  
+O uso da IA embutida nos blocos de diagnóstico e plano terapêutico torna o processo de escrita mais produtivo, sem burocracia.
+
+### 📈 Escalabilidade
+O módulo foi claramente pensado para clínicas com múltiplos profissionais e grupos terapêuticos.  
+O histórico completo e a duplicação de prontuários facilitam auditorias, revisões e continuidade longitudinal do cuidado.
+
+---
+
+## ✅ Conclusão
+
+O **Prontuário Eletrônico do eConsult** transcende o papel tradicional de registro clínico.  
+Ele se comporta como um **núcleo inteligente de gestão terapêutica**, combinando **segurança jurídica, rigor ético e suporte tecnológico avançado**.  
+
+Com histórico evolutivo, IA integrada e controle granular de acesso, o módulo representa uma das soluções mais completas do mercado em termos de **documentação psicológica digital** — moderna, ética e centrada na prática profissional.
+
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+### 🎬 *Explorando o prontuário*
 
 <video
-  src="/videos/prontuario/vscreen_elaboracao-prontuario.mp4"
-  width="100%"
+  src="https://econsultapp.com/videos/prontuario/explorando-prontuario.mp4"
   height="auto"
   controls
   preload="metadata"
-  style={{ borderRadius: "12px", boxShadow: "0 4px 20px rgba(0,0,0,0.15)", margin: "16px 0" }}
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
 >
   Seu navegador não suporta vídeo HTML5.
 </video>
 
-1. Ao clicar em "Finalizar", o sistema encerra a edição e publica o prontuário, que passa a integrar a lista de prontuários finalizados e publicados.
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo, é possível visualizar algumas das principais funcionalidades do prontuário em funcionamento.
+</p>
 
-    ![Prontuário](../../../../static/img/prints/prontuario/prontuario_006.png)
+---
 
-1. Na lista de prontuários publicados e finalizados, você pode:
+### 🎬 *Exemplo de Inteligência Artificial no Prontuário*
 
-    - **Visualizar um prontuário** ![Prontuário](../../../../static/img/prints/prontuario/prontuario_007.png)
+<video
+  src="https://econsultapp.com/videos/prontuario/inteligencia-artificial-prontuario.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
 
-    - **Tornar o prontuário público** ![Prontuário](../../../../static/img/prints/prontuario/prontuario_008.png)
-
-    - **Tornar o prontuário privado** ![Prontuário](../../../../static/img/prints/prontuario/prontuario_009.png)
-
-    - **Duplicar o prontuário e colocando a dulicata em edição** ![Prontuário](../../../../static/img/prints/prontuario/prontuario_010.png)
-
-:::warning
-Prontuários publicados **não podem mais ser editados ou excluídos**.  
-
-A única ação disponível é alterá-los entre **Público** ou **Privado**.
-
-A opção **Visualizar Prontuário** ![Prontuário](../../../../static/img/prints/prontuario/prontuario_007.png), abre o prontuário em **modo de visualização apenas**, ou seja, não será possível editá-lo.
-:::
-
-:::tip Boas Práticas
-- Mantenha os registros claros, objetivos e atualizados.
-
-- Use o prontuário público apenas quando necessário para compartilhar informações com o paciente.
-
-- Utilize os recursos da IA como apoio, mas sempre valide as sugestões com base no julgamento clínico.
-
-- Garanta que os modelos de anamnese estejam bem configurados para assegurar padronização.
-:::
-
-Com esse recurso, o eConsult permite que cada profissional mantenha vários prontuários organizados por paciente ou grupo terapêutico, com segurança, flexibilidade e suporte à prática clínica.
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo, é possível verificar a utilização da inteligência artificial no prontuário.
+</p>

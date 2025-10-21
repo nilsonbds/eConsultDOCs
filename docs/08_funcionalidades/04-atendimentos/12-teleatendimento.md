@@ -2,7 +2,7 @@
 sidebar_position: 12
 ---
 
-# 💻 Teleatendimento
+# Teleatendimento
 
 O **eConsult** possui integração nativa com o **Daily.co**, uma plataforma moderna, estável e segura para **teleatendimento profissional**.  
 Essa integração foi projetada para que o psicólogo realize **consultas online diretamente pelo eConsult**, sem depender de aplicativos externos, instalações ou configurações complexas.
@@ -16,14 +16,14 @@ Com o **Daily.co**, você conta com:
 
 ---
 
-## ⚙️ Requisitos
+## Requisitos
 
 Para utilizar esta funcionalidade, é necessário possuir uma conta ativa no **Daily.co**, devidamente integrada ao **eConsult**.  
 Você pode consultar o passo a passo para configurar essa integração [aqui](/docs/funcionalidades/configuracoes/integracoes/daily).
 
 ---
 
-## 🗓️ Criando e acessando uma sala de teleatendimento
+## Criando e acessando uma sala de teleatendimento
 
 1. Clique no botão ![Atendimento](../../../static/img/prints/buttons/btn_card-edit.png) no *card* do atendimento desejado.  
 2. Verifique se o atendimento está configurado como **“Remoto”**.
@@ -49,7 +49,7 @@ Você pode consultar o passo a passo para configurar essa integração [aqui](/d
 
 ---
 
-## 🗣️ Dentro da sala de teleatendimento
+## Dentro da sala de teleatendimento
 
 Ao acessar a sala, você verá o horário agendado e os seguintes controles:
 
@@ -65,7 +65,7 @@ Ao acessar a sala, você verá o horário agendado e os seguintes controles:
 
 ---
 
-## ✉️ Envio do link ao paciente
+## Envio do link ao paciente
 
 O link de teleatendimento pode ser:
 
@@ -76,7 +76,7 @@ O paciente acessa a sessão **diretamente pelo navegador**, sem precisar instala
 
 ---
 
-## 🔒 Segurança e conformidade
+## Segurança e conformidade
 
 A integração com o **Daily.co** segue rigorosamente os princípios de **sigilo profissional** e **conformidade com a LGPD**:
 
@@ -101,7 +101,7 @@ A integração com o **Daily.co** segue rigorosamente os princípios de **sigilo
 
 ---
 
-## 🎥 Durante o atendimento
+## Durante o atendimento
 
 Durante a sessão online, o psicólogo pode:
 
@@ -113,7 +113,7 @@ Durante a sessão online, o psicólogo pode:
 
 ---
 
-## 📊 Planos e limites do Daily.co
+## Planos e limites do Daily.co
 
 O **Daily.co** oferece:
 
@@ -124,7 +124,7 @@ Caso ultrapasse o limite gratuito, é possível contratar planos adicionais dire
 
 ---
 
-## 🧭 Análise da funcionalidade
+## Análise da funcionalidade
 
 O módulo de **Teleatendimento do eConsult** é **conceitualmente bem resolvido e tecnicamente robusto**.
 
@@ -151,7 +151,7 @@ O módulo de **Teleatendimento do eConsult** é **conceitualmente bem resolvido 
 
 ---
 
-## ✅ Conclusão
+## Conclusão
 
 O **Teleatendimento via Daily.co** no **eConsult** oferece uma experiência **integrada, prática e ética**, mantendo o foco no que realmente importa:  
 **o cuidado psicológico, a privacidade do paciente e o sigilo profissional.**

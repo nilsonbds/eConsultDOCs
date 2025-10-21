@@ -16,7 +16,7 @@ Com essa integração, todos os arquivos — como documentos, relatórios, image
 
 Ao centralizar os documentos no Google Drive, você conta com sincronização em tempo real, backups automáticos e maior segurança, reduzindo o risco de perda de informações importantes.
 
-Para ativar a integração, acesse: [Painel de Configurações => Google Drive](/docs/funcionalidades/configuracoes/integracoes/googledrive).
+Para ativar a integração, acesse: [Painel de Configurações > Google Drive](/docs/funcionalidades/configuracoes/integracoes/googledrive).
 
 Na aba Arquivos, é possível anexar documentos diretamente vinculados ao paciente, facilitando o gerenciamento e o acesso rápido a informações relevantes.
 
@@ -73,3 +73,30 @@ Na aba Arquivos, você pode vincular quantos arquivos desejar ao paciente, sendo
 Além disso, a plataforma oferece ferramentas práticas para o gerenciamento desses arquivos. Com o botão "Alterar" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png), você pode substituir documentos existentes por versões atualizadas, garantindo que as informações estejam sempre corretas. Caso algum arquivo não seja mais necessário, o botão Excluir  permite removê-lo rapidamente, mantendo sua organização sempre em dia.
 
 Para facilitar ainda mais o acesso e a consulta, a opção "Visualizar" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_visualizar.png) possibilita abrir o arquivo diretamente na plataforma, sem a necessidade de download ou uso de softwares externos. Isso torna o processo de revisão mais ágil e eficiente, otimizando o fluxo de trabalho e a comunicação com o paciente.
+
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+### 🎬 *Incluindo novo arquivo para paciente (desktop)*
+
+<video
+  src="https://econsultapp.com/videos/arquivos/incluindo-novo-arquivo-para-paciente.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo é possível verificar a inclusão de um novo arquivo para um paciente através da aba "Arquivos".
+</p>

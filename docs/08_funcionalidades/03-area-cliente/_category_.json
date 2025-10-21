@@ -1,9 +1,0 @@
-{
-  "label": "Área do Paciente",
-  "position": 3,
-  "link": {
-    "slug": "/area-cliente",
-    "type": "generated-index",
-    "description": "A Área do Paciente do eConsult oferece aos pacientes um acesso seguro e individual a um ambiente digital completo, permitindo acompanhar com transparência e autonomia todas as informações do seu atendimento."
-  }
-}

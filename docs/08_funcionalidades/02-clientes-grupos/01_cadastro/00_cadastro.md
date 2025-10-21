@@ -236,13 +236,13 @@ Esse conjunto de informações oferece uma visão abrangente e estratégica do c
 ### 🎬 *Incluindo novo paciente (celular)*
 
 <video
-  src="/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-paciente-mobile.mp4"
-  maxWidth="100%"
+  src="https://econsultapp.com/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-paciente-mobile.mp4"
   height="auto"
   controls
   preload="metadata"
   style={{
     borderRadius: '12px',
+    maxWidth: '100%',
     boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
     margin: '8px 0'
   }}
@@ -259,13 +259,13 @@ Esse conjunto de informações oferece uma visão abrangente e estratégica do c
 ### 🎬 *Incluindo novo paciente (desktop)*
 
 <video
-  src="/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-paciente.mp4"
-  Width="100%"
+  src="https://econsultapp.com/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-paciente.mp4"
   height="auto"
   controls
   preload="metadata"
   style={{
     borderRadius: '12px',
+    maxWidth: '100%',
     boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
     margin: '8px 0'
   }}
@@ -282,13 +282,13 @@ Esse conjunto de informações oferece uma visão abrangente e estratégica do c
 ### 🎬 *Incluindo novo grupo terapêutico (celular)*
 
 <video
-  src="/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-grupo-terapeutico-mobile.mp4"
-  maxWidth="100%"
+  src="https://econsultapp.com/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-grupo-terapeutico-mobile.mp4"
   height="auto"
   controls
   preload="metadata"
   style={{
     borderRadius: '12px',
+    maxWidth: '100%',
     boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
     margin: '8px 0'
   }}
