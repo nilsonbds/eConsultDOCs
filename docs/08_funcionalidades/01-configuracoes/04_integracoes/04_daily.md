@@ -99,9 +99,3 @@ O **Daily.co** oferece um plano gratuito bastante generoso, que inclui:
 - **10.000 minutos de uso por mês**, o que equivale a cerca de **5 atendimentos de 1 hora por dia**, considerando todos os dias úteis.
 
 Se precisar de mais tempo ou recursos adicionais (como gravações, mais participantes ou controle avançado de chamadas), é possível contratar **planos pagos diretamente na plataforma [Daily.co](https://www.daily.co/pricing)**, de forma rápida e escalável conforme o volume de atendimentos.
-
----
-
-Se tiver dúvidas sobre a integração ou como utilizar o recurso, entre em contato com o suporte técnico do eConsult:  
-
-- atendimento@econsult.app.br

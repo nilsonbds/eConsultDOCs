@@ -55,7 +55,7 @@ export default function FooterWrapper(props) {
                 }}
             >
                 💡 Gostou deste conteúdo? Explore também a{' '}
-                <a href="/docs" style={{ color: '#0B57D0', fontWeight: 600 }}>
+                <a href="/" style={{ color: '#0B57D0', fontWeight: 600 }}>
                     Central de Ajuda eConsult
                 </a>{' '}
                 e o{' '}
