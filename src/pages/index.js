@@ -53,8 +53,8 @@ function HomepageFooter() {
                 <div className='econ-footer-container'>
                   <p className='econ-text-box'><a href="/docs/iniciando/primeiros-passos" target="_blank">•&nbsp;&nbsp;Primeiros passos</a></p>
                   <p className='econ-text-box'><a href="/docs/faq" target="_blank">•&nbsp;&nbsp;FAQ - Perguntas frequentes</a></p><br />
-                  <p className='econ-text-box'><a href="/docs/sobre-econsult/privacidade-condicoes-privacidade/termos-condicoes" target="_blank">Termos e Condições</a></p>
-                  <p className='econ-text-box'><a href="/docs/sobre-econsult/privacidade-condicoes-privacidade/politica-privacidade" target="_blank">Política de privacidade</a></p>
+                  <p className='econ-text-box'><a href="/docs/privacidade-condicoes-privacidade/termos-condicoes" target="_blank">Termos e Condições</a></p>
+                  <p className='econ-text-box'><a href="/docs/privacidade-condicoes-privacidade/politica-privacidade" target="_blank">Política de privacidade</a></p>
                 </div>
               </div>
             </div>
