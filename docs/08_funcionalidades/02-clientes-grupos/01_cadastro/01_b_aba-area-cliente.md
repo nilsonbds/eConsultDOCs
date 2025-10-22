@@ -66,25 +66,36 @@ A interface da Área do Paciente foi desenhada para ser **intuitiva, responsiva 
 
 ![Interface do Paciente](../../../../static/img/prints/areacliente/002.png)
 
-#### 🧍 Informações Pessoais
-- Dados cadastrais e endereços do paciente.  
-- Permite atualização controlada (se autorizado pelo profissional).
+#### Aba Seus Dados
+- Dados cadastrais do paciente.  
+- Permite atualização direta pelo paciente, exceto e-mail — que, caso precise ser alterado, só pode ser atualizado pelo profissional.
 
-#### 📅 Atendimentos
+#### Aba Seus Endereços
+- Dados cadastrais de endereços do paciente.  
+- Permite atualização direta pelo paciente.
+
+#### Aba Atendimentos
 - Exibe atendimentos passados e futuros com data, hora e status.  
-- Inclui histórico de **remarcações** e **cancelamentos**.
+- Paciente só poderá visualizar.
 
-#### 💳 Faturas e Créditos
-- Mostra valores pagos, pendências e créditos de sessões.  
-- Registra **perdas contábeis** (ex.: faltas não justificadas).  
+#### Aba Desmarcações e Remarcações
+- Exibe registros de desmarcações e remarcações do paciente.  
+- Paciente só poderá visualizar.
 
-#### 📋 Prontuário (opcional)
-- Permite que o paciente visualize anotações e evoluções **publicadas** pelo psicólogo.  
-- Mantém total rastreabilidade e controle de acesso.
+#### Aba Faturas
+- Exibe faturas emitidas para o paciente.  
+- Paciente só poderá visualizar.
 
-#### 📂 Documentos, Recibos e Notas Fiscais
-- Centraliza downloads de arquivos clínicos e administrativos.  
-- Evita trocas de e-mail dispersas ou perda de informações.
+#### Aba Créditos e Perdas
+- Mostra registros relacionados a créditos, débitos e perdas do paciente.
+- Paciente só poderá visualizar. 
+
+#### Aba Documentos e Arquivos
+- Permite o paciente visualizar e imprimir documentos, sendo:
+  - Prontuários: somente prontuários publicados e públicos
+  - Recibos: somente recibos emitidos e não cancelados
+  - Notas fiscais: todas as notas fiscais emitidas para o paciente
+  - Documentos: todos os arquivos anexados, vinculados ao paciente e tornados públicos (com link para download)
 
 ---
 
