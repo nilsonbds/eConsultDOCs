@@ -31,7 +31,7 @@ export default function RecentPosts() {
       <h2 className="text--center margin-bottom--lg">Últimas do Blog</h2>
       <div className="row">
         {posts.slice(0, 4).map((post) => (
-          <div className="col col--3" key={post.id}>
+          <div className="col col--3 container_card_blog" key={post.id}>
             <div className="card card_blog shadow--md">
               {/* Imagem */}
               {getImageUrl(post) && (
