@@ -55,10 +55,6 @@
   margin: auto;
 }
 
-.container_card_blog {
-  flex: 1;
-}
-
 .card__image img {
   border-radius: 3px;
 }
