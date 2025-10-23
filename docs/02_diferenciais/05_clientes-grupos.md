@@ -110,7 +110,7 @@ Com a anonimização, essas informações deixam de ser classificadas como dados
 
 ---
 
-## Por as funcionalidades de Cadastro de Paciente e Grupos Terapêuticos do eConsult se destaca no mercado?
+## Por que as funcionalidades de Cadastro de Paciente e Grupos Terapêuticos do eConsult se destacam no mercado?
 
 A funcionalidade de **gestão de grupos terapêuticos**, principalmente, se destaca no mercado porque é algo que a maioria dos sistemas voltados para psicólogos simplesmente não oferece.
 
