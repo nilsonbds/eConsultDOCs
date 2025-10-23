@@ -1,5 +1,18 @@
 // @ts-check
 import { themes as prismThemes } from 'prism-react-renderer';
+const fs = require('fs');
+const path = require('path');
+
+function getLastModifiedDate(dir) {
+  const files = fs.readdirSync(dir).map(f => path.join(dir, f));
+  const times = files
+    .map(f => fs.statSync(f).mtime)
+    .filter(Boolean);
+  return new Date(Math.max.apply(null, times));
+}
+
+const lastModified = getLastModifiedDate('./docs');
+const formattedDate = lastModified.toLocaleDateString('pt-BR');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -122,7 +135,7 @@ const config = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} eConsult – última atualização: 13/06/2025. Todos os direitos reservados.`,
+      copyright: `Copyright © ${new Date().getFullYear()} eConsult – Última atualização: ${formattedDate}. Todos os direitos reservados.`,
     },
     prism: {
       theme: prismThemes.github,
