@@ -33,6 +33,7 @@ O Menu Principal pode ser acessado através do botão ![Botão Tarefas](../../..
 | **Recibos** | Abre o [Painel Recibos](/docs/funcionalidades/recibos/visao) - exibe todos os recibos emitidos, ativos ou cancelados, em *cards* organizados, facilitando o controle e a visualização das informações.|
 | **Notas Fiscais** | Abre o [Painel Notas Fiscais](#) - exibe todos os informes ou emissão de Notas Fiscais em *cards* organizados, facilitando o controle e a visualização das informações.|
 | **Modelos de anamnese** | Abre o [Painel Modelos de Anamnese](/docs/funcionalidades/modelo-anamnese/visao) - permite a gestão de modelos de anamnese personalizados para coletar informações específicas de pacientes, facilitando a padronização dos dados usados no prontuário.|
+| **Documentos** | Abre o [Painel Documentos](#) - permite a gestão de modelos de documentos personalizados.|
 | **Arquivos** | Abre o [Painel Arquivos](/docs/funcionalidades/arquivos/visao) - permite visualizar e anexar arquivos vinculados a pacientes, grupos ou atendimentos usando o sistema integrado de gerenciamento de arquivos.|
 | **Relatórios** | Abre o [Painel Relatórios](/docs/funcionalidades/relatorios/visao) - oferece ferramentas para gerar relatórios detalhados sobre desempenho, finanças e relacionamento, facilitando análise estratégica dos atendimentos.|
 | **Sobre o eConsult** | Abre a [página principal da Central de Ajuda eConsult](/) |
