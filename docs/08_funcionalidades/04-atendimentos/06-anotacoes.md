@@ -50,3 +50,4 @@ Ao clicar nesse botão, será aberta a tela de edição de texto com recursos de
 
 Se quiser saber mais sobre a funcionalidade de Inteligência Artificial em anotações clínicas [clique aqui](/docs/funcionalidades/atendimentos/anotacoes-ia).
 :::
+

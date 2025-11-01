@@ -177,7 +177,7 @@ Com ela, o eConsult reafirma seu compromisso em unir **profundidade clínica**, 
 
 ---
 
-### 🎬 *Explorando a Aba Área do Paciente *
+#### 🎬 *Explorando a Aba Área do Paciente *
 
 <video
   src="https://econsultapp.com/videos/pacientes-e-grupos-terapeuticos/explorando-area-do-paciente.mp4"
@@ -193,7 +193,6 @@ Com ela, o eConsult reafirma seu compromisso em unir **profundidade clínica**, 
 >
   Seu navegador não suporta vídeo HTML5.
 </video>
-
 <p style={{ color: '#666', fontSize: '0.9rem' }}>
-  Neste vídeo, é possível visualizar algumas das principais funcionalidades sobre a "Área do Paciente".
+  Neste vídeo, é possível visualizar algumas das principais funcionalidades sobre a Área do Paciente.
 </p>

@@ -167,3 +167,50 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
     - Em caso de recesso, a agenda bloqueará automaticamente a data, impedindo qualquer agendamento de atendimento nesse dia.
 :::
 
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+#### 🎬 *Agendando um atendimento*
+
+<video
+  src="https://econsultapp.com/videos/atendimentos/incluindo-um-atendimento.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo, é possível acompanhar o agendamento de um atendimento.
+</p>
+
+---
+
+#### 🎬 *Agendando múltiplos atendimentos*
+
+<video
+  src="https://econsultapp.com/videos/atendimentos/incluindo-atendimentos-multiplos.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo, é possível acompanhar o agendamento de múltiplos atendimentos.
+</p>

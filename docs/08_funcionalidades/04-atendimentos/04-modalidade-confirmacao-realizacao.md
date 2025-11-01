@@ -65,3 +65,29 @@ Quando o profissional cadastra múltiplos atendimentos no eConsult:
 
 - Os atendimentos com data e horário já passados ficam com "anotação de realização pendente".
 :::
+
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+#### 🎬 *Confirmando e anotando realização em atendimento*
+
+<video
+  src="https://econsultapp.com/videos/atendimentos/status-atendimento.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo, é possível acompanhar uma anotação de "confirmado" e uma de "realizado".
+</p>

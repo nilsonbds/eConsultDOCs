@@ -72,7 +72,7 @@ Esses recursos proporcionam flexibilidade na configuração da sua agenda, permi
 
 ---
 
-### 🎬 *Incluindo Disponibilidades*
+#### 🎬 *Incluindo Disponibilidades*
 
 <video
   src="https://econsultapp.com/videos/configuracoes/incluindo-disponibilidades.mp4"

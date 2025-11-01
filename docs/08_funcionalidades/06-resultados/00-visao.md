@@ -39,3 +39,29 @@ Essa aba permite uma análise retrospectiva baseada em dados mensais dos anos an
 :::
 
 Com essas três abas integradas, o Painel Resultados se torna uma ferramenta robusta para o acompanhamento contínuo do desempenho da organização dentro da eConsult.
+
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+#### 🎬 *Explorando Painel Resultados*
+
+<video
+  src="https://econsultapp.com/videos/resultados/explorando-painel-resultados.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    maxWidth: '100%',
+    borderRadius: '12px',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo é possível ver um pouco do funcionamento do Painel Resultados.
+</p>

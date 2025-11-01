@@ -80,7 +80,7 @@ Para facilitar ainda mais o acesso e a consulta, a opção "Visualizar" ![Painel
 
 ---
 
-### 🎬 *Incluindo novo arquivo para paciente (desktop)*
+#### 🎬 *Incluindo novo arquivo para paciente*
 
 <video
   src="https://econsultapp.com/videos/arquivos/incluindo-novo-arquivo-para-paciente.mp4"
@@ -96,7 +96,28 @@ Para facilitar ainda mais o acesso e a consulta, a opção "Visualizar" ![Painel
 >
   Seu navegador não suporta vídeo HTML5.
 </video>
-
 <p style={{ color: '#666', fontSize: '0.9rem' }}>
   Neste vídeo é possível verificar a inclusão de um novo arquivo para um paciente através da aba "Arquivos".
+</p>
+
+---
+
+#### 🎬 *Disponibilizando arquivos para o paciente*
+
+<video
+  src="https://econsultapp.com/videos/arquivos/disponibilizando-arquivo-para-paciente.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo é possível verificar como disponibilizar arquivos para a Área do Paciente.
 </p>

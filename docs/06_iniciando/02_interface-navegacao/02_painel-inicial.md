@@ -46,3 +46,29 @@ Além dos alertas e informações, o Painel Inicial oferece ainda atalhos rápid
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-017.png) | Abre o [Painel Modelos de Anamnese](/docs/funcionalidades/modelo-anamnese/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-019.png) | Abre o [Painel Arquivos](/docs/funcionalidades/arquivos/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-020.png) | Abre o [Painel Relatórios](/docs/funcionalidades/relatorios/visao) |
+
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+#### 🎬 *Explorando Painel Inicial*
+
+<video
+  src="https://econsultapp.com/videos/welcome/explorando-painel-inicial.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    maxWidth: '100%',
+    borderRadius: '12px',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo é possível verificar o funcionamento do Painel Inicial.
+</p>

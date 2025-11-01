@@ -183,7 +183,7 @@ Com histórico evolutivo, IA integrada e controle granular de acesso, o módulo 
 
 ---
 
-### 🎬 *Explorando o prontuário*
+#### 🎬 *Explorando o prontuário*
 
 <video
   src="https://econsultapp.com/videos/prontuario/explorando-prontuario.mp4"
@@ -206,7 +206,7 @@ Com histórico evolutivo, IA integrada e controle granular de acesso, o módulo 
 
 ---
 
-### 🎬 *Exemplo de Inteligência Artificial no Prontuário*
+#### 🎬 *Exemplo de Inteligência Artificial no Prontuário*
 
 <video
   src="https://econsultapp.com/videos/prontuario/inteligencia-artificial-prontuario.mp4"

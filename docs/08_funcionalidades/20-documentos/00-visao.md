@@ -16,7 +16,7 @@ Essa funcionalidade elimina a necessidade de editores externos, oferecendo um am
 O eConsult permite criar e gerenciar modelos de documentos reutilizáveis — como **relatórios psicológicos, declarações, termos e pareceres técnicos**.  
 Esses modelos podem conter **variáveis dinâmicas** (ex.: `@@p.nome@@`, `@@e.registro_conselho@@`) que são automaticamente substituídas pelos dados reais do paciente, grupo terapêutico ou profissional no momento da emissão.
 
-[[aqui será colocado um print]]
+![Editor de Modelos de Documentos](../../../static/img/prints/documentos/001.png)
 
 ---
 
@@ -47,7 +47,20 @@ O eConsult inclui uma biblioteca de **variáveis de substituição** que automat
 
 Essas variáveis podem ser inseridas no modelo usando o seletor lateral de variáveis.
 
-[[aqui será colocado um print]]
+<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
+  <img src="/img/prints/documentos/002.png" alt="Variáveis de ambiente" />
+  <figcaption style={{ fontStyle: "italic"}}>Variáveis de ambiente</figcaption>
+</figure>
+
+<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
+  <img src="/img/prints/documentos/003.png" alt="Variáveis Especialista" />
+  <figcaption style={{ fontStyle: "italic"}}>Variáveis Especialista</figcaption>
+</figure>
+
+<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
+  <img src="/img/prints/documentos/004.png" alt="Variáveis Paciente/Grupo" />
+  <figcaption style={{ fontStyle: "italic"}}>Variáveis Paciente/Grupo</figcaption>
+</figure>
 
 ---
 
@@ -55,7 +68,7 @@ Essas variáveis podem ser inseridas no modelo usando o seletor lateral de vari�
 A partir de qualquer documento, é possível **gerar versões em PDF ou Word (DOCX)** fielmente formatadas, prontas para impressão ou envio digital.  
 O sistema utiliza o mesmo layout HTML renderizado, garantindo **padronização visual** e **preservação da identidade profissional**.
 
-[[aqui será colocado um print]]
+![Editor de Modelos de Documentos](../../../static/img/prints/documentos/005.png)
 
 ---
 
@@ -75,36 +88,14 @@ Os documentos se integram de forma nativa com:
 
 ## Como Acessar
 
-1. No menu lateral, selecione **Documentos**.
-2. Escolha entre visualizar um modelo existente ou criar um novo.
-3. Ao editar um modelo:
+1. No menu principal, selecione **Documentos**.
+2. Escolha uma das opções: imprimir um documento a partir de um modelo, editar ou excluir um modelo existente, ou criar um novo modelo de documento.
+3. Ao imprimir:
+   - Clique em **Gerar PDF** ou **Gerar Word**.
+3. Ao editar, dupicar ou criar um modelo:
    - Utilize o **modo visual** para pré-visualizar o resultado.  
    - Ou o **modo código** para editar o HTML diretamente.
-4. Ao finalizar, clique em **Salvar Modelo**.
-5. Para emitir, selecione o modelo e clique em **Gerar PDF** ou **Gerar Word**.
-
----
-
-## Dicas
-
-:::tip DICAS
-- Use variáveis de data e hora (`@@data_extenso@@`, `@@hora@@`) para automatizar campos dinâmicos.  
-- Utilize o botão “📄 Pré-visualizar” antes de imprimir.  
-- Centralize seus modelos institucionais vinculando-os à **Conta** do profissional.  
-- Para termos recorrentes, use o mesmo modelo e apenas altere o contexto (paciente ou grupo).
-:::
-
----
-
-## Exemplo de Uso
-
-[[aqui será colocado um print]]
-
-No exemplo acima, o profissional:
-1. Escolhe o modelo **“Declaração Psicológica”**.  
-2. O sistema preenche automaticamente os dados do paciente.  
-3. Ele revisa o texto, visualiza o resultado e gera o documento em PDF.  
-4. O arquivo é salvo e vinculado ao prontuário, ficando disponível para futuras consultas.
+   - Ao finalizar, clique em **Salvar Modelo**.
 
 ---
 

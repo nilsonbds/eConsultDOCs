@@ -99,3 +99,29 @@ A exclusão de agendamento de atendimento no eConsult é uma ação que remove p
 ---
 
 Essas funcionalidades de desmarcação, remarcação e exclusão são ferramentas fundamentais no eConsult, garantindo uma gestão mais eficiente e personalizada dos agendamentos, atendendo às necessidades dos usuários e promovendo um fluxo de trabalho mais fluido dentro do ambiente profissional.
+
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+#### 🎬 *Desmarcando, remarcando e excluindo um agendamento de atendimento*
+
+<video
+  src="https://econsultapp.com/videos/atendimentos/desmarcando-remarcando-excluindo-atendimentos.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo, é possível acompanhar uma desmarcação, remarcação e exclusão de agendamentos de atendimentos.
+</p>

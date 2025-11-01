@@ -163,3 +163,29 @@ O módulo de **Avaliações Psicológicas do eConsult** se destaca por unir **ra
 
 O **módulo de Avaliações Psicológicas** do **eConsult** é uma das implementações mais completas do mercado para psicólogos.  
 Combina **evidência científica**, **automação clínica** e **respeito ético**, consolidando o eConsult como uma ferramenta de **suporte à decisão psicológica baseada em dados**, sem comprometer a autonomia profissional.
+
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+#### 🎬 *Incluindo uma avaliação psicológica em um atendimento*
+
+<video
+  src="https://econsultapp.com/videos/atendimentos/incluindo-avaliacao-psicologica-em-um-atendimento.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo, é possível acompanhar a inclusão de uma avaliação psicológica em um atendimento.
+</p>

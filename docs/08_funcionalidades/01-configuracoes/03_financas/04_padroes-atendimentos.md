@@ -61,7 +61,7 @@ Revise periodicamente seus tipos de atendimento para manter sua tabela de valore
 
 ---
 
-### 🎬 *Incluindo Tipos de Atendimento*
+#### 🎬 *Incluindo Tipos de Atendimento*
 
 <video
   src="https://econsultapp.com/videos/configuracoes/incluindo-tipos-de-atendimento.mp4"

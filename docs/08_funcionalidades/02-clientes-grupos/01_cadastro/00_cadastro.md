@@ -168,21 +168,21 @@ Para reativar um cadastro, siga os seguintes passos:
 
 Ao finalizar este processo, o status do paciente passará de inativo para ativo, possibilitando o acesso a todas as informações associadas a esse cadastro, incluindo o histórico de atendimentos, serviços ou transações. Isso proporciona agilidade e segurança ao retomar o relacionamento com o paciente ou grupo terapêutico, mantendo a integridade dos dados e o fluxo de trabalho eficiente.
 
-# Score do Paciente
+# Scores do Paciente
 
-O Score do Paciente é uma ferramenta que avalia o desempenho do paciente com base em três dimensões principais: Global, Ano e Mês. Cada dimensão fornece uma visão específica da relação do paciente com o seu negócio, considerando histórico, comportamento recente e engajamento atual.
+O Scores do Paciente é uma ferramenta que avalia o desempenho do paciente com base em três dimensões principais: Global, Ano e Mês. Cada dimensão fornece uma visão específica da relação do paciente com o seu negócio, considerando histórico, comportamento recente e engajamento atual.
 
 Essas informações são acompanhadas por indicadores que facilitam a análise do valor gerado, da frequência de interações e do custo de manutenção do paciente.
 
-## Como acessar o Score
+## Como acessar o Scores
 
-O Score pode ser visualizado clicando no botão "Score" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_score.png), localizado no canto superior direito da tela de cadastro do paciente no sistema eConsult.
+O Scores pode ser visualizado clicando no botão "Score" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_score.png), localizado no canto superior direito da tela de cadastro do paciente no sistema eConsult.
 
-## *Card* de score
+## *Card* de scores
 
     ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-031.png)
 
-O *card* de score é composto pelos seguintes elementos:
+O *card* de scores é composto pelos seguintes elementos:
 
 - **Nome do paciente:** Mostra o nome do paciente ao qual o *card* de score referencia.
 
@@ -194,9 +194,9 @@ O *card* de score é composto pelos seguintes elementos:
     - **Paciente volátil:** Apresenta **comportamento irregular**, alternando períodos de alta e baixa atividade. Pode ser sensível a fatores externos ou promoções pontuais. Requer monitoramento e estratégias personalizadas para aumentar o engajamento e reduzir a oscilação.
     - **Dados incompletos para análise:** Significa que **não há informações suficientes registradas no histórico do paciente** para gerar um score confiável ou classificá-lo em uma das categorias acima.
 
-## Seções de Score
+## Seções de Scores
 
-O Score do Paciente é apresentado por meio de três seções principais (subcards), que representam diferentes recortes de tempo:
+Os Scores do Paciente é apresentado por meio de três seções principais (subcards), que representam diferentes recortes de tempo:
 
     ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-032.png)
 
@@ -233,7 +233,7 @@ Esse conjunto de informações oferece uma visão abrangente e estratégica do c
 
 ---
 
-### 🎬 *Incluindo novo paciente (celular)*
+#### 🎬 *Incluindo novo paciente (celular)*
 
 <video
   src="https://econsultapp.com/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-paciente-mobile.mp4"
@@ -256,7 +256,7 @@ Esse conjunto de informações oferece uma visão abrangente e estratégica do c
 
 ---
 
-### 🎬 *Incluindo novo paciente (desktop)*
+#### 🎬 *Incluindo novo paciente (desktop)*
 
 <video
   src="https://econsultapp.com/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-paciente.mp4"
@@ -279,7 +279,7 @@ Esse conjunto de informações oferece uma visão abrangente e estratégica do c
 
 ---
 
-### 🎬 *Incluindo novo grupo terapêutico (celular)*
+#### 🎬 *Incluindo novo grupo terapêutico (celular)*
 
 <video
   src="https://econsultapp.com/videos/pacientes-e-grupos-terapeuticos/incluindo-novo-grupo-terapeutico-mobile.mp4"
