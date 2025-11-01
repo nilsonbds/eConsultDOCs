@@ -1,0 +1,9 @@
+{
+  "label": "Documentos",
+  "position": 20,
+  "link": {
+    "slug": "/documentos",
+    "type": "generated-index",
+    "description": "A funcionalidade Documentos do eConsult centraliza a criação e gestão de relatórios, declarações, termos e pareceres psicológicos. O sistema oferece diversos modelos pré-definidos, totalmente personalizáveis, permitindo ao psicólogo adaptar o conteúdo às suas necessidades clínicas e administrativas. Além disso, é possível criar novos modelos do zero, inserir variáveis automáticas (como dados do paciente ou profissional) e gerar arquivos em PDF ou Word com cabeçalho e rodapé institucional, garantindo padronização, agilidade e conformidade com as normas do CFP e da LGPD."
+  }
+}
