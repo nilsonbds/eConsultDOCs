@@ -37,7 +37,7 @@ Além disso, nos *cards*, está disponível a opção "Enviar link para a Área 
 O paciente ou grupo poderá acessar diversas informações relevantes, previamente definidas por você no cadastro individual. Essa abordagem facilita a comunicação, aumenta a transparência e oferece mais autonomia para o paciente ou grupo, ao mesmo tempo em que preserva seu controle sobre os acessos.
 
 :::note
-    Mais informações sobre a Área do Paciente, [clique aqui](/docs/funcionalidades/clientes-grupos/cadastro/b_aba-area-cliente).
+    Mais informações sobre a Área do Paciente, [clique aqui](/docs/funcionalidades/clientes-grupos/cadastro/aba-area-cliente).
 :::
 
 ## Informações e botões que podem constar nos *cards* de Pacientes e Grupos Terapêuticos

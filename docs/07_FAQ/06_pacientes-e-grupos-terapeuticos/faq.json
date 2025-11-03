@@ -28,7 +28,7 @@
     "public": true
   },
   {
-    "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/b_aba-area-cliente",
+    "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-area-cliente",
     "pergunta": "Como funciona a aba Área do Paciente?",
     "resposta": "Ela permite configurar o que será visível para o paciente em sua área exclusiva — como dados pessoais, endereços, arquivos, faturas e evoluções clínicas. O profissional mantém controle total sobre o que é compartilhado.",
     "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
