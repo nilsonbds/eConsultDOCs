@@ -18,6 +18,27 @@ Esses modelos podem conter **variáveis dinâmicas** (ex.: `@@p.nome@@`, `@@e.re
 
 ![Editor de Modelos de Documentos](../../../static/img/prints/documentos/001.png)
 
+#### Modelos Prontos para Uso (Biblioteca Padrão eConsult)
+Além da possibilidade de criar documentos personalizados, o eConsult já vem com uma **biblioteca completa de modelos oficiais** amplamente utilizados na prática psicológica, atendendo às normas do CFP e boas práticas clínicas.
+
+Esses modelos foram elaborados para auxiliar o profissional na rotina clínica e administrativa, permitindo adaptação livre conforme o contexto:
+
+- **Atestado Psicológico**  
+- **Declaração de Comparecimento**  
+- **Declaração Psicológica**  
+- **Laudo Psicológico**  
+- **Parecer Psicológico**  
+- **Parecer Técnico Institucional**  
+- **Relatório Multiprofissional**  
+- **Relatório Psicológico**  
+- **Termo de Alta Psicológica**  
+- **Termo de Consentimento Informado**  
+- **Termo de Devolutiva Psicológica**  
+- **Termo de Encaminhamento Psicológico**  
+- **Termo de Responsabilidade Técnica**  
+
+Esses documentos já estão prontos para uso e podem ser **editados, duplicados e personalizados** com as variáveis automáticas do sistema, garantindo padronização, agilidade e qualidade técnica desde o primeiro acesso.
+
 ---
 
 ### Edição Visual e Código HTML
@@ -92,9 +113,9 @@ Os documentos se integram de forma nativa com:
 2. Escolha uma das opções: imprimir um documento a partir de um modelo, editar ou excluir um modelo existente, ou criar um novo modelo de documento.
 3. Ao imprimir:
    - Clique em **Gerar PDF** ou **Gerar Word**.
-3. Ao editar, dupicar ou criar um modelo:
+3. Ao editar, duplicar ou criar um modelo:
    - Utilize o **modo visual** para pré-visualizar o resultado.  
-   - Ou o **modo código** para editar o HTML diretamente.
+   - Ou o **modo código** para editar o HTML diretamente.  
    - Ao finalizar, clique em **Salvar Modelo**.
 
 ---
