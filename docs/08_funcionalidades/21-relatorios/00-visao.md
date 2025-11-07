@@ -7,7 +7,20 @@ sidebar_position: 0
 O **Painel Relatórios** permite visualizar informações importantes do sistema de forma organizada, podendo aplicar filtros, escolher quais colunas mostrar e exportar os dados para **PDF** ou **planilha (CSV)**.
 É uma ferramenta útil para acompanhar atendimentos, aspectos financeiros, evolução de pacientes e outros indicadores relevantes na sua rotina.
 
-![Relatórios](../../../static/img/prints/relatorios/001.png)
+<video
+  src="https://econsultapp.com/videos/relatorio/overview-relatorios.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    maxWidth: '100%',
+    borderRadius: '12px',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
 
 ---
 
