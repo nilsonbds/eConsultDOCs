@@ -44,8 +44,9 @@ Além dos alertas e informações, o Painel Inicial oferece ainda atalhos rápid
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-016.png) | Abre o [Painel Recibos](/docs/funcionalidades/recibos/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-022.png) | Abre o [Painel Notas Fiscais](#) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-017.png) | Abre o [Painel Modelos de Anamnese](/docs/funcionalidades/modelo-anamnese/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-019.png) | Abre o [Painel Arquivos](/docs/funcionalidades/arquivos/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-024.png) | Abre o [Painel Documentos](/docs/funcionalidades/documentos/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-020.png) | Abre o [Painel Relatórios](/docs/funcionalidades/relatorios/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-019.png) | Abre o [Painel Arquivos](/docs/funcionalidades/arquivos/visao) |
 
 ---
 
