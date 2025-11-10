@@ -107,7 +107,7 @@ Durante a sessão online, o psicólogo pode:
 
 - Iniciar e gerenciar a videoconferência diretamente pelo **eConsult**.  
 - Acessar e editar dados do paciente, incluindo **cadastro**, **prontuário**, **atendimentos**, **faturas** e **anotações clínicas**.  
-- Registrar **avaliações psicológicas**, **anotações**, **arquivos anexos** e **lembretes** diretamente durante a sessão.
+- Registrar **avaliações psicológicas**, **anotações**, **arquivos anexos** e **marcadores clínicos** diretamente durante a sessão.
 
 > 🔒 Todos os dados e registros da consulta são criptografados e visíveis apenas ao psicólogo.
 

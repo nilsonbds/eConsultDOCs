@@ -28,7 +28,7 @@ Além dos alertas e informações, o Painel Inicial oferece ainda atalhos rápid
 |--------------|-------------|
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-003.png) | Abre o [Painel Pacientes e Grupos Terapêuticos](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-004.png) | Abre o [Painel Atendimentos](/docs/funcionalidades/atendimentos/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-005.png) | Abre o [Painel Lembretes de Atendimentos](/docs/funcionalidades/lembretes/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-005.png) | Abre o [Painel Marcadores Clínicos](/docs/funcionalidades/marcadores-clinicos/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-006.png) | Abre o [Painel Resultados](/docs/funcionalidades/resultados/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-007.png) | Abre o [Painel Alertas](/docs/funcionalidades/alertas/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-008.png) | Abre o [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) |

@@ -51,7 +51,7 @@
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-atendimentos",
     "pergunta": "Como funciona a aba Atendimentos?",
-    "resposta": "A aba Atendimentos exibe todo o histórico de sessões realizadas e programadas, tanto individuais quanto em grupo. Permite incluir anotações, arquivos e lembretes, além de registrar presenças e pagamentos de grupos terapêuticos.",
+    "resposta": "A aba Atendimentos exibe todo o histórico de sessões realizadas e programadas, tanto individuais quanto em grupo. Permite incluir anotações, arquivos e marcadores clínicos, além de registrar presenças e pagamentos de grupos terapêuticos.",
     "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
     "public": true
   },

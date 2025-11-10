@@ -26,6 +26,6 @@ São as funcionalidades:
 
 - **Arquivos:** O painel permite a inclusão, alteração ou exclusão de arquivos relacionados aos atendimentos, como documentos, exames ou outros materiais pertinentes, garantindo que todas as informações estejam centralizadas (esta opção só estará disponível se você ativar a integração do eConsult com seu Google Drive).
 
-- **Lembretes de Atendimentos:** Você pode vincular o atendimento a lembretes pré-definidos, auxiliando no gerenciamento de ações que precisam ser realizadas, garantindo que nada seja esquecido.
+- **Marcadores Clínicos:** Você pode vincular o atendimento a marcadores clínicos pré-definidos, auxiliando no gerenciamento de ações que precisam ser realizadas, garantindo que nada seja esquecido.
 
 - **Lista de Presença (para grupos terapêuticoss):** No caso de grupos terapêuticos, você poderá registrar presenças e ausências dos membros do grupo, oferecendo um controle mais preciso sobre a participação de cada integrante.

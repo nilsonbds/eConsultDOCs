@@ -29,8 +29,8 @@
   },
   {
     "more_details_url": "/docs/configuracoes",
-    "pergunta": "O que são os lembretes coloridos?",
-    "resposta": "São marcadores visuais que ajudam a sinalizar ações importantes relacionadas aos atendimentos. Podem ser configurados até seis lembretes personalizados, cada um com cor, título e descrição definidos pelo profissional.",
+    "pergunta": "O que são os marcadores clínicos?",
+    "resposta": "São marcadores visuais que ajudam a sinalizar ações importantes relacionadas aos atendimentos. Podem ser configurados até seis marcadores personalizados, cada um com cor, título e descrição definidos pelo profissional.",
     "categoria": "Configurações",
     "public": true
   },

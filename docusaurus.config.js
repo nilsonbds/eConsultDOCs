@@ -155,6 +155,10 @@ const config = {
       charset: 'UTF-8',
       crossorigin: '*',
     },
+    {
+      src: "/js/tawk-control.js",
+      async: true,
+    },
   ],
 
   customFields: {

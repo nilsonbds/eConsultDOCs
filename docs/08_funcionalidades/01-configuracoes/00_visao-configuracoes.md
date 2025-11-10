@@ -20,7 +20,7 @@ O objetivo aqui é configurar e personalizar a agenda para otimizar o planejamen
 
 - **Disponibilidades:** Configure os dias e horários em que você estará disponível para atendimentos, incluindo intervalos entre sessões/atendimentos.
 - **Recessos:** Defina períodos de pausa, férias ou feriados nos quais sua agenda ficará bloqueada para agendamentos.
-- **Lembretes de Atendimentos:** Configure agrupamentos de atendimentos com base em ações pendentes, como emissão de recibos ou preenchimento de prontuários, para não esquecer de realizá-las.
+- **Marcadores Clínicos:** Configure agrupamentos de atendimentos com base em ações pendentes, como emissão de recibos ou preenchimento de prontuários, para não esquecer de realizá-las.
 
 ## Pacientes e Grupos Terapêuticos
 

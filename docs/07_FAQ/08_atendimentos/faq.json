@@ -105,9 +105,9 @@
     "public": true
   },
   {
-    "more_details_url": "/docs/funcionalidades/atendimentos/lembretes",
-    "pergunta": "Como usar lembretes nos atendimentos?",
-    "resposta": "Os lembretes permitem marcar até seis tipos diferentes de avisos, identificados por cores. Basta clicar no ícone de lembretes no card e escolher as cores correspondentes a cada tipo de alerta, como follow-ups ou pendências.",
+    "more_details_url": "/docs/funcionalidades/atendimentos/marcadores-clinicos",
+    "pergunta": "Como usar marcadores clínicos nos atendimentos?",
+    "resposta": "Os marcadores clínicos permitem marcar até seis tipos diferentes de avisos, identificados por cores. Basta clicar no ícone de marcadores clínicos no card e escolher as cores correspondentes a cada tipo de alerta, como follow-ups ou pendências.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },

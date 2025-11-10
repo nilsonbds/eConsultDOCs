@@ -18,6 +18,6 @@ As configurações da agenda são fundamentais para personalizar e otimizar o ge
 O sistema verifica se há compromissos já agendados no dia do recesso. Se houver, um aviso será emitido para evitar sobreposição.
 :::
 
-## Lembretes de Atendimentos
+## Marcadores Clínicos
 
-- **Definição dos Lembretes de Atendimentos:** Os Lembretes de Atendimentos funcionam como destaques que você pode atribuir aos seus atendimentos, permitindo chamar a atenção para informações importantes ou momentos significativos em diversos contextos. No eConsult, é possível configurar até 6 (seis) tipos de lembretes de atendimentos, cada um identificado por uma cor distinta para facilitar a organização e visualização.
+- **Definição dos Marcadores Clínicos:** Os Marcadores Clínicos de Atendimentos funcionam como destaques que você pode atribuir aos seus atendimentos, permitindo chamar a atenção para informações importantes ou momentos significativos em diversos contextos. No eConsult, é possível configurar até 6 (seis) tipos de marcadores clínicos de atendimentos, cada um identificado por uma cor distinta para facilitar a organização e visualização.

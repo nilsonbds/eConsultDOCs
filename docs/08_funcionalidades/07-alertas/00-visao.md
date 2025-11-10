@@ -54,7 +54,7 @@ O eConsult pode exibir, no Painel Alertas, as chamadas "![Painel Alertas](../../
 </figure>
 <figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/010.png" alt="Painel de Alertas" />
-  <figcaption style={{ fontStyle: "italic"}}>Recomenda a configuração dos seus Lembretes</figcaption>
+  <figcaption style={{ fontStyle: "italic"}}>Recomenda a configuração dos seus Marcadores Clínicos</figcaption>
 </figure>
 <figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
   <img src="/img/prints/alertas/011.png" alt="Painel de Alertas" />
