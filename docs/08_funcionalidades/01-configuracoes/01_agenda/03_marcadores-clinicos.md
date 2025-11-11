@@ -2,47 +2,111 @@
 sidebar_position: 3
 ---
 
-# Lembretes de Atendimentos
+# Marcadores Clínicos
 
-Os **Lembretes de Atendimentos** funcionam como destaques que você pode atribuir aos seus atendimentos, permitindo agrupar atendimentos em atenção a informações importantes ou momentos significativos em diversos contextos. 
+Os **Marcadores Clínicos** permitem ao psicólogo **destacar atendimentos** com etiquetas coloridas que representam temas, estados emocionais, fases do processo terapêutico ou qualquer outro elemento que você considere clinicamente relevante.
 
-No eConsult, é possível configurar até 6 (seis) tipos de lembretes de atendimentos, cada um identificado por uma cor distinta para facilitar a organização e visualização.
+Eles funcionam como **indicadores visuais** na agenda e ajudam na **análise de evolução** ao longo dos atendimentos.
 
-Lembretes de atendimentos podem ser extremamente úteis para organizar atendimentos, acompanhar o progresso dos seus pacientes e garantir a eficiência na gestão das sessões.
+> **Exemplos de uso:**
+> - Emoções predominantes (ex.: Ansiedade, Raiva, Tristeza)
+> - Temas trabalhados (ex.: Luto, Autoestima, Família)
+> - Etapa terapêutica (ex.: Avaliação, Reestruturação, Fechamento)
+> - Situações importantes (ex.: Crise, Encaminhamento)
 
-## Configurar Lembretes de Atendimentos
+---
 
-1. Acesse o "Painel Configurações" e clique na opção "Lembretes de Atendimentos".
+## Acessando a Tela de Marcadores
 
-    ![Painel Configurações](../../../../static/img/prints/03_lembretes-001.png)
+1. Acesse **Configurações** no menu lateral.
+2. Clique em **Marcadores Clínicos**.
 
-2. Escolha uma cor para o lembrete que você deseja configurar.
+Você verá uma lista de marcadores que podem ser **editados, reordenados ou excluídos**.
 
-    ![Painel Configurações](../../../../static/img/prints/03_lembretes-002.png)
+![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/001.png)
 
-3. Logo abaixo da cor selecionada, o sistema exibirá um campo. Insira um rótulo personalizado.
+---
 
-    ![Painel Configurações](../../../../static/img/prints/03_lembretes-003.png)
+## Alterando Marcadores Existentes
 
-4. Se preferir, personalize o rótulo do lembrete com o nome desejado.
+Para cada marcador é possível:
 
-5. Acione o botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_check.png) para salvar a configuração.
+| Ação | Resultado |
+|------|-----------|
+| **Alterar nome** | Adapta o marcador ao seu referencial clínico. |
+| **Alterar cor** | Ajusta a visualização na agenda. |
+| **Reordenar** | Define prioridade visual. |
+| **Excluir** | Remove marcadores que não fazem sentido para sua prática. |
 
-:::note Sugestão de configuração de lembretes de atendimentos
-- **Emitir recibo** - "Para lembrar de gerar o comprovante de pagamento dos atendimentos realizados."
-    - **Cor:** Verde
-- **Preencher prontuário** - "Lembrar de registrar observações clínicas ou notas após a sessão" 
-    - **Cor:** Amarela
-- **Enviar mensagem ao paciente** - "Lembrar de enviar orientação pós-sessão, material de apoio, ou confirmar agendamento futuro." 
-    - **Cor:** Laranja
-- **Agendar próxima sessão** - "Para não esquecer de combinar a continuidade do atendimento com o paciente." 
-    - **Cor:** Vermelho
-- **Atualizar plano terapêutico** - "Revisar objetivos e estratégias com base na evolução do paciente." 
-    - **Cor:** Roxo
-- **Atualizar dados do paciente** - "Lembrar de revisar ou completar informações cadastrais, como endereço, contato, convênio ou dados clínicos relevantes." 
-    - **Cor:** Azul
+---
 
-Com este exemplo, o resultado seria:
+## Criando um Novo Marcador
 
-    ![Painel Configurações](../../../../static/img/prints/03_lembretes-004.png)
+1. Clique em **Incluir novo marcador** ![Marcadores Clínicos](../../../../static/img/prints/buttons/btn_add.png) ou ![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/002.png).
+2. O sistema adicionará um item chamado *Novo Marcador*.
+3. Renomeie e selecione a cor desejada.
+4. Clique em **Salvar**.
+
+> Dica: use nomes **curtos e específicos** — leitura mais rápida na agenda.
+
+---
+
+## Restaurando Marcadores Padrão
+
+Caso deseje voltar à configuração inicial do eConsult:
+
+1. Clique em **Restaurar** ![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/003.png).
+2. Confirme.
+
+> ⚠️ Isto **substitui** sua lista atual pelos marcadores padrão.
+
+---
+
+## Salvando suas Alterações
+
+Após editar, clique em **Salvar** (![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/005.png) ou ![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/004.png)) para que:
+
+- Os marcadores fiquem disponíveis na agenda
+- Sejam aplicáveis aos atendimentos
+- Apareçam no painel de análise de marcadores
+- Possam ser utilizados ao longo do processo clínico
+
+---
+
+## Boas Práticas Clínicas
+
+- Utilize entre **8 e 14 marcadores** → quantidade ideal para interpretação.
+- Escolha **cores contrastantes** para leitura rápida.
+- Evite marcadores vagos como *"OK"* ou *"Comum"*.
+- Revise sua lista a cada **período terapêutico** (ex.: trimestralmente).
+
+:::note Recomendação
+Apesar de o sistema disponibilizar uma variedade ampla de marcadores, recomenda-se manter entre 8 e 14 em uso. Portanto, ao habilitar os marcadores do sistema, revise e exclua aqueles que não fazem parte da sua prática, mantendo apenas os que realmente utiliza.
 :::
+
+---
+
+## Exemplo de Conjunto Personalizado
+
+| Marcador | Cor | Grupo Clínico |
+|---------|-----|---------------|
+| Ansiedade | Tom quente (vermelho/salmão) | Emoções |
+| Conflitos Familiares | Laranja | Temas Relacionais |
+| Autoimagem | Azul claro | Construção Psicológica |
+| Estabilização | Verde | Processo Terapêutico |
+| Encerramento | Roxo | Etapa Terapêutica |
+
+---
+
+## Aplicação ao Longo do Processo
+
+Ao usar marcadores sessão após sessão, é possível:
+
+- Visualizar **padrões clínicos**
+- Identificar **temas que persistem**
+- Registrar mudanças de foco e evolução
+- Apoiar decisões de **encaminhamento, supervisão e fechamento**
+
+> Os Marcadores Clínicos **não são avaliativos** — são **narrativos**, expressam percepção terapêutica contextualizada.
+
+---

@@ -4,67 +4,78 @@ sidebar_position: 0
 
 # Sobre Marcadores Clínicos
 
-Os **Marcadores Clínicos** no eConsult são uma ferramenta que apoia o acompanhamento do processo terapêutico ao permitir que o psicólogo **identifique, sinalize e acompanhe temas, focos, eventos e dinâmicas recorrentes** ao longo das sessões.
+Os **Marcadores Clínicos** são uma ferramenta do eConsult que permite ao psicólogo **destacar temas, focos terapêuticos e acontecimentos relevantes** que atravessam os atendimentos ao longo do tempo. Eles ajudam a **organizar a narrativa clínica**, facilitando a visualização de padrões, recorrências e pontos de trabalho que merecem atenção no processo terapêutico.
 
-Diferentemente de simples etiquetas visuais, os Marcadores Clínicos funcionam como **eixos de sentido**, facilitando a leitura longitudinal do caso e contribuindo para uma prática mais consciente, organizada e alinhada às necessidades clínicas do paciente.
-
-![Painel Marcadores Clínicos](../../../static/img/prints/marcadores-clinicos/001.png)
-
-Quando um atendimento recebe um marcador, ele passa a ser agrupado com outros atendimentos que compartilham aquele mesmo tema ou foco clínico. Isso gera uma visão clara do que está atravessando o processo terapêutico, fortalecendo a continuidade do cuidado e evitando que elementos importantes se percam na rotina.
-
-### Por que isso é útil?
-
-- Ajuda a **visualizar temas recorrentes** ao longo do processo terapêutico.
-- Facilita a **preparação para supervisões** e elaboração de relatórios clínicos.
-- Contribui para **organizar o percurso terapêutico** do paciente.
-- Apoia a **memória clínica**, evitando perda de nuances importantes entre sessões.
+Diferente de simples etiquetas, os marcadores funcionam como **eixos de sentido**: eles agrupam atendimentos que compartilham o mesmo foco clínico, tornando possível visualizar a evolução de temas ao longo das sessões.
 
 ---
 
-## Exemplo prático
+## Como funciona
 
-Imagine que, ao longo das sessões, diferentes pacientes tragam questões relacionadas a:
+No cadastro de Atendimentos, você pode **atribuir um ou mais marcadores** a uma sessão, com a opção de **adicionar uma nota** específica daquele marcador para aquele encontro.
 
-**"Luto"**
+Mais tarde, na tela *Marcadores Clínicos*, o eConsult apresenta esses atendimentos **agrupados automaticamente** por marcador.  
+Cada grupo mostra uma lista de atendimentos onde aquele tema esteve presente.
 
-Ao aplicar esse marcador aos atendimentos relevantes, o eConsult irá **agrupar esses atendimentos** automaticamente. Dessa forma, você tem uma visão transversal clara de como esse tema aparece em diferentes processos — ou ao longo do tempo com um mesmo paciente.
-
-![Exemplo de agrupamento](../../../static/img/prints/marcadores-clinicos/002.png)
-
-Essa visualização **auxilia na elaboração de hipóteses clínicas**, compreensão de evolução e tomada de decisão terapêutica.
+> Isso permite **ver o processo terapêutico como continuidade**, e não como encontros isolados.
 
 ---
 
-## *Cards* de Atendimento com Marcadores
+## Estrutura da Tela
 
-Os *cards* de atendimento exibidos nos grupos de Marcadores Clínicos oferecem uma visão objetiva dos dados essenciais da sessão, sem perder de vista o contexto clínico.
+Na tela *Marcadores Clínicos*:
 
-![Cards Marcadores](../../../static/img/prints/marcadores-clinicos/004.png)
+- Cada marcador aparece em um **item expansível**, com sua cor e o **contador de atendimentos** relacionados.
+- Ao abrir um marcador, são exibidos cartões (*cards*) com os atendimentos vinculados.
 
 Cada card apresenta:
 
-- **Data e Horário da Sessão**
-- **Paciente Vinculado**
-- **Status da Sessão** (confirmado, realizado, não realizado etc.)
-- **Valor / Valor Pago** (quando aplicável)
-- **Outros marcadores associados**
+- **Nome do paciente**
+- **Data e horário da sessão**
+- **Status da sessão** (Realizado, Confirmado, etc.)
+- **Modalidade** (Presencial ou Remoto)
+- **Valor corrigido / acordado**
+- **Marcadores associados**
+- **Observação clínica** daquele marcador naquela sessão (quando houver)
 
-Isso permite navegar rapidamente pelos atendimentos com um olhar **clínico e contextualizado**, preservando o fio narrativo do processo.
+Além disso, cada card possui um botão de ação que abre a tela de edição do atendimento, permitindo:
+
+- Revisar anotações
+- Alterar status
+- Remarcar / Desmarcar
+- Registrar pagamentos
+
+Tudo sem sair do painel.
 
 ---
 
-:::tip
-Assim como no painel principal de Atendimentos, o painel de Marcadores Clínicos permite acessar:
+## Por que usar Marcadores Clínicos?
 
-- **Anotações** da sessão  
-- **Arquivos** vinculados  
-- **Marcadores clínicos** configurados  
-- **Informes de presença e pagamentos** (no caso de grupos terapêuticos)  
+Os marcadores ajudam a:
 
-E ainda possibilita ações como **Remarcar, Desmarcar, Excluir, alterar Modalidade e Status**, além de registrar **Recebimentos**, tudo a partir de um único botão:
+| Benefício | Descrição |
+|---------|-----------|
+| **Clareza do Processo** | Facilita perceber temas que se repetem e acompanhar sua evolução. |
+| **Preparação de Supervisão** | Ajuda a reconstruir rapidamente o percurso clínico antes de supervisões. |
+| **Elaboração de Documentos** | Dá suporte para relatórios, pareceres e laudos com mais precisão e profundidade. |
+| **Memória Clínica** | Evita que elementos importantes se percam em meio à rotina. |
 
-![Botão de ações](../../../static/img/prints/buttons/btn_card-edit.png)
-:::
+---
+
+## Recomendação de uso
+
+Embora o sistema permita criar e utilizar muitos marcadores, é recomendado manter **entre 8 e 14** marcadores ativos.  
+Isso ajuda a manter a ferramenta **clínica, organizada e significativa**.
+
+> Ao configurar seus marcadores, revise e **exclua ou desative aqueles que não fazem parte da sua prática**.
+
+---
+
+## Exemplo ilustrativo *(adaptável ao seu print)*
+
+![Marcadores Clínicos](../../../static/img/prints/marcadores-clinicos-configuracao/006.png)
+
+![Marcadores Clínicos](../../../static/img/prints/marcadores-clinicos-configuracao/007.png)
 
 ---
 
@@ -73,7 +84,8 @@ E ainda possibilita ações como **Remarcar, Desmarcar, Excluir, alterar Modalid
 Os **Marcadores Clínicos**:
 
 - Não são apenas etiquetas coloridas.
-- São **ferramentas de leitura clínica**, que apoiam a continuidade, profundidade e coerência do processo terapêutico.
-- Ajudam o psicólogo a **ver o processo como narrativa**, e não como sessões isoladas.
+- São uma **ferramenta estruturante de leitura clínica**.
+- Ajudam a observar o caso como **processo contínuo**, e não como sessões pontuais.
+- Apoiam a tomada de decisão terapêutica com mais consistência e profundidade.
 
-> **Eles ajudam a nomear aquilo que atravessa o processo terapêutico — para que não se perca, para que possa ser trabalhado.**
+> **Eles nomeiam o que atravessa o processo — para que possa ser reconhecido, acompanhado e trabalhado.**
