@@ -62,7 +62,7 @@ O **eConsult não é um sistema genérico** — ele foi criado especialmente par
 O eConsult oferece:
 - Prontuário personalizável
 - Gestão financeira integrada
-- Lembretes automáticos
+- IA integrada
 - Integração com PIX, Google Drive e IA
 
 Tudo isso por valores acessíveis e com planos flexíveis.
