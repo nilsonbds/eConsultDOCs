@@ -41,11 +41,13 @@ A tela tem dois controles para personalização de resposta
 
 Abaixo dos controles, estão disponíveis três botões que definem como a IA irá processar o texto inserido:
 
-1. **Melhorar:** ![Atendimento](../../../static/img/prints/atendimento/056.png) Refina o texto digitado, corrigindo automaticamente erros de ortografia, pontuação e gramática. Também aprimora a fluidez e o estilo, tornando o conteúdo mais claro, natural e agradável de ler.
+1. **Elaborar:** ![Atendimento](../../../static/img/prints/atendimento/057.png) A IA criará um novo texto com base no Modelo de Registro Clínico escolhido, expandindo o conteúdo sem ser criativa.
 
-1. **Elaborar:** ![Atendimento](../../../static/img/prints/atendimento/057.png) Expande o texto com base na ideia original. A IA interpreta o conteúdo e desenvolve uma versão mais completa, adicionando detalhes, exemplos ou argumentos que enriquecem a mensagem.
+1. **Melhorar:** ![Atendimento](../../../static/img/prints/atendimento/056.png) A IA corrigirá erros ortográficos e aperfeiçoará a fluidez do seu texto, mantendo o conteúdo original.
 
-1. **Responder:** ![Atendimento](../../../static/img/prints/atendimento/058.png) Trata o conteúdo inserido como uma pergunta ou solicitação e gera uma resposta direta, clara e contextualizada — simulando uma conversa com o usuário.
+1. **Expandir:** ![Atendimento](../../../static/img/prints/atendimento/058.png) A IA adicionará complementos clínicos coerentes de forma criativa ao texto, tentando não alterar o sentido original.
+
+1. **Reperguntar:** ![Atendimento](../../../static/img/prints/atendimento/089.png) O sistema transferirá o texto da resposta para o campo superior, dando início a um novo ciclo de interação com a IA.
 
 ## Campo de Resultado (Inferior)
 

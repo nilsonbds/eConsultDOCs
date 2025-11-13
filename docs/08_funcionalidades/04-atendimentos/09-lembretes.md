@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # Marcadores Clínicos
 
-A funcionalidade "Marcadores Clínicos" no sistema eConsult é uma ferramenta estratégica e altamente eficaz para aprimorar a organização, o foco e a qualidade dos atendimentos realizados. Com ela, os profissionais podem configurar até **seis tipos diferentes de marcadores**, cada um representado por uma **cor distinta**, o que proporciona uma visualização rápida e intuitiva das informações essenciais relacionadas a cada caso.
+A funcionalidade "Marcadores Clínicos" no sistema eConsult é uma ferramenta estratégica e altamente eficaz para aprimorar a organização, o foco e a qualidade dos atendimentos realizados. Com ela, os profissionais podem configurar até **quetro tipos diferentes de marcadores por atendimento**, cada um representado por uma **cor distinta**, o que proporciona uma visualização rápida e intuitiva das informações essenciais relacionadas a cada caso.
 
 Essa **codificação por cores** permite que os usuários identifiquem com facilidade os marcadores vinculados a um atendimento específico, facilitando a distinção entre diferentes categorias de ações, como follow-ups, pendências administrativas, exames a serem solicitados, entre outros. Dessa forma, as prioridades são evidenciadas com clareza, reduzindo a chance de esquecimentos e contribuindo para uma tomada de decisão mais ágil e assertiva.
 

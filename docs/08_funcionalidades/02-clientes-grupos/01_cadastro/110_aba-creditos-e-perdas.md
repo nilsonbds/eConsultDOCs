@@ -133,5 +133,5 @@ Para registrar uma determida perda (baixa contábil), você deve selecionar um a
     :::
 
     :::warning 
-    O sistema impede o registro de novos atendimentos para paciente ou grupo terapêutico que tem perdas registradas.
+    O sistema solicitará confirmação para novos atendimentos para pacientes ou grupos terapêuticos que tem perdas registradas.
     :::
