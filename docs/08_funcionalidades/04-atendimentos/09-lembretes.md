@@ -22,18 +22,16 @@ Em resumo, os "Marcadores Clínicos" representam um recurso valioso dentro do eC
 
     ![Atendimento](../../../static/img/prints/atendimento/065.png)
 
-1. Selecione os marcadores desejados clicando sobre as cores disponibilizadas.
+1. Selecione os marcadores desejados (4 no máximo) clicando nas cores disponíveis e, se necessário, adicione uma breve anotação para cada marcador.
 
     ![Atendimento](../../../static/img/prints/atendimento/066.png)
 
-1. Após selecionar os marcadores, feche a tela. 
-
-1. O sistema atualizará automaticamente o *card* do atendimento, exibindo as cores dos marcadores associados.
+1. Após fechar a tela de marcadores o sistema atualizará automaticamente o *card* do atendimento, exibindo as cores dos marcadores associados e suas respectivas anotações.
 
     ![Atendimento](../../../static/img/prints/atendimento/067.png)
 
 :::tip
-Para desvincular todos os marcadores de um atendimento, basta acionar a opção "Sem marcador" na tela "Marcadores clínicos para atendimento".
+1. Para desvincular todos os marcadores de um atendimento, basta acionar a opção "Sem marcador" na tela "Marcadores clínicos para atendimento".
 
-![Atendimento](../../../static/img/prints/atendimento/068.png)
+1. O sistema permite 4 marcadores no máximo por atendimento.
 :::
