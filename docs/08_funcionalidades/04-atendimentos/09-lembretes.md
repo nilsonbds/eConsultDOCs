@@ -30,8 +30,54 @@ Em resumo, os "Marcadores Clínicos" representam um recurso valioso dentro do eC
 
     ![Atendimento](../../../static/img/prints/atendimento/067.png)
 
-:::tip
-1. Para desvincular todos os marcadores de um atendimento, basta acionar a opção "Sem marcador" na tela "Marcadores clínicos para atendimento".
+    :::tip
+        - Para desvincular todos os marcadores de um atendimento, basta acionar a opção "Excluir todos os marcadores" na tela "Marcadores Clínicos".
 
-1. O sistema permite 4 marcadores no máximo por atendimento.
-:::
+        - O sistema permite até 4 marcadores por atendimento.
+    :::
+
+## Usando Marcadores Clínicos em Anotações Clínicas
+
+Você pode utilizar os marcadores clínicos diretamente nas anotações clínicas. Para isso, siga os passos abaixo:
+
+1. Acione a opção ![Atendimento](../../../static/img/prints/buttons/btn-anotacoes.png) no *card* do atendimento.
+
+1. O sistema abre a tela "Anotações Clínicas".
+
+    ![Atendimento](../../../static/img/prints/atendimento/047.png)
+
+1. Acione o botão "Incluir" ![Atendimento](../../../static/img/prints/buttons/btn_incluir.png).
+
+1. O sistema abre o formulário "Anotações Clínicas".
+
+    ![Atendimento](../../../static/img/prints/atendimento/090.png)
+
+1. Note que, quando há Marcadores vinculados ao atendimento, o sistema mostra a opção "Trazer Marcadores Clínicos" ![Atendimento](../../../static/img/prints/atendimento/091.png). Clique nesta opção e o sistema preencherá o campo de anotação com os conteúdos dos marcadores clínicos.
+
+    ![Atendimento](../../../static/img/prints/atendimento/092.png)
+
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+#### 🎬 *Marcadores Clínicos e Anotações Clínicas*
+
+<video
+  src="https://econsultapp.com/videos/marcadores-clinicos/uso-marcadores-em-anotacoes-clinicas.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    maxWidth: '100%',
+    borderRadius: '12px',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo, você vai descobrir como adicionar marcadores clínicos ao atendimento, aproveitá-los como anotação clínica e, depois, usar a IA para organizar tudo no padrão SOAP, facilitando o registro final no prontuário do paciente.
+</p>
