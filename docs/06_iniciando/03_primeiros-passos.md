@@ -4,25 +4,29 @@ sidebar_position: 3
 
 # Primeiros passos
 
-O eConsult oferece um checklist com recomendações/exigências para que você comece a usar a ferramenta com facilidade e eficiência.
+O eConsult oferece um checklist que reúne recomendações de configurações para você usar a ferramenta com facilidade e máxima eficiência.
 
-Este guia passo a passo foi criado para ajudar você a realizar as configurações iniciais de forma simples e segura, garantindo o máximo aproveitamento de todos os recursos disponíveis.
+Este guia passo a passo foi desenvolvido para auxiliar você a realizar as configurações iniciais de forma simples e segura, assegurando o aproveitamento total de todos os recursos.
 
 Com ele, você saberá exatamente por onde começar e quais ações seguir para obter os melhores resultados desde o primeiro acesso.
 
-O checklist fica disponível no **Painel Inicial**  no **PainelAlertas** sempre que houver tarefas pendentes. Assim, você será notificado de forma prática e centralizada, garantindo que nenhuma etapa importante passe despercebida durante o início da sua experiência com o sistema.
+O checklist é acessado por meio de um *card* de pendências que é exibido em diversas telas do sistema – apenas quando houver itens a serem concluídos.
 
-## Confira as recomendações e exigências:
+![Painel Alertas](../../static/img/prints/alertas/014.png)
+
+## Recomendações
 
 ![Painel Alertas](../../static/img/prints/alertas/015.png)
 
-A boa notícia é que o próprio eConsult se encarrega de configurar automaticamente algumas dessas recomendações/exigências para facilitar sua jornada inicial. São elas:
+A boa notícia é que o próprio eConsult se encarrega de configurar automaticamente muitas dessas recomendações para facilitar sua jornada inicial. São elas:
 
-- ***Recomendação* — Grupos Etários:** O eConsult já vem com um cadastro completo de Grupos Etários.
-- ***Exigência* — Formas de Pagamento:** O eConsult cadastra previamente diversas Formas de Pagamento.
-- ***Exigência* — Modelos de Anamnese:** O eConsult já oferece diversos Modelos de Anamnese pré-configurados de acordo com a sua especialidade, prontos para serem utilizados nos prontuários.
+- **Grupos Etários:** O eConsult já vem com um cadastro completo de Grupos Etários.
+- **Formas de Pagamento:** O eConsult cadastra previamente diversas Formas de Pagamento.
+- **Tipos de Receita:** O eConsult cadastra previamente diversos Tipos de Receita.
+- **Tipos de Despesa:** O eConsult cadastra previamente diversos Tipos de Despesa.
+- **Modelos de Anamnese:** O eConsult já oferece diversos Modelos de Anamnese pré-configurados de acordo com a sua especialidade, prontos para serem utilizados nos prontuários.
 
-## Quer ir além?
+## Configurações mais avançadas
 
 Descubra mais possibilidades com os recursos avançados disponíveis a seguir:
 
