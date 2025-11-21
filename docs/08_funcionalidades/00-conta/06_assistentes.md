@@ -38,3 +38,57 @@ Um e-mail será enviado ao assistente, convidando-o a se juntar ao eConsult. Ao 
 :::note   
 Para alterar as permissões de um assintente basta acionar a opção ![Painel Conta](../../../static/img/prints/buttons/btn_card-edit.png) no *card* correspondente, escolher as opções desejadas e acionar o botão **Salvar** ![Painel Conta](../../../static/img/prints/buttons/btn_salvar.png).
 :::
+
+## Restrições de Acesso do Assintente
+
+No eConsult, cada perfil de usuário foi cuidadosamente estruturado para refletir responsabilidades reais dentro da prática psicológica e garantir a conformidade ética e legal prevista pelo CFP e pela LGPD. Por isso, o sistema diferencia de forma rigorosa as permissões de **psicólogos** e **assistentes**, preservando a segurança das informações e a autonomia profissional.
+
+### Atribuições do Psicólogo
+
+O psicólogo é o responsável técnico pelo atendimento e, portanto, possui acesso completo às funcionalidades clínicas e de gestão, incluindo por exemplo:
+
+- Consulta, edição e registro de dados clínicos no prontuário.
+
+- Criação e edição de anotações clínicas (incluindo uso de IA).
+
+- Emissão de documentos clínicos oficiais (declarações, atestados, relatórios, TCI, etc.).
+
+- Visualização e gerenciamento de arquivos clínicos do paciente.
+
+- Realização de atendimentos presenciais e online (teleconsulta).
+
+- Acesso integral ao histórico clínico, indicadores, marcadores e evoluções.
+
+Essas ações **são exclusivas do psicólogo**, pois envolvem atos privativos da profissão e exigem responsabilidade técnica.
+
+### Atribuições do Assistente
+
+O assistente possui um papel administrativo dentro da clínica e, por isso, seu acesso é limitado a atividades de apoio à gestão, como:
+
+- Agendamento e reagendamento de atendimentos.
+
+- Atualização de dados cadastrais do paciente (informações não clínicas).
+
+- Gestão de pendências administrativas, pagamentos e status de presença.
+
+- Consulta a relatórios gerenciais.
+
+- Comunicação administrativa com os pacientes.
+
+Essas permissões (dadas pelo psicólogo) permitem que o assistente exerça suas funções operacionais sem acessar conteúdos clínicos, mantendo a privacidade e o rigor ético que o trabalho psicológico exige.
+
+### O que o Assistente não pode fazer e não tem acesso
+
+Para preservar a confidencialidade dos dados clínicos e garantir que apenas profissionais habilitados executem atos psicológicos, o assistente não pode, em nenhuma circunstância:
+
+- Acessar prontuários ou visualizar informações clínicas do paciente.
+
+- Registrar, editar ou excluir anotações clínicas.
+
+- Emitir documentos clínicos de qualquer natureza.
+
+- Realizar ou iniciar atendimentos (presenciais ou online).
+
+- Acessar indicadores clínicos, marcadores, escalas ou qualquer item de natureza técnica.
+
+Essas restrições são aplicadas automaticamente pelo eConsult e fazem parte do compromisso do sistema em promover segurança, ética profissional e conformidade normativa.

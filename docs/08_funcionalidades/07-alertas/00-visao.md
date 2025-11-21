@@ -21,69 +21,13 @@ O principal objetivo do painel Alertas é identificar e destacar situações que
 - **Eficiência Operacional:** O painel ajuda a manter o controle sobre as operações e a otimizar recursos ao focar nas áreas que realmente necessitam de intervenção.
 - **Análise e Melhoria Contínua:** Oferece dados para análise posterior, permitindo ajustes e melhorias contínuas nos processos e políticas da plataforma.
 
-## Recomendações e Exigências
+## Recomendações
 
-O eConsult pode exibir, no Painel Alertas, as chamadas "![Painel Alertas](../../../static/img/prints/alertas/002.png) Recomendações" ou "![Painel Alertas](../../../static/img/prints/alertas/002.png) Exigências", que sugerem ou exigem ações para otimizar ou dar andamento na sua experiência no eConsult.
-
-|Ícone|Descrição|
-|-|-|
-|![Painel Alertas](../../../static/img/prints/alertas/002.png)|**Recomendação:** Sugere uma ação que pode aprimorar sua experiência, embora não seja obrigatória.|
-|![Painel Alertas](../../../static/img/prints/alertas/003.png)|**Exigência:** É necessário que você tome uma ação para atender a essa exigência|
-
-### Recomendações e exigências possíveis
-
-<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
-  <img src="/img/prints/alertas/005.png" alt="Painel de Alertas" />
-  <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de Pacientes</figcaption>
-</figure>
-<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
-  <img src="/img/prints/alertas/006.png" alt="Painel de Alertas" />
-  <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de Agendamentos de Atendimentos</figcaption>
-</figure>
-<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
-  <img src="/img/prints/alertas/007.png" alt="Painel de Alertas" />
-  <figcaption style={{ fontStyle: "italic"}}>Exige o cadastramento do seu Endereço Principal</figcaption>
-</figure>
-<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
-  <img src="/img/prints/alertas/008.png" alt="Painel de Alertas" />
-  <figcaption style={{ fontStyle: "italic"}}>Recomenda a inclusão de uma Foto de Perfil</figcaption>
-</figure>
-<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
-  <img src="/img/prints/alertas/009.png" alt="Painel de Alertas" />
-  <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão do seu Logotipo</figcaption>
-</figure>
-<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
-  <img src="/img/prints/alertas/010.png" alt="Painel de Alertas" />
-  <figcaption style={{ fontStyle: "italic"}}>Recomenda a configuração dos seus Marcadores Clínicos</figcaption>
-</figure>
-<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
-  <img src="/img/prints/alertas/011.png" alt="Painel de Alertas" />
-  <figcaption style={{ fontStyle: "italic"}}>Recomenda a inclusão de Grupos Etários</figcaption>
-</figure>
-<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
-  <img src="/img/prints/alertas/012.png" alt="Painel de Alertas" />
-  <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de pelo menos uma Forma de Pagamento</figcaption>
-</figure>
-<figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
-  <img src="/img/prints/alertas/013.png" alt="Painel de Alertas" />
-  <figcaption style={{ fontStyle: "italic"}}>Exige a inclusão de pelo menos um Modelo de Anamnese</figcaption>
-</figure>
-
-:::note
-
-O próprio eConsult se encarrega de configurar automaticamente algumas dessas **recomendações/exigências** para facilitar sua jornada inicial. São eles:
-
-- **Recomendação — Grupos Etários:** O eConsult já vem com um cadastro completo de Grupos Etários.
-- **Exigência — Formas de Pagamento:** O eConsult cadastra previamente formas de pagamento.
-- **Exigência — Modelos de Anamnese:** O eConsult já oferece diversos modelos de anamnese pré-configurados de acordo com a sua especialidade, prontos para serem utilizados nos prontuários.
-
-:::
-
-Quando houver alguma **recomendação ou exigência pendente**, o **eConsult exibirá um alerta destacado no painel**, chamando sua atenção de forma clara e objetiva.
+Quando houver alguma **recomendação ou exigência de configuração pendente**, o **eConsult exibirá um *card* destacado no painel**, chamando sua atenção de forma clara e objetiva.
 
 ![Painel Alertas](../../../static/img/prints/alertas/014.png)
 
-Ao clicar neste alerta, você terá acesso a um **checklist detalhado**, que mostra exatamente o que precisa ser feito e permite acompanhar o andamento de cada item.
+Ao clicar neste *card*, você terá acesso a um **checklist** que mostra exatamente o que precisa ser feito e permite acompanhar o andamento de cada item.
 
 ![Painel Alertas](../../../static/img/prints/alertas/015.png)
 
