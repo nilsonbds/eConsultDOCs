@@ -48,7 +48,9 @@ No painel Alertas o sistema mostra a opção "Confirmação". Nesta funcionalida
 1. Acione o botão **Salvar** ![Painel Configurações](../../../../static/img/prints/buttons/btn_check.png).
 
 :::note 
-Você pode restaurar os textos com os padrões do sistema, se necessário, pressionando o botão **Restaurar padrões** ![Painel Configurações](../../../../static/img/prints/buttons/btn_restaurar-padrao.png).
+Você pode restaurar os textos com os padrões do sistema, se necessário, pressionando o botão **Restaurar**.
+
+![Painel Configurações](../../../../static/img/prints/buttons/btn_restaurar-padrao.png)
 :::
 
 

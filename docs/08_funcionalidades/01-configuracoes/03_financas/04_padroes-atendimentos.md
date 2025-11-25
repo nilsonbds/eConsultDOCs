@@ -39,7 +39,9 @@ O **eConsult** permite que cada profissional personalize seus **Tipos de Atendim
    ![Botão Salvar](../../../../static/img/prints/buttons/btn_salvar.png)
 
 :::tip
-Clique em “Restaurar padrão do sistema” se desejar restaurar para os padrões do sistema.
+Clique em “Restaurar” se desejar restaurar para os padrões do sistema.
+
+![Painel Configurações](../../../../static/img/prints/buttons/btn_restaurar-padrao.png)
 :::
 
 ---

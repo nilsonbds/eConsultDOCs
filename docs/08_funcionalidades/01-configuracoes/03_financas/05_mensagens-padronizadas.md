@@ -6,6 +6,8 @@ sidebar_position: 5
 
 O uso de mensagens padronizadas relacionadas a atendimentos é uma estratégia essencial para otimizar a comunicação com pacientes e melhorar a eficiência da comunicação com o paciente. Ao adotar mensagens predefinidas, garante-se agilidade nas interações, padronização da linguagem e um atendimento mais organizado e profissional.
 
+![Configurações](../../../../static/img/prints/07_mensagens_padronizadas_001.png)
+
 ## Notificações de Cobrança
 
 O sistema permite, nas telas de faturas abertas, o envio de notificações de cobrança via WhatsApp ou e-mail para informar o paciente sobre atendimentos pendentes de pagamento. Este campo possibilita a personalização do texto padrão dessas mensagens.
@@ -23,7 +25,10 @@ Ao emitir recibos de quitação de atendimentos, o sistema utiliza um texto padr
 Além do texto padrão para recibos, é possível definir outros padrões para recibos. Isso é importante porque você pode precisar de recibos com textos diferenciados, adaptados ao perfil do paciente.
 
 :::note Para definir estes outros padrões para recibos você deve seguir os seguintes passos:
-- Acione a opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_outros-padroes-de-recibos.png).
+- Acione a opção
+    
+    ![Painel Configurações](../../../../static/img/prints/buttons/btn_outros-padroes-de-recibos.png)
+
 - O sistema abre a tela "Outros Textos Padrões para Recibos".
 - Clique no botão ![Painel Configurações](../../../../static/img/prints/buttons/btn_incluir-novo-padrao.png).
 - Preencha os campos de "Título" e "Padrão".
