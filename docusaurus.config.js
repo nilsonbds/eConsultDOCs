@@ -44,6 +44,10 @@ const config = {
     [
       'classic',
       {
+        googleGtag: {
+          trackingID: 'G-ME10V7NCD2',
+          anonymizeIP: true,
+        },
         docs: {
           sidebarPath: './sidebars.js',
         },
@@ -120,10 +124,6 @@ const config = {
         },
         { type: 'search', position: 'right' },
       ],
-    },
-    gtag: {
-      trackingID: 'G-ME10V7NCD2',
-      anonymizeIP: true,
     },
     stylesheets: [
       {
