@@ -123,3 +123,22 @@ pratica_baseada_em_evidencias:
   permalink: /pratica-baseada-em-evidencias
   description: Aplicação de conhecimentos científicos e evidências empíricas na prática psicológica, integrando dados de pesquisa, experiência clínica e contexto do paciente.
 
+coaching:
+  label: Coaching e Limites Profissionais
+  permalink: /coaching
+  description: Conteúdos que esclarecem as diferenças entre coaching e psicologia, destacando limites éticos, riscos, regulamentação e orientações para atuação responsável.
+
+pratica-clinica:
+  label: Prática Clínica
+  permalink: /pratica-clinica
+  description: Conteúdos voltados ao exercício clínico da psicologia, incluindo instrumentos, técnicas terapêuticas, manejo de casos e responsabilidades profissionais.
+
+cfp:
+  label: CFP – Conselho Federal de Psicologia
+  permalink: /cfp
+  description: Publicações relacionadas às normas, resoluções, orientações técnicas e posicionamentos oficiais do Conselho Federal de Psicologia.
+
+saude-mental:
+  label: Saúde Mental
+  permalink: /saude-mental
+  description: Conteúdos dedicados à promoção da saúde mental, cuidados psicológicos, prevenção de sofrimento psíquico e orientação baseada em ciência.
