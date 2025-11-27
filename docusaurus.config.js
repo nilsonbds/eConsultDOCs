@@ -121,6 +121,10 @@ const config = {
         { type: 'search', position: 'right' },
       ],
     },
+    gtag: {
+      trackingID: 'G-ME10V7NCD2',
+      anonymizeIP: true,
+    },
     stylesheets: [
       {
         href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap',
