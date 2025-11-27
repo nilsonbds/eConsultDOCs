@@ -142,3 +142,8 @@ saude-mental:
   label: Saúde Mental
   permalink: /saude-mental
   description: Conteúdos dedicados à promoção da saúde mental, cuidados psicológicos, prevenção de sofrimento psíquico e orientação baseada em ciência.
+
+comportamento:
+  label: Comportamento
+  permalink: /comportamento
+  description: Conteúdos sobre processos psicológicos, padrões de comportamento e dinâmicas sociais que influenciam a vida cotidiana e a prática clínica.
