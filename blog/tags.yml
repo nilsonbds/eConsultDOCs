@@ -70,7 +70,7 @@ lgpd:
 
 segurança:
   label: "Segurança da Informação"
-  permalink: "/seguranca"
+  permalink: "/seguranca-da-informacao"
   description: "Segurança da informação é o conjunto de práticas, tecnologias e políticas que protegem dados contra acessos não autorizados, perdas ou vazamentos. No eConsult, envolve criptografia ponta a ponta, autenticação multifator, backups redundantes e monitoramento contínuo, assegurando a confidencialidade e a integridade dos registros clínicos."
 
 historico:
@@ -147,3 +147,13 @@ comportamento:
   label: Comportamento
   permalink: /comportamento
   description: Conteúdos sobre processos psicológicos, padrões de comportamento e dinâmicas sociais que influenciam a vida cotidiana e a prática clínica.
+
+documentacao:
+  label: Documentação Clínica
+  permalink: /documentacao
+  description: Conteúdos sobre registros clínicos, prontuários, organização documental e boas práticas técnicas na psicologia.
+
+seguranca:
+  label: Segurança e Sigilo
+  permalink: /seguranca
+  description: Conteúdos sobre proteção de dados clínicos, sigilo profissional, criptografia e conformidade com a LGPD no contexto da psicologia.
