@@ -23,9 +23,9 @@ O principal objetivo do painel Alertas é identificar e destacar situações que
 
 ## Recomendações
 
-Quando houver alguma **recomendação ou exigência de configuração pendente**, o **eConsult exibirá um *card* destacado no painel**, chamando sua atenção de forma clara e objetiva.
+Sempre que houver alguma recomendação ou etapa de configuração pendente, o eConsult exibirá um card de pendências em destaque no painel, garantindo que você visualize facilmente o que precisa ser concluído.
 
-![Painel Alertas](../../../static/img/prints/alertas/014.png)
+![Painel Alertas](../../../static/img/prints/check-list-pendencias.png)
 
 Ao clicar neste *card*, você terá acesso a um **checklist** que mostra exatamente o que precisa ser feito e permite acompanhar o andamento de cada item.
 

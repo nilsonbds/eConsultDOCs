@@ -4,15 +4,13 @@ sidebar_position: 3
 
 # Primeiros passos
 
-O eConsult oferece um checklist que reúne recomendações de configurações para você usar a ferramenta com facilidade e máxima eficiência.
+O eConsult conta com um checklist inteligente que reúne orientações essenciais para você configurar o sistema com praticidade e eficiência.
 
-Este guia passo a passo foi desenvolvido para auxiliar você a realizar as configurações iniciais de forma simples e segura, assegurando o aproveitamento total de todos os recursos.
+Esse passo a passo foi criado para guiá-lo nas definições iniciais de maneira rápida e segura, garantindo que você aproveite todo o potencial da ferramenta desde o primeiro acesso. Assim, você sempre saberá onde começar e quais ações realizar para obter os melhores resultados.
 
-Com ele, você saberá exatamente por onde começar e quais ações seguir para obter os melhores resultados desde o primeiro acesso.
+O checklist pode ser acessado por meio de um card de pendências exibido em diferentes telas do sistema — apenas quando ainda houver etapas a concluir.
 
-O checklist é acessado por meio de um *card* de pendências que é exibido em diversas telas do sistema – apenas quando houver itens a serem concluídos.
-
-![Painel Alertas](../../static/img/prints/alertas/014.png)
+![Painel Alertas](../../static/img/prints/check-list-pendencias.png)
 
 ## Recomendações
 

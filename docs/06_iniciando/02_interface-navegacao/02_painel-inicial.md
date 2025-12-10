@@ -14,15 +14,41 @@ O Painel Inicial exibe, primeiramente, alertas e informes importantes, destacand
 
 ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002.png)
 
-- **Atendimentos agendados para hoje:** Mostra a quantidade de atendimentos agendados para o dia atual.
-- **Anotação(ões) de confirmação pendente(s):** Mostra o número de confirmações de atendimentos pendentes e tem link para o painel Alertas.
-- **Anotação(ões) de realização pendente(s):** Mostra o número de anotações de realizado ou não realizado pendentes em atendimentos e tem link para o painel Alertas.
-- **Pagamento(s) em atraso:** Mostra o número de recebimentos pendentes e tem link para o painel Alertas.
-- **Paciente(s) ativo(s) sem e-mail, celular e/ou data de nascimento:** Mostra o número de cadasros de pacientes ou grupos terapêuticos que não tem e-mails e/ou celular cadastrados.
+- **Atendimentos no dia DD/MM/YYYY** – Exibe a quantidade de atendimentos agendados para o dia atual. Ao clicar, abre a agenda já posicionada no dia atual.
 
+  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-A.png)
+
+- **Próximo atendimento em DD/MM/YYYY às hh:mm com [nome do paciente ou grupo]** – Exibido apenas quando há um próximo atendimento agendado. Mostra data, horário e o paciente/grupo correspondente. Ao clicar, abre a agenda diretamente no dia desse atendimento.
+
+  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-B.png)
+
+- **Organize seus atendimentos ou finalize seus registros** – Exibido somente quando não há próximos atendimentos agendados. Exibe uma mensagem de orientação para produtividade. Ao clicar, abre a agenda no dia atual.
+
+  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-C.png)
+
+- **Atendimento a confirmar com paciente/grupo** – Exibido apenas quando há atendimentos pendentes de confirmação. Mostra a quantidade de atendimentos que ainda precisam de retorno do paciente/grupo. Ao clicar, abre a tela de Alertas com os itens pendentes destacados para ação.
+
+  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-D.png)
+  
+- **Atendimentos aguardando registro de realização** – Exibido somente quando existem atendimentos já ocorridos que ainda não tem anotação de realização registrados. Mostra a quantidade de registros pendentes. Ao clicar, abre a tela de Alertas com esses atendimentos destacados para conclusão.
+
+  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-E.png)
+  
+- **Pagamentos vencidos** – Exibido apenas quando existem pagamentos pendentes com data de vencimento já expirada. Mostra a quantidade de cobranças em atraso. Ao clicar, abre a tela de Alertas com esses pagamentos destacados para regularização.
+
+  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-F.png)
+  
+- **Pacientes com cadastro incompleto** – Exibido somente quando há pacientes com informações essenciais faltando (E-mail, Celular ou Data de Nascimento). Mostra a quantidade de cadastros incompletos. Ao clicar, abre a tela de Alertas com esses pacientes destacados para atualização dos dados.
+
+  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-G.png)
+  
 - **Sua conta:** Atalho para o Painel Conta.
 
-Além dos alertas e informações, o Painel Inicial oferece ainda atalhos rápidos para as principais funcionalidades do sistema. Esses atalhos foram projetados para facilitar a navegação e agilizar o acesso às ferramentas mais utilizadas, otimizando o fluxo de trabalho e a gestão das operações diárias.
+- **Ajuda**: Atalho para a Central de Ajuda, onde você encontra orientações sobre o uso do sistema.
+
+- **Sair**: Encerra sua sessão e retorna para a página inicial do site eConsult.
+
+Além destes alertas e informações, o Painel Inicial oferece ainda atalhos rápidos para as principais funcionalidades do sistema. Esses atalhos foram projetados para facilitar a navegação e agilizar o acesso às ferramentas mais utilizadas, otimizando o fluxo de trabalho e a gestão das operações diárias.
 
 |Atalho|Destino|
 |--------------|-------------|
@@ -48,28 +74,6 @@ Além dos alertas e informações, o Painel Inicial oferece ainda atalhos rápid
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-020.png) | Abre o [Painel Relatórios](/docs/funcionalidades/relatorios/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-019.png) | Abre o [Painel Arquivos](/docs/funcionalidades/arquivos/visao) |
 
----
+Por fim, ao final da página, o painel exibe os seis posts mais recentes do blog, com conteúdos relevantes para a atuação do psicólogo.
 
-## 🎞️ Vídeos Curtos
-
----
-
-#### 🎬 *Explorando Painel Inicial*
-
-<video
-  src="https://econsultapp.com/videos/welcome/explorando-painel-inicial.mp4"
-  height="auto"
-  controls
-  preload="metadata"
-  style={{
-    maxWidth: '100%',
-    borderRadius: '12px',
-    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
-    margin: '8px 0'
-  }}
->
-  Seu navegador não suporta vídeo HTML5.
-</video>
-<p style={{ color: '#666', fontSize: '0.9rem' }}>
-  Neste vídeo é possível verificar o funcionamento do Painel Inicial.
-</p>
+![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-H.png)
