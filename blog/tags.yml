@@ -157,3 +157,19 @@ seguranca:
   label: Segurança e Sigilo
   permalink: /seguranca
   description: Conteúdos sobre proteção de dados clínicos, sigilo profissional, criptografia e conformidade com a LGPD no contexto da psicologia.
+
+carreira:
+  label: Carreira
+  permalink: /carreira
+  description: Conteúdos sobre desenvolvimento profissional na Psicologia, incluindo modelos sustentáveis de prática clínica, posicionamento, estratégia, produtividade e evolução contínua na carreira do psicólogo.
+
+saude-mental-do-profissional:
+  label: Saúde Mental do Profissional
+  permalink: /saude-mental-do-profissional
+  description: Artigos dedicados ao bem-estar emocional de psicólogos e profissionais da saúde, abordando autocuidado, prevenção de burnout, limites éticos de carga de trabalho e práticas de saúde ocupacional.
+
+gestao-da-clinica:
+  label: Gestão da Clínica
+  permalink: /gestao-da-clinica
+  description: Publicações sobre organização, processos, eficiência operacional e boas práticas de gestão para consultórios e clínicas de psicologia, incluindo fluxo de trabalho, finanças e experiência do paciente.
+
