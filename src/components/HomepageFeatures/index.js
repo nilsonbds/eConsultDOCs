@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    link: '/docs/sobre-econsult/faq',
+    link: '/docs/faq',
     title: 'Perguntas frequentes (FAQ)',
     icon: <LuBadgeHelp />,
     description: (
