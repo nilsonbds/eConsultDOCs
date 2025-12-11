@@ -10,7 +10,7 @@ O Painel Inicial foi desenvolvido para proporcionar acesso rápido e prático à
 
 ## Mensagens de alerta, avisos e atalhos
 
-O Painel Inicial exibe, primeiramente, alertas e informes importantes, destacando pendências e informes para priorizar tarefas e garantir uma gestão eficiente.
+O Painel Inicial exibe primeiro os alertas e informes mais importantes, destacando pendências e orientações que ajudam a priorizar tarefas e garantir uma gestão eficiente.
 
 ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002.png)
 
