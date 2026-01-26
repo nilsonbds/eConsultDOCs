@@ -29,6 +29,7 @@ Objetiva facilitar o gerenciamento e a personalização das informações dos pa
 - **Campos Adicionais:** Adicione e configure campos adicionais personalizados para pacientes e grupos a fim de coletar informações específicas dos pacientes/grupos, conforme as necessidades do seu negócio.
 - **Grupos Etários:** Crie e gerencie Grupos Etários para segmentação.
 - **Mensagens Padronizadas:** Crie padrões de mensagens relacionadas a pacientes e grupos.
+- **Política de Comunicação e Alertas:** Configure o painel de alertas e determine a política de comunicação com os pacientes/grupos.
 
 ## Finanças
 Gerencia aspectos financeiros relacionados ao sistema e garantir o controle e a precisão nas transações e relatórios financeiros.
@@ -36,7 +37,7 @@ Gerencia aspectos financeiros relacionados ao sistema e garantir o controle e a 
 - **Categorias de Receitas:** Defina e organize categorias para classificar receitas, facilitando a análise financeira e o planejamento.
 - **Categorias de Despesas:** Defina e organize categorias para classificar despesas, facilitando a análise financeira e o planejamento.
 - **Tipos de Atendimento:** Estabeleça configurações relacionadas a tipos de atendimentos.
-- **Mensagens Padronizadas:** Crie padrões de mensagens relacionadas a atendimentos.
+- **Mensagens Padronizadas:** Crie padrões de mensagens relacionadas a pagamentos e recibos.
 - **Regras de Cobrança:** Permite o cadastro de regras de cobrança para os atendimentos, incluindo descontos, multas, juros por atraso e mora diária.
 
 ## Integrações

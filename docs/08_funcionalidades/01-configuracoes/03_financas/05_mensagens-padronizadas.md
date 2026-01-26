@@ -8,11 +8,7 @@ O uso de mensagens padronizadas relacionadas a atendimentos é uma estratégia e
 
 ![Configurações](../../../../static/img/prints/07_mensagens_padronizadas_001.png)
 
-## Notificações de Cobrança
-
-O sistema permite, nas telas de faturas abertas, o envio de notificações de cobrança via WhatsApp ou e-mail para informar o paciente sobre atendimentos pendentes de pagamento. Este campo possibilita a personalização do texto padrão dessas mensagens.
-
-## Notificações de Registro de Pagamentos
+## Notificações de Registro de Pagamentos em Lote
 
 O sistema permite, nas telas de faturas fechadas, o envio de notificações de registro de quitação via WhatsApp ou e-mail para informar o paciente sobre atendimentos que tiveram sua quitação reconhecida e registrada. Este campo possibilita a personalização do texto padrão dessas mensagens.
 
