@@ -18,6 +18,10 @@ Essas comunicações ajudam a:
 
 - Automatizar tarefas administrativas repetitivas
 
+![Painel Configurações](../../../../static/img/prints/comunicacao-alertas/001.png)
+
+A tela pode ser acessada a partir do painel de configurações.
+
 ## Estrutura da tela
 
 A tela apresenta uma lista de eventos, cada um representando uma situação específica do sistema que pode gerar comunicação.
