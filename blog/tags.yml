@@ -173,3 +173,18 @@ gestao-da-clinica:
   permalink: /gestao-da-clinica
   description: Publicações sobre organização, processos, eficiência operacional e boas práticas de gestão para consultórios e clínicas de psicologia, incluindo fluxo de trabalho, finanças e experiência do paciente.
 
+comunicacao-clinica:
+  label: Comunicação Clínica
+  permalink: /blog/tags/comunicacao-clinica
+  description: >
+    Conteúdos que abordam a comunicação na prática psicológica,
+    seus limites técnicos, éticos e clínicos, e o papel da tecnologia
+    na preservação do enquadre terapêutico.
+
+tecnologia-na-saude:
+  label: Tecnologia na Saúde
+  permalink: /blog/tags/tecnologia-na-saude
+  description: >
+    Artigos sobre o uso responsável da tecnologia na área da saúde,
+    com foco em ética, segurança da informação, prática profissional
+    e suporte ao cuidado clínico.
