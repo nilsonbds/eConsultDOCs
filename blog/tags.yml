@@ -188,3 +188,27 @@ tecnologia-na-saude:
     Artigos sobre o uso responsável da tecnologia na área da saúde,
     com foco em ética, segurança da informação, prática profissional
     e suporte ao cuidado clínico.
+
+engajamento-do-paciente:
+  label: Engajamento do Paciente
+  permalink: /blog/tags/engajamento-do-paciente
+  description: >
+    Conteúdos sobre adesão ao tratamento, vínculo terapêutico,
+    acompanhamento longitudinal e estratégias clínicas e tecnológicas
+    para promover a continuidade do cuidado em saúde mental.
+
+abandono-terapeutico:
+  label: Abandono Terapêutico
+  permalink: /blog/tags/abandono-terapeutico
+  description: >
+    Análises clínicas e científicas sobre interrupção precoce da
+    psicoterapia, fatores associados ao abandono do tratamento e
+    abordagens para prevenção, retomada de vínculo e continuidade assistencial.
+
+continuidade-de-cuidado:
+  label: Continuidade de Cuidado
+  permalink: /blog/tags/continuidade-de-cuidado
+  description: >
+    Discussões sobre cuidado longitudinal em saúde mental, manutenção
+    do vínculo terapêutico, monitoramento de acompanhamento e o papel
+    da tecnologia no suporte ético e clínico à prática profissional.
