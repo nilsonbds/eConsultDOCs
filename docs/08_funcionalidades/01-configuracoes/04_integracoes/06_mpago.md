@@ -8,6 +8,8 @@ sidebar_position: 6
 Essa integração permite que você receba pagamentos de forma prática e segura por meio da conta Mercado Pago, diretamente pelo sistema eConsult, otimizando o processo de cobrança e reduzindo tarefas manuais.**
 
 :::note
+✅ **Vantagem**: Permite que pacientes ou grupos realizem o autoatendimento para gerar suas próprias cobranças diretamente no Portal do Paciente/Grupo.
+
 ✅ **Vantagem**: Você recebe confirmação automática de pagamentos em tempo real pelo webhook do Mercado Pago.
 
 ✅ **Vantagem**: Você não precisa se preocupar em atualizar o status da cobrança.
@@ -19,11 +21,13 @@ Essa integração permite que você receba pagamentos de forma prática e segura
 ❌ **Desvantagem**: Dinheiro não cai diretamente na sua conta bancária (tem que transferir do Mercado Pago).
 :::
 
-Além de aumentar a agilidade nas operações, a funcionalidade permite a geração de links de pagamento personalizados, acompanhamento do status das transações de forma automática e centralização das informações financeiras em um só lugar.
+Permite o autoatendimento de pacientes ou grupos para a geração de cobranças diretamente no Portal do Paciente/Grupo.
 
-Com a integração ao Mercado Pago, você oferece mais flexibilidade aos seus pacientes, reduz a inadimplência e proporciona uma experiência de pagamento moderna e confiável.
+Além de aumentar a agilidade nas operações, a funcionalidade possibilita a criação de links de pagamento personalizados, o acompanhamento automático do status das transações e a centralização das informações financeiras em um único local.
 
-A página de configuração Mercado Pago pode ser acessada através do [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) opção **Mercado Pago**.
+Com a integração ao Mercado Pago, você oferece mais flexibilidade aos pacientes, reduz a inadimplência e proporciona uma experiência de pagamento moderna, prática e confiável.
+
+A página de configuração do Mercado Pago pode ser acessada pelo Painel de Configurações, na opção **Mercado Pago**.
 
 Uma vez acionada a opção **Mercado Pago** o sistema abrirá a seguinte tela:
 

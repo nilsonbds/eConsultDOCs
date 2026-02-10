@@ -85,6 +85,9 @@ A interface da Área do Paciente foi desenhada para ser **intuitiva, responsiva 
 #### Aba Faturas
 - Exibe faturas emitidas para o paciente.  
 - Paciente só poderá visualizar.
+:::warning
+Uma vez integrada ao **Mercado Pago**, a plataforma possibilita que pacientes ou grupos realizem a geração de cobranças para quitação de faturas.
+:::
 
 #### Aba Créditos e Perdas
 - Mostra registros relacionados a créditos, débitos e perdas do paciente.

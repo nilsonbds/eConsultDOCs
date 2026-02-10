@@ -46,9 +46,9 @@ Ao conectar sua chave à plataforma, você permite que os pagamentos sejam reali
 
 ## Mercado Pago
 
-**Configure a integração do Mercado Pago com o eConsult para ampliar as opções de pagamento disponíveis aos seus pacientes.**
+**Configure a integração do Mercado Pago com o eConsult para ampliar as opções de pagamento disponíveis aos seus pacientes e otimizar a gestão financeira da sua operação.**
 
-Com essa integração, você pode gerar cobranças diretamente pela plataforma, aceitar cartões, boletos e PIX com segurança, além de acompanhar os recebimentos de forma centralizada, facilitando a gestão financeira da sua operação.
+Com essa integração, é possível oferecer autoatendimento para pacientes ou grupos na geração de cobranças diretamente pelo Portal do Paciente/Grupo, além de criar links de pagamento personalizados, aceitar cartões, boletos e PIX com total segurança e acompanhar automaticamente o status das transações, centralizando os recebimentos em um único ambiente.
 
 ## Focus NFe
 
