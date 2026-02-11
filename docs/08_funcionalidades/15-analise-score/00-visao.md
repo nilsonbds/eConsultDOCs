@@ -2,82 +2,182 @@
 sidebar_position: 0
 ---
 
-# Sobre Análise Inteligente de Engajamento
+# Sobre Acompanhamento Inteligente do Paciente
 
-O painel **Análise Inteligente de Engajamento** exibe a pontuação e o comportamento dos pacientes com base em dados históricos de relacionamento. As informações são organizadas por período e segmentadas em categorias para facilitar a tomada de decisões estratégicas.
+O **Acompanhamento Inteligente do Paciente** reúne, em uma única tela,
+informações clínicas, comportamentais e financeiras relacionadas ao
+atendimento terapêutico.
 
-A ferramenta avalia o desempenho dos pacientes com base em três dimensões principais: **Global, Ano e Mês**. Cada dimensão fornece uma visão específica da relação do paciente com o seu negócio, considerando histórico, comportamento recente e engajamento atual.
+Essa funcionalidade permite compreender rapidamente:
 
-Essas informações são acompanhadas por indicadores que facilitam a análise do **valor gerado**, da **frequência de interações** e do **custo de manutenção de cada paciente**.
+-   o estado clínico atual
+-   o nível de engajamento no tratamento
+-   o risco de interrupção do cuidado
+-   a evolução do relacionamento terapêutico ao longo do tempo
 
-![Análise Inteligente de Engajamento](../../../static/img/prints/analisescore/001.png)
+![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/001.png)
 
-## Seletor de Período
+------------------------------------------------------------------------
 
-![Análise Inteligente de Engajamento](../../../static/img/prints/analisescore/002.png)
+## Seletor de período
 
-- Exibe o mês atual da análise.
-- Setas permitem navegar para meses anteriores ![Análise Inteligente de Engajamento](../../../static/img/prints/buttons/btn_after.png) ou futuros ![Análise Inteligente de Engajamento](../../../static/img/prints/buttons/btn_before.png).
-- Botão de check  aplica o mês selecionado.
+O seletor define o intervalo utilizado nas análises comportamentais e
+financeiras.
 
-## Filtros por tipo de Classificação ou Nome do Paciente
+![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/002.png)
 
-Esta seção permite ao usuário **filtrar a exibição de pacientes** com base em sua **classificação comportamental** ou localizar um paciente específico pelo **nome**.
+-   Exibe o mês de referência.
+-   Permite navegar entre meses.
+-   O botão de confirmação aplica o período selecionado.
 
-![Análise Inteligente de Engajamento](../../../static/img/prints/analisescore/003.png)
+A análise clínica sempre considera a última sessão realizada com
+marcadores, independentemente do mês selecionado.
 
-Os números entre parênteses indicam a **quantidades de pacientes** em cada classificação.
+------------------------------------------------------------------------
 
-### São os tipos de classificações possíveis:
+## Filtros de pacientes / grupos terapêuticos
 
-- **Pacientes em declínio:** Pacientes que apresentam redução progressiva na frequência de interações e no valor gerado. Podem estar perdendo o interesse ou migrando para concorrentes. Exigem atenção e possíveis ações de reativação, como campanhas de retenção ou ofertas personalizadas.
-- **Pacientes em crescimento:** Pacientes que mostram evolução positiva, com aumento na frequência de compras ou atendimentos e no valor gerado. Estão em processo de consolidação do relacionamento com a sua organização e podem ser alvos para ações de fidelização e up-sell.
-- **Pacientes estáveis e engajados:** Apresentam comportamento consistente, com boa frequência e geração de valor contínua. São pacientes confiáveis e fiéis, já consolidados, ideais para manutenção do relacionamento, programas de recompensa e possíveis influenciadores da sua marca.
-- **Pacientes voláteis:** Apresentam comportamento irregular, alternando períodos de alta e baixa atividade. Podem ser sensível a fatores externos ou promoções pontuais. Requerem monitoramento e estratégias personalizadas para aumentar o engajamento e reduzir a oscilação.
-- **Todos:** Todos os Pacientes.
+Permite localizar pacientes ou grupos terapêuticos por:
 
-Para filtrar e exibir apenas pacientes de um tipo de classificação, basta clicar sobre o link respectivo.
+-   Classificação comportamental
+-   Nome
 
-Você pode ainda filtrar por nome de paciente, para isso basta preencher o campo correspondente.
+![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/003.png)
 
-## *Card* de Score
+Os números exibidos indicam a quantidade de pacientes/grupos em cada classificação comportamental.
 
-![Análise Inteligente de Engajamento](../../../static/img/prints/analisescore/004.png)
+### Classificações comportamentais
 
-O *card* de score é composto pelos seguintes elementos:
+-   **Pacientes em declínio**\
+    Redução de frequência ou valor de atendimentos.
 
-- **Nome do paciente:** Mostra o nome do paciente ao qual o *card* de score referencia.
-- **Classificação:** Mostra como o paciente foi classificado.
-- **Seções do *card* de score:** Sendo GLOBAL, ANO e MÊS.
+-   **Pacientes em crescimento**\
+    Aumento de interações e fortalecimento do vínculo terapêutico.
 
-### Seções do *Card* de Score
+-   **Pacientes estáveis e engajados**\
+    Frequência regular e continuidade do cuidado.
 
-O Score do Paciente é apresentado por meio de três seções principais, que representam diferentes recortes de tempo:
+-   **Pacientes voláteis**\
+    Oscilações de presença ou adesão.
 
-![Análise Inteligente de Engajamento](../../../static/img/prints/analisescore/005.png)
+-   **Todos**\
+    Exibe a lista completa.
+
+------------------------------------------------------------------------
+
+## *Card* do paciente
+
+Cada paciente é apresentado em um *card* de acompanhamento com leitura
+rápida.
+
+![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/006.png)
+
+O *card* contém três áreas principais:
+
+1.  Estado clínico
+2.  Engajamento comportamental
+3.  Próximos passos sugeridos
+
+------------------------------------------------------------------------
+
+## Estado clínico
+
+Baseado na última sessão realizada com marcadores clínicos.
+
+Exibe:
+
+-   **Estado Clínico (na data do último marcador clínico)**
+-   **Engajamento terapêutico (0--100)**
+-   **Risco clínico (0--100)**
+-   **Estágio do processo terapêutico**
+
+Quando não há marcadores clínicos, o sistema informa:
+
+> **Avaliação clínica inicial pendente**\
+> Registre os primeiros marcadores para iniciar a análise clínica.
+
+------------------------------------------------------------------------
+
+## Engajamento comportamental
+
+Avalia a continuidade do cuidado com base na frequência de atendimentos.
+
+Inclui:
+
+-   **Score de engajamento comportamental (0--100)**
+-   **Risco de abandono nos próximos 30 dias**
+-   **Frequência típica de atendimento**
+-   **Tempo desde a última sessão realizada**
+-   **Síntese do relacionamento**
+    -   Cliente estável e engajado
+    -   Evolução clínica positiva
+    -   Risco de abandono elevado
+    -   Necessidade de reavaliação do cuidado
+
+### Métricas complementares do engajamento comportamental
+
+Também são exibidos três *subcards* de recortes de tempo. 
 
 - **GLOBAL**: Considera todo o histórico do paciente desde o início do relacionamento com a sua organização.
 - **ANO**: Refere-se aos dados acumulados no ano corrente.
 - **MÊS**: Apresenta as informações referentes ao comportamento mais recente, no mês atual.
 
-Cada uma dessas seções exibe um conjunto de indicadores que refletem o desempenho do paciente no período correspondente, sendo:
+Cada um destes *subcards* exibe um conjunto de indicadores que refletem o desempenho do paciente no período correspondente, sendo:
 
-- **Score**: Valor numérico gerado com base na fórmula:
-    - ```(LTV - CLC) / 100```
+1. **Classificação por Estrelas e Descrições**: representação de estrelas, legenda e informação, variando de 1 a 5, conforme o desempenho do paciente:
 
-- **Classificação por Estrelas**: representação de estrelas, legenda e informação, variando de 1 a 5, conforme o desempenho do paciente:
-    - **★★★★★ – Excelente – Muito acima da média**: O paciente, no período, demonstrou que está muito acima da média em valor gerado, frequência e engajamento. Costuma ser altamente fiel, constante e valioso para o negócio. Ideal para programas de fidelização e reconhecimento.
-    - **★★★★ – Bom – Acima da média**: No período demostrou ter um bom histórico de interações e contribuições financeiras, com potencial para se tornar um paciente excelente. Merece atenção para fortalecimento do relacionamento.
-    - **★★★ – Normal – Dentro da média**: Apresentou no período um comportamento regular e estável. Ainda não demonstra sinais claros de crescimento ou risco. Estratégias de engajamento e acompanhamento podem melhorar seu desempenho.
-    - **★★ – Alerta – Abaixo da média**: Pode estar diminuindo, no período, o número de interações ou o valor gerado. Requer análise e ações de reengajamento para evitar perda de relacionamento.
-    - **★ – Crítico – Muito abaixo da média**: Pouca ou nenhuma interação no período e baixo valor agregado. Pode estar em risco de perda ou abandono. Recomenda-se ação imediata de recuperação.
-    - **Nenhuma estrela – Sem dados**: Não há dados suficientes do período para gerar um score confiável. Isso ocorre normalmente com pacientes recém-cadastrados ou com histórico incompleto. É necessário aguardar o acúmulo de informações.
-- **FREQ (Frequência)**: número de atendimentos ou interações do paciente no período avaliado.
-- **LTV (Lifetime Value)**: valor total gerado pelo paciente para a organização no período.
-- **CLC (Customer Lifetime Cost)**: custo total no período relacionado à manutenção do paciente.
+    ★★★★★ – **Excelente** – **Muito acima da média**: O paciente, no período, demonstrou que está muito acima da média em valor gerado, frequência e engajamento. Costuma ser altamente fiel, constante e valioso para o negócio. Ideal para programas de fidelização e reconhecimento.
 
-:::tip
-    Ao clicar sobre o botão ![Análise Inteligente de Engajamento](../../../static/img/prints/buttons/btn_info.png), o sistema abre a tela "Gráficos e Indicadores", cujo conteúdo é similar ao apresentado na tela de [Cadastro de paciente / Aba Resultados](/docs/funcionalidades/clientes-grupos/cadastro/aba-resultados).
+    ★★★★ – **Bom** – **Acima da média**: No período demostrou ter um bom histórico de interações e contribuições financeiras, com potencial para se tornar um paciente excelente. Merece atenção para fortalecimento do relacionamento.
+    
+    ★★★ – **Normal** – **Dentro da média**: Apresentou no período um comportamento regular e estável. Ainda não demonstra sinais claros de crescimento ou risco. Estratégias de engajamento e acompanhamento podem melhorar seu desempenho.
+    
+    ★★ – **Alerta** – **Abaixo da média**: Pode estar diminuindo, no período, o número de interações ou o valor gerado. Requer análise e ações de reengajamento para evitar perda de relacionamento.
+    
+    ★ – **Crítico** – **Muito abaixo da média**: Pouca ou nenhuma interação no período e baixo valor agregado. Pode estar em risco de perda ou abandono. Recomenda-se ação imediata de recuperação.
+    
+    **Nenhuma estrela – Sem dados**: Não há dados suficientes do período para gerar um score confiável. Isso ocorre normalmente com pacientes recém-cadastrados ou com histórico incompleto. É necessário aguardar o acúmulo de informações.
 
-    ![Análise Inteligente de Engajamento](../../../static/img/prints/analisescore/006.png)
-:::
+
+2. **Frequência**: Quantas vezes o paciente/grupo teve atendimento realizado no período.
+
+------------------------------------------------------------------------
+
+## Precisão das análises
+
+Se existirem atendimentos passados não marcados como realizados, um
+aviso será exibido indicando possível redução de precisão nas análises.
+
+------------------------------------------------------------------------
+
+## Próximos passos sugeridos
+
+O sistema apresenta ações recomendadas conforme a situação do paciente como por exemplo:
+
+-   Registrar primeiros marcadores clínicos
+-   Marcar atendimentos passados como **Realizado**
+-   Reavaliar pacientes sem sessão recente
+-   Priorizar contato em caso de risco de abandono
+
+------------------------------------------------------------------------
+
+## Gráficos e indicadores do paciente
+
+Ao clicar sobre o botão ![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/007.png), o sistema abre a tela "Gráficos e Indicadores", cujo conteúdo é similar ao apresentado na tela de *Cadastro de paciente / Aba Resultados*.
+
+-   **Gráficos** financeiros e de frequência
+-   **Indicadores** consolidados do período
+
+![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/006.png)
+
+------------------------------------------------------------------------
+
+## Conclusão
+
+O Acompanhamento Inteligente do Paciente apoia o profissional na
+condução do cuidado, permitindo:
+
+-   identificar pacientes que precisam de atenção
+-   agir precocemente diante de riscos
+-   acompanhar a evolução terapêutica
+-   organizar a prática clínica com maior clareza

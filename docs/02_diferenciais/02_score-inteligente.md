@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# Análise Inteligente de Engajamento
+# Acompanhamento Inteligente do Paciente
 
 ***Inteligência para engajamento e gestão de pacientes.***
 
-A **Análise Inteligente de Engajamento** é uma funcionalidade estratégica do eConsult que apoia tanto a gestão administrativa do consultório quanto no apoio clínico ao paciente.  
+A **Acompanhamento Inteligente do Paciente** é uma funcionalidade estratégica do eConsult que apoia tanto a gestão administrativa do consultório quanto no apoio clínico ao paciente.  
 
 Com ela, o profissional acompanha de forma analítica e visual o comportamento dos pacientes, identifica oportunidades de engajamento e promove maior fidelização.
 
@@ -44,7 +44,7 @@ Essas informações possibilitam ações estratégicas, como:
 
 ## Visualização no Painel de Resultados
 
-Na seção **“Análise Inteligente de Engajamento”**, gráficos e indicadores apresentam de forma clara:
+Na seção **“Acompanhamento Inteligente do Paciente”**, gráficos e indicadores apresentam de forma clara:
 
 - Padrões de comportamento.  
 - Tendências relevantes para o consultório.  
@@ -54,7 +54,7 @@ Na seção **“Análise Inteligente de Engajamento”**, gráficos e indicadore
 
 ## Valor Clínico e Administrativo
 
-A Análise Inteligente de Engajamento contribui diretamente para:
+A Acompanhamento Inteligente do Paciente contribui diretamente para:
 
 - Controle otimizado da **frequência de pacientes**.  
 - Apoio em **ações de fidelização e continuidade de tratamento**.  
@@ -64,7 +64,7 @@ A Análise Inteligente de Engajamento contribui diretamente para:
 
 ## Combinando com Outros Recursos do eConsult
 
-Combinada a módulos como **agenda, prontuário e gestão financeira**, a Análise Inteligente de Engajamento transforma o eConsult em um verdadeiro **hub estratégico**, unindo:
+Combinada a módulos como **agenda, prontuário e gestão financeira**, a Acompanhamento Inteligente do Paciente transforma o eConsult em um verdadeiro **hub estratégico**, unindo:
 
 - Gestão clínica.  
 - Organização administrativa.  
@@ -72,7 +72,7 @@ Combinada a módulos como **agenda, prontuário e gestão financeira**, a Análi
 
 ---
 
-## Por que a funcionlidade de Análise Inteligente de Engajamento do eConsult é única no mercado?
+## Por que a funcionlidade de Acompanhamento Inteligente do Paciente do eConsult é única no mercado?
 
 1. **Gestão de Engajamento Clínico**
 - Diferente da maioria dos sistemas, não se limita a agendamento ou prontuário.  

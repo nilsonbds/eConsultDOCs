@@ -47,7 +47,7 @@ Isso garante que **toda a trajetória clínica** esteja organizada em um único 
 
 ## Sinergia com Outros Recursos
 
-Em conjunto com **análises psicológicas, IA para anotações em atendimentos e Análise Inteligente de Engajamento**, o modelo de anamnese fecha o ciclo para prontuários: da coleta inicial à avaliação, registro, acompanhamento e gestão estratégica em um único ambiente integrado.
+Em conjunto com **análises psicológicas, IA para anotações em atendimentos e Acompanhamento Inteligente do Paciente**, o modelo de anamnese fecha o ciclo para prontuários: da coleta inicial à avaliação, registro, acompanhamento e gestão estratégica em um único ambiente integrado.
 
 ---
 

@@ -14,7 +14,7 @@ function ImageSlider() {
         { index: 4, src: "/img/prints/slider/004.png", alt: "Alertas", src_small: "/img/prints/slider/small/004.png" },
         { index: 5, src: "/img/prints/slider/005.png", alt: "Consolidação Financeira", src_small: "/img/prints/slider/small/005.png" },
         { index: 6, src: "/img/prints/slider/006.png", alt: "Cadastro de Pacientes e Grupos", src_small: "/img/prints/slider/small/006.png" },
-        { index: 7, src: "/img/prints/slider/007.png", alt: "Análise Inteligente de Engajamento", src_small: "/img/prints/slider/small/007.png" },
+        { index: 7, src: "/img/prints/slider/007.png", alt: "Acompanhamento Inteligente do Paciente", src_small: "/img/prints/slider/small/007.png" },
     ];
 
     const scrollInterval = useRef(null);

@@ -106,7 +106,7 @@
   },
   {
     "more_details_url": "/docs/funcionalidades/analise-score/visao",
-    "pergunta": "O que é a Análise Inteligente de Engajamento?",
+    "pergunta": "O que é a Acompanhamento Inteligente do Paciente?",
     "resposta": "É um recurso que monitora frequência, pagamentos e interações para calcular um score de engajamento, identificando pacientes em risco de abandono ou declínio de participação.",
     "categoria": "Análise de Engajamento",
     "public": true
