@@ -4,109 +4,204 @@ sidebar_position: 3
 
 # Marcadores Clínicos
 
-Os **Marcadores Clínicos** permitem ao psicólogo **destacar atendimentos** com etiquetas coloridas que representam temas, estados emocionais, fases do processo terapêutico ou qualquer outro elemento que você considere clinicamente relevante.
+Os **Marcadores Clínicos** permitem ao psicólogo **estruturar a leitura do processo terapêutico** por meio de sinais clínicos organizados, categorizados e ponderados.
 
-Eles funcionam como **indicadores visuais** na agenda e ajudam na **análise de evolução** ao longo dos atendimentos.
+Mais do que etiquetas visuais, os marcadores funcionam como:
 
-> **Exemplos de uso:**
-> - Emoções predominantes (ex.: Ansiedade, Raiva, Tristeza)
-> - Temas trabalhados (ex.: Luto, Autoestima, Família)
-> - Etapa terapêutica (ex.: Avaliação, Reestruturação, Fechamento)
-> - Situações importantes (ex.: Crise, Encaminhamento)
+- **indicadores clínicos longitudinais**
+- base para **análise de evolução do paciente**
+- suporte para **decisões terapêuticas**
+- linguagem estruturada do cuidado dentro do eConsult
 
----
-
-## Acessando a Tela de Marcadores
-
-1. Acesse **Configurações** no menu lateral.
-2. Clique em **Marcadores Clínicos**.
-
-Você verá uma lista de marcadores que podem ser **editados, reordenados ou excluídos**.
+Eles aparecem na agenda, nos atendimentos e no **Acompanhamento Inteligente do Paciente**, contribuindo para a compreensão da trajetória clínica ao longo do tempo.
 
 ![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/001.png)
 
 ---
 
+## Acessando a Configuração de Marcadores
+
+1. Acesse **Configurações** no menu lateral.
+2. Clique em **Marcadores Clínicos**.
+
+A tela apresenta:
+
+- marcadores organizados por **categoria clínica**
+- cartões com **nome, propósito, direção, valência e pesos**
+- ações rápidas para **editar, excluir ou criar novos marcadores**
+
+---
+
+## Estrutura Clínica dos Marcadores
+
+Cada marcador contém informações que permitem ao sistema interpretar seu significado clínico:
+
+| Campo | Função |
+|-------|--------|
+| **Categoria** | Organiza o raciocínio clínico (ex.: Risco, Processo, Contexto). |
+| **Nome** | Identificação rápida do fenômeno observado. |
+| **Cor** | Destaque visual na agenda e nos atendimentos. |
+| **Propósito** | Descrição breve do significado clínico. |
+| **Peso de Engajamento** | Impacto no vínculo e adesão ao tratamento. |
+| **Peso de Risco** | Impacto no risco clínico atual. |
+| **Direção** | Tendência clínica sugerida (↗ melhora, ↘ piora, — estabilidade). |
+| **Valência / Prioridade** | Gravidade ou proteção clínica do marcador. |
+
+Os campos de **direção, valência e prioridade** são calculados automaticamente a partir dos pesos informados.
+
+---
+
+## Organização por Categorias
+
+Os marcadores são exibidos em **grupos clínicos expansíveis**, como:
+
+- Sintomas e Fenômenos  
+- Risco Clínico  
+- Funcionamento e Padrões  
+- Contexto e Rede  
+- Processo Terapêutico  
+- Estágio Terapêutico  
+
+Essa organização favorece uma leitura alinhada ao **raciocínio clínico real**, permitindo identificar rapidamente áreas de maior atenção.
+
+---
+
 ## Alterando Marcadores Existentes
 
-Para cada marcador é possível:
+Em cada cartão é possível:
 
 | Ação | Resultado |
 |------|-----------|
-| **Alterar nome** | Adapta o marcador ao seu referencial clínico. |
-| **Alterar cor** | Ajusta a visualização na agenda. |
-| **Reordenar** | Define prioridade visual. |
-| **Excluir** | Remove marcadores que não fazem sentido para sua prática. |
+| **Editar nome ou cor** | Ajusta a leitura clínica e visual. |
+| **Excluir marcador** | Remove itens que não fazem sentido para sua prática. |
+
+As alterações passam a valer após clicar em **Salvar**.
 
 ---
 
 ## Criando um Novo Marcador
 
-1. Clique em **Incluir novo marcador** ![Marcadores Clínicos](../../../../static/img/prints/buttons/btn_add.png) ou ![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/002.png).
-2. O sistema adicionará um item chamado *Novo Marcador*.
-3. Renomeie e selecione a cor desejada.
+1. Clique no botão **Incluir Novo Marcador** ![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/002.png).
+2. Preencha as informações obrigatórias:
+   - Categoria  
+   - Nome  
+   - Cor  
+   - Propósito  
+   - Peso de Engajamento  
+   - Peso de Risco  
+3. Observe o **preview automático** de:
+   - direção clínica  
+   - valência  
+   - prioridade  
 4. Clique em **Salvar**.
 
-> Dica: use nomes **curtos e específicos** — leitura mais rápida na agenda.
+O sistema calculará automaticamente os demais campos clínicos.
+
+> **Dica clínica:**  
+> utilize nomes curtos, específicos e observáveis. Isso melhora a leitura longitudinal do caso.
 
 ---
 
 ## Restaurando Marcadores Padrão
 
-Caso deseje voltar à configuração inicial do eConsult:
+Para retornar à configuração inicial do eConsult:
 
 1. Clique em **Restaurar** ![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/003.png).
-2. Confirme.
+2. Confirme a ação.
 
-> ⚠️ Isto **substitui** sua lista atual pelos marcadores padrão.
+⚠️ Esta operação **substitui completamente** seus marcadores atuais pelos padrões do sistema.
 
 ---
 
-## Salvando suas Alterações
+## Salvando Alterações
 
-Após editar, clique em **Salvar** (![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/005.png) ou ![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/004.png)) para que:
+O botão **Salvar** ![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/004.png) ou ![Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos-configuracao/005.png) garante que:
 
-- Os marcadores fiquem disponíveis na agenda
-- Sejam aplicáveis aos atendimentos
-- Apareçam no painel de análise de marcadores
-- Possam ser utilizados ao longo do processo clínico
+- os marcadores fiquem disponíveis nos atendimentos
+- sejam utilizados na análise longitudinal
+- componham os indicadores do acompanhamento do paciente
+- integrem relatórios e visualizações clínicas
+
+---
+
+## Papel dos Marcadores no Acompanhamento do Paciente
+
+Quando utilizados ao longo das sessões, os marcadores permitem:
+
+- identificar **padrões recorrentes**
+- perceber **mudanças de direção clínica**
+- acompanhar **risco e engajamento**
+- sustentar decisões de **intervenção, encaminhamento ou encerramento**
+
+Eles constituem a **base estruturada do Acompanhamento Inteligente do Paciente**.
+
+> Importante:  
+> os Marcadores Clínicos **não são avaliações diagnósticas**.  
+> Eles representam **sinais narrativos contextualizados** do processo terapêutico.
 
 ---
 
 ## Boas Práticas Clínicas
 
-- Utilize entre **8 e 14 marcadores** → quantidade ideal para interpretação.
-- Escolha **cores contrastantes** para leitura rápida.
-- Evite marcadores vagos como *"OK"* ou *"Comum"*.
-- Revise sua lista a cada **período terapêutico** (ex.: trimestralmente).
+- Utilize **cores contrastantes** para facilitar a visualização.
+- Evite termos genéricos ou pouco informativos.
+- Revise periodicamente sua lista conforme a evolução da prática clínica.
 
 :::note Recomendação
-Apesar de o sistema disponibilizar uma variedade ampla de marcadores, recomenda-se manter entre 8 e 14 em uso. Portanto, ao habilitar os marcadores do sistema, revise e exclua aqueles que não fazem parte da sua prática, mantendo apenas os que realmente utiliza.
+Os marcadores devem refletir **seu modo de compreender o processo terapêutico**.  
+A personalização é parte essencial do uso clínico responsável.
 :::
 
 ---
 
-## Exemplo de Conjunto Personalizado
+## Exemplo de Conjunto Clínico
 
-| Marcador | Cor | Grupo Clínico |
-|---------|-----|---------------|
-| Ansiedade | Tom quente (vermelho/salmão) | Emoções |
-| Conflitos Familiares | Laranja | Temas Relacionais |
-| Autoimagem | Azul claro | Construção Psicológica |
-| Estabilização | Verde | Processo Terapêutico |
-| Encerramento | Roxo | Etapa Terapêutica |
+| Marcador | Categoria | Sentido Clínico |
+|----------|-----------|-----------------|
+| Ideação suicida | Risco Clínico | Risco imediato e necessidade de manejo. |
+| Ansiedade significativa | Sintomas | Sofrimento emocional predominante. |
+| Conflito familiar | Contexto | Fator relacional ativo. |
+| Aliança fortalecida | Processo | Aumento de vínculo terapêutico. |
+| Encerramento | Estágio | Finalização do processo. |
+
+---
+
+## O papel das cores nos Marcadores Clínicos
+
+As cores dos marcadores **não são decorativas**.  
+Elas fazem parte do **modelo clínico-visual do eConsult**, permitindo que o psicólogo compreenda o estado do cuidado **em poucos segundos**.
+
+A definição das cores segue quatro critérios combinados:
+
+| Critério | O que representa | Pergunta clínica implícita |
+|----------|------------------|----------------------------|
+| **Gravidade / urgência** | Intensidade do risco ou sofrimento | *Preciso agir agora?* |
+| **Domínio fenomenológico** | Tipo de fenômeno clínico | *É sintoma, risco, contexto ou processo?* |
+| **Posição no processo terapêutico** | Momento do cuidado | *Estamos em crise, intervenção ou estabilização?* |
+| **Legibilidade cognitiva** | Rapidez de leitura visual | *Entendo o estado do caso em 1 segundo?* |
+
+### Significado clínico das famílias de cores
+
+| Família de cor | Categoria clínica | Sentido terapêutico |
+|----------------|-------------------|---------------------|
+| **Preto / vermelho escuro** | Risco clínico | Prioridade máxima, necessidade de cuidado imediato |
+| **Vermelho / laranja** | Sintomas e sofrimento ativo | Alta carga emocional e ativação psíquica |
+| **Rosa / roxo médio** | Funcionamento e padrões | Aspectos estruturais do caso, não necessariamente crise |
+| **Amarelo / âmbar** | Contexto e rede | Fatores ambientais relevantes ao tratamento |
+| **Roxo / violeta** | Processo terapêutico | Elaboração, insight, dinâmica relacional |
+| **Azul / verde** | Estágio do tratamento | Organização do cuidado, estabilização e alta |
+
+> A cor comunica rapidamente **onde o paciente está no processo**, sem substituir o julgamento clínico do psicólogo.
 
 ---
 
-## Aplicação ao Longo do Processo
+## Síntese
 
-Ao usar marcadores sessão após sessão, é possível:
+Os Marcadores Clínicos transformam observações do atendimento em:
 
-- Visualizar **padrões clínicos**
-- Identificar **temas que persistem**
-- Registrar mudanças de foco e evolução
-- Apoiar decisões de **encaminhamento, supervisão e fechamento**
+- **estrutura clínica organizada**
+- **linguagem comum do cuidado**
+- **base para análise longitudinal**
+- **fundamento do acompanhamento inteligente**
 
-> Os Marcadores Clínicos **não são avaliativos** — são **narrativos**, expressam percepção terapêutica contextualizada.
-
----
+Eles conectam a prática cotidiana do psicólogo à **compreensão contínua da evolução do paciente** dentro do eConsult.
