@@ -161,7 +161,7 @@ O modelo de **visibilidade dupla (Privado/Público)** é excelente: preserva sig
 A anonimização e conformidade com a LGPD são implementações exemplares no contexto psicológico.
 
 ### 💡 Experiência e usabilidade
-O fluxo de edição e retomada do prontuário é fluido — especialmente o botão “Continuar Edição” exibido nos cards de prontuários em elaboração.  
+O fluxo de edição e retomada do prontuário é fluido — especialmente o botão “Editando” exibido nos cards de prontuários em elaboração.  
 O uso da IA embutida nos blocos de diagnóstico e plano terapêutico torna o processo de escrita mais produtivo, sem burocracia.
 
 ### 📈 Escalabilidade
