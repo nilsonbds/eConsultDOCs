@@ -65,9 +65,10 @@ Sendo:
 
 A lista de *cards* no painel Pacientes e Grupos do eConsult foi desenvolvida para oferecer uma navegação ágil e eficiente. Para isso, o sistema disponibiliza diversas opções de filtragem, que permitem localizar rapidamente um paciente ou grupo específico. Entre os critérios disponíveis, estão:
 
-- **Filtro por nome:** Digite parte ou o nome completo no campo de busca para encontrar o paciente ou grupo desejado.
-- **Filtro por inatividade:** É possível exibir apenas registros ativos ou inativos, facilitando a gestão de atendimentos e a revisão de cadastros.
-- **Filtro por letra inicial:** Selecione a primeira letra do nome para visualizar somente os registros que iniciam com aquele caractere.
+- **Filtro Nome:** Digite parte ou o nome completo no campo de busca para encontrar o paciente ou grupo desejado.
+- **Filtro Grupo:** É possível exibir apenas registros referentes a Grupos Terapêuticos.
+- **Filtro Inatividade:** É possível exibir apenas registros ativos ou inativos, facilitando a gestão de atendimentos e a revisão de cadastros.
+- **Filtros Letra Inicial:** Selecione a primeira letra do nome para visualizar somente os registros que iniciam com aquele caractere.
 
 Essas opções de filtragem tornam a experiência de uso mais fluida, permitindo aos profissionais localizar, acessar e gerenciar os registros com rapidez e precisão, mesmo em bases de dados com grande volume de informações.
 
