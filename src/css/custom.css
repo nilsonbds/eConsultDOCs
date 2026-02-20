@@ -167,8 +167,13 @@ html[data-theme='dark'] h4 {
   margin: 1rem 0;
 }
 
+footer.footer {
+  background-color: #d8e0e0;
+}
+
 footer.theme-layout-footer.footer.footer--dark {
   padding: 10px;
+  background-color: #303846;
 }
 
 .footer__copyright {

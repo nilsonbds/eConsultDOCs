@@ -22,9 +22,19 @@ Em resumo, os "Marcadores Clínicos" representam um recurso valioso dentro do eC
 
     ![Atendimento](../../../static/img/prints/atendimento/065.png)
 
-1. Selecione os marcadores desejados (4 no máximo) clicando nas cores disponíveis e, se necessário, adicione uma breve anotação para cada marcador.
+1. Selecione os marcadores desejados (8 no máximo) clicando nas cores disponíveis e, se necessário, adicione uma breve anotação para cada marcador.
 
     ![Atendimento](../../../static/img/prints/atendimento/066.png)
+
+    :::tip
+    Recomenda-se que o texto registre **um breve relato da sessão**, destacando os principais elementos observados clinicamente pelo profissional.
+
+    **Exemplo:**  
+    *"**(1)** Paciente relata irritabilidade frequente ao longo da semana, com baixa tolerância a frustrações e conflitos recorrentes no ambiente familiar. **(2)** Observa-se tensão emocional elevada, reatividade aumentada e dificuldade de regulação afetiva."*
+
+    *(1)*: Relato da sessão
+    *(2)*: Elementos observados clinicamente
+    :::
 
 1. Após fechar a tela de marcadores o sistema atualizará automaticamente o *card* do atendimento, exibindo as cores dos marcadores associados e suas respectivas anotações.
 
@@ -33,7 +43,7 @@ Em resumo, os "Marcadores Clínicos" representam um recurso valioso dentro do eC
     :::tip
         - Para desvincular todos os marcadores de um atendimento, basta acionar a opção "Excluir todos os marcadores" na tela "Marcadores Clínicos".
 
-        - O sistema permite até 4 marcadores por atendimento.
+        - O sistema permite até 8 marcadores por atendimento.
     :::
 
 ## Usando Marcadores Clínicos em Anotações Clínicas
@@ -55,6 +65,36 @@ Você pode utilizar os marcadores clínicos diretamente nas anotações clínica
 1. Note que, quando há Marcadores vinculados ao atendimento, o sistema mostra a opção "Trazer Marcadores Clínicos" ![Atendimento](../../../static/img/prints/atendimento/091.png). Clique nesta opção e o sistema preencherá o campo de anotação com os conteúdos dos marcadores clínicos.
 
     ![Atendimento](../../../static/img/prints/atendimento/092.png)
+
+Você também pode utilizar os **Marcadores Clínicos** para gerar, com apoio da IA, uma anotação clínica estruturada no modelo **SOAP**. Para isso, siga os passos abaixo:
+
+1. No *card* do atendimento, acione a opção  
+   ![Atendimento](../../../static/img/prints/buttons/btn-anotacoes.png)
+
+1. O sistema abrirá a tela **Anotações Clínicas**.
+
+    ![Atendimento](../../../static/img/prints/atendimento/047.png)
+
+1. Clique no botão **Incluir**  
+   ![Atendimento](../../../static/img/prints/buttons/btn_incluir.png)
+
+1. Será exibido o formulário **Anotações Clínicas**.
+
+    ![Atendimento](../../../static/img/prints/atendimento/090.png)
+
+1. No campo **Modelo de Registro Clínico**, selecione a opção  
+   **Usar Marcadores Clínicos para Sugestão**.
+
+    ![Atendimento](../../../static/img/prints/atendimento/093.png)
+
+1. Ative a opção **Usar a IA** e clique em  
+   **Gerar usando Marcadores Clínicos**.
+
+    ![Atendimento](../../../static/img/prints/atendimento/094.png)
+
+Após a ação, o eConsult gerará automaticamente uma **anotação clínica no formato SOAP**, utilizando os marcadores registrados no atendimento como base para a sugestão.
+
+> ⚠️ **Importante:** A anotação gerada pela IA é um apoio ao registro clínico e deve sempre ser revisada e validada pelo profissional responsável.
 
 ---
 

@@ -127,7 +127,7 @@ const FeatureList = [
   },
   {
     link: '/docs/funcionalidades/analise-score/visao',
-    title: 'Acompanhamento Inteligente do Paciente dos pacientes',
+    title: 'Acompanhamento Inteligente do Paciente',
     icon: <TbDashboard />,
     description: (
       <>Visualize o comportamento dos pacientes com base em dados históricos e monitore o nível de engajamento para orientar ações mais assertivas e personalizadas.</>

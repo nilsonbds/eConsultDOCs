@@ -4,7 +4,9 @@ sidebar_position: 11
 
 # Documentos no Cadastro de Pacientes ou Grupos Terapêuticos
 
-O botão **Documentos** ![Botão Documentos](../../../../static/img/prints/buttons/btn_documentos.png) presente na tela de **Cadastro de Pacientes/Grupos** do eConsult permite que o psicólogo imprima documentos diretamente vinculados ao paciente ou grupo terapêutico selecionado.
+O botão **Documentos** presente na tela de **Cadastro de Pacientes/Grupos** do eConsult permite que o psicólogo imprima documentos diretamente vinculados ao paciente ou grupo terapêutico selecionado.
+
+![Botão Documentos](../../../../static/img/prints/clientegrupo/clientegrupo-073.png)
 
 Essa funcionalidade integra o módulo de Documentos ao contexto clínico, tornando o acesso mais rápido e organizado durante o atendimento.
 

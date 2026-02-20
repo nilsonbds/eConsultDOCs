@@ -6,162 +6,354 @@ sidebar_position: 130
 
 ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/aba-resultado.png)
 
-A aba Resultados tem como objetivo fornecer à organização o acompanhamento e a evolução do paciente, permitindo que se tomem decisões informadas com base nas relações entre indicadores. Ele é crucial para entender o equilíbrio entre os ganhos financeiros, os custos operacionais e o volume de atendimentos do paciente na plataforma eConsult.
+A aba **Resultados** reúne indicadores administrativos, financeiros e clínicos do paciente ou grupo ao longo do tempo.  
+O objetivo é oferecer ao profissional uma visão integrada do acompanhamento, apoiando decisões mais informadas sobre o manejo, a organização da agenda e a sustentabilidade do cuidado.
 
-O painel está organizado em duas sub-abas: "Gráficos" e "Indicadores".
+O painel está organizado em três sub-abas:
 
-## Sub-aba Gráficos
+- **Panorama**
+- **Resumos**
+- **Evolução**
 
-A sub-aba Gráficos oferece uma visualização consolidada e interativa dos principais indicadores operacionais e financeiros do paciente. Os dados são apresentados em gráficos dinâmicos, abrangendo os dois meses anteriores, o mês atual e o mês seguinte, permitindo uma análise temporal detalhada e facilitando o monitoramento contínuo da evolução dos resultados.
+Cada uma oferece um nível diferente de leitura do acompanhamento.
 
-Os gráficos disponíveis são:
+---
 
-- **LTV e CLC:** Apresenta dois indicadores estratégicos relacionados ao relacionamento financeiro do paciente: o LTV (Lifetime Value) e o CLC (Customer Lifetime Cost) no mês. Ele oferece uma visão do valor gerado pelo paciente ao longo do tempo em comparação com o custo para adquiri-lo ou mantê-lo.
+# Sub-aba Panorama
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-039.png)
+A sub-aba **Panorama** apresenta uma visão gráfica longitudinal dos principais indicadores administrativos do paciente.
 
-- **Detalhe da Frequência:** Mostra o comportamento de comparecimento do paciente, permitindo identificar padrões de assiduidade.
+Ela permite identificar rapidamente:
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-040.png)
+- tendências de frequência  
+- comportamento financeiro  
+- padrão de comparecimento  
+- utilização da agenda  
 
-- **Inadimplência:** Exibe o percentual de pagamentos em atraso do paciente, facilitando o acompanhamento da saúde financeira.
+Os gráficos consideram uma janela temporal móvel (ex.: meses anteriores, mês atual e projeção), facilitando o monitoramento contínuo.
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-041.png)
+---
 
-- **Perdas (Baixas Contábeis):** Representa os valores do paciente reconhecidos como perda definitiva no período.
+## Indicadores disponíveis
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-042.png)
+### **LTV e CLC**
 
-- **Perdas Recuperadas:** Indica os valores do paciente previamente perdidos que foram posteriormente recuperados.
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-039.png)
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-043.png)
+Apresenta a relação entre:
 
-- **Ocupação:** Mostra a taxa de ocupação do paciente na agenda.
+- **LTV (Lifetime Value):** valor gerado pelo paciente  
+- **CLC (Customer Lifetime Cost):** custo associado à manutenção do paciente  
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-044.png)
+Essa leitura ajuda a compreender a sustentabilidade financeira do acompanhamento.
 
-- **Valor dos Atendimentos:** Detalha os valores financeiros praticados com o paciente relacionados aos atendimentos realizados, permitindo análise de receita.
+---
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-045.png)
+### **Detalhe da frequência**
 
-- **Desmarcações e Remarcações:** Aponta o número de reagendamentos, cancelamentos e alterações de horários feitos pelo paciente.
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-040.png)
+
+Mostra o comportamento de comparecimento do paciente, incluindo:
+
+- não confirmados  
+- confirmados  
+- realizados  
+- não realizados  
+
+Permite identificar padrões de adesão ao tratamento.
+
+---
+
+### **Inadimplência**
+
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-041.png)
+
+Exibe os valores em atraso:
+
+- total no mês  
+- acumulado no ano  
+- acumulado geral  
+
+Funciona como um sinalizador de risco financeiro do vínculo.
+
+---
+
+### **Perdas (baixas contábeis)**
+
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-042.png)
+
+Representa valores reconhecidos como perda definitiva no período.
+
+---
+
+### **Perdas recuperadas**
+
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-043.png)
+
+Indica valores previamente inadimplentes que foram posteriormente recuperados.
+
+---
+
+### **Ocupação**
+
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-044.png)
+
+Mostra como o paciente utiliza a agenda, discriminando:
+
+- remotos pagos  
+- remotos gratuitos  
+- presenciais pagos  
+- presenciais gratuitos  
+- capacidade total  
+
+Ajuda a avaliar eficiência de uso da agenda.
+
+---
+
+### **Valor dos atendimentos**
+
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-045.png)
+
+Apresenta os valores praticados nos atendimentos do paciente, incluindo métricas como valor médio e máximo no período.
+
+---
+
+### **Desmarcações e remarcações**
+
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-046.png)
+
+Aponta movimentações de agenda, como:
+
+- desmarcações  
+- desmarcações recuperadas  
+- remarcações no mês  
+- remarcações herdadas de mês anterior  
+- remarcações para o próximo mês  
+
+Esse indicador ajuda a avaliar estabilidade do comparecimento.
+
+---
 
 :::note Seletor de período
-É possível ajustar o período analisado por meio do seletor de período, tornando a ferramenta flexível para diferentes necessidades de análise. Essa visualização gráfica facilita a identificação de tendências, anomalias e oportunidades de melhoria, apoiando decisões estratégicas e operacionais.
+O período analisado pode ser ajustado pelos controles no topo da tela, permitindo ampliar ou reduzir a janela temporal de análise.
 
-![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-047.png)
+Essa flexibilidade facilita a identificação de tendências, oscilações e mudanças de comportamento ao longo do tempo.
 
-**Botões do seletor de período:**
-​​    
-- ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-048.png) Movimenta o período de amostragem para menos um mês.
-​​
-- ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-049.png) Movimenta o período de amostragem para mais um mês.
-​​
-- ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-050.png) Acrescenta um mês ao período de amostragem, sendo que o mês incluído é sempre o que antecede o menor mês do período.
-​​
-- ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-051.png) Exclui um mês do período de amostragem, sendo que o mês excluído é o menor mês do período.
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-047.png)
 :::
 
+---
 
-## Sub-aba Indicadores
+# Sub-aba Resumos
 
-A sub-aba Indicadores exibe os principais indicadores do paciente no mês selecionado.
+A sub-aba **Resumos** apresenta um consolidado administrativo do mês selecionado, organizado em *cards* sintéticos.
 
-![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-052.png)
+Ela responde rapidamente:
 
-Os indicadores estão organizados nos seguintes *cards*:
+- como está o vínculo com o paciente  
+- qual o volume financeiro do período  
+- qual o nível de ocupação  
+- se há sinais de risco administrativo  
 
-1. **Dados da Relação com o Paciente**
+---
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-053.png)
+## Cards disponíveis
 
-    - **Tempo de relacionamento:** Número de meses de vínculo até o mês selecionado.
-    - **Ticket médio:** Valor médio gasto no mês.
-    - **Frequência de atendimentos:** No mês, no ano e no total (global).
-    - **LTV (Valor do Tempo de Vida do Paciente) e CLC (Custo de Longo Prazo):** Apresentados no mês, no ano e globalmente.
+### **Dados da relação com o paciente/grupo**
 
-1. **Atendimentos do Mês**
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-053.png)
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-054.png)
+Apresenta:
 
-    - Quantidade e valor total dos atendimentos realizados no mês.
-    - Quantidade e valor dos atendimentos quitados e não quitados.
+- tempo de relacionamento  
+- ticket médio  
+- frequência (mês, ano e global)  
+- LTV e CLC (mês, ano e global)  
 
-1. **Inadimplência**
+Esse bloco ajuda a entender o histórico e o valor do vínculo.
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-056.png)
+---
 
-    - Valor inadimplente no mês, no ano e no total.
+### **Atendimentos do mês**
 
-1. **Perdas (Baixas Contábeis)**
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-054.png)
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-057.png)
+Mostra:
 
-    - Valor das perdas geradas pelo paciente no mês, no ano e no total.
+- quantidade total de atendimentos  
+- valor total do mês  
+- valores quitados e não quitados  
 
-1. **Perdas Recuperadas**
+---
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-058.png)
+### **Inadimplência**
 
-    - Valor das perdas recuperadas no mês, no ano e no total.
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-056.png)
 
-1. **Ocupação da Agenda**
+Exibe o montante inadimplente:
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-059.png)
+- no mês  
+- no ano  
+- no total  
 
-    - Horários ocupados pelo paciente, categorizados por:
-        - Remotos pagos
-        - Remotos gratuitos
-        - Presenciais pagos
-        - Presenciais gratuitos
-    - Quantidade total de atendimentos realizados no mês.
-    - Capacidade total da agenda no período.
+---
 
-1. **Custos Pagos**
+### **Perdas (baixas contábeis)**
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-060.png)
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-057.png)
 
-    - Valor mínimo, médio e máximo pago pelo paciente em atendimentos no mês.
+Apresenta valores reconhecidos como perda.
 
-1. **Detalhamento da Frequência**
+---
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-061.png)
+### **Perdas recuperadas**
 
-    - Quantidade de atendimentos:
-        - Confirmados
-        - Não confirmados
-        - Realizados
-        - Não realizados
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-058.png)
 
-1. **Remarcações e Desmarcações**
+Mostra valores recuperados de inadimplência.
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-062.png)
+---
 
-    - Quantidade de:
-        - Desmarcações
-        - Desmarcações recuperadas
-        - Remarcações do mês anterior
-        - Remarcações dentro do mesmo mês
-        - Desmarcações reagendadas para o próximo mês        
+### **Ocupação**
 
-## Análises e Percepções Estratégicas a partir dos Indicadores
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-059.png)
 
-A visualização consolidada dos indicadores mensais do paciente permite extrair percepções valiosas sobre seu comportamento, engajamento, rentabilidade e risco. A seguir, destacam-se algumas interpretações estratégicas possíveis com base nos dados:
+Detalha o uso da agenda pelo paciente, incluindo:
 
-1. **Qualidade e Evolução da Relação com o Paciente:** Acompanhar o tempo de relacionamento, o ticket médio e o LTV ajuda a entender o valor que o paciente gera ao longo do tempo. Um aumento constante no ticket médio ou no LTV pode indicar maior confiança e adesão aos serviços. Por outro lado, uma queda súbita pode sinalizar perda de interesse ou necessidade de reengajamento.
+- atendimentos remotos e presenciais  
+- pagos e gratuitos  
+- total de atendimentos  
+- capacidade da agenda  
 
-2. **Engajamento e Participação:** A frequência de atendimentos (mensal, anual e global) e os detalhes de presença permitem avaliar o nível de comprometimento do paciente. Altos índices de faltas não justificadas ou atendimentos não confirmados podem indicar desorganização, desinteresse ou dificuldades financeiras.
+---
 
-3. **Indicadores Financeiros de Saúde e Risco:** A inadimplência e as perdas (baixas contábeis) oferecem sinais claros do risco financeiro associado ao paciente. Um aumento dessas métricas, especialmente se combinado com queda no ticket médio ou aumento das desmarcações, pode exigir ações preventivas, como renegociação ou mudanças na política de cobrança.
+### **Custos pagos**
 
-4. **Recuperação e Potencial de Retorno:** Os valores de perdas recuperadas indicam a eficácia das ações de recuperação financeira. Pacientes com histórico de inadimplência, mas com boa taxa de recuperação, ainda podem ser considerados ativos estratégicos — desde que bem gerenciados.
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-060.png)
 
-5. **Utilização da Capacidade e Eficiência Operacional:** A análise da ocupação da agenda mostra como o paciente utiliza os serviços: se prefere atendimentos presenciais ou remotos, pagos ou gratuitos. Com esses dados, é possível identificar padrões de consumo e alinhar a oferta à demanda, otimizando recursos e tempo.
+Apresenta a faixa de valores pagos pelo paciente no mês:
 
-6. **Perfil de Consumo e Precificação:** Ao observar os custos pagos (mínimo, médio e máximo), compreende-se melhor o perfil de consumo do paciente. Isso pode ajudar na definição de pacotes personalizados, promoções ou ajustes de preço, baseados na disposição de pagamento e histórico de utilização.
+- mínimo  
+- médio  
+- máximo  
 
-7. **Comportamento em Remarcações e Desmarcações:** Altos índices de desmarcações e remarcações podem comprometer a organização da agenda e indicar baixa previsibilidade no comportamento do paciente. A frequência de desmarcações recuperadas e remarcações mostra a capacidade de manter o vínculo ativo, mesmo com instabilidades.
+---
 
-**Conclusão**
+### **Detalhe da frequência**
 
-A leitura integrada desses indicadores permite não apenas avaliar o desempenho e a saúde financeira do relacionamento com cada paciente, mas também antecipar comportamentos, personalizar estratégias de atendimento, prever riscos e maximizar o valor ao longo do tempo. Com essa base, é possível tomar decisões mais assertivas e construir relacionamentos mais sólidos e sustentáveis.
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-061.png)
+
+Mostra o status dos atendimentos:
+
+- não confirmados  
+- confirmados  
+- não realizados  
+- realizados  
+
+---
+
+### **Remarcações e desmarcações**
+
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-062.png)
+
+Apresenta a movimentação de agenda do paciente no período.
+
+---
+
+## Leitura estratégica
+
+A visualização consolidada permite ao profissional:
+
+- identificar padrões de adesão  
+- monitorar risco financeiro  
+- avaliar estabilidade do comparecimento  
+- compreender o valor longitudinal do paciente  
+- ajustar estratégias de manejo administrativo  
+
+---
+
+# Sub-aba Evolução
+
+A sub-aba **Evolução** apresenta a leitura longitudinal clínica baseada nos **marcadores clínicos** registrados ao longo das sessões.
+
+Seu objetivo é apoiar o raciocínio clínico, tornando visível a progressão do caso ao longo do tempo.
+
+---
+
+## Indicadores sintéticos do momento clínico
+
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-074.png)
+
+No topo da tela, o eConsult apresenta:
+
+- **Direção:** tendência recente do caso (ex.: evolução favorável inicial)  
+- **Risco atual:** nível estimado de risco clínico  
+- **Manejo sugerido:** orientação assistiva baseada nos marcadores  
+
+Esses elementos oferecem uma leitura rápida do estado atual do processo terapêutico.
+
+---
+
+## Hipótese dinâmica do processo
+
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-075.png)
+
+A seção apresenta uma **síntese clínica assistida**, construída a partir dos marcadores registrados.
+
+A análise busca:
+
+- integrar sinais clínicos relevantes  
+- identificar movimentos do processo terapêutico  
+- apontar focos potenciais de manejo  
+- apoiar a leitura longitudinal  
+
+> ⚠️ A hipótese é **assistiva** e não substitui a formulação clínica do profissional.
+
+O texto narrativo pode incluir, conforme o caso:
+
+- sinais de estabilização  
+- indicadores de aliança terapêutica  
+- movimentos de enfrentamento  
+- elementos transferenciais/relacionais  
+- ganhos de autonomia  
+- padrões de engajamento  
+
+A leitura considera a progressão temporal dos marcadores.
+
+---
+
+## Linha temporal dos atendimentos
+
+![Resultados](../../../../static/img/prints/clientegrupo/clientegrupo-076.png)
+
+Na parte inferior, o sistema apresenta a **progressão clínica por sessão**, incluindo:
+
+- data do atendimento  
+- marcadores identificados  
+- estágio do processo  
+- nível de engajamento  
+- nível de risco  
+- status do acompanhamento  
+
+Essa visualização permite observar:
+
+- mudanças de fase  
+- padrões de estabilidade ou oscilação  
+- momentos de maior risco  
+- consolidação de ganhos terapêuticos  
+
+---
+
+# Finalidade clínica
+
+A aba **Resultados** foi desenvolvida para:
+
+- apoiar a leitura longitudinal do paciente  
+- integrar dimensões clínicas e administrativas  
+- tornar visível a evolução do acompanhamento  
+- qualificar o planejamento do manejo  
+- fortalecer a tomada de decisão baseada em dados  
+
+---
+
+> ⚠️ **Importante:** As análises apresentadas são ferramentas de apoio. A interpretação clínica e as decisões terapêicas são sempre de responsabilidade do profissional.
