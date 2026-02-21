@@ -2,9 +2,9 @@
 sidebar_position: 0
 ---
 
-# Sobre Aba Gráficos
+# Sobre a Aba Panorama
 
-A aba "Gráficos" oferece uma visualização consolidada e evolutiva dos principais indicadores operacionais e financeiros, distribuídos em painéis que abrangem os dois meses anteriores, o mês atual e o mês seguinte. Essa estrutura permite uma análise temporal detalhada, facilitando o monitoramento contínuo e estratégico do desempenho da organização.
+A aba "Panorama" oferece uma visão consolidada e evolutiva dos principais movimentos operacionais, financeiros e operacionais, distribuídos em gráficos que abrangem os dois meses anteriores, o mês atual e o mês seguinte. Essa estrutura permite uma análise temporal detalhada, facilitando o monitoramento contínuo e estratégico do desempenho da organização.
 
 Os gráficos contemplados incluem:
 

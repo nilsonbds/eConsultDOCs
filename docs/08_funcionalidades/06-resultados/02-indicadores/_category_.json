@@ -1,9 +1,9 @@
 {
-  "label": "Aba Indicadores",
+  "label": "Aba Resumos",
   "position": 2,
   "link": {
     "slug": "/indicadores",
     "type": "generated-index",
-    "description": "A aba Indicadores apresenta um retrato consolidado de todos os pacientes no mês selecionado."
+    "description": "A aba Resumos apresenta um retrato consolidado de todos os pacientes no mês selecionado."
   }
 }

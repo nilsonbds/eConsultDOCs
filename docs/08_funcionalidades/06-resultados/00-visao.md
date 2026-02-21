@@ -12,9 +12,9 @@ Essa ferramenta é essencial para compreender o equilíbrio entre ganhos finance
 
 Ao reunir dados de forma estruturada e visual, o painel apoia os profissionais na identificação de tendências, oportunidades de melhoria e na definição de ações mais assertivas.
 
-O painel está dividido em três abas principais: "Gráficos", "Indicadores" e "Análise Anual".
+O painel está dividido em três abas principais: "Panorama", "Resumos" e "Análise Anual".
 
-## Aba Gráficos
+## Aba Panorama
 
 Apresenta informações em formato visual, com gráficos que abrangem os últimos dois meses, o mês atual e o próximo mês. Essa visão temporal facilita o acompanhamento de variações e tendências recentes, contribuindo para análises ágeis e comparativas.
 
@@ -22,7 +22,7 @@ Apresenta informações em formato visual, com gráficos que abrangem os último
 **[Mais sobre gráficos clique aqui](/docs/funcionalidades/resultados/graficos/visao).**
 :::
 
-## Aba Indicadores
+## Aba Resumos
 
 Exibe os principais indicadores referentes ao mês selecionado por meio do seletor. Essa aba permite uma análise mais aprofundada e contextualizada dos dados, oferecendo informações relevantes que apoiam a tomada de decisões no dia a dia.
 

@@ -2,11 +2,11 @@
 sidebar_position: 0
 ---
 
-# Sobre Aba Indicadores
+# Sobre a Aba Resumos
 
-A aba Indicadores apresenta uma visão abrangente e consolidada do desempenho de todos os pacientes no mês selecionado. Nela, estão reunidas informações-chave como volume de atendimentos, principais demandas, níveis de satisfação e outros dados relevantes que possibilitam uma análise comparativa no mês e facilitam a identificação de padrões, oportunidades de melhoria e tomada de decisões estratégicas com base em dados concretos.
+A aba Resumos apresenta uma visão abrangente e consolidada do desempenho de todos os pacientes no mês selecionado. Nela, estão reunidas informações-chave como volume de atendimentos, principais demandas, níveis de satisfação e outros dados relevantes que possibilitam uma análise comparativa no mês e facilitam a identificação de padrões, oportunidades de melhoria e tomada de decisões estratégicas com base em dados concretos.
 
-Os dados agregados permitem acompanhar, em um único painel, a performance financeira, o engajamento e o risco da carteira como um todo, bem como de grupos específicos de pacientes.
+Os dados agregados permitem visualizar, em um único painel, a performance financeira e operacional e o nível de risco da carteira de forma global.
 
 Os indicadores estão organizados nos seguintes *cards*:
 
