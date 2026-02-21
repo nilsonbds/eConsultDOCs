@@ -10,6 +10,8 @@ O **Prontuário Eletrônico** do **eConsult** foi projetado para unir **rigor t�
 
 Por meio da **aba Prontuário**, o profissional centraliza todo o acompanhamento clínico do paciente ou grupo, mantendo histórico completo, registros evolutivos, avaliações psicológicas, hipóteses clínicas e documentos anexados — tudo dentro de um ambiente seguro, criptografado e em conformidade com a LGPD.
 
+![Prontuário](../../../../static/img/prints/prontuario/prontuario_011.png)
+
 ---
 
 ## ⚙️ Estrutura do Prontuário
@@ -23,6 +25,8 @@ Os prontuários assumem dois estágios principais:
   - **Público:** visível também ao paciente, se o profissional optar.
 
 > 🔒 Apenas **um prontuário em elaboração** pode existir por paciente ou grupo.
+
+![Prontuário](../../../../static/img/prints/prontuario/prontuario_012.png)
 
 ---
 
