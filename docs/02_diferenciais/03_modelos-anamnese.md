@@ -4,124 +4,202 @@ sidebar_position: 3
 
 # Modelos de Anamnese
 
-***Estrutura, agilidade e consistência clínica***
+***Estrutura clínica consistente desde o primeiro contato.***
 
-O recurso **Modelos de Anamnese** do eConsult oferece fichas clínicas pré-definidas e personalizáveis, prontas para uso desde o primeiro atendimento. Essa funcionalidade padroniza e agiliza a coleta de dados essenciais com rigor científico e acolhimento, beneficiando tanto o profissional quanto o paciente.
+O recurso **Modelos de Anamnese** do eConsult oferece fichas clínicas estruturadas e personalizáveis, prontas para uso desde o primeiro atendimento.
+
+Mais do que formulários estáticos, os modelos foram concebidos para **sustentar a leitura clínica longitudinal**, garantindo que a coleta inicial de dados já esteja alinhada com o acompanhamento ao longo do processo terapêutico.
+
+Essa abordagem combina **rigor técnico, flexibilidade metodológica e fluidez operacional**, beneficiando tanto o profissional quanto o paciente.
 
 ---
 
-## Fichas Estruturadas e Personalizáveis
+## Fichas estruturadas e adaptáveis à prática clínica
 
-O eConsult disponibiliza modelos prontos de anamnese personalizáveis, baseados em boas práticas clínicas.  
-O profissional pode **adaptar campos, sequência e profundidade das perguntas** conforme a abordagem teórica ou o tipo de atendimento — trazendo coerência, personalização e consistência ao registro.
+O eConsult disponibiliza modelos de anamnese baseados em boas práticas clínicas, que podem ser utilizados imediatamente ou ajustados conforme a realidade do profissional.
+
+O sistema permite:
+
+- adaptar campos  
+- reorganizar a sequência  
+- aprofundar ou simplificar blocos  
+- ajustar a linguagem conforme o público  
+- alinhar o modelo à abordagem teórica  
+
+Isso garante **coerência técnica sem engessar o raciocínio clínico**.
 
 👉 [Veja aqui os modelos de anamnese disponibilizados pelo eConsult](/docs/funcionalidades/modelo-anamnese/modelos-econsult)
 
 ---
 
-## Mais Tempo para a Escuta, Menos para o Registro
+## Mais tempo para a escuta, menos para a burocracia
 
-Com o modelo já estruturado, o psicólogo pode se dedicar à escuta ativa e à interação, sem se preocupar em lembrar de todos os campos.
+Com a estrutura já organizada, o profissional pode concentrar sua atenção na escuta qualificada e na construção do vínculo terapêutico.
 
-O preenchimento é feito de forma rápida e prática durante a sessão, **reduzindo transcrições manuais e evitando omissões**.
+O preenchimento ocorre de forma fluida durante a sessão, ajudando a:
 
----
-
-## Integração ao Histórico do Paciente
-
-Todos os dados da anamnese são armazenados diretamente nos prontuários eletrônicos do paciente.  
-
-Isso garante que **toda a trajetória clínica** esteja organizada em um único lugar, de fácil acesso e acompanhamento ao longo da jornada terapêutica.
+- reduzir transcrições manuais  
+- evitar omissões de dados relevantes  
+- manter padronização entre atendimentos  
+- ganhar agilidade sem perder profundidade clínica  
 
 ---
 
-## Benefícios Clínicos e Operacionais
+## Integração nativa ao prontuário eletrônico
 
-- Adoção de boas práticas desde a primeira consulta.  
-- Abordagem padronizada de queixas, histórico familiar, clínica e objetivos terapêuticos.  
-- Rigor técnico e ético já no início do processo avaliativo.  
-- Registros consistentes para supervisões, revisões clínicas e acompanhamento longitudinal.  
-- Preenchimento ágil sem perder profundidade clínica.  
+Todas as informações coletadas na anamnese são automaticamente incorporadas ao **Prontuário Eletrônico do paciente**.
 
----
+Isso permite que a anamnese deixe de ser um documento isolado e passe a compor a **linha do tempo clínica do caso**, favorecendo:
 
-## Sinergia com Outros Recursos
-
-Em conjunto com **análises psicológicas, IA para anotações em atendimentos e Acompanhamento Inteligente do Paciente**, o modelo de anamnese fecha o ciclo para prontuários: da coleta inicial à avaliação, registro, acompanhamento e gestão estratégica em um único ambiente integrado.
+- revisões futuras  
+- supervisões clínicas  
+- formulações diagnósticas  
+- acompanhamento longitudinal consistente  
 
 ---
 
-## Por que a funcionalidade Modelos de Anamnese do eConsult é única no mercado?
+## Benefícios clínicos e operacionais
 
-1. **Estrutura clínica desde o início**
-- A anamnese é a porta de entrada do atendimento psicológico.  
-- Modelos prontos e adaptáveis evitam a perda de dados essenciais.  
-- **Valor percebido:** segurança clínica e ganho de tempo.  
-
-2. **Agilidade sem perder profundidade**
-- Elimina a necessidade de criar roteiros próprios ou usar campos soltos.  
-- Mantém coerência entre os registros de diferentes pacientes.  
-- **Valor percebido:** mais foco na escuta, menos burocracia.  
-
-3. **Redução de erros e omissões**
-- Garante cobertura de tópicos críticos em avaliações, perícias ou acompanhamento prolongado.  
-- **Valor percebido:** maior qualidade e confiabilidade nos registros.  
-
-4. **Personalização flexível**
-- Ajuste conforme linha teórica, perfil do paciente (adulto, infantil, casal) ou tipo de demanda.  
-- **Valor percebido:** flexibilidade sem perder estrutura.  
-
-5. **Integração ao prontuário eletrônico**
-- Linha do tempo clínica completa desde o primeiro contato.  
-- **Valor percebido:** continuidade no cuidado e fácil revisão de informações.  
-
-6. **Controle granular de privacidade**
-- Permite ocultar ou exibir **campos específicos** para o paciente.  
-- Diferencial frente a sistemas que só permitem ocultar blocos inteiros.  
-- Essencial para:  
-  - Informações sensíveis (hipóteses diagnósticas e prognósticas, planos terapêuticos e acompanhamento clínico).  
-  - Dados técnicos (observações clínicas, supervisão).  
-  - Estruturação do raciocínio clínico.  
-
-7. **Abordagem centrada no paciente, com critério clínico**
-- Compartilhamento pode fortalecer vínculo e transparência.  
-- Também pode evitar interpretações inadequadas ou ansiedade precoce.  
-- O psicólogo decide o que compartilhar, conforme o contexto.  
-
-8. **Alinhamento com práticas éticas**
-- Evita exposição indevida de informações clínicas.  
-- Compatível com o **Código de Ética Profissional da Psicologia**.  
+- Adoção de boas práticas desde o primeiro atendimento  
+- Estruturação consistente da história clínica  
+- Redução de esquecimentos e lacunas de informação  
+- Maior segurança técnica e documental  
+- Base mais sólida para hipóteses clínicas e planejamento terapêutico  
+- Preenchimento ágil com preservação da profundidade  
 
 ---
 
-#### Comparativo com Outros Sistemas
+## Sinergia com a inteligência clínica do eConsult
 
-**Outros sistemas:** 
-- Muitos já oferecem **modelos de anamnese personalizáveis**, permitindo que o profissional adapte roteiros conforme sua prática.  
-- Em alguns casos, ainda há limitações: modelos genéricos, pouca flexibilidade ou dependência de planilhas/PDFs externos.  
-- A integração ao prontuário eletrônico está presente em diversos sistemas, mas de forma variável em termos de profundidade e usabilidade.  
-- Recursos avançados, como **controle de visibilidade campo a campo**, são raros ou inexistentes na maioria das plataformas.  
+Quando combinados com:
+
+- **Marcadores Clínicos**  
+- **IA Clínica Contextual**  
+- **Síntese Clínica Longitudinal**  
+- **Acompanhamento Inteligente do Paciente**
+
+os Modelos de Anamnese passam a funcionar como **a porta de entrada estruturada do raciocínio longitudinal** no eConsult.
+
+Em outras palavras: a qualidade da leitura clínica futura começa na qualidade da coleta inicial.
+
+---
+
+## Por que os Modelos de Anamnese do eConsult se destacam?
+
+### 1. Estrutura clínica desde o primeiro contato
+
+A anamnese é a base do processo terapêutico.  
+Os modelos do eConsult reduzem a dependência de roteiros improvisados e ajudam a garantir cobertura adequada de áreas sensíveis.
+
+**Valor percebido:** mais segurança clínica desde a primeira sessão.
+
+---
+
+### 2. Agilidade sem perda de profundidade
+
+O profissional não precisa escolher entre rapidez e qualidade.
+
+O sistema oferece:
+
+- estrutura pronta  
+- liberdade de adaptação  
+- fluidez no preenchimento  
+
+**Valor percebido:** mais foco na escuta, menos carga operacional.
+
+---
+
+### 3. Redução de erros e omissões
+
+A estrutura orientada ajuda a garantir que tópicos críticos não sejam esquecidos, especialmente em:
+
+- avaliações iniciais  
+- acompanhamentos prolongados  
+- contextos de maior complexidade clínica  
+
+**Valor percebido:** maior confiabilidade dos registros.
+
+---
+
+### 4. Personalização alinhada à abordagem terapêutica
+
+O eConsult foi projetado para respeitar diferentes referenciais clínicos.
+
+O profissional pode:
+
+- ajustar campos conforme sua linha teórica  
+- adaptar a profundidade da investigação  
+- configurar modelos por público (adulto, infantil, casal, grupos)  
+- preservar sua forma própria de condução  
+
+**Valor percebido:** flexibilidade real sem perda de estrutura.
+
+---
+
+### 5. Controle granular de privacidade
+
+Um diferencial importante do eConsult é o **controle de visibilidade campo a campo**.
+
+O profissional pode decidir exatamente o que:
+
+- permanece restrito  
+- pode ser compartilhado  
+- deve ficar apenas no registro técnico  
+
+Isso é especialmente relevante para:
+
+- hipóteses clínicas  
+- observações técnicas  
+- formulações em construção  
+- dados sensíveis  
+
+**Valor percebido:** mais segurança ética e controle profissional.
+
+---
+
+### 6. Alinhamento com práticas éticas
+
+A funcionalidade foi concebida em conformidade com:
+
+- princípios de sigilo profissional  
+- boas práticas de documentação clínica  
+- diretrizes do Código de Ética da Psicologia  
+- requisitos da LGPD  
+
+---
+
+## Comparativo com outros sistemas
+
+**Outros sistemas:**  
+- costumam oferecer modelos genéricos ou pouco flexíveis  
+- muitas vezes dependem de formulários externos ou PDFs  
+- raramente sustentam integração longitudinal consistente  
+- controle de visibilidade costuma ser limitado  
 
 **eConsult:**  
-- **Modelos prontos baseados em boas práticas clínicas**, que podem ser usados imediatamente ou ajustados livremente.  
-- **Customização total** conforme linha teórica, perfil do paciente (adulto, infantil, casal) e tipo de demanda.  
-- **Integração completa a prontuários eletrônicos**, formando uma linha do tempo clínica desde a primeira consulta.  
-- **Controle granular de visibilidade**, permitindo ao profissional decidir exatamente o que o paciente pode visualizar em cada campo da anamnese.  
-- **Agilidade com profundidade**, equilibrando eficiência no preenchimento e rigor clínico.  
+- modelos estruturados baseados em boas práticas  
+- personalização profunda por abordagem e contexto  
+- integração nativa ao prontuário e à linha do tempo clínica  
+- controle granular de privacidade  
+- alinhamento com a inteligência clínica da plataforma  
 
 ---
 
-#### O que isso representa na prática?
+## O que isso representa na prática?
 
-Enquanto muitos sistemas já permitem personalização de anamneses, o **eConsult se diferencia por oferecer uma solução estruturada, flexível e ética — com integração total e controle de privacidade em nível de campo**.  
+Enquanto muitos sistemas tratam a anamnese como um formulário isolado, o eConsult a posiciona como **o primeiro passo do acompanhamento longitudinal estruturado**.
 
-Isso reduz riscos, economiza tempo e aumenta a qualidade e a consistência dos registros clínicos desde o primeiro atendimento.
+Isso tende a resultar em:
+
+- registros mais consistentes  
+- maior segurança clínica  
+- melhor continuidade do cuidado  
+- base mais sólida para decisões terapêuticas  
 
 :::tip Diferencial real
-O eConsult assegura que a coleta de informações clínicas seja feita com **eficiência, profundidade e segurança**, elevando o padrão de qualidade em relação à maioria dos sistemas disponíveis no mercado.
+No eConsult, a anamnese deixa de ser apenas coleta de dados e passa a ser **fundação estruturante do raciocínio clínico longitudinal**.
 :::
 
 ---
 
-**O eConsult é a escolha certa para quem busca mais eficiência, controle e profissionalismo na gestão de atendimentos.**
-
+**O eConsult é a escolha certa para quem busca consistência técnica, flexibilidade clínica e sustentação do cuidado desde o primeiro atendimento.**

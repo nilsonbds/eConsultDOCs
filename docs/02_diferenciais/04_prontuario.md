@@ -4,131 +4,237 @@ sidebar_position: 4
 
 # Prontuário Eletrônico
 
-***Histórico completo de prontuários e controle de atendimentos individuais e em grupo.***
+***O núcleo clínico longitudinal do eConsult.***
 
-O eConsult se destaca por oferecer uma gestão de prontuários completa e adaptada à realidade de psicólogos que atendem grupos terapêuticos. A plataforma permite criar **prontuários individuais para cada membro do grupo terapêutico** e, ao mesmo tempo, prontuários coletivos **para o grupo como um todo**, garantindo que observações gerais e informações específicas de cada participante sejam registradas de forma organizada.
+O **Prontuário Eletrônico** do eConsult foi concebido para ir além do simples registro de atendimentos. Ele funciona como o **centro estruturante do acompanhamento clínico longitudinal**, integrando informações, hipóteses, evoluções e documentos em uma linha do tempo coerente.
 
-Além disso, o eConsult mantém um **histórico completo de todos os prontuários**, permitindo acompanhar a evolução clínica ao longo do tempo. Essa funcionalidade não apenas otimiza o registro e o acompanhamento dos atendimentos, mas também assegura **confiabilidade, segurança e respaldo legal**, oferecendo um diferencial significativo em relação a outros sistemas de gestão clínica.
+A plataforma atende tanto **atendimentos individuais** quanto **grupos terapêuticos**, permitindo criar:
 
----
+- prontuários individuais por paciente  
+- prontuários individuais por membro do grupo  
+- prontuários coletivos do grupo terapêutico  
 
-## Histórico e Publicação de Prontuários
-
-O eConsult permite criar múltiplos prontuários para cada paciente, grupo terapêutico ou membro de um grupo. Você inicia a elaboração do prontuário e, ao finalizá-lo, ele é publicado e automaticamente registrado no histórico de prontuários, garantindo que todas as versões sejam preservadas.
-
-Após a publicação, você pode escolher tornar o prontuário público, permitindo que o paciente, grupo ou membro do grupo tenha acesso ao documento, ou mantê-lo privado, garantindo total controle sobre a visibilidade das informações.
+Isso garante organização clínica sem perda de especificidade — um diferencial relevante na prática multipaciente.
 
 ---
 
-## Componentes do Prontuário
+## Histórico longitudinal e controle de versões
 
-No eConsult, o prontuário é criado a partir de um modelo de anamnese, estruturado para abranger todas as etapas do acompanhamento clínico. Ele é composto pelos seguintes blocos:
+O eConsult mantém um **histórico completo e preservado** dos prontuários.
 
-- Anamnese
-- Abordagem Terapêutica
-- Avaliações Psicológicas (feitas na edição do prontuário ou durante as sessões)
-- Bloco de Informações de Diagnóstico
-- Bloco de Informações de Prognóstico
-- Plano de Tratamento
-- Evolução do Tratamento
-- Encaminhamentos
-- Informações de Finalização do Processo
-- Links de Arquivos Registrados para Downloads
-- Histórico de Sessões com suas respectivas anotações clínicas
+O fluxo funciona assim:
 
-Todos os blocos e campos são totalmente personalizáveis durante a edição do prontuário: é possível incluir, excluir ou alterar blocos e campos conforme a necessidade de cada paciente, grupo terapêutico ou membro de grupo.
+1. O profissional elabora o prontuário em modo de trabalho  
+2. Ao finalizar, o documento é publicado  
+3. A versão publicada passa a compor o histórico permanente  
+
+Esse modelo:
+
+- preserva a rastreabilidade clínica  
+- evita sobrescritas indevidas  
+- fortalece o respaldo técnico e documental  
+- sustenta revisões futuras com segurança  
+
+Após a publicação, o profissional pode decidir se o prontuário será:
+
+- **privado**  
+- **compartilhado com o paciente/grupo**  
+
+mantendo controle total sobre a visibilidade.
 
 ---
 
-## Segurança e Compromisso com a LGPD
+## Estrutura modular e altamente personalizável
 
-O eConsult segue rigorosamente as diretrizes da Lei Geral de Proteção de Dados (LGPD), assegurando a privacidade e a segurança das informações de profissionais, pacientes e grupos terapêuticos.
+O prontuário no eConsult é construído a partir de uma arquitetura modular, que pode ser ajustada conforme a realidade clínica.
 
-Todas as informações confidenciais são protegidas com algoritmos de criptografia de última geração, impedindo acessos não autorizados, mesmo em caso de incidentes de segurança.
+Entre os blocos disponíveis:
 
-**Monitoramento e segurança contínuos**
+- Anamnese  
+- Abordagem terapêutica  
+- Avaliações psicológicas  
+- Informações diagnósticas  
+- Informações prognósticas  
+- Plano de tratamento  
+- Evolução do tratamento  
+- Encaminhamentos  
+- Finalização do processo  
+- Arquivos e documentos vinculados  
+- Histórico de sessões e anotações clínicas  
 
-O sistema conta com camadas adicionais de proteção, incluindo auditorias internas, protocolos de prevenção contra ataques cibernéticos e monitoramento em tempo real para detecção e bloqueio de atividades suspeitas.
+Todos os blocos e campos podem ser:
 
-**Anonimização de dados para análises externas**
+- incluídos  
+- removidos  
+- reorganizados  
+- personalizados  
 
-Antes de qualquer uso externo, os dados passam por processos de anonimização, eliminando qualquer possibilidade de identificação direta ou indireta dos profissionais, pacientes e grupos terapêuticos.
+Isso permite alinhar o prontuário à **abordagem teórica, ao contexto clínico e ao tipo de atendimento**.
 
-Com a anonimização, essas informações deixam de ser classificadas como dados pessoais pela LGPD, o que dispensa a necessidade de autorizações adicionais por parte do paciente, sem comprometer a segurança ou a conformidade legal.
+---
+
+## Segurança e conformidade com a LGPD
+
+O eConsult segue rigorosamente as diretrizes da **Lei Geral de Proteção de Dados (LGPD)**.
+
+A plataforma utiliza:
+
+- criptografia de última geração  
+- controle de acesso por perfil  
+- monitoramento contínuo de segurança  
+- auditorias internas  
+- protocolos de prevenção contra incidentes  
+
+### Anonimização para análises externas
+
+Quando recursos de IA ou análises externas são utilizados, os dados passam por processos de **anonimização**, removendo identificadores diretos e indiretos.
 
 :::note  
-**Recomendação:** Mesmo não sendo necessária autorização adicional do paciente, recomendamos que o profissional informe os pacientes que a plataforma utiliza IA e que os dados são tratados de forma anonimizada, garantindo transparência, segurança e confiança.  
+**Recomendação:** embora a anonimização atenda aos requisitos legais, recomenda-se transparência com o paciente sobre o uso de IA na plataforma.  
 :::
 
 ---
 
-## Uso de Inteligência Artificial no Prontuário
+## IA Clínica Contextual integrada ao prontuário
 
-O **eConsult** incorpora recursos de **IA generativa** diretamente nos blocos Diagnóstico, Prognóstico, Plano de Tratamento e Evolução do Tratamento.
+O prontuário do eConsult incorpora **IA generativa assistiva** diretamente nos blocos clínicos, incluindo:
 
-Para cada um destes blocos, o profissional conta com um botão de apoio por IA, capaz de sugerir hipóteses e insights clínicos de forma personalizada. A geração considera como contexto completo os fatores fundamentais para a prática clínica, como:
+- Diagnóstico  
+- Prognóstico  
+- Plano de Tratamento  
+- Evolução do Tratamento  
 
-- **Área de atuação:** Psicologia, Psiquiatria, Terapias Integrativas, entre outras.
+A IA atua como **suporte ao raciocínio clínico**, considerando um contexto profissional ampliado, como:
 
-- **Abordagem terapêutica:** Sistêmica, Cognitivo-Comportamental, Psicanalítica/Psicodinâmica, Humanista, entre outras.
+- área de atuação do profissional  
+- abordagem terapêutica  
+- marcadores clínicos registrados  
+- engajamento e adesão do paciente  
+- avaliações psicológicas aplicadas  
+- histórico de anotações clínicas  
 
-- **Engajamento do paciente:** se o paciente demonstra adesão e comprometimento com o tratamento.
-
-- **Avaliações psicológicas:** registradas tanto na edição do prontuário quanto durante as sessões terapêuticas.
-
-- **Anotações clínicas:** feitas em atendimentos anteriores, utilizadas como base para contextualizar o histórico.
-
-Esse recurso funciona como um suporte ao raciocínio clínico, auxiliando na organização das informações, na geração de hipóteses coerentes e na construção de um plano terapêutico mais consistente.
+Isso permite gerar sugestões **mais coerentes, contextualizadas e clinicamente úteis**.
 
 :::warning
-**Importante:** a IA não substitui o julgamento profissional. O uso das sugestões é sempre opcional, cabendo exclusivamente ao profissional de saúde a validação e decisão final sobre os registros e condutas adotadas.
+**Importante:** a IA é estritamente assistiva.  
+Ela não substitui o julgamento profissional nem define condutas clínicas.
 :::
 
 ---
 
-## Por que a funcionalidade Prontuário Eletrônico do eConsult é única no mercado?
+## Controle refinado de visibilidade
 
-1. **Prontuários Flexíveis e Personalizáveis**
-  - Configurável por especialidade e tipo de atendimento (individual, casal, família, grupo terapêutico).
-  - Blocos e campos totalmente editáveis: anamnese, avaliações, diagnósticos, prognósticos, plano de tratamento, evolução e muito mais.
+O eConsult oferece controle granular sobre a exposição das informações.
 
-2. **Histórico Completo e Evolutivo**
-  - Mantém hostórico de prontuários, permitindo acompanhar a evolução clínica ao longo do tempo.
-  - Diferencia observações individuais e coletivas em atendimentos de grupos terapêuticos.
+O profissional pode decidir:
 
-3. **Integração com Recursos Clínicos e Arquivos**
-  - Possibilidade de vincular exames, relatórios, laudos e documentos para download.
-  - Registro do histórico de sessões com anotações detalhadas por paciente ou grupo.
+- o que permanece técnico  
+- o que pode ser compartilhado  
+- quando publicar  
+- quando manter em elaboração  
 
-4. **Segurança e Confiabilidade**
-  - Controle de acesso, criptografia e conformidade com normas éticas e legais.
-  - Garantia de confidencialidade e integridade das informações.
+Esse controle é especialmente relevante para:
 
-5. **Controle de Visibilidade**
-  - Prontuários podem ser publicados, mantidos privados ou disponibilizados ao paciente/grupo conforme decisão do profissional.
+- hipóteses em construção  
+- formulações clínicas sensíveis  
+- documentos técnicos  
+- comunicação progressiva com o paciente  
 
 ---
 
-#### Comparativo com Outros Sistemas
+## Por que o Prontuário Eletrônico do eConsult se diferencia?
 
-**Outros sistemas:**
-  - Pouca ou nenhuma flexibilidade para grupos terapêuticos.
-  - Histórico limitado ou inexistente, sobrescrevendo registros antigos.
-  - Blocos de prontuário fixos, sem personalização.
-  - Pouca integração com arquivos e recursos clínicos.
+### 1. Prontuário realmente longitudinal
 
-**eConsult:**
-  - Prontuários personalizáveis e adaptados a diferentes modalidades de atendimento.
-  - Histórico completo de prontuários publicados, permitindo acompanhar evolução clínica.
-  - Suporte a grupos terapêuticos e membros individualmente.
-  - Integração total com documentos, exames e histórico de sessões.
-  - Controle de privacidade e publicação sob demanda.
+Não é apenas um repositório de registros.
 
-:::tip  
-**Diferencial Real:** O eConsult oferece um prontuário eletrônico totalmente personalizável, com suporte a atendimentos individuais e em grupo, integrado a recursos de IA clínica contextualizada, garantindo segurança e conformidade com a LGPD.  
+O eConsult organiza o prontuário como **linha do tempo clínica integrada**, favorecendo leitura evolutiva consistente.
+
+**Valor percebido:** mais coerência no acompanhamento.
+
+---
+
+### 2. Suporte nativo a grupos terapêuticos
+
+Poucos sistemas tratam grupos com profundidade.
+
+O eConsult permite separar:
+
+- visão individual  
+- visão do membro  
+- visão do grupo  
+
+**Valor percebido:** adequação real à prática clínica contemporânea.
+
+---
+
+### 3. IA contextual verdadeiramente clínica
+
+A IA considera:
+
+- especialidade  
+- abordagem  
+- dados clínicos reais  
+- trajetória do paciente  
+
+Não é autocomplete genérico — é **suporte clínico contextualizado**.
+
+**Valor percebido:** ganho real de qualidade e agilidade.
+
+---
+
+### 4. Arquitetura modular flexível
+
+O prontuário se adapta ao profissional — não o contrário.
+
+**Valor percebido:** liberdade técnica com estrutura sólida.
+
+---
+
+### 5. Segurança e rastreabilidade robustas
+
+O modelo de publicação e histórico preservado fortalece:
+
+- respaldo legal  
+- auditabilidade  
+- confiabilidade documental  
+
+---
+
+## Comparativo com outros sistemas
+
+**Outros sistemas:**  
+- prontuários rígidos ou pouco personalizáveis  
+- histórico limitado ou sobrescrito  
+- suporte frágil a grupos terapêuticos  
+- IA genérica e descontextualizada  
+- pouca integração longitudinal  
+
+**eConsult:**  
+- prontuário modular e adaptativo  
+- histórico preservado por versão  
+- suporte completo a grupos  
+- IA clínica contextual  
+- visão longitudinal integrada  
+
+---
+
+## O que isso representa na prática?
+
+Enquanto muitos sistemas apenas **armazenam registros**, o eConsult transforma o prontuário em **infraestrutura ativa do raciocínio clínico longitudinal**.
+
+Isso tende a resultar em:
+
+- maior consistência documental  
+- melhor continuidade do cuidado  
+- decisões clínicas mais bem sustentadas  
+- redução de retrabalho  
+- mais segurança técnica  
+
+:::tip Diferencial real
+No eConsult, o prontuário deixa de ser um arquivo passivo e passa a funcionar como **plataforma clínica viva**, integrada à inteligência longitudinal do cuidado.
 :::
 
 ---
 
-**O eConsult é a escolha certa para quem busca mais eficiência, controle e profissionalismo na gestão de atendimentos.**
-
+**O eConsult é a escolha certa para quem busca prontuário clínico com profundidade, flexibilidade e inteligência contextual.**

@@ -1,154 +1,222 @@
-# Inteligência Artificial no eConsult  
-***Mais tempo para o cuidado, mais inteligência para o atendimento.***
+# IA Clínica Contextual do eConsult  
+***Mais tempo para o cuidado. Mais inteligência para o raciocínio clínico.***
 
-A **Inteligência Artificial (IA)** do eConsult foi desenvolvida para **apoiar profissionais da saúde** na tomada de decisão clínica, elaboração de anotações e gestão estratégica do consultório.
+A **IA Clínica Contextual do eConsult** foi desenvolvida para **apoiar — e não substituir — o profissional de saúde** nas etapas críticas do cuidado: registro, análise, formulação e acompanhamento longitudinal.
 
-Com atuação contextualizada, a IA **se adapta à especialidade** (psicologia, nutrição, terapia integrativa, entre outras), oferecendo suporte técnico e prático **sem substituir a autonomia do profissional**.
+Diferente de soluções genéricas, a IA do eConsult opera de forma **contextual, ética e orientada por dados clínicos estruturados**, integrando:
+
+- prontuário eletrônico  
+- marcadores clínicos  
+- avaliações psicológicas  
+- dados de engajamento  
+- histórico longitudinal do paciente ou grupo  
+
+Além disso, o sistema **adapta automaticamente o contexto da IA** conforme:
+
+- área de atuação do profissional  
+- abordagem terapêutica  
+- tipo de atendimento (individual ou grupo)  
+- estágio do processo clínico  
+
+Isso permite um suporte realmente coerente com a prática profissional.
 
 ---
 
-## Segurança e Compromisso com a LGPD
+## Segurança e compromisso com a LGPD
 
-O eConsult segue rigorosamente as diretrizes da Lei Geral de Proteção de Dados (LGPD), assegurando a privacidade e a segurança das informações de profissionais, pacientes e grupos terapêuticos.
+O eConsult segue rigorosamente a **Lei Geral de Proteção de Dados (LGPD)**, adotando múltiplas camadas de proteção para preservar a confidencialidade das informações clínicas.
 
-Todas as informações confidenciais são protegidas com algoritmos de criptografia de última geração, impedindo acessos não autorizados, mesmo em caso de incidentes de segurança.
+### Proteção de dados sensíveis
 
-**Monitoramento e segurança contínuos**
+- criptografia de ponta a ponta  
+- controle rigoroso de acesso  
+- segregação de dados  
+- auditoria de eventos críticos  
+- monitoramento contínuo de segurança  
 
-O sistema conta com camadas adicionais de proteção, incluindo auditorias internas, protocolos de prevenção contra ataques cibernéticos e monitoramento em tempo real para detecção e bloqueio de atividades suspeitas.
+Essas medidas reduzem significativamente o risco de acesso não autorizado, mesmo em cenários adversos.
 
-**Anonimização de dados para análises externas**
+### Anonimização para processamento assistivo
 
-Antes de qualquer uso externo, os dados passam por processos de anonimização, eliminando qualquer possibilidade de identificação direta ou indireta dos profissionais, pacientes e grupos terapêuticos.
+Quando aplicável, os dados passam por processos de **anonimização antes de qualquer processamento externo**, removendo identificadores diretos e indiretos de pacientes e grupos terapêuticos.
 
-Com a anonimização, essas informações deixam de ser classificadas como dados pessoais pela LGPD, o que dispensa a necessidade de autorizações adicionais por parte do paciente, sem comprometer a segurança ou a conformidade legal.
+Com isso:
+
+- preserva-se a utilidade analítica  
+- protege-se a identidade do paciente  
+- mantém-se conformidade com a LGPD  
 
 :::note  
-**Recomendação:** Mesmo não sendo necessária autorização adicional do paciente, recomendamos que o profissional informe os pacientes que a plataforma utiliza IA e que os dados são tratados de forma anonimizada, garantindo transparência, segurança e confiança.  
+**Boa prática recomendada:** embora a anonimização reduza riscos, recomenda-se que o profissional informe seus pacientes sobre o uso de IA como ferramenta assistiva, reforçando transparência e confiança na relação terapêica.  
 :::
 
 ---
 
 ## Como a IA atua no eConsult
 
-A IA **não toma decisões por conta própria**: ela **sugere hipóteses, organiza informações e gera insights** para apoiar o profissional.
+A IA do eConsult **não toma decisões clínicas**.
 
-### Principais Recursos
+Ela atua como um **assistente clínico e analítico**, capaz de:
 
-##### ✔ **Anotações Inteligentes e Contextualizadas**  
-- Interação em formato de chat para **resumir, revisar ou expandir anotações durante o atendimento**.  
+- organizar informações  
+- sugerir hipóteses  
+- identificar padrões  
+- apoiar a leitura longitudinal  
+- reduzir carga operacional  
 
-##### ✔ **Suporte a Diagnósticos e Prognósticos**  
-- Sugere hipóteses diagnósticas e prognósticas baseadas em dados do prontuário, avaliações psicológicas e engajamento do paciente.  
-- Apoia o raciocínio clínico com agilidade e segurança.
-- No caso de grupos terapêuticos a IA considera os dados do grupo e dos membros do grupo para elaborar as hipóteses. 
-
-##### ✔ **Análise e Sugestão de Plano de Tratamento**  
-- Com base na abordagem terapêutica e histórico clínico, gera sugestões personalizadas para o plano de tratamento.  
-
-##### ✔ **Evolução do Tratamento**  
-- Analisa progresso do paciente, identifica padrões e recomenda ajustes quando necessário.
-
-##### ✔ **Relatórios Mensais e Anuais com Insights Estratégicos**  
-- Mensais: análise de produtividade, engajamento e resultados financeiros.  
-- Anuais: visão consolidada para planejamento de longo prazo.  
+Sempre com a validação final do profissional.
 
 ---
 
-## Limites de Uso da IA no eConsult
+## Principais recursos da IA clínica
 
-Os limites de uso variam conforme o plano contratado:
+### ✔ Anotações inteligentes e contextualizadas
 
-| **Recurso**                         | **Trial**      | **Pro** | **Plus**      | **Premium**   |
-|-------------------------------------|---------------|---------|--------------|--------------|
-| Anotações assistidas por IA        | 22/mês        | 0       | 176/mês      | Ilimitado    |
-| Análises mensais e anuais          | 1 de cada     | 0       | 3 de cada    | Ilimitado    |
-| Geração de hipóteses diagnósticas  | Até 10/mês    | 0       | Até 20/mês   | Ilimitado    |
-| Geração de hipóteses prognósticas  | Até 10/mês    | 0       | Até 20/mês   | Ilimitado    |
-| Geração de propostas de planos terapêuticos | Até 10/mês    | 0       | Até 20/mês   | Ilimitado    |
-| Geração de propostas de evoluções de tratamento | Até 10/mês    | 0       | Até 20/mês   | Ilimitado    |
+- Geração assistida de registros clínicos (ex.: SOAP)  
+- Apoio à síntese de sessão  
+- Expansão ou refinamento de textos clínicos  
+- Interação em formato de chat contextual  
+
+**Impacto:** redução significativa do tempo de escrita sem perda de qualidade técnica.
+
+---
+
+### ✔ Suporte a hipóteses diagnósticas e prognósticas
+
+A IA pode sugerir hipóteses com base em:
+
+- dados do prontuário  
+- marcadores clínicos  
+- avaliações psicológicas  
+- padrões de engajamento  
+
+Nos grupos terapêuticos, a análise considera:
+
+- dados do grupo  
+- dados dos membros  
+- dinâmica longitudinal coletiva  
+
+⚠️ **Importante:** trata-se de suporte assistivo — a decisão clínica é sempre do profissional.
+
+---
+
+### ✔ Sugestão de plano de tratamento
+
+Com base na abordagem terapêutica e no histórico do caso, a IA pode:
+
+- sugerir direções de manejo  
+- estruturar propostas iniciais  
+- apoiar o planejamento terapêutico  
+
+Isso acelera a organização do raciocínio clínico, sem engessá-lo.
+
+---
+
+### ✔ Análise da evolução do tratamento
+
+A IA analisa a progressão longitudinal e pode:
+
+- identificar padrões de melhora ou oscilação  
+- sinalizar possíveis pontos de atenção  
+- apoiar a leitura dinâmica do processo  
+
+Esse recurso é especialmente potente quando combinado aos **marcadores clínicos estruturados**.
+
+---
+
+### ✔ Relatórios estratégicos mensais e anuais
+
+A IA também atua na dimensão analítica da prática:
+
+**Mensal:**
+
+- produtividade  
+- engajamento  
+- indicadores financeiros  
+- padrões operacionais  
+
+**Anual:**
+
+- visão consolidada  
+- tendências de longo prazo  
+- apoio ao planejamento estratégico  
+
+---
+
+## Limites de uso da IA
+
+Os limites variam conforme o plano contratado:
+
+| **Recurso** | **Trial** | **Pro** | **Plus** | **Premium** |
+|------------|----------|--------|---------|------------|
+| Anotações assistidas por IA | 22/mês | 0 | 176/mês | Ilimitado |
+| Análises mensais e anuais | 1 de cada | 0 | 3 de cada | Ilimitado |
+| Hipóteses diagnósticas | Até 10/mês | 0 | Até 20/mês | Ilimitado |
+| Hipóteses prognósticas | Até 10/mês | 0 | Até 20/mês | Ilimitado |
+| Planos terapêuticos | Até 10/mês | 0 | Até 20/mês | Ilimitado |
+| Evoluções assistidas | Até 10/mês | 0 | Até 20/mês | Ilimitado |
 
 :::tip  
-**Importante:** Ao integrar sua conta da OpenAI ao eConsult, os limites passam a depender dos créditos adquiridos diretamente na OpenAI, garantindo uso ilimitado no sistema, independentemente do plano contratado.  
+Ao integrar sua própria conta da OpenAI, os limites passam a depender dos créditos contratados diretamente pelo profissional.  
 :::
 
 ---
 
-## Monitoramento de Consumo em Tokens
+## Monitoramento de consumo em tokens
 
-**Tokens** são unidades de texto processadas pela IA. Cada interação envolve:
+Os **tokens** representam unidades de texto processadas pela IA.
 
-- **Tokens de entrada:** texto enviado pelo usuário.  
+Cada interação envolve:
 
-- **Tokens de saída:** resposta gerada pela IA.  
+- tokens de entrada  
+- tokens de saída  
 
-#### Exemplo de Uso Mensal:
+### Exemplo de consumo mensal
 
 - 8 anotações/dia (~400 tokens cada)  
-
 - 1 análise mensal (~900 tokens)  
-
 - 1 análise anual (~900 tokens)  
-
 - 20 hipóteses diagnósticas (~6.000 tokens)  
-
 - 20 hipóteses prognósticas (~6.000 tokens)  
 
-Consumo estimado: **~85.000 tokens/mês**.  
+**Estimativa:** ~85.000 tokens/mês.
 
 ---
 
-## Acompanhar o uso da IA no eConsult
+## Como acompanhar o uso da IA
 
-   1. Acesse o painel *Alertas* e clique em *Monitoramento de Uso de IA*
+1. Acesse **Alertas → Monitoramento de Uso de IA**
 
-      ![Monitoramento de Uso de IA](../../static/img/prints/alertas_usoia_001.png)
+   ![Monitoramento de Uso de IA](../../static/img/prints/alertas_usoia_001.png)
 
-   2. Clique em *Monitoramento de Uso da IA*. O sistema mostrará:
+2. O sistema exibirá o painel de consumo:
 
-      ![Monitoramento de Uso de IA](../../static/img/prints/alertas_usoia_002.png)
-
----
-
-## Por que a IA do eConsult é única no mercado?
-
-1. **Anotações Inteligentes e Contextualizadas**
-   - Personalização por especialidade (psicologia, nutrição, terapias integrativas, etc) e propósito (relato, queixa, evolução, etc).  
-   - Reduz tempo de registro clínico, mantendo qualidade técnica.  
-
-2. **Suporte Clínico Completo**  
-   - Sugestões para diagnósticos, prognósticos, plano de tratamento e evolução terapêutica.  
-
-3. **Relatórios Estratégicos**  
-   - Mensais e anuais, com insights clínicos e financeiros.  
-
-4. **Transparência no Uso**  
-   - Comunicação clara sobre limites, consumo e boas práticas.  
-
-5. **Foco Ético**  
-   - Apoio ao profissional, sem substituir decisões clínicas.  
+   ![Monitoramento de Uso de IA](../../static/img/prints/alertas_usoia_002.png)
 
 ---
 
-#### Comparativo com Outros Sistemas
+## Por que a IA do eConsult é diferente
 
-**Outros sistemas:**  
-- IA genérica, limitada a lembretes ou "autocompletar".  
-- Sem integração com prontuário ou contexto clínico.  
-- Sem relatórios analíticos avançados.  
+### Outros sistemas
 
-**eConsult:**  
-- IA adaptada por especialidade e abordagem.  
-- Suporte clínico real + gestão estratégica.  
-- Interação para resumos e revisões considerando propósitos.  
-- Relatórios inteligentes (mensais e anuais).  
+- IA genérica  
+- autocompletar básico  
+- pouca integração clínica  
+- ausência de leitura longitudinal  
+
+### eConsult
+
+- IA contextual por área e abordagem  
+- integração com marcadores clínicos  
+- suporte ao raciocínio clínico  
+- leitura longitudinal do processo  
+- transparência e controle de uso  
+- arquitetura alinhada à LGPD  
 
 :::tip  
-**Diferencial Real:** A IA do eConsult acompanha todo o ciclo do atendimento, não apenas como recurso isolado, mas como **assistente clínico e estratégico**.  
+**Diferencial central:** no eConsult, a IA não é um recurso isolado — ela faz parte da **arquitetura de inteligência clínica longitudinal** da plataforma.  
 :::
 
 ---
 
-**O eConsult é a escolha certa para quem busca mais eficiência, controle e profissionalismo na gestão de atendimentos.**
-
-
+**O eConsult foi projetado para ampliar a capacidade analítica do profissional, preservando integralmente sua autonomia clínica.**
