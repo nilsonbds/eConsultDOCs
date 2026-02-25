@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Arquitetura, Design e Interação
+# Arquitetura, Design, Interação, Adaptabilidade e Flexibilidade
 
 O eConsult foi concebido como uma **plataforma de inteligência clínica longitudinal**, estruturada para integrar gestão, documentação e análise do processo terapêutico em uma experiência fluida, segura e orientada ao raciocínio clínico.
 

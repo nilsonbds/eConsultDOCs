@@ -21,7 +21,7 @@ Com um portfólio robusto de instrumentos de uso livre, o sistema permite:
 Tudo isso **sem fragmentar a rotina do profissional**.
 
 :::warning
-A funcionalidade **Avaliações Psicológicas Integradas** é **exclusiva para psicólogos**, em conformidade com as exigências legais e éticas que regulam o uso de instrumentos psicológicos no Brasil.
+A funcionalidade de **Avaliações Psicológicas Integradas** é disponibilizada exclusivamente para psicólogos habilitados, em conformidade com a Lei nº 4.119/1962 e as normas do Conselho Federal de Psicologia.
 :::
 
 ---

@@ -34,14 +34,6 @@ Defina seus tipos de atendimentos e seus respectivos valores para melhorar sua e
 
 - 👉 [Configurar Tipos de Atendimentos](/docs/funcionalidades/configuracoes/financas/padroes-atendimentos)
 
-### **Integrar seu SMTP para envio de e-mails**
-
-Configure facilmente seu próprio servidor SMTP para envio de e-mails diretamente pela plataforma.
-
-Isso permite que as mensagens aos pacientes sejam enviadas usando seu próprio domínio de e-mail.
-
-- 👉 [Configurar seu SMTP](/docs/funcionalidades/configuracoes/integracoes/servidor-smtp)
-
 ### **Integrar com o seu Google Drive**
 
 Conecte sua conta do Google Drive ao eConsult para armazenar e acessar arquivos com praticidade e segurança.
