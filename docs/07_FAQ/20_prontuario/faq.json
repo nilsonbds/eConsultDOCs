@@ -1,0 +1,128 @@
+[
+  {
+    "more_details_url": null,
+    "pergunta": "O que é o Prontuário Eletrônico do eConsult?",
+    "resposta": "O Prontuário Eletrônico do eConsult é o ambiente central de registro clínico do paciente ou grupo. Ele organiza anotações, evoluções, avaliações e documentos em um histórico estruturado e seguro, permitindo ao profissional acompanhar o cuidado de forma longitudinal e integrada.",
+    "categoria": "Prontuário Eletrônico",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Qual é o principal objetivo do prontuário no eConsult?",
+    "resposta": "O objetivo é oferecer um registro clínico tecnicamente consistente, seguro e organizado ao longo do tempo. O prontuário foi projetado para apoiar o raciocínio profissional, facilitar a leitura evolutiva do caso e reduzir a fragmentação das informações clínicas.",
+    "categoria": "Prontuário Eletrônico",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "O prontuário do eConsult substitui o registro narrativo do psicólogo?",
+    "resposta": "Não. O sistema preserva integralmente o registro narrativo livre. Os recursos estruturados do eConsult atuam como complemento organizacional e analítico, sem interferir na autonomia técnica do profissional.",
+    "categoria": "Prontuário Eletrônico",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Posso ter mais de um prontuário por paciente?",
+    "resposta": "Sim. O eConsult permite múltiplos prontuários por paciente ou grupo terapêutico, possibilitando organizar diferentes momentos do cuidado, ciclos terapêuticos ou contextos clínicos específicos.",
+    "categoria": "Prontuário Eletrônico",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "O que significa um prontuário 'Em elaboração'?",
+    "resposta": "O status 'Em elaboração' indica que o prontuário ainda está em construção e visível apenas para uso interno do profissional. Nesse estágio, o conteúdo pode ser editado livremente antes da finalização.",
+    "categoria": "Fluxo e estados do prontuário",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "O que acontece quando o prontuário é finalizado?",
+    "resposta": "Após a finalização, o prontuário é consolidado como registro clínico formal. A partir desse momento, ele passa a compor o histórico do paciente e segue as regras de controle e rastreabilidade do sistema.",
+    "categoria": "Fluxo e estados do prontuário",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Qual a diferença entre prontuário Privado e Público?",
+    "resposta": "O prontuário Privado é destinado exclusivamente ao uso clínico do profissional. Já o prontuário Público pode ser compartilhado com o paciente quando o psicólogo julgar apropriado. A decisão de publicação é sempre do profissional.",
+    "categoria": "Fluxo e estados do prontuário",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Posso excluir um prontuário publicado?",
+    "resposta": "Prontuários publicados seguem regras de integridade e rastreabilidade clínica. Em geral, o sistema preserva o histórico para garantir consistência documental e segurança jurídica, evitando exclusões que comprometam a linha do tempo clínica.",
+    "categoria": "Fluxo e estados do prontuário",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "O prontuário do eConsult é seguro para dados sensíveis?",
+    "resposta": "Sim. O eConsult utiliza criptografia, controle rigoroso de acesso e boas práticas de segurança da informação para proteger dados clínicos sensíveis, mantendo conformidade com a LGPD e com os princípios éticos da psicologia.",
+    "categoria": "Segurança e conformidade",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Quem pode acessar os prontuários?",
+    "resposta": "O acesso é restrito ao profissional autorizado e aos usuários com permissão explícita dentro da conta. O sistema mantém rastreabilidade técnica de acessos para reforçar a segurança e a responsabilidade profissional.",
+    "categoria": "Segurança e conformidade",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "O prontuário está em conformidade com a LGPD?",
+    "resposta": "Sim. O prontuário do eConsult foi projetado seguindo princípios da LGPD, incluindo minimização de dados, controle de acesso, criptografia e mecanismos de proteção à privacidade do paciente.",
+    "categoria": "Segurança e conformidade",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Posso anexar documentos ao prontuário?",
+    "resposta": "Sim. O eConsult permite anexar documentos clínicos e arquivos relevantes ao prontuário, mantendo tudo organizado no histórico do paciente ou grupo.",
+    "categoria": "Funcionalidades do prontuário",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "O prontuário integra anamnese e avaliações psicológicas?",
+    "resposta": "Sim. O prontuário funciona como eixo integrador do eConsult, conectando anamnese, avaliações, evoluções e outros registros clínicos em uma visão longitudinal unificada.",
+    "categoria": "Funcionalidades do prontuário",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Os Marcadores Clínicos aparecem no prontuário?",
+    "resposta": "Sim. Os Marcadores Clínicos podem ser associados às sessões e alimentam a leitura longitudinal do caso, enriquecendo a compreensão da evolução terapêutica ao longo do tempo.",
+    "categoria": "Funcionalidades do prontuário",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Como a IA interage com o prontuário?",
+    "resposta": "A IA do eConsult atua como apoio à organização e redação clínica, sempre sob revisão obrigatória do profissional. Nenhuma decisão clínica é automatizada, e o psicólogo mantém controle total sobre o conteúdo final.",
+    "categoria": "IA e apoio clínico",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "A IA pode alterar automaticamente meu prontuário?",
+    "resposta": "Não. Toda sugestão gerada por IA exige validação explícita do profissional antes de ser incorporada ao prontuário, preservando autonomia técnica e responsabilidade clínica.",
+    "categoria": "IA e apoio clínico",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Por que o prontuário do eConsult é considerado diferenciado?",
+    "resposta": "Porque ele vai além do registro estático. O prontuário foi projetado para suportar leitura longitudinal, integração com marcadores clínicos e organização estruturada do histórico, oferecendo uma base mais consistente para o acompanhamento do cuidado.",
+    "categoria": "Diferenciais do prontuário",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "O prontuário ajuda na continuidade do cuidado?",
+    "resposta": "Sim. Ao organizar registros de forma cronológica e estruturada, o eConsult facilita a visualização da trajetória do paciente, apoiando decisões clínicas mais bem contextualizadas ao longo do tempo.",
+    "categoria": "Diferenciais do prontuário",
+    "public": true
+  }
+]
