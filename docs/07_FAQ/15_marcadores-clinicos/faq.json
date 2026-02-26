@@ -1,0 +1,226 @@
+[
+  {
+    "more_details_url": "/docs/funcionalidades/configuracoes/agenda/marcadores-clinicos",
+    "pergunta": "O que são Marcadores Clínicos no eConsult?",
+    "resposta": "Marcadores Clínicos são uma camada estruturada de registro da sessão que transforma observações clínicas em dados organizados, comparáveis e analisáveis ao longo do tempo. Eles não substituem o prontuário narrativo: complementam o registro com dimensões clínicas padronizáveis, permitindo leitura longitudinal da evolução do paciente.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "/docs/funcionalidades/analise-score/visao",
+    "pergunta": "Qual é o objetivo dos Marcadores Clínicos?",
+    "resposta": "O objetivo é apoiar o psicólogo a registrar, acompanhar e interpretar a evolução clínica com mais clareza e consistência. Com Marcadores Clínicos, o profissional consegue visualizar tendências (melhora, estabilidade, oscilação, piora), reduzir perda de informação entre sessões e sustentar sínteses longitudinais sem depender apenas de memória ou textos longos.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Marcadores Clínicos são a mesma coisa que tags ou etiquetas?",
+    "resposta": "Não. Tags são rótulos livres e pouco estruturados. Marcadores Clínicos são dimensões organizadas (por exemplo: risco, engajamento, valência, aliança terapêutica, insight) com regras, escalas e significado clínico. Eles foram desenhados para gerar leitura longitudinal, apoiar sínteses e integrar-se ao prontuário e aos painéis de acompanhamento.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Os Marcadores Clínicos substituem o texto do prontuário?",
+    "resposta": "Não. Os Marcadores Clínicos complementam o registro narrativo. O texto continua essencial para contexto, formulação e nuances do caso. Os marcadores ajudam a estruturar elementos recorrentes da sessão e a tornar a evolução comparável entre atendimentos, sem empobrecer a complexidade clínica.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Os Marcadores Clínicos substituem o raciocínio clínico do psicólogo?",
+    "resposta": "Não. Marcadores Clínicos não fazem diagnóstico, não prescrevem condutas e não tomam decisões clínicas. Eles são um recurso de apoio para organizar observações e facilitar a leitura longitudinal. A interpretação e a responsabilidade técnica permanecem integralmente com o profissional.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "/docs/funcionalidades/configuracoes/agenda/marcadores-clinicos",
+    "pergunta": "Como os Marcadores Clínicos funcionam na prática durante um atendimento?",
+    "resposta": "Ao final (ou durante) a sessão, o profissional seleciona os marcadores que melhor representam aspectos relevantes daquele encontro. Esses marcadores ficam vinculados ao atendimento e, ao longo das sessões, formam uma linha do tempo de indicadores. O sistema então permite visualizar tendências, comparar períodos e gerar sínteses orientadas por dados estruturados.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "/docs/funcionalidades/configuracoes/agenda/marcadores-clinicos",
+    "pergunta": "Eu posso configurar os Marcadores Clínicos do meu jeito?",
+    "resposta": "Sim. O eConsult permite configurar marcadores conforme sua abordagem, público e estilo de registro. Você pode definir categorias, descrições, opções/escala, e padronizar a forma como sua prática registra risco, engajamento, estágio terapêutico e outras dimensões clínicas.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "/docs/funcionalidades/configuracoes/agenda/marcadores-clinicos",
+    "pergunta": "O eConsult oferece Marcadores Clínicos prontos ou eu preciso criar do zero?",
+    "resposta": "O eConsult pode oferecer modelos e sugestões de marcadores (biblioteca) como ponto de partida, mas o profissional mantém autonomia para adaptar, ativar/desativar e personalizar conforme sua realidade clínica. A intenção é acelerar a configuração sem impor um padrão único.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Quais dimensões clínicas podem ser registradas como Marcadores?",
+    "resposta": "Depende do seu modelo, mas exemplos comuns incluem: nível de risco, engajamento, valência do período, intensidade do sofrimento, aliança terapêutica, insight, autonomia, adesão às tarefas, estágio do tratamento e sinais de mudança. Você pode trabalhar com dimensões compatíveis com sua abordagem e objetivos terapêuticos.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Marcadores Clínicos servem para todos os tipos de abordagem (TCC, Psicanálise, Humanista etc.)?",
+    "resposta": "Sim. Os Marcadores Clínicos foram desenhados para serem agnósticos de abordagem: você pode configurar dimensões coerentes com sua prática. O foco é estruturar o acompanhamento longitudinal, não impor um modelo teórico específico.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Como os Marcadores Clínicos ajudam a acompanhar evolução ao longo do tempo?",
+    "resposta": "Eles permitem observar padrões que se perdem no texto livre: tendência de engajamento, oscilação de risco, mudanças de valência, estabilidade da aliança terapêutica e marcos do estágio de tratamento. Com o histórico estruturado, o profissional identifica variações relevantes e sustenta hipóteses com mais consistência longitudinal.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-resultados",
+    "pergunta": "O eConsult mostra uma linha do tempo dos Marcadores Clínicos?",
+    "resposta": "Sim. Os marcadores ficam vinculados às sessões e podem ser visualizados em formato longitudinal – na aba Resultados > sub-aba Evolução do cadastro do cliente, permitindo comparar períodos e observar tendências. Isso facilita supervisão, revisão de caso, preparação para sessões e sínteses de evolução.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Marcadores Clínicos ajudam a identificar risco de abandono do tratamento?",
+    "resposta": "Eles podem ajudar indiretamente ao revelar queda de engajamento, aumento de faltas, redução de frequência e sinais de oscilação no vínculo. O sistema não “rotula” abandono como verdade clínica, mas sinaliza padrões que merecem atenção e acompanhamento.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Marcadores Clínicos podem ser usados em atendimento individual e em grupo?",
+    "resposta": "Sim. Em atendimentos individuais, os marcadores ajudam a acompanhar o paciente ao longo das sessões. Em grupos, eles podem registrar aspectos relevantes do processo grupal e de cada participante (quando aplicável), mantendo a visão longitudinal organizada.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "/docs/funcionalidades/atendimentos/anotacoes",
+    "pergunta": "Como os Marcadores Clínicos se conectam ao SOAP (ou outros modelos de anotação)?",
+    "resposta": "Os marcadores ajudam a alimentar e orientar a escrita do registro clínico. Por exemplo, mudanças em risco, engajamento e valência podem organizar a leitura de evolução e apoiar a redação de itens do SOAP. O profissional pode usar os marcadores como base para coerência longitudinal, sem automatizar indevidamente a decisão clínica.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "/docs/funcionalidades/atendimentos/lembretes",
+    "pergunta": "A IA do eConsult usa os Marcadores Clínicos?",
+    "resposta": "Sim, o eConsult pode usar os Marcadores Clínicos como contexto estruturado para apoiar tarefas como síntese longitudinal, sugestões de registro e organização de informações. Isso aumenta a qualidade e a consistência do apoio, pois os marcadores oferecem sinais objetivos da trajetória entre sessões.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "/docs/funcionalidades/atendimentos/lembretes",
+    "pergunta": "Os Marcadores Clínicos fazem o sistema “diagnosticar” o paciente?",
+    "resposta": "Não. Marcadores Clínicos não são diagnóstico e não geram diagnóstico automaticamente. Eles registram dimensões do acompanhamento e ajudam a organizar o caso. Qualquer hipótese diagnóstica, quando existente, depende do raciocínio clínico e validação do profissional, com base em dados suficientes.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "O eConsult força um padrão de Marcadores Clínicos para todos os profissionais?",
+    "resposta": "Não. A plataforma foi construída para preservar autonomia. Você pode usar modelos sugeridos, adaptar ou criar sua própria estrutura. O eConsult busca oferecer consistência e longitudinalidade sem engessar a prática.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Marcadores Clínicos podem registrar apenas o que é relevante na sessão?",
+    "resposta": "Sim. Você não precisa preencher tudo sempre. A ideia é registrar o que é clinicamente relevante para aquele momento. O sistema serve ao seu raciocínio, e não o contrário.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Existe risco de os Marcadores Clínicos simplificarem demais a complexidade do caso?",
+    "resposta": "O risco existe em qualquer estrutura, por isso o eConsult trata os marcadores como complemento ao texto e à formulação clínica. Eles não substituem nuance, contexto e singularidade: apenas organizam dimensões recorrentes para melhorar a leitura longitudinal e reduzir perdas de informação entre sessões.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Como os Marcadores Clínicos são protegidos em termos de sigilo e LGPD?",
+    "resposta": "Os marcadores ficam protegidos pelos mesmos mecanismos de segurança do prontuário: controle de acesso, criptografia e boas práticas de privacidade. O eConsult foi desenhado para operar com dados sensíveis com responsabilidade, mantendo o controle nas mãos do profissional.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Marcadores Clínicos podem ser compartilhados com o paciente na Área do Paciente?",
+    "resposta": "Isso depende das permissões e do fluxo de publicação definido pelo profissional. O eConsult permite separar conteúdo interno (privado) de conteúdo compartilhável, garantindo que o psicólogo controle o que faz sentido expor ao paciente.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "/docs/funcionalidades/analise-score/visao",
+    "pergunta": "Os Marcadores Clínicos aparecem em relatórios e sínteses longitudinais?",
+    "resposta": "Sim. Como os marcadores estruturam dimensões recorrentes, eles podem alimentar relatórios e sínteses, ajudando a descrever evolução, estabilidade e mudanças ao longo do tempo. O profissional continua responsável por revisar e validar qualquer relatório ou síntese.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Marcadores Clínicos ajudam em supervisão clínica e revisão de caso?",
+    "resposta": "Sim. A estrutura longitudinal facilita revisar períodos, destacar momentos-chave e observar tendências. Isso pode apoiar preparo de supervisão, estudo de caso e organização do raciocínio clínico, sempre preservando o sigilo e a responsabilidade do profissional.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Os Marcadores Clínicos funcionam com diferentes tipos de prontuário (SOAP, PPR, DAR etc.)?",
+    "resposta": "Sim. Os marcadores são independentes do modelo de anotação. Eles oferecem uma camada estruturada que pode apoiar SOAP, PPR, DAR e outros formatos, ajudando a manter consistência longitudinal e a identificar variações entre sessões.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Quanto tempo leva para começar a usar Marcadores Clínicos de forma produtiva?",
+    "resposta": "Em geral, poucos atendimentos já geram valor. O ganho aumenta com o tempo, porque o principal benefício é longitudinal. O eConsult foi desenhado para uso rápido (seleção simples) e crescimento gradual (refinamento da configuração conforme sua prática).",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "O eConsult oferece recomendações de Marcadores Clínicos para diferentes contextos?",
+    "resposta": "O eConsult pode oferecer sugestões e modelos para facilitar a implantação, mas evita impor padrões rígidos. O objetivo é apoiar o profissional com referências úteis, preservando autonomia teórica, ética e técnica.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "É possível ajustar Marcadores Clínicos conforme o estágio do tratamento?",
+    "resposta": "Sim. Muitos profissionais usam marcadores diferentes conforme o momento do caso (início, estabilização, aprofundamento, manutenção, alta). O eConsult permite adaptar a estrutura para refletir seu modo de acompanhar estágios e objetivos terapêuticos.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Marcadores Clínicos podem ser usados como checklist obrigatório?",
+    "resposta": "A recomendação é que eles sejam usados como apoio, não como obrigação mecânica. Você pode adotar padrões mínimos se isso fizer sentido no seu método, mas o eConsult foi desenhado para registrar o que é clinicamente relevante e manter a prática fluida.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Qual é a relação entre Marcadores Clínicos e Inteligência Clínica Longitudinal?",
+    "resposta": "Marcadores Clínicos são um dos principais insumos da Inteligência Clínica Longitudinal do eConsult. Eles estruturam aspectos-chave da sessão e, ao longo do tempo, formam a base para visualizar tendências, gerar sínteses e apoiar análises com consistência entre atendimentos.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Posso exportar dados ou relatórios que incluem Marcadores Clínicos?",
+    "resposta": "Sim. O eConsult permite exportações e relatórios conforme recursos habilitados, sempre com controle do profissional e respeito ao sigilo. O objetivo é permitir que você tenha autonomia sobre seus dados e consiga gerar documentos quando necessário.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": null,
+    "pergunta": "Marcadores Clínicos são uma funcionalidade inovadora?",
+    "resposta": "No contexto da psicologia clínica, a proposta do eConsult é inovadora por estruturar dimensões clínicas e conectá-las a uma leitura longitudinal integrada ao prontuário e a recursos inteligentes. A inovação está na arquitetura: transformar registros recorrentes em uma base organizada para evolução, síntese e acompanhamento ao longo do tempo, preservando ética e autonomia profissional.",
+    "categoria": "Marcadores Clínicos",
+    "public": true
+  }
+]

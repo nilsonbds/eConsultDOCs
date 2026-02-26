@@ -2,414 +2,57 @@
   {
     "more_details_url": null,
     "pergunta": "O que torna o eConsult diferente de outros sistemas de gestão para psicólogos?",
-    "resposta": "O eConsult é diferente porque foi criado por quem entende a psicologia, com tecnologia de ponta, mas guiada por ética, segurança e empatia. Ele não tenta transformar o psicólogo em gestor — ajuda o gestor a continuar sendo psicólogo.",
+    "resposta": "O eConsult foi concebido com foco na prática clínica real do psicólogo. Em vez de priorizar apenas rotinas administrativas, a plataforma integra inteligência clínica longitudinal, prontuário estruturado e recursos éticos de apoio à decisão. O objetivo não é transformar o psicólogo em gestor, mas reduzir a carga operacional para que ele mantenha o foco no cuidado.",
     "categoria": "Propósito e filosofia",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "Por que o eConsult foi criado?",
-    "resposta": "O eConsult foi criado para oferecer aos psicólogos uma plataforma ética, intuitiva e livre de viés mercantilista, desenvolvida a partir da vivência real de quem conhece as limitações dos sistemas tradicionais e valoriza o cuidado genuíno com a saúde mental.",
+    "resposta": "O eConsult nasceu da percepção de que muitos sistemas tratam a psicologia apenas como um fluxo administrativo. A plataforma foi desenvolvida para oferecer uma alternativa ética, clínica e tecnicamente robusta, alinhada à realidade do consultório psicológico e às exigências do cuidado em saúde mental.",
     "categoria": "Propósito e filosofia",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "O eConsult tem foco comercial ou clínico?",
-    "resposta": "O eConsult tem foco clínico — ele foi concebido para priorizar o cuidado, a ética e a prática psicológica, não a lógica comercial. Seu propósito é apoiar o trabalho do psicólogo, simplificando a gestão e fortalecendo o atendimento, sem transformar o paciente em “cliente” ou a clínica em um negócio puramente mercantil.",
+    "resposta": "O foco do eConsult é clínico. A plataforma foi projetada para fortalecer a prática psicológica, organizar o trabalho profissional e apoiar o raciocínio clínico — sem adotar uma lógica centrada em marketing ou mercantilização do cuidado.",
     "categoria": "Propósito e filosofia",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "Como o eConsult ajuda o psicólogo a manter o foco no cuidado humano?",
-    "resposta": "O eConsult ajuda o psicólogo a manter o foco no cuidado humano ao simplificar a gestão clínica, proteger o sigilo e apoiar o trabalho terapêutico sem desviar da essência da prática psicológica.",
+    "resposta": "Ao automatizar tarefas operacionais, estruturar registros clínicos e centralizar informações relevantes, o eConsult reduz a sobrecarga administrativa do profissional. Com isso, o psicólogo pode dedicar mais tempo e atenção ao vínculo terapêutico e ao acompanhamento do paciente.",
     "categoria": "Propósito e filosofia",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "O eConsult substitui o trabalho do psicólogo?",
-    "resposta": "Não — o eConsult não substitui o trabalho do psicólogo; ele apoia e potencializa sua prática, oferecendo recursos que organizam, automatizam e ampliam o cuidado, sem jamais substituir o olhar clínico e a responsabilidade profissional.",
+    "resposta": "Não. O eConsult é uma ferramenta de apoio à prática profissional. Todos os conteúdos gerados por automação ou IA dependem de revisão e validação do psicólogo, que permanece como único responsável técnico pelas decisões clínicas.",
     "categoria": "Propósito e filosofia",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "Como o eConsult equilibra tecnologia e ética profissional?",
-    "resposta": "O eConsult equilibra tecnologia e ética profissional ao usar inovação para facilitar o trabalho clínico sem ultrapassar os limites da prática psicológica, garantindo sigilo, autonomia e responsabilidade em cada recurso oferecido.",
+    "resposta": "A arquitetura do eConsult foi desenhada com salvaguardas éticas desde a origem: anonimização de dados, validação humana obrigatória, controle de acesso e transparência no uso de IA. A tecnologia é utilizada como suporte ao trabalho clínico, nunca como substituição do julgamento profissional.",
     "categoria": "Propósito e filosofia",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "O eConsult tem relação com marketing ou captação de pacientes?",
-    "resposta": "Não — o eConsult não atua com marketing nem captação de pacientes; sua proposta é fortalecer o exercício ético da psicologia, oferecendo ferramentas para gestão e atendimento clínico, sem transformar o cuidado em produto.",
+    "resposta": "Não. O eConsult não atua com captação de pacientes nem ferramentas de marketing. A proposta da plataforma é apoiar a gestão clínica, a organização profissional e a qualidade do cuidado psicológico.",
     "categoria": "Propósito e filosofia",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "Qual é a filosofia por trás do eConsult?",
-    "resposta": "A filosofia do eConsult é colocar o cuidado humano no centro da tecnologia, unindo ética, simplicidade e autonomia profissional para que o psicólogo possa exercer sua prática com coerência, liberdade e respeito à essência da psicologia.",
+    "resposta": "A filosofia do eConsult é colocar a prática clínica no centro da tecnologia. A plataforma foi construída para respeitar a autonomia profissional, o sigilo clínico e os princípios éticos da psicologia, utilizando a inovação como meio de fortalecer — e não distorcer — o cuidado em saúde mental.",
     "categoria": "Propósito e filosofia",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult foi desenvolvido por psicólogos?",
-    "resposta": "Sim – O eConsult foi desenvolvido em parceria com psicólogos, unindo a visão clínica de quem vive o dia a dia do atendimento com a expertise tecnológica de quem valoriza a ética e a experiência humana.",
-    "categoria": "Propósito e filosofia",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Qual é a visão de futuro do eConsult na prática clínica?",
-    "resposta": "A visão de futuro do eConsult é transformar a prática clínica em uma experiência mais integrada, inteligente e humana, onde a tecnologia apoia o psicólogo em decisões, registros e análises — sem jamais substituir o vínculo, a ética e o cuidado que definem a psicologia.",
-    "categoria": "Propósito e filosofia",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Como o eConsult garante o sigilo profissional?",
-    "resposta": "O eConsult garante o sigilo profissional por meio de criptografia avançada, anonimização de dados sensíveis e conformidade total com a LGPD, assegurando que todas as informações clínicas permaneçam protegidas, acessíveis apenas ao psicólogo autorizado e jamais usadas para fins comerciais.",
-    "categoria": "Ética, sigilo e LGPD",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult está em conformidade com a LGPD?",
-    "resposta": "Sim — o eConsult foi desenvolvido desde o início em conformidade com a LGPD, aplicando princípios de minimização de dados, consentimento informado, criptografia e controle de acesso, garantindo que a privacidade do paciente e a responsabilidade do profissional sejam preservadas em todas as etapas do uso.",
-    "categoria": "Ética, sigilo e LGPD",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Quais práticas de segurança diferenciam o eConsult de outras plataformas?",
-    "resposta": "O eConsult se diferencia por adotar criptografia avançada, anonimização de dados e controles de acesso rigorosos, garantindo segurança clínica e sigilo profissional muito além dos padrões das plataformas comerciais.",
-    "categoria": "Ética, sigilo e LGPD",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Como o eConsult trata dados sensíveis de pacientes?",
-    "resposta": "O eConsult trata dados sensíveis com criptografia, anonimização e controle de acesso restrito, assegurando que as informações clínicas permaneçam protegidas, confidenciais e em total conformidade com a LGPD.",
-    "categoria": "Ética, sigilo e LGPD",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult compartilha dados com terceiros ou usa IA externa para processar informações pessoais?",
-    "resposta": "Não — o eConsult não compartilha dados com terceiros nem utiliza IA externa para processar informações pessoais, pois todo uso de inteligência artificial é feito com dados anonimizados e sob rigorosos padrões de segurança e conformidade com a LGPD.",
-    "categoria": "Ética, sigilo e LGPD",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "É seguro usar o eConsult para armazenar prontuários psicológicos?",
-    "resposta": "Sim — o eConsult é totalmente seguro para armazenar prontuários psicológicos, pois utiliza criptografia e controle de acesso restrito, garantindo sigilo, integridade e conformidade com a LGPD e o Código de Ética Profissional do Psicólogo.",
-    "categoria": "Ética, sigilo e LGPD",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Há algum recurso de anonimização automática nos textos clínicos?",
-    "resposta": "Sim — o eConsult possui recursos automáticos de anonimização nos textos clínicos, que detectam e ocultam dados identificáveis antes de qualquer processamento por IA, preservando o sigilo e a confidencialidade das informações do paciente.",
-    "categoria": "Ética, sigilo e LGPD",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult pode ser usado em auditorias ou perícias sem risco de vazamento de dados?",
-    "resposta": "Sim — o eConsult pode ser usado em auditorias ou perícias com segurança, pois mantém logs técnicos sem dados pessoais, aplica criptografia integral e permite exportações controladas, garantindo transparência sem comprometer o sigilo clínico.",
-    "categoria": "Ética, sigilo e LGPD",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Como o eConsult protege o profissional de responsabilidade indevida?",
-    "resposta": "O eConsult protege o profissional de responsabilidade indevida ao registrar ações de forma auditável, sem expor dados sigilosos, e ao exigir revisão e validação humana em conteúdos gerados por IA, reforçando a autonomia, ética e segurança jurídica do psicólogo.",
-    "categoria": "Ética, sigilo e LGPD",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/diferenciais/inteligencia-artificial",
-    "pergunta": "Como a Inteligência Artificial é usada no eConsult?",
-    "resposta": "A Inteligência Artificial no eConsult é usada para auxiliar o psicólogo em tarefas clínicas e administrativas, como gerar anotações clínicas, hipóteses diagnósticas e prognósticas, planos e evoluções terapêuticos, relatórios e análises, sempre com dados anonimizados e sob validação do profissional, garantindo apoio ético, seguro e não substitutivo à prática psicológica.",
-    "categoria": "Inteligência Artificial responsável",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "A IA do eConsult substitui o raciocínio clínico do profissional?",
-    "resposta": "Não — a IA do eConsult não substitui o raciocínio clínico, mas apoia o psicólogo com sugestões e análises automatizadas, mantendo sempre a decisão final e a responsabilidade ética nas mãos do profissional.",
-    "categoria": "Inteligência Artificial responsável",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/diferenciais/inteligencia-artificial",
-    "pergunta": "O eConsult envia dados clínicos para a IA",
-    "resposta": "Não — o eConsult não envia dados clínicos identificáveis para a IA; todo processamento por IA é feito com informações previamente anonimizadas, garantindo sigilo, conformidade com a LGPD e total proteção ao paciente e ao profissional.",
-    "categoria": "Inteligência Artificial responsável",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Os textos gerados pela IA são armazenados no sistema?",
-    "resposta": "Sim — os textos gerados pela IA podem ser armazenados de forma segura e criptografada no prontuário, sendo acessíveis apenas ao psicólogo. Somente os conteúdos revisados e validados pelo profissional podem ser compartilhados com o paciente, sempre sob controle do próprio psicólogo. Esse fluxo garante sigilo absoluto, conformidade ética e total controle sobre as informações clínicas.",
-    "categoria": "Inteligência Artificial responsável",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/diferenciais/inteligencia-artificial",
-    "pergunta": "Como o eConsult garante que a IA não quebre o sigilo clínico?",
-    "resposta": "O eConsult garante que a IA não quebre o sigilo clínico por meio de anonimização automática, criptografia e bloqueio de envio de dados identificáveis, assegurando que nenhuma informação pessoal do paciente seja processada fora do ambiente seguro e ético da plataforma.",
-    "categoria": "Inteligência Artificial responsável",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O profissional pode revisar e editar as respostas geradas pela IA?",
-    "resposta": "Sim — o profissional pode revisar, editar e validar integralmente todas as respostas geradas pela IA, mantendo autonomia total sobre o conteúdo e responsabilidade ética sobre o material clínico.",
-    "categoria": "Inteligência Artificial responsável",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "A IA do eConsult é treinada com dados de pacientes?",
-    "resposta": "Não — a IA do eConsult nunca é treinada com dados de pacientes, pois todo o processamento é feito de forma isolada, sem armazenamento ou reutilização de informações clínicas, garantindo sigilo e conformidade com a LGPD.",
-    "categoria": "Inteligência Artificial responsável",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/diferenciais/inteligencia-artificial",
-    "pergunta": "O eConsult possui filtros de anonimização antes de enviar conteúdo para a IA?",
-    "resposta": "Sim — o eConsult possui filtros automáticos de anonimização que removem nomes, datas e outros identificadores pessoais antes de qualquer envio para a IA, garantindo sigilo absoluto e conformidade ética em cada processamento.",
-    "categoria": "Inteligência Artificial responsável",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/funcionalidades/atendimentos/anotacoes",
-    "pergunta": "Qual é o papel da IA nas anotações clínicas (SOAP, PPR etc.)?",
-    "resposta": "A IA no eConsult tem o papel de auxiliar o psicólogo na redação de anotações clínicas como SOAP e PPR, oferecendo sugestões estruturadas e insights automáticos, mas sempre dependendo da revisão e validação final do profissional.",
-    "categoria": "Inteligência Artificial responsável",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/diferenciais/inteligencia-artificial",
-    "pergunta": "O eConsult explica como cada IA é utilizada internamente?",
-    "resposta": "Sim — o eConsult informa de forma transparente como cada IA é utilizada, descrevendo suas funções, limitações e medidas de segurança, para que o profissional compreenda, valide e mantenha controle total sobre o uso da tecnologia.",
-    "categoria": "Inteligência Artificial responsável",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O que o eConsult integra em um único sistema?",
-    "resposta": "O eConsult integra em um único sistema agenda, prontuário eletrônico, teleatendimento, finanças, testes psicológicos e recursos de IA clínica, oferecendo ao psicólogo uma plataforma completa, segura e centrada no cuidado.",
-    "categoria": "Funcionalidades integradas e experiência de uso",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/atendimentos",
-    "pergunta": "O eConsult facilita a organização da agenda e dos atendimentos?",
-    "resposta": "Sim — o eConsult simplifica a organização da agenda e dos atendimentos, permitindo que o psicólogo gerencie horários, tipos de sessão e marcadores clínicos de forma intuitiva, mantendo o foco no acompanhamento clínico.",
-    "categoria": "Funcionalidades integradas e experiência de uso",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult gera relatórios automáticos?",
-    "resposta": "Sim — o eConsult gera relatórios automáticos clínicos e financeiros, ajudando o psicólogo a acompanhar resultados, evoluções e indicadores, sem perder tempo com tarefas burocráticas.",
-    "categoria": "Funcionalidades integradas e experiência de uso",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/funcionalidades/configuracoes/financas/padroes-atendimentos",
-    "pergunta": "É possível personalizar tipos de atendimento e valores?",
-    "resposta": "Sim — o eConsult permite personalizar tipos de atendimento e valores, adaptando o sistema à realidade clínica e às preferências de cada profissional.",
-    "categoria": "Funcionalidades integradas e experiência de uso",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/diferenciais/clientes-grupos",
-    "pergunta": "O eConsult tem suporte para grupos terapêuticos?",
-    "resposta": "Sim — o eConsult oferece suporte completo para grupos terapêuticos, permitindo organizar participantes, registrar evoluções coletivas e individuais e gerenciar sessões com praticidade e sigilo.",
-    "categoria": "Funcionalidades integradas e experiência de uso",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult ajuda na organização financeira da clínica?",
-    "resposta": "Sim — o eConsult oferece uma gestão financeira completa e inteligente, controlando valores de atendimentos, recebimentos, pendências e relatórios mensais. Além disso, o sistema identifica inadimplências, monitora perdas e apoia estratégias de recuperação contábil, proporcionando ao profissional clareza, autonomia e visão estratégica sobre a saúde financeira da clínica.",
-    "categoria": "Funcionalidades integradas e experiência de uso",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult oferece dashboards e análises de desempenho?",
-    "resposta": "Sim — o eConsult oferece dashboards e análises de desempenho clínico e financeiro em múltiplos níveis, permitindo ao psicólogo visualizar indicadores e gráficos de evolução global da clínica e de cada paciente ou grupo terapêutico. Essas análises facilitam o acompanhamento de resultados, a identificação de tendências e a tomada de decisões baseadas em dados reais e confiáveis.",
-    "categoria": "Funcionalidades integradas e experiência de uso",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Como o eConsult integra prontuário, finanças e relatórios?",
-    "resposta": "O eConsult integra prontuário, finanças e relatórios em um único fluxo inteligente, conectando atendimentos, registros clínicos e movimentações financeiras para oferecer visão completa e coerente da prática profissional.",
-    "categoria": "Funcionalidades integradas e experiência de uso",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-area-cliente",
-    "pergunta": "O eConsult tem área do paciente ou portal do cliente?",
-    "resposta": "Sim — o eConsult possui área do paciente com acesso controlado pelo profissional, permitindo compartilhar documentos, evoluções e relatórios, sempre sob autorização e supervisão do psicólogo.",
-    "categoria": "Funcionalidades integradas e experiência de uso",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/principais-diferenciais",
-    "pergunta": "O eConsult possui recursos exclusivos que não existem em outros sistemas?",
-    "resposta": "Sim — o eConsult reúne recursos exclusivos, como anonimização automática de textos clínicos, integração segura com o Google Drive, IA ética revisável e suporte a grupos terapêuticos, oferecendo uma experiência única e centrada na prática psicológica.",
-    "categoria": "Funcionalidades integradas e experiência de uso",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult é hospedado em servidores próprios?",
-    "resposta": "O eConsult é hospedado em infraestrutura segura e escalável, com o back-end na AWS (Brasil) e o front-end na Vercel, garantindo alto desempenho, disponibilidade e proteção dos dados clínicos.",
-    "categoria": "Diferenciais técnicos e de arquitetura",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Onde ficam armazenados os dados e arquivos?",
-    "resposta": "Os dados do eConsult são armazenados de forma criptografada em servidores AWS, enquanto arquivos e documentos ficam no Google Drive do próprio profissional, garantindo segurança, controle e conformidade com a LGPD.",
-    "categoria": "Diferenciais técnicos e de arquitetura",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult usa infraestrutura de nuvem (AWS, Vercel, Google)?",
-    "resposta": "Sim — o eConsult utiliza infraestrutura de nuvem moderna e segura, com AWS (Brasil) para o back-end, Vercel para o front-end e Google Drive para armazenamento de arquivos, garantindo desempenho, confiabilidade e conformidade com padrões internacionais de segurança.",
-    "categoria": "Diferenciais técnicos e de arquitetura",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Por que o eConsult utiliza o Google Drive para armazenamento?",
-    "resposta": "O eConsult utiliza o Google Drive para armazenamento porque ele oferece segurança certificada, criptografia avançada e conformidade com normas como LGPD e HIPAA, permitindo que os arquivos permaneçam sob controle do próprio profissional, sem depender de servidores terceirizados do sistema.",
-    "categoria": "Diferenciais técnicos e de arquitetura",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult funciona de forma segura em navegadores e dispositivos móveis?",
-    "resposta": "Sim — o eConsult funciona com segurança em navegadores e dispositivos móveis, utilizando conexões criptografadas (HTTPS), autenticação protegida e cache controlado, garantindo acesso seguro em qualquer lugar.",
-    "categoria": "Diferenciais técnicos e de arquitetura",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult é atualizado automaticamente?",
-    "resposta": "Sim — o eConsult é atualizado automaticamente na nuvem, garantindo que o profissional sempre utilize a versão mais recente, com melhorias de segurança, desempenho e novos recursos sem necessidade de instalação manual.",
-    "categoria": "Diferenciais técnicos e de arquitetura",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult oferece logs de uso e rastreabilidade de acessos?",
-    "resposta": "Sim — o eConsult mantém logs de uso e rastreabilidade de acessos, registrando ações técnicas de forma segura e sem dados pessoais, para garantir transparência, auditoria e proteção ao profissional.",
-    "categoria": "Diferenciais técnicos e de arquitetura",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult permite auditoria ou exportação de dados?",
-    "resposta": "Sim — o eConsult permite auditoria e exportação segura de dados, garantindo que o profissional tenha controle total sobre suas informações clínicas e possa gerar backups ou relatórios sempre que desejar.",
-    "categoria": "Diferenciais técnicos e de arquitetura",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Quais tecnologias foram usadas na construção do eConsult?",
-    "resposta": "O eConsult foi desenvolvido com front-end em React (Vite), back-end em Node.js/Express e banco de dados PostgreSQL, integrando-se a AWS e Vercel para garantir desempenho, segurança e escalabilidade clínica.",
-    "categoria": "Diferenciais técnicos e de arquitetura",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult tem API própria para integração com outros sistemas?",
-    "resposta": "Não — o eConsult não disponibiliza API para uso externo, pois lida com dados clínicos sensíveis. Todas as integrações são feitas por APIs internas e seguras, conectando o sistema a serviços como Google Drive, Mercado Pago, Focus NFe e Daily.co, com controle total e conformidade com a LGPD.",
-    "categoria": "Diferenciais técnicos e de arquitetura",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Quais são os principais diferenciais estratégicos do eConsult?",
-    "resposta": "O eConsult se destaca por unir ética, tecnologia e foco clínico em uma única plataforma. Ele oferece IA ética e revisável, com anonimização automática e apoio real ao trabalho do psicólogo. Mantém segurança rigorosa e conformidade total com a LGPD. Conta com integrações nativas com Google Drive, Mercado Pago, Focus NFe e Daily.co. Suporta atendimentos individuais e em grupo, com prontuários estruturados e seguros. Disponibiliza dashboards clínicos e financeiros inteligentes, que auxiliam na tomada de decisões baseadas em dados. E, acima de tudo, adota um design humanizado e não mercantilista, reafirmando que o foco do eConsult é o cuidado psicológico, não o mercado.",
-    "categoria": "Impacto e diferenciais estratégicos",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Como o eConsult ajuda o psicólogo a se manter dentro das normas do CFP?",
-    "resposta": "O eConsult ajuda o psicólogo a se manter dentro das normas do CFP ao adotar práticas alinhadas ao Código de Ética Profissional, como sigilo, consentimento informado, registro responsável e proteção de dados, garantindo que toda a atuação tecnológica respeite os princípios éticos da psicologia.",
-    "categoria": "Impacto e diferenciais estratégicos",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "De que forma o eConsult aumenta a eficiência do trabalho clínico?",
-    "resposta": "O eConsult aumenta a eficiência do trabalho clínico ao automatizar tarefas administrativas, organizar prontuários e finanças, e oferecer apoio inteligente com IA ética, permitindo que o psicólogo dedique mais tempo ao cuidado e menos à burocracia.",
-    "categoria": "Impacto e diferenciais estratégicos",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Como o eConsult melhora a tomada de decisão do profissional?",
-    "resposta": "O eConsult melhora a tomada de decisão do profissional ao oferecer dashboards, relatórios e análises clínicas e financeiras, permitindo visualizar padrões, acompanhar evoluções e basear escolhas em dados concretos e seguros.",
-    "categoria": "Impacto e diferenciais estratégicos",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult ajuda a reduzir tarefas repetitivas e burocráticas?",
-    "resposta": "Sim — o eConsult reduz tarefas repetitivas e burocráticas ao automatizar agendamentos, registros, relatórios e processos financeiros, permitindo que o psicólogo foque no atendimento e no cuidado clínico.",
-    "categoria": "Impacto e diferenciais estratégicos",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult favorece a continuidade do cuidado clínico?",
-    "resposta": "Sim — o eConsult favorece a continuidade do cuidado clínico ao organizar prontuários, evoluções e históricos de atendimentos, garantindo acompanhamento consistente e visão integral do paciente ao longo do tempo.",
-    "categoria": "Impacto e diferenciais estratégicos",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Qual o papel do eConsult na digitalização ética da psicologia?",
-    "resposta": "O eConsult tem o papel de promover a digitalização ética da psicologia, oferecendo tecnologia que respeita o sigilo, a autonomia profissional e os princípios do CFP, permitindo que o avanço digital fortaleça — e não descaracterize — a prática clínica.",
-    "categoria": "Impacto e diferenciais estratégicos",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "Como o eConsult se posiciona frente a outras soluções comerciais do mercado?",
-    "resposta": "O eConsult se posiciona como uma alternativa ética, centrada no cuidado e tecnicamente robusta, contrastando com soluções comerciais que priorizam vendas e marketing — ele oferece segurança rigorosa, anonimização, controle profissional total e funcionalidade pensada para a prática psicológica, não para a lógica mercantil.",
-    "categoria": "Impacto e diferenciais estratégicos",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult foi projetado pensando em escalabilidade e crescimento do profissional?",
-    "resposta": "Sim — o eConsult foi projetado para ser escalável e acompanhar o crescimento do profissional, permitindo evoluir de atendimentos individuais para equipes, grupos terapêuticos e clínicas maiores, sem perder segurança, desempenho ou coerência ética.",
-    "categoria": "Impacto e diferenciais estratégicos",
-    "public": true
-  },
-  {
-    "more_details_url": null,
-    "pergunta": "O eConsult é uma ferramenta ou um parceiro clínico?",
-    "resposta": "O eConsult é mais que uma ferramenta — é um parceiro clínico, criado para apoiar o psicólogo em todas as etapas do cuidado, unindo tecnologia, ética e inteligência para fortalecer a prática profissional sem substituir o olhar humano.",
-    "categoria": "Impacto e diferenciais estratégicos",
     "public": true
   }
 ]
