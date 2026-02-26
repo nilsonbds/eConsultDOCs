@@ -1,58 +1,79 @@
 [
   {
     "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
-    "pergunta": "Qual é o principal objetivo dos Anotações Clínicas no eConsult?",
-    "resposta": "O objetivo é oferecer um registro clínico tecnicamente consistente, seguro e organizado ao longo do tempo. Os Anotações Clínicas foram projetados para apoiar o raciocínio profissional, facilitar a leitura evolutiva do caso e reduzir a fragmentação das informações clínicas.",
-    "categoria": "Anotações Clínicas",
+    "pergunta": "Qual é o principal objetivo dos Registros Clínicos no eConsult?",
+    "resposta": "O objetivo é oferecer um registro clínico tecnicamente consistente, seguro e organizado ao longo do tempo. Os Registros Clínicos foram projetados para apoiar o raciocínio profissional, facilitar a leitura evolutiva do caso e reduzir a fragmentação das informações clínicas.",
+    "categoria": "Registros Clínicos",
     "public": true
   },
   {
     "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
-    "pergunta": "O que pode ser incluído nos Anotações Clínicas?",
-    "resposta": "Os Anotações Clínicas podem incluir evoluções em formato SOAP, anotações clínicas, observações do atendimento, hipóteses profissionais e demais informações relevantes para o acompanhamento do paciente ao longo do tempo.",
-    "categoria": "Anotações Clínicas",
+    "pergunta": "O que pode ser incluído nos Registros Clínicos?",
+    "resposta": "Os Registros Clínicos podem incluir evoluções em formato SOAP, anotações clínicas, observações do atendimento, hipóteses profissionais e demais informações relevantes para o acompanhamento do paciente ao longo do tempo.",
+    "categoria": "Registros Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
+    "pergunta": "O eConsult suporta evolução clínica no formato SOAP?",
+    "resposta": "Sim. O eConsult permite registrar evoluções clínicas estruturadas no formato SOAP (Subjetivo, Objetivo, Avaliação e Plano), facilitando a organização do raciocínio clínico e a padronização da documentação profissional.",
+    "categoria": "Registros Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
+    "pergunta": "Qual a vantagem de usar o modelo SOAP no prontuário psicológico?",
+    "resposta": "O modelo SOAP favorece registros mais claros, organizados e tecnicamente consistentes. Ele facilita a leitura longitudinal do caso, melhora a comunicação clínica e contribui para a qualidade e rastreabilidade do prontuário.",
+    "categoria": "Registros Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
+    "pergunta": "Posso utilizar SOAP junto com anotações livres?",
+    "resposta": "Sim. O eConsult permite combinar evoluções estruturadas em SOAP com anotações clínicas livres, oferecendo flexibilidade para que o profissional registre tanto informações padronizadas quanto observações mais descritivas do processo terapêutico.",
+    "categoria": "Registros Clínicos",
+    "public": true
+  },
+  {
+    "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
+    "pergunta": "A inteligência artificial pode ajudar na elaboração do SOAP?",
+    "resposta": "Sim. A inteligência artificial do eConsult pode auxiliar na elaboração, melhoria ou expansão das anotações clínicas em formato SOAP, sempre como ferramenta de apoio à escrita e à organização do conteúdo, sem substituir o julgamento clínico do profissional. :contentReference[oaicite:0]{index=0}",
+    "categoria": "Registros Clínicos",
     "public": true
   },
   {
     "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
     "pergunta": "As anotações clínicas fazem parte do prontuário do paciente?",
-    "resposta": "Depende da decisão do profissional. As anotações podem ser mantidas como uso interno ou, quando publicadas, passam a integrar o prontuário do paciente e se tornam parte permanente do histórico clínico. :contentReference[oaicite:0]{index=0}",
-    "categoria": "Anotações Clínicas",
+    "resposta": "Depende da decisão do profissional. As anotações podem ser mantidas como uso interno ou, quando publicadas, passam a integrar o prontuário do paciente e se tornam parte permanente do histórico clínico. :contentReference[oaicite:1]{index=1}",
+    "categoria": "Registros Clínicos",
     "public": true
   },
   {
     "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
     "pergunta": "Posso controlar se a anotação será visível para o paciente?",
-    "resposta": "Sim. Ao criar uma anotação, o profissional pode marcar a opção de visibilidade para o paciente. Quando não marcada, a anotação permanece apenas para uso interno, preservando o espaço técnico do profissional. :contentReference[oaicite:1]{index=1}",
-    "categoria": "Anotações Clínicas",
+    "resposta": "Sim. Ao criar uma anotação, o profissional pode marcar a opção de visibilidade para o paciente. Quando não marcada, a anotação permanece apenas para uso interno, preservando o espaço técnico do profissional. :contentReference[oaicite:2]{index=2}",
+    "categoria": "Registros Clínicos",
     "public": true
   },
   {
     "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
     "pergunta": "Existe limite de anotações por atendimento?",
-    "resposta": "Não. O eConsult permite incluir quantas anotações forem necessárias em cada atendimento, oferecendo liberdade para documentar o processo clínico de forma completa e progressiva. :contentReference[oaicite:2]{index=2}",
-    "categoria": "Anotações Clínicas",
+    "resposta": "Não. O eConsult permite incluir quantas anotações forem necessárias em cada atendimento, oferecendo liberdade para documentar o processo clínico de forma completa e progressiva. :contentReference[oaicite:3]{index=3}",
+    "categoria": "Registros Clínicos",
     "public": true
   },
   {
     "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
     "pergunta": "Posso editar ou excluir uma anotação depois de criada?",
-    "resposta": "Sim. As anotações podem ser alteradas ou excluídas pelo profissional a qualquer momento, permitindo ajustes e correções conforme a evolução do caso clínico. :contentReference[oaicite:3]{index=3}",
-    "categoria": "Anotações Clínicas",
+    "resposta": "Sim. As anotações podem ser alteradas ou excluídas pelo profissional a qualquer momento, permitindo ajustes e correções conforme a evolução do caso clínico. :contentReference[oaicite:4]{index=4}",
+    "categoria": "Registros Clínicos",
     "public": true
   },
   {
     "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
-    "pergunta": "A inteligência artificial pode ajudar na elaboração das anotações?",
-    "resposta": "Sim. O eConsult possui inteligência artificial integrada que pode auxiliar na elaboração, melhoria ou expansão do texto das anotações, sempre como ferramenta de apoio ao profissional, sem substituir o julgamento clínico. :contentReference[oaicite:4]{index=4}",
-    "categoria": "Anotações Clínicas",
-    "public": true
-  },
-  {
-    "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
-    "pergunta": "Os Anotações Clínicas estão em conformidade com a LGPD?",
+    "pergunta": "Os Registros Clínicos estão em conformidade com a LGPD?",
     "resposta": "Sim. O eConsult adota práticas de segurança e confidencialidade para proteger os dados do paciente, mantendo a integridade das informações clínicas e o respeito às normas de privacidade aplicáveis.",
-    "categoria": "Anotações Clínicas",
+    "categoria": "Registros Clínicos",
     "public": true
   }
 ]
