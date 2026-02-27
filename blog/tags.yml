@@ -68,11 +68,6 @@ lgpd:
   permalink: "/lgpd"
   description: "A Lei Geral de Proteção de Dados (LGPD) estabelece diretrizes para o tratamento de informações pessoais e sensíveis, garantindo transparência, segurança e respeito à privacidade. No eConsult, a LGPD é aplicada de forma prática, com anonimização de dados em IA, controle de acesso por perfil, auditoria de operações e políticas de minimização de dados clínicos."
 
-segurança:
-  label: "Segurança da Informação"
-  permalink: "/seguranca-da-informacao"
-  description: "Segurança da informação é o conjunto de práticas, tecnologias e políticas que protegem dados contra acessos não autorizados, perdas ou vazamentos. No eConsult, envolve criptografia ponta a ponta, autenticação multifator, backups redundantes e monitoramento contínuo, assegurando a confidencialidade e a integridade dos registros clínicos."
-
 historico:
   label: Histórico Clínico
   permalink: /historico
@@ -153,11 +148,6 @@ documentacao:
   permalink: /documentacao
   description: Conteúdos sobre registros clínicos, prontuários, organização documental e boas práticas técnicas na psicologia.
 
-seguranca:
-  label: Segurança e Sigilo
-  permalink: /seguranca
-  description: Conteúdos sobre proteção de dados clínicos, sigilo profissional, criptografia e conformidade com a LGPD no contexto da psicologia.
-
 carreira:
   label: Carreira
   permalink: /carreira
@@ -212,3 +202,24 @@ continuidade-de-cuidado:
     Discussões sobre cuidado longitudinal em saúde mental, manutenção
     do vínculo terapêutico, monitoramento de acompanhamento e o papel
     da tecnologia no suporte ético e clínico à prática profissional.
+
+segurança:
+  label: "Segurança da Informação"
+  permalink: "/seguranca-da-informacao"
+  description: "Segurança da informação é o conjunto de práticas, tecnologias e políticas que protegem dados contra acessos não autorizados, perdas ou vazamentos. No eConsult, envolve criptografia ponta a ponta, autenticação multifator, backups redundantes e monitoramento contínuo, assegurando a confidencialidade e a integridade dos registros clínicos."
+
+seguranca-sigilo:
+  label: Segurança e Sigilo
+  permalink: /seguranca
+  description: Conteúdos sobre proteção de dados clínicos, sigilo profissional, criptografia e conformidade com a LGPD no contexto da psicologia.
+
+cuidado-longitudinal:
+  label: Cuidado Longitudinal
+  permalink: /cuidado-longitudinal
+  description: Conteúdos sobre acompanhamento evolutivo do paciente, monitoramento clínico ao longo do tempo e estratégias para sustentação da continuidade do cuidado em saúde mental.
+
+inteligencia-clinica:
+  label: Inteligência Clínica
+  permalink: /inteligencia-clinica
+  description: Abordagens e tecnologias que apoiam o raciocínio clínico do psicólogo, integrando dados, indicadores e análises longitudinais para qualificar a tomada de decisão profissional.
+
