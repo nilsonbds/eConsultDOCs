@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Para quem serve o eConsult?
 
-## ICP (Ideal Customer Profile) do eConsult
+### ICP (Ideal Customer Profile) do eConsult
 
 O **ICP (Ideal Customer Profile)** do eConsult identifica os profissionais que mais se beneficiam da plataforma.  
 Esse direcionamento orienta a evolução do produto, garantindo aderência clínica, eficiência operacional e utilidade real no dia a dia profissional.
@@ -13,7 +13,7 @@ O eConsult foi concebido como uma **plataforma de inteligência clínica longitu
 
 ---
 
-## Quem é o profissional ideal?
+### Quem é o profissional ideal?
 
 Profissionais **autônomos da área da saúde e do cuidado** que realizam atendimentos mediante agendamento — individuais ou em grupo — e que buscam:
 
@@ -24,9 +24,9 @@ Profissionais **autônomos da área da saúde e do cuidado** que realizam atendi
 
 ---
 
-## Características do ICP
+### Características do ICP
 
-### 🎯 Foco principal: Psicólogos
+#### 🎯 Foco principal: Psicólogos
 
 O **eConsult foi desenvolvido prioritariamente para psicólogos**, mas também atende profissionais com lógica de atendimento semelhante, como:
 
@@ -44,7 +44,7 @@ O **eConsult foi desenvolvido prioritariamente para psicólogos**, mas também a
 
 ---
 
-### 📅 Profissionais que trabalham por agendamento
+#### 📅 Profissionais que trabalham por agendamento
 
 O eConsult é especialmente indicado para quem:
 
@@ -55,7 +55,7 @@ O eConsult é especialmente indicado para quem:
 
 ---
 
-### 🧠 Profissionais que valorizam leitura longitudinal do paciente
+#### 🧠 Profissionais que valorizam leitura longitudinal do paciente
 
 O maior diferencial do eConsult está na capacidade de **acompanhar a trajetória clínica ao longo do tempo**.
 
@@ -68,7 +68,7 @@ Por isso, a plataforma é ideal para quem deseja:
 
 ---
 
-### 💳 Profissionais que precisam integrar gestão e clínica
+#### 💳 Profissionais que precisam integrar gestão e clínica
 
 O eConsult atende especialmente quem enfrenta desafios como:
 
@@ -92,7 +92,7 @@ Ao mesmo tempo, a plataforma adapta automaticamente a interface conforme a área
 
 # Principais Benefícios do eConsult
 
-## 🧠 Inteligência Clínica Longitudinal
+### 🧠 Inteligência Clínica Longitudinal
 
 O eConsult vai além da gestão tradicional.
 
@@ -105,7 +105,7 @@ A plataforma permite:
 
 ---
 
-## 💰 Recursos avançados com custo acessível
+### 💰 Recursos avançados com custo acessível
 
 O eConsult reúne em uma única plataforma:
 
@@ -120,7 +120,7 @@ Tudo com planos acessíveis e escaláveis.
 
 ---
 
-## ⚡ Sem investimento inicial
+### ⚡ Sem investimento inicial
 
 - Período de teste gratuito  
 - Planos mensais flexíveis  
@@ -128,7 +128,7 @@ Tudo com planos acessíveis e escaláveis.
 
 ---
 
-## 🤖 Configuração inicial inteligente
+### 🤖 Configuração inicial inteligente
 
 No primeiro acesso, o sistema:
 
@@ -140,7 +140,7 @@ Permitindo começar a usar em poucos minutos.
 
 ---
 
-## 🔄 Atualizações contínuas
+### 🔄 Atualizações contínuas
 
 - Melhorias frequentes  
 - Evolução baseada em feedback real  
@@ -148,7 +148,7 @@ Permitindo começar a usar em poucos minutos.
 
 ---
 
-## 🛟 Suporte técnico humanizado
+### 🛟 Suporte técnico humanizado
 
 - Atendimento ágil  
 - Orientação prática  
@@ -156,7 +156,7 @@ Permitindo começar a usar em poucos minutos.
 
 ---
 
-## 🌐 Acesso remoto e multiplataforma
+### 🌐 Acesso remoto e multiplataforma
 
 - Uso direto no navegador  
 - Design responsivo  
@@ -167,7 +167,7 @@ Permitindo começar a usar em poucos minutos.
 
 # Principais Funcionalidades do eConsult
 
-## 👥 Cadastro de Pacientes e Grupos Terapêuticos
+### 👥 Cadastro de Pacientes e Grupos Terapêuticos
 
 Gerencie pacientes e grupos com visão estruturada e estratégica.
 
@@ -179,7 +179,7 @@ Gerencie pacientes e grupos com visão estruturada e estratégica.
 
 ---
 
-## 🧩 Campos Altamente Personalizáveis
+### 🧩 Campos Altamente Personalizáveis
 
 Adapte o sistema à sua metodologia clínica.
 
@@ -191,7 +191,7 @@ Adapte o sistema à sua metodologia clínica.
 
 ---
 
-## 💳 Gestão de Créditos
+### 💳 Gestão de Créditos
 
 Controle valores antecipados com transparência.
 
@@ -199,7 +199,7 @@ Controle valores antecipados com transparência.
 
 ---
 
-## 📊 Síntese Clínica do Paciente
+### 📊 Síntese Clínica do Paciente
 
 Acompanhe, em um único painel, indicadores clínicos, comportamentais e operacionais do paciente, apoiando a leitura longitudinal do caso.
 
@@ -207,7 +207,7 @@ Acompanhe, em um único painel, indicadores clínicos, comportamentais e operaci
 
 ---
 
-## 🗓️ Gestão de Atendimentos
+### 🗓️ Gestão de Atendimentos
 
 Agenda centralizada para reduzir fricção operacional.
 
@@ -215,7 +215,7 @@ Agenda centralizada para reduzir fricção operacional.
 
 ---
 
-## 🎥 Teleatendimento Integrado
+### 🎥 Teleatendimento Integrado
 
 Consultas online com integração ao prontuário e financeiro.
 
@@ -223,7 +223,7 @@ Consultas online com integração ao prontuário e financeiro.
 
 ---
 
-## 📄 Prontuário Eletrônico Personalizável
+### 📄 Prontuário Eletrônico Personalizável
 
 Documentação clínica estruturada e segura.
 
@@ -231,7 +231,7 @@ Documentação clínica estruturada e segura.
 
 ---
 
-## 🧪 Avaliações Psicológicas Integradas
+### 🧪 Avaliações Psicológicas Integradas
 
 Aplicação e interpretação organizadas dentro do prontuário.
 
@@ -239,7 +239,7 @@ Aplicação e interpretação organizadas dentro do prontuário.
 
 ---
 
-## 🤖 Inteligência Artificial Integrada
+### 🤖 Inteligência Artificial Integrada
 
 IA assistiva para apoiar — nunca substituir — o julgamento clínico.
 
@@ -253,25 +253,25 @@ IA assistiva para apoiar — nunca substituir — o julgamento clínico.
 
 ---
 
-## 💼 Financeiro Integrado
+### 💼 Financeiro Integrado
 
 Controle completo do fluxo financeiro da prática.
 
 ---
 
-## ⚡ Pagamentos via PIX
+### ⚡ Pagamentos via PIX
 
 Recebimentos rápidos e automatizados.
 
 ---
 
-## ☁️ Integração com Google Drive
+### ☁️ Integração com Google Drive
 
 Documentos organizados e acessíveis.
 
 ---
 
-## 💳 Integração com Mercado Pago
+### 💳 Integração com Mercado Pago
 
 Mais flexibilidade nos recebimentos.
 
