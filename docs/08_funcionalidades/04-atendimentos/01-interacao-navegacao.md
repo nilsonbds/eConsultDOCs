@@ -142,15 +142,15 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 ​​
 1. Em dias de recesso, o sistema manterá esses dias inativos. Você não tem a opção de marcar estes dias pois recessos são dias bloqueados para agendamentos.
 
-:::note Ocorrências do Paciente/Grupo
+:::note Situações do Paciente/Grupo
 
-Nos *cards* de atendimento, podem aparecer **ocorrências registradas**, sinalizadas pelo ícone abaixo:
+Nos *cards* de atendimento, podem aparecer **situações registradas**, sinalizadas pelo ícone abaixo:
 
 ![Painel Pacientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-077.png)
 
-No exemplo acima, o indicador mostra que existem **3 ocorrências** associadas a esse paciente/grupo.
+No exemplo acima, o indicador mostra que existem **3 situações** associadas a esse paciente/grupo.
 
-Ao clicar no ícone, o sistema abre a **tela de ocorrências**, onde o profissional pode visualizar os registros e tomar as providências necessárias.
+Ao clicar no ícone, o sistema abre a **tela de situações**, onde o profissional pode visualizar os registros e tomar as providências necessárias.
 
 ![Painel Pacientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-078.png)
 
