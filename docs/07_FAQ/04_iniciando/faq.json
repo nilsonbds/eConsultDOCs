@@ -63,13 +63,6 @@
     "public": true
   },
   {
-    "more_details_url": "/docs/funcionalidades/alertas/visao",
-    "pergunta": "O que é o Painel Alertas no eConsult?",
-    "resposta": "O Painel Alertas centraliza as pendências e tarefas que exigem atenção. Ele aparece automaticamente no Painel Inicial sempre que houver ações importantes a realizar.",
-    "categoria": "Iniciando (primeiros passos)",
-    "public": true
-  },
-  {
     "more_details_url": "/docs/iniciando/primeiros-passos",
     "pergunta": "O que devo configurar primeiro ao começar a usar o eConsult?",
     "resposta": "O sistema sugere automaticamente um checklist inicial com recomendações, como cadastrar Formas de Pagamento, revisar Modelos de Anamnese e configurar Tipos de Atendimento. Essas etapas garantem o uso completo da plataforma desde o início.",
@@ -129,13 +122,6 @@
     "more_details_url": null,
     "pergunta": "Preciso fazer alguma integração logo no início?",
     "resposta": "Não é obrigatório, mas você pode desde o primeiro dia integrar o eConsult ao seu Google Drive, Mercado Pago, PIX ou servidor SMTP para otimizar suas operações clínicas e financeiras.",
-    "categoria": "Iniciando (primeiros passos)",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/funcionalidades/alertas/visao",
-    "pergunta": "O que acontece após concluir o checklist inicial?",
-    "resposta": "Após completar as etapas sugeridas, o eConsult libera alertas e recomendações avançadas, ajudando você a explorar integrações, relatórios e funcionalidades adicionais.",
     "categoria": "Iniciando (primeiros passos)",
     "public": true
   }

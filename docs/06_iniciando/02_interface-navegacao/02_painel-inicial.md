@@ -56,7 +56,7 @@ Além destes alertas e informações, o Painel Inicial oferece ainda atalhos rá
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-004.png) | Abre o [Painel Atendimentos](/docs/funcionalidades/atendimentos/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-021.png) | Abre o [Painel Acompanhamento Inteligente do Paciente](/docs/funcionalidades/analise-score/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-006.png) | Abre o [Painel Resultados](/docs/funcionalidades/resultados/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-007.png) | Abre o [Painel Alertas](/docs/funcionalidades/alertas/visao) |
+|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-007.png) | Abre o [Painel Alertas](#) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-008.png) | Abre o [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-009.png) | Abre o [Painel Faturas do Paciente/Grupo](/docs/funcionalidades/faturas-cliente/visao) |
 |![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-010.png) | Abre o [Painel Atendimentos do Mês](/docs/funcionalidades/atendimentos-do-mes/visao) |

@@ -46,6 +46,22 @@ const FeatureList = [
     ),
   },
   {
+    link: '/docs/funcionalidades/analise-score/visao',
+    title: 'Acompanhamento Inteligente do Paciente',
+    icon: <TbDashboard />,
+    description: (
+      <>Visualize o comportamento dos pacientes com base em dados históricos e monitore o nível de engajamento para orientar ações mais assertivas e personalizadas.</>
+    ),
+  },
+  {
+    link: '/docs/funcionalidades/situacoes-atendimento/visao',
+    title: 'Situações de Atendimento',
+    icon: <LuLayoutDashboard />,
+    description: (
+      <>Centralize as situações da rotina clínica para agir rapidamente sobre pendências, organizar tarefas administrativas e manter a prática profissional sob controle.</>
+    ),
+  },
+  {
     link: '/docs/funcionalidades/clientes-grupos/cadastro/cadastro#incluir-novo-grupo-de-atendimento',
     title: 'Cadastro de Grupos Terapêuticos',
     icon: <LuUsers />,
@@ -67,14 +83,6 @@ const FeatureList = [
     icon: <LuChartColumnStacked />,
     description: (
       <>Monitore gráficos e indicadores de produção, faturamento, atendimentos e desempenho financeiro do seu consultório ou organização para uma gestão completa e eficiente.</>
-    ),
-  },
-  {
-    link: '/docs/funcionalidades/alertas/visao',
-    title: 'Painel de alertas e pendências',
-    icon: <LuLayoutDashboard />,
-    description: (
-      <>Centralize ocorrências e anomalias para permitir ações rápidas e uma gestão proativa, garantindo que a plataforma funcione com máxima eficiência.</>
     ),
   },
   {
@@ -123,14 +131,6 @@ const FeatureList = [
     icon: <LuHandshake />,
     description: (
       <>Monitore os valores recuperados e tenha controle total da recuperação financeira do seu consultório, identificando com agilidade perdas revertidas com eficiência.</>
-    ),
-  },
-  {
-    link: '/docs/funcionalidades/analise-score/visao',
-    title: 'Acompanhamento Inteligente do Paciente',
-    icon: <TbDashboard />,
-    description: (
-      <>Visualize o comportamento dos pacientes com base em dados históricos e monitore o nível de engajamento para orientar ações mais assertivas e personalizadas.</>
     ),
   },
   {
