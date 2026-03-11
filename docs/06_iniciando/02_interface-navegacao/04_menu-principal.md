@@ -14,26 +14,27 @@ O Menu Principal pode ser acessado através do botão ![Botão Tarefas](../../..
 
 |Menu|Destino|
 |-|-|
-| **Painel inicial** | Abre o [Painel Inicial](/docs/iniciando/interface-navegacao/painel-inicial) - com alertas e atalhos para facilitar o acesso às funções do eConsult e agilizar a gestão de agendamentos e pagamentos.|
-| **Configurações** | Abre o [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) - centraliza ajustes do eConsult, facilitando a personalização e o controle das funções conforme as necessidades do seu negócio.|
-| **Pacientes e Grupos Terapêuticos** | Abre o [Painel Pacientes e grupos Terapêuticos](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos) - oferece acesso fácil a dados de pacientes e grupos terapêuticos, promovendo controle, produtividade e decisões mais assertivas na gestão destes cadastros.|
-| **Atendimentos** | Abre o [Painel Atendimentos](/docs/funcionalidades/atendimentos/visao) - centraliza e organiza os agendamentos, facilitando o acesso às informações e otimizando o fluxo de trabalho da equipe.|
-| **Acompanhamento Inteligente do Paciente** | Abre o [Painel Acompanhamento Inteligente do Paciente](/docs/funcionalidades/analise-score/visao) - integra, em uma única visualização, indicadores clínicos, comportamentais e financeiros do processo terapêutico.|
-| **Resultados** | Abre o [Painel Resultados](/docs/funcionalidades/resultados/visao) - oferece visão estratégica do desempenho, unindo indicadores financeiros e operacionais para apoiar decisões baseadas em dados.|
-| **Alertas** | Abre o [Painel Alertas](#) - destaca ocorrências que exigem atenção, permitindo ação rápida e garantindo uma gestão proativa e eficiente da plataforma eConsult.|
-| **Faturas do paciente/grupo** | Abre o [Painel Faturas do Paciente/Grupo](/docs/funcionalidades/faturas-cliente/visao) - gerencia, visualiza e controla faturas de um paciente ou grupo terapêutico de forma organizada e centralizada.|
-| **Atendimentos do mês** | Abre o [Painel Atendimentos do Mês](/docs/funcionalidades/atendimentos-do-mes/visao) - monitora e gerencia atendimentos do mês, exibindo um resumo das receitas em um período específico.|
-| **Receitas e despesas** | Abre o [Painel Receitas e Despesas](/docs/funcionalidades/receitas-e-despesas/visao) - exibe receitas e despesas, oferecendo visão clara do fluxo de caixa para facilitar o planejamento e controle financeiro da organização.|
-| **Consolidação financeira** | Abre o [Painel Consolidação Financeira](/docs/funcionalidades/consolidacao-financeira/visao) - consolida as movimentações financeiras mensais, facilitando a análise da saúde financeira e o gerenciamento estratégico da organização.|
-| **Inadimplências** | Abre o [Painel Inadimplências](/docs/funcionalidades/inadimplencias/visao) - centraliza e detalha inadimplências, ajudando a identificar riscos, planejar cobranças e melhorar o desempenho financeiro da organização.|
-| **Perdas (baixas contábeis)** | Abre o [Painel Perdas (Baixas Contábeis)](/docs/funcionalidades/perdas-baixas-contabeis/visao) - registra e acompanha perdas por inadimplência de difícil recuperação, melhorando a gestão financeira e a projeção realista de receitas.|
-| **Perdas recuperadas** | Abre o [Painel Perdas Recuperadas](/docs/funcionalidades/perdas-recuperadas/visao) - monitora valores recuperados após baixa contábil, apoiando a gestão da inadimplência, a revisão de estratégias e a transparência financeira.|
-| **Marcadores Clínicos** | Abre o [Painel Marcadores Clínicos](/docs/funcionalidades/marcadores-clinicos/visao) - organiza os atendimentos com características semelhantes, oferecendo foco e clareza no gerenciamento das tarefas.|
-| **Campanhas de cashback** | Abre o [Painel Campanhas de Cashback](/docs/funcionalidades/campanha-cashback/visao) - permite criar campanhas de cashback para engajar pacientes, recompensar fidelidade e aumentar a continuidade e volume dos atendimentos.|
-| **Recibos** | Abre o [Painel Recibos](/docs/funcionalidades/recibos/visao) - exibe todos os recibos emitidos, ativos ou cancelados, em *cards* organizados, facilitando o controle e a visualização das informações.|
-| **Notas Fiscais** | Abre o [Painel Notas Fiscais](#) - exibe todos os informes ou emissão de Notas Fiscais em *cards* organizados, facilitando o controle e a visualização das informações.|
-| **Modelos de anamnese** | Abre o [Painel Modelos de Anamnese](/docs/funcionalidades/modelo-anamnese/visao) - permite a gestão de modelos de anamnese personalizados para coletar informações específicas de pacientes, facilitando a padronização dos dados usados no prontuário.|
-| **Documentos** | Abre o [Painel Documentos](#) - permite a gestão de modelos de documentos personalizados.|
-| **Relatórios** | Abre o [Painel Relatórios](/docs/funcionalidades/relatorios/visao) - oferece ferramentas para gerar relatórios detalhados sobre desempenho, finanças e relacionamento, facilitando análise estratégica dos atendimentos.|
-| **Arquivos** | Abre o [Painel Arquivos](/docs/funcionalidades/arquivos/visao) - permite visualizar e anexar arquivos vinculados a pacientes, grupos ou atendimentos usando o sistema integrado de gerenciamento de arquivos.|
+| **Painel Inicial** | Abre o [Painel Inicial](/docs/iniciando/interface-navegacao/painel-inicial) - apresenta uma visão geral da plataforma com alertas e atalhos para facilitar o acesso às principais funções do eConsult.|
+| **Configurações** | Abre o [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) - centraliza os ajustes do sistema, permitindo personalizar comportamentos, parâmetros e preferências da plataforma.|
+| **Segurança e Auditoria** | Abre o [Painel Segurança e Auditoria](#) - permite acompanhar registros de auditoria, eventos de segurança e atividades realizadas no sistema.|
+| **Pacientes e Grupos Terapêuticos** | Abre o [Painel Pacientes e Grupos Terapêuticos](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos) - permite gerenciar cadastros de pacientes e grupos terapêuticos, centralizando informações relevantes para o acompanhamento clínico.|
+| **Atendimentos** | Abre o [Painel Atendimentos](/docs/funcionalidades/atendimentos/visao) - organiza e gerencia os atendimentos agendados, permitindo acesso rápido às informações clínicas e operacionais.|
+| **Resultados** | Abre o [Painel Resultados](/docs/funcionalidades/resultados/visao) - oferece uma visão consolidada de indicadores operacionais e financeiros relacionados aos atendimentos.|
+| **Acompanhamento Inteligente do Paciente** | Abre o [Painel Acompanhamento Inteligente do Paciente](/docs/funcionalidades/analise-score/visao) - integra indicadores clínicos e operacionais em uma visão longitudinal do acompanhamento terapêutico.|
+| **Situações de Atendimento** | Abre o [Painel Situações de Atendimento](/docs/funcionalidades/situacoes-atendimento/visao) - reúne ocorrências operacionais, assistenciais e financeiras que podem exigir atenção na rotina clínica.|
+| **Faturas do Paciente/Grupo** | Abre o [Painel Faturas do Paciente/Grupo](/docs/funcionalidades/faturas-cliente/visao) - gerencia e visualiza as faturas vinculadas a pacientes ou grupos terapêuticos.|
+| **Atendimentos do Mês** | Abre o [Painel Atendimentos do Mês](/docs/funcionalidades/atendimentos-do-mes/visao) - apresenta um resumo dos atendimentos realizados no período e suas respectivas receitas.|
+| **Receitas e Despesas** | Abre o [Painel Receitas e Despesas](/docs/funcionalidades/receitas-e-despesas/visao) - permite acompanhar entradas e saídas financeiras para melhor controle do fluxo de caixa.|
+| **Consolidação Financeira** | Abre o [Painel Consolidação Financeira](/docs/funcionalidades/consolidacao-financeira/visao) - consolida movimentações financeiras, facilitando a análise da saúde financeira da prática.|
+| **Inadimplências** | Abre o [Painel Inadimplências](/docs/funcionalidades/inadimplencias/visao) - centraliza registros de pagamentos pendentes ou em atraso para facilitar o acompanhamento financeiro.|
+| **Perdas (Baixas Contábeis)** | Abre o [Painel Perdas (Baixas Contábeis)](/docs/funcionalidades/perdas-baixas-contabeis/visao) - registra valores considerados irrecuperáveis, apoiando o controle financeiro e contábil.|
+| **Perdas Recuperadas** | Abre o [Painel Perdas Recuperadas](/docs/funcionalidades/perdas-recuperadas/visao) - acompanha valores recuperados após baixa contábil.|
+| **Marcadores Clínicos** | Abre o [Painel Marcadores Clínicos](/docs/funcionalidades/marcadores-clinicos/visao) - permite organizar atendimentos e casos utilizando marcadores clínicos estruturados.|
+| **Recibos** | Abre o [Painel Recibos](/docs/funcionalidades/recibos/visao) - exibe e gerencia recibos emitidos para pacientes ou grupos terapêuticos.|
+| **Notas Fiscais** | Abre o [Painel Notas Fiscais](#) - permite visualizar e acompanhar a emissão de notas fiscais relacionadas aos atendimentos.|
+| **Modelos de Anamnese** | Abre o [Painel Modelos de Anamnese](/docs/funcionalidades/modelo-anamnese/visao) - possibilita criar e gerenciar modelos de anamnese para coleta estruturada de dados clínicos.|
+| **Documentos** | Abre o [Painel Documentos](#) - permite gerenciar modelos de documentos clínicos e administrativos utilizados no consultório.|
+| **Relatórios** | Abre o [Painel Relatórios](/docs/funcionalidades/relatorios/visao) - gera relatórios detalhados sobre atividades, atendimentos e indicadores da prática.|
+| **Arquivos** | Abre o [Painel Arquivos](/docs/funcionalidades/arquivos/visao) - permite armazenar, organizar e acessar arquivos vinculados a pacientes, grupos ou atendimentos.|
+| **Comunicação** | Abre o [Painel Comunicação](#) - centraliza mensagens e envios relacionados a confirmações, avisos e comunicações operacionais com pacientes.|
 | **Sobre o eConsult** | Abre a [página principal da Central de Ajuda eConsult](/) |
