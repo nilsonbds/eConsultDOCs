@@ -1,0 +1,72 @@
+[
+    {
+        "more_details_url": "/docs/funcionalidades/situacoes-atendimento/visao",
+        "pergunta": "O que são as Situações de Atendimento?",
+        "resposta": "As Situações de Atendimento são um painel de organização da rotina clínica no eConsult. Ele reúne ocorrências operacionais e administrativas relacionadas aos atendimentos, permitindo que o psicólogo identifique rapidamente pendências, eventos que exigem ação e padrões de funcionamento do consultório.",
+        "categoria": "Situações de Atendimento",
+        "public": true
+    },
+    {
+        "more_details_url": null,
+        "pergunta": "Qual é o objetivo das Situações de Atendimento?",
+        "resposta": "O objetivo é oferecer uma visão estruturada das tarefas e ocorrências da rotina clínica. Em vez de depender de verificações manuais na agenda, no financeiro ou no prontuário, o profissional visualiza em um único painel as situações que demandam atenção ou ação.",
+        "categoria": "Situações de Atendimento",
+        "public": true
+    },
+    {
+        "more_details_url": null,
+        "pergunta": "Que tipo de situações podem aparecer no painel?",
+        "resposta": "O painel pode reunir ocorrências como atendimentos não confirmados, registros de realização pendentes, pagamentos em aberto, pacientes sem novo agendamento e outros eventos que indiquem necessidade de organização ou acompanhamento administrativo.",
+        "categoria": "Situações de Atendimento",
+        "public": true
+    },
+    {
+        "more_details_url": null,
+        "pergunta": "As Situações de Atendimento tomam decisões automaticamente?",
+        "resposta": "Não. O painel apenas organiza e evidencia situações operacionais registradas no sistema. Ele não executa decisões administrativas nem clínicas automaticamente. Cabe ao profissional avaliar cada situação e decidir a ação apropriada.",
+        "categoria": "Situações de Atendimento",
+        "public": true
+    },
+    {
+        "more_details_url": null,
+        "pergunta": "Como o eConsult identifica as Situações de Atendimento?",
+        "resposta": "As situações são identificadas a partir de regras operacionais baseadas nos registros existentes no sistema, como agendamentos, confirmações, lançamentos financeiros e registros de atendimento. O painel apenas organiza essas informações para facilitar a visualização e gestão da rotina.",
+        "categoria": "Situações de Atendimento",
+        "public": true
+    },
+    {
+        "more_details_url": null,
+        "pergunta": "Qual a diferença entre Situações de Atendimento e o Acompanhamento Inteligente do Paciente?",
+        "resposta": "As duas funcionalidades têm objetivos complementares. O Acompanhamento Inteligente do Paciente oferece uma leitura longitudinal e mais clínica do acompanhamento de cada paciente. Já as Situações de Atendimento organizam a prática a partir de ocorrências operacionais da rotina, favorecendo uma gestão mais administrativa do consultório.",
+        "categoria": "Situações de Atendimento",
+        "public": true
+    },
+    {
+        "more_details_url": null,
+        "pergunta": "Como esse painel ajuda na organização da rotina clínica?",
+        "resposta": "Ao reunir pendências e ocorrências em um único lugar, o painel reduz a necessidade de verificações manuais em diferentes áreas do sistema. Isso facilita a priorização de tarefas, diminui esquecimentos e ajuda o profissional a manter maior controle sobre sua rotina administrativa.",
+        "categoria": "Situações de Atendimento",
+        "public": true
+    },
+    {
+        "more_details_url": null,
+        "pergunta": "As Situações de Atendimento substituem o controle do profissional?",
+        "resposta": "Não. O recurso é apenas um suporte organizacional. Ele evidencia eventos relevantes da rotina, mas o acompanhamento, a comunicação com pacientes e qualquer decisão administrativa ou clínica continuam sendo responsabilidade do profissional.",
+        "categoria": "Situações de Atendimento",
+        "public": true
+    },
+    {
+        "more_details_url": null,
+        "pergunta": "Com que frequência as Situações de Atendimento são atualizadas?",
+        "resposta": "As situações são atualizadas automaticamente conforme novos registros são feitos no sistema, como agendamentos, confirmações, pagamentos ou registros de atendimento. Assim, o painel reflete sempre o estado mais recente da rotina clínica.",
+        "categoria": "Situações de Atendimento",
+        "public": true
+    },
+    {
+        "more_details_url": null,
+        "pergunta": "Por que as Situações de Atendimento são um diferencial do eConsult?",
+        "resposta": "Porque o painel transforma eventos operacionais da rotina em um sistema organizado de monitoramento. Em vez de apenas registrar informações, o eConsult estrutura essas ocorrências em um painel de gestão prática da clínica, facilitando a visualização de pendências e a tomada de ação no dia a dia.",
+        "categoria": "Situações de Atendimento",
+        "public": true
+    }
+]
