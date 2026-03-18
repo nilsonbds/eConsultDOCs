@@ -28,8 +28,6 @@ A decisão de publicar ou não as anotações no prontuário deve levar em conta
 
 1. Mantenha o campo "Formato da anotação" com a opção "🧠 Gerar anotação estruturada (IA + marcadores)" selecionada.
 
-    ![Atendimento](../../../static/img/prints/atendimento/049.png)
-
 1. Acione a opção "Gerar sugestão com IA".
 
     ![Atendimento](../../../static/img/prints/atendimento/098.png)

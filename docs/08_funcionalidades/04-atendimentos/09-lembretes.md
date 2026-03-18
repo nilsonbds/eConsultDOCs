@@ -50,7 +50,7 @@ Em resumo, os "Marcadores Clínicos" representam um recurso valioso dentro do eC
 
 Você pode utilizar os marcadores clínicos diretamente nas anotações clínicas. Para isso, siga os passos abaixo:
 
-1. Acione a opção ![Atendimento](../../../static/img/prints/buttons/btn-anotacoes.png) no *card* do atendimento.
+1. Acione a opção ![Atendimento](../../../static/img/prints/buttons/btn-anotacoes.png) no *card* do atendimento para o qual deseja incluir uma anotação.
 
 1. O sistema abre a tela "Anotações Clínicas".
 
@@ -60,39 +60,35 @@ Você pode utilizar os marcadores clínicos diretamente nas anotações clínica
 
 1. O sistema abre o formulário "Anotações Clínicas".
 
-    ![Atendimento](../../../static/img/prints/atendimento/090.png)
+    ![Atendimento](../../../static/img/prints/atendimento/048.png)
 
-1. Note que, quando há Marcadores vinculados ao atendimento, o sistema mostra a opção "Trazer Marcadores Clínicos" ![Atendimento](../../../static/img/prints/atendimento/091.png). Clique nesta opção e o sistema preencherá o campo de anotação com os conteúdos dos marcadores clínicos.
+1. Mantenha o campo "Formato da anotação" com a opção "🧠 Gerar anotação estruturada (IA + marcadores)" selecionada.
 
-    ![Atendimento](../../../static/img/prints/atendimento/092.png)
+1. Acione a opção "Gerar sugestão com IA".
 
-Você também pode utilizar os **Marcadores Clínicos** para gerar, com apoio da IA, uma anotação clínica estruturada no modelo **SOAP**. Para isso, siga os passos abaixo:
+    ![Atendimento](../../../static/img/prints/atendimento/098.png)
 
-1. No *card* do atendimento, acione a opção  
-   ![Atendimento](../../../static/img/prints/buttons/btn-anotacoes.png)
+1. O sistema abrirá a tela de geração de anotação com IA já com a sugestão de anotação.
 
-1. O sistema abrirá a tela **Anotações Clínicas**.
+    ![Atendimento](../../../static/img/prints/atendimento/099.png)
 
-    ![Atendimento](../../../static/img/prints/atendimento/047.png)
+1. Revise e edite a anotação clínica e clique em "Aplicar".
 
-1. Clique no botão **Incluir**  
-   ![Atendimento](../../../static/img/prints/buttons/btn_incluir.png)
+    ![Atendimento](../../../static/img/prints/atendimento/100.png)
 
-1. Será exibido o formulário **Anotações Clínicas**.
+1. Marque o campo "Compartilhar com o paciente" se quiser disponibilizar para que o paciente visualize a anotação na Área do Paciente e acione o botão "Salvar anotação clínica".
 
-    ![Atendimento](../../../static/img/prints/atendimento/090.png)
+    ![Atendimento](../../../static/img/prints/atendimento/101.png)
 
-1. No campo **Modelo de Registro Clínico**, selecione a opção  
-   **Usar Marcadores Clínicos para Sugestão**.
+1. O sistema atualizará a tela "Anotações Clínicas" com a nova anotação.
 
-    ![Atendimento](../../../static/img/prints/atendimento/093.png)
+    ![Atendimento](../../../static/img/prints/atendimento/102.png)
 
-1. Ative a opção **Usar a IA** e clique em  
-   **Gerar usando Marcadores Clínicos**.
+1. Ao fechar esta tela, o sistema atualiza o *card* do atendimento, indicando que há uma anotação registrada ![Atendimento](../../../static/img/prints/atendimento/051.png) para o atendimento em questão.
 
-    ![Atendimento](../../../static/img/prints/atendimento/094.png)
+    ![Atendimento](../../../static/img/prints/atendimento/052.png)
 
-Após a ação, o eConsult gerará automaticamente uma **anotação clínica no formato SOAP**, utilizando os marcadores registrados no atendimento como base para a sugestão.
+Após estas ações, o eConsult gerará automaticamente uma **anotação clínica no formato SOAP**, utilizando os marcadores registrados no atendimento como base para a sugestão.
 
 > ⚠️ **Importante:** A anotação gerada pela IA é um apoio ao registro clínico e deve sempre ser revisada e validada pelo profissional responsável.
 
