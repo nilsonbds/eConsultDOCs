@@ -57,18 +57,16 @@ Sendo:
 1. **Perdas Registradas:** Mostra o número de perdas (baixas contábeis registradas) associadas ao paciente ou grupo.
 1. **Data do Último Atendimento:** Exibe a data do último atendimento agendado. Se for superior a 30 dias, a data será exibida em vermelho.
 1. **Dispensas de Cobrança:** Indica o número de dispensas de cobrança registradas para o paciente (dispensa de cobrança ocorre quando o atendimento não é pago e o valor é zerado manualmente).
-1. **Envio de Link Área do Paciente via WhatsApp:** Botão que permite enviar o link de acesso a Área do Paciente via WhatsApp para o paciente ou grupo terapêutico.
-1. **Envio de Link Área do Cliente via E-mail:** Botão que permite enviar o link de acesso a Área do Paciente por e-mail.
 1. **Editar Cadastro:** Botão que abre a tela de cadastro do paciente em modo de edição.
 
 ## Filtros da lista de *cards*
 
 A lista de *cards* no painel Pacientes e Grupos do eConsult foi desenvolvida para oferecer uma navegação ágil e eficiente. Para isso, o sistema disponibiliza diversas opções de filtragem, que permitem localizar rapidamente um paciente ou grupo específico. Entre os critérios disponíveis, estão:
 
-- **Filtro Nome:** Digite parte ou o nome completo no campo de busca para encontrar o paciente ou grupo desejado.
-- **Filtro Grupo:** É possível exibir apenas registros referentes a Grupos Terapêuticos.
-- **Filtro Inatividade:** É possível exibir apenas registros ativos ou inativos, facilitando a gestão de atendimentos e a revisão de cadastros.
-- **Filtros Letra Inicial:** Selecione a primeira letra do nome para visualizar somente os registros que iniciam com aquele caractere.
+- **Filtro NOME:** Digite parte ou o nome completo no campo de busca para encontrar o paciente ou grupo desejado.
+- **Filtro GRUPOS:** É possível exibir apenas registros referentes a Grupos Terapêuticos.
+- **Filtro INATIVADOS:** É possível exibir apenas registros ativos ou inativos, facilitando a gestão de atendimentos e a revisão de cadastros.
+- **Filtros LETRA INICIAL:** Selecione a primeira letra do nome para visualizar somente os registros que iniciam com aquele caractere.
 
 Essas opções de filtragem tornam a experiência de uso mais fluida, permitindo aos profissionais localizar, acessar e gerenciar os registros com rapidez e precisão, mesmo em bases de dados com grande volume de informações.
 

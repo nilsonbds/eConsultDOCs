@@ -111,3 +111,17 @@ Em suma, essa ferramenta do eConsult é um diferencial importante para quem trab
 1. Acione as opções "Presente" ou "Ausente" para cada membro.
 
     ![Atendimento](../../../static/img/prints/atendimento/079.png)
+
+## Imprimir Lista de Presença
+
+1. Acione a opção "Lista de Presença".
+
+    ![Atendimento](../../../static/img/prints/atendimento/095.png)
+
+1. O sistema abrirá a tela "Configurações da impressão".
+
+    ![Atendimento](../../../static/img/prints/atendimento/096.png)
+
+1. Acione o botão "Gerar PDF" para abrir a lista de presença em PDF ou "Gerar Word" para abrir em Word.
+
+    ![Atendimento](../../../static/img/prints/atendimento/097.png)
