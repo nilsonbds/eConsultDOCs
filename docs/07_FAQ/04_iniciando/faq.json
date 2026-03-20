@@ -121,7 +121,7 @@
   {
     "more_details_url": null,
     "pergunta": "Preciso fazer alguma integração logo no início?",
-    "resposta": "Não é obrigatório, mas você pode desde o primeiro dia integrar o eConsult ao seu Google Drive, Mercado Pago, PIX ou servidor SMTP para otimizar suas operações clínicas e financeiras.",
+    "resposta": "Não é obrigatório, mas você pode desde o primeiro dia integrar o eConsult ao seu Google Drive, Mercado Pago ou PIX para otimizar suas operações clínicas e financeiras.",
     "categoria": "Iniciando (primeiros passos)",
     "public": true
   }

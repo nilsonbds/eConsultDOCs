@@ -9,11 +9,15 @@ sidebar_position: 30
 A **Área do Paciente** é uma funcionalidade exclusiva do **eConsult**, desenvolvida para oferecer ao paciente **autonomia, praticidade e acesso seguro** às suas informações clínicas e financeiras.  
 Ela foi pensada para **fortalecer a relação de confiança** entre paciente e psicólogo, permitindo uma comunicação ética, organizada e transparente.
 
+:::tip
+  Esta aba não será exibida para Grupos Terapêuticos, pois não se aplica a esse tipo de cadastro.
+:::
+
 ---
 
 ## Visão Geral
 
-Cada paciente (ou grupo terapêutico) possui uma **área individual e criptografada**, acessível por um **link seguro e intransferível**, enviado pelo profissional.  
+Cada paciente possui uma **área individual e criptografada**, acessível por um **link seguro e intransferível**, enviado pelo profissional.  
 Nesse ambiente, o paciente pode:
 
 - Visualizar **dados cadastrais** e **endereços** atualizados;  
@@ -29,8 +33,11 @@ Nesse ambiente, o paciente pode:
 
 ## Como Configurar os Acessos
 
-1. No painel **Pacientes e Grupos Terapêuticos**, clique em ![Editar](../../../../static/img/prints/buttons/btn_card-edit.png) no *card* do paciente ou grupo desejado.  
+1. No painel **Pacientes e Grupos Terapêuticos**, clique em ![Editar](../../../../static/img/prints/buttons/btn_card-edit.png) no *card* do paciente desejado.  
 2. Na tela de cadastro, abra a aba **Área do Paciente**.  
+    :::warning
+      Esta aba não está disponível para Grupos Terapêuticos.
+    :::
 3. Marque as seções que o paciente poderá acessar:  
    - Prontuário  
    - Atendimentos  
@@ -86,7 +93,7 @@ A interface da Área do Paciente foi desenhada para ser **intuitiva, responsiva 
 - Exibe faturas emitidas para o paciente.  
 - Paciente só poderá visualizar.
 :::warning
-Uma vez integrada ao **Mercado Pago**, a plataforma possibilita que pacientes ou grupos realizem a geração de cobranças para quitação de faturas.
+Uma vez integrada ao **Mercado Pago**, a plataforma possibilita que pacientes realizem a geração de cobranças para quitação de faturas.
 :::
 
 #### Aba Créditos e Perdas

@@ -32,8 +32,6 @@ Cada *card* apresenta informações essenciais de forma concisa, incluindo o "No
 
 Os *cards* também oferecem funcionalidades adicionais que tornam a gestão de pacientes e grupos completa. É possível, por exemplo, realizar ações de comunicação direta, como o envio de mensagens por WhatsApp ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_whatsapp.png) ou a realização de ligações telefônicas ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_phone.png), tudo diretamente a partir do painel. Essas funcionalidades garantem uma gestão centralizada e eficiente, permitindo interações rápidas e personalizadas com os pacientes e com os grupos terapêuticos.
 
-Além disso, nos *cards*, está disponível a opção "Enviar link para a Área do Paciente" ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_enviar-link-para-area-do-cliente-wat-ema.png). Essa funcionalidade permite que você compartilhe com seu paciente — ou com o responsável por um grupo terapêutico — um link exclusivo de acesso à "Área do Paciente", enviado via WhatsApp ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_whatsapp.png) ou E-mail ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_email.png).
-
 O paciente ou grupo poderá acessar diversas informações relevantes, previamente definidas por você no cadastro individual. Essa abordagem facilita a comunicação, aumenta a transparência e oferece mais autonomia para o paciente ou grupo, ao mesmo tempo em que preserva seu controle sobre os acessos.
 
 :::note

@@ -43,7 +43,6 @@ Gerencia aspectos financeiros relacionados ao sistema e garantir o controle e a 
 ## Integrações
 
 Integra, de forma facilitada, o eConsult com outras ferramentas e sistemas para melhorar a eficiência e a fluidez dos processos.
-- **Servidor SMTP:** Configure os parâmetros relacionado ao seu servidor de envio de e-mails.
 - **GoogleDrive:** Configure a integração do eConsult com seu GoogleDrive.
 - **OpenAI:** Configure a integração do eConsult com a sua conta OpenAI.
 - **Daily.co (Teleatendimento):** Configure a integração do eConsult com a plataforma Daily.co e tenha um sistema de teleatendimento totalmente integrado.

@@ -10,11 +10,11 @@ Esse passo a passo foi criado para guiá-lo nas definições iniciais de maneira
 
 O checklist pode ser acessado por meio de um card de pendências exibido em diferentes telas do sistema — apenas quando ainda houver etapas a concluir.
 
-![Painel Alertas](../../static/img/prints/check-list-pendencias.png)
+![Painel Situações de Atendimento](../../static/img/prints/check-list-pendencias.png)
 
 ## Recomendações
 
-![Painel Alertas](../../static/img/prints/alertas/015.png)
+![Painel Situações de Atendimento](../../static/img/prints/alertas/015.png)
 
 A boa notícia é que o próprio eConsult se encarrega de configurar automaticamente muitas dessas recomendações para facilitar sua jornada inicial. São elas:
 

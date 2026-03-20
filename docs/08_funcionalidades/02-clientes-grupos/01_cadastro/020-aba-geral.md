@@ -20,31 +20,44 @@ Os demais campos (informações de contato ou o responsável pelo grupo) são op
 - **Seletor Grupo de atendimento ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_grupo-de-atendimento.png):** Indica se o cadastro se trata de um Paciente ou se um Grupo de atendimento.
 - **Campo Nome Completo:** Permite incluir o nome completo do paciente ou grupo.
 - **Seletor Sexo:** Permite indicar se o paciente ou grupo terapêutico é o sexo Masculino ou Feminino (no caso de paciente se trata de sexo biológico, já no caso de grupo serve como tratamento).
-- **Campo Data de Nascimento:** Permite indicar a data de nascimento do paciente ou grupo. Dependendo da data que se coloca, se esta estiver dentro de uma faixa dos Grupos de Paciente por - Idade o sistema informa automaticamente o grupo por idade que o paciente ou grupo se encaixará. Deve-se preencher de forma explícita (ex.: 16/02/1971), com barras, caso contrário o sistema recusará a data.
+- **Campo Data de Nascimento:** Permite informar a data de nascimento do paciente. Com base na data informada, o sistema identifica automaticamente o grupo etário correspondente, conforme as faixas de Grupos Etários cadastradas.
+
+    A data deve ser preenchida no formato dd/mm/aaaa (ex.: 16/02/1971), utilizando barras. Caso o formato não seja respeitado, o sistema não aceitará o valor informado.
+
     ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-009.png)
+
+    :::note
+        O campo "Data de Nascimento" não estará disponível para Grupos Terapêuticos
+    :::
 - **Campo E-mail:** Permite indicar o e-mail de contato do paciente ou grupo terapêutico.
 - **Campo Telefone:** Permite indicar o telefone fixo do paciente ou grupo.
 - **Campo Celular:** Permite indicar o celular do paciente ou grupo. 
     :::note
         Nos campos Telefone e Celular, ao digitar o código DDI (por exemplo, +55), o sistema identifica automaticamente o país e exibe a respectiva bandeira como ícone. Caso você não saiba o DDI, basta clicar no ícone da bandeira e selecionar o país desejado. Depois disso, é só digitar o número — o sistema fará a formatação conforme o padrão do país escolhido.
     :::
-- **Campo CPF:** Permite indicar o CPF do paciente ou CPF do responsável pelo grupo terapêutico (opcional).
+- **Campo CPF:** Permite indicar o CPF do paciente (opcional).
+    :::note
+        O campo "CPF" não estará disponível para Grupos Terapêuticos
+    :::
 - **Tipo de atendimento:** Permite indicar o tipo de atendimento que será dado ao cliente ou grupo. Os tipos de atendimento aqui apresentados são configurados na tela de Configuração => Tipos de Atendimento.
 - **Valor dos atendimentos no vencimento:** Permite indicar o valor padrão dos atendimentos no vencimento para o paciente ou grupo terapêutico. 
     :::note
         O sistema sugere o valor indicado na configuração **[Padrões para Atendimentos](/docs/funcionalidades/configuracoes/financas/padroes-atendimentos)**.
     :::
-- **Dia de vencimento para atendimentos:** Permite indicar o dia de vencimento para pagamentos dos atendimentos deste paciente ou grupo.
-    :::note O sistema permite indicar:
+- **Dia de vencimento para atendimentos:** Permite indicar um padrão de dia de vencimento para pagamentos dos atendimentos deste paciente ou grupo.
+    :::note 
+    O sistema permite indicar:
+
         - No mesmo dia dos atendimentos
+        - Definir número de dias após vencimento
         - Último dia do mês
         - Dia 1 do mês subsequente
         - Dia 10 do mês subsequente
         - Dia 15 do mês subsequente
         - Dia 20 do mês subsequente
-        - Dia 25 do mês subsequente
-        
-        Exemplo: Se a data do atendimento for 14/05/2025 (14 de maio de 2025), o dia 5 do mês subsequente é **05/06/2025** (5 de junho de 2025 será a data de vencimento para pagamento do atendimento).
+        - Dia 25 do mês subsequente        
+
+    Ao selecionar 'Definir número de dias após o atendimento', será possível informar quantos dias após a data do atendimento o vencimento deverá ocorrer.
     :::
 - **Regras de Cobrança:** Permite indicar uma regra de cobrança para o paciente ou grupo. Esta regra pode conceder descontos para pagamento antecipado ou cobrar juros e mora após um período de atraso.
     :::note

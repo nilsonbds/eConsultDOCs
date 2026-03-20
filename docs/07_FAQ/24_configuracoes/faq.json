@@ -127,13 +127,6 @@
   },
   {
     "more_details_url": "/docs/configuracoes",
-    "pergunta": "Como configurar o servidor SMTP para envio de e-mails?",
-    "resposta": "Na aba **Servidor SMTP**, informe servidor, porta, usuário e senha de autenticação. Isso permite que o eConsult envie e-mails pelo seu domínio profissional, garantindo identidade visual e autenticidade.",
-    "categoria": "Configurações",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/configuracoes",
     "pergunta": "Como ativar o teleatendimento com a Daily.co?",
     "resposta": "Em **Integrações > Daily.co**, insira sua API Key. O eConsult passará a gerar automaticamente links seguros de videoconferência para atendimentos online, com criptografia ponta a ponta e sem necessidade de apps externos.",
     "categoria": "Configurações",

@@ -390,3 +390,7 @@ h2.text--truncate {
 .menu__list {
   padding-bottom: 20px;
 }
+
+summary {
+  cursor: pointer;
+}

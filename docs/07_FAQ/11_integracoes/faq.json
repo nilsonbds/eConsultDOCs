@@ -16,29 +16,8 @@
   {
     "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/visao-integracoes",
     "pergunta": "Quais integrações estão disponíveis no eConsult?",
-    "resposta": "As principais integrações são: **Servidor SMTP**, **Google Drive**, **OpenAI (IA assistida)**, **Daily.co (teleatendimento)**, **PIX**, **Mercado Pago** e **Focus NFe**.",
+    "resposta": "As principais integrações são: **Google Drive**, **OpenAI (IA assistida)**, **Daily.co (teleatendimento)**, **PIX**, **Mercado Pago** e **Focus NFe**.",
     "categoria": "Integrações",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/servidor-smtp",
-    "pergunta": "O que é o Servidor SMTP no eConsult?",
-    "resposta": "O servidor SMTP é o sistema responsável por enviar e-mails diretamente a partir do seu domínio. Ele permite personalizar o remetente das mensagens, garantindo autenticidade, entregabilidade e maior controle sobre os envios.",
-    "categoria": "Servidor SMTP",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/servidor-smtp",
-    "pergunta": "Por que configurar um SMTP personalizado?",
-    "resposta": "Configurar um SMTP próprio permite enviar e-mails com o seu domínio (ex: contato@seudominio.com), acompanhar status de entrega e atender políticas internas de segurança ou compliance.",
-    "categoria": "Servidor SMTP",
-    "public": true
-  },
-  {
-    "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/servidor-smtp",
-    "pergunta": "Como configurar o Servidor SMTP no eConsult?",
-    "resposta": "Acesse **Configurações → Servidor SMTP** e preencha os campos de servidor, porta, autenticação, tipo de segurança e credenciais da conta. O eConsult passará a usar esse servidor para todos os envios.",
-    "categoria": "Servidor SMTP",
     "public": true
   },
   {

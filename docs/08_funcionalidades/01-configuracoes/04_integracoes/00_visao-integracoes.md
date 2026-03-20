@@ -10,12 +10,6 @@ Através dessas integrações, o eConsult torna-se uma plataforma capaz de inter
 
 São as integrações possíveis:
 
-## Servidor SMTP
-
-**Configure, de forma fácil e prática, o seu servidor SMTP no eConsult para envio de e-mails personalizados diretamente pela plataforma.**
-
-Essa configuração permite que notificações, comunicados e outros tipos de mensagens sejam enviados com o seu próprio domínio, garantindo maior autenticidade e profissionalismo na comunicação com pacientes.
-
 ## Google Drive
 
 **Configure facilmente a integração do seu Google Drive com o eConsult, sem necessidade de conhecimentos técnicos avançados, e centralize o armazenamento e a gestão de arquivos em um só lugar.**

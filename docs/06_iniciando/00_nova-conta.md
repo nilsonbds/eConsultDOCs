@@ -20,7 +20,7 @@ Experimente o eConsult gratuitamente e descubra como simplificar a gestão dos s
 
     ![Tela: Criação de nova conta](../../static/img/prints/00_nova-conta-002.png)
 
-1. Insira as informações solicitadas: "Nome completo" e "E-mail.
+1. Insira as informações solicitadas: "Nome completo", "E-mail" e "Especialidade".
 
 1. Certifique-se de que todos os dados estão corretos e clique em "Criar minha conta".
 

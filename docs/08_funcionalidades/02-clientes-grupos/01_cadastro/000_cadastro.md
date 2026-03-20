@@ -94,7 +94,11 @@ Com essas abas, o eConsult transforma o cadastro em um hub centralizado de infor
 
 1. O sistema abre a tela de cadatro "Paciente" com a aba "Geral" aberta.
 
-1. Escolha a opção "Masculino" ou "Feminino", preencha os campos "Nome Completo", "Data de Nascimento" (no caso de grupos você pode utilizar este campo - não obrigatório - para segmentar o grupo por faixa etária), "Email", "Telefone", "Celular", "CPF" e "Valor" (com o valor dos atendimentos).
+1. Escolha a opção "Masculino" ou "Feminino", preencha os campos "Nome Completo", "Data de Nascimento" (segmenta o grupo por faixa etária), "Email", "Telefone", "Celular", "CPF" e "Valor" (com o valor dos atendimentos).
+
+    :::note
+      Os campos 'Data de Nascimento' e 'CPF' são exclusivos de Pacientes e não aparecem em Grupos de Atendimento.
+    :::
 
 1. Acione o botão "Incluir" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_add.png) para salvar as informações.
 
@@ -116,7 +120,11 @@ Com todos os membros cadastrados, siga o passo a passo abaixo para criar o grupo
 
 1. Acione a opção "Grupo Terapêutico" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_grupo-de-atendimento.png).
 
-1. Escolha a opção "Masculino" ou "Feminino", preencha os campos "Nome Completo", "Data de Nascimento" (no caso de grupos você pode utilizar este campo - não obrigatório - para segmentar o grupo por faixa etária), "Email", "Telefone", "Celular", "CPF" e "Valor" (com o valor dos atendimentos).
+1. Escolha a opção "Masculino" ou "Feminino", preencha os campos "Nome Completo", "Data de Nascimento" (segmenta o grupo por faixa etária), "Email", "Telefone", "Celular", "CPF" e "Valor" (com o valor dos atendimentos).
+
+    :::note
+      Os campos 'Data de Nascimento' e 'CPF' são exclusivos de Pacientes e não aparecem em Grupos de Atendimento.
+    :::
 
 1. Acione o botão "Incluir" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_add.png) para salvar as informações.
 

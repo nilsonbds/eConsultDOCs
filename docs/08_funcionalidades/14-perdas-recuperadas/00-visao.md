@@ -85,11 +85,11 @@ Para que sejam considerados "Realizados", é necessário confirmar a efetivaçã
 
     - Essa informação (Previsto ou Realizado) também estará visível no *card* correspondente ao crédito.
 
-    Além disso, créditos com o status "Previsto" serão incluídos automaticamente no alerta respectivo do painel "Alertas", indicando que há um pagamento pendente de confirmação.
+    Além disso, créditos com o status "Previsto" serão incluídos automaticamente no alerta respectivo do painel "Situações de Atendimento", indicando que há um pagamento pendente de confirmação.
 
     ![Perdas Recuperadas](../../../static/img/prints/perdas/009.png)
 
-    Dessa forma, o painel "Alertas" reúne, em um só lugar, todos os créditos com pagamento previsto, facilitando o acompanhamento e a gestão dessas pendências.
+    Dessa forma, o painel "Situações de Atendimento" reúne, em um só lugar, todos os créditos com pagamento previsto, facilitando o acompanhamento e a gestão dessas pendências.
 :::
 
 ## Excluir registros de perdas recuperadas
