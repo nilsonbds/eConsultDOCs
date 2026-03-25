@@ -372,6 +372,12 @@ h2.text--truncate {
   line-height: 1.6;
 }
 
+.legend p {
+  font-size: .9rem;
+  color: "#666";
+  margin-top: "8px";
+}
+
 .markdown small {
   display: inline-block;
   font-size: clamp(0.75rem, 1.5vw, 0.875rem);
