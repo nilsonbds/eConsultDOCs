@@ -95,11 +95,17 @@ const config = {
               const url = item.url;
 
               return (
-                !url.match(/\/blog\/page\/\d+/) &&
+                // já existentes
                 !url.includes('/blog/tags/') &&
                 !url.includes('/blog/authors/') &&
                 !url.includes('/search') &&
-                !url.includes('/markdown-page')
+                !url.includes('/markdown-page') &&
+
+                // 🔥 NOVO: filtrar docs fracos
+                !url.includes('/docs/faq') &&
+                !url.includes('/docs/funcionalidades/') &&
+                !url.includes('/docs/aba-') &&
+                !url.includes('/docs/visao')
               );
             });
           },
