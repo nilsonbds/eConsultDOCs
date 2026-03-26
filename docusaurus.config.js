@@ -91,28 +91,44 @@ const config = {
             const { defaultCreateSitemapItems, ...rest } = params;
             const items = await defaultCreateSitemapItems(rest);
 
-            return items.filter((item) => {
-              const url = item.url;
+            return items
+              .filter((item) => {
+                const url = item.url;
 
-              return (
-                // ❌ remove página /blog
-                url !== 'https://documents.econsult.app.br/blog' &&
+                return (
+                  url !== 'https://documents.econsult.app.br/blog' &&
+                  (
+                    url.includes('/blog/') ||
+                    url === 'https://documents.econsult.app.br/' ||
+                    url.includes('/docs/marcadores-clinicos') ||
+                    url.includes('/docs/modelo-anamnese') ||
+                    url.includes('/docs/principais-diferenciais') ||
+                    url.includes('/docs/diferenciais/')
+                  )
+                );
+              })
+              .map((item) => {
+                const url = item.url;
 
-                (
-                  // ✅ posts do blog
-                  url.includes('/blog/') ||
+                // 🔥 prioridade estratégica
+                if (
+                  url.includes('melhor-sistema-para-psicologos') ||
+                  url.includes('/blog/prontuario') ||
+                  url.includes('cuidado-longitudinal')
+                ) {
+                  return { ...item, priority: 0.8 };
+                }
 
-                  // ✅ home
-                  url === 'https://documents.econsult.app.br/' ||
+                if (url.includes('/blog/')) {
+                  return { ...item, priority: 0.7 };
+                }
 
-                  // ✅ docs estratégicas
-                  url.includes('/docs/marcadores-clinicos') ||
-                  url.includes('/docs/modelo-anamnese') ||
-                  url.includes('/docs/principais-diferenciais') ||
-                  url.includes('/docs/diferenciais/')
-                )
-              );
-            });
+                if (url.includes('/docs/')) {
+                  return { ...item, priority: 0.6 };
+                }
+
+                return item;
+              });
           },
         },
 
