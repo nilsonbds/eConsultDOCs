@@ -47,27 +47,64 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
+
         blog: {
           showReadingTime: true,
           path: './blog',
           routeBasePath: '/blog',
           postsPerPage: 8,
           blogSidebarCount: 7,
+
+          // 🔥 remove página /blog/archive (lixo SEO)
+          archiveBasePath: null,
+
           feedOptions: {
-            type: 'all', // rss + atom + json
+            type: 'all',
             title: 'Central de Ajuda eConsult',
             description: 'Últimos artigos e novidades sobre o eConsult',
             language: 'pt-BR',
           },
         },
+
         theme: {
           customCss: './src/css/custom.css',
         },
+
         sitemap: {
-          changefreq: 'weekly',
-          priority: 0.5,
           filename: 'sitemap.xml',
+
+          // 🔥 importante: usa data real dos posts
+          lastmod: 'date',
+
+          // 🚨 FILTRO CRÍTICO (resolve seu problema atual)
+          ignorePatterns: [
+            '/blog/tags/**',
+            '/blog/authors/**',
+            '/blog/archive',
+            '/blog/page/**',
+            '/search',
+            '/markdown-page',
+          ],
+
+          // 🔥 filtro extra (garantia total)
+          async createSitemapItems(params) {
+            const { defaultCreateSitemapItems, ...rest } = params;
+            const items = await defaultCreateSitemapItems(rest);
+
+            return items.filter((item) => {
+              const url = item.url;
+
+              return (
+                !url.includes('/blog/page/') &&
+                !url.includes('/blog/tags/') &&
+                !url.includes('/blog/authors/') &&
+                !url.includes('/search') &&
+                !url.includes('/markdown-page')
+              );
+            });
+          },
         },
+
         gtag: {
           trackingID: 'G-ME10V7NCD2',
           anonymizeIP: true,
