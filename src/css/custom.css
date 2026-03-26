@@ -41,7 +41,7 @@
 /* Cartões */
 .card {
   border-radius: 12px;
-  background: #f1efe3;
+  background: whitesmoke;
   box-shadow: none;
   transition: transform 0.2s ease;
 }
