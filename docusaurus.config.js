@@ -95,7 +95,7 @@ const config = {
               const url = item.url;
 
               return (
-                !url.includes('/blog/page/') &&
+                !url.match(/\/blog\/page\/\d+/) &&
                 !url.includes('/blog/tags/') &&
                 !url.includes('/blog/authors/') &&
                 !url.includes('/search') &&
