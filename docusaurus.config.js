@@ -95,20 +95,22 @@ const config = {
               const url = item.url;
 
               return (
-                // blog ok
-                url.includes('/blog') ||
+                // ❌ remove página /blog
+                url !== 'https://documents.econsult.app.br/blog' &&
 
-                // home
-                url === 'https://documents.econsult.app.br/' ||
+                (
+                  // ✅ posts do blog
+                  url.includes('/blog/') ||
 
-                // docs estratégicas (whitelist)
-                url.includes('/docs/marcadores-clinicos') ||
-                url.includes('/docs/modelo-anamnese') ||
-                url.includes('/docs/principais-diferenciais') ||
-                url.includes('/docs/diferenciais/') ||
+                  // ✅ home
+                  url === 'https://documents.econsult.app.br/' ||
 
-                // ❌ remover tudo que for operacional
-                false
+                  // ✅ docs estratégicas
+                  url.includes('/docs/marcadores-clinicos') ||
+                  url.includes('/docs/modelo-anamnese') ||
+                  url.includes('/docs/principais-diferenciais') ||
+                  url.includes('/docs/diferenciais/')
+                )
               );
             });
           },
