@@ -95,17 +95,20 @@ const config = {
               const url = item.url;
 
               return (
-                // já existentes
-                !url.includes('/blog/tags/') &&
-                !url.includes('/blog/authors/') &&
-                !url.includes('/search') &&
-                !url.includes('/markdown-page') &&
+                // blog ok
+                url.includes('/blog') ||
 
-                // 🔥 NOVO: filtrar docs fracos
-                !url.includes('/docs/faq') &&
-                !url.includes('/docs/funcionalidades/') &&
-                !url.includes('/docs/aba-') &&
-                !url.includes('/docs/visao')
+                // home
+                url === 'https://documents.econsult.app.br/' ||
+
+                // docs estratégicas (whitelist)
+                url.includes('/docs/marcadores-clinicos') ||
+                url.includes('/docs/modelo-anamnese') ||
+                url.includes('/docs/principais-diferenciais') ||
+                url.includes('/docs/diferenciais/') ||
+
+                // ❌ remover tudo que for operacional
+                false
               );
             });
           },
