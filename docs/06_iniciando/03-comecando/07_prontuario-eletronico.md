@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Agora que você já:
 
-✔ cadastrouo o paciente  
+✔ cadastrou o paciente  
 ✔ realizou atendimentos  
 ✔ utilizou marcadores e anotações clínicas  
 

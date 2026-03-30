@@ -81,7 +81,7 @@ Agora que os marcadores estão definidos:
 
 1. Clique em **Anotações** no atendimento  
 
-![Anotações do atendimento](../../../static/img/prints/marcadores-clinicos/010.png)
+![Anotações do atendimento](../../../static/img/prints/marcadores-clinicos/012.png)
 
 ![Anotações do atendimento](../../../static/img/prints/atendimento/047.png)
 

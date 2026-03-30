@@ -124,7 +124,7 @@ O sistema também classifica o paciente automaticamente:
 
 ## ⚡ Próximos passos sugeridos
 
-Ao acionar a opção "Próximos Passos", o eConsult apresenta um conjunto de ações recomendadas para aquele paciente:
+Ao acionar a opção "Próximos Passos", o eConsult apresenta um conjunto de ações recomendadas para o paciente:
 
 ![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/011.png)
 

@@ -28,4 +28,4 @@ Permite avaliar a eficácia das ações de recuperação de crédito e a revers�
 
 - Se o acumulado geral cresce proporcionalmente às perdas, há um bom índice de reversão.
 
-- Baixos valores recuperados frente a um alto volume de perdas pode indicar necessidade de aprimorar a cobrança revisaando o tom das abordagens ou ajustar prazos de negociação.
+- Baixos valores recuperados frente a um alto volume de perdas pode indicar necessidade de aprimorar a cobrança revisando o tom das abordagens ou ajustar prazos de negociação.
