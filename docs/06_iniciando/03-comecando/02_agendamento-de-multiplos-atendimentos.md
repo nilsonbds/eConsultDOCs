@@ -1,0 +1,142 @@
+---
+sidebar_position: 2
+---
+
+# Organize sua agenda
+
+Agora que você já cadastrou seus pacientes, o próximo passo é simples:
+
+👉 **montar sua agenda real de atendimentos**
+
+Com poucos cliques, você consegue agendar várias sessões de um paciente de uma só vez.
+
+⏱️ Leva menos de 1 minuto
+
+---
+
+## 🚀 Por que usar agendamentos múltiplos?
+
+Em vez de cadastrar sessão por sessão, você pode:
+
+✔ Criar várias sessões automaticamente  
+✔ Definir frequência (semanal, quinzenal, mensal)  
+✔ Organizar sua agenda do mês inteiro em segundos  
+
+👉 Isso economiza tempo e reduz erros.
+
+---
+
+## 👤 Como agendar múltiplos atendimentos
+
+### Passo a passo:
+
+1. Acesse o painel de **Atendimentos**
+
+    ![Painel Atendimentos](../../../static/img/prints/atendimento/002.png)
+
+2. Clique em **Incluir Agendamento ![Painel Atendimentos](../../../static/img/prints/buttons/btn_add.png)**
+
+    ![Múltiplos atendimentos](../../../static/img/prints/atendimento/116.png)
+
+3. No campo **Paciente/Grupo**, selecione o paciente ou grupo terapêutico desejado
+4. Informe a **quantidade de atendimentos** (Qtde.)
+5. Defina a data inicial em **A partir de**
+6. Escolha o dia da semana em **A primeira**
+7. Informa os horário de início e fim dos atendimentos **das** e **às**
+8. Escolha a **periodicidade**:
+   - Semanal
+   - Quinzenal
+   - Mensal
+9. Selecione se os atendimentos serão **Presenciais** ou **Remotos**
+10. Informe o **valor dos atendimentos**
+
+:::tip
+
+### 🕒 Escolha de horários
+
+Você pode:
+
+👉 Utilizar suas **[disponibilidades configuradas](/docs/funcionalidades/configuracoes/agenda/carga-horária-semanal)**  
+👉 Ou selecionar manualmente os horários
+
+Se quiser usar as disponibilidades configuradas:
+
+- Clique em ![Disponibilidades](../../../static/img/prints/buttons/btn_disponibilidades.png)
+- Escolha o horário desejado
+
+    ![Múltiplos atendimentos](../../../static/img/prints/atendimento/027.png)
+
+:::
+
+---
+
+### 📅 Revisando os agendamentos
+
+Antes de finalizar:
+
+1. Clique em **Ver Disponibilidades ![Ver Disponibilidades](../../../static/img/prints/buttons/btn_ver-disponibilidades.png)**
+2. Revise os dias sugeridos
+3. Marque ou desmarque os atendimentos
+4. Clique em **Agendar Marcados ![Agendar Marcados](../../../static/img/prints/buttons/btn_agendar-marcados.png)**
+
+👉 Pronto. Sua agenda será preenchida automaticamente.
+
+---
+
+## 💡 Dica importante
+
+Você não precisa configurar tudo perfeitamente agora.
+
+O mais importante é:
+
+✔ Ter sua agenda preenchida  
+✔ Começar a usar o sistema no seu dia a dia  
+
+Você pode ajustar horários e detalhes depois.
+
+---
+
+## ⚠️ O que o sistema já faz automaticamente
+
+- Evita horários em **recessos**
+- Identifica **feriados**
+- Sugere horários com base nas suas disponibilidades
+
+👉 Isso reduz erros de agendamento.
+
+---
+
+## 🎯 Por que isso é importante?
+
+Porque a agenda é o centro do seu fluxo:
+
+- Agenda → atendimentos → registros → evolução clínica
+
+Ao organizar sua agenda, você já começa a usar o eConsult de forma real.
+
+---
+
+## 🚀 Comece agora
+
+Uma boa forma de começar:
+
+- Escolha **1 paciente**
+- Agende **4 sessões semanais**
+
+👉 Isso já simula um mês completo de acompanhamento.
+
+---
+
+## ▶️ Próximo passo
+
+Agora que sua agenda está organizada:
+
+👉 **Utilize o painel de Acompanhamento de Atendimentos para visualizar tarefas e pendências**
+
+---
+
+## 🎞️ Vídeo rápido (recomendado)
+
+👉 (adicione aqui um vídeo curto de 15–30s mostrando o fluxo)
+
+---

@@ -105,14 +105,14 @@
     "public": true
   },
   {
-    "more_details_url": "/docs/funcionalidades/atendimentos/lembretes",
+    "more_details_url": "/docs/funcionalidades/atendimentos/marcadores-clinicos",
     "pergunta": "A IA do eConsult usa os Marcadores Clínicos?",
     "resposta": "Sim, o eConsult pode usar os Marcadores Clínicos como contexto estruturado para apoiar tarefas como síntese longitudinal, sugestões de registro e organização de informações. Isso aumenta a qualidade e a consistência do apoio, pois os marcadores oferecem sinais objetivos da trajetória entre sessões.",
     "categoria": "Marcadores Clínicos",
     "public": true
   },
   {
-    "more_details_url": "/docs/funcionalidades/atendimentos/lembretes",
+    "more_details_url": "/docs/funcionalidades/atendimentos/marcadores-clinicos",
     "pergunta": "Os Marcadores Clínicos fazem o sistema “diagnosticar” o paciente?",
     "resposta": "Não. Marcadores Clínicos não são diagnóstico e não geram diagnóstico automaticamente. Eles registram dimensões do acompanhamento e ajudam a organizar o caso. Qualquer hipótese diagnóstica, quando existente, depende do raciocínio clínico e validação do profissional, com base em dados suficientes.",
     "categoria": "Marcadores Clínicos",
