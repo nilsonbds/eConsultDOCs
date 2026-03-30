@@ -203,7 +203,7 @@ Controle valores antecipados com transparência.
 
 Acompanhe, em um único painel, indicadores clínicos, comportamentais e operacionais do paciente, apoiando a leitura longitudinal do caso.
 
-👉 [Mais sobre Síntese Clínica.](/docs/funcionalidades/analise-score/visao)
+👉 [Mais sobre Síntese Clínica.](/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao)
 
 ---
 

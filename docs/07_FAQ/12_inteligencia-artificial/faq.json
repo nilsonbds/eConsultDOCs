@@ -105,21 +105,21 @@
     "public": true
   },
   {
-    "more_details_url": "/docs/funcionalidades/analise-score/visao",
+    "more_details_url": "/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao",
     "pergunta": "O que é a Acompanhamento Inteligente do Paciente?",
     "resposta": "É um recurso que monitora frequência, pagamentos e interações para calcular um score de engajamento, identificando pacientes em risco de abandono ou declínio de participação.",
     "categoria": "Análise de Engajamento",
     "public": true
   },
   {
-    "more_details_url": "/docs/funcionalidades/analise-score/visao",
+    "more_details_url": "/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao",
     "pergunta": "Como o score de engajamento é calculado?",
     "resposta": "A IA avalia dados históricos de comparecimento, regularidade de pagamentos e tempo entre sessões, gerando uma pontuação que classifica pacientes como estáveis, em declínio ou em risco.",
     "categoria": "Análise de Engajamento",
     "public": true
   },
   {
-    "more_details_url": "/docs/funcionalidades/analise-score/visao",
+    "more_details_url": "/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao",
     "pergunta": "O que o painel de score mostra?",
     "resposta": "Mostra níveis de engajamento, tendências e recomendações visuais para reengajamento. Ele apoia o psicólogo tanto clinicamente quanto administrativamente.",
     "categoria": "Análise de Engajamento",

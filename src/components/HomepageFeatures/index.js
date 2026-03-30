@@ -46,7 +46,7 @@ const FeatureList = [
     ),
   },
   {
-    link: '/docs/funcionalidades/analise-score/visao',
+    link: '/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao',
     title: 'Acompanhamento Inteligente do Paciente',
     icon: <TbDashboard />,
     description: (

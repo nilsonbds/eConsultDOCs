@@ -7,7 +7,7 @@
     "public": true
   },
   {
-    "more_details_url": "/docs/funcionalidades/analise-score/visao",
+    "more_details_url": "/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao",
     "pergunta": "Qual é o objetivo dos Marcadores Clínicos?",
     "resposta": "O objetivo é apoiar o psicólogo a registrar, acompanhar e interpretar a evolução clínica com mais clareza e consistência. Com Marcadores Clínicos, o profissional consegue visualizar tendências (melhora, estabilidade, oscilação, piora), reduzir perda de informação entre sessões e sustentar sínteses longitudinais sem depender apenas de memória ou textos longos.",
     "categoria": "Marcadores Clínicos",
@@ -154,7 +154,7 @@
     "public": true
   },
   {
-    "more_details_url": "/docs/funcionalidades/analise-score/visao",
+    "more_details_url": "/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao",
     "pergunta": "Os Marcadores Clínicos aparecem em relatórios e sínteses longitudinais?",
     "resposta": "Sim. Como os marcadores estruturam dimensões recorrentes, eles podem alimentar relatórios e sínteses, ajudando a descrever evolução, estabilidade e mudanças ao longo do tempo. O profissional continua responsável por revisar e validar qualquer relatório ou síntese.",
     "categoria": "Marcadores Clínicos",
