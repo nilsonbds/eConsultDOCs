@@ -223,3 +223,7 @@ inteligencia-clinica:
   permalink: /inteligencia-clinica
   description: Abordagens e tecnologias que apoiam o raciocínio clínico do psicólogo, integrando dados, indicadores e análises longitudinais para qualificar a tomada de decisão profissional.
 
+soap:
+  label: SOAP
+  permalink: /soap
+  description: Conteúdos sobre o modelo SOAP na psicologia, incluindo estrutura, exemplos práticos e boas práticas de registro clínico.
