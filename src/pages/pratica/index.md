@@ -368,4 +368,4 @@ Psicóloga clínica com atuação baseada em evidências e foco em acompanhament
 
 ## 🗓️ Atualização
 
-2026
+Abril de 2026
