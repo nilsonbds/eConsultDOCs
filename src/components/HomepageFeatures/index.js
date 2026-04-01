@@ -19,21 +19,21 @@ const featureGroups = [
           'Crie sua conta e configure os primeiros dados para começar a usar o sistema com segurança e personalização.',
       },
       {
-        link: '/docs/iniciando/primeiros-passos',
+        link: '/docs/iniciando/comecando/comecando-econsult-primeiros-passos',
         title: 'Passo 2 — Navegação e primeiros atendimentos',
         icon: <LuUserCheck />,
         description:
           'Aprenda a acessar, navegar no sistema e realizar seus primeiros atendimentos de forma organizada.',
       },
       {
-        link: '/docs/funcionalidades/atendimentos/visao',
+        link: '/docs/iniciando/comecando/agendamento-de-multiplos-atendimentos',
         title: 'Passo 3 — Organização da agenda e atendimentos',
         icon: <LuCalendarClock />,
         description:
           'Agende, registre evoluções e organize sua agenda clínica com mais clareza no dia a dia.',
       },
       {
-        link: '/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario',
+        link: '/docs/iniciando/comecando/anotacoes-clinicas-com-marcadores-clinicos',
         title: 'Passo 4 — Registro clínico no prontuário',
         icon: <LuBook />,
         description:

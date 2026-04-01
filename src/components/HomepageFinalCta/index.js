@@ -67,12 +67,12 @@ export default function HomepageFinalCta() {
           </div>
 
           <div className={styles.actions}>
-            <a href="https://econsult.app.br/" className={styles.primaryButton}>
+            <a href="https://econsult.app.br/multidisciplinar" className={styles.primaryButton}>
               Começar gratuitamente
               <LuArrowRight />
             </a>
 
-            <a href="/docs/iniciando/primeiros-passos" className={styles.secondaryButton}>
+            <a href="/docs/iniciando/comecando/comecando-econsult-primeiros-passos" className={styles.secondaryButton}>
               Ver como funciona →
             </a>
           </div>

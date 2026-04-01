@@ -39,7 +39,7 @@ export default function HomepagePortalPaths() {
               para organizar sua rotina clínica.
             </p>
 
-            <Link to="/docs" className={styles.link}>
+            <Link to="/docs/gestao-eficiente" className={styles.link}>
               Acessar guia completo →
             </Link>
           </div>
