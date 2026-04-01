@@ -40,12 +40,20 @@ A prática clínica de excelência é longitudinal e baseada em dados. Isso sign
 
 Um sistema não deve ser apenas operacional — ele deve apoiar o raciocínio clínico.
 
-### 📊 Tipos de sistemas para psicólogos
+### 📊 Comparação entre diferentes abordagens de sistemas para psicólogos
 
-| Tipo de sistema | Foco principal | Limitação |
-|----------------|--------------|----------|
-| Sistemas operacionais | Agenda, financeiro, cadastro | Não apoiam o raciocínio clínico |
-| Sistemas clínicos | Registro, evolução, análise de dados | Exigem estrutura mais avançada |
+Os sistemas disponíveis no mercado possuem diferentes propostas e focos.
+
+A tabela abaixo apresenta uma comparação geral baseada nas funcionalidades declaradas e no posicionamento de cada solução.
+
+| Critério | eConsult | Psicomanager | iClinic | Zenklub / Vittude |
+|---|---|---|---|---|
+| **Foco principal** | Inteligência clínica longitudinal | Gestão clínica para psicólogos | Gestão médica geral | Plataforma de conexão paciente-profissional |
+| **Prontuário eletrônico** | Estruturado para raciocínio clínico | Estruturado conforme CFP | Estruturado e personalizável | Registro de atendimentos |
+| **Análise da evolução clínica** | Estruturada para acompanhamento longitudinal com apoio de IA | Recursos de organização de evoluções | Não possui estrutura voltada para análise clínica longitudinal | Não estruturado para análise longitudinal |
+| **Apoio com IA** | Apoio à análise clínica e identificação de padrões | Apoio à documentação | Automação de processos | Não possui foco específico em suporte clínico com IA |
+| **Conformidade (LGPD/CFP)** | Estrutura voltada à segurança e controle de acesso | Conformidade declarada | Conformidade declarada | Estrutura da plataforma |
+| **Público-alvo** | Psicólogos com foco em aprofundamento clínico | Psicólogos focados em gestão | Clínicas médicas e multiprofissionais | Psicólogos em busca de pacientes |
 
 👉 A maioria dos sistemas do mercado resolve a operação.  
 👉 Poucos realmente apoiam a prática clínica.
@@ -308,24 +316,35 @@ Um conceito importante é o de **zero-data retention**, que significa que as int
 
 ---
 
-## 📊 [INDICAR INFOGRÁFICO]
-Pilares da prática clínica:
+## 🧠 Pilares da prática clínica moderna
 
-- Ética → LGPD + Código de Ética  
-- Técnica → Registro + Avaliações (SATEPSI)  
-- Tecnologia → Sistemas + IA  
+A prática clínica contemporânea se sustenta na integração de três pilares fundamentais:
 
-👉 Mostrar interseção entre os três pilares
+![Pilares da prática clínica em psicologia: ética, técnica e tecnologia](../../../static/img/pratica_clinica/pilares-pratica-clinica-psicologia.png)
+
+- **Ética** → LGPD + Código de Ética Profissional  
+- **Técnica** → Registro clínico estruturado + Avaliações psicológicas  
+- **Tecnologia** → Sistemas digitais + Inteligência Artificial  
+
+👉 O ponto central não está em cada pilar isoladamente, mas na interseção entre eles.
+
+👉 É nessa integração que a prática clínica se torna mais segura, consistente e orientada por dados.
 
 ---
 
-## 📊 [INDICAR GRÁFICO]
-Exemplo de evolução longitudinal utilizando escalas clínicas (ex: PHQ-9 ou BAI):
+## 📊 Exemplo real de evolução clínica longitudinal
 
-- eixo X → tempo (sessões)  
-- eixo Y → intensidade dos sintomas  
+Abaixo, um exemplo de acompanhamento clínico utilizando uma escala padronizada (PHQ-9), com análise ao longo do tempo:
 
-👉 demonstrar visualmente melhora, estabilidade ou piora
+*Exemplo ilustrativo de acompanhamento clínico com dados simulados.*
+![Gráfico de evolução clínica longitudinal com PHQ-9 ao longo das sessões, mostrando aumento progressivo dos sintomas e interpretação clínica de piora](../../../static/img/pratica_clinica/evolucao-clinica-longitudinal-phq9.png)
+
+- eixo X → evolução ao longo das sessões  
+- eixo Y → intensidade dos sintomas (escala padronizada)  
+
+👉 Esse tipo de visualização permite identificar padrões clínicos relevantes, como melhora, estabilidade ou piora do quadro ao longo do tempo.
+
+👉 Mais do que números, trata-se de transformar dados em leitura clínica estruturada.
 
 ---
 
