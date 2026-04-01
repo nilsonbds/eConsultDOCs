@@ -136,6 +136,7 @@ export default function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
+      
       <main>
         <section className={styles.sliderSection}>
           <div className="container">
@@ -148,7 +149,6 @@ export default function Home() {
             </p>
           </div>
         </section>
-
         <HomepageStartHere />
         <HomepageFeatures />
         <RecentPosts />
