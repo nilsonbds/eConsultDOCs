@@ -35,31 +35,31 @@ Você pode seguir a sequência sugerida ou acessar diretamente o tema que precis
 
 ### 👇 Começando pelo essencial
 
-- [Cadastrar pacientes](./clientes)
-- [Criar e gerenciar atendimentos](./atendimentos)
+- [Cadastrar pacientes](#)
+- [Criar e gerenciar atendimentos](#)
 
 ---
 
 ### 🧠 Registro clínico
 
-- [Prontuário eletrônico](./prontuario-eletronico)
-- [Anotações clínicas](./anotacoes-clinicas)
-- [Uso de Inteligência Artificial](./inteligencia-artificial)
+- [Prontuário eletrônico](#)
+- [Anotações clínicas](#)
+- [Uso de Inteligência Artificial](#)
 
 ---
 
 ### 📊 Acompanhamento do paciente
 
-- [Acompanhamento inteligente](./acompanhamento-inteligente)
-- [Resultados e indicadores](./resultados)
+- [Acompanhamento inteligente](#)
+- [Resultados e indicadores](#)
 
 ---
 
 ### ⚙️ Gestão e organização
 
-- [Situações de atendimento](./situacoes-atendimento)
-- [Agenda](./agenda)
-- [Financeiro](./financeiro)
+- [Situações de atendimento](#)
+- [Agenda](#)
+- [Financeiro](#)
 
 ---
 
@@ -109,6 +109,6 @@ Se tiver dúvidas durante o uso, você pode:
 
 Comece por aqui:
 
-➡️ [Cadastrar pacientes](./clientes)
+➡️ [Cadastrar pacientes](#)
 
 ---
