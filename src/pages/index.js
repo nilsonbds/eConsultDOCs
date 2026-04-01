@@ -5,7 +5,7 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import HomepageStartHere from '../components/HomepageStartHere';
 import ImageSlider from '../components/ImageSlider/imageSlider';
-import RecentPosts from '../components/RecentPosts/RecentPosts'; 
+import RecentPosts from '../components/RecentPosts/RecentPosts';
 import HomepageFinalCta from '../components/HomepageFinalCta';
 
 import Heading from '@theme/Heading';
@@ -27,39 +27,101 @@ function HomepageHeader() {
 
 function HomepageFooter() {
   return (
-    <footer className="footer">
-      <section className={styles.features}>
+    <footer className={styles.footer}>
+      <section className={styles.footerContent}>
         <div className="container">
-          <div className="row">
-            <div className="econ-footer">
-              <div className='econ-box-col'>
-                <div className='econ-footer-container'>
-                  <a href="https://econsult.app.br/home" target="_blank">
-                    <div className='econ-box-site'>
-                      <img src="/img/Logotipo.svg" alt="Logotipo" className='econ-logo-box-col' />
-                    </div>
-                  </a>
-                </div>
-              </div>
-              <div className='econ-box-col'>
-                <div className='econ-footer-container'>
-                  <p className='econ-text-box'>Ainda com dúvidas? Nossa equipe pode ajudar:</p>
-                  <p className='econ-text-box'>•&nbsp;&nbsp;<a href="https://tawk.to/econsult" target="_blank">Suporte eConsult</a></p>
-                  <p className='econ-text-box'>•&nbsp;&nbsp;atendimento@econsult.app.br</p>
-                  <p className='econ-text-box'>•&nbsp;&nbsp;+55 (47) 99915-3002 (WhatsApp)</p><br />
-                  <p className='econ-title-box'>👉 <a href="https://econsult.app.br/plans" target="_blank">Planos e preços</a></p>
-                  <p className='econ-title-box'>👉 <a href="https://econsult.app.br/multidisciplinar" target="_blank">Criar uma conta</a></p>
-                </div>
-              </div>
-              <div className='econ-box-col'>
-                <div className='econ-footer-container'>
-                  <p className='econ-text-box'><a href="/docs/iniciando/primeiros-passos" target="_blank">•&nbsp;&nbsp;Primeiros passos</a></p>
-                  <p className='econ-text-box'><a href="/docs/faq" target="_blank">•&nbsp;&nbsp;FAQ - Perguntas frequentes</a></p><br />
-                  <p className='econ-text-box'><a href="/docs/privacidade-condicoes-privacidade/termos-condicoes" target="_blank">Termos e Condições</a></p>
-                  <p className='econ-text-box'><a href="/docs/privacidade-condicoes-privacidade/politica-privacidade" target="_blank">Política de privacidade</a></p>
-                </div>
+          <div className={styles.footerGrid}>
+
+            <div className={styles.footerColumn}>
+              <Link className={styles.brandLink} to="https://econsult.app.br/home">
+                <img
+                  src="/img/Logotipo.svg"
+                  alt="eConsult"
+                  className={styles.logo}
+                />
+              </Link>
+
+              <p className={styles.brandText}>
+                Sistema para psicólogos com inteligência clínica longitudinal.
+              </p>
+
+              <p className={styles.brandText}>
+                Organize atendimentos, acompanhe a evolução dos pacientes e reduza a carga operacional com mais clareza e segurança.
+              </p>
+            </div>
+
+            <div className={styles.footerColumn}>
+              <p className={styles.footerTitle}>Suporte</p>
+
+              <p className={styles.footerText}>
+                Ainda com dúvidas? Nossa equipe pode ajudar:
+              </p>
+
+              <p className={styles.footerText}>
+                • <a href="https://tawk.to/econsult" target="_blank" rel="noreferrer">Suporte eConsult</a>
+              </p>
+
+              <p className={styles.footerText}>
+                • <a href="mailto:atendimento@econsult.app.br">atendimento@econsult.app.br</a>
+              </p>
+
+              <p className={styles.footerText}>
+                • <a href="https://wa.me/5547999153002" target="_blank" rel="noreferrer">
+                  +55 (47) 99915-3002 (WhatsApp)
+                </a>
+              </p>
+
+              <div className={styles.footerActions}>
+                <a
+                  href="https://econsult.app.br/plans"
+                  target="_blank"
+                  rel="noreferrer"
+                  className={styles.footerAction}
+                >
+                  👉 Planos e preços
+                </a>
+
+                <a
+                  href="https://econsult.app.br/multidisciplinar"
+                  target="_blank"
+                  rel="noreferrer"
+                  className={styles.footerAction}
+                >
+                  👉 Criar uma conta
+                </a>
               </div>
             </div>
+
+            <div className={styles.footerColumn}>
+              <p className={styles.footerTitle}>Conteúdo e informações</p>
+
+              <p className={styles.footerText}>
+                <Link to="/docs/primeiros-passos">Primeiros passos</Link>
+              </p>
+
+              <p className={styles.footerText}>
+                <Link to="/docs/faq">FAQ - Perguntas frequentes</Link>
+              </p>
+
+              <p className={styles.footerText}>
+                <Link to="/blog">Blog</Link>
+              </p>
+
+              <div className={styles.footerLegal}>
+                <p className={styles.footerText}>
+                  <Link to="/docs/privacidade-condicoes-privacidade/termos-condicoes">
+                    Termos e Condições
+                  </Link>
+                </p>
+
+                <p className={styles.footerText}>
+                  <Link to="/docs/privacidade-condicoes-privacidade/politica-privacidade">
+                    Política de privacidade
+                  </Link>
+                </p>
+              </div>
+            </div>
+
           </div>
         </div>
       </section>
@@ -90,9 +152,9 @@ export default function Home() {
         <HomepageStartHere />
         <HomepageFeatures />
         <RecentPosts />
-        <HomepageFinalCta />        
+        <HomepageFinalCta />
       </main>
-      
+
       <HomepageFooter />
     </Layout>
   );
