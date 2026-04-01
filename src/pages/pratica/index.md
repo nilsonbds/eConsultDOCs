@@ -16,12 +16,12 @@ A prática clínica de excelência é longitudinal e baseada em dados. Isso sign
 
 ## 📑 Navegação rápida
 
-- [Como escolher um sistema](#)  
-- [Desafios da prática clínica](#)  
-- [Boas práticas clínicas](#)  
-- [Avaliações psicológicas](#)  
-- [LGPD e segurança](#)  
-- [Inteligência artificial](#)  
+- [Como escolher um sistema](#-como-escolher-um-sistema-para-psicólogos)  
+- [Desafios comuns na prática clínica](#%EF%B8%8F-desafios-comuns-na-prática-clínica)  
+- [Boas práticas clínicas](#-boas-práticas-clínicas)  
+- [Avaliações psicológicas](#-avaliações-psicológicas-e-prática-baseada-em-evidências)  
+- [LGPD e segurança](#-lgpd-sigilo-e-ética-profissional)  
+- [Inteligência artificial](#-inteligência-artificial-na-psicologia-clínica)
 
 ---
 
