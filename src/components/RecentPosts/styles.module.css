@@ -1,0 +1,174 @@
+.recentPosts {
+    padding: 3rem 0 3.25rem;
+}
+
+.header {
+    max-width: 780px;
+    margin: 0 auto 2.25rem;
+    text-align: center;
+}
+
+.eyebrow {
+    display: inline-block;
+    margin-bottom: 0.65rem;
+    font-size: 0.74rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ifm-color-primary);
+}
+
+.title {
+    margin: 0 0 0.8rem 0;
+    font-size: clamp(1.9rem, 2.2vw, 2.45rem);
+    line-height: 1.15;
+    color: var(--ifm-heading-color);
+}
+
+.description {
+    margin: 0;
+    font-size: 1.02rem;
+    line-height: 1.7;
+    color: var(--ifm-color-emphasis-700);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.5rem;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 20px;
+    background: #ffffff;
+    border: 1px solid rgba(0, 139, 139, 0.1);
+    box-shadow: 0 10px 26px rgba(0, 0, 0, 0.04);
+    text-decoration: none;
+    transition:
+        transform 0.18s ease,
+        box-shadow 0.18s ease,
+        border-color 0.18s ease;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 14px 32px rgba(0, 0, 0, 0.06);
+    border-color: rgba(0, 139, 139, 0.2);
+    text-decoration: none;
+}
+
+.imageWrap {
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background: #f3f8f8;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* caso algum post venha sem imagem */
+.noImage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 180px;
+    padding: 1.2rem;
+    background: linear-gradient(180deg, #f7fbfb 0%, #eef7f7 100%);
+    color: var(--ifm-color-primary);
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 1.3rem 1.3rem 1rem;
+}
+
+.postTitle {
+    margin: 0 0 0.75rem 0;
+    font-size: 1.08rem;
+    line-height: 1.35;
+    color: var(--ifm-heading-color);
+}
+
+.summary {
+    margin: 0 0 0.9rem 0;
+    font-size: 0.95rem;
+    line-height: 1.65;
+    color: var(--ifm-color-emphasis-700);
+}
+
+.meta {
+    margin-top: auto;
+    font-size: 0.84rem;
+    color: var(--ifm-color-emphasis-600);
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 1.3rem 1.3rem;
+}
+
+.linkButton {
+    min-width: 0;
+}
+
+.actions {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+@media (max-width: 996px) {
+    .recentPosts {
+        padding: 2.4rem 0 2.7rem;
+    }
+
+    .header {
+        margin-bottom: 1.75rem;
+    }
+
+    .title {
+        font-size: 1.8rem;
+    }
+
+    .description {
+        font-size: 0.98rem;
+        line-height: 1.65;
+    }
+
+    .grid {
+        grid-template-columns: 1fr;
+        gap: 1.2rem;
+    }
+
+    .body {
+        padding: 1.15rem 1.15rem 0.9rem;
+    }
+
+    .footer {
+        padding: 0 1.15rem 1.15rem;
+    }
+
+    .postTitle {
+        font-size: 1.02rem;
+    }
+
+    .summary {
+        font-size: 0.93rem;
+    }
+}

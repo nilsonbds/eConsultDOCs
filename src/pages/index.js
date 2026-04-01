@@ -3,8 +3,10 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import HomepageStartHere from '../components/HomepageStartHere';
 import ImageSlider from '../components/ImageSlider/imageSlider';
-import RecentPosts from '../components/RecentPosts/RecentPosts'; // 👈 import
+import RecentPosts from '../components/RecentPosts/RecentPosts'; 
+import HomepageFinalCta from '../components/HomepageFinalCta';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -73,10 +75,24 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <ImageSlider />
+        <section className={styles.sliderSection}>
+          <div className="container">
+            <p className={styles.sliderIntro}>
+              Veja como o eConsult organiza sua prática clínica no dia a dia
+            </p>
+            <ImageSlider />
+            <p className={styles.sliderDescription}>
+              Agenda, prontuário, indicadores e acompanhamento do paciente — tudo integrado em um único sistema.
+            </p>
+          </div>
+        </section>
+
+        <HomepageStartHere />
         <HomepageFeatures />
         <RecentPosts />
+        <HomepageFinalCta />        
       </main>
+      
       <HomepageFooter />
     </Layout>
   );

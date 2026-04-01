@@ -22,3 +22,23 @@
   justify-content: center;
 }
 
+.sliderSection {
+  padding: 2rem 0 1rem;
+}
+
+.sliderIntro {
+  margin: 1rem 0 1.25rem;
+  text-align: center;
+  font-size: 1rem;        
+  font-weight: 500;
+  color: var(--ifm-color-primary);
+}
+
+.sliderDescription {
+  margin: 0px auto 40px auto;
+  text-align: center;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--ifm-color-emphasis-700);
+  max-width: 720px;
+}

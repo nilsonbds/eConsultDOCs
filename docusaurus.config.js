@@ -16,8 +16,8 @@ const formattedDate = lastModified.toLocaleDateString('pt-BR');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bem-vindo à Central de Ajuda eConsult',
-  tagline: 'Aqui você encontra tutoriais, guias e respostas rápidas para usar o eConsult com facilidade',
+  title: 'Conteúdo clínico, prático e estruturado para sua rotina profissional',
+  tagline: 'Explore guias de uso do sistema, conteúdos de prática clínica e artigos para aprofundar seu raciocínio clínico.',
   favicon: 'img/favicon.ico',
   future: {
     v4: true,
@@ -164,7 +164,12 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Guia de Uso',
+        },
+        {
+          to: '/pratica', 
+          position: 'left',
+          label: 'Prática Clínica',
         },
         {
           to: '/blog', // ou type: 'blog'
