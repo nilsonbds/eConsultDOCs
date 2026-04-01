@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
-title: Prática Clínica em Psicologia
-description: Guia completo sobre prática clínica em psicologia: estruturação clínica, acompanhamento longitudinal, uso de tecnologia, LGPD e inteligência artificial.
+title: "Prática Clínica em Psicologia"
+description: "Entenda como estruturar a prática clínica, acompanhar a evolução dos pacientes e escolher um sistema com segurança, LGPD e flexibilidade clínica."
 ---
 
 # 🧠 Prática Clínica em Psicologia
