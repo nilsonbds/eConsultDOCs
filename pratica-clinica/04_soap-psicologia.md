@@ -513,7 +513,7 @@ Ele não é apenas um modelo de registro.
 
 ---
 
-## 🔗 Explorar a rede de conhecimento
+## 🧠 Continue aprofundando o raciocínio clínico
 
 - 🔗 [Prontuário psicológico](#)  
 - 🔗 [Evolução psicológica](#)  
