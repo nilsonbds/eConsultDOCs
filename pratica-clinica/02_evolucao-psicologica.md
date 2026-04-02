@@ -24,14 +24,23 @@ especialmente quando o acompanhamento depende apenas de memória, anotações so
 
 ## 🧭 Navegação rápida
 
-- 📈 O que é evolução psicológica  
-- ⚠️ Por que é difícil acompanhar a evolução do paciente  
-- 🧠 A importância do acompanhamento longitudinal  
-- 🔍 Como analisar a evolução clínica na prática  
-- 📊 Indicadores e sinais de evolução  
-- ⚠️ Erros comuns na análise da evolução  
-- 💻 O papel dos sistemas na análise clínica  
-- 🧠 Evolução como suporte ao raciocínio clínico  
+- 📈 [O que é evolução psicológica](#-o-que-é-evolução-psicológica)  
+- ⚠️ [Por que é tão difícil acompanhar a evolução](#-por-que-é-tão-difícil-acompanhar-a-evolução)  
+- ⚠️ [Quando a evolução vira percepção subjetiva](#-quando-a-evolução-vira-percepção-subjetiva)  
+- 🧠 [Prontuário como construção contínua](#-prontuário-como-construção-contínua)  
+- 🧠 [A importância do acompanhamento longitudinal](#-a-importância-do-acompanhamento-longitudinal)  
+- 🔍 [Como analisar a evolução na prática](#-como-analisar-a-evolução-na-prática)  
+- 📊 [Indicadores de evolução clínica](#-indicadores-de-evolução-clínica)  
+- ⚠️ [Erros comuns na análise da evolução](#-erros-comuns-na-análise-da-evolução)  
+- 💻 [O papel dos sistemas na análise da evolução](#-o-papel-dos-sistemas-na-análise-da-evolução)  
+- 🧠 [Redução da carga cognitiva do psicólogo](#-redução-da-carga-cognitiva-do-psicólogo)  
+- 🧠 [Evolução como suporte ao raciocínio clínico](#-evolução-como-suporte-ao-raciocínio-clínico)  
+- 🔗 [Integração com prontuário e sistemas](#-integração-com-prontuário-e-sistemas)  
+- 🚀 [Evolução clínica na prática moderna](#-evolução-clínica-na-prática-moderna)  
+- ✅ [Checklist rápido de evolução clínica](#-checklist-rápido-de-evolução-clínica)  
+- 📚 [Glossário rápido](#-glossário-rápido)  
+- ❓ [Perguntas frequentes (FAQ)](#-perguntas-frequentes-faq)  
+- 🔗 [Continue aprofundando](#-continue-aprofundando)  
 
 ---
 
@@ -58,8 +67,6 @@ Na prática clínica, a evolução raramente é linear.
 E o principal problema não está no paciente —  
 está na forma como a informação é registrada e analisada.
 
----
-
 ### 🧩 Desafios comuns do psicólogo
 
 - Registros dispersos entre sessões  
@@ -67,8 +74,6 @@ está na forma como a informação é registrada e analisada.
 - Dificuldade de resgatar informações antigas  
 - Dependência da memória clínica  
 - Tempo limitado para análise entre atendimentos  
-
----
 
 ### 🧠 Consequência direta
 
@@ -175,6 +180,13 @@ A prática clínica moderna exige uma mudança de perspectiva:
 👉 E passa a ser:
 
 > **"O que está acontecendo com esse paciente ao longo do tempo?"**
+
+---
+
+👉 A evolução depende diretamente de como os dados são registrados:
+
+- 🔗 [Prontuário psicológico](#)  
+- 🔗 [SOAP na psicologia](#)  
 
 ---
 
@@ -384,138 +396,3 @@ Ela permite:
 ***👉 Exemplo de síntese clínica longitudinal com direcionamento terapêutico:***
 
 ![Exemplo de síntese clínica longitudinal com direcionamento terapêutico](../static/img/pratica_clinica/sintese-do-acompanhamento-inteligente-do-paciente.png)
-<small>
-Nesta visão, é possível identificar a direção clínica, nível de risco, hipóteses em construção e sugestões de manejo — transformando a evolução do paciente em um suporte direto para decisões terapêuticas.
-</small>
-
----
-
-👉 Em outras palavras:
-
-> **A evolução transforma dados em direção clínica**
-
----
-
-## 🔗 Integração com prontuário e sistemas
-
-A análise da evolução depende de registros estruturados e integrados ao longo do acompanhamento.
-
----
-
-👉 Por isso, é fundamental integrar:
-
-- Prontuário estruturado  
-- Modelos e marcadores clínicos (ex: SOAP)  
-- Avaliações psicológicas  
-- Histórico completo do paciente  
-
-👉 Na prática, isso significa transformar dados clínicos — como marcadores clínicos — em registros estruturados, reduzindo o esforço do psicólogo com apoio de inteligência artificial.
-
----
-
-***👉 Integração entre marcadores clínicos e geração automática de anotação clínica com IA:***
-
-<div style={{
-  overflowX: "auto",
-  whiteSpace: "nowrap",
-  paddingBottom: "8px"
-}}>
-<img 
-src="/img/pratica_clinica/gerando-soap-a-partir-de-marcadores-clinicos.png" 
-alt="Exemplo de integração entre marcadores clínicos e geração automática de anotação clínica com IA" 
-style={{
-    display: "inline-block",
-    maxWidth: "none",
-    width: "930px",
-    borderRadius: "8px",
-    marginBottom: "10px"
-}} 
-/>
-</div>
-<small>
-Nesta visão, os marcadores clínicos e informações da sessão são integrados para gerar automaticamente uma anotação estruturada — reduzindo o esforço de registro, mantendo consistência clínica e apoiando o raciocínio do psicólogo.
-</small>
-
----
-
-👉 Com isso, prontuário, evolução e análise clínica deixam de ser etapas separadas e passam a funcionar como um sistema integrado de apoio à prática clínica.
-
----
-
-👉 Aprofunde:
-
-- 🔗 [Prontuário psicológico](/prontuario-psicologico)  
-- 🔗 [SOAP na psicologia](#)  
-- 🔗 [Sistema para psicólogos](#)  
-
----
-
-## 🚀 Evolução clínica na prática moderna
-
-A prática clínica está mudando.
-
-Hoje, não basta registrar —  
-é preciso **compreender a trajetória do paciente com clareza**.
-
----
-
-👉 O diferencial não está em ter dados  
-👉 mas em conseguir **interpretá-los ao longo do tempo**
-
----
-
-## ✅ Checklist rápido de evolução clínica
-
-Antes de concluir sua análise, verifique:
-
-- [ ] Comparei com sessões anteriores  
-- [ ] Identifiquei padrões ao longo do tempo  
-- [ ] Considerei resposta às intervenções  
-- [ ] Usei dados clínicos (e não apenas percepção)  
-- [ ] Avaliei a direção clínica do caso  
-
----
-
-## 📚 Glossário rápido
-
-**Evolução clínica**  
-Mudança do paciente ao longo do tempo  
-
-**Análise longitudinal**  
-Leitura integrada do histórico do paciente  
-
-**Direção clínica**  
-Tendência do caso (melhora, piora, estabilidade)  
-
----
-
-## ❓ Perguntas frequentes (FAQ)
-
-### A evolução deve ser registrada em todas as sessões?
-Idealmente sim, mesmo que de forma breve, para garantir continuidade do acompanhamento.
-
-### Posso avaliar evolução apenas pela percepção do paciente?
-Não. A percepção é importante, mas deve ser integrada com outros dados clínicos.
-
-### Evolução sempre significa melhora?
-Não. Pode indicar melhora, piora ou estabilidade — e todas são clinicamente relevantes.
-
-### O que é acompanhamento clínico longitudinal?
-É a análise do paciente ao longo do tempo, considerando múltiplas sessões, registros, avaliações e padrões clínicos.
-
-Diferente da análise pontual, o acompanhamento longitudinal permite compreender:
-
-- tendências clínicas  
-- resposta ao tratamento  
-- mudanças consistentes no comportamento  
-
-### Como aplicar o acompanhamento longitudinal na prática?
-Para aplicar o acompanhamento longitudinal, é necessário:
-
-- registrar sessões de forma estruturada  
-- revisar o histórico antes de cada atendimento  
-- integrar dados clínicos (registros, avaliações, indicadores)  
-- analisar padrões ao longo do tempo  
-
-👉 Sem estrutura, esse processo depende da memória do psicólogo.  
-👉 Com suporte adequado, ele se torna parte natural da prática clínica.
