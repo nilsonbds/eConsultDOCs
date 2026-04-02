@@ -4,17 +4,19 @@ title: "Prática Clínica em Psicologia"
 description: "Entenda como estruturar a prática clínica, acompanhar a evolução dos pacientes e escolher um sistema com segurança, LGPD e flexibilidade clínica."
 ---
 
+![Bnner](../../../static/img/banner.png)
+
 # 🧠 Prática Clínica em Psicologia
 
 A prática clínica em psicologia vai muito além do atendimento em si.
 
-Ela envolve a capacidade de registrar, acompanhar, analisar e compreender o paciente ao longo do tempo.
+Mas, na prática, muitos profissionais ainda lidam com registros fragmentados, dificuldade de acompanhar a evolução dos pacientes e falta de clareza sobre o que está mudando ao longo do tempo.
 
 A prática clínica de excelência é longitudinal e baseada em dados. Isso significa transformar sessões isoladas em uma linha do tempo coesa, permitindo identificar padrões, avaliar intervenções e sustentar decisões clínicas com maior precisão.
 
 ---
 
-## 📑 Navegação rápida
+## 🧭 Navegação rápida
 
 - [Como escolher um sistema](#-como-escolher-um-sistema-para-psicólogos)  
 - [Desafios comuns na prática clínica](#%EF%B8%8F-desafios-comuns-na-prática-clínica)  
@@ -49,7 +51,7 @@ A tabela abaixo apresenta uma comparação geral baseada nas funcionalidades dec
 | Critério | eConsult | Psicomanager | iClinic | Zenklub / Vittude |
 |---|---|---|---|---|
 | **Foco principal** | Inteligência clínica longitudinal | Gestão clínica para psicólogos | Gestão médica geral | Plataforma de conexão paciente-profissional |
-| **Prontuário eletrônico** | Estruturado para raciocínio clínico | Estruturado conforme CFP | Estruturado e personalizável | Registro de atendimentos |
+| **Prontuário psicológico** | Estruturado para raciocínio clínico | Estruturado conforme CFP | Estruturado e personalizável | Registro de atendimentos |
 | **Análise da evolução clínica** | Estruturada para acompanhamento longitudinal com apoio de IA | Recursos de organização de evoluções | Não possui estrutura voltada para análise clínica longitudinal | Não estruturado para análise longitudinal |
 | **Apoio com IA** | Apoio à análise clínica e identificação de padrões | Apoio à documentação | Automação de processos | Não possui foco específico em suporte clínico com IA |
 | **Conformidade (LGPD/CFP)** | Estrutura voltada à segurança e controle de acesso | Conformidade declarada | Conformidade declarada | Estrutura da plataforma |
@@ -358,10 +360,22 @@ A clínica não é apenas escuta — é interpretação contínua.
 
 ## 👉 Próximos passos
 
-- [Prontuário eletrônico](#)  
+- [Prontuário psicológico](/prontuario-psicologico)  
 - [SOAP na psicologia](#)  
 - [Evolução psicológica](#)  
 - [Avaliações psicológicas](#)  
+
+---
+
+## 🧠 Em resumo
+
+A prática clínica de excelência não depende apenas da escuta, mas também da capacidade de organizar, analisar e acompanhar informações ao longo do tempo.
+
+Estruturar sua documentação clínica é um passo fundamental para oferecer um cuidado mais consistente, seguro e baseado em evidências.
+
+---
+
+👉 Continue explorando os conteúdos deste guia para aprofundar sua prática clínica.
 
 ---
 
