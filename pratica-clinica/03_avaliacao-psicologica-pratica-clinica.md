@@ -3,7 +3,7 @@ id: 06_avaliacao-psicologica-pratica-clinica
 title: "Avaliação Psicológica na Prática Clínica: como usar instrumentos de forma ética e estratégica"
 description: "Entenda o papel das avaliações psicológicas na prática clínica, quando usar, quais instrumentos são recomendados e como integrar resultados ao raciocínio clínico."
 slug: "/avaliacao-psicologica-pratica-clinica"
-sidebar_position: 6
+sidebar_position: 3
 ---
 
 # Avaliação Psicológica na Prática Clínica
@@ -19,6 +19,22 @@ E isso gera uma perda importante:
 > 👉 dados objetivos que poderiam qualificar o raciocínio clínico
 
 Mais do que um procedimento técnico, a avaliação é uma forma de **acompanhar, validar e direcionar o processo terapêutico ao longo do tempo**.
+
+---
+
+## 🧭 Navegação rápida
+
+- 🧠 [O que são Avaliações Psicológicas](#o-que-são-avaliações-psicológicas)  
+- 🎯 [Por que a avaliação psicológica é importante](#por-que-a-avaliação-psicológica-é-importante)  
+- ⚠️ [Que problemas a avaliação resolve](#que-problemas-a-avaliação-resolve)  
+- 🛠️ [Como usar avaliações na prática clínica](#como-usar-avaliações-na-prática-clínica)  
+- 📊 [Exemplos de avaliações na prática](#exemplos-de-avaliações-na-prática)  
+- ⚠️ [Erros comuns no uso de avaliações](#erros-comuns-no-uso-de-avaliações)  
+- 📚 [Avaliações de uso livre](#avaliações-de-uso-livre)  
+- 💰 [Avaliações pagas](#avaliações-pagas)  
+- 🧠 [Avaliações no eConsult](#avaliações-no-econsult)  
+- 🔗 [Integração com o raciocínio clínico](#integração-com-o-raciocínio-clínico)  
+- 🧭 [Conclusão](#conclusão)
 
 ---
 
@@ -221,10 +237,13 @@ A avaliação psicológica não é um recurso opcional.
 
 ---
 
-## 🧠 Aprofunde seu raciocínio clínico
+## 👉 Para aprofundar sua prática:
 
-- 🔗 [Prontuário psicológico](#)  
-- 🔗 [Evolução psicológica](#)  
-- 🔗 [SOAP na psicologia](#)  
-- 🔗 [Marcadores clínicos](#)  
-- 🔗 [Sistema de acompanhamento clínico longitudinal](#)  
+- 🔗 [Prática Clínica](/pratica-clinica)
+- 🔗 [Prontuário Psicológico](/pratica-clinica/prontuario-psicologico)
+- 🔗 [SOAP na Psicologia: guia completo, exemplos práticos e como aplicar na clínica](/pratica-clinica/soap-psicologia)
+- 🔗 [Marcadores Clínicos na Psicologia: o que são, como usar e por que transformam a prática clínica](/pratica-clinica/marcadores-clinicos-psicologia)
+- 🔗 [Evolução Psicológica](/pratica-clinica/evolucao-psicologica)
+- 🔗 [Sistema de Acompanhamento Clínico Longitudinal: o futuro da prática em psicologia](/pratica-clinica/sistema-acompanhamento-clinico-longitudinal)
+
+---

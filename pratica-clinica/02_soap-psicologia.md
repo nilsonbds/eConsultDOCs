@@ -3,7 +3,7 @@ id: 04_soap-psicologia
 title: "SOAP na Psicologia: guia completo, exemplos práticos e como aplicar na clínica"
 description: "Aprenda o que é SOAP na psicologia, como usar na prática clínica, exemplos reais, erros comuns e como integrar com prontuário, evolução clínica e inteligência artificial."
 slug: "/soap-psicologia"
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 ![SOAP na Psicologia: como estruturar registros clínicos com método, clareza e raciocínio clínico](../static/img/pratica_clinica/banner-soap.png)
@@ -31,15 +31,19 @@ Neste guia completo, você vai entender:
 
 ## 🧭 Navegação rápida
 
-- 🧠 O que é SOAP  
-- ⚠️ Por que o SOAP é importante  
-- 🧩 Que problemas o SOAP resolve  
-- 🛠️ Como usar o SOAP na prática  
-- 📄 Exemplos reais de SOAP na psicologia  
-- ⚠️ Erros comuns no uso do SOAP  
-- 🔗 SOAP e prontuário psicológico  
-- 📈 SOAP e evolução clínica  
-- 🤖 SOAP com apoio de inteligência artificial  
+- 🧠 [O que é SOAP](#o-que-é-soap)  
+- ⚠️ [Por que o SOAP é importante](#por-que-o-soap-é-importante)  
+- 🧩 [Que problemas o SOAP resolve](#que-problemas-o-soap-resolve)  
+- 🛠️ [Como usar o SOAP na prática](#como-usar-o-soap-na-prática)  
+- 📄 [Exemplos reais de SOAP na psicologia](#exemplos-reais-de-soap-na-psicologia)  
+- ⚠️ [Erros comuns no uso do SOAP](#erros-comuns-no-uso-do-soap)  
+- 🔗 [SOAP e prontuário psicológico](#soap-e-prontuário-psicológico)  
+- 📈 [SOAP e evolução clínica](#soap-e-evolução-clínica)  
+- 🤖 [SOAP com apoio de inteligência artificial](#soap-com-apoio-de-inteligência-artificial)  
+- 🧠 [SOAP como ferramenta de inteligência clínica](#soap-como-ferramenta-de-inteligência-clínica)  
+- ❓ [Perguntas frequentes (FAQ)](#perguntas-frequentes-faq)  
+- ✅ [Checklist rápido do SOAP](#checklist-rápido-do-soap)  
+- 🧭 [Conclusão](#conclusão)
 
 ---
 
@@ -511,18 +515,6 @@ Ele não é apenas um modelo de registro.
 
 > O SOAP transforma informação em **direção clínica**
 
----
-
-## 🧠 Continue aprofundando o raciocínio clínico
-
-- 🔗 [Prontuário psicológico](#)  
-- 🔗 [Evolução psicológica](#)  
-- 🔗 [Sistema para psicólogos](#)  
-- 🔗 [Sistema de acompanhamento clínico longitudinal](#)  
-- 🔗 [Marcadores clínicos](#)  
-
----
-
 ## ❓ Perguntas frequentes (FAQ)
 
 ### SOAP é obrigatório na psicologia?
@@ -573,3 +565,16 @@ Ele é uma ferramenta que, quando bem aplicada:
 👉 O diferencial não está em usar SOAP.
 
 👉 Está em usar SOAP como parte de um sistema clínico estruturado.
+
+---
+
+## 👉 Para aprofundar sua prática:
+
+- 🔗 [Prática Clínica](/pratica-clinica)
+- 🔗 [Prontuário Psicológico](/pratica-clinica/prontuario-psicologico)
+- 🔗 [Avaliação Psicológica na Prática Clínica: como usar instrumentos de forma ética e estratégica](/pratica-clinica/avaliacao-psicologica-pratica-clinica)
+- 🔗 [Marcadores Clínicos na Psicologia: o que são, como usar e por que transformam a prática clínica](/pratica-clinica/marcadores-clinicos-psicologia)
+- 🔗 [Evolução Psicológica](/pratica-clinica/evolucao-psicologica)
+- 🔗 [Sistema de Acompanhamento Clínico Longitudinal: o futuro da prática em psicologia](/pratica-clinica/sistema-acompanhamento-clinico-longitudinal)
+
+---

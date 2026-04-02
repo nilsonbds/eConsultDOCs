@@ -3,7 +3,7 @@ id: 03_sistema-acompanhamento-clinico-longitudinal
 title: "Sistema de Acompanhamento Clínico Longitudinal: o futuro da prática em psicologia"
 description: "Entenda por que os sistemas tradicionais falham na clínica e como um sistema de acompanhamento longitudinal transforma o raciocínio clínico, a evolução do paciente e a tomada de decisão."
 slug: "/sistema-acompanhamento-clinico-longitudinal"
-sidebar_position: 3
+sidebar_position: 6
 ---
 
 ![Sistema de Acompanhamento Clínico Longitudinal: o futuro da prática em psicologia](../static/img/pratica_clinica/banner-sistema-acompanhamento-clinico-longitudinal.png)
@@ -24,19 +24,19 @@ Essa lacuna não é tecnológica.
 
 ---
 
-## 🔗 Navegação rápida
+## 🧭 Navegação rápida
 
-- 🔗 [⚠️ O problema dos sistemas atuais](#-o-problema-dos-sistemas-atuais)  
-- 🔗 [🧠 O impacto clínico dessa limitação](#-o-impacto-clínico-dessa-limitação)  
-- 🔗 [🔄 O que é acompanhamento clínico longitudinal](#-o-que-é-acompanhamento-clínico-longitudinal)  
-- 🔗 [⚖️ Gestão e clínica não são opostos](#-gestão-e-clínica-não-são-opostos)  
-- 🔗 [🎥 Veja na prática: gestão + acompanhamento clínico](#-veja-na-prática-gestão--acompanhamento-clínico)  
-- 🔗 [🧩 Os pilares de um sistema longitudinal moderno](#-os-pilares-de-um-sistema-longitudinal-moderno)  
-- 🔗 [🤖 O papel da tecnologia e da inteligência artificial](#-o-papel-da-tecnologia-e-da-inteligência-artificial)  
-- 🔗 [🧩 Onde o eConsult se posiciona](#-onde-o-econsult-se-posiciona)  
-- 🔗 [🚀 O que muda na prática do psicólogo](#-o-que-muda-na-prática-do-psicólogo)  
-- 🔗 [🧭 Conclusão](#-conclusão)  
-- 🔗 [❓ FAQ](#-faq)  
+- ⚠️ [O problema dos sistemas atuais](#o-problema-dos-sistemas-atuais)  
+- 🧠 [O impacto clínico dessa limitação](#o-impacto-clínico-dessa-limitação)  
+- 🔄 [O que é acompanhamento clínico longitudinal](#o-que-é-acompanhamento-clínico-longitudinal)  
+- ⚖️ [Gestão e clínica não são opostos](#gestão-e-clínica-não-são-opostos)  
+- 🎥 [Veja na prática: gestão + acompanhamento clínico](#veja-na-prática-gestão--acompanhamento-clínico)  
+- 🧩 [Os pilares de um sistema longitudinal moderno](#os-pilares-de-um-sistema-longitudinal-moderno)  
+- 🤖 [O papel da tecnologia e da inteligência artificial](#o-papel-da-tecnologia-e-da-inteligência-artificial)  
+- 🧩 [Onde o eConsult se posiciona](#onde-o-econsult-se-posiciona)  
+- 🚀 [O que muda na prática do psicólogo](#o-que-muda-na-prática-do-psicólogo)  
+- 🧭 [Conclusão](#conclusão)  
+- ❓ [FAQ](#faq)
 
 ---
 
@@ -368,5 +368,16 @@ Não. Atua como suporte ao raciocínio clínico.
 ### Por que sistemas tradicionais não oferecem isso?
 
 Porque foram projetados com foco em gestão, não em análise clínica longitudinal.
+
+---
+
+## 👉 Para aprofundar sua prática:
+
+- 🔗 [Prática Clínica](/pratica-clinica)
+- 🔗 [Prontuário Psicológico](/pratica-clinica/prontuario-psicologico)
+- 🔗 [SOAP na Psicologia: guia completo, exemplos práticos e como aplicar na clínica](/pratica-clinica/soap-psicologia)
+- 🔗 [Avaliação Psicológica na Prática Clínica: como usar instrumentos de forma ética e estratégica](/pratica-clinica/avaliacao-psicologica-pratica-clinica)
+- 🔗 [Marcadores Clínicos na Psicologia: o que são, como usar e por que transformam a prática clínica](/pratica-clinica/marcadores-clinicos-psicologia)
+- 🔗 [Evolução Psicológica](/pratica-clinica/evolucao-psicologica)
 
 ---

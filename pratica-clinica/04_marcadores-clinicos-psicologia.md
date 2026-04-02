@@ -3,7 +3,7 @@ id: 05_marcadores-clinicos-psicologia
 title: "Marcadores Clínicos na Psicologia: o que são, como usar e por que transformam a prática clínica"
 description: "Entenda o que são marcadores clínicos na psicologia, como aplicá-los na prática e como eles permitem análise longitudinal, melhor tomada de decisão e raciocínio clínico estruturado."
 slug: "/marcadores-clinicos-psicologia"
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 ![Marcadores clínicos na psicologia: estruturação do raciocínio clínico e análise longitudinal do paciente](../static/img/pratica_clinica/banner-marcadores-clinicos-psicologia.png)
@@ -24,14 +24,18 @@ Mas existe um problema central:
 
 ## 🧭 Navegação rápida
 
-- 🧠 O que são marcadores clínicos  
-- ⚠️ Por que a clínica tradicional não usa marcadores  
-- 🧩 Que problema os marcadores resolvem  
-- 🛠️ Como usar marcadores na prática  
-- 📊 Exemplos de marcadores clínicos  
-- 📈 Marcadores e evolução clínica  
-- 🔗 Marcadores, prontuário e SOAP  
-- 🤖 Marcadores e inteligência artificial  
+- 🧠 [O que são marcadores clínicos](#o-que-são-marcadores-clínicos)  
+- 🧠 [Marcadores clínicos: uma prática comum em outras áreas](#marcadores-clínicos-uma-prática-comum-em-outras-áreas)  
+- ⚠️ [Por que a clínica tradicional da psicologia não usa marcadores](#por-que-a-clínica-tradicional-da-psicologia-não-usa-marcadores)  
+- 🧩 [Que problema os marcadores resolvem](#que-problema-os-marcadores-resolvem)  
+- 🛠️ [Como usar marcadores na prática](#como-usar-marcadores-na-prática)  
+- 📈 [Marcadores e evolução clínica](#marcadores-e-evolução-clínica)  
+- 🔗 [Marcadores, prontuário e SOAP](#marcadores-prontuário-e-soap)  
+- 🤖 [Marcadores e inteligência artificial](#marcadores-e-inteligência-artificial)  
+- 🧠 [Marcadores como base da inteligência clínica](#marcadores-como-base-da-inteligência-clínica)  
+- 🚀 [O que muda na prática do psicólogo](#o-que-muda-na-prática-do-psicólogo)  
+- ❓ [Perguntas frequentes (FAQ)](#perguntas-frequentes-faq)  
+- 🧭 [Conclusão](#conclusão)
 
 ---
 
@@ -382,15 +386,6 @@ Com marcadores clínicos:
 
 ---
 
-## 🧠 Aprofunde seu raciocínio clínico
-
-- 🔗 [Prontuário psicológico](#)  
-- 🔗 [Evolução psicológica](#)  
-- 🔗 [SOAP na psicologia](#)  
-- 🔗 [Sistema de acompanhamento clínico longitudinal](#)  
-
----
-
 ## ❓ Perguntas frequentes (FAQ)
 
 ### Marcadores clínicos substituem o prontuário?
@@ -436,3 +431,16 @@ Marcadores clínicos representam uma mudança na prática.
 
 > O diferencial não está em registrar melhor.  
 > Está em conseguir **entender o paciente ao longo do tempo**.
+
+---
+
+## 👉 Para aprofundar sua prática:
+
+- 🔗 [Prática Clínica](/pratica-clinica)
+- 🔗 [Prontuário Psicológico](/pratica-clinica/prontuario-psicologico)
+- 🔗 [SOAP na Psicologia: guia completo, exemplos práticos e como aplicar na clínica](/pratica-clinica/soap-psicologia)
+- 🔗 [Avaliação Psicológica na Prática Clínica: como usar instrumentos de forma ética e estratégica](/pratica-clinica/avaliacao-psicologica-pratica-clinica)
+- 🔗 [Evolução Psicológica](/pratica-clinica/evolucao-psicologica)
+- 🔗 [Sistema de Acompanhamento Clínico Longitudinal: o futuro da prática em psicologia](/pratica-clinica/sistema-acompanhamento-clinico-longitudinal)
+
+---

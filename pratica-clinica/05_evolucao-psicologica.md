@@ -2,7 +2,7 @@
 id: 02_evolucao-psicologica
 title: "Evolução Psicológica"
 slug: "/evolucao-psicologica"
-sidebar_position: 2
+sidebar_position: 5
 ---
 
 ![Prontuário Psicológico: guia completo, modelos, boas práticas e exigências do CFP](../static/img/pratica_clinica/banner-evolucao-psicologica.png)
@@ -24,23 +24,17 @@ especialmente quando o acompanhamento depende apenas de memória, anotações so
 
 ## 🧭 Navegação rápida
 
-- 📈 [O que é evolução psicológica](#-o-que-é-evolução-psicológica)  
-- ⚠️ [Por que é tão difícil acompanhar a evolução](#-por-que-é-tão-difícil-acompanhar-a-evolução)  
-- ⚠️ [Quando a evolução vira percepção subjetiva](#-quando-a-evolução-vira-percepção-subjetiva)  
-- 🧠 [Prontuário como construção contínua](#-prontuário-como-construção-contínua)  
-- 🧠 [A importância do acompanhamento longitudinal](#-a-importância-do-acompanhamento-longitudinal)  
-- 🔍 [Como analisar a evolução na prática](#-como-analisar-a-evolução-na-prática)  
-- 📊 [Indicadores de evolução clínica](#-indicadores-de-evolução-clínica)  
-- ⚠️ [Erros comuns na análise da evolução](#-erros-comuns-na-análise-da-evolução)  
-- 💻 [O papel dos sistemas na análise da evolução](#-o-papel-dos-sistemas-na-análise-da-evolução)  
-- 🧠 [Redução da carga cognitiva do psicólogo](#-redução-da-carga-cognitiva-do-psicólogo)  
-- 🧠 [Evolução como suporte ao raciocínio clínico](#-evolução-como-suporte-ao-raciocínio-clínico)  
-- 🔗 [Integração com prontuário e sistemas](#-integração-com-prontuário-e-sistemas)  
-- 🚀 [Evolução clínica na prática moderna](#-evolução-clínica-na-prática-moderna)  
-- ✅ [Checklist rápido de evolução clínica](#-checklist-rápido-de-evolução-clínica)  
-- 📚 [Glossário rápido](#-glossário-rápido)  
-- ❓ [Perguntas frequentes (FAQ)](#-perguntas-frequentes-faq)  
-- 🔗 [Continue aprofundando](#-continue-aprofundando)  
+- 📈 [O que é evolução psicológica](#o-que-é-evolução-psicológica)  
+- ⚠️ [Por que é tão difícil acompanhar a evolução](#por-que-é-tão-difícil-acompanhar-a-evolução)  
+- ⚠️ [Quando a evolução vira percepção subjetiva](#quando-a-evolução-vira-percepção-subjetiva)  
+- 🧠 [Prontuário como construção contínua](#prontuário-como-construção-contínua)  
+- 🧠 [A importância do acompanhamento longitudinal](#a-importância-do-acompanhamento-longitudinal)  
+- 🔍 [Como analisar a evolução na prática](#como-analisar-a-evolução-na-prática)  
+- 📊 [Indicadores de evolução clínica](#indicadores-de-evolução-clínica)  
+- ⚠️ [Erros comuns na análise da evolução](#erros-comuns-na-análise-da-evolução)  
+- 💻 [O papel dos sistemas na análise da evolução](#o-papel-dos-sistemas-na-análise-da-evolução)  
+- 🧠 [Redução da carga cognitiva do psicólogo](#redução-da-carga-cognitiva-do-psicólogo)  
+- 🧠 [Evolução como suporte ao raciocínio clínico](#evolução-como-suporte-ao-raciocínio-clínico) 
 
 ---
 
@@ -396,3 +390,16 @@ Ela permite:
 ***👉 Exemplo de síntese clínica longitudinal com direcionamento terapêutico:***
 
 ![Exemplo de síntese clínica longitudinal com direcionamento terapêutico](../static/img/pratica_clinica/sintese-do-acompanhamento-inteligente-do-paciente.png)
+
+---
+
+## 👉 Para aprofundar sua prática:
+
+- 🔗 [Prática Clínica](/pratica-clinica)
+- 🔗 [Prontuário Psicológico](/pratica-clinica/prontuario-psicologico)
+- 🔗 [SOAP na Psicologia: guia completo, exemplos práticos e como aplicar na clínica](/pratica-clinica/soap-psicologia)
+- 🔗 [Avaliação Psicológica na Prática Clínica: como usar instrumentos de forma ética e estratégica](/pratica-clinica/avaliacao-psicologica-pratica-clinica)
+- 🔗 [Marcadores Clínicos na Psicologia: o que são, como usar e por que transformam a prática clínica](/pratica-clinica/marcadores-clinicos-psicologia)
+- 🔗 [Sistema de Acompanhamento Clínico Longitudinal: o futuro da prática em psicologia](/pratica-clinica/sistema-acompanhamento-clinico-longitudinal)
+
+---

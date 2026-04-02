@@ -19,22 +19,22 @@ Mas, quando bem estruturado, ele se torna uma ferramenta de **inteligência clí
 
 ## 🧭 Navegação rápida
 
-- 🧾 [O que é prontuário psicológico?](#-o-que-é-prontuário-psicológico)  
-- ⚖️ [Registro da sessão, modelos clínicos e prontuário](#-registro-da-sessão-modelos-clínicos-e-prontuário)  
-- 📜 [Normas do CFP sobre prontuário](#-normas-do-cfp-sobre-prontuário)  
-- 🧩 [Estrutura de um prontuário clínico](#-estrutura-de-um-prontuário-clínico)  
-- 🧠 [Modelos de registro clínico](#-modelos-de-registro-clínico)  
-- 📈 [Evolução clínica no prontuário](#-evolução-clínica-no-prontuário)  
-- 📊 [Avaliações e indicadores no prontuário](#-avaliações-e-indicadores-no-prontuário)  
-- ⚠️ [Erros comuns no prontuário](#-erros-comuns-no-prontuário)  
-- 🔐 [LGPD e compartilhamento com o paciente](#-lgpd-e-compartilhamento-com-o-paciente)  
-- 💻 [Prontuário de papel vs prontuário eletrônico](#-prontuário-de-papel-vs-prontuário-eletrônico)  
-- 🧠 [Prontuário como inteligência clínica](#-prontuário-como-inteligência-clínica)  
-- 🚀 [Integração com sistemas clínicos](#-integração-com-sistemas-clínicos)  
-- ✅ [Checklist rápido do prontuário](#-checklist-rápido-do-prontuário)  
-- 📚 [Glossário rápido](#-glossário-rápido)  
-- ❓ [Perguntas frequentes (FAQ)](#-perguntas-frequentes-faq)  
-- 🧠 [Próximos passos para evoluir sua prática clínica](#-próximos-passos-para-evoluir-sua-prática-clínica)  
+- 🧾 [O que é prontuário psicológico?](#o-que-é-prontuário-psicológico)  
+- ⚖️ [Registro da sessão, modelos clínicos e prontuário](#registro-da-sessão-modelos-clínicos-e-prontuário)  
+- 📜 [Normas do CFP sobre prontuário](#normas-do-cfp-sobre-prontuário)  
+- 🧩 [Estrutura de um prontuário clínico](#estrutura-de-um-prontuário-clínico)  
+- 🧠 [Modelos de registro clínico](#modelos-de-registro-clínico)  
+- 📈 [Evolução clínica no prontuário](#evolução-clínica-no-prontuário)  
+- 📊 [Avaliações e indicadores no prontuário](#avaliações-e-indicadores-no-prontuário)  
+- ⚠️ [Erros comuns no prontuário](#erros-comuns-no-prontuário)  
+- 🔐 [LGPD e compartilhamento com o paciente](#lgpd-e-compartilhamento-com-o-paciente)  
+- 💻 [Prontuário de papel vs prontuário eletrônico](#prontuário-de-papel-vs-prontuário-eletrônico)  
+- 🧠 [Prontuário como inteligência clínica](#prontuário-como-inteligência-clínica)  
+- 🚀 [Integração com sistemas clínicos](#integração-com-sistemas-clínicos)  
+- ✅ [Checklist rápido do prontuário](#checklist-rápido-do-prontuário)  
+- 📚 [Glossário rápido](#glossário-rápido)  
+- ❓ [Perguntas frequentes (FAQ)](#perguntas-frequentes-faq)  
+- 🧠 [Próximos passos para evoluir sua prática clínica](#próximos-passos-para-evoluir-sua-prática-clínica)
 
 ---
 
@@ -471,11 +471,15 @@ Não. O prontuário deve ter linguagem técnica.
 
 O prontuário é apenas uma parte do processo clínico.
 
-Para aprofundar sua prática:
+---
 
-- 🔗 [SOAP na psicologia: como estruturar registros claros e consistentes](#)  
-- 🔗 [Evolução psicológica: como interpretar o progresso do paciente ao longo do tempo](#)  
-- 🔗 [Marcadores clínicos](#)  
-- 🔗 [Sistema para psicólogos: como integrar prontuário, agenda e análise clínica](#)  
+## 👉 Para aprofundar sua prática:
+
+- 🔗 [Prática Clínica](/pratica-clinica)
+- 🔗 [SOAP na Psicologia: guia completo, exemplos práticos e como aplicar na clínica](/pratica-clinica/soap-psicologia)
+- 🔗 [Avaliação Psicológica na Prática Clínica: como usar instrumentos de forma ética e estratégica](/pratica-clinica/avaliacao-psicologica-pratica-clinica)
+- 🔗 [Marcadores Clínicos na Psicologia: o que são, como usar e por que transformam a prática clínica](/pratica-clinica/marcadores-clinicos-psicologia)
+- 🔗 [Evolução Psicológica](/pratica-clinica/evolucao-psicologica)
+- 🔗 [Sistema de Acompanhamento Clínico Longitudinal: o futuro da prática em psicologia](/pratica-clinica/sistema-acompanhamento-clinico-longitudinal)
 
 ---
