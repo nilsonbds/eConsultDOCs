@@ -54,8 +54,6 @@ const config = {
           routeBasePath: '/blog',
           postsPerPage: 8,
           blogSidebarCount: 7,
-
-          // 🔥 remove página /blog/archive (lixo SEO)
           archiveBasePath: null,
 
           feedOptions: {
@@ -72,11 +70,7 @@ const config = {
 
         sitemap: {
           filename: 'sitemap.xml',
-
-          // 🔥 importante: usa data real dos posts
           lastmod: 'date',
-
-          // 🚨 FILTRO CRÍTICO (resolve seu problema atual)
           ignorePatterns: [
             '/blog/tags/**',
             '/blog/authors/**',
@@ -86,7 +80,6 @@ const config = {
             '/markdown-page',
           ],
 
-          // 🔥 filtro extra (garantia total)
           async createSitemapItems(params) {
             const { defaultCreateSitemapItems, ...rest } = params;
             const items = await defaultCreateSitemapItems(rest);
@@ -103,14 +96,14 @@ const config = {
                     url.includes('/docs/marcadores-clinicos') ||
                     url.includes('/docs/modelo-anamnese') ||
                     url.includes('/docs/principais-diferenciais') ||
-                    url.includes('/docs/diferenciais/')
+                    url.includes('/docs/diferenciais/') ||
+                    url.includes('/pratica-clinica/')
                   )
                 );
               })
               .map((item) => {
                 const url = item.url;
 
-                // 🔥 prioridade estratégica
                 if (
                   url.includes('melhor-sistema-para-psicologos') ||
                   url.includes('/blog/prontuario') ||
@@ -127,6 +120,10 @@ const config = {
                   return { ...item, priority: 0.6 };
                 }
 
+                if (url.includes('/pratica-clinica/')) {
+                  return { ...item, priority: 0.75 };
+                }
+
                 return item;
               });
           },
@@ -141,6 +138,15 @@ const config = {
   ],
 
   plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'pratica-clinica',
+        path: 'pratica-clinica',
+        routeBasePath: 'pratica-clinica',
+        sidebarPath: require.resolve('./sidebarsPraticaClinica.js'),
+      },
+    ],
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
       {
@@ -167,7 +173,9 @@ const config = {
           label: 'Guia de Uso',
         },
         {
-          to: '/pratica', 
+          type: 'docSidebar',
+          sidebarId: 'praticaClinicaSidebar',
+          docsPluginId: 'pratica-clinica',
           position: 'left',
           label: 'Prática Clínica',
         },

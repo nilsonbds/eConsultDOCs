@@ -1,10 +1,11 @@
 ---
-title: "Prontuário Psicológico: guia completo, modelos, boas práticas e exigências do CFP"
-description: "Guia completo sobre prontuário psicológico: o que é, como fazer, modelos como SOAP, LGPD, resoluções do CFP, evolução clínica e prontuário eletrônico."
-slug: "/prontuario-psicologico"
+id: 01_prontuario-psicologico
+title: Prontuário Psicológico
+slug: /prontuario-psicologico
+sidebar_position: 1
 ---
 
-![Prontuário Psicológico: guia completo, modelos, boas práticas e exigências do CFP](../../../static/img/pratica_clinica/prontuario-psicologico.png)
+![Prontuário Psicológico: guia completo, modelos, boas práticas e exigências do CFP](../static/img/pratica_clinica/prontuario-psicologico.png)
 
 # Prontuário psicológico
 
