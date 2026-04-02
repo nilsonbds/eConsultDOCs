@@ -434,6 +434,18 @@ A tecnologia está transformando a forma como o SOAP é utilizado.
 - **Sugerir hipóteses clínicas (A), com base no S e O, para avaliação do psicólogo**  
 - **Sugerir direções de manejo (P), para avaliação do psicólogo**
 
+---
+
+### 🧠 Do registro à estruturação automática
+
+Na prática clínica, um dos maiores desafios é transformar anotações da sessão em um registro estruturado.
+
+👉 É aqui que a integração entre marcadores clínicos e inteligência artificial faz diferença:
+
+- Os dados da sessão são estruturados  
+- O sistema organiza automaticamente em SOAP  
+- Sugestões de Avaliação (A) e Plano (P) são geradas para análise do psicólogo  
+
 ***👉 Exemplo real: geração de anotação SOAP a partir de marcadores clínicos com apoio de IA:***
 ![Geração automática de anotação SOAP a partir de marcadores clínicos no eConsult](../static/img/pratica_clinica/gerando-soap-a-partir-de-marcadores-clinicos.png)
 <small>
