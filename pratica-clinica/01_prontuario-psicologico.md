@@ -5,7 +5,7 @@ slug: /prontuario-psicologico
 sidebar_position: 1
 ---
 
-![Prontuário Psicológico: guia completo, modelos, boas práticas e exigências do CFP](../static/img/pratica_clinica/prontuario-psicologico.png)
+![Prontuário Psicológico: guia completo, modelos, boas práticas e exigências do CFP](../static/img/pratica_clinica/banner-prontuario-psicologico.png)
 
 # Prontuário psicológico
 
@@ -126,6 +126,11 @@ Ele é resultado de um processo clínico:
 - O psicólogo registra a sessão  
 - Organiza o conteúdo (ex: SOAP)  
 - E decide se deve compor o prontuário  
+
+![Infográfico mostrando como o prontuário psicológico é construído de forma longitudinal, passando por registro da sessão, modelos clínicos como SOAP, formalização técnica e análise da evolução do paciente](../static/img/pratica_clinica/infografico-prontuario.png)
+<small>
+Mais do que registrar atendimentos, o prontuário psicológico consolida informações clinicamente relevantes ao longo do tempo, sustentando a análise da evolução e a tomada de decisão terapêutica.
+</small>
 
 ---
 
