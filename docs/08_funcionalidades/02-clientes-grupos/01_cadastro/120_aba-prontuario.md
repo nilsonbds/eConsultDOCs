@@ -53,7 +53,7 @@ O prontuário é criado a partir de um **modelo de anamnese** e da **abordagem t
 Durante a edição, o profissional pode acessar recursos integrados:
 
 - **🧠 Anamnese:** registro inicial estruturado conforme o modelo clínico configurado.  
-- **📈 Avaliações Psicológicas:** aplicação de testes validados (ex.: BDI, BAI, CD-RISC, SRQ-20) com resultados automáticos integrados.  
+- **📈 Avaliações Psicológicas:** aplicação de testes validados (ex.: PHQ-9, GAD-7 e WHO-5) com resultados automáticos integrados.  
 - **🗂️ Histórico de Atendimentos:** linha do tempo com sessões, anotações clínicas e evolução do caso.  
 - **📎 Arquivos:** upload e gerenciamento de documentos e relatórios vinculados.  
 - **🤖 Inteligência Artificial Clínica:** sugestões de hipóteses diagnósticas, prognósticos e planos terapêuticos baseados no conteúdo do prontuário, nas escalas aplicadas e na abordagem escolhida.  
