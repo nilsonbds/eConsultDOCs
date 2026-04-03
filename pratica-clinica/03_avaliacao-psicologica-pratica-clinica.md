@@ -6,6 +6,8 @@ slug: "/avaliacao-psicologica-pratica-clinica"
 sidebar_position: 3
 ---
 
+![Avaliação Psicológica na Prática Clínica: como usar instrumentos de forma ética e estratégica](../static/img/pratica_clinica/banner_avaliacao-psicologica-pratica-clinica.png)
+
 # Avaliação Psicológica na Prática Clínica
 
 A avaliação psicológica é uma das ferramentas mais importantes da prática clínica.
