@@ -391,7 +391,7 @@ O prontuário deve conter:
 
 👉 Aprofunde:
 
-- 🔗 [Prontuário psicológico](#)
+- 🔗 [Prontuário psicológico](/pratica-clinica/prontuario-psicologico)
 
 ---
 
@@ -419,7 +419,7 @@ Quando utilizado de forma consistente, ele permite:
 
 👉 Aprofunde:
 
-- 🔗 [Evolução psicológica](#)
+- 🔗 [Evolução psicológica](/pratica-clinica/evolucao-psicologica)
 
 ---
 
@@ -489,8 +489,8 @@ Com apoio de sistemas estruturados:
 
 👉 Veja como isso se integra a sistemas modernos:
 
-- 🔗 [Sistema para psicólogos](#)  
-- 🔗 [Sistema de acompanhamento clínico longitudinal](#)  
+- 🔗 [Sistemas modernos para psicólogos](/blog/melhor-sistema-para-psicologos)  
+- 🔗 [Sistema de acompanhamento clínico longitudinal](/pratica-clinica/sistema-acompanhamento-clinico-longitudinal)  
 
 ---
 

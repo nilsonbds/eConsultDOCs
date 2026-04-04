@@ -179,8 +179,8 @@ A prática clínica moderna exige uma mudança de perspectiva:
 
 👉 A evolução depende diretamente de como os dados são registrados:
 
-- 🔗 [Prontuário psicológico](#)  
-- 🔗 [SOAP na psicologia](#)  
+- 🔗 [Prontuário psicológico](/pratica-clinica/prontuario-psicologico)  
+- 🔗 [SOAP na psicologia](/pratica-clinica/soap-psicologia)  
 
 ---
 
@@ -352,11 +352,16 @@ Um dos maiores ganhos do acompanhamento longitudinal estruturado é:
 
 ---
 
-***👉 Exemplo de acompanhamento clínico longitudinal com visualização da evolução ao longo do tempo:***
+***👉 Exemplos de acompanhamento clínico longitudinal com visualização da evolução ao longo do tempo:***
 
-![Exemplo de acompanhamento clínico longitudinal com visualização da evolução ao longo do tempo](../static/img/pratica_clinica/time-line-acompanhamento-inteligente-do-paciente.png)
+![Exemplo de acompanhamento clínico longitudinal com visualização da evolução ao longo do tempo com base em marcadores clínicos](../static/img/pratica_clinica/time-line-acompanhamento-inteligente-do-paciente.png)
 <small>
-Nesta visão, é possível acompanhar a evolução do paciente ao longo das sessões, identificando padrões, mudanças clínicas, níveis de risco e resposta ao tratamento — sem depender exclusivamente da memória do psicólogo.
+Nesta visão, é possível acompanhar a evolução do paciente ao longo das sessões, identificando padrões, mudanças clínicas, níveis de risco e resposta ao tratamento — com base em marcadores clínicos — sem depender exclusivamente da memória do psicólogo.
+</small>
+
+![Exemplo de acompanhamento clínico longitudinal com visualização da evolução ao longo do tempo com base em avaliações psicológicas](../static/img/pratica_clinica/evolucao-clinica-longitudinal-phq9.png)
+<small>
+Nesta visão, é possível acompanhar a evolução do paciente ao longo das sessões com base em avaliações psicológicas — sem depender exclusivamente da memória do psicólogo.
 </small>
 
 ---

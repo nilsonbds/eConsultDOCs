@@ -206,6 +206,11 @@ Isso garante:
 - conformidade ética  
 - aplicabilidade prática  
 
+<video controls width="100%" style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/avaliacao-psicologica.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
+
 ---
 
 ## 🔗 Integração com o raciocínio clínico

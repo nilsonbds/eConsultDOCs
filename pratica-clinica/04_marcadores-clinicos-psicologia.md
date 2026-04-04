@@ -268,7 +268,7 @@ Eles permitem:
 
 👉 Aprofunde:
 
-- 🔗 [Evolução psicológica](#)
+- 🔗 [Evolução psicológica](/pratica-clinica/evolucao-psicologica)
 
 ---
 
@@ -304,8 +304,8 @@ Exemplo real de uso no eConsult: a partir de marcadores clínicos e conteúdos d
 
 👉 Aprofunde:
 
-- 🔗 [SOAP na psicologia](#)  
-- 🔗 [Prontuário psicológico](#)
+- 🔗 [SOAP na psicologia](/pratica-clinica/soap-psicologia)  
+- 🔗 [Prontuário psicológico](/pratica-clinica/prontuario-psicologico)
 
 ---
 

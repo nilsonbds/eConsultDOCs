@@ -243,8 +243,7 @@ Os modelos organizam o registro clínico da sessão e facilitam sua formalizaç�
 
 👉 Para garantir consistência técnica no seu registro:
 
-- 🔗 [SOAP na psicologia: guia completo](#)  
-- 🔗 [Modelos de prontuário psicológico](#)
+- 🔗 [SOAP na psicologia: guia completo](/pratica-clinica/soap-psicologia)  
 
 ---
 
@@ -265,7 +264,7 @@ Ele deve permitir compreender:
 
 👉 Aprofunde este tema:
 
-- 🔗 [Evolução psicológica](#)
+- 🔗 [Evolução psicológica](/pratica-clinica/evolucao-psicologica)
 
 ---
 
@@ -378,7 +377,7 @@ Mesmo após a entrega, o psicólogo permanece responsável por:
 
 👉 Saiba mais:
 
-- 🔗 [LGPD para psicólogos](#)
+- 🔗 [LGPD para psicólogos](/blog/seguranca)
 
 ---
 
