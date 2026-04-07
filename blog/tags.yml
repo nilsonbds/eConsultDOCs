@@ -227,3 +227,34 @@ soap:
   label: SOAP
   permalink: /soap
   description: Conteúdos sobre o modelo SOAP na psicologia, incluindo estrutura, exemplos práticos e boas práticas de registro clínico.
+
+evolucao-clinica:
+  label: Evolução Clínica
+  permalink: /evolucao-clinica
+  description: >
+    Conteúdos sobre análise da evolução do paciente ao longo do tempo,
+    identificação de mudanças clínicas, monitoramento de progresso terapêutico
+    e tomada de decisão baseada na trajetória do caso.
+
+raciocinio-clinico:
+  label: Raciocínio Clínico
+  permalink: /raciocinio-clinico
+  description: >
+    Discussões sobre como o psicólogo formula hipóteses, interpreta dados clínicos,
+    organiza o pensamento terapêutico e toma decisões ao longo do processo de cuidado.
+
+processo-terapeutico:
+  label: Processo Terapêutico
+  permalink: /processo-terapeutico
+  description: >
+    Conteúdos sobre condução do processo terapêutico ao longo do tempo,
+    incluindo estruturação de sessões, direção clínica, continuidade do cuidado
+    e adaptação das intervenções conforme a evolução do paciente.
+
+monitoramento-clinico:
+  label: Monitoramento Clínico
+  permalink: /monitoramento-clinico
+  description: >
+    Abordagens e ferramentas para acompanhamento contínuo do paciente,
+    incluindo uso de indicadores, escalas, registros estruturados e análise longitudinal
+    para suporte à prática clínica baseada em dados.
