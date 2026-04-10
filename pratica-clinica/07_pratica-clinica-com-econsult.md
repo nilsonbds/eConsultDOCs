@@ -359,6 +359,106 @@ Recomendação:
 
 ---
 
+## 🧾 Emissão de prontuário para pacientes já em acompanhamento
+
+Em alguns casos, o profissional pode iniciar o uso do sistema enquanto já atende o paciente há algum tempo — e precisar emitir um prontuário.
+
+Nessa situação, é importante compreender que o prontuário pode ser construído a partir de um **recorte do acompanhamento**, sem a necessidade de reconstrução completa de todo o histórico no sistema.
+
+---
+
+### ⚖️ Princípio clínico
+
+> O prontuário deve refletir informações tecnicamente relevantes e disponíveis —  
+> não necessariamente a totalidade do histórico do paciente no sistema.
+
+---
+
+### 🔄 Como proceder na prática
+
+#### 1. 🧾 Preenchimento da anamnese
+
+- registrar as informações já conhecidas sobre o paciente  
+- incluir dados relevantes da história clínica  
+- consolidar o entendimento atual do caso  
+
+👉 A anamnese funciona como base para contextualização do prontuário.
+
+<aprofundar>
+👉 Estrutura do prontuário psicológico  
+→ /pratica-clinica/prontuario-psicologico  
+</aprofundar>
+
+---
+
+#### 2. 🧩 Registro da sessão atual
+
+Na sessão mais recente:
+
+- indicar marcadores clínicos  
+- registrar anotações associadas  
+- gerar anotação clínica (SOAP), se pertinente  
+
+👉 Esse registro passa a representar o estado atual do acompanhamento.
+
+---
+
+#### 3. 🔄 (Opcional) Inclusão de sessões recentes
+
+Se necessário, o profissional pode:
+
+- criar agendamentos retroativos  
+- registrar até algumas sessões anteriores  
+- complementar o contexto clínico  
+
+⚠️ Essa etapa é opcional e deve ser utilizada com critério clínico.
+
+---
+
+#### 4. 📄 Emissão do prontuário
+
+Ao emitir o prontuário:
+
+- o documento refletirá os dados registrados no sistema  
+- incluindo:
+  - anamnese  
+  - registros clínicos  
+  - evolução disponível  
+
+📌 Importante:
+
+> o prontuário representa um **recorte do momento atual do acompanhamento**,  
+> com base nas informações registradas.
+
+---
+
+### 🔍 Transparência e responsabilidade técnica
+
+Quando o prontuário não contempla todo o histórico do paciente no sistema, é recomendável que o profissional:
+
+- mantenha clareza sobre o período coberto  
+- utilize linguagem técnica adequada  
+- registre apenas informações seguras e pertinentes  
+
+👉 O foco deve estar na **qualidade e consistência clínica**, e não na completude formal do histórico.
+
+---
+
+### 💡 Em síntese
+
+Mesmo sem todo o histórico registrado no sistema:
+
+- é possível emitir prontuários válidos  
+- com consistência técnica  
+- e alinhados às boas práticas profissionais  
+
+👉 O mais importante é que o documento:
+
+- represente corretamente o estado atual do caso  
+- e sustente a continuidade do cuidado
+
+---
+
 ### 📈 Consideração prática
 
 Mesmo iniciando sem histórico completo:
