@@ -97,7 +97,8 @@ const config = {
                     url.includes('/docs/modelo-anamnese') ||
                     url.includes('/docs/principais-diferenciais') ||
                     url.includes('/docs/diferenciais/') ||
-                    url.includes('/pratica-clinica/')
+                    url.includes('/pratica-clinica/') ||
+                    url.includes('/gestao-consultorio/')
                   )
                 );
               })
@@ -146,6 +147,14 @@ const config = {
         routeBasePath: 'pratica-clinica',
         sidebarPath: require.resolve('./sidebarsPraticaClinica.js'),
       },
+    ],[
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'gestao-consultorio',
+        path: 'gestao-consultorio',
+        routeBasePath: 'gestao-consultorio',
+        sidebarPath: require.resolve('./sidebarsGestaoConsultorio.js'),
+      },
     ],
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
@@ -178,6 +187,13 @@ const config = {
           docsPluginId: 'pratica-clinica',
           position: 'left',
           label: 'Prática Clínica',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'gestaoConsultorioSidebar',
+          docsPluginId: 'gestao-consultorio',
+          position: 'left',
+          label: 'Gestão de Consultório',
         },
         {
           to: '/blog', // ou type: 'blog'

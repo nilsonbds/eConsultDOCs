@@ -64,6 +64,26 @@ export default function HomepagePortalPaths() {
             </Link>
           </div>
 
+          {/* Gestão de Consultório */}
+          <div className={styles.card}>
+            <div className={styles.icon}>
+              <LuBrain />
+            </div>
+
+            <h3 className={styles.cardTitle}>
+              Gestão de Consultório
+            </h3>
+
+            <p className={styles.cardText}>
+              Aprofunde seu raciocínio clínico com conteúdos sobre acompanhamento
+              longitudinal e organização da prática.
+            </p>
+
+            <Link to="/gestao-consultorio" className={styles.link}>
+              Explorar conteúdos →
+            </Link>
+          </div>
+
           {/* Blog */}
           <div className={styles.card}>
             <div className={styles.icon}>
