@@ -34,10 +34,9 @@ De forma simplificada, a prática clínica pode ser organizada em um ciclo cont�
 
 Esse ciclo se repete ao longo do acompanhamento, permitindo que o prontuário deixe de ser um documento estático e passe a ser uma **construção contínua da evolução clínica**.
 
-<aprofundar>
-👉 Entenda em profundidade o conceito de prontuário como construção contínua  
-→ /pratica-clinica/prontuario-psicologico  
-</aprofundar>
+:::tip Aprofundar
+🔗 [Entenda em profundidade o conceito de prontuário como construção contínua](/pratica-clinica/prontuario-psicologico)
+:::
 
 ---
 
@@ -53,6 +52,10 @@ Esse documento tem como objetivo:
 - garantir transparência na relação terapêutica  
 
 Além de um requisito ético, ele estabelece a base do vínculo profissional.
+
+:::tip Aprofundar
+🔗 [O Termo de Consentimento Informado: por que tantos psicólogos ainda o negligenciam?](/blog/termo-consentimento-informado)
+:::
 
 ---
 
@@ -71,6 +74,10 @@ A partir disso:
 - abrir o prontuário no sistema  
 - selecionar um modelo de **anamnese**  
 - registrar as informações iniciais de forma estruturada  
+
+:::tip Aprofundar
+🔗 [Por que os modelos de anamnese do eConsult se destacam?](/docs/diferenciais/modelos-anamnese#por-que-os-modelos-de-anamnese-do-econsult-se-destacam)
+:::
 
 ---
 
@@ -91,10 +98,9 @@ Para cada marcador:
 ⚠️ Não é uma obrigação —  
 é um apoio à organização do raciocínio clínico.
 
-<aprofundar>
-👉 O que são marcadores clínicos e por que transformam a prática  
-→ /pratica-clinica/marcadores-clinicos-psicologia  
-</aprofundar>
+:::tip Aprofundar
+🔗 [O que são marcadores clínicos e por que transformam a prática](/pratica-clinica/marcadores-clinicos-psicologia)
+:::
 
 ---
 
@@ -113,10 +119,9 @@ Esse processo:
 A geração é **assistiva**.  
 A validação e responsabilidade permanecem com o psicólogo.
 
-<aprofundar>
-👉 Guia completo sobre SOAP na psicologia  
-→ /pratica-clinica/soap-psicologia  
-</aprofundar>
+:::tip Aprofundar
+🔗 [Guia completo sobre SOAP na psicologia](/pratica-clinica/soap-psicologia)  
+:::
 
 ---
 
@@ -143,10 +148,9 @@ Após cada sessão:
 
 - manter consistência nos registros ao longo das sessões  
 
-<aprofundar>
-👉 Como analisar a evolução psicológica na prática  
-→ /pratica-clinica/evolucao-psicologica  
-</aprofundar>
+:::tip Aprofundar
+🔗 [Como analisar a evolução psicológica na prática](/pratica-clinica/evolucao-psicologica)  
+:::
 
 ---
 
@@ -178,11 +182,6 @@ Mesmo com geração automática, o conteúdo deve ser:
 - ajustado  
 - validado pelo profissional  
 
-<aprofundar>
-👉 Entenda como marcadores, SOAP e prontuário se integram  
-→ /pratica-clinica/marcadores-clinicos-psicologia  
-</aprofundar>
-
 ---
 
 ## 7. 📊 Uso de avaliações psicológicas
@@ -201,10 +200,9 @@ Essas avaliações permitem:
 - reaplicação ao longo do processo  
 - comparação de resultados  
 
-<aprofundar>
-👉 Como usar avaliações psicológicas de forma estratégica  
-→ /pratica-clinica/avaliacao-psicologica-pratica-clinica  
-</aprofundar>
+:::tip Aprofundar
+🔗 [Como usar avaliações psicológicas de forma estratégica](/pratica-clinica/avaliacao-psicologica-pratica-clinica)  
+:::
 
 ---
 
@@ -251,10 +249,9 @@ Isso garante:
 - consistência  
 - continuidade do cuidado  
 
-<aprofundar>
-👉 Diferença entre registro, modelo clínico e prontuário  
-→ /pratica-clinica/prontuario-psicologico  
-</aprofundar>
+:::tip Aprofundar
+🔗 [Diferença entre registro, modelo clínico e prontuário](/pratica-clinica/prontuario-psicologico)  
+:::
 
 ---
 
@@ -298,11 +295,6 @@ Após o cadastro:
 - não é necessário reconstruir toda a história cronológica  
 - o foco é consolidar as **informações clinicamente relevantes já conhecidas**
 
-<aprofundar>
-👉 Estrutura e função da anamnese no prontuário  
-→ /pratica-clinica/prontuario-psicologico  
-</aprofundar>
-
 ---
 
 #### 3. 🧩 Início dos registros clínicos
@@ -314,11 +306,6 @@ A partir da próxima sessão:
 - gerar anotação clínica (SOAP), quando pertinente  
 
 👉 Esses registros passam a estruturar o acompanhamento.
-
-<aprofundar>
-👉 Como usar marcadores clínicos na prática  
-→ /pratica-clinica/marcadores-clinicos-psicologia  
-</aprofundar>
 
 ---
 
@@ -383,11 +370,6 @@ Nessa situação, é importante compreender que o prontuário pode ser construí
 - consolidar o entendimento atual do caso  
 
 👉 A anamnese funciona como base para contextualização do prontuário.
-
-<aprofundar>
-👉 Estrutura do prontuário psicológico  
-→ /pratica-clinica/prontuario-psicologico  
-</aprofundar>
 
 ---
 
@@ -504,11 +486,6 @@ Isso contribui para:
 - reduzir dispersão de informação  
 - estruturar o raciocínio sem engessá-lo  
 
-<aprofundar>
-👉 Como os marcadores estruturam o raciocínio clínico  
-→ /pratica-clinica/marcadores-clinicos-psicologia  
-</aprofundar>
-
 ---
 
 ### 📝 Organização em modelo clínico (SOAP)
@@ -520,11 +497,6 @@ Neste contexto, a possibilidade de geração assistida a partir dos marcadores:
 - reduz o esforço de escrita  
 - mantém consistência entre sessões  
 - preserva a autonomia do profissional  
-
-<aprofundar>
-👉 Entenda o modelo SOAP na prática clínica  
-→ /pratica-clinica/soap-psicologia  
-</aprofundar>
 
 ---
 
@@ -539,11 +511,6 @@ Ao integrar registros de múltiplas sessões, o sistema permite observar:
 Esse tipo de leitura é fundamental para responder uma das principais perguntas da prática clínica:
 
 > **O paciente está evoluindo — e em que direção?**
-
-<aprofundar>
-👉 Como analisar evolução psicológica na prática  
-→ /pratica-clinica/evolucao-psicologica  
-</aprofundar>
 
 ---
 
