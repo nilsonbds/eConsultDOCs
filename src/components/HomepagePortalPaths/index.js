@@ -59,7 +59,7 @@ export default function HomepagePortalPaths() {
               longitudinal e organização da prática.
             </p>
 
-            <Link to="/pratica-clinica" className={styles.link}>
+            <Link to="/gestao-consultorio" className={styles.link}>
               Explorar conteúdos →
             </Link>
           </div>
