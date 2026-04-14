@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+---
 
 # ⚠️ Manejo da Inadimplência e das Perdas no Consultório
 
