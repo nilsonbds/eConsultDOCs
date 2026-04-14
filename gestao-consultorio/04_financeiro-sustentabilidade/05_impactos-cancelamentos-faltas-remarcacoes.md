@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Impacto de Faltas, Remarcações e Cancelamentos na Sustentabilidade do Consultório
+# 📉 Impacto de Faltas, Remarcações e Cancelamentos na Sustentabilidade do Consultório
 
 ***Faltas, remarcações e cancelamentos não impactam apenas a agenda — eles afetam diretamente a previsibilidade, a eficiência operacional e a sustentabilidade financeira do consultório.***
 

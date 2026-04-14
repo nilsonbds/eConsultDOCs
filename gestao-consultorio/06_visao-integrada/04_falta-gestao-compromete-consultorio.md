@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Quando a Falta de Gestão Começa a Comprometer o Consultório
+# ⚠️ Quando a Falta de Gestão Começa a Comprometer o Consultório
 
 ***A ausência de gestão raramente compromete um consultório de forma abrupta — normalmente, ela deteriora a operação de maneira gradual, acumulativa e inicialmente pouco perceptível.***
 

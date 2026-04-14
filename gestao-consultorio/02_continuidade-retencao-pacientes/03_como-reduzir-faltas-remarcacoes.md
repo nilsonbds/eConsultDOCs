@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Como Reduzir Faltas e Remarcações no Consultório Psicológico
+# 📉 Como Reduzir Faltas e Remarcações no Consultório Psicológico
 ***Estratégias para melhorar a previsibilidade da agenda e reduzir ausências recorrentes na rotina do consultório psicológico.***
 
 Faltas e remarcações fazem parte da rotina de muitos consultórios psicológicos.

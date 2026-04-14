@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Indicadores de Continuidade no Consultório Psicológico
+# 📊 Indicadores de Continuidade no Consultório Psicológico
 ***Como acompanhar métricas de permanência, regularidade e previsibilidade para compreender melhor a continuidade dos pacientes no consultório psicológico.***
 
 Muitos profissionais percebem quando a agenda está mais instável, quando os pacientes estão faltando mais ou quando a rotatividade parece maior do que o habitual.

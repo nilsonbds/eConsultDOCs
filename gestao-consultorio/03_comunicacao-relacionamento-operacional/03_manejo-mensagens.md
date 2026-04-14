@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Manejo de Mensagens Fora do Horário de Atendimento
+# 🌙 Manejo de Mensagens Fora do Horário de Atendimento
 ***Reflexões sobre disponibilidade profissional, limites operacionais e organização do manejo de mensagens recebidas fora do horário de atendimento no consultório psicológico.***
 
 Com a popularização de canais como WhatsApp e mensagens instantâneas, tornou-se comum que pacientes enviem comunicações fora do horário habitual de atendimento.

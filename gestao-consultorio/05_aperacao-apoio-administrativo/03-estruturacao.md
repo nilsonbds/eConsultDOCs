@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Como Estruturar Processos para Delegação no Consultório
+# 🧩 Como Estruturar Processos para Delegação no Consultório
 
 ***Delegar sem processo raramente reduz sobrecarga — na maioria das vezes, apenas transfere desorganização para outra pessoa.***
 

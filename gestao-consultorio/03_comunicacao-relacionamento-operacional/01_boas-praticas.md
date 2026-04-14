@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Boas Práticas para Comunicação por WhatsApp no Consultório
+# 📱 Boas Práticas para Comunicação por WhatsApp no Consultório
 ***Reflexões sobre uso profissional do WhatsApp na rotina do consultório, com foco em organização operacional, limites de disponibilidade e preservação das fronteiras da prática clínica.***
 
 O WhatsApp tornou-se um dos principais canais de comunicação entre profissionais e pacientes na rotina do consultório psicológico.

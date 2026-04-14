@@ -1,11 +1,8 @@
 ---
 sidebar_position: 6
-title: Como Sistemas Podem Apoiar a Gestão do Consultório
-slug: /gestao-consultorio/visao-integrada-da-gestao/como-sistemas-podem-apoiar-a-gestao-do-consultorio
-description: Entenda como sistemas de gestão podem apoiar a organização do consultório psicológico e quais contribuições estruturais essas ferramentas oferecem para a prática profissional.
 ---
 
-# Como Sistemas Podem Apoiar a Gestão do Consultório
+# 🛠️ Como Sistemas Podem Apoiar a Gestão do Consultório
 
 ***Um sistema de gestão não serve apenas para digitalizar tarefas — quando bem utilizado, ele pode ampliar significativamente a capacidade do profissional de organizar, acompanhar e compreender sua própria prática.***
 

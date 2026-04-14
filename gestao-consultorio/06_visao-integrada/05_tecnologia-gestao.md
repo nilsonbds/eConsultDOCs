@@ -1,11 +1,8 @@
 ---
 sidebar_position: 5
-title: Tecnologia na Gestão do Consultório Psicológico
-slug: /gestao-consultorio/visao-integrada-da-gestao/tecnologia-na-gestao-do-consultorio-psicologico
-description: Entenda qual é o papel da tecnologia na gestão do consultório psicológico e como ferramentas digitais podem apoiar — sem substituir — uma gestão bem estruturada.
 ---
 
-# Tecnologia na Gestão do Consultório Psicológico
+# 💻 Tecnologia na Gestão do Consultório Psicológico
 
 ***Tecnologia não substitui gestão — mas pode ampliar significativamente a capacidade do profissional de organizar, acompanhar e sustentar a operação do consultório.***
 

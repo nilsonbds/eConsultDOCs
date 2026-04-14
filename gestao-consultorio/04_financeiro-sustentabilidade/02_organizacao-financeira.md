@@ -1,11 +1,8 @@
 ---
-sidebar_position: 3
-title: Organização Financeira do Consultório
-slug: /gestao-consultorio/financeiro-sustentabilidade/organizacao-financeira-do-consultorio
-description: Entenda como estruturar a organização financeira do consultório de forma clara e estratégica, separando realizado, previsto, pendente e perdas para uma gestão financeira mais realista e sustentável.
+sidebar_position: 2
 ---
 
-# Organização Financeira do Consultório
+# 📂 Organização Financeira do Consultório
 
 ***Organizar o financeiro do consultório vai além de registrar pagamentos: significa estruturar uma visão clara, realista e contínua sobre a operação financeira da prática clínica.***
 

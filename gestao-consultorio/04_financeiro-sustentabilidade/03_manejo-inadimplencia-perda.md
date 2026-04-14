@@ -1,11 +1,7 @@
 ---
-sidebar_position: 4
-title: Manejo da Inadimplência e das Perdas no Consultório
-slug: /gestao-consultorio/financeiro-sustentabilidade/manejo-da-inadimplencia-e-das-perdas-no-consultorio
-description: Entenda como estruturar o manejo da inadimplência e das perdas no consultório psicológico, diferenciando atrasos pontuais, inadimplência recorrente e perdas financeiras efetivas.
----
+sidebar_position: 3
 
-# Manejo da Inadimplência e das Perdas no Consultório
+# ⚠️ Manejo da Inadimplência e das Perdas no Consultório
 
 ***Nem todo atraso representa uma perda — mas toda inadimplência sem manejo estruturado tende a comprometer a previsibilidade e a sustentabilidade financeira do consultório.***
 

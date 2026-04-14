@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Como Construir Previsibilidade Financeira no Consultório
+# 📈 Como Construir Previsibilidade Financeira no Consultório
 
 ***Previsibilidade financeira não significa saber exatamente quanto o consultório faturará — significa reduzir incertezas e compreender, com razoável segurança, como a operação tende a se comportar ao longo do tempo.***
 

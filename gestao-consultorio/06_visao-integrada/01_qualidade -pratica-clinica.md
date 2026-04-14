@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Por Que Gestão Impacta a Qualidade da Prática Clínica
+# 🎯 Por Que Gestão Impacta a Qualidade da Prática Clínica
 
 ***A qualidade da prática clínica não depende apenas de competência técnica — ela também é influenciada pela estrutura organizacional que sustenta o trabalho do profissional.***
 

@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Sobre Continuidade e Retenção de Pacientes
+# 🔄 Sobre Continuidade e Retenção de Pacientes
 ***Reflexões sobre permanência em acompanhamento, regularidade de comparecimento e fatores que influenciam a continuidade dos pacientes ao longo do tempo no consultório psicológico.***
 
 A previsibilidade e a sustentabilidade de um consultório psicológico dependem, em grande parte, da continuidade com que os pacientes permanecem em acompanhamento ao longo do tempo.

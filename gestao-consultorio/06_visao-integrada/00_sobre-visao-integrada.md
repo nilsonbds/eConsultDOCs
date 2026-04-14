@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Sobre Visão Integrada da Gestão no Consultório Psicológico
+# 🧠 Sobre Visão Integrada da Gestão no Consultório Psicológico
 
 ***Gerir um consultório não significa apenas administrar tarefas isoladas — significa compreender e organizar um sistema complexo de elementos interdependentes que sustentam a prática profissional ao longo do tempo.***
 

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Abandono Terapêutico e Descontinuidade de Pacientes
+# ⚠️ Abandono Terapêutico e Descontinuidade de Pacientes
 ***Reflexões sobre interrupções precoces do acompanhamento, descontinuidade de pacientes e seus impactos na previsibilidade do consultório psicológico.***
 
 Nem todo paciente que inicia acompanhamento psicológico permanece até um encerramento planejado do processo.

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Como Estruturar Confirmações de Consulta
+# ✅ Como Estruturar Confirmações de Consulta
 ***Reflexões sobre organização de confirmações de atendimento, previsibilidade operacional e boas práticas para estruturar esse processo no consultório psicológico.***
 
 A confirmação de consultas é uma das rotinas operacionais mais comuns no dia a dia de muitos consultórios psicológicos.

@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Sobre Comunicação e Relacionamento Operacional
+# 💬 Sobre Comunicação e Relacionamento Operacional
 ***Reflexões sobre comunicação administrativa, alinhamento de processos e organização das interações operacionais no consultório psicológico.***
 
 A comunicação com pacientes não acontece apenas dentro do setting terapêutico.

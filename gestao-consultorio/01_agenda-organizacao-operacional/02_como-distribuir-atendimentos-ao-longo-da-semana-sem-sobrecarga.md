@@ -2,10 +2,10 @@
 sidebar_position: 2
 ---
 
-# Como Distribuir Atendimentos ao Longo da Semana Sem Sobrecarga
-***Reflexões para estruturar uma agenda semanal mais equilibrada, eficiente e sustentável.***
+# 🗓️ Como Distribuir Atendimentos ao Longo da Semana Sem Sobrecarga
+***Reflexões para estruturar uma agenda semanal mais equilibrada, previsível e sustentável.***
 
-Organizar a agenda do consultório não envolve apenas definir quantos pacientes atender.
+Definir quantos pacientes atender por semana é apenas parte da organização da rotina clínica.
 
 Também importa **como esses atendimentos estão distribuídos ao longo da semana**.
 
@@ -14,9 +14,9 @@ Mesmo profissionais com uma carga de atendimentos adequada podem experimentar se
 É comum encontrar rotinas em que:
 
 - alguns dias concentram atendimentos excessivos  
-- outros ficam subutilizados  
+- outros permanecem subutilizados  
 - a semana alterna entre picos intensos e períodos fragmentados  
-- faltam blocos adequados para atividades administrativas  
+- faltam blocos adequados para atividades não clínicas  
 
 Uma boa distribuição semanal ajuda a tornar a rotina mais previsível e sustentável.
 
@@ -24,24 +24,41 @@ Uma boa distribuição semanal ajuda a tornar a rotina mais previsível e susten
 
 ## Sobrecarga nem sempre está no volume — às vezes está na distribuição
 
-Dois profissionais podem atender exatamente a mesma quantidade de pacientes por semana e, ainda assim, viver rotinas completamente diferentes.
+Dois profissionais podem atender exatamente a mesma quantidade de pacientes por semana e, ainda assim, viver rotinas muito diferentes.
 
 Exemplo:
 
-- Profissional A: 25 atendimentos distribuídos de forma equilibrada  
-- Profissional B: 25 atendimentos concentrados em 3 dias intensos  
+- **Profissional A:** 25 atendimentos distribuídos de forma equilibrada  
+- **Profissional B:** 25 atendimentos concentrados em 3 dias intensos  
 
-Embora o volume seja igual, a percepção de desgaste pode ser muito diferente.
+Embora o volume seja igual, a percepção de desgaste pode ser bastante diferente.
 
 Por isso, além da quantidade total de atendimentos, vale observar **como essa carga está organizada ao longo da semana**.
 
 ---
 
-## Aspectos que podem ajudar na distribuição da agenda
+## Não existe uma única forma correta de distribuir a agenda
 
-Não existe uma única forma correta de estruturar a semana.
+Alguns profissionais preferem:
 
-Mas alguns critérios podem ajudar nessa reflexão.
+- agendas mais intensas em menos dias  
+- distribuição uniforme durante toda a semana  
+- manhãs mais leves e noites mais cheias  
+- dias específicos dedicados a tarefas administrativas  
+
+Não existe um modelo universal.
+
+O ideal tende a ser aquele compatível com:
+
+- seu ritmo pessoal de energia  
+- sua realidade de vida  
+- seu modelo de atuação  
+- sua demanda atual de pacientes  
+- sua estratégia profissional  
+
+---
+
+## Aspectos que podem ajudar na distribuição semanal
 
 ---
 
@@ -52,7 +69,7 @@ Sempre que possível, pode ser útil concentrar atendimentos em blocos.
 Exemplo:
 
 - manhã: bloco clínico  
-- tarde: administrativo / intervalo  
+- tarde: administrativo / pausa  
 - noite: bloco clínico  
 
 Essa organização tende a:
@@ -90,24 +107,23 @@ pode contribuir para uma rotina mais organizada.
 
 ---
 
-### Considerar seu ritmo pessoal de energia
+### Considerar padrões reais de demanda
 
-Alguns profissionais preferem:
+Nem sempre todos os horários possuem a mesma procura.
 
-- agendas mais intensas em menos dias  
-- distribuição mais uniforme durante a semana  
-- manhãs mais leves e noites mais cheias  
-- dias específicos dedicados a tarefas administrativas  
+Muitos profissionais observam, por exemplo:
 
-Não existe um modelo universal.
+- maior demanda no período noturno  
+- menor ocupação em certos dias da semana  
+- preferência por horários específicos de determinados perfis de paciente  
 
-O ideal tende a ser aquele compatível com sua energia, sua rotina e seu contexto profissional.
+Uma boa distribuição também considera esses padrões práticos de demanda.
 
 ---
 
-## Sinais de que a distribuição da agenda pode estar desequilibrada
+## Sinais de que sua distribuição semanal pode estar desequilibrada
 
-Alguns indícios que podem sugerir necessidade de revisão:
+Alguns indícios frequentes incluem:
 
 - certos dias da semana geram exaustão recorrente  
 - outros dias permanecem sistematicamente subutilizados  
@@ -117,33 +133,19 @@ Alguns indícios que podem sugerir necessidade de revisão:
 
 ---
 
-## Planejando a distribuição semanal com o eConsult
+## Como o eConsult pode ajudar nesse planejamento
 
-No eConsult, a funcionalidade de **Disponibilidades da Agenda** permite estruturar previamente a distribuição dos atendimentos conforme a lógica desejada pelo profissional.
+No eConsult, a funcionalidade de **Disponibilidades da Agenda** permite estruturar previamente diferentes blocos de atendimento ao longo da semana.
 
 Isso possibilita configurar:
 
-- diferentes blocos de atendimento por dia da semana  
-- horários específicos para manhã / tarde / noite  
-- intervalos fixos entre blocos  
-- dias com cargas diferentes de atendimento  
-- períodos reservados para atividades não clínicas  
+- horários distintos por dia da semana  
+- blocos específicos de manhã / tarde / noite  
+- intervalos fixos entre períodos  
+- dias administrativos  
+- distribuições diferentes conforme a estratégia desejada  
 
-Esse tipo de configuração ajuda a transformar a agenda em uma representação prática da rotina que se deseja sustentar — e não apenas em um conjunto de horários livres.
-
----
-
-## Distribuir bem a agenda é proteger sua sustentabilidade profissional
-
-Uma rotina saudável depende não apenas de quantos pacientes você atende, mas de como sua semana está estruturada para sustentar esse volume.
-
-Uma distribuição mais equilibrada pode favorecer:
-
-- maior consistência de energia clínica  
-- menor sensação de sobrecarga pontual  
-- melhor previsibilidade operacional  
-- mais espaço para organização e reflexão  
-- rotina profissional mais sustentável no longo prazo  
+Esse tipo de planejamento ajuda a transformar a agenda em uma representação prática da rotina que se deseja sustentar — e não apenas em um conjunto de horários livres.
 
 ---
 
@@ -151,9 +153,9 @@ Uma distribuição mais equilibrada pode favorecer:
 
 Se este tema é relevante para sua rotina, você também pode se interessar por:
 
-- Como organizar a agenda de psicólogo  
-- Quantos pacientes um psicólogo deve atender por dia?  
+- [Como Organizar a Agenda de Psicólogo](/gestao-consultorio/agenda-e-rotina/organizar-agenda-de-psicologo)  
+- [Quantos Pacientes um Psicólogo Deve Atender por Dia?](/gestao-consultorio/agenda-e-rotina/quantos-pacientes-psicologo-deve-atender-por-dia)  
 
 ---
 
-**Uma agenda sustentável não depende apenas de volume — depende também de como esse volume está distribuído ao longo da sua semana.**
+**Uma agenda sustentável não depende apenas de quantos pacientes você atende — depende também de como esse volume está distribuído ao longo da sua semana.**

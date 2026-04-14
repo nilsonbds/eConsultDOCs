@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Indicadores Financeiros para Gestão do Consultório
+# 📊 Indicadores Financeiros para Gestão do Consultório
 
 ***Gerir o financeiro do consultório com base apenas em percepção subjetiva tende a limitar a qualidade das decisões. Indicadores financeiros ajudam a transformar movimentações isoladas em informação gerencial útil.***
 

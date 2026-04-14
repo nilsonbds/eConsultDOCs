@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Como Definir Honorários com Critério na Psicologia
+# 💵 Como Definir Honorários com Critério na Psicologia
 
 ***Definir honorários não é apenas escolher um valor de mercado — é estabelecer uma precificação coerente com a estrutura, a sustentabilidade e a realidade operacional do consultório.***
 

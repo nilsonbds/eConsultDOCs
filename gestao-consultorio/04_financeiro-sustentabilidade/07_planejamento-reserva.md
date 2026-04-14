@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Planejamento Financeiro e Reserva de Segurança do Consultório
+# 🛟 Planejamento Financeiro e Reserva de Segurança do Consultório
 
 ***Mesmo consultórios bem organizados estão sujeitos a oscilações, sazonalidade e imprevistos. Planejamento financeiro e reserva de segurança ajudam a reduzir a vulnerabilidade da operação diante dessas variações.***
 

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Psicólogo Precisa de Secretária? Quando Faz Sentido Ter Apoio Administrativo
+# 👩‍💼 Psicólogo Precisa de Secretária? Quando Faz Sentido Ter Apoio Administrativo
 
 ***Nem todo consultório precisa de secretária — mas todo consultório precisa observar quando sua operação começa a ultrapassar a capacidade individual de gestão.***
 

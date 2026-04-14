@@ -100,7 +100,7 @@ o profissional pode identificar com mais clareza padrões de ausência e compree
 
 ---
 
-## Faltas não precisam ser normalizadas como “parte inevitável da rotina”
+## 🚫 Faltas não precisam ser normalizadas como “parte inevitável da rotina”
 
 Embora ausências façam parte da prática clínica, altas taxas de falta recorrente não precisam ser encaradas como algo inevitável.
 

@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Gargalos Operacionais no Crescimento do Consultório
+# 🚦 Gargalos Operacionais no Crescimento do Consultório
 
 ***Crescer em volume de atendimentos não significa necessariamente crescer de forma sustentável — sem estrutura operacional adequada, o aumento da demanda pode transformar crescimento em sobrecarga e desorganização.***
 
