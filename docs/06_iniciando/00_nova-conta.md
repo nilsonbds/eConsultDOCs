@@ -16,7 +16,7 @@ Experimente o eConsult gratuitamente e descubra como simplificar a gestão dos s
 
 ## Abrir uma nova conta
 
-1. Acesse o link [*https://econsult.app.br/multidisciplinar*](https://econsult.app.br/multidisciplinar).
+1. Acesse o link [*https://econsult.app.br/psicologia*](https://econsult.app.br/psicologia).
 
     ![Tela: Criação de nova conta](../../static/img/prints/00_nova-conta-002.png)
 

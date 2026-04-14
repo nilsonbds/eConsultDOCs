@@ -82,7 +82,7 @@ function HomepageFooter() {
                 </a>
 
                 <a
-                  href="https://econsult.app.br/multidisciplinar"
+                  href="https://econsult.app.br/psicologia"
                   target="_blank"
                   rel="noreferrer"
                   className={styles.footerAction}

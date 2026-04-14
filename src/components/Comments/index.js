@@ -159,7 +159,7 @@ export default function Comments({ postId }) {
                     Crie sua conta gratuita no eConsult e dê o primeiro passo agora!
                 </p>
                 <a
-                    href="https://econsult.app.br/multidisciplinar"
+                    href="https://econsult.app.br/psicologia"
                     style={{
                         display: 'inline-block',
                         backgroundColor: 'darkcyan',

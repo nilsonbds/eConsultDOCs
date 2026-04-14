@@ -35,7 +35,7 @@ function HighlightCard({ icon, title, description }) {
   );
 }
 
-export default function HomepageFinalCta() {
+export default function HomepageFinalCta(props) {
   return (
     <section className={styles.finalCtaSection}>
       <div className="container">
@@ -67,10 +67,19 @@ export default function HomepageFinalCta() {
           </div>
 
           <div className={styles.actions}>
-            <a href="https://econsult.app.br/multidisciplinar" className={styles.primaryButton}>
-              Começar gratuitamente
-              <LuArrowRight />
-            </a>
+            {
+              props.cta ? (
+                <a href={props.cta} className={styles.primaryButton}>
+                  Começar gratuitamente
+                  <LuArrowRight />
+                </a>
+              ) : (
+                <a href="https://econsult.app.br/psicologia" className={styles.primaryButton}>
+                  Começar gratuitamente
+                  <LuArrowRight />
+                </a>
+              )
+            }
 
             <a href="/docs/iniciando/comecando/comecando-econsult-primeiros-passos" className={styles.secondaryButton}>
               Ver como funciona →

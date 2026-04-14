@@ -201,7 +201,7 @@ const config = {
           label: 'Blog',
         },
         {
-          href: 'https://econsult.app.br/multidisciplinar',
+          href: 'https://econsult.app.br/psicologia',
           position: 'left',
           label: 'Criar uma conta',
         },

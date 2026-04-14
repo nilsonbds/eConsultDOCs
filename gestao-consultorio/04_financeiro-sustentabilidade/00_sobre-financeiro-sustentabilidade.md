@@ -95,7 +95,6 @@ Entre as perdas mais comuns estão:
 - distorções entre receita prevista e receita efetivamente realizada  
 
 Uma gestão financeira madura depende de enxergar essas perdas com clareza, em vez de tratá-las apenas como “eventos pontuais”.  
-:contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -112,7 +111,6 @@ Mas um consultório financeiramente saudável depende também de compreender:
 - qual parcela da receita prevista possui risco de não realização  
 
 A distinção entre valores realizados e valores projetados é essencial para evitar falsas percepções de saúde financeira.  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
