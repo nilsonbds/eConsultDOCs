@@ -134,14 +134,4 @@ Essa configuração ajuda a incorporar o tempo administrativo à própria lógic
 
 ---
 
-## Continue explorando
-
-Se este tema é relevante para sua rotina, você também pode se interessar por:
-
-- [Como Organizar a Agenda de Psicólogo](/gestao-consultorio/agenda-e-rotina/organizar-agenda-de-psicologo)  
-- [Como Definir Intervalos Saudáveis Entre Sessões](/gestao-consultorio/agenda-e-rotina/definir-intervalos-saudaveis-entre-sessoes)  
-- [Como Distribuir Atendimentos ao Longo da Semana Sem Sobrecarga](/gestao-consultorio/agenda-e-rotina/como-distribuir-atendimentos-ao-longo-da-semana-sem-sobrecarga)  
-
----
-
 **Reservar tempo administrativo não reduz sua produtividade — ajuda a tornar sua prática mais organizada, previsível e sustentável ao longo do tempo.**

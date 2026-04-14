@@ -141,14 +141,4 @@ Com isso, os intervalos deixam de depender de ajustes manuais e passam a fazer p
 
 ---
 
-## Continue explorando
-
-Se este tema é relevante para sua rotina, você também pode se interessar por:
-
-- [Como Organizar a Agenda de Psicólogo](/gestao-consultorio/agenda-e-rotina/organizar-agenda-de-psicologo)  
-- [Quantos Pacientes um Psicólogo Deve Atender por Dia?](/gestao-consultorio/agenda-e-rotina/quantos-pacientes-psicologo-deve-atender-por-dia)  
-- [Como Distribuir Atendimentos ao Longo da Semana Sem Sobrecarga](/gestao-consultorio/agenda-e-rotina/como-distribuir-atendimentos-ao-longo-da-semana-sem-sobrecarga)  
-
----
-
 **Intervalos bem planejados não são tempo perdido — são parte da estrutura que ajuda a sustentar uma prática clínica mais organizada, presente e saudável ao longo do tempo.**

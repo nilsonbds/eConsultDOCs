@@ -150,13 +150,4 @@ Esse tipo de planejamento ajuda a transformar a agenda em uma representação pr
 
 ---
 
-## Continue explorando
-
-Se este tema é relevante para sua rotina, você também pode se interessar por:
-
-- [Como Organizar a Agenda de Psicólogo](/gestao-consultorio/agenda-e-rotina/organizar-agenda-de-psicologo)  
-- [Quantos Pacientes um Psicólogo Deve Atender por Dia?](/gestao-consultorio/agenda-e-rotina/quantos-pacientes-psicologo-deve-atender-por-dia)  
-
----
-
 **Uma agenda sustentável não depende apenas de quantos pacientes você atende — depende também de como esse volume está distribuído ao longo da sua semana.**

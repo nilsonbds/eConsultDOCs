@@ -188,13 +188,4 @@ Isso permite que a agenda passe a refletir uma **estrutura planejada de disponib
 
 ---
 
-## Continue explorando
-
-Se este tema é relevante para sua rotina, você também pode se interessar por:
-
-- [Quantos Pacientes um Psicólogo Deve Atender por Dia?](/gestao-consultorio/agenda-e-rotina/quantos-pacientes-psicologo-deve-atender-por-dia)  
-- [Como Distribuir Atendimentos ao Longo da Semana Sem Sobrecarga](/gestao-consultorio/agenda-e-rotina/como-distribuir-atendimentos-ao-longo-da-semana-sem-sobrecarga)  
-
----
-
 **Organizar a agenda não significa apenas preencher horários — significa estruturar uma rotina clínica capaz de sustentar sua prática com qualidade, previsibilidade e equilíbrio ao longo do tempo.**

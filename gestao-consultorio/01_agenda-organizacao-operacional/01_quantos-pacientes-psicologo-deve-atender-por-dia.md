@@ -152,15 +152,4 @@ Ao estruturar previamente:
 
 torna-se mais fácil visualizar se a agenda planejada está compatível com a capacidade que se deseja sustentar.
 
----
-
-## Continue explorando
-
-Se este tema é relevante para sua rotina, você também pode se interessar por:
-
-- [Como Organizar a Agenda de Psicólogo](/gestao-consultorio/agenda-e-rotina/organizar-agenda-de-psicologo)  
-- [Como Distribuir Atendimentos ao Longo da Semana Sem Sobrecarga](/gestao-consultorio/agenda-e-rotina/como-distribuir-atendimentos-ao-longo-da-semana-sem-sobrecarga)  
-
----
-
 **Definir sua carga de atendimentos é menos sobre seguir números externos e mais sobre compreender quais limites permitem sustentar sua prática com qualidade ao longo do tempo.**
