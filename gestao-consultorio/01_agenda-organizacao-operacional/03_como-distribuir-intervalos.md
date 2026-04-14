@@ -1,8 +1,9 @@
 ---
 sidebar_position: 3
+title: "⏳ Como Definir Intervalos Saudáveis Entre Sessões"
 ---
 
-# ⏳ Como Definir Intervalos Saudáveis Entre Sessões
+# Como Definir Intervalos Saudáveis Entre Sessões
 ***Reflexões para estruturar pausas e transições de forma mais sustentável na rotina clínica.***
 
 Ao organizar a agenda do consultório, muitos profissionais concentram sua atenção apenas no número de atendimentos e na ocupação dos horários disponíveis.

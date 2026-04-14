@@ -1,8 +1,9 @@
 ---
 sidebar_position: 0
+title: "⚙️ Sobre Operação e Apoio Administrativo no Consultório Psicológico"
 ---
 
-# ⚙️ Sobre Operação e Apoio Administrativo no Consultório Psicológico
+# Sobre Operação e Apoio Administrativo no Consultório Psicológico
 
 ***Uma prática clínica sustentável depende não apenas de boa condução técnica, mas também de uma operação administrativa capaz de sustentar a rotina do consultório de forma organizada e eficiente.***
 

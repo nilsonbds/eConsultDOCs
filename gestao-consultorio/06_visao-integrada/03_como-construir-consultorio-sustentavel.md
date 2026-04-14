@@ -1,8 +1,9 @@
 ---
 sidebar_position: 3
+title: "🌱 Como Construir um Consultório Psicologicamente Sustentável"
 ---
 
-# 🌱 Como Construir um Consultório Psicologicamente Sustentável
+# Como Construir um Consultório Psicologicamente Sustentável
 
 ***Um consultório sustentável não é apenas financeiramente viável — é uma prática que pode ser mantida ao longo do tempo sem exigir níveis crônicos de sobrecarga, desgaste ou improviso para continuar funcionando.***
 

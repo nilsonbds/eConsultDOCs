@@ -1,8 +1,9 @@
 ---
 sidebar_position: 7
+title: "🎯 Como Centralizar a Comunicação Operacional no Consultório Psicológico"
 ---
 
-# 🎯 Como Centralizar a Comunicação Operacional no Consultório Psicológico
+# Como Centralizar a Comunicação Operacional no Consultório Psicológico
 ***Reflexões sobre centralização de informações, redução de comunicação fragmentada e organização da experiência operacional no consultório psicológico.***
 
 Em muitos consultórios, a comunicação operacional com pacientes acontece de forma dispersa entre diferentes canais e ferramentas.

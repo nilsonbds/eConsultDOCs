@@ -1,8 +1,9 @@
 ---
 sidebar_position: 0
+title: "💰 Sobre Sustentabilidade Financeira do Consultório Psicológico"
 ---
 
-# 💰 Sobre Sustentabilidade Financeira do Consultório Psicológico
+# Sobre Sustentabilidade Financeira do Consultório Psicológico
 
 ***Sustentabilidade financeira não significa apenas faturar mais — significa construir uma operação economicamente estável, previsível e capaz de sustentar a prática clínica ao longo do tempo.***
 

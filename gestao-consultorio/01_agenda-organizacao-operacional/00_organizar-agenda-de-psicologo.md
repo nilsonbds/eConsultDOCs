@@ -1,8 +1,9 @@
 ---
 sidebar_position: 0
+title: "📅 Como Organizar a Agenda de Psicólogo"
 ---
 
-# 📅 Como Organizar a Agenda de Psicólogo
+# Como Organizar a Agenda de Psicólogo
 ***Estrutura, previsibilidade e sustentabilidade para construir uma rotina clínica mais equilibrada.***
 
 Organizar a agenda do consultório vai muito além de preencher horários disponíveis.

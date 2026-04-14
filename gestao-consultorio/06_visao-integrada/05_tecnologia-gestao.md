@@ -1,8 +1,9 @@
 ---
 sidebar_position: 5
+title: "💻 Tecnologia na Gestão do Consultório Psicológico"
 ---
 
-# 💻 Tecnologia na Gestão do Consultório Psicológico
+# Tecnologia na Gestão do Consultório Psicológico
 
 ***Tecnologia não substitui gestão — mas pode ampliar significativamente a capacidade do profissional de organizar, acompanhar e sustentar a operação do consultório.***
 

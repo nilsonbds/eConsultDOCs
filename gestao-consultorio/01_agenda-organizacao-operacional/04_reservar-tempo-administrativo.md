@@ -1,8 +1,9 @@
 ---
 sidebar_position: 4
+title: "📝 Como Reservar Tempo Administrativo na Agenda Clínica"
 ---
 
-# 📝 Como Reservar Tempo Administrativo na Agenda Clínica
+# Como Reservar Tempo Administrativo na Agenda Clínica
 ***Reflexões para integrar atividades não clínicas à rotina do consultório de forma mais organizada e sustentável.***
 
 Ao estruturar a agenda do consultório, muitos profissionais concentram seu planejamento apenas nos horários de atendimento.

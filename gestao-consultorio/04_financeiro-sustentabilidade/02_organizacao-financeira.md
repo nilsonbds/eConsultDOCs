@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
+title: "📂 Organização Financeira do Consultório"
 ---
 
-# 📂 Organização Financeira do Consultório
+# Organização Financeira do Consultório
 
 ***Organizar o financeiro do consultório vai além de registrar pagamentos: significa estruturar uma visão clara, realista e contínua sobre a operação financeira da prática clínica.***
 

@@ -1,8 +1,9 @@
 ---
 sidebar_position: 6
+title: "🗂️ Como Organizar Canais de Comunicação no Consultório"
 ---
 
-# 🗂️ Como Organizar Canais de Comunicação no Consultório
+# Como Organizar Canais de Comunicação no Consultório
 ***Reflexões sobre estruturação de canais, definição de finalidades e organização da comunicação operacional no consultório psicológico.***
 
 À medida que a rotina do consultório se digitaliza, torna-se comum que a comunicação com pacientes se distribua por múltiplos canais: WhatsApp, e-mail, telefone, formulários, mensagens automáticas, portais e plataformas diversas.

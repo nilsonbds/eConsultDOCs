@@ -1,8 +1,9 @@
 ---
 sidebar_position: 4
+title: "🏢 Quando Seu Consultório Precisa de Apoio Operacional"
 ---
 
-# 🏢 Quando Seu Consultório Precisa de Apoio Operacional
+# Quando Seu Consultório Precisa de Apoio Operacional
 
 ***A necessidade de apoio operacional raramente surge de forma abrupta — ela costuma aparecer gradualmente, à medida que a complexidade da operação começa a ultrapassar a capacidade individual de gestão.***
 

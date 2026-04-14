@@ -1,8 +1,9 @@
 ---
 sidebar_position: 5
+title: "⚖️ Exemplos de Agenda Semanal Equilibrada para Psicólogos"
 ---
 
-# ⚖️ Exemplos de Agenda Semanal Equilibrada para Psicólogos
+# Exemplos de Agenda Semanal Equilibrada para Psicólogos
 ***Modelos ilustrativos de distribuição semanal da agenda clínica para ajudar na organização de uma rotina mais sustentável e compatível com diferentes perfis de prática profissional.***
 
 Definir quantos pacientes atender por semana é apenas parte da organização da agenda clínica.

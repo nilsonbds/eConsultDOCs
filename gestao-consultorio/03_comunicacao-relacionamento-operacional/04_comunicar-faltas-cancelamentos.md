@@ -1,8 +1,9 @@
 ---
 sidebar_position: 4
+title: "📢 Como Comunicar Política de Faltas e Cancelamentos"
 ---
 
-# 📢 Como Comunicar Política de Faltas e Cancelamentos
+# Como Comunicar Política de Faltas e Cancelamentos
 ***Reflexões sobre alinhamento de regras, clareza de processos e boas práticas para comunicar políticas de faltas e cancelamentos no consultório psicológico.***
 
 A política de faltas e cancelamentos é uma das regras operacionais mais relevantes na organização de muitos consultórios psicológicos.

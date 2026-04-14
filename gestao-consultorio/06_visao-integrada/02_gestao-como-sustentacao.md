@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
+title: "🏗️ Gestão Como Sustentação da Prática Psicológica"
 ---
 
-# 🏗️ Gestão Como Sustentação da Prática Psicológica
+# Gestão Como Sustentação da Prática Psicológica
 
 ***A prática psicológica não se sustenta apenas por competência clínica — ela depende também de uma estrutura organizacional capaz de viabilizar, proteger e sustentar seu exercício ao longo do tempo.***
 

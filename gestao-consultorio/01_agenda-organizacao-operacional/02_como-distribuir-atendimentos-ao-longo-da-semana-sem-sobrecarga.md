@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
+title: "🗓️ Como Distribuir Atendimentos ao Longo da Semana Sem Sobrecarga"
 ---
 
-# 🗓️ Como Distribuir Atendimentos ao Longo da Semana Sem Sobrecarga
+# Como Distribuir Atendimentos ao Longo da Semana Sem Sobrecarga
 ***Reflexões para estruturar uma agenda semanal mais equilibrada, previsível e sustentável.***
 
 Definir quantos pacientes atender por semana é apenas parte da organização da rotina clínica.

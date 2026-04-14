@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
+title: "↗️ O Que Delegar no Consultório Psicológico"
 ---
 
-# ↗️ O Que Delegar no Consultório Psicológico
+# O Que Delegar no Consultório Psicológico
 
 ***Delegar não significa transferir indiscriminadamente tarefas — significa distribuir responsabilidades operacionais de forma criteriosa, preservando a atuação técnica do profissional e aumentando a eficiência da operação.***
 

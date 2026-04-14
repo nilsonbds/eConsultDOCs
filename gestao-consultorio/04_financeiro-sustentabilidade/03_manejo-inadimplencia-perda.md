@@ -1,8 +1,9 @@
 ---
 sidebar_position: 3
+title: "⚠️ Manejo da Inadimplência e das Perdas no Consultório"
 ---
 
-# ⚠️ Manejo da Inadimplência e das Perdas no Consultório
+# Manejo da Inadimplência e das Perdas no Consultório
 
 ***Nem todo atraso representa uma perda — mas toda inadimplência sem manejo estruturado tende a comprometer a previsibilidade e a sustentabilidade financeira do consultório.***
 

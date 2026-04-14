@@ -1,8 +1,9 @@
 ---
 sidebar_position: 4
+title: "🤝 Como Melhorar a Retenção de Pacientes na Psicologia"
 ---
 
-# 🤝 Como Melhorar a Retenção de Pacientes na Psicologia
+# Como Melhorar a Retenção de Pacientes na Psicologia
 ***Reflexões sobre fatores que influenciam a permanência dos pacientes em acompanhamento e a sustentabilidade do consultório psicológico ao longo do tempo.***
 
 A permanência dos pacientes em acompanhamento influencia diretamente a previsibilidade, a estabilidade e a sustentabilidade de um consultório psicológico.

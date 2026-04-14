@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
+title: "👥 Quantos Pacientes um Psicólogo Deve Atender por Dia?"
 ---
 
-# 👥 Quantos Pacientes um Psicólogo Deve Atender por Dia?
+# Quantos Pacientes um Psicólogo Deve Atender por Dia?
 ***Reflexões para definir uma carga de atendimentos compatível com sua capacidade clínica, sua rotina e sua sustentabilidade profissional.***
 
 Não existe um número universal de pacientes que todo psicólogo “deve” atender por dia.
