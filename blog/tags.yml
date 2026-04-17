@@ -258,3 +258,8 @@ monitoramento-clinico:
     Abordagens e ferramentas para acompanhamento contínuo do paciente,
     incluindo uso de indicadores, escalas, registros estruturados e análise longitudinal
     para suporte à prática clínica baseada em dados.
+
+tcc:
+  label: TCC
+  permalink: /tcc
+  description: Informações e conteúdos relacionados à Terapia Cognitivo-Comportamental, prática clínica baseada em evidências, acompanhamento terapêutico e recursos para psicólogos que utilizam TCC.
