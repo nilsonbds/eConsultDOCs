@@ -186,6 +186,9 @@ Com esse recurso, é possível configurar:
 
 Isso permite que a agenda passe a refletir uma **estrutura planejada de disponibilidade clínica**, em vez de depender apenas de encaixes manuais.
 
+
+👉 Veja aqui como planejar sua agenda utilizando o recurso do eConsult [Disponibilidades](/docs/funcionalidades/configuracoes/agenda/carga-horária-semanal).
+
 ---
 
 **Organizar a agenda não significa apenas preencher horários — significa estruturar uma rotina clínica capaz de sustentar sua prática com qualidade, previsibilidade e equilíbrio ao longo do tempo.**
