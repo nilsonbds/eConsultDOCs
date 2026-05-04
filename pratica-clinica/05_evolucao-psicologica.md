@@ -1,17 +1,30 @@
 ---
 id: 02_evolucao-psicologica
-title: "Evolução Psicológica: exemplos, modelo e como analisar no prontuário"
+title: "Evolução Psicológica: Exemplo Prático + Modelo (Como Fazer na Clínica)"
 slug: "/evolucao-psicologica"
 sidebar_position: 5
-description: "Veja exemplo de evolução psicológica pronto, modelo para prontuário e como analisar a evolução clínica na prática."
-
+description: "Veja exemplo de evolução psicológica com modelo pronto para prontuário e aprenda como fazer e analisar na prática clínica."
 ---
 
 ![Prontuário Psicológico: guia completo, modelos, boas práticas e exigências do CFP](../static/img/pratica_clinica/banner-evolucao-psicologica.png)
 
-# Evolução psicológica
+# Evolução Psicológica: Exemplo Prático, Modelo e Como Fazer
 
-**Exemplo de evolução psicológica + modelo para prontuário clínico.**
+## O que é evolução psicológica (explicação rápida)
+
+A evolução psicológica é o registro da progressão clínica do paciente ao longo do tempo.
+
+Na prática, ela responde a uma pergunta central:
+
+👉 o paciente está melhorando, piorando ou mantendo o padrão?
+
+Neste guia você verá:
+- um exemplo prático  
+- um modelo para prontuário  
+- como fazer evolução psicológica passo a passo  
+- como analisar a evolução na prática clínica  
+
+> ⚠️ Importante: aqui estamos falando da evolução psicológica clínica (do paciente), e não da evolução histórica da psicologia como ciência.
 
 ---
 
@@ -79,6 +92,20 @@ Com estrutura:
 
 👉 O modelo não organiza apenas o registro —  
 ele organiza o raciocínio clínico.
+
+---
+
+## 🛠️ Como fazer evolução psicológica (passo a passo)
+
+Na prática, você pode seguir esta estrutura:
+
+1. Descreva o contexto da sessão  
+2. Identifique mudanças em relação às sessões anteriores  
+3. Faça a avaliação clínica  
+4. Defina a direção (melhora, piora ou estabilidade)  
+5. Registre o plano terapêutico  
+
+👉 Essa estrutura evita registros soltos e facilita a leitura clínica ao longo do tempo.
 
 ---
 
