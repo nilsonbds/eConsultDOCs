@@ -1,10 +1,12 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Cadastre seus pacientes e grupos terapêuticos
 
-⏱️ Leva menos de 1 minuto para cadastrar um paciente
+👥 Cadastre seus pacientes e grupos para começar seus atendimentos no eConsult.
+
+Leva menos de 1 minuto para cadastrar um paciente
 
 O primeiro passo no eConsult é simples:
 
@@ -12,6 +14,12 @@ O primeiro passo no eConsult é simples:
 
 Não precisa migrar tudo de uma vez.  
 Comece com **2 ou 3 pacientes ativos** — isso já é suficiente para começar a usar o sistema na prática.
+
+---
+
+## 🎞️ Vídeo rápido (recomendado)
+
+👉 (adicione aqui um vídeo curto de 15–30s mostrando o fluxo)
 
 ---
 
@@ -60,6 +68,8 @@ Você pode complementar as informações depois.
 
 ## 👥 Como cadastrar grupos terapêuticos
 
+> 💡 Se você trabalha com casais, famílias ou grupos terapêuticos, essa organização ajuda a manter vínculos, registros e acompanhamentos mais claros ao longo do tempo.
+
 Se você trabalha com grupos, o eConsult também permite organizar isso de forma estruturada.
 
 ### Para criar um grupo terapêutico:
@@ -90,7 +100,7 @@ Antes de criar o grupo, certifique-se de que todos os participantes já estão c
 
 Porque tudo no eConsult gira em torno disso:
 
-- Pacientes/Grupos → atendimentos → registros → evolução
+- pacientes/grupos → atendimentos → registros → evolução
 
 Ao cadastrar seus primeiros pacientes e/ou grupos, você já desbloqueia:
 
@@ -122,8 +132,8 @@ Isso vai permitir que você comece a usar o eConsult no seu fluxo real de atendi
 
 ---
 
-## 🎞️ Vídeo rápido (recomendado)
+## 👉 Próximo passo
 
-👉 (adicione aqui um vídeo curto de 15–30s mostrando o fluxo)
+Continue para o próximo item dos primeiros passos:
 
----
+👉 [03 agendamento-de-multiplos-atendimentos](./03_agendamento-de-multiplos-atendimentos.md)

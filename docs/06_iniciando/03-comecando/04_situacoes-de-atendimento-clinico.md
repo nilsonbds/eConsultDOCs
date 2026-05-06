@@ -1,14 +1,24 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Acompanhe sua rotina
+
+📌 Acompanhe sua rotina clínica de forma mais organizada e prática.
+
+> 💡 Manter os atendimentos organizados facilita não apenas a rotina administrativa, mas também a continuidade do processo terapêutico.
 
 Agora que você já tem pacientes cadastrados e sua agenda organizada, surge uma pergunta natural:
 
 👉 **o que precisa ser feito agora?**
 
 O painel de **Situações de Atendimento** responde exatamente isso.
+
+---
+
+## 🎞️ Vídeo rápido (recomendado)
+
+👉 (adicione aqui um vídeo curto mostrando:)
 
 ---
 
@@ -128,11 +138,3 @@ Uma boa forma de usar:
 Agora que sua rotina está organizada:
 
 👉 **Acompanhe os resultados administrativos e financeiros do seu consultório**
-
----
-
-## 🎞️ Vídeo rápido (recomendado)
-
-👉 (adicione aqui um vídeo curto mostrando:)
-
----

@@ -1,16 +1,26 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Organize sua agenda
+
+📅 Organize sua agenda para estruturar sua rotina de atendimentos.
+
+> 💡 Com poucos cliques, você consegue agendar várias sessões de um paciente de uma só vez.
+
+> 💡 Manter os atendimentos organizados facilita não apenas a rotina administrativa, mas também a continuidade do processo terapêutico.
 
 Agora que você já cadastrou seus pacientes, o próximo passo é simples:
 
 👉 **montar sua agenda real de atendimentos**
 
-Com poucos cliques, você consegue agendar várias sessões de um paciente de uma só vez.
-
 ⏱️ Leva menos de 1 minuto
+
+---
+
+## 🎞️ Vídeo rápido (recomendado)
+
+👉 (adicione aqui um vídeo curto de 15–30s mostrando o fluxo)
 
 ---
 
@@ -96,21 +106,11 @@ Você pode ajustar horários e detalhes depois.
 
 ---
 
-## ⚠️ O que o sistema já faz automaticamente
-
-- Evita horários em **recessos**
-- Identifica **feriados**
-- Sugere horários com base nas suas disponibilidades
-
-👉 Isso reduz erros de agendamento.
-
----
-
 ## 🎯 Por que isso é importante?
 
 Porque a agenda é o centro do seu fluxo:
 
-- Agenda → atendimentos → registros → evolução clínica
+- agenda → atendimentos → registros → evolução clínica
 
 Ao organizar sua agenda, você já começa a usar o eConsult de forma real.
 
@@ -135,8 +135,8 @@ Agora que sua agenda está organizada:
 
 ---
 
-## 🎞️ Vídeo rápido (recomendado)
+## 👉 Próximo passo
 
-👉 (adicione aqui um vídeo curto de 15–30s mostrando o fluxo)
+Continue para o próximo item dos primeiros passos:
 
----
+👉 [04 situacoes-de-atendimento-clinico](./04_situacoes-de-atendimento-clinico.md)

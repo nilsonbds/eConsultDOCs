@@ -1,8 +1,12 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 # Organize o prontuário
+
+🗂️ Organize o prontuário dos seus pacientes de forma prática e estruturada.
+
+> 💡 Ao longo do tempo, um prontuário organizado facilita consultas, continuidade clínica e recuperação de informações importantes.
 
 Agora que você já:
 
@@ -13,6 +17,14 @@ Agora que você já:
 É hora de centralizar tudo:
 
 👉 no **Prontuário Eletrônico**
+
+---
+
+## 🎞️ Vídeo rápido (recomendado)
+
+👉 (adicione aqui um vídeo curto mostrando:) 
+
+- gerando um prontuário
 
 ---
 

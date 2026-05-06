@@ -1,8 +1,16 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
-# Acompanhe a evolução dos pacientes
+# Acompanhe a evolução
+
+📈 Acompanhe a evolução clínica dos seus pacientes ao longo do tempo.
+
+> 💡 Nem sempre é fácil perceber evolução
+
+> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo., oscilação ou risco olhando sessões isoladas. A leitura longitudinal ajuda justamente nisso.
+
+> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo. dos pacientes
 
 Agora que você já está:
 
@@ -12,7 +20,17 @@ Agora que você já está:
 
 Chegamos no ponto mais importante do eConsult:
 
-👉 **acompanhar a evolução clínica ao longo do tempo**
+👉 **acompanhar a evolução
+
+> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo. clínica ao longo do tempo**
+
+---
+
+## 🎞️ Vídeo rápido (recomendado)
+
+👉 (adicione aqui um vídeo curto mostrando:)
+
+- acompanhamento da evolução clínica
 
 ---
 
@@ -187,7 +205,9 @@ Na aba **Síntese**, você consegue ver:
 - mudanças ao longo do tempo  
 - padrões clínicos  
 - momentos de risco  
-- evolução real do paciente  
+- evolução
+
+> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo. real do paciente  
 
 ---
 
@@ -215,7 +235,9 @@ Porque a maioria dos sistemas:
 
 O eConsult:
 
-✔ ajuda você a **entender a evolução**  
+✔ ajuda você a **entender a evolução
+
+> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo.**  
 ✔ integra dados clínicos + comportamentais  
 ✔ apoia sua tomada de decisão  
 
@@ -228,7 +250,9 @@ Faça um teste simples:
 1. Abra o painel de acompanhamento  
 2. Escolha 1 paciente  
 3. Analise o card  
-4. Clique para ver a evolução  
+4. Clique para ver a evolução
+
+> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo.  
 
 👉 Você já vai perceber padrões que antes não estavam claros
 
@@ -252,3 +276,11 @@ Agora que você já consegue acompanhar seus pacientes:
 👉 **Utilize os insights para conduzir melhor seus atendimentos**
 
 É aqui que o eConsult realmente se torna parte da sua prática clínica.
+
+---
+
+## 👉 Próximo passo
+
+Continue para o próximo item dos primeiros passos:
+
+👉 [08 prontuario-eletronico](./08_prontuario-eletronico.md)

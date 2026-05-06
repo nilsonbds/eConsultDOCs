@@ -1,8 +1,12 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Registre suas anotações
+
+📝 Registre suas anotações clínicas de forma organizada e segura.
+
+> 💡 Muitas mudanças clínicas acontecem de forma gradual. Os marcadores ajudam justamente a tornar essas mudanças mais perceptíveis ao longo do tempo.
 
 Agora chegamos em uma das partes mais importantes do eConsult:
 
@@ -11,6 +15,14 @@ Agora chegamos em uma das partes mais importantes do eConsult:
 No eConsult, você pode registrar suas anotações de forma diferente do modelo tradicional:
 
 👉 utilizando **marcadores clínicos como base**
+---
+
+## 🎞️ Vídeo rápido (recomendado)
+
+👉 (adicione aqui um vídeo curto mostrando:)
+
+- registro de anotações  
+- estruturando anotações com SOAP
 
 ---
 
@@ -85,8 +97,6 @@ Agora que os marcadores estão definidos:
 
 ![Anotações do atendimento](../../../static/img/prints/atendimento/047.png)
 
----
-
 2. Clique em **Incluir anotação**
 
 3. Selecione a opção:
@@ -105,7 +115,9 @@ O eConsult irá:
 
 - utilizar os marcadores que você registrou  
 - organizar o conteúdo em formato clínico  
-- gerar uma anotação estruturada (SOAP)  
+- gerar uma anotação estruturada (SOAP
+
+> 💡 Pequenos registros recorrentes costumam gerar uma leitura clínica mais rica do que anotações extensas feitas apenas de forma esporádica.)  
 
 ![Anotações do atendimento](../../../static/img/prints/atendimento/099.png)
 
@@ -173,3 +185,11 @@ Agora que você já está registrando clinicamente suas sessões realizadas:
 👉 **Acompanhe a evolução do paciente no painel longitudinal**
 
 É lá que tudo isso começa a fazer sentido.
+
+---
+
+## 👉 Próximo passo
+
+Continue para o próximo item dos primeiros passos:
+
+👉 [07 acompanhamento-clinico-longitudinal](./07_acompanhamento-clinico-longitudinal.md)

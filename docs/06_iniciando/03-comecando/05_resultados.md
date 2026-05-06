@@ -1,14 +1,28 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Entenda seus resultados
+
+📊 Entenda seus resultados e acompanhe indicadores da sua prática clínica.
+
+> 💡 Acompanhar resultados ao longo do tempo ajuda a transformar informações isoladas em uma leitura mais clara da prática clínica.
 
 Agora que você já está utilizando o sistema no dia a dia, surge uma nova necessidade:
 
 👉 **entender como está seu consultório**
 
 O painel de **Resultados** te ajuda a enxergar isso de forma clara, visual e prática.
+
+---
+
+## 🎞️ Vídeo rápido (recomendado)
+
+👉 (adicione aqui um vídeo curto mostrando:)
+
+- troca entre abas  
+- leitura rápida de gráficos  
+- seleção de mês  
 
 ---
 
@@ -141,12 +155,8 @@ Isso vai permitir acompanhar também a evolução clínica dos pacientes.
 
 ---
 
-## 🎞️ Vídeo rápido (recomendado)
+## 👉 Próximo passo
 
-👉 (adicione aqui um vídeo curto mostrando:)
+Continue para o próximo item dos primeiros passos:
 
-- troca entre abas  
-- leitura rápida de gráficos  
-- seleção de mês  
-
----
+👉 [06 anotacoes-clinicas-com-marcadores-clinicos](./06_anotacoes-clinicas-com-marcadores-clinicos.md)
