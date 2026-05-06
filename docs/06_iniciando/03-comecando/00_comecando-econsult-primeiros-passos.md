@@ -33,7 +33,7 @@ Comece cadastrando seus pacientes ativos.
 
 Se você trabalha com grupos, também pode cadastrar seus **grupos terapêuticos**.
 
-👉 [Esse é o primeiro passo para estruturar seu atendimento dentro do sistema.](./01_pacientes-grupos-terapeuticos.md)
+👉 [Esse é o primeiro passo para estruturar seu atendimento dentro do sistema.](./02_pacientes-grupos-terapeuticos.md)
 
 ---
 
@@ -46,7 +46,7 @@ Você pode:
 - Organizar sua rotina semanal
 - Visualizar sua disponibilidade
 
-👉 [Aqui você já começa a usar o eConsult como seu sistema principal.](./02_agendamento-de-multiplos-atendimentos.md)
+👉 [Aqui você já começa a usar o eConsult como seu sistema principal.](./03_agendamento-de-multiplos-atendimentos.md)
 
 ---
 
@@ -71,7 +71,7 @@ Você pode clicar em cada situação para ver os detalhes e executar ações com
 - acompanhar pagamentos  
 - entrar em contato com pacientes  
 
-👉 Ele funciona como seu [centro de controle operacional da rotina clínica](/docs/iniciando/comecando/situacoes-de-atendimento-clinico).
+👉 Ele funciona como seu [centro de controle operacional da rotina clínica](./04_situacoes-de-atendimento-clinico.md).
 
 ---
 
@@ -83,7 +83,7 @@ No painel de **Resultados**, você acompanha:
 - Indicadores administrativos
 - Visão geral da sua operação
 
-👉 Aqui você começa a ter [clareza sobre o funcionamento do seu consultório](/docs/iniciando/comecando/resultados).
+👉 Aqui você começa a ter [clareza sobre o funcionamento do seu consultório](./05_resultados.md).
 
 ---
 
@@ -100,7 +100,7 @@ No eConsult, isso pode ser feito com apoio dos **marcadores clínicos**, que aju
 
 ✨ Esse é um dos principais diferenciais do sistema.
 
-👉 Veja como [registrar anotação clínica do atendimento usando marcadores clínicos](/docs/iniciando/comecando/anotacoes-clinicas-com-marcadores-clinicos).
+👉 Veja como [registrar anotação clínica do atendimento usando marcadores clínicos](./06_anotacoes-clinicas-com-marcadores-clinicos.md).
 
 ---
 
@@ -112,7 +112,7 @@ Utilize o **Acompanhamento Longitudinal do Paciente** para visualizar:
 - Mudanças de padrão
 - Tendências clínicas
 
-👉 [Aqui o eConsult deixa de ser apenas um prontuário e passa a ser uma ferramenta de análise clínica.](/docs/iniciando/comecando/acompanhamento-clinico-longitudinal)
+👉 [Aqui o eConsult deixa de ser apenas um prontuário e passa a ser uma ferramenta de análise clínica.](./07_acompanhamento-clinico-longitudinal.md)
 
 ---
 
@@ -125,7 +125,7 @@ Para consolidar o aprendizado, escolha um paciente e:
 - Utilize os marcadores clínicos
 - Visualize os resultados
 
-👉 [Esse exercício ajuda você a entender o fluxo completo na prática](/docs/iniciando/comecando/prontuario-eletronico)
+👉 [Esse exercício ajuda você a entender o fluxo completo na prática](./08_prontuario-eletronico.md)
 
 ---
 
