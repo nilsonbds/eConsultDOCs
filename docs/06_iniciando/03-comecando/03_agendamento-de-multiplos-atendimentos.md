@@ -32,7 +32,7 @@ Em vez de cadastrar sessão por sessão, você pode:
 ✔ Definir frequência (semanal, quinzenal, mensal)  
 ✔ Organizar sua agenda do mês inteiro em segundos  
 
-👉 Isso economiza tempo e reduz erros.
+👉 Isso economiza tempo e ajuda a manter sua agenda organizada.
 
 ---
 
@@ -52,7 +52,7 @@ Em vez de cadastrar sessão por sessão, você pode:
 4. Informe a **quantidade de atendimentos** (Qtde.)
 5. Defina a data inicial em **A partir de**
 6. Escolha o dia da semana em **A primeira**
-7. Informa os horário de início e fim dos atendimentos **das** e **às**
+7. Informa os horários de início e fim dos atendimentos **das** e **às**
 8. Escolha a **periodicidade**:
    - Semanal
    - Quinzenal
@@ -95,7 +95,7 @@ Antes de finalizar:
 
 ## 💡 Dica importante
 
-Você não precisa configurar tudo perfeitamente agora.
+Você não precisa deixar sua agenda perfeita agora.
 
 O mais importante é:
 
@@ -108,7 +108,7 @@ Você pode ajustar horários e detalhes depois.
 
 ## 🎯 Por que isso é importante?
 
-Porque a agenda é o centro do seu fluxo:
+Porque a agenda conecta toda a sua rotina clínica:
 
 - agenda → atendimentos → registros → evolução clínica
 
@@ -127,16 +127,31 @@ Uma boa forma de começar:
 
 ---
 
+## 📚 Manual completo da Agenda e Atendimentos
+
+Quer explorar mais recursos relacionados à agenda e aos atendimentos?
+
+No manual completo você encontra orientações sobre:
+
+- interação e navegação da agenda
+- cards de atendimentos
+- desmarcações, remarcações e exclusões
+- confirmação e realização de atendimentos
+- modalidades presencial e remota
+- avaliações psicológicas vinculadas
+- anotações clínicas
+- arquivos do atendimento
+- marcadores clínicos
+- informes de presença e pagamentos
+- recebimentos de valores
+- teleatendimento
+
+👉 [Acessar manual completo da Agenda](/docs/atendimentos)
+
+---
+
 ## ▶️ Próximo passo
 
 Agora que sua agenda está organizada:
 
-👉 **Utilize o painel de Acompanhamento de Atendimentos para visualizar tarefas e pendências**
-
----
-
-## 👉 Próximo passo
-
-Continue para o próximo item dos primeiros passos:
-
-👉 [04 situacoes-de-atendimento-clinico](./04_situacoes-de-atendimento-clinico.md)
+👉 [Acompanhe sua rotina](./04_situacoes-de-atendimento-clinico.md)

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Complete seus dados profissionais e pessoais no eConsult
 
-👤 Complete seus dados para aproveitar melhor o eConsult.
+👤 Complete seus dados para utilizar melhor os recursos do eConsult.
 
 > 💡 Leva menos de 1 minuto para concluir seu cadastro inicial.
 
@@ -44,9 +44,9 @@ Recomendamos preencher corretamente:
 - Celular  
 - E-mail  
 
-⚠️ Garanta que telefone, celular e e-mail estejam corretos, pois essas informações podem ser utilizadas em comunicações, lembretes e documentos gerados pelo sistema.
+💡 Garanta que telefone, celular e e-mail estejam corretos, pois essas informações podem ser utilizadas em comunicações, lembretes e documentos gerados pelo sistema.
 
-⚠️ Se sua especialidade for Psicologia, não equeça de selecionar uma abordagem.
+⚠️ Se sua especialidade for Psicologia, não esqueça de selecionar uma abordagem.
 
 ---
 
@@ -83,6 +83,24 @@ Nesse início, o mais importante é:
 
 As demais informações podem ser complementadas depois, conforme você for utilizando o sistema.
 
+---
+
+## 📚 Manual completo do painel "Sua conta"
+
+Quer acessar mais configurações e recursos da sua conta?
+
+No manual completo você encontra orientações sobre:
+
+- foto de perfil
+- logotipo do consultório
+- assistentes e permissões
+- assinaturas e pagamentos
+- exportação e backup de dados
+- restauração de dados
+- assistentes
+- configurações adicionais da conta
+
+👉 [Acessar manual completo da Conta](/docs/conta)
 
 ---
 
@@ -90,4 +108,4 @@ As demais informações podem ser complementadas depois, conforme você for util
 
 Continue para o próximo item dos primeiros passos:
 
-👉 [02 pacientes-grupos-terapeuticos](./02_pacientes-grupos-terapeuticos.md)
+👉 [Cadastre seus pacientes e grupos terapêuticos](./02_pacientes-grupos-terapeuticos.md)

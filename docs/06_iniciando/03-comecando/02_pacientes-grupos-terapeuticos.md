@@ -6,11 +6,11 @@ sidebar_position: 2
 
 👥 Cadastre seus pacientes e grupos para começar seus atendimentos no eConsult.
 
-Leva menos de 1 minuto para cadastrar um paciente
+> 💡 Leva menos de 1 minuto para cadastrar um paciente.
 
 O primeiro passo no eConsult é simples:
 
-👉 começar a utilizar o sistema com seus pacientes reais
+👉 começar a utilizar o eConsult no seu fluxo clínico real
 
 Não precisa migrar tudo de uma vez.  
 Comece com **2 ou 3 pacientes ativos** — isso já é suficiente para começar a usar o sistema na prática.
@@ -44,12 +44,12 @@ Cadastrar um paciente é rápido e direto.
 
 4. Salve o cadastro ![Incluir novo paciente ou grupo](../../../static/img/prints/buttons/btn_add.png).
 
-👉 Pronto. Seu paciente já está disponível para:
+👉 Pronto. Agora você já pode utilizar esse paciente em:
 - agendamentos
 - registros clínicos
 - acompanhamento longitudinal
 
-👉 Experimente cadastrar um paciente agora antes de seguir.
+🚀 Experimente cadastrar agora 1 paciente real antes de continuar.
 
 ---
 
@@ -122,13 +122,28 @@ Isso já é suficiente para seguir para o próximo passo.
 
 ---
 
-## ▶️ Próximo passo
+## 📚 Manual completo de Pacientes e Grupos Terapêuticos
 
-Agora que você já tem pacientes cadastrados:
+Quer explorar mais recursos relacionados aos pacientes e grupos terapêuticos?
 
-👉 **Organize sua agenda utilizando os agendamentos múltiplos**
+No manual completo você encontra orientações sobre:
 
-Isso vai permitir que você comece a usar o eConsult no seu fluxo real de atendimentos.
+- síntese clínica do paciente/grupo
+- emissão de documentos
+- dados gerais do cadastro
+- área do paciente
+- campos adicionais personalizados
+- membros do grupo terapêutico
+- endereços
+- gestão de atendimentos
+- remarcações e desmarcações
+- faturas
+- arquivos
+- créditos e perdas
+- prontuário eletrônico
+- dashboard de evolução clínica
+
+👉 [Acessar manual completo de Pacientes e Grupos Terapêuticos](/docs/clientes-grupos)
 
 ---
 
@@ -136,4 +151,4 @@ Isso vai permitir que você comece a usar o eConsult no seu fluxo real de atendi
 
 Continue para o próximo item dos primeiros passos:
 
-👉 [03 agendamento-de-multiplos-atendimentos](./03_agendamento-de-multiplos-atendimentos.md)
+👉 [Organize sua agenda](./03_agendamento-de-multiplos-atendimentos.md)

@@ -4,13 +4,46 @@ sidebar_position: 0
 
 # Começando no eConsult
 
-🚀 Começando no eConsult? Este guia vai ajudar você nos primeiros passos.
+🚀 Bem-vindo ao eConsult.
 
-A proposta não é configurar tudo de uma vez — mas sim **começar a usar o sistema no seu dia a dia clínico** o quanto antes.
+Este guia foi criado para ajudar você a começar a utilizar o sistema de forma prática, leve e organizada no seu dia a dia clínico.
 
+Você não precisa configurar tudo agora.
+
+O mais importante é começar.
+
+⏱️ Em menos de 15 minutos você já consegue:
+
+- cadastrar pacientes
+- organizar sua agenda
+- registrar atendimentos
+- acompanhar evoluções clínicas
+
+## 🔐 Como acessar o eConsult
+
+Para abrir o eConsult, basta acessar o site oficial da plataforma:
+
+👉 [eConsult - econsult.app.br](https://econsult.app.br/home)
+
+Depois:
+
+1. Clique no botão **Entrar** no topo da tela2. 
+3. Informe seu email e senha
+4. Acesse sua conta
+
+## 📲 Primeira coisa: instale o app do eConsult no seu dispositivo
+
+Você pode instalar o eConsult no seu celular, tablet ou computador para acessar o sistema com mais rapidez e praticidade no dia a dia clínico.
+
+Para instalar:
+
+1. Acesse o painel principal do eConsult
+2. No topo da tela, clique em **Instalar APP**
+3. Siga as instruções exibidas no seu dispositivo
+   
 ---
 
-## Fluxo sugerido de primeiros passos
+## 🚀 Sua jornada inicial no eConsult
 
 ### 1. Complete o cadastro da sua conta
 
@@ -25,7 +58,18 @@ Você poderá configurar informações como:
 - foto de perfil
 - logotipo do seu consultório
 
-👉 [Complete seu cadastro para preparar seu ambiente de trabalho no eConsult.](./01_conta.md)
+#### 🎞️ Vídeo rápido
+
+👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+
+- acessando a conta  
+- abrindo “Dados Gerais”  
+- salvando as informações  
+- cadastrando um endereço  
+
+👉 [se precisar veja mais detalhes sobre configurações de conta](./01_conta.md)
+
+---
 
 ### 2. Cadastre seus pacientes e grupos terapêuticos
 
@@ -33,7 +77,14 @@ Comece cadastrando seus pacientes ativos.
 
 Se você trabalha com grupos, também pode cadastrar seus **grupos terapêuticos**.
 
-👉 [Esse é o primeiro passo para estruturar seu atendimento dentro do sistema.](./02_pacientes-grupos-terapeuticos.md)
+#### 🎞️ Vídeo rápido
+
+👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+
+- cadastrando um paciente  
+- cadastrando um grupo terapêutico
+
+👉 [veja mais detalhes sobre cadastro de pacientes e grupos de atendimento](./02_pacientes-grupos-terapeuticos.md)
 
 ---
 
@@ -46,13 +97,21 @@ Você pode:
 - Organizar sua rotina semanal
 - Visualizar sua disponibilidade
 
-👉 [Aqui você já começa a usar o eConsult como seu sistema principal.](./03_agendamento-de-multiplos-atendimentos.md)
+#### 🎞️ Vídeo rápido
+
+👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+
+- fazendo agendamentos múltiplos
+
+👉 [veja mais detalhes sobre agenda](./03_agendamento-de-multiplos-atendimentos.md)
 
 ---
 
 ### 4. Acompanhe suas tarefas no painel Situações de Atendimento
 
-Uma vez que você fez agendamentos de atendimentos, já é possível verificar ações que podem ser feitas atravéz do painel **Situações e Atendimento**
+✨ Esse painel funciona como um centro de acompanhamento da sua rotina clínica.
+
+Uma vez que você fez agendamentos de atendimentos, já é possível verificar ações que podem ser feitas através do painel **Situações de Atendimento**
 
 Esse painel reúne, em uma única tela, tudo o que precisa da sua atenção no dia a dia:
 
@@ -71,7 +130,13 @@ Você pode clicar em cada situação para ver os detalhes e executar ações com
 - acompanhar pagamentos  
 - entrar em contato com pacientes  
 
-👉 Ele funciona como seu [centro de controle operacional da rotina clínica](./04_situacoes-de-atendimento-clinico.md).
+#### 🎞️ Vídeo rápido
+
+👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+
+- explorando painel de situações de atendimento
+
+👉 [mais detalhes sobre situações de atendimento](./04_situacoes-de-atendimento-clinico.md).
 
 ---
 
@@ -83,11 +148,20 @@ No painel de **Resultados**, você acompanha:
 - Indicadores administrativos
 - Visão geral da sua operação
 
-👉 Aqui você começa a ter [clareza sobre o funcionamento do seu consultório](./05_resultados.md).
+#### 🎞️ Vídeo rápido
+
+👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+
+- explorando painel de resultados
+
+👉 [mais detalhes sobre o painel de resultados](./05_resultados.md).
 
 ---
 
 ### 6. Registre a evolução clínica com marcadores clínicos
+
+✨ Esse é um dos principais diferenciais do eConsult:
+acompanhar a evolução clínica do paciente de forma longitudinal ao longo do tempo.
 
 Após, ou durante a realização de cada atendimento, registre a anotação clínica do atendimento.
 
@@ -98,9 +172,13 @@ No eConsult, isso pode ser feito com apoio dos **marcadores clínicos**, que aju
 - Evolução
 - Prioridades clínicas
 
-✨ Esse é um dos principais diferenciais do sistema.
+#### 🎞️ Vídeo rápido
 
-👉 Veja como [registrar anotação clínica do atendimento usando marcadores clínicos](./06_anotacoes-clinicas-com-marcadores-clinicos.md).
+👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+
+- selecionando marcadores clínicos para um atendimento
+
+👉 [aprofundar sobre marcadores clínicos](./06_anotacoes-clinicas-com-marcadores-clinicos.md).
 
 ---
 
@@ -112,24 +190,37 @@ Utilize o **Acompanhamento Longitudinal do Paciente** para visualizar:
 - Mudanças de padrão
 - Tendências clínicas
 
-👉 [Aqui o eConsult deixa de ser apenas um prontuário e passa a ser uma ferramenta de análise clínica.](./07_acompanhamento-clinico-longitudinal.md)
+#### 🎞️ Vídeo rápido
+
+👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+
+- verificando evolução, mudanças de padrão e tendências clínicas de um paciente
+
+👉 [mais sobre evolução e visão longitudinal](./07_acompanhamento-clinico-longitudinal.md)
 
 ---
 
-### 8. Crie um prontuário completo de teste
+### 8. Crie um prontuário completo
 
 Para consolidar o aprendizado, escolha um paciente e:
 
-- Registre atendimentos
-- Preencha evoluções
-- Utilize os marcadores clínicos
+- Registre pelo menos 4 atendimentos
+- Preencha evoluções para cada atendimento utilizando marcadores clínicos
 - Visualize os resultados
 
-👉 [Esse exercício ajuda você a entender o fluxo completo na prática](./08_prontuario-eletronico.md)
+#### 🎞️ Vídeo rápido
+
+👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+
+- registrando atendimento
+- selecionado marcadores e 
+- visualizando resultados
+
+👉 [mais detalhes sobre prontuário](./08_prontuario-eletronico.md)
 
 ---
 
-## 💡 Dica importante
+:::tip Dica importante
 
 Você não precisa configurar tudo no primeiro dia.
 
@@ -138,16 +229,24 @@ O mais importante é:
 ✔ Começar a usar  
 ✔ Registrar seus atendimentos  
 ✔ Explorar os painéis aos poucos  
+:::
 
----
+## 👉 Próximas trilhas recomendadas
 
-## 👉 Próximo passo
+### 🗓️ Organização da rotina clínica
+- Agenda inteligente
+- Tipos de atendimento
+- Confirmações e acompanhamento
 
-Agora que você já começou, recomendamos seguir para:
+### 🧠 Evolução e acompanhamento clínico
+- Marcadores clínicos
+- Acompanhamento longitudinal
+- Leitura clínica integrada
 
-- Como registrar atendimentos
-- Como utilizar marcadores clínicos
-- Como acompanhar a evolução dos pacientes
+### 💰 Gestão administrativa e financeira
+- Cobranças
+- Financeiro
+- Indicadores administrativos
 
 ---
 

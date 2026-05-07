@@ -20,13 +20,18 @@ O painel de **Situações de Atendimento** responde exatamente isso.
 
 👉 (adicione aqui um vídeo curto mostrando:)
 
+- acessando o painel
+- visualizando situações pendentes
+- abrindo uma situação
+- executando uma ação
+
 ---
 
-## 🎯 O que é esse painel?
+## 🎯 Como funciona o painel de Situações de Atendimento
 
-O painel reúne, em uma única tela, tudo o que precisa da sua atenção no dia a dia.
+O painel reúne, em uma única tela, as principais ações e pendências da sua rotina clínica.
 
-Você não precisa mais verificar manualmente:
+Você não precisa mais acompanhar manualmente:
 - agenda  
 - prontuário  
 - financeiro  
@@ -129,7 +134,28 @@ Uma boa forma de usar:
 - Clique em uma situação  
 - Resolva 1 pendência  
 
-👉 Isso já ativa o fluxo completo do sistema.
+👉 Isso já coloca o eConsult em funcionamento no seu fluxo clínico real.
+
+---
+
+## 📚 Manual completo de Situações de Atendimento
+
+Quer explorar mais possibilidades do painel de Situações de Atendimento?
+
+No manual completo você encontra orientações sobre:
+
+- todas as situações disponíveis no sistema
+- ações possíveis para cada situação
+- confirmações de atendimentos
+- registros pendentes
+- pagamentos em aberto
+- pacientes sem novo agendamento
+- lembretes automáticos
+- lembretes manuais
+- acompanhamento operacional da rotina clínica
+- e muito mais
+
+👉 [Acessar manual completo de Situações de Atendimento](/docs/situacoes-atendimento)
 
 ---
 
@@ -137,4 +163,4 @@ Uma boa forma de usar:
 
 Agora que sua rotina está organizada:
 
-👉 **Acompanhe os resultados administrativos e financeiros do seu consultório**
+👉 [Entenda seus resultados](./05_resultados.md)

@@ -22,7 +22,8 @@ O painel de **Resultados** te ajuda a enxergar isso de forma clara, visual e pr�
 
 - troca entre abas  
 - leitura rápida de gráficos  
-- seleção de mês  
+- seleção de mês 
+- comparação entre períodos 
 
 ---
 
@@ -33,9 +34,9 @@ O painel reúne informações importantes sobre:
 - Atendimentos realizados  
 - Receita gerada  
 - Organização financeira  
-- Evolução da sua rotina  
+- Evolução da sua prática clínica
 
-👉 Tudo em um só lugar, sem precisar montar planilhas.
+👉 Tudo em um só lugar, com leitura visual e prática da sua rotina clínica.
 
 ![Painel Resultados](../../../static/img/prints/resultados/022.png)
 
@@ -105,19 +106,19 @@ Comece simples:
 ✔ Olhe o Panorama  
 ✔ Veja como está seu mês  
 
-👉 Isso já gera clareza imediata.
+👉 Isso já ajuda a criar uma leitura mais clara da sua rotina clínica.
 
 ---
 
 ## 🎯 Por que isso é importante?
 
-Porque muitos profissionais trabalham sem visualizar:
+Porque, no dia a dia, muitos profissionais acabam acompanhando o consultório apenas pela percepção do momento.
 
 - quanto estão atendendo  
 - quanto estão faturando  
 - como estão evoluindo  
 
-👉 O painel resolve isso automaticamente.
+👉 O painel transforma isso em indicadores claros e organizados ao longo do tempo.
 
 ---
 
@@ -145,6 +146,26 @@ Uma boa forma de começar:
 
 ---
 
+## 📚 Manual completo de Resultados e Indicadores
+
+Quer aprofundar sua leitura sobre os indicadores e gráficos do consultório?
+
+No manual completo você encontra orientações sobre:
+
+- leitura detalhada da aba Panorama
+- gráficos dos últimos meses
+- interpretação de tendências recentes
+- indicadores mensais da aba Resumos
+- análise anual retrospectiva
+- leitura cruzada de indicadores
+- interpretação estratégica dos gráficos
+- análise da evolução do consultório ao longo do tempo
+- utilização de IA para análise do ano clínico e operacional
+
+👉 [Acessar manual completo de Resultados](/docs/resultados)
+
+---
+
 ## ▶️ Próximo passo
 
 Agora que você entende sua operação:
@@ -153,10 +174,4 @@ Agora que você entende sua operação:
 
 Isso vai permitir acompanhar também a evolução clínica dos pacientes.
 
----
-
-## 👉 Próximo passo
-
-Continue para o próximo item dos primeiros passos:
-
-👉 [06 anotacoes-clinicas-com-marcadores-clinicos](./06_anotacoes-clinicas-com-marcadores-clinicos.md)
+👉 [Registre suas anotações](./06_anotacoes-clinicas-com-marcadores-clinicos.md)

@@ -15,6 +15,7 @@ Agora chegamos em uma das partes mais importantes do eConsult:
 No eConsult, você pode registrar suas anotações de forma diferente do modelo tradicional:
 
 👉 utilizando **marcadores clínicos como base**
+
 ---
 
 ## 🎞️ Vídeo rápido (recomendado)
@@ -38,7 +39,7 @@ Você pode:
 
 ✔ estruturar primeiro com marcadores  
 ✔ gerar uma anotação automaticamente  
-✔ manter um padrão clínico consistente  
+✔ construir registros mais consistentes ao longo do tempo  
 
 ---
 
@@ -115,9 +116,9 @@ O eConsult irá:
 
 - utilizar os marcadores que você registrou  
 - organizar o conteúdo em formato clínico  
-- gerar uma anotação estruturada (SOAP
+- gerar uma anotação estruturada (SOAP)
 
-> 💡 Pequenos registros recorrentes costumam gerar uma leitura clínica mais rica do que anotações extensas feitas apenas de forma esporádica.)  
+> 💡 Pequenos registros recorrentes costumam gerar uma leitura clínica longitudinal mais rica do que anotações extensas feitas apenas de forma esporádica.
 
 ![Anotações do atendimento](../../../static/img/prints/atendimento/099.png)
 
@@ -178,6 +179,38 @@ A IA é um apoio.
 
 ---
 
+---
+
+## 📚 Manual completo de Anotações Clínicas
+
+Quer aprofundar a utilização das anotações clínicas e dos marcadores no eConsult?
+
+No manual completo você encontra orientações sobre:
+
+- marcadores clínicos
+- geração de anotações com IA
+- revisão e validação clínica
+- compartilhamento com pacientes
+- estruturação de registros clínicos
+- leitura longitudinal das anotações
+- modelos de anotações clínicas disponíveis
+
+### 📝 Modelos disponíveis
+
+- 📝 Texto livre  
+- 📋 SOAP (Subjetivo, Objetivo, Avaliação, Plano)  
+- 📋 PPR (Prontuário Psicológico Resumido)  
+- 📋 DAR (Data, Action, Response)  
+- 📋 DAP (Data, Avaliação, Plano)  
+- 📋 PIE (Problema, Intervenção, Avaliação)  
+- 📋 EEM (Exame do Estado Mental)  
+- 📋 BIRP (Comportamento, Intervenção, Resposta, Plano)  
+- 📋 GIRP (Objetivo, Intervenção, Resposta, Plano)
+
+👉 [Acessar manual completo de Anotações Clínicas](/docs/funcionalidades/atendimentos/anotacoes)
+
+---
+
 ## ▶️ Próximo passo
 
 Agora que você já está registrando clinicamente suas sessões realizadas:
@@ -186,10 +219,4 @@ Agora que você já está registrando clinicamente suas sessões realizadas:
 
 É lá que tudo isso começa a fazer sentido.
 
----
-
-## 👉 Próximo passo
-
-Continue para o próximo item dos primeiros passos:
-
-👉 [07 acompanhamento-clinico-longitudinal](./07_acompanhamento-clinico-longitudinal.md)
+👉 [Acompanhe a evolução](./07_acompanhamento-clinico-longitudinal.md)

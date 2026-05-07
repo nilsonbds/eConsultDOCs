@@ -38,7 +38,7 @@ O prontuário é onde você organiza:
 - evolução do caso  
 - hipóteses e plano terapêutico  
 
-👉 tudo em um único lugar
+👉 tudo organizado em um único lugar
 
 ---
 
@@ -62,7 +62,7 @@ Isso permite organizar por:
 
 - fases do tratamento  
 - mudanças de abordagem  
-- novos ciclos clínicos  
+- novos momentos do processo terapêutico 
 
 ---
 
@@ -161,7 +161,7 @@ Para gerar hipóteses consistentes, a IA depende dos dados clínicos registrados
 Durante o uso, você pode:
 
 - **Editar** → rascunho → continuar depois   
-- **Finalizar** → publicar no histórico → não se pode mais editar 
+- **Finalizar** → publicar no histórico → o conteúdo passa a fazer parte do histórico clínico
 
 ---
 
@@ -180,9 +180,8 @@ Ao finalizar, você pode definir:
 
 Você poderá:
 
-- visualizar  
-- duplicar para nova versão  
-- alternar público/privado  
+- visualizar o histórico  
+- alternar entre público e privado  
 
 ![Prontuário](../../../static/img/prints/prontuario/prontuario_006.png)
 
@@ -219,6 +218,29 @@ Faça isso com um paciente:
 - atualize conforme evolução do paciente 
 - use o modo público apenas quando fizer sentido clínico 
 - procure usar os campos de IA depois que todos os dados estiverem completos  
+
+---
+
+## 📚 Manual completo sobre Prontuário Eletrônico
+
+Quer aprofundar a utilização do prontuário no eConsult?
+
+No manual completo você encontra orientações sobre:
+
+- anamnese estruturada
+- hipóteses clínicas assistidas
+- utilização de IA clínica assistiva
+- avaliações psicológicas
+- documentos e anexos
+- histórico clínico
+- compartilhamento com pacientes
+- privacidade e publicação
+- prontuários múltiplos
+- linha do tempo clínica
+- versões do prontuário
+- estruturação clínica do caso
+
+👉 [Acessar manual completo do Prontuário](/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario)
 
 ---
 

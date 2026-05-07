@@ -6,11 +6,7 @@ sidebar_position: 7
 
 📈 Acompanhe a evolução clínica dos seus pacientes ao longo do tempo.
 
-> 💡 Nem sempre é fácil perceber evolução
-
-> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo., oscilação ou risco olhando sessões isoladas. A leitura longitudinal ajuda justamente nisso.
-
-> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo. dos pacientes
+> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo. A leitura longitudinal ajuda justamente nisso.
 
 Agora que você já está:
 
@@ -20,9 +16,7 @@ Agora que você já está:
 
 Chegamos no ponto mais importante do eConsult:
 
-👉 **acompanhar a evolução
-
-> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo. clínica ao longo do tempo**
+👉 acompanhar a evolução clínica ao longo do tempo
 
 ---
 
@@ -31,6 +25,8 @@ Chegamos no ponto mais importante do eConsult:
 👉 (adicione aqui um vídeo curto mostrando:)
 
 - acompanhamento da evolução clínica
+- leitura do card do paciente
+- visualização da síntese clínica
 
 ---
 
@@ -43,7 +39,7 @@ Chegamos no ponto mais importante do eConsult:
 - Existe risco de abandono?
 - O vínculo terapêutico está se fortalecendo?
 
-👉 Tudo isso em **uma única tela**
+👉 Tudo isso em uma única visão longitudinal do paciente.
 
 ---
 
@@ -58,7 +54,7 @@ Chegamos no ponto mais importante do eConsult:
 
 ## 👀 O que você vê ao abrir o painel
 
-Cada paciente aparece em um **card resumido**
+Cada paciente aparece em um **card resumido**.
 
 ![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/004.png)
 
@@ -70,7 +66,7 @@ Cada card mostra três coisas principais:
 2. **Engajamento do paciente**
 3. **Próximos passos sugeridos**
 
-👉 É como um “resumo inteligente” do paciente
+👉 É como um resumo inteligente do paciente.
 
 ---
 
@@ -88,19 +84,17 @@ Aqui você verá:
 - nível de risco  
 - estágio do processo terapêutico  
 
----
-
 💡 **Importante**
 
 Se você ainda não registrou marcadores:
 
-👉 o sistema não consegue gerar essa leitura
+👉 o sistema não consegue gerar essa leitura.
 
 ---
 
 ## 📊 Engajamento comportamental
 
-Aqui o sistema analisa o comportamento do paciente:
+Aqui o sistema analisa o comportamento do paciente.
 
 ![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/009.png)
 
@@ -112,8 +106,6 @@ Inclui:
 - risco de abandono  
 - tempo desde a última sessão  
 - padrão de comparecimento  
-
----
 
 👉 Isso ajuda você a perceber sinais como:
 
@@ -136,13 +128,13 @@ O sistema também classifica o paciente automaticamente:
 
 ---
 
-👉 Isso permite priorizar rapidamente quem precisa de atenção
+👉 Isso permite priorizar rapidamente quem precisa de mais atenção.
 
 ---
 
 ## ⚡ Próximos passos sugeridos
 
-Ao acionar a opção "Próximos Passos", o eConsult apresenta um conjunto de ações recomendadas para o paciente:
+Ao acionar a opção **Próximos Passos**, o eConsult apresenta um conjunto de ações recomendadas para o paciente.
 
 ![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/011.png)
 
@@ -152,41 +144,45 @@ Ao acionar a opção "Próximos Passos", o eConsult apresenta um conjunto de aç
 
 Entre as sugestões, você pode encontrar:
 
-- Registros de atendimento pendentes
-- Agendamentos não confirmados
-- Pagamentos em aberto
-- Anotações clínicas ainda não realizadas
-- Pendências cadastrais
-- Alertas relevantes para o momento do paciente
+- registros de atendimento pendentes  
+- agendamentos não confirmados  
+- pagamentos em aberto  
+- anotações clínicas ainda não realizadas  
+- pendências cadastrais  
+- alertas relevantes para o momento do paciente  
 
 ![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/010.png)
 
 ---
 
-👉 Isso transforma o painel em um **guia de ação**, não só leitura
+👉 Isso transforma o painel em um guia de ação, não apenas de leitura.
 
 ---
 
 ## 🔍 Acessando o detalhe do paciente
 
-Ao clicar na opção de detalhe ![Detalhe do paciente](../../../static/img/prints/analisescore/007.png):
+Ao clicar na opção de detalhe:
+
+![Detalhe do paciente](../../../static/img/prints/analisescore/007.png)
+
+Você acessa a tela completa de resultados do paciente.
 
 ![Detalhe do paciente](../../../static/img/prints/analisescore/013.png)
 
 ---
 
-Você acessa a tela completa de resultados com três visões:
+A tela reúne quatro visões principais:
 
 - Panorama  
 - Resumos  
-- Síntese
+- Síntese  
 - Indicadores  
 
 ---
 
 ## 📈 Síntese (o mais importante no momento)
 
-Na aba **Síntese**, você consegue ver:
+Na aba **Síntese**, você consegue visualizar:
 
 ![Detalhe do paciente](../../../static/img/prints/analisescore/012.png)
 
@@ -197,17 +193,13 @@ Na aba **Síntese**, você consegue ver:
 - manejo sugerido  
 - linha do tempo das sessões  
 
----
-
 👉 Aqui você começa a enxergar:
 
-- hipótese clínica assistida
+- hipóteses clínicas assistidas  
 - mudanças ao longo do tempo  
 - padrões clínicos  
 - momentos de risco  
-- evolução
-
-> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo. real do paciente  
+- evolução real do paciente  
 
 ---
 
@@ -215,13 +207,13 @@ Na aba **Síntese**, você consegue ver:
 
 - organizar o raciocínio clínico  
 - identificar padrões  
-- apoiar decisões  
+- apoiar a leitura clínica ao longo do tempo  
 
 ---
 
 ⚠️ **Importante**
 
-Essa análise é **assistiva**.
+Essa análise é assistiva.
 
 👉 A interpretação clínica é sempre sua.
 
@@ -235,11 +227,9 @@ Porque a maioria dos sistemas:
 
 O eConsult:
 
-✔ ajuda você a **entender a evolução
-
-> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo.**  
-✔ integra dados clínicos + comportamentais  
-✔ apoia sua tomada de decisão  
+✔ ajuda você a entender a evolução clínica  
+✔ integra dados clínicos e comportamentais  
+✔ apoia a leitura clínica ao longo do tempo  
 
 ---
 
@@ -250,11 +240,9 @@ Faça um teste simples:
 1. Abra o painel de acompanhamento  
 2. Escolha 1 paciente  
 3. Analise o card  
-4. Clique para ver a evolução
+4. Clique para ver a evolução  
 
-> 💡 Muitas mudanças clínicas fazem mais sentido quando observadas em conjunto ao longo do tempo.  
-
-👉 Você já vai perceber padrões que antes não estavam claros
+👉 Você já vai perceber padrões que antes não estavam claros.
 
 ---
 
@@ -265,7 +253,29 @@ O painel depende de:
 ✔ atendimentos registrados  
 ✔ marcadores clínicos preenchidos  
 
-👉 Quanto mais você usa, mais inteligente ele fica
+👉 Quanto mais você utiliza o sistema, mais rica fica a leitura longitudinal.
+
+---
+
+## 📚 Manual completo de Acompanhamento Longitudinal
+
+Quer aprofundar a utilização do acompanhamento longitudinal no eConsult?
+
+No manual completo você encontra orientações sobre:
+
+- estado clínico do paciente
+- engajamento comportamental
+- classificações automáticas
+- risco de abandono
+- síntese clínica longitudinal
+- direção clínica
+- manejo sugerido
+- interpretação de indicadores
+- leitura longitudinal do paciente
+- próximos passos sugeridos
+- leitura integrada de dados clínicos e comportamentais
+
+👉 [Acessar manual completo de Acompanhamento Longitudinal](/docs/acompanhamento-inteligente-do-paciente)
 
 ---
 
@@ -273,14 +283,8 @@ O painel depende de:
 
 Agora que você já consegue acompanhar seus pacientes:
 
-👉 **Utilize os insights para conduzir melhor seus atendimentos**
+👉 Utilize os insights para conduzir melhor seus atendimentos.
 
 É aqui que o eConsult realmente se torna parte da sua prática clínica.
 
----
-
-## 👉 Próximo passo
-
-Continue para o próximo item dos primeiros passos:
-
-👉 [08 prontuario-eletronico](./08_prontuario-eletronico.md)
+👉 [Organize o prontuário](./08_prontuario-eletronico.md)
