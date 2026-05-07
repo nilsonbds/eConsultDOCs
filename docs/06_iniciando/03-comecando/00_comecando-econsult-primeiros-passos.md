@@ -60,6 +60,11 @@ Você poderá configurar informações como:
 
 #### 🎞️ Vídeo rápido
 
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/conta.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
+
 👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
 
 - acessando a conta  
@@ -79,7 +84,10 @@ Se você trabalha com grupos, também pode cadastrar seus **grupos terapêuticos
 
 #### 🎞️ Vídeo rápido
 
-👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/pacientes-grupos-terapeuticos.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
 - cadastrando um paciente  
 - cadastrando um grupo terapêutico
@@ -99,7 +107,10 @@ Você pode:
 
 #### 🎞️ Vídeo rápido
 
-👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/agendamento-de-multiplos-atendimentos.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
 - fazendo agendamentos múltiplos
 
@@ -132,7 +143,10 @@ Você pode clicar em cada situação para ver os detalhes e executar ações com
 
 #### 🎞️ Vídeo rápido
 
-👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/situacoes-de-atendimento-clinico.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
 - explorando painel de situações de atendimento
 
