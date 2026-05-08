@@ -1,104 +1,225 @@
+# Termos e Condições de Uso
+
+Última atualização: 08/05/2026
+
+## 1. Informações Gerais
+
+Estes Termos e Condições de Uso (“Termos”) regulam o acesso e utilização da plataforma **eConsult**.
+
+O **eConsult** é um software desenvolvido e operado pela **NBS Serviços em Tecnologia da Informação Ltda**, inscrita no CNPJ sob nº **57.017.422/0001-97**, responsável pela operação, manutenção, infraestrutura e disponibilização da plataforma.
+
+Ao acessar ou utilizar o eConsult, o usuário declara que leu, compreendeu e concorda com estes Termos.
+
+Caso não concorde com qualquer disposição aqui prevista, o usuário não deverá utilizar a plataforma.
+
 ---
-sidebar_position: 0
+
+# 2. Descrição da Plataforma
+
+O eConsult é uma plataforma digital voltada à organização, gestão e acompanhamento de atendimentos realizados por profissionais da saúde e áreas relacionadas.
+
+A plataforma poderá disponibilizar funcionalidades como:
+
+* agenda e organização de atendimentos;
+* prontuário eletrônico;
+* anotações e registros clínicos;
+* teleatendimento;
+* gestão financeira;
+* relatórios;
+* envio de notificações e lembretes;
+* ferramentas assistivas e automatizadas;
+* recursos de apoio à prática profissional.
+
+As funcionalidades disponíveis poderão variar conforme o plano contratado e evolução da plataforma.
+
 ---
 
-# Termos e Condições
+# 3. Cadastro e Conta de Usuário
 
-Última atualização: 01/07/2025
+Para utilização da plataforma, poderá ser necessário realizar cadastro mediante fornecimento de informações verdadeiras, completas e atualizadas.
 
-Estes Termos e Condições ("Termos") regem o uso do software eConsult ("Plataforma"). Ao acessar e utilizar o eConsult, você concorda com os seguintes Termos. Caso não concorde, não utilize a Plataforma.
+O usuário é responsável por:
 
-### 1. Descrição dos Serviços
+* manter a confidencialidade de suas credenciais;
+* restringir acesso não autorizado à sua conta;
+* atualizar suas informações cadastrais;
+* todas as atividades realizadas sob sua autenticação.
 
-O eConsult é uma plataforma destinada a instrutores autônomos de aulas e serviços, oferecendo ferramentas para:
+O compartilhamento indevido de acesso poderá resultar em suspensão ou encerramento da conta.
 
-- **Organização de aulas e sessões**
-    - Gestão de pagamentos e cobranças
-    - Envio de lembretes automáticos para os pacientes
-    - Controle de presença
+---
 
-### 2. Registro de Conta
+# 4. Responsabilidade Profissional e Uso Clínico
 
-Para utilizar a Plataforma, é necessário criar uma conta fornecendo informações precisas e completas.
+O eConsult fornece ferramentas de apoio à organização, documentação e acompanhamento de informações relacionadas à prática profissional.
 
-Você é responsável por manter a confidencialidade das suas credenciais de login e por todas as atividades realizadas na sua conta.
+O usuário reconhece que:
 
-### 3. Uso Aceitável
-Você concorda em utilizar a Plataforma exclusivamente para os fins a que se destina e de acordo com a legislação vigente. É proibido:
+* toda decisão profissional permanece sob sua responsabilidade exclusiva;
+* registros, diagnósticos, interpretações, prescrições, relatórios e documentos emitidos são de responsabilidade do profissional responsável;
+* a plataforma não substitui julgamento técnico, avaliação profissional ou responsabilidade clínica.
 
-- Usar a Plataforma para fins ilícitos ou não autorizados.
-- Interferir no funcionamento da Plataforma, como hackear ou distribuir malware.
+Eventuais recursos automatizados, assistivos ou baseados em inteligência artificial possuem caráter exclusivamente auxiliar.
 
-### 4. Pagamentos e Taxas
+---
 
-O eConsult pode cobrar uma taxa pelo uso da Plataforma, que será divulgada previamente. Ao optar por planos pagos, você concorda em pagar as taxas aplicáveis.
+# 5. Uso Aceitável
 
-Pagamentos de pacientes podem ser gerenciados através da Plataforma, mas o eConsult não é responsável por inadimplências de pacientes ou disputas relacionadas a pagamentos.
+O usuário concorda em utilizar a plataforma de acordo com a legislação vigente e finalidades permitidas.
 
-### 5. Cancelamentos e Reembolsos
+É proibido:
 
-Você pode cancelar sua conta a qualquer momento. Se estiver em um plano pago, o cancelamento não implicará em reembolso de valores já pagos.
+* utilizar a plataforma para atividades ilícitas;
+* violar direitos de terceiros;
+* tentar acessar áreas restritas sem autorização;
+* interferir no funcionamento da plataforma;
+* distribuir códigos maliciosos;
+* utilizar a plataforma para envio de spam ou comunicações abusivas;
+* compartilhar acesso de forma indevida.
 
-Em caso de falha técnica prolongada, definida como inoperância total da Plataforma por um período contínuo superior a 4 horas, o eConsult oferecerá ao usuário:
+---
 
-- Reembolso proporcional ao tempo de indisponibilidade, calculado com base no valor do plano vigente,
+# 6. Comunicações e Notificações
 
-    ou
+O usuário autoriza o recebimento de comunicações relacionadas ao funcionamento da plataforma, incluindo:
 
-- Créditos de uso na Plataforma equivalentes a pelo menos 1 (um) mês gratuito, a critério do usuário.
+* notificações operacionais;
+* autenticação e segurança;
+* lembretes;
+* avisos técnicos;
+* recuperação de acesso;
+* mensagens transacionais;
+* comunicações relacionadas ao uso do serviço.
 
-**Observações:**
+As comunicações poderão ocorrer por:
 
-- Períodos de manutenção programada, previamente comunicados, não serão considerados como falha técnica.
+* e-mail;
+* WhatsApp;
+* notificações internas;
+* outros canais vinculados à plataforma.
 
-- Falhas decorrentes de serviços de terceiros (ex: OpenAI, Google Drive, serviços de internet) serão excluídas dessa compensação, exceto quando houver responsabilidade direta do eConsult.
+Determinadas preferências poderão ser configuradas pelo usuário quando aplicável.
 
-### 6. Responsabilidades do Usuário
+---
 
-Você é responsável por:
+# 7. Planos, Cobranças e Pagamentos
 
-- Garantir que as informações fornecidas na Plataforma sejam precisas e atualizadas.
-- Garantir que seus pacientes estejam cientes das condições das aulas ou serviços, incluindo horários e políticas de cancelamento.
-- Proteger seus dados de acesso à Plataforma.
+O eConsult poderá disponibilizar planos gratuitos e pagos.
 
-### 7. Limitação de Responsabilidade
+Os valores, funcionalidades e condições aplicáveis serão apresentados ao usuário antes da contratação.
 
-A Plataforma é fornecida "como está", sem garantias absolutas de disponibilidade contínua. O eConsult se compromete a **manter a estabilidade, integridade e segurança dos serviços dentro de padrões razoáveis e atualizados de mercado**.
+Ao contratar funcionalidades pagas, o usuário concorda com os valores e periodicidade aplicáveis ao plano escolhido.
 
-Não nos responsabilizamos por perdas decorrentes de:
+O não pagamento poderá resultar em:
 
-- Falhas externas, como indisponibilidade de internet;
-- Atos maliciosos de terceiros fora do nosso controle;
-- Uso inadequado da Plataforma por parte do usuário.
+* limitação de funcionalidades;
+* suspensão de acesso;
+* cancelamento da conta;
+* restrições operacionais.
 
-Faremos todos os esforços para restaurar o funcionamento em caso de incidentes técnicos.
+---
 
-### 8. Privacidade
+# 8. Cancelamento e Encerramento
 
-O eConsult coleta e utiliza dados pessoais de acordo com a nossa Política de Privacidade, que descreve como seus dados são protegidos e utilizados.
+O usuário poderá solicitar cancelamento da conta a qualquer momento.
 
-### 9. Alterações nos Termos
+O cancelamento não implica reembolso automático de valores já pagos, salvo disposição legal específica ou política comercial aplicável.
 
-O eConsult poderá atualizar estes Termos a qualquer momento. Mudanças relevantes serão comunicadas por e-mail ou destacadas na Plataforma.
+O eConsult poderá suspender ou encerrar contas em casos de:
 
-Para continuar usando a Plataforma após uma alteração, o usuário deverá **confirmar o aceite dos novos Termos** por meio de aviso em destaque na interface, ou via e-mail. O uso contínuo sem essa confirmação poderá resultar em limitação de acesso até que o aceite seja registrado.
+* violação destes Termos;
+* uso indevido da plataforma;
+* atividades ilícitas;
+* tentativa de comprometimento da segurança;
+* inadimplência recorrente.
 
-### 10. Rescisão de Conta
+---
 
-O eConsult pode suspender ou encerrar sua conta caso haja violação destes Termos. Em caso de rescisão, você perderá o acesso às funcionalidades da Plataforma, incluindo dados armazenados.
+# 9. Disponibilidade e Limitação de Responsabilidade
 
-### 11. Legislação Aplicável
+O eConsult busca manter padrões adequados de estabilidade, segurança e disponibilidade da plataforma.
 
-Estes Termos são regidos pela legislação Brasileira, e quaisquer disputas serão resolvidas nos tribunais da localidade de Joinville/SC/BR.
+Entretanto, o usuário reconhece que serviços digitais podem sofrer indisponibilidades, falhas técnicas, interrupções temporárias ou eventos fora do controle razoável da plataforma.
 
-### 12. Contato
+O eConsult não se responsabiliza por:
 
-Para dúvidas ou preocupações sobre estes Termos, entre em contato conosco pelo e-mail atendimento@econsult.app.br.
+* falhas externas de internet;
+* indisponibilidade de serviços de terceiros;
+* uso inadequado da plataforma;
+* perda decorrente de compartilhamento indevido de acesso;
+* atos maliciosos de terceiros fora de seu controle razoável.
 
-### 13. Backup e Retenção de Dados
+Serão adotados esforços razoáveis para mitigação e restauração dos serviços em caso de incidentes técnicos.
 
-Os dados armazenados na Plataforma são protegidos por backups automáticos em servidores da AWS (Amazon Web Services), com alto padrão de segurança.
+---
 
-Mesmo em caso de cancelamento de conta ou interrupção de pagamentos, **os dados do usuário serão mantidos indefinidamente associados ao e-mail cadastrado**. Caso a conta seja reativada futuramente, todas as informações anteriores serão restauradas.
+# 10. Dados, Backup e Retenção
 
-O eConsult se compromete a não excluir dados, exceto mediante solicitação formal do usuário.
+O eConsult poderá realizar rotinas automatizadas de backup e proteção de dados visando segurança e continuidade operacional.
+
+Os dados poderão ser mantidos pelo período necessário para:
+
+* cumprimento de obrigações legais;
+* preservação de registros;
+* exercício regular de direitos;
+* continuidade dos serviços;
+* segurança da plataforma.
+
+A exclusão de dados poderá ocorrer mediante solicitação do usuário, observadas limitações legais, regulatórias e técnicas aplicáveis.
+
+---
+
+# 11. Propriedade Intelectual
+
+Todos os direitos relacionados ao eConsult, incluindo:
+
+* software;
+* interface;
+* identidade visual;
+* marca;
+* código-fonte;
+* documentação;
+* conteúdos da plataforma;
+
+pertencem à NBS Serviços em Tecnologia da Informação Ltda ou aos respectivos titulares licenciantes.
+
+É proibida reprodução, engenharia reversa, distribuição ou utilização indevida sem autorização expressa.
+
+---
+
+# 12. Privacidade e Proteção de Dados
+
+O tratamento de dados pessoais realizado pela plataforma seguirá as disposições descritas na Política de Privacidade do eConsult e legislação aplicável, incluindo a Lei Geral de Proteção de Dados (LGPD).
+
+---
+
+# 13. Alterações destes Termos
+
+O eConsult poderá atualizar estes Termos periodicamente para refletir:
+
+* mudanças legais;
+* evolução da plataforma;
+* novos serviços;
+* ajustes operacionais.
+
+A versão mais atual estará sempre disponível na plataforma.
+
+Em determinadas situações, poderá ser solicitado novo aceite do usuário.
+
+---
+
+# 14. Legislação Aplicável e Foro
+
+Estes Termos serão regidos pela legislação da República Federativa do Brasil.
+
+Fica eleito o foro da comarca de Joinville/SC para resolução de eventuais controvérsias, salvo disposição legal em contrário.
+
+---
+
+# 15. Contato
+
+Em caso de dúvidas relacionadas a estes Termos, entre em contato:
+
+**NBS Serviços em Tecnologia da Informação Ltda**
+CNPJ: 57.017.422/0001-97
+E-mail: [atendimento@econsult.app.br](mailto:atendimento@econsult.app.br)
