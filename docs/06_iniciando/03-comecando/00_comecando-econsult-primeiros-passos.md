@@ -65,8 +65,6 @@ Você poderá configurar informações como:
   Seu navegador não suporta vídeo.
 </video>
 
-👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
-
 - acessando a conta  
 - abrindo “Dados Gerais”  
 - salvando as informações  
@@ -164,7 +162,10 @@ No painel de **Resultados**, você acompanha:
 
 #### 🎞️ Vídeo rápido
 
-👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/resultados.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
 - explorando painel de resultados
 
@@ -188,9 +189,14 @@ No eConsult, isso pode ser feito com apoio dos **marcadores clínicos**, que aju
 
 #### 🎞️ Vídeo rápido
 
-👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/anotacoes-clinicas-com-marcadores-clinicos.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
 - selecionando marcadores clínicos para um atendimento
+
+Se você selecionar apenas um marcador e adicionar uma breve descrição com suas observações clínicas, o sistema já será capaz de gerar uma evolução. Naturalmente, quanto maior o número de marcadores e observações inseridos, mais rica e detalhada será a análise produzida pelo sistema.
 
 👉 [aprofundar sobre marcadores clínicos](./06_anotacoes-clinicas-com-marcadores-clinicos.md).
 
@@ -206,29 +212,47 @@ Utilize o **Acompanhamento Longitudinal do Paciente** para visualizar:
 
 #### 🎞️ Vídeo rápido
 
-👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/acompanhamento-clinico-longitudinal.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
-- verificando evolução, mudanças de padrão e tendências clínicas de um paciente
+- verificando evolução
+- mudanças de padrão
+- tendências clínicas do paciente
 
 👉 [mais sobre evolução e visão longitudinal](./07_acompanhamento-clinico-longitudinal.md)
 
 ---
 
-### 8. Crie um prontuário completo
+### 8. Inicie o prontuário
 
 Para consolidar o aprendizado, escolha um paciente e:
 
 - Registre pelo menos 4 atendimentos
-- Preencha evoluções para cada atendimento utilizando marcadores clínicos
-- Visualize os resultados
+- Utilize marcadores clínicos para preencher as evoluções de cada atendimento
+- Estruture as anotações em SOAP de cada atendimento
+
+Após finalizar, inicie o prontuário do paciente.
 
 #### 🎞️ Vídeo rápido
 
-👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/prontuario-eletronico.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
-- registrando atendimento
-- selecionado marcadores e 
-- visualizando resultados
+- registrando a anotação SOAP do atendimento
+- explorando prontuário
+
+No eConsult, o prontuário é construído de forma contínua ao longo do acompanhamento.
+O psicólogo inicia o prontuário e registra a anamnese do paciente.
+
+Depois, a cada atendimento realizado, as evoluções, marcadores clínicos e anotações são incorporados automaticamente ao prontuário e ao histórico clínico do paciente.
+
+Assim, o prontuário vai sendo estruturado progressivamente durante o processo terapêutico.
+
+Ao final — ou em momentos específicos do acompanhamento — o profissional pode complementar o registro com hipóteses diagnósticas, prognósticas, plano terapêutico e evolução do tratamento, além de publicar um recorte temporal do prontuário.
 
 👉 [mais detalhes sobre prontuário](./08_prontuario-eletronico.md)
 

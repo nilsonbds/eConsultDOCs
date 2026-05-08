@@ -23,12 +23,15 @@ Nesse primeiro momento, priorize principalmente os campos obrigatórios.
 
 ## 🎞️ Vídeo rápido (recomendado)
 
-👉 Adicione aqui um vídeo curto (15–30 segundos) mostrando:
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/conta.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
-- onde acessar a conta  
-- como abrir “Dados Gerais”  
-- como salvar as informações  
-- como cadastrar um endereço  
+- acessando a conta  
+- abrindo “Dados Gerais”  
+- salvando as informações  
+- cadastrando um endereço  
 
 ---
 

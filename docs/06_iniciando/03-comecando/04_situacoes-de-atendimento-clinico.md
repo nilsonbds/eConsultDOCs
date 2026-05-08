@@ -18,12 +18,12 @@ O painel de **Situações de Atendimento** responde exatamente isso.
 
 ## 🎞️ Vídeo rápido (recomendado)
 
-👉 (adicione aqui um vídeo curto mostrando:)
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/situacoes-de-atendimento-clinico.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
-- acessando o painel
-- visualizando situações pendentes
-- abrindo uma situação
-- executando uma ação
+- explorando painel de situações de atendimento
 
 ---
 

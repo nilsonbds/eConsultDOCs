@@ -20,10 +20,12 @@ No eConsult, você pode registrar suas anotações de forma diferente do modelo 
 
 ## 🎞️ Vídeo rápido (recomendado)
 
-👉 (adicione aqui um vídeo curto mostrando:)
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/anotacoes-clinicas-com-marcadores-clinicos.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
-- registro de anotações  
-- estruturando anotações com SOAP
+- selecionando marcadores clínicos para um atendimento
 
 ---
 

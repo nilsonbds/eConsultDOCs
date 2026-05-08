@@ -22,11 +22,14 @@ Chegamos no ponto mais importante do eConsult:
 
 ## 🎞️ Vídeo rápido (recomendado)
 
-👉 (adicione aqui um vídeo curto mostrando:)
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/acompanhamento-clinico-longitudinal.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
-- acompanhamento da evolução clínica
-- leitura do card do paciente
-- visualização da síntese clínica
+- verificando evolução
+- mudanças de padrão
+- tendências clínicas do paciente
 
 ---
 

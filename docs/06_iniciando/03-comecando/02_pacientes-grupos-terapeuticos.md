@@ -19,7 +19,13 @@ Comece com **2 ou 3 pacientes ativos** — isso já é suficiente para começar 
 
 ## 🎞️ Vídeo rápido (recomendado)
 
-👉 (adicione aqui um vídeo curto de 15–30s mostrando o fluxo)
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/pacientes-grupos-terapeuticos.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
+
+- cadastrando um paciente  
+- cadastrando um grupo terapêutico
 
 ---
 

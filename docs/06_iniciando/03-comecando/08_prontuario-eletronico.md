@@ -22,9 +22,13 @@ Agora que você já:
 
 ## 🎞️ Vídeo rápido (recomendado)
 
-👉 (adicione aqui um vídeo curto mostrando:) 
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/prontuario-eletronico.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
-- gerando um prontuário
+- registrando a anotação SOAP do atendimento
+- explorando prontuário
 
 ---
 

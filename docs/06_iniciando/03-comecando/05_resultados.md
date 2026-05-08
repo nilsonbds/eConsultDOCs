@@ -18,12 +18,12 @@ O painel de **Resultados** te ajuda a enxergar isso de forma clara, visual e pr�
 
 ## 🎞️ Vídeo rápido (recomendado)
 
-👉 (adicione aqui um vídeo curto mostrando:)
+<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+  <source src="/video/resultados.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
 
-- troca entre abas  
-- leitura rápida de gráficos  
-- seleção de mês 
-- comparação entre períodos 
+- explorando painel de resultados
 
 ---
 
