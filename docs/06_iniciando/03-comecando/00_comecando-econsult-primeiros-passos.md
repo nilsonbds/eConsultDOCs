@@ -60,11 +60,12 @@ Você poderá configurar informações como:
 
 #### 🎞️ Vídeo rápido
 
-<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+<video controls style={{borderRadius: '12px', margin: '1rem 0', maxWidth: '85%', border: '1px solid silver'}}>
   <source src="/video/conta.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
+Este vídeo mostra:
 - acessando a conta  
 - abrindo “Dados Gerais”  
 - salvando as informações  
@@ -82,11 +83,12 @@ Se você trabalha com grupos, também pode cadastrar seus **grupos terapêuticos
 
 #### 🎞️ Vídeo rápido
 
-<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+<video controls style={{borderRadius: '12px', margin: '1rem 0', maxWidth: '85%', border: '1px solid silver'}}>
   <source src="/video/pacientes-grupos-terapeuticos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
+Este vídeo mostra:
 - cadastrando um paciente  
 - cadastrando um grupo terapêutico
 
@@ -105,11 +107,12 @@ Você pode:
 
 #### 🎞️ Vídeo rápido
 
-<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+<video controls style={{borderRadius: '12px', margin: '1rem 0', maxWidth: '85%', border: '1px solid silver'}}>
   <source src="/video/agendamento-de-multiplos-atendimentos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
+Este vídeo mostra:
 - fazendo agendamentos múltiplos
 
 👉 [veja mais detalhes sobre agenda](./03_agendamento-de-multiplos-atendimentos.md)
@@ -141,11 +144,12 @@ Você pode clicar em cada situação para ver os detalhes e executar ações com
 
 #### 🎞️ Vídeo rápido
 
-<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+<video controls style={{borderRadius: '12px', margin: '1rem 0', maxWidth: '85%', border: '1px solid silver'}}>
   <source src="/video/situacoes-de-atendimento-clinico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
+Este vídeo mostra:
 - explorando painel de situações de atendimento
 
 👉 [mais detalhes sobre situações de atendimento](./04_situacoes-de-atendimento-clinico.md).
@@ -162,11 +166,12 @@ No painel de **Resultados**, você acompanha:
 
 #### 🎞️ Vídeo rápido
 
-<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+<video controls style={{borderRadius: '12px', margin: '1rem 0', maxWidth: '85%', border: '1px solid silver'}}>
   <source src="/video/resultados.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
+Este vídeo mostra:
 - explorando painel de resultados
 
 👉 [mais detalhes sobre o painel de resultados](./05_resultados.md).
@@ -188,11 +193,12 @@ No eConsult, isso pode ser feito com apoio dos **marcadores clínicos**, que aju
 
 #### 🎞️ Vídeo rápido
 
-<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+<video controls style={{borderRadius: '12px', margin: '1rem 0', maxWidth: '85%', border: '1px solid silver'}}>
   <source src="/video/anotacoes-clinicas-com-marcadores-clinicos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
+Este vídeo mostra:
 - selecionando marcadores clínicos para um atendimento
 
 Se você selecionar apenas um marcador e adicionar uma breve descrição com suas observações clínicas, o sistema já será capaz de gerar uma anotação estruturada. Naturalmente, quanto maior o número de marcadores e observações inseridos, mais rica e detalhada será a análise produzida pelo sistema.
@@ -211,11 +217,12 @@ Utilize o **Acompanhamento Longitudinal do Paciente** para visualizar:
 
 #### 🎞️ Vídeo rápido
 
-<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+<video controls style={{borderRadius: '12px', margin: '1rem 0', maxWidth: '85%', border: '1px solid silver'}}>
   <source src="/video/acompanhamento-clinico-longitudinal.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
+Este vídeo mostra:
 - verificando evolução
 - mudanças de padrão
 - tendências clínicas do paciente
@@ -236,11 +243,12 @@ Após finalizar, inicie o prontuário do paciente.
 
 #### 🎞️ Vídeo rápido
 
-<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+<video controls style={{borderRadius: '12px', margin: '1rem 0', maxWidth: '85%', border: '1px solid silver'}}>
   <source src="/video/prontuario-eletronico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
+Este vídeo mostra:
 - registrando a anotação SOAP do atendimento
 - explorando prontuário
 

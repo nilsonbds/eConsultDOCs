@@ -23,11 +23,12 @@ Nesse primeiro momento, priorize principalmente os campos obrigatórios.
 
 ## 🎞️ Vídeo rápido (recomendado)
 
-<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+<video controls style={{borderRadius: '12px', margin: '1rem 0', maxWidth: '85%', border: '1px solid silver'}}>
   <source src="/video/conta.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
+Este vídeo mostra:
 - acessando a conta  
 - abrindo “Dados Gerais”  
 - salvando as informações  

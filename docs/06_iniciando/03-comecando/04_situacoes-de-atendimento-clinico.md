@@ -18,11 +18,12 @@ O painel de **Situações de Atendimento** responde exatamente isso.
 
 ## 🎞️ Vídeo rápido (recomendado)
 
-<video controls style={{borderRadius: '12px', margin: '1rem 0'}}>
+<video controls style={{borderRadius: '12px', margin: '1rem 0', maxWidth: '85%', border: '1px solid silver'}}>
   <source src="/video/situacoes-de-atendimento-clinico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
+Este vídeo mostra:
 - explorando painel de situações de atendimento
 
 ---
