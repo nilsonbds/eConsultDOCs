@@ -10,7 +10,7 @@ Este guia foi criado para ajudar você a começar a utilizar o sistema de forma 
 
 Você não precisa configurar tudo agora.
 
-O mais importante é começar.
+O mais importante é começar a utilizar o sistema na prática.
 
 ⏱️ Em menos de 15 minutos você já consegue:
 
@@ -27,7 +27,7 @@ Para abrir o eConsult, basta acessar o site oficial da plataforma:
 
 Depois:
 
-1. Clique no botão **Entrar** no topo da tela2. 
+1. Clique no botão **Entrar** no topo da tela. 
 3. Informe seu email e senha
 4. Acesse sua conta
 
@@ -175,8 +175,7 @@ No painel de **Resultados**, você acompanha:
 
 ### 6. Registre a evolução clínica com marcadores clínicos
 
-✨ Esse é um dos principais diferenciais do eConsult:
-acompanhar a evolução clínica do paciente de forma longitudinal ao longo do tempo.
+✨ Um dos principais diferenciais do eConsult é justamente ajudar o profissional a acompanhar a evolução clínica do paciente ao longo do tempo.
 
 Após, ou durante a realização de cada atendimento, registre a anotação clínica do atendimento.
 
@@ -196,7 +195,7 @@ No eConsult, isso pode ser feito com apoio dos **marcadores clínicos**, que aju
 
 - selecionando marcadores clínicos para um atendimento
 
-Se você selecionar apenas um marcador e adicionar uma breve descrição com suas observações clínicas, o sistema já será capaz de gerar uma evolução. Naturalmente, quanto maior o número de marcadores e observações inseridos, mais rica e detalhada será a análise produzida pelo sistema.
+Se você selecionar apenas um marcador e adicionar uma breve descrição com suas observações clínicas, o sistema já será capaz de gerar uma anotação estruturada. Naturalmente, quanto maior o número de marcadores e observações inseridos, mais rica e detalhada será a análise produzida pelo sistema.
 
 👉 [aprofundar sobre marcadores clínicos](./06_anotacoes-clinicas-com-marcadores-clinicos.md).
 
@@ -245,14 +244,13 @@ Após finalizar, inicie o prontuário do paciente.
 - registrando a anotação SOAP do atendimento
 - explorando prontuário
 
-No eConsult, o prontuário é construído de forma contínua ao longo do acompanhamento.
-O psicólogo inicia o prontuário e registra a anamnese do paciente.
+✨ No eConsult, o prontuário não precisa ser escrito do zero a cada momento — ele é construído com apoio do sistema ao longo do acompanhamento clínico.
 
 Depois, a cada atendimento realizado, as evoluções, marcadores clínicos e anotações são incorporados automaticamente ao prontuário e ao histórico clínico do paciente.
 
 Assim, o prontuário vai sendo estruturado progressivamente durante o processo terapêutico.
 
-Ao final — ou em momentos específicos do acompanhamento — o profissional pode complementar o registro com hipóteses diagnósticas, prognósticas, plano terapêutico e evolução do tratamento, além de publicar um recorte temporal do prontuário.
+Ao final — ou em momentos importantes do acompanhamento — o profissional pode complementar o registro com hipóteses diagnósticas, prognósticas, plano terapêutico e evolução clínica do tratamento, além de publicar um recorte temporal do prontuário.
 
 👉 [mais detalhes sobre prontuário](./08_prontuario-eletronico.md)
 
