@@ -96,7 +96,7 @@ function HomepageFooter() {
               <p className={styles.footerTitle}>Conteúdo e informações</p>
 
               <p className={styles.footerText}>
-                <Link to="/docs/primeiros-passos">Primeiros passos</Link>
+                <Link to="/docs/iniciando/comecando-individual/comecando-econsult-primeiros-passos">Primeiros passos</Link>
               </p>
 
               <p className={styles.footerText}>

@@ -19,7 +19,7 @@ const featureGroups = [
           'Crie sua conta e configure os primeiros dados para começar a usar o sistema com segurança e personalização.',
       },
       {
-        link: '/docs/iniciando/comecando/comecando-econsult-primeiros-passos',
+        link: '/docs/iniciando/comecando-individual/comecando-econsult-primeiros-passos',
         title: 'Passo 2 — Navegação e primeiros atendimentos',
         icon: <LuUserCheck />,
         description:

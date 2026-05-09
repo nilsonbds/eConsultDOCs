@@ -30,7 +30,7 @@ export default function HomepageStartHere() {
           <div className={styles.startAction}>
             <Link
               className="button button--primary button--lg"
-              to="/docs/primeiros-passos"
+              to="/docs/iniciando/comecando-individual/comecando-econsult-primeiros-passos"
             >
               Ver primeiros passos →
             </Link>

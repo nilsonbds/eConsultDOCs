@@ -266,8 +266,6 @@ Ao final — ou em momentos importantes do acompanhamento — o profissional pod
 
 ---
 
----
-
 ### 9. Finalize e publique o prontuário
 
 Depois de estruturar o prontuário ao longo dos atendimentos, chegará o momento de consolidar e publicar um recorte clínico do acompanhamento.
