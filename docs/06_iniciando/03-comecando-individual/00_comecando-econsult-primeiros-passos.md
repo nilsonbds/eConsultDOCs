@@ -334,4 +334,26 @@ O mais importante é:
 
 ---
 
+# 🧩 Guias práticos por contexto clínico
+
+### 🧑‍🤝‍🧑 Primeiros passos: Terapia de Casal
+- Cadastro do casal
+- Organização dos atendimentos
+- Evolução clínica compartilhada
+- Prontuário longitudinal do casal
+
+### 👨‍👩‍👧 Primeiros passos: Terapia de Família
+- Estrutura familiar
+- Membros vinculados
+- Sessões familiares
+- Histórico e dinâmica longitudinal
+
+### 👥 Primeiros passos: Terapia em Grupo
+- Cadastro de grupos terapêuticos
+- Participantes e presença
+- Evolução grupal
+- Organização longitudinal dos encontros
+
+---
+
 Se precisar de ajuda, você pode acessar a documentação completa ou entrar em contato com o suporte (atendimento@econsult.app.br).
