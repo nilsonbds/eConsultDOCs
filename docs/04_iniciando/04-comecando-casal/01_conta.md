@@ -104,11 +104,3 @@ No manual completo você encontra orientações sobre:
 - configurações adicionais da conta
 
 👉 [Acessar manual completo da Conta](/docs/conta)
-
----
-
-## 👉 Próximo passo
-
-Continue para o próximo item dos primeiros passos:
-
-👉 [Cadastre seus pacientes](./02_pacientes.md)
