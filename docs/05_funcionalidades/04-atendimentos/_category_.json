@@ -1,0 +1,9 @@
+{
+  "label": "Atendimentos",
+  "position": 4,
+  "link": {
+    "slug": "/atendimentos",
+    "type": "generated-index",
+    "description": "O painel Atendimentos do eConsult é uma ferramenta que centraliza e organiza os atendimentos agendados, facilitando o acesso às informações e otimizando o fluxo de trabalho."
+  }
+}

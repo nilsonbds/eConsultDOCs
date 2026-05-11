@@ -1,9 +1,0 @@
-{
-  "label": "Recibos",
-  "position": 17,
-  "link": {
-    "slug": "/recibos",
-    "type": "generated-index",
-    "description": "O painel Recibos apresenta todos os recibos emitidos, facilitando a visualização de detalhes e o controle destes documentos."
-  }
-}

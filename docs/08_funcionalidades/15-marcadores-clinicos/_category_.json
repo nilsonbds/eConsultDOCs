@@ -1,9 +1,0 @@
-{
-  "label": "Marcadores Clínicos",
-  "position": 15,
-  "link": {
-    "slug": "/marcadores-clinicos",
-    "type": "generated-index",
-    "description": "O painel Marcadores Clínicos de Atendimentos do eConsult é uma ferramenta que centraliza os atendimentos vinculados a marcadores específicos, organizando-os em *cards* agrupados por tipo de marcador."
-  }
-}

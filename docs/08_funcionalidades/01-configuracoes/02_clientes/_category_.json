@@ -1,9 +1,0 @@
-{
-  "label": "Configurações para Pacientes",
-  "position": 2,
-  "link": {
-    "slug": "/clientes",
-    "type": "generated-index",
-    "description": "As configurações para Pacientes, com campos personalizados, Grupos Etários e mensagens personalizadas, permitem uma gestão mais detalhada e adaptada às necessidades do negócio, oferecendo uma visão segmentada e precisa."
-  }
-}

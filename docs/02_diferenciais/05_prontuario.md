@@ -5,6 +5,7 @@ sidebar_position: 5
 # Prontuário Eletrônico
 
 ***O núcleo clínico longitudinal do eConsult.***
+***🗂️ NÚCLEO LONGITUDINAL***
 
 O **Prontuário Eletrônico** do eConsult foi concebido para ir além do simples registro de atendimentos. Ele funciona como o **centro estruturante do acompanhamento clínico longitudinal**, integrando informações, hipóteses, evoluções e documentos em uma linha do tempo coerente.
 

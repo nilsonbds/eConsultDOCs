@@ -1,9 +1,0 @@
-{
-  "label": "Auditoria",
-  "position": 2,
-  "link": {
-    "slug": "/auditoria",
-    "type": "generated-index",
-    "description": "O painel Segurança e Auditoria do eConsult registra e organiza as principais atividades realizadas na plataforma, permitindo acompanhar ações do sistema e dos usuários com transparência e rastreabilidade. Por meio desse painel, é possível consultar operações realizadas em diferentes módulos, identificar alterações em registros e analisar eventos relevantes para a gestão, segurança e conformidade do sistema."
-  }
-}

@@ -24,14 +24,14 @@ export default function HomepagePortalPaths() {
 
         <div className={styles.grid}>
 
-          {/* Guia de Uso */}
+          {/* Ecossistema Clínico eConsult */}
           <div className={styles.card}>
             <div className={styles.icon}>
               <LuBookOpen />
             </div>
 
             <h3 className={styles.cardTitle}>
-              Guia de Uso
+              Ecossistema Clínico eConsult
             </h3>
 
             <p className={styles.cardText}>

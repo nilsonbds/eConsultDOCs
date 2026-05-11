@@ -1,0 +1,9 @@
+{
+  "label": "Consolidação Financeira",
+  "position": 11,
+  "link": {
+    "slug": "/consolidacao-financeira",
+    "type": "generated-index",
+    "description": "O painel de Consolidação Financeira organiza e apresenta as finanças da empresa em um período específico."
+  }
+}

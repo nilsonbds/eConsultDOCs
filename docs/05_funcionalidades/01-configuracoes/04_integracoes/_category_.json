@@ -1,0 +1,9 @@
+{
+  "label": "Configurações de Integrações",
+  "position": 4,
+  "link": {
+    "slug": "/integracoes",
+    "type": "generated-index",
+    "description": "Este grupo de configurações permite integrar o eConsult a outras ferramentas e sistemas, promovendo mais eficiência, automação e melhor experiência do usuário."
+  }
+}

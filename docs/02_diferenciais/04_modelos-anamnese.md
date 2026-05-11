@@ -3,6 +3,7 @@ sidebar_position: 4
 ---
 
 # Modelos de Anamnese
+***🧩 ESTRUTURA CLÍNICA***
 
 ***Estrutura clínica consistente desde o primeiro contato.***
 

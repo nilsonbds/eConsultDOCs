@@ -1,9 +1,0 @@
-{
-  "label": "Sua Conta",
-  "position": 0,
-  "link": {
-    "slug": "/conta",
-    "type": "generated-index",
-    "description": "As telas do Painel Conta reúnem diversas configurações importantes, permitindo que você atualize as suas informações como dados gerais, assinaturas, endereços, foto de perfil, logotipo e assistentes."
-  }
-}

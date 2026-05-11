@@ -1,9 +1,0 @@
-{
-  "label": "Acompanhamento Inteligente do Paciente",
-  "position": 5,
-  "link": {
-    "slug": "/acompanhamento-inteligente-do-paciente",
-    "type": "generated-index",
-    "description": "O Acompanhamento Inteligente do Paciente consolida, em uma única tela, dados clínicos, comportamentais e financeiros do acompanhamento terapêutico."
-  }
-}

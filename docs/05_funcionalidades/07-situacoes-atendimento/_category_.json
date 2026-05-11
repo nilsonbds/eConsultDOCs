@@ -1,0 +1,9 @@
+{
+  "label": "Situações de Atendimento",
+  "position": 7,
+  "link": {
+    "slug": "/situacoes-atendimento",
+    "type": "generated-index",
+    "description": "O painel Situações de Atendimento organiza ocorrências operacionais e administrativas da rotina clínica, permitindo identificar rapidamente pendências, atendimentos não confirmados, registros pendentes e outras situações que exigem ação."
+  }
+}

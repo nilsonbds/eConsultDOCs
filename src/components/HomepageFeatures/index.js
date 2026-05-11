@@ -1,43 +1,43 @@
 import clsx from 'clsx';
-import { LuAward, LuUserCheck, LuBadgeHelp, LuUsers, LuCalendarClock, LuChartColumnStacked, LuLayoutDashboard, LuFileDiff, LuCircleDollarSign, LuReceipt, LuHandHelping, LuHeartCrack, LuHandshake, LuBook, LuBrainCircuit, LuSettings } from "react-icons/lu";
+import { LuUserRound, LuHeartHandshake, LuAward, LuUsersRound, LuMessagesSquare, LuUserCheck, LuBadgeHelp, LuUsers, LuCalendarClock, LuChartColumnStacked, LuLayoutDashboard, LuFileDiff, LuCircleDollarSign, LuReceipt, LuHandHelping, LuHeartCrack, LuHandshake, LuBook, LuBrainCircuit, LuSettings } from "react-icons/lu";
 import { TbDashboard, TbCashRegister } from "react-icons/tb";
 import styles from './styles.module.css';
 import HomepagePortalPaths from '../HomepagePortalPaths';
 
 const featureGroups = [
   {
-    eyebrow: 'Começando no eConsult',
-    title: 'Sua jornada inicial no eConsult',
+    eyebrow: 'Contextos de Atendimento no eConsult',
+    title: 'Estruture diferentes formas de acompanhamento clínico',
     description:
-      'Siga estes passos para configurar sua conta, realizar seu primeiro atendimento e começar a acompanhar seus pacientes com segurança clínica.',
+      'Aprenda como organizar atendimentos individuais, de casal, familiares e grupos terapêuticos no eConsult com continuidade, contexto e integração clínica.',
     items: [
       {
-        link: '/docs/iniciando/nova-conta',
-        title: 'Passo 1 — Criar conta e configuração inicial',
-        icon: <LuAward />,
+        link: '/docs/primeiros-passos-terapia-individual',
+        title: '👤 Atendimento Individual',
+        icon: <LuUserRound />,
         description:
-          'Crie sua conta e configure os primeiros dados para começar a usar o sistema com segurança e personalização.',
+          'Entenda como organizar sessões, prontuário, evolução clínica e acompanhamento longitudinal no atendimento individual.',
       },
       {
-        link: '/docs/iniciando/comecando-individual/comecando-econsult-primeiros-passos',
-        title: 'Passo 2 — Navegação e primeiros atendimentos',
-        icon: <LuUserCheck />,
+        link: '/docs/primeiros-passos-terapia-casal',
+        title: '💞 Atendimento de Casal',
+        icon: <LuHeartHandshake />,
         description:
-          'Aprenda a acessar, navegar no sistema e realizar seus primeiros atendimentos de forma organizada.',
+          'Aprenda a estruturar atendimentos de casal com registros compartilhados, histórico integrado e visão relacional do acompanhamento.',
       },
       {
-        link: '/docs/iniciando/comecando/agendamento-de-multiplos-atendimentos',
-        title: 'Passo 3 — Organização da agenda e atendimentos',
-        icon: <LuCalendarClock />,
+        link: '/docs/primeiros-passos-terapia-familia',
+        title: '👨‍👩‍👧 Atendimento Familiar',
+        icon: <LuUsersRound />,
         description:
-          'Agende, registre evoluções e organize sua agenda clínica com mais clareza no dia a dia.',
+          'Organize atendimentos familiares com contexto coletivo, histórico integrado e acompanhamento longitudinal dos participantes.',
       },
       {
-        link: '/docs/iniciando/comecando/anotacoes-clinicas-com-marcadores-clinicos',
-        title: 'Passo 4 — Registro clínico no prontuário',
-        icon: <LuBook />,
+        link: '/docs/primeiros-passos-terapia-grupo',
+        title: '👥 Grupos Terapêuticos',
+        icon: <LuMessagesSquare />,
         description:
-          'Estruture seus registros clínicos com segurança, integração aos atendimentos e continuidade do cuidado.',
+          'Estruture grupos terapêuticos com prontuário coletivo, acompanhamento dos participantes e continuidade clínica integrada.',
       },
     ],
   },

@@ -1,0 +1,9 @@
+{
+  "label": "Relatórios",
+  "position": 21,
+  "link": {
+    "slug": "/relatorios",
+    "type": "generated-index",
+    "description": "O Painel Relatórios permite visualizar, filtrar, personalizar e exportar dados do sistema de forma prática, oferecendo análises ágeis para apoio à tomada de decisões."
+  }
+}

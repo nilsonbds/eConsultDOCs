@@ -1,0 +1,9 @@
+{
+  "label": "Configurações de Agenda",
+  "position": 1,
+  "link": {
+    "slug": "/agenda",
+    "type": "generated-index",
+    "description": "As configurações de agenda permitem personalizar o gerenciamento de tempo e compromissos, garantindo organização e planejamento eficientes."
+  }
+}

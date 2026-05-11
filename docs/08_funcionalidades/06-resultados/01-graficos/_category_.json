@@ -1,9 +1,0 @@
-{
-  "label": "Aba Panorama",
-  "position": 1,
-  "link": {
-    "slug": "/graficos",
-    "type": "generated-index",
-    "description": "A aba Panorama mostra gráficos que facilitam o acompanhamento e a análise contínua ao longo de um período."
-  }
-}

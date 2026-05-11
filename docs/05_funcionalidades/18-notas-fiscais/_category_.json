@@ -1,0 +1,9 @@
+{
+  "label": "Notas Fiscais",
+  "position": 18,
+  "link": {
+    "slug": "/notas-fiscais",
+    "type": "generated-index",
+    "description": "O painel Notas Fiscais reúne todos os registros de Notas Fiscais emitidas, permitindo fácil visualização dos detalhes e melhor controle das informações."
+  }
+}

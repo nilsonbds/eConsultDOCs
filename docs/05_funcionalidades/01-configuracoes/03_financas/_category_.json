@@ -1,0 +1,9 @@
+{
+  "label": "Configurações para Finanças",
+  "position": 3,
+  "link": {
+    "slug": "/financas",
+    "type": "generated-index",
+    "description": "Uma gestão financeira eficaz exige clareza e organização nas formas de pagamento, categorias de receitas e despesas, além dos parâmetros de cobrança — elementos essenciais para garantir controle, precisão e otimização das finanças do negócio."
+  }
+}

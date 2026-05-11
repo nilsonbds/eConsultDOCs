@@ -1,9 +1,0 @@
-{
-  "label": "Comunicação",
-  "position": 23,
-  "link": {
-    "slug": "/comunicacao",
-    "type": "generated-index",
-    "description": "O módulo Comunicação reúne as ferramentas responsáveis pelo envio e acompanhamento de mensagens enviadas aos pacientes, como e-mails e notificações. Nesta área é possível visualizar o histórico de envios, verificar o status das mensagens e acompanhar possíveis falhas ou pendências no processo de comunicação."
-  }
-}

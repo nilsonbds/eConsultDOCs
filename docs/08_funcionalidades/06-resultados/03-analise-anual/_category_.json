@@ -1,9 +1,0 @@
-{
-  "label": "Aba Análise Anual",
-  "position": 3,
-  "link": {
-    "slug": "/analise-atual",
-    "type": "generated-index",
-    "description": "A Análise Anual é uma funcionalidade exclusiva que gera insights a partir dos dados consolidados de um ano completo."
-  }
-}

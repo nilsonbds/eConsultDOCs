@@ -1,0 +1,9 @@
+{
+  "label": "Iniciando",
+  "position": 4,
+  "link": {
+    "slug": "/iniciando-econsult",
+    "type": "generated-index",
+    "description": "Nesta seção, você aprenderá como criar uma nova conta, recuperar o acesso em caso de senha esquecida, fazer login na plataforma, dar os primeiros passos no uso do eConsult e se familiarizar com a interface e a navegação."
+  }
+}

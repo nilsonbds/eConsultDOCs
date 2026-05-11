@@ -1,9 +1,9 @@
 {
-  "label": "Diferenciais Estruturais do eConsult",
+  "label": "Arquitetura da Inteligência Clínica Longitudinal",
   "position": 2,
   "link": {
     "slug": "/principais-diferenciais",
     "type": "generated-index",
-    "description": "Os Diferenciais Estruturais do eConsult representam a base que sustenta sua proposta de inteligência clínica longitudinal. Mais do que funcionalidades isoladas, tratam-se de componentes integrados que conectam dados clínicos, comportamentais e operacionais em uma visão coerente do processo terapêutico. Essa arquitetura permite reduzir a fragmentação da informação, qualificar o raciocínio clínico e oferecer ao profissional maior previsibilidade, segurança e profundidade no acompanhamento de pacientes e grupos."
+    "description": "A Arquitetura da Inteligência Clínica Longitudinal reúne os componentes que estruturam o acompanhamento clínico no eConsult, conectando prontuário, avaliações, IA contextual, marcadores clínicos, adesão e evolução do cuidado em uma visão longitudinal integrada."
   }
 }

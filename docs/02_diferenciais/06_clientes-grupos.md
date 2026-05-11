@@ -2,13 +2,14 @@
 sidebar_position: 6
 ---
 
-# Pacientes e Grupos Terapêuticos
+# Atendimento Individual, de Casal, Família e Grupo Terapêutico
+***👥 ARQUITETURA MULTICONTEXTO***
 
 ***O núcleo estrutural do acompanhamento longitudinal no eConsult.***
 
-No eConsult, o cadastro de pacientes e grupos terapêuticos vai muito além de um simples registro administrativo. Cada entrada no sistema se torna uma **entidade clínica ativa**, que organiza, conecta e contextualiza todo o processo de acompanhamento.
+No eConsult, o cadastro de pacientes, casais, famílias e grupos terapêuticos vai muito além de um simples registro administrativo. Cada entrada no sistema se torna uma **entidade clínica ativa**, capaz de organizar, conectar e contextualizar todo o processo de acompanhamento.
 
-Pacientes e grupos funcionam como o **centro gravitacional do ecossistema eConsult**, integrando de forma coerente:
+Pacientes e grupos funcionam como o **centro organizador do ecossistema eConsult**, integrando de forma coerente:
 
 - dados clínicos  
 - trajetória de atendimentos  
@@ -16,7 +17,7 @@ Pacientes e grupos funcionam como o **centro gravitacional do ecossistema eConsu
 - informações financeiras  
 - documentos e registros evolutivos  
 
-Isso permite que o profissional não apenas armazene informações, mas **acompanhe o processo terapêutico com continuidade e contexto**.
+Isso permite que o profissional não apenas armazene informações, mas **acompanhe o processo terapêutico com continuidade, rastreabilidade e contexto**.
 
 ---
 
@@ -37,11 +38,11 @@ Com isso, o profissional passa a ter uma **visão clínica e operacional unifica
 
 ---
 
-## Cadastro de Grupos Terapêuticos
+## Cadastro de Casais, Famílias e Grupos Terapêuticos
 
-O eConsult trata o grupo terapêutico como uma **entidade clínica própria**, e não apenas como um conjunto de participantes.
+O eConsult trata o cadastro de casais, famílias e grupos terapêuticos como uma **entidade clínica própria**, e não apenas como um conjunto de participantes.
 
-Cada grupo possui:
+Cada cadastro possui:
 
 - registro independente  
 - histórico próprio  
@@ -49,23 +50,24 @@ Cada grupo possui:
 - materiais compartilhados  
 - prontuário coletivo  
 
-Ao mesmo tempo, cada membro mantém seu **histórico individual conectado ao grupo**, preservando a dupla leitura:
+Ao mesmo tempo, cada participante mantém seu **histórico individual conectado ao grupo**, preservando duas perspectivas complementares:
 
-- visão do grupo  
-- visão do participante  
+- visão do casal, família ou grupo  
+- visão individual do participante  
 
 Essa arquitetura é especialmente relevante para profissionais que trabalham com:
 
+- terapia de casal  
+- terapia familiar  
 - grupos terapêuticos  
-- grupos psicoeducativos  
 - intervenções coletivas  
-- atendimentos familiares ou multifamiliares  
+- práticas multiprofissionais  
 
 ---
 
 ## Centralização inteligente do contexto
 
-No eConsult, todas as ações relacionadas ao paciente ou grupo são automaticamente vinculadas ao seu núcleo.
+No eConsult, todas as ações relacionadas ao paciente ou ao coletivo (casal, família ou grupo) são automaticamente vinculadas ao seu núcleo de acompanhamento.
 
 Isso inclui:
 
@@ -76,20 +78,20 @@ Isso inclui:
 - eventos financeiros  
 - documentos  
 
-Essa centralização reduz fragmentação, melhora a rastreabilidade e sustenta uma **leitura longitudinal mais confiável**.
+Essa centralização reduz fragmentação, melhora a rastreabilidade e sustenta uma **leitura longitudinal mais consistente**.
 
 ---
 
 ## Rastreabilidade clínica e operacional
 
-Cada interação relevante fica registrada na linha do tempo do paciente ou grupo, permitindo:
+Cada interação relevante fica registrada na linha do tempo do indivíduo e do grupo, permitindo:
 
 - reconstruir a trajetória do caso  
 - identificar padrões de continuidade ou oscilação  
 - sustentar decisões clínicas com mais contexto  
 - fortalecer o respaldo técnico-documental  
 
-Não se trata apenas de histórico — mas de **memória clínica estruturada**.
+Não se trata apenas de histórico, mas de uma **memória clínica estruturada**.
 
 ---
 
@@ -97,11 +99,11 @@ Não se trata apenas de histórico — mas de **memória clínica estruturada**.
 
 O eConsult conecta naturalmente três dimensões que costumam ficar separadas em outros sistemas:
 
-- **clínica** → prontuário, evolução, marcadores  
-- **adesão** → presença, faltas, padrões de comparecimento  
-- **operacional/financeira** → faturas, créditos, perdas  
+- **clínica** → prontuário, evolução e marcadores  
+- **adesão** → presença, faltas e padrões de comparecimento  
+- **operacional/financeira** → faturas, créditos e perdas  
 
-Essa integração favorece uma compreensão mais realista do processo terapêutico ao longo do tempo.
+Essa integração favorece uma compreensão mais ampla e contextualizada do processo terapêutico ao longo do tempo.
 
 ---
 
@@ -110,32 +112,33 @@ Essa integração favorece uma compreensão mais realista do processo terapêuti
 A mesma arquitetura sustenta:
 
 - atendimentos individuais  
-- atendimentos de casal/família  
+- atendimentos de casal  
+- atendimentos familiares  
 - grupos terapêuticos  
 - práticas multiprofissionais  
 
-O sistema cresce junto com a prática do profissional **sem aumentar a complexidade operacional**.
+O sistema cresce junto com a prática do profissional **sem aumentar desnecessariamente a complexidade operacional**.
 
 ---
 
 ## Segurança e conformidade com a LGPD
 
-O eConsult segue rigorosamente a **Lei Geral de Proteção de Dados (LGPD)**.
+O eConsult foi estruturado com atenção à **Lei Geral de Proteção de Dados (LGPD)** e às boas práticas de proteção de informações sensíveis em saúde.
 
-A plataforma utiliza:
+A plataforma utiliza recursos como:
 
-- criptografia de última geração  
 - controle de acesso por perfil  
-- monitoramento contínuo  
-- auditorias internas  
-- protocolos de prevenção contra incidentes  
+- criptografia  
+- registros de auditoria  
+- monitoramento de uso  
+- medidas de prevenção contra acessos indevidos  
 
 ### Anonimização para usos analíticos
 
-Quando aplicável, os dados passam por processos de **anonimização**, eliminando identificadores diretos e indiretos.
+Quando aplicável, os dados podem passar por processos de **anonimização**, reduzindo a possibilidade de identificação direta dos usuários.
 
 :::note
-**Recomendação:** recomenda-se transparência com o paciente sobre o uso de IA e tratamento de dados na plataforma.
+**Recomendação:** recomenda-se transparência com os pacientes sobre o uso de IA e tratamento de dados na plataforma.
 :::
 
 ---
@@ -144,82 +147,127 @@ Quando aplicável, os dados passam por processos de **anonimização**, eliminan
 
 ### 1. Não é apenas cadastro — é estrutura clínica do caso
 
-Na maioria dos sistemas, o paciente é um registro.
+Na maioria dos sistemas, o paciente é apenas um registro administrativo.
 
-No eConsult, ele é o **núcleo organizador do acompanhamento longitudinal**.
+No eConsult, ele funciona como o **núcleo organizador do acompanhamento longitudinal**.
 
-**Valor percebido:** mais coerência clínica.
+**Valor percebido:** mais coerência clínica e continuidade do cuidado.
 
 ---
 
 ### 2. Suporte real a grupos terapêuticos
 
-Poucas plataformas tratam grupos com profundidade estrutural.
+Poucas plataformas oferecem suporte estrutural aprofundado para grupos terapêuticos.
 
 O eConsult permite:
 
 - prontuário do grupo  
-- prontuário do membro  
+- prontuário individual do participante  
 - indicadores coletivos  
 - indicadores individuais  
 
-**Valor percebido:** adequação à prática real.
+**Valor percebido:** adequação à prática clínica real.
 
 ---
 
 ### 3. Integração longitudinal automática
 
-Tudo o que acontece com o paciente ou grupo se conecta ao seu histórico.
+Tudo o que acontece com o paciente ou grupo é conectado automaticamente ao seu histórico.
 
-**Valor percebido:** menos fragmentação, mais clareza.
+**Valor percebido:** menos fragmentação e mais clareza sobre a trajetória do acompanhamento.
 
 ---
 
 ### 4. Base para inteligência clínica contextual
 
-Esse núcleo estruturado alimenta:
+Esse núcleo estruturado contribui para funcionalidades como:
 
 - marcadores clínicos  
 - síntese clínica  
 - evolução longitudinal  
-- IA contextual  
+- IA contextual de apoio clínico  
 
-Sem essa arquitetura, a inteligência clínica não se sustenta.
+Sem uma base longitudinal organizada, análises clínicas mais amplas tendem a perder contexto e continuidade.
+
+---
+
+## Uma estrutura pensada para além do atendimento individual
+
+Em muitos sistemas, atendimentos de casal, família ou grupos terapêuticos acabam sendo tratados como adaptações do modelo individual.
+
+Na prática, isso pode gerar fragmentação, dificuldade de registro, perda de contexto coletivo e fluxos pouco coerentes com a realidade clínica.
+
+O eConsult foi estruturado de forma diferente.
+
+A plataforma considera casal, família e grupos terapêuticos como formas legítimas e próprias de acompanhamento clínico — com contexto, histórico, registros e dinâmica coletiva integrados à estrutura do sistema.
+
+Isso permite que o profissional acompanhe simultaneamente:
+
+- a trajetória do grupo  
+- a dinâmica coletiva  
+- o histórico individual dos participantes  
+
+sem precisar improvisar fluxos ou adaptar sua prática clínica à lógica do sistema.
+
+O objetivo é que o sistema se adapte à realidade do acompanhamento — e não o contrário.
+
+---
+
+## O que isso representa na prática para o profissional?
+
+Na rotina clínica, informações importantes costumam ficar espalhadas entre agenda, prontuário, financeiro, anotações e memória clínica do próprio terapeuta.
+
+O eConsult busca reduzir essa fragmentação, ajudando o profissional a acompanhar seus pacientes com mais continuidade e contexto ao longo do tempo.
+
+Isso pode favorecer:
+
+- menos perda de informações entre sessões  
+- mais clareza sobre a trajetória do paciente  
+- maior continuidade no acompanhamento clínico  
+- redução do retrabalho na organização do histórico  
+- acesso mais rápido ao contexto do caso  
+- melhor visualização de padrões de adesão e frequência  
+- integração entre clínica, rotina e organização do consultório  
+- mais segurança documental e rastreabilidade clínica  
+
+Na prática, o objetivo não é apenas armazenar registros, mas ajudar o profissional a sustentar o acompanhamento terapêutico de forma mais organizada, integrada e longitudinal.
 
 ---
 
 ## Comparativo com outros sistemas
 
 **Outros sistemas:**  
-- cadastro focado em dados básicos  
+
+- cadastro focado apenas em dados básicos  
 - visão fragmentada entre módulos  
 - suporte limitado a grupos  
 - pouca leitura longitudinal  
 
 **eConsult:**  
+
 - paciente/grupo como núcleo do ecossistema  
-- integração clínica + operacional  
-- suporte profundo a grupos terapêuticos  
-- base estruturada para inteligência longitudinal  
+- integração clínica e operacional  
+- suporte estruturado a grupos terapêuticos  
+- base organizada para acompanhamento longitudinal  
 
 ---
 
 ## O que isso representa na prática?
 
-Enquanto muitos sistemas apenas **organizam contatos**, o eConsult organiza **trajetórias clínicas completas**.
+Enquanto muitos sistemas apenas **organizam contatos e informações**, o eConsult busca estruturar **trajetórias clínicas com continuidade e contexto**.
 
-Isso tende a gerar:
+Isso pode favorecer:
 
 - maior continuidade do cuidado  
 - melhor rastreabilidade  
 - menos perda de informação  
 - mais coerência entre clínica e operação  
-- base sólida para análises longitudinais  
+- base mais consistente para análises longitudinais  
 
 :::tip Diferencial real
-No eConsult, pacientes e grupos deixam de ser cadastros estáticos e passam a funcionar como **entidades clínicas vivas**, sustentando todo o ecossistema de inteligência longitudinal.
+No eConsult, pacientes e grupos deixam de ser apenas cadastros estáticos e passam a funcionar como estruturas organizadoras do acompanhamento clínico ao longo do tempo.
 :::
 
 ---
 
-**O eConsult é a escolha certa para quem busca organização clínica profunda, integração real e sustentação do cuidado ao longo do tempo.**
+**O eConsult é uma plataforma desenvolvida para profissionais que buscam integração clínica, organização longitudinal e continuidade no acompanhamento terapêutico.**

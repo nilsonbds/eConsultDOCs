@@ -3,6 +3,7 @@ sidebar_position: 2
 ---
 
 # Acompanhamento Inteligente do Paciente
+***📈 LEITURA LONGITUDINAL***
 
 ***Uma visão longitudinal que integra clínica, adesão e continuidade do cuidado.***
 

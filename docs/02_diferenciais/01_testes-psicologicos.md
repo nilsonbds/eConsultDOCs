@@ -3,10 +3,11 @@ sidebar_position: 1
 ---
 
 # Avaliações Psicológicas Integradas
+***📊 AVALIAÇÃO ESTRUTURADA***
 
 ***Avaliações científicas incorporadas ao fluxo clínico.***
 
-A aplicação de avaliações psicológicas é uma etapa central da prática baseada em evidências em saúde mental.
+A aplicação de avaliações psicológicas (escalas psicométricas) é uma etapa central da prática baseada em evidências em saúde mental.
 
 No **eConsult**, essa funcionalidade foi concebida para ir além da simples aplicação de escalas. A plataforma integra as avaliações diretamente ao processo clínico, oferecendo **rigor técnico, fluidez operacional e leitura longitudinal dos resultados**.
 
@@ -53,7 +54,7 @@ Diferentemente de soluções que tratam avaliações como eventos isolados, o eC
 - dialoguem com marcadores clínicos  
 - apoiem a leitura evolutiva do caso  
 
-Isso transforma as avaliações em **ferramentas vivas de acompanhamento clínico**, e não apenas em registros pontuais.
+Isso transforma as avaliações em **ferramentas vivas de acompanhamento clínico longitudinal**, e não apenas em registros pontuais.
 
 ---
 

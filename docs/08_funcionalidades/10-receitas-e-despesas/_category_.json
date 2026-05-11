@@ -1,9 +1,0 @@
-{
-  "label": "Receitas e Despesas",
-  "position": 10,
-  "link": {
-    "slug": "/receitas-despesas",
-    "type": "generated-index",
-    "description": "O Painel Receitas e Despesas oferece uma visão clara do fluxo de caixa, reunindo todas as receitas e despesas para facilitar o planejamento e o controle financeiro da organização."
-  }
-}

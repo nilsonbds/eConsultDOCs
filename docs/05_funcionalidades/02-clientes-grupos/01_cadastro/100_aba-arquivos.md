@@ -1,0 +1,123 @@
+---
+sidebar_position: 100
+---
+
+# Aba Arquivos
+
+![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/aba-arquivos.png)
+
+:::warning
+A aba Arquivos não será mostrada se você não fizer antes a configuração "**[Integração com Google Drive](/docs/funcionalidades/configuracoes/integracoes/googledrive)**".
+:::
+
+O eConsult oferece um sistema integrado de gerenciamento de arquivos, diretamente conectado ao seu Google Drive, proporcionando uma solução centralizada, segura e eficiente para armazenar e acessar documentos de pacientes ou grupos terapêuticos.
+
+Com essa integração, todos os arquivos — como documentos, relatórios, imagens e outros formatos — podem ser facilmente organizados, acessados e compartilhados pela própria plataforma. Isso otimiza o fluxo de trabalho, melhora a organização e permite a categorização lógica e personalizada dos arquivos, de acordo com as necessidades do seu atendimento.
+
+Ao centralizar os documentos no Google Drive, você conta com sincronização em tempo real, backups automáticos e maior segurança, reduzindo o risco de perda de informações importantes.
+
+Para ativar a integração, acesse: [Painel de Configurações > Google Drive](/docs/funcionalidades/configuracoes/integracoes/googledrive).
+
+Na aba Arquivos, é possível anexar documentos diretamente vinculados ao paciente, facilitando o gerenciamento e o acesso rápido a informações relevantes.
+
+![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-033.png)
+
+## Incluir arquivo vinculado ao paciente
+
+1. Na aba "Arquivos", acione a opção "Incluir novo arquivo" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_add.png).
+
+1. O sistema abre formulário de cadastro de novo arquivo.
+
+    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-034.png)
+
+1. Acione a opção "Escolher Arquivo".
+
+1. Selecione o arquivo desejado do seu dispositivo.
+
+1. Uma vez selecionado o arquivo do seu dispositivo, o sistema preencherá automaticamente os campos "Nome Original do Arquivo", "Tamanho" e "Tipo".
+
+1. Marque a opção "Publicar no prontuário (Público)" se desejar compartilhar com seu paciente o link do arquivo para downloads.
+
+1. Acione o botão "Incluir" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_incluir.png).
+
+1. A aba Arquivos mostrará o arquivo incluído já vinculado ao paciente.
+
+## Alterar arquivo vinculado ao paciente
+
+1. Na aba "Arquivos, no *card* do arquivo que se quer alterar, acione a opção ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png).
+
+1. O sistema abre formulário de cadastro do arquivo.
+
+1. Se quiser mudar o arquivo, acione a opção "Escolher Arquivo".
+
+    1. Selecione o arquivo desejado do seu dispositivo.
+
+    1. Uma vez selecionado o arquivo do seu dispositivo, o sistema preencherá automaticamente os campos "Nome Original do Arquivo", "Tamanho" e "Tipo".
+
+1. Marque a opção "Publicar no prontuário (Público)" se desejar compartilhar com seu paciente o link do arquivo para downloads.
+
+1. Acione o botão "Salvar" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_salvar.png).
+
+1. A aba Arquivos mostrará o arquivo alterado vinculado ao paciente.
+
+## Excluir arquivo vinculado ao paciente
+
+1. Na aba "Arquivos, no *card* do arquivo que se quer excluir, acione a opção ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_card-delete.png).
+
+1. Confirme a exclusão acionando a opção "Sim".
+
+1. A aba Arquivos deixará de mostrar o arquivo excluído vinculado ao paciente.
+
+Na aba Arquivos, você pode vincular quantos arquivos desejar ao paciente, sendo o único limite o espaço disponível na sua conta do Google Drive. Essa flexibilidade permite armazenar uma ampla variedade de documentos, como relatórios, imagens, contratos e outros arquivos importantes relacionados ao atendimento.
+
+Além disso, a plataforma oferece ferramentas práticas para o gerenciamento desses arquivos. Com o botão "Alterar" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png), você pode substituir documentos existentes por versões atualizadas, garantindo que as informações estejam sempre corretas. Caso algum arquivo não seja mais necessário, o botão Excluir  permite removê-lo rapidamente, mantendo sua organização sempre em dia.
+
+Para facilitar ainda mais o acesso e a consulta, a opção "Visualizar" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_visualizar.png) possibilita abrir o arquivo diretamente na plataforma, sem a necessidade de download ou uso de softwares externos. Isso torna o processo de revisão mais ágil e eficiente, otimizando o fluxo de trabalho e a comunicação com o paciente.
+
+---
+
+## 🎞️ Vídeos Curtos
+
+---
+
+#### 🎬 *Incluindo novo arquivo para paciente*
+
+<video
+  src="https://econsultapp.com/videos/arquivos/incluindo-novo-arquivo-para-paciente.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo é possível verificar a inclusão de um novo arquivo para um paciente através da aba "Arquivos".
+</p>
+
+---
+
+#### 🎬 *Disponibilizando arquivos para o paciente*
+
+<video
+  src="https://econsultapp.com/videos/arquivos/disponibilizando-arquivo-para-paciente.mp4"
+  height="auto"
+  controls
+  preload="metadata"
+  style={{
+    borderRadius: '12px',
+    maxWidth: '100%',
+    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
+    margin: '8px 0'
+  }}
+>
+  Seu navegador não suporta vídeo HTML5.
+</video>
+<p style={{ color: '#666', fontSize: '0.9rem' }}>
+  Neste vídeo é possível verificar como disponibilizar arquivos para a Área do Paciente.
+</p>

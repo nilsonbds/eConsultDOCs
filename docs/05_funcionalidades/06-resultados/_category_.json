@@ -1,0 +1,9 @@
+{
+  "label": "Resultados",
+  "position": 6,
+  "link": {
+    "slug": "/resultados",
+    "type": "generated-index",
+    "description": "O Painel Resultados oferece à organização uma visão da evolução do negócio, facilitando decisões informadas com base na análise de gráficos e indicadores."
+  }
+}

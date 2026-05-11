@@ -4,8 +4,8 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.Tutorial": {
-    "message": "Guia de uso",
-    "description": "Navbar item with label Guia de uso"
+    "message": "Ecossistema Clínico eConsult",
+    "description": "Navbar item with label Ecossistema Clínico eConsult"
   },
   "item.label.Blog": {
     "message": "Blog",

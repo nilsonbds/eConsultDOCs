@@ -3,6 +3,7 @@ sidebar_position: 3
 ---
 
 # Situações de Atendimento
+***🔄 CONTINUIDADE DO CUIDADO***
 
 ***Um painel inteligente para visualizar ocorrências relevantes da rotina clínica e agir com mais organização, previsibilidade e continuidade do cuidado.***
 

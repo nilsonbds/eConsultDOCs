@@ -179,7 +179,7 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Guia de Uso',
+          label: 'Ecossistema Clínico eConsult',
         },
         {
           type: 'docSidebar',

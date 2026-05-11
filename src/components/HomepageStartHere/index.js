@@ -17,26 +17,24 @@ export default function HomepageStartHere() {
             </small>
 
             <h2 className={styles.startTitle}>
-              Comece a estruturar sua prática clínica com clareza e visão da evolução dos pacientes
+              Comece a estruturar sua prática clínica com clareza e visão da evolução dos seus pacientes
             </h2>
 
             <p className={styles.startText}>
-              Siga um fluxo simples para organizar sua rotina clínica, registrar
-              atendimentos e iniciar o acompanhamento dos pacientes com
-              consistência e segurança.
+              Siga fluxos simples para organizar sua rotina clínica, registrar atendimentos e iniciar acompanhamentos individuais, de casal, familiares ou grupos terapêuticos com consistência e segurança clínica.
             </p>
           </div>
 
           <div className={styles.startAction}>
             <Link
               className="button button--primary button--lg"
-              to="/docs/iniciando/comecando-individual/comecando-econsult-primeiros-passos"
+              to="/docs/iniciando-econsult"
             >
               Ver primeiros passos →
             </Link>
 
             <small className={styles.startActionNote}>
-              Fluxo guiado • Leva poucos minutos
+              Guias rápidos • Leva poucos minutos
             </small>
           </div>
         </div>

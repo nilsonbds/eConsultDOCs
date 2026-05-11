@@ -1,4 +1,6 @@
 # IA Clínica Contextual do eConsult  
+***🧠 INTELIGÊNCIA ASSISTIVA***
+
 ***Mais tempo para o cuidado. Mais inteligência para o raciocínio clínico.***
 
 A **IA Clínica Contextual do eConsult** foi desenvolvida para **apoiar — e não substituir — o profissional de saúde** nas etapas críticas do cuidado: registro, análise, formulação e acompanhamento longitudinal.
@@ -185,7 +187,7 @@ Cada interação envolve:
 
 ## Como acompanhar o uso da IA
 
-1. Acesse **Alertas → Monitoramento de Uso de IA**
+1. Acesse **🔔 Situações de Atendimento** e, no final da tela, **Monitoramento de Uso da IA**.
 
    ![Monitoramento de Uso de IA](../../static/img/prints/alertas_usoia_001.png)
 

@@ -1,0 +1,9 @@
+{
+  "label": "Campanhas de Cashback",
+  "position": 16,
+  "link": {
+    "slug": "/campanha-cashback",
+    "type": "generated-index",
+    "description": "A funcionalidade Campanhas de Cashback permite oferecer incentivos periódicos aos pacientes com base em critérios de resultado, reconhecendo a fidelidade e incentivando a continuidade dos atendimentos."
+  }
+}

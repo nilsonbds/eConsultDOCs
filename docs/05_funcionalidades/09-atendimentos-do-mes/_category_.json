@@ -1,0 +1,9 @@
+{
+  "label": "Atendimentos do Mês",
+  "position": 9,
+  "link": {
+    "slug": "/atendimentos-do-mes",
+    "type": "generated-index",
+    "description": "O painel Atendimentos do Mês permite monitorar e gerenciar as receitas geradas por atendimentos em um mês específico."
+  }
+}
