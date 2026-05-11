@@ -64,7 +64,7 @@ O painel organiza sua rotina em situações como:
 1. Acesse o painel de **Situações de Atendimento**
 2. Observe os blocos com pendências
 3. Clique em uma situação
-4. Visualize a lista de pacientes
+4. Visualize a lista de pessoas atendidas
 5. Execute a ação necessária
 
 ---

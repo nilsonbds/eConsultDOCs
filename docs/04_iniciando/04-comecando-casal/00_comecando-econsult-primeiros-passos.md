@@ -214,8 +214,6 @@ Você poderá visualizar:
   Seu navegador não suporta vídeo.
 </video>
 
-👉 [Mais detalhes sobre o painel de resultados](./06_resultados.md)
-
 ---
 
 ### 7. Registre a evolução clínica com marcadores clínicos
