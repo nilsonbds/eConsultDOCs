@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Cadastre seus pacientes e grupos terapêuticos
 
-👥 Cadastre seus pacientes e grupos para começar seus atendimentos no eConsult.
+👥 Cadastre seus pacientes para começar seus atendimentos individuais no eConsult.
 
 > 💡 Leva menos de 1 minuto para cadastrar um paciente.
 
@@ -40,11 +40,11 @@ Cadastrar um paciente é rápido e direto.
 
 ### Passo a passo:
 
-1. Acesse o painel **Pacientes e Grupos Terapêuticos**
+1. Acesse o painel **Pessoas Atendidas**
 
-    ![Pacientes e Grupos Terapêuticos](../../../static/img/prints/clientegrupo/clientegrupo-001.png)
+    ![Pessoas atendidas](../../../static/img/prints/clientegrupo/clientegrupo-001.png)
 
-2. Clique em **Incluir novo paciente ou grupo** ![Incluir novo paciente ou grupo](../../../static/img/prints/buttons/btn_add.png)
+2. Clique em **Incluir novo paciente, casal, família ou grupo** ![Incluir novo paciente, casal, família ou grupo](../../../static/img/prints/buttons/btn_add.png)
 
 3. Preencha os dados principais:
 
@@ -52,9 +52,9 @@ Cadastrar um paciente é rápido e direto.
    - **Tipo de atendimento** (recomendado para ajudar na organização e no contexto clínico do acompanhamento)
    - **Outras informações** (opcional neste primeiro momento)
 
-    ![Pacientes e Grupos Terapêuticos](../../../static/img/prints/clientegrupo/clientegrupo-007.png)
+    ![Pessoa Atendida](../../../static/img/prints/clientegrupo/clientegrupo-007.png)
 
-4. Salve o cadastro ![Incluir novo paciente ou grupo](../../../static/img/prints/buttons/btn_add.png).
+4. Salve o cadastro ![Incluir novo paciente, casal, família ou grupo](../../../static/img/prints/buttons/btn_add.png).
 
 👉 Pronto. Agora você já pode utilizar esse paciente em:
 - agendamentos
@@ -103,13 +103,13 @@ Isso já é suficiente para seguir para o próximo passo.
 
 ---
 
-## 📚 Manual completo de Pacientes e Grupos Terapêuticos
+## 📚 Manual completo de Pacientes, Casais, Famílias e Grupos Terapêuticos
 
-Quer explorar mais recursos relacionados aos pacientes e grupos terapêuticos?
+Quer explorar mais recursos relacionados aos pacientes. casais, famílias e grupos terapêuticos?
 
 No manual completo você encontra orientações sobre:
 
-- síntese clínica do paciente
+- síntese clínica do paciente, casal, família ou grupo terapêutico
 - emissão de documentos
 - dados gerais do cadastro
 - área do paciente
@@ -123,7 +123,7 @@ No manual completo você encontra orientações sobre:
 - prontuário eletrônico
 - dashboard de evolução clínica
 
-👉 [Acessar manual completo de Pacientes e Grupos Terapêuticos](/docs/clientes-grupos)
+👉 [Acessar manual completo de Pacientes, Casais, Famílias e Grupos Terapêuticos](/docs/clientes-grupos)
 
 ---
 
