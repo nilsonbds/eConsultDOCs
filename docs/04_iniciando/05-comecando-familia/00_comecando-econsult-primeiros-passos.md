@@ -78,8 +78,6 @@ Você poderá configurar informações como:
   Seu navegador não suporta vídeo.
 </video>
 
-👉 [se precisar veja mais detalhes sobre configurações de conta](./01_conta.md)
-
 ---
 
 ### 2. Cadastre os membros da família
