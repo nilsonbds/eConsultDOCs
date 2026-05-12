@@ -321,7 +321,7 @@ Ao finalizar:
 ⚠️ Ao publicar, você poderá definir se o prontuário será:
 
 - 🔒 Privado
-- 🌐 Compartilhado com os participantes, quando autorizado
+- 🌐 Público: Compartilhado no portal do paciente
 
 👉 [mais detalhes sobre finalização do prontuário](./10_prontuario-finalizado.md)
 
