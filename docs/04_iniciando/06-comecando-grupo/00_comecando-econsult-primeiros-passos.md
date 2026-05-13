@@ -127,7 +127,6 @@ Você poderá:
 
 - criando o cadastro do grupo
 - vinculando participantes
-- iniciando acompanhamento grupal
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
   <source src="/video/grupo/grupo-terapeutico.mp4" type="video/mp4" />
@@ -146,7 +145,6 @@ Você poderá:
 - organizar a agenda mensal
 - visualizar disponibilidade
 - acompanhar frequência dos encontros
-- manter previsibilidade para o processo grupal
 
 ##### 🎞️ Vídeo rápido
 
