@@ -179,7 +179,7 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Ecossistema Clínico eConsult',
+          label: 'Central de Conhecimento eConsult',
         },
         {
           type: 'docSidebar',

@@ -4,34 +4,117 @@ sidebar_position: 1
 
 # Para quem serve o eConsult?
 
-### ICP (Ideal Customer Profile) do eConsult
+## O eConsult foi criado para profissionais que acompanham pessoas ao longo do tempo
 
-O **ICP (Ideal Customer Profile)** do eConsult identifica os profissionais que mais se beneficiam da plataforma.  
-Esse direcionamento orienta a evolução do produto, garantindo aderência clínica, eficiência operacional e utilidade real no dia a dia profissional.
+Se você trabalha com:
 
-O eConsult foi concebido como uma **plataforma de inteligência clínica longitudinal**, voltada principalmente para profissionais que desejam integrar gestão, documentação e análise clínica em um único ambiente.
+- psicoterapia contínua  
+- acompanhamento clínico longitudinal  
+- evolução terapêutica  
+- documentação clínica estruturada  
+- casais, famílias ou grupos terapêuticos  
+- organização clínica e financeira integrada  
 
----
+o eConsult foi pensado para sua rotina.
 
-### Quem é o profissional ideal?
-
-Profissionais **autônomos da área da saúde e do cuidado** que realizam atendimentos mediante agendamento — individuais ou em grupo — e que buscam:
-
-- organizar sua prática com segurança  
-- reduzir a carga burocrática  
-- acompanhar a evolução dos pacientes de forma estruturada  
-- apoiar o raciocínio clínico com dados longitudinais  
+Mais do que um sistema de agenda e prontuário, o eConsult ajuda a transformar informações clínicas dispersas em uma leitura estruturada da trajetória do paciente ao longo do acompanhamento.
 
 ---
 
-### Características do ICP
+# ICP (Ideal Customer Profile) do eConsult
 
-#### 🎯 Foco principal: Psicólogos
+O **ICP (Ideal Customer Profile)** do eConsult representa os profissionais que mais se beneficiam da plataforma.
 
-O **eConsult foi desenvolvido prioritariamente para psicólogos**, mas também atende profissionais com lógica de atendimento semelhante, como:
+Esse direcionamento orienta a evolução do sistema, garantindo aderência à prática clínica real, eficiência operacional e utilidade concreta no dia a dia profissional.
+
+O eConsult foi concebido como uma **plataforma de inteligência clínica longitudinal**, integrando:
+
+- acompanhamento clínico  
+- documentação estruturada  
+- organização operacional  
+- indicadores clínicos e administrativos  
+- apoio inteligente à tomada de decisão  
+
+em um único ambiente.
+
+---
+
+# Quem é o profissional ideal para o eConsult?
+
+## 🎯 Público principal: Psicólogos
+
+O eConsult foi desenvolvido prioritariamente para psicólogos que desejam:
+
+- estruturar melhor sua prática clínica  
+- acompanhar pacientes ao longo do tempo  
+- integrar gestão e raciocínio clínico  
+- reduzir sobrecarga operacional  
+- organizar informações clínicas de forma mais estratégica  
+
+---
+
+## 🧠 Profissionais que valorizam acompanhamento longitudinal
+
+O maior diferencial do eConsult está na capacidade de acompanhar a trajetória clínica ao longo do tempo.
+
+Por isso, a plataforma é ideal para profissionais que desejam:
+
+- visualizar progressão terapêutica  
+- integrar indicadores clínicos e operacionais  
+- organizar evolução clínica de forma contínua  
+- apoiar decisões com dados estruturados  
+- reduzir informações dispersas no acompanhamento  
+
+---
+
+## 📅 Profissionais que trabalham por agendamento recorrente
+
+O eConsult é especialmente indicado para quem:
+
+- atende por horário marcado  
+- realiza atendimentos recorrentes  
+- precisa acompanhar frequência e comparecimento  
+- organiza múltiplos atendimentos ao longo da semana  
+- necessita integrar agenda, prontuário e financeiro  
+
+---
+
+## 👥 Atendimento individual, casal, família e grupos — de forma real
+
+O eConsult não adapta atendimentos coletivos como se fossem pacientes individuais.
+
+A plataforma possui estrutura própria para:
+
+- pacientes individuais  
+- casais  
+- famílias  
+- grupos terapêuticos  
+- membros vinculados  
+- evolução coletiva e individual  
+- leitura longitudinal relacional  
+
+Isso permite uma documentação mais coerente com a prática clínica real.
+
+---
+
+## 💳 Profissionais que precisam integrar gestão e clínica
+
+O eConsult atende especialmente profissionais que enfrentam desafios como:
+
+- excesso de tempo gasto com tarefas administrativas  
+- dificuldade para acompanhar agenda e comparecimento  
+- informações clínicas dispersas  
+- dificuldade de visualizar evolução do paciente  
+- retrabalho na documentação clínica  
+- necessidade de integrar financeiro, prontuário e atendimentos  
+
+---
+
+## 🌱 Também utilizado por outros profissionais do cuidado
+
+Além da psicologia, o eConsult também pode atender profissionais com lógica semelhante de acompanhamento contínuo, como:
 
 - Psiquiatras  
-- Psicanalistas  
 - Neuropsicólogos  
 - Psicopedagogos  
 - Terapeutas Ocupacionais  
@@ -40,245 +123,237 @@ O **eConsult foi desenvolvido prioritariamente para psicólogos**, mas também a
 - Terapeutas Integrativos  
 - Nutricionistas  
 - Fisioterapeutas  
-- e outros profissionais que trabalham com acompanhamento contínuo de pacientes  
-
----
-
-#### 📅 Profissionais que trabalham por agendamento
-
-O eConsult é especialmente indicado para quem:
-
-- atende por horário marcado  
-- precisa organizar presença e comparecimento  
-- realiza atendimentos recorrentes  
-- conduz grupos terapêuticos ou de acompanhamento  
-
----
-
-#### 🧠 Profissionais que valorizam leitura longitudinal do paciente
-
-O maior diferencial do eConsult está na capacidade de **acompanhar a trajetória clínica ao longo do tempo**.
-
-Por isso, a plataforma é ideal para quem deseja:
-
-- estruturar melhor a documentação clínica  
-- visualizar progressão terapêutica  
-- integrar indicadores clínicos e operacionais  
-- apoiar decisões com base em dados organizados  
-
----
-
-#### 💳 Profissionais que precisam integrar gestão e clínica
-
-O eConsult atende especialmente quem enfrenta desafios como:
-
-- dificuldade para acompanhar agenda e comparecimento  
-- excesso de tempo gasto com cobrança manual  
-- informações clínicas dispersas  
-- dificuldade de visualizar evolução do paciente  
-- necessidade de reduzir retrabalho administrativo  
+- e outros profissionais que trabalham com acompanhamento longitudinal  
 
 ---
 
 :::note
-O **eConsult não é um sistema genérico de gestão**.
+O eConsult não é um sistema genérico de gestão.
 
-Ele foi projetado desde a base para o contexto da prática psicológica e do cuidado longitudinal, integrando prontuário, indicadores clínicos e ferramentas operacionais em uma experiência única.
+A plataforma foi desenvolvida desde a base para o contexto da prática clínica longitudinal, integrando prontuário, indicadores clínicos e ferramentas operacionais em uma experiência unificada.
 
-Ao mesmo tempo, a plataforma adapta automaticamente a interface conforme a área de atuação do profissional.
+Ao mesmo tempo, o sistema adapta automaticamente a experiência conforme a área de atuação do profissional.
 :::
+
+---
+
+# O que diferencia o eConsult de sistemas tradicionais?
+
+## 🧠 O eConsult vai além da agenda e do prontuário básico
+
+Muitos sistemas oferecem:
+
+- agenda  
+- financeiro  
+- teleatendimento  
+- prontuário simples  
+
+Esses recursos são importantes — mas representam apenas a base operacional da prática clínica.
+
+O eConsult foi desenvolvido para integrar:
+
+- evolução clínica  
+- documentação estruturada  
+- leitura longitudinal  
+- marcadores clínicos  
+- indicadores operacionais  
+- apoio ao raciocínio clínico  
+
+em uma única experiência.
+
+---
+
+## 🔄 Menos informações dispersas. Mais continuidade clínica.
+
+Centralize em um único ambiente:
+
+- evolução clínica  
+- anotações  
+- escalas e avaliações  
+- atendimentos  
+- indicadores  
+- histórico do acompanhamento  
+- hipóteses assistidas por IA  
+
+permitindo uma leitura mais integrada da trajetória do paciente.
 
 ---
 
 # Principais Benefícios do eConsult
 
-### 🧠 Inteligência Clínica Longitudinal
+## 🧠 Inteligência Clínica Longitudinal
 
-O eConsult vai além da gestão tradicional.
+O eConsult permite:
 
-A plataforma permite:
-
-- acompanhar a evolução do paciente ao longo do tempo  
+- acompanhar evolução ao longo do tempo  
 - integrar marcadores clínicos  
 - gerar sínteses assistidas por IA  
-- apoiar o raciocínio clínico com dados estruturados  
+- apoiar hipóteses clínicas e prognósticas  
+- estruturar melhor a leitura do caso  
 
 ---
 
-### 💰 Recursos avançados com custo acessível
+## 💰 Gestão integrada da prática clínica
 
 O eConsult reúne em uma única plataforma:
 
-- Prontuário eletrônico estruturado  
-- Agenda inteligente  
-- Financeiro integrado  
-- Teleatendimento  
-- Inteligência Artificial assistiva  
-- Integrações com PIX, Google Drive e Mercado Pago  
-
-Tudo com planos acessíveis e escaláveis.
-
----
-
-### ⚡ Sem investimento inicial
-
-- Período de teste gratuito  
-- Planos mensais flexíveis  
-- Implantação imediata  
+- prontuário eletrônico estruturado  
+- agenda inteligente  
+- financeiro integrado  
+- teleatendimento  
+- gestão de comparecimento  
+- organização operacional  
+- integrações financeiras e administrativas  
 
 ---
 
-### 🤖 Configuração inicial inteligente
+## 🤖 Inteligência Artificial assistiva
 
-No primeiro acesso, o sistema:
+A IA do eConsult atua como apoio à organização e ao raciocínio clínico — nunca como substituição do profissional.
 
-- reconhece o perfil profissional  
-- ajusta nomenclaturas automaticamente  
-- personaliza a experiência inicial  
+Entre os recursos disponíveis:
 
-Permitindo começar a usar em poucos minutos.
-
----
-
-### 🔄 Atualizações contínuas
-
-- Melhorias frequentes  
-- Evolução baseada em feedback real  
-- Segurança e estabilidade contínuas  
+- geração assistida de anotações clínicas  
+- apoio à formulação diagnóstica e prognóstica  
+- auxílio ao plano terapêutico  
+- leitura longitudinal do caso  
+- insights operacionais e clínicos  
 
 ---
 
-### 🛟 Suporte técnico humanizado
+## ⚡ Implantação simples e sem investimento inicial
 
-- Atendimento ágil  
-- Orientação prática  
-- Apoio durante a adoção da plataforma  
+- período de teste gratuito  
+- planos mensais flexíveis  
+- início imediato  
+- uso direto no navegador  
+- instalação opcional via PWA  
 
 ---
 
-### 🌐 Acesso remoto e multiplataforma
+## 🛟 Suporte técnico humanizado
 
-- Uso direto no navegador  
-- Design responsivo  
-- Compatível com desktop, tablet e celular  
-- Instalação via PWA  
+- atendimento próximo  
+- apoio durante a implantação  
+- suporte prático para adoção da plataforma  
+- evolução contínua baseada em feedback real  
 
 ---
 
 # Principais Funcionalidades do eConsult
 
-### 👥 Cadastro de Pacientes e Grupos Terapêuticos
+## 👥 Cadastro de Pessoas Atendidas
 
-Gerencie pacientes e grupos com visão estruturada e estratégica.
+Gerencie pacientes, casais, famílias e grupos com visão estruturada e estratégica.
 
 - Visualização clara dos vínculos  
-- Acesso rápido a dados relevantes  
 - Organização eficiente das demandas  
+- Acompanhamento coletivo e individual  
 
-👉 [Mais sobre Cadastro de Pacientes e Grupos Terapêuticos.](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos)
-
----
-
-### 🧩 Campos Altamente Personalizáveis
-
-Adapte o sistema à sua metodologia clínica.
-
-- Personalização avançada  
-- Coleta de dados relevantes  
-- Flexibilidade com controle  
-
-👉 [Mais sobre personalização de campos.](/docs/funcionalidades/clientes-grupos/cadastro/aba-adicionais)
+👉 [Mais sobre Cadastro de Pessoas Atendidas.](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos)
 
 ---
 
-### 💳 Gestão de Créditos
+## 📊 Síntese Clínica da(s) Pessoa(s) Atendida(s)
 
-Controle valores antecipados com transparência.
-
-👉 [Mais sobre créditos antecipados.](/docs/funcionalidades/clientes-grupos/cadastro/aba-creditos-e-perdas)
-
----
-
-### 📊 Síntese Clínica do Paciente
-
-Acompanhe, em um único painel, indicadores clínicos, comportamentais e operacionais do paciente, apoiando a leitura longitudinal do caso.
+Acompanhe indicadores clínicos, comportamentais e operacionais em um único painel longitudinal.
 
 👉 [Mais sobre Síntese Clínica.](/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao)
 
 ---
 
-### 🗓️ Gestão de Atendimentos
+## 📄 Prontuário Eletrônico Estruturado
 
-Agenda centralizada para reduzir fricção operacional.
-
-👉 [Mais sobre gestão de atendimentos.](/docs/funcionalidades/atendimentos/visao)
-
----
-
-### 🎥 Teleatendimento Integrado
-
-Consultas online com integração ao prontuário e financeiro.
-
-👉 [Mais sobre teleatendimento.](/docs/funcionalidades/configuracoes/integracoes/daily)
-
----
-
-### 📄 Prontuário Eletrônico Personalizável
-
-Documentação clínica estruturada e segura.
+Documentação clínica organizada, evolutiva e integrada ao acompanhamento.
 
 👉 [Mais sobre prontuários.](/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario)
 
 ---
 
-### 🧪 Avaliações Psicológicas Integradas
+## 🗓️ Gestão de Atendimentos
 
-Aplicação e interpretação organizadas dentro do prontuário.
+Agenda inteligente centralizada com integração clínica e operacional.
+
+👉 [Mais sobre gestão de atendimentos.](/docs/funcionalidades/atendimentos/visao)
+
+---
+
+## 🎥 Teleatendimento Integrado
+
+Consultas online integradas ao prontuário e financeiro.
+
+👉 [Mais sobre teleatendimento.](/docs/funcionalidades/configuracoes/integracoes/daily)
+
+---
+
+## 🧪 Avaliações Psicológicas Integradas
+
+Aplicação e acompanhamento longitudinal de escalas e avaliações.
 
 👉 [Mais sobre avaliações psicológicas.](/docs/diferenciais/testes-psicologicos)
 
 ---
 
-### 🤖 Inteligência Artificial Integrada
+## 💼 Financeiro Integrado
 
-IA assistiva para apoiar — nunca substituir — o julgamento clínico.
-
-- Anotações clínicas assistidas  
-- Hipóteses diagnósticas e prognósticas  
-- Apoio ao plano terapêutico  
-- Leitura longitudinal do caso  
-- Insights operacionais  
-
-👉 [Mais sobre IA no eConsult.](/docs/diferenciais/inteligencia-artificial)
+Controle completo do fluxo financeiro da prática clínica.
 
 ---
 
-### 💼 Financeiro Integrado
-
-Controle completo do fluxo financeiro da prática.
-
----
-
-### ⚡ Pagamentos via PIX
+## ⚡ Pagamentos via PIX
 
 Recebimentos rápidos e automatizados.
 
 ---
 
-### ☁️ Integração com Google Drive
+## ☁️ Integração com Google Drive
 
 Documentos organizados e acessíveis.
 
 ---
 
-### 💳 Integração com Mercado Pago
+## 💳 Integração com Mercado Pago
 
 Mais flexibilidade nos recebimentos.
 
 ---
 
+# Quando o eConsult tende a gerar mais valor?
+
+O eConsult costuma gerar mais valor para profissionais que:
+
+- trabalham com acompanhamento contínuo  
+- valorizam documentação estruturada  
+- desejam integrar clínica e gestão  
+- atendem casos recorrentes ou complexos  
+- realizam atendimentos individuais ou coletivos  
+- desejam maior clareza sobre a evolução clínica dos pacientes  
+
+---
+
+# O eConsult pode não ser ideal para
+
+- operações focadas exclusivamente em alto volume administrativo  
+- profissionais que buscam apenas agenda simples e cobrança básica  
+- contextos sem necessidade de acompanhamento longitudinal  
+- operações em que a leitura clínica estruturada não seja prioridade  
+
+O maior diferencial da plataforma está justamente na integração entre gestão, acompanhamento longitudinal e organização clínica.
+
+---
+
 # Conclusão
 
-O **eConsult** foi desenvolvido para profissionais que desejam evoluir sua prática com mais organização, visão longitudinal e apoio inteligente à decisão clínica.
+O eConsult foi desenvolvido para profissionais que entendem que um atendimento não se resume a uma sessão isolada.
 
-Mais do que um sistema de gestão, trata-se de uma **plataforma de inteligência clínica aplicada ao cuidado contínuo**.
+A prática clínica acontece ao longo do tempo.
+
+Por isso, a plataforma integra:
+
+- acompanhamento clínico  
+- documentação estruturada  
+- organização operacional  
+- indicadores clínicos  
+- inteligência longitudinal  
+
+em uma experiência construída para apoiar profissionais que desejam unir cuidado, organização e visão clínica estruturada.

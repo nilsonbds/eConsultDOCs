@@ -315,42 +315,31 @@ O mais importante é:
 
 ## 👉 Próximas trilhas recomendadas
 
-### 🗓️ Organização da rotina clínica
-- Agenda inteligente
-- Tipos de atendimento
-- Confirmações e acompanhamento
+### 🧩 Guias práticos por contexto clínico
 
-### 🧠 Evolução e acompanhamento clínico
-- Marcadores clínicos
-- Acompanhamento longitudinal
-- Leitura clínica integrada
-
-### 💰 Gestão administrativa e financeira
-- Cobranças
-- Financeiro
-- Indicadores administrativos
-
----
-
-# 🧩 Guias práticos por contexto clínico
-
-### 🧑‍🤝‍🧑 Primeiros passos: Terapia de Casal
+#### 🧑‍🤝‍🧑 Primeiros passos: Terapia de Casal
 - Cadastro do casal
 - Organização dos atendimentos
 - Evolução clínica compartilhada
 - Prontuário longitudinal do casal
 
-### 👨‍👩‍👧 Primeiros passos: Terapia de Família
+👉 [Primeiros passos: Terapia de Casais](../04-comecando-casal/00_comecando-econsult-primeiros-passos.md)
+
+#### 👨‍👩‍👧 Primeiros passos: Terapia de Família
 - Estrutura familiar
 - Membros vinculados
 - Sessões familiares
 - Histórico e dinâmica longitudinal
 
-### 👥 Primeiros passos: Terapia em Grupo
+👉 [Primeiros passos: Terapia de Família](../05-comecando-familia/00_comecando-econsult-primeiros-passos.md)
+
+#### 👥 Primeiros passos: Terapia em Grupo
 - Cadastro de grupos terapêuticos
 - Participantes e presença
 - Evolução grupal
 - Organização longitudinal dos encontros
+
+👉 [Primeiros passos: Terapia em Grupo](../06-comecando-grupo/00_comecando-econsult-primeiros-passos.md)
 
 ---
 

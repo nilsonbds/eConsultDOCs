@@ -24,23 +24,22 @@ export default function HomepagePortalPaths() {
 
         <div className={styles.grid}>
 
-          {/* Ecossistema Clínico eConsult */}
+          {/* Central de Conhecimento eConsult */}
           <div className={styles.card}>
             <div className={styles.icon}>
               <LuBookOpen />
             </div>
 
             <h3 className={styles.cardTitle}>
-              Ecossistema Clínico eConsult
+              Central de Conhecimento eConsult
             </h3>
 
             <p className={styles.cardText}>
-              Aprenda a utilizar o eConsult no dia a dia, com orientações práticas
-              para organizar sua rotina clínica.
+              Documentação completa do ecossistema eConsult: arquitetura clínica, funcionalidades do sistema, termos de uso e suporte ao usuário em um só lugar.
             </p>
 
             <Link to="/docs/gestao-eficiente" className={styles.link}>
-              Acessar guia completo →
+              Explorar o ecossistema →
             </Link>
           </div>
 
