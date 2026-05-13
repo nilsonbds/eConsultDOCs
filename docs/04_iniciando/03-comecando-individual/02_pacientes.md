@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Cadastre seus pacientes e grupos terapêuticos
+# Cadastre seus pacientes
 
 👥 Cadastre seus pacientes para começar seus atendimentos individuais no eConsult.
 
