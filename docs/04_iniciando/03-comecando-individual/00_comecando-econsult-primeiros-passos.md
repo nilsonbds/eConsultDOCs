@@ -175,7 +175,7 @@ No painel "**Resultados**", você acompanha:
 - explorando o painel resultados
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{  borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
-  <source src="/video/resultados.mp4" type="video/mp4" />
+  <source src="/video/individual/resultados.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -281,7 +281,7 @@ Ao finalizar:
 
 ##### 🎞️ Vídeo
 
-- gerando hipóteses diagnóticas, prognósticas, planos e evolução terapêutica com IA
+- preenchendo todos os campos e revisando prontuário
 - finalizando o prontuário
 - publicando como público
 - mostrando prontuário na Área do Paciente

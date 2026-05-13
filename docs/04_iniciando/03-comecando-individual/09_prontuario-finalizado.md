@@ -23,7 +23,7 @@ Agora que você já:
 
 ## 🎞️ Vídeo rápido (recomendado)
 
-- gerando hipóteses diagnóticas, prognósticas, planos e evolução terapêutica com IA
+- preenchendo todos os campos e revisando prontuário
 - finalizando o prontuário
 - publicando como público
 - mostrando prontuário na Área do Paciente

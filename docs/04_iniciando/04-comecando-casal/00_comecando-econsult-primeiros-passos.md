@@ -120,11 +120,9 @@ Depois de cadastrar os parceiros individualmente, você poderá criar o contexto
 
 Você poderá:
 
-- vincular os participantes
-- definir o contexto do atendimento
-- estruturar o acompanhamento compartilhado
-- iniciar a trajetória clínica do casal
-
+- cadastrar o casal
+- vincular participantes
+  
 ##### 🎞️ Vídeo rápido
 
 - criando o cadastro do casal
@@ -191,9 +189,9 @@ Nele você poderá acompanhar:
 
 ---
 
-### 6. Explore o panorama, indicadores e atendimentos
+### 6. Explore o panorama e indicadores do casal
 
-Após cadastrar o casal e seus membros, acompanhe como o eConsult organiza automaticamente as informações clínicas, administrativas e financeiras relacionadas ao acompanhamento.
+Após cadastrar o casal e seus membros, acompanhe como o eConsult organiza automaticamente as informações administrativas e financeiras relacionadas ao acompanhamento.
 
 Você poderá visualizar:
 
@@ -202,13 +200,11 @@ Você poderá visualizar:
 - visão geral da operação clínica
 - indicadores de acompanhamento
 - atendimentos do casal
-- atendimentos individuais dos membros do casal
 
 ##### 🎞️ Vídeo rápido
 
-- explorando o painel de resultados (panorama e indicadores)
-- explorando os atendimentos dos membros do casal
-
+- explorando resultados (panorama e indicadores)
+  
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
   <source src="/video/casal/resultados.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.

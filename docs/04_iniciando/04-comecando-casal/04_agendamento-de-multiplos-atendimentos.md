@@ -20,7 +20,8 @@ Agora que você já cadastrou o casal, o próximo passo é simples:
 
 ## 🎞️ Vídeo rápido (recomendado)
 
-- fazendo agendamentos múltiplos do casal
+- criando múltiplos agendamentos
+- organizando sessões recorrentes
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{  borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
   <source src="/video/casal/agendamento-de-multiplos-atendimentos.mp4" type="video/mp4" />
