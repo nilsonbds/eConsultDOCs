@@ -10,6 +10,13 @@ Este guia foi criado para ajudar você a começar a utilizar o eConsult em atend
 
 ✨ Diferente de sistemas tradicionais, no eConsult o atendimento familiar possui uma estrutura clínica própria — permitindo acompanhar tanto a dinâmica relacional da família quanto a evolução longitudinal dos membros e do sistema familiar.
 
+A família possui:
+- acompanhamento próprio
+- evolução relacional própria
+- indicadores específicos
+- prontuário longitudinal da relação
+- registros individuais integrados ao contexto do casal
+
 Você não precisa configurar tudo agora.
 
 O mais importante é começar a utilizar o sistema na prática.
