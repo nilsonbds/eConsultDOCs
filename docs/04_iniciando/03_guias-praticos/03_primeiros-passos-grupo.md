@@ -1,10 +1,10 @@
 ---
-sidebar_position: 0
+sidebar_position: 6
 ---
 
-# Começando no eConsult: Grupos Terapêuticos
+# Terapia de grupos terapêuticos
 
-🚀 Bem-vindo ao eConsult.
+🚀 Aprenda como funcionam os encontros em grupo.
 
 Este guia foi criado para ajudar você a começar a utilizar o eConsult em atendimentos de grupos terapêuticos de forma prática, organizada e com acompanhamento clínico longitudinal.
 
@@ -27,39 +27,43 @@ O mais importante é começar a utilizar o sistema na prática.
 
 ## 🔐 Como acessar o eConsult
 
-Para abrir o eConsult, basta acessar o site oficial da plataforma:
+Para acessar o eConsult:
 
 👉 [eConsult - econsult.app.br](https://econsult.app.br/home)
 
 Depois:
 
-1. Clique no botão **Entrar** no topo da tela
+1. Clique em **Entrar**
 2. Informe seu email e senha
 3. Acesse sua conta
 
 ---
 
-## 📲 Primeira coisa: instale o app do eConsult no seu dispositivo
+## 📲 Instale o app no seu dispositivo
 
-Você pode instalar o eConsult no seu celular, tablet ou computador para acessar o sistema com mais rapidez e praticidade no dia a dia clínico.
+Você pode instalar o eConsult no celular, tablet ou computador para acessar a plataforma com mais rapidez no dia a dia clínico.
 
-Para instalar:
+### Como instalar
 
 1. Acesse o painel principal do eConsult
-2. No topo da tela, clique em **Instalar APP**
-3. Siga as instruções exibidas no seu dispositivo
+2. Clique em **Instalar APP**
+3. Siga as instruções exibidas no dispositivo
 
 ---
 
-## 🚀 Sua jornada inicial no eConsult
+## ⚙️ Complete as informações da sua conta
 
-### 1. Complete o cadastro da sua conta
+Antes de começar, recomendamos complementar os dados da sua conta.
 
-Antes de começar, recomendamos complementar as informações da sua conta no eConsult.
+Isso ajuda a preparar funcionalidades importantes como:
 
-Isso ajuda a personalizar melhor sua experiência dentro da plataforma, além de preparar funcionalidades importantes como agenda, documentos, teleatendimento, financeiro e relatórios.
+- agenda
+- documentos
+- teleatendimento
+- financeiro
+- relatórios
 
-Você poderá configurar informações como:
+Você poderá configurar:
 
 - dados profissionais e pessoais
 - endereços
@@ -69,18 +73,24 @@ Você poderá configurar informações como:
 ##### 🎞️ Vídeo rápido
 
 - acessando a conta
-- configurando dados gerais
-- salvando informações
-- cadastrando endereço
+- abrindo “Dados Gerais”
+- salvando as informações
+- cadastrando um endereço
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
   <source src="/video/conta.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
+<a href="/docs/conta" target="_blank" rel="noopener noreferrer">
+  👉 Veja mais detalhes sobre configurações de conta
+</a>
+
 ---
 
-### 2. Cadastre os participantes do grupo
+# 🚀 Sua jornada inicial com atendimentos de grupos terapêuticos
+
+## 1. Cadastre os participantes do grupo
 
 No eConsult, cada participante do grupo possui seu próprio cadastro individual.
 
@@ -109,7 +119,7 @@ Basta cadastrar os dados principais para começar a utilizar o sistema rapidamen
 
 ---
 
-### 3. Cadastre o grupo terapêutico
+## 2. Cadastre o grupo terapêutico
 
 Depois de cadastrar os participantes individualmente, você poderá criar o contexto clínico do grupo terapêutico.
 
@@ -133,9 +143,13 @@ Você poderá:
   Seu navegador não suporta vídeo.
 </video>
 
+<a href="/docs/clientes-grupos" target="_blank" rel="noopener noreferrer">
+  👉 Veja mais detalhes sobre cadastro de grupos terapêuticos
+</a>
+
 ---
 
-### 4. Organize a agenda do mês para o grupo
+## 3. Organize a agenda do mês para o grupo
 
 Utilize os agendamentos múltiplos para organizar rapidamente a rotina terapêutica do grupo no mês.
 
@@ -156,9 +170,13 @@ Você poderá:
   Seu navegador não suporta vídeo.
 </video>
 
+<a href="/docs/atendimentos" target="_blank" rel="noopener noreferrer">
+  👉 Mais detalhes sobre agenda/atendimentos
+</a>
+
 ---
 
-### 5. Acompanhe as próximas ações no painel Situações de Atendimento
+## 4. Acompanhe as próximas ações no painel Situações de Atendimento
 
 O painel **Situações de Atendimento** funciona como um centro de acompanhamento da sua rotina clínica.
 
@@ -181,9 +199,13 @@ Nele você poderá acompanhar:
   Seu navegador não suporta vídeo.
 </video>
 
+<a href="/docs/situacoes-atendimento" target="_blank" rel="noopener noreferrer">
+  👉 Mais detalhes sobre situações de atendimento
+</a>
+
 ---
 
-### 6. Explore o panorama, indicadores e atendimentos
+## 5. Explore o panorama, indicadores e atendimentos
 
 Após cadastrar o grupo e seus participantes, acompanhe como o eConsult organiza automaticamente as informações clínicas, administrativas e financeiras relacionadas ao acompanhamento.
 
@@ -209,9 +231,13 @@ Você poderá visualizar:
   Seu navegador não suporta vídeo.
 </video>
 
+<a href="/docs/funcionalidades/clientes-grupos/cadastro/aba-resultados" target="_blank" rel="noopener noreferrer">
+  👉 Mais detalhes sobre resultados do grupo terapêutico
+</a>
+
 ---
 
-### 7. Registre a evolução clínica com marcadores clínicos
+## 6. Registre a evolução clínica com marcadores clínicos
 
 Após cada sessão, registre a evolução clínica do grupo utilizando marcadores clínicos.
 
@@ -238,9 +264,13 @@ Você poderá acompanhar aspectos como:
   Seu navegador não suporta vídeo.
 </video>
 
+<a href="/docs/funcionalidades/atendimentos/marcadores-clinicos" target="_blank" rel="noopener noreferrer">
+  👉 Mais detalhes sobre marcadores clínicos
+</a>
+
 ---
 
-### 8. Acompanhe a evolução do grupo no painel longitudinal
+## 7. Acompanhe a evolução do grupo no painel longitudinal
 
 Utilize o acompanhamento longitudinal para visualizar:
 
@@ -261,9 +291,13 @@ Utilize o acompanhamento longitudinal para visualizar:
   Seu navegador não suporta vídeo.
 </video>
 
+<a href="/docs/acompanhamento-inteligente-do-paciente" target="_blank" rel="noopener noreferrer">
+  👉 Mais sobre visão longitudinal
+</a>
+
 ---
 
-### 9. Inicie o prontuário do grupo terapêutico
+## 8. Inicie o prontuário do grupo terapêutico
 
 Depois de registrar os primeiros atendimentos, inicie o prontuário longitudinal do grupo.
 
@@ -289,9 +323,13 @@ Você poderá:
 
 As evoluções, marcadores clínicos e registros vão sendo incorporados automaticamente ao histórico longitudinal do grupo terapêutico.
 
+<a href="/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario" target="_blank" rel="noopener noreferrer">
+  👉 Mais detalhes sobre prontuário
+</a>
+
 ---
 
-### 10. Finalize e publique o prontuário do grupo
+## 9. Finalize e publique o prontuário do grupo
 
 Ao longo do acompanhamento, você poderá consolidar e publicar recortes clínicos importantes do prontuário do grupo terapêutico.
 

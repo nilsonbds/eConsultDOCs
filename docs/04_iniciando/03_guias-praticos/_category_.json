@@ -1,0 +1,9 @@
+{
+  "label": "Guias práticos",
+  "position": 3,
+  "link": {
+    "slug": "/guias-praticos",
+    "type": "generated-index",
+    "description": "Aprenda na prática como funcionam os atendimentos no eConsult com vídeos, exemplos e situações do dia a dia terapêutico. Todos os casos são fictícios, criados a partir de contextos reais."
+  }
+}
