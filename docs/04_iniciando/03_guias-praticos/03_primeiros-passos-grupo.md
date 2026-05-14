@@ -205,39 +205,7 @@ Nele você poderá acompanhar:
 
 ---
 
-## 5. Explore o panorama, indicadores e atendimentos
-
-Após cadastrar o grupo e seus participantes, acompanhe como o eConsult organiza automaticamente as informações clínicas, administrativas e financeiras relacionadas ao acompanhamento.
-
-Você poderá visualizar:
-
-- indicadores financeiros
-- movimentações administrativas
-- visão geral da operação clínica
-- indicadores de acompanhamento
-- atendimentos do grupo
-- atendimentos individuais dos participantes
-- histórico de participação e presença
-- evolução coletiva do grupo terapêutico
-
-##### 🎞️ Vídeo rápido
-
-- explorando o painel de resultados
-- explorando atendimentos do grupo
-- explorando atendimentos dos participantes
-
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
-  <source src="/video/grupo/resultados.mp4" type="video/mp4" />
-  Seu navegador não suporta vídeo.
-</video>
-
-<a href="/docs/funcionalidades/clientes-grupos/cadastro/aba-resultados" target="_blank" rel="noopener noreferrer">
-  👉 Mais detalhes sobre resultados do grupo terapêutico
-</a>
-
----
-
-## 6. Registre a evolução clínica com marcadores clínicos
+## 5. Registre a evolução clínica com marcadores clínicos
 
 Após cada sessão, registre a evolução clínica do grupo utilizando marcadores clínicos.
 
@@ -269,6 +237,41 @@ Você poderá acompanhar aspectos como:
 </a>
 
 ---
+
+
+## 6. Explore o panorama, indicadores e atendimentos
+
+Após cadastrar o grupo e seus participantes, acompanhe como o eConsult organiza automaticamente as informações clínicas, administrativas e financeiras relacionadas ao acompanhamento.
+
+Você poderá visualizar:
+
+- indicadores financeiros
+- movimentações administrativas
+- visão geral da operação clínica
+- indicadores de acompanhamento
+- atendimentos do grupo
+- atendimentos individuais dos participantes
+- histórico de participação e presença
+- evolução coletiva do grupo terapêutico
+
+##### 🎞️ Vídeo rápido
+
+- explorando o painel de resultados
+- explorando atendimentos do grupo
+- explorando atendimentos dos participantes
+
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+  <source src="/video/grupo/resultados.mp4" type="video/mp4" />
+  Seu navegador não suporta vídeo.
+</video>
+
+<a href="/docs/funcionalidades/clientes-grupos/cadastro/aba-resultados" target="_blank" rel="noopener noreferrer">
+  👉 Mais detalhes sobre resultados do grupo terapêutico
+</a>
+
+---
+
+
 
 ## 7. Acompanhe a evolução do grupo no painel longitudinal
 
