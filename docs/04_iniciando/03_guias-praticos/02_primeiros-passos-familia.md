@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Terapia de família
 
-🚀 Conheça a dinâmica dos atendimentos familiares.
+🚀 Aprenda na prática como conduzir acompanhamentos familiares no eConsult.
 
 Este guia foi criado para ajudar você a começar a utilizar o eConsult em atendimentos familiares de forma prática, organizada e com acompanhamento clínico longitudinal.
 

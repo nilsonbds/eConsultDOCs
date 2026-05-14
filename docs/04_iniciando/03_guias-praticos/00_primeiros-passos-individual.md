@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Terapia individual
 
-🚀 Aprenda, na prática, como funcionam os atendimentos individuais no eConsult.
+🚀 Aprenda na prática como organizar acompanhamentos individuais no eConsult.
 
 Este guia foi criado para ajudar você a começar a utilizar a plataforma de forma leve, prática e organizada no dia a dia clínico.
 

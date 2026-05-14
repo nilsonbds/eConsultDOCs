@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Terapia de grupos terapêuticos
 
-🚀 Aprenda como funcionam os encontros em grupo.
+🚀 Aprenda na prática como gerenciar grupos terapêuticos no eConsult.
 
 Este guia foi criado para ajudar você a começar a utilizar o eConsult em atendimentos de grupos terapêuticos de forma prática, organizada e com acompanhamento clínico longitudinal.
 

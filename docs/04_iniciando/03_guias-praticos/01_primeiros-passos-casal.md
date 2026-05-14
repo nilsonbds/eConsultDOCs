@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Terapia de casal
 
-🚀 Veja exemplos práticos de atendimentos para casais.
+🚀 Aprenda na prática como estruturar atendimentos de casal no eConsult.
 
 Este guia foi criado para ajudar você a começar a utilizar o eConsult em atendimentos de casal de forma prática, organizada e com acompanhamento clínico longitudinal.
 
