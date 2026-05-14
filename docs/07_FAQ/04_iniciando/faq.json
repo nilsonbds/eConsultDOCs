@@ -63,7 +63,7 @@
     "public": true
   },
   {
-    "more_details_url": "/docs/iniciando/comecando-individual/comecando-econsult-primeiros-passos",
+    "more_details_url": "/docs/iniciando-econsult",
     "pergunta": "O que devo configurar primeiro ao começar a usar o eConsult?",
     "resposta": "O sistema sugere automaticamente um checklist inicial com recomendações, como cadastrar Formas de Pagamento, revisar Modelos de Anamnese e configurar Tipos de Atendimento. Essas etapas garantem o uso completo da plataforma desde o início.",
     "categoria": "Iniciando (primeiros passos)",
@@ -77,7 +77,7 @@
     "public": true
   },
   {
-    "more_details_url": "/docs/iniciando/comecando-individual/comecando-econsult-primeiros-passos",
+    "more_details_url": "/docs/iniciando-econsult",
     "pergunta": "Onde encontro o checklist de primeiros passos?",
     "resposta": "O checklist aparece automaticamente no Painel Inicial, dentro do PainelAlertas, sempre que houver configurações pendentes ou recomendações de uso.",
     "categoria": "Iniciando (primeiros passos)",

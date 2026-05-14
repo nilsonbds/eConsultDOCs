@@ -81,7 +81,7 @@ export default function HomepageFinalCta(props) {
               )
             }
 
-            <a href="/docs/iniciando/comecando-individual/comecando-econsult-primeiros-passos" className={styles.secondaryButton}>
+            <a href="/docs/iniciando-econsult" className={styles.secondaryButton}>
               Ver como funciona →
             </a>
           </div>
