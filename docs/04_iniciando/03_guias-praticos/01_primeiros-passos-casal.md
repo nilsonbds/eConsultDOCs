@@ -356,3 +356,23 @@ O mais importante é:
 ✔ acompanhar a evolução clínica do casal  
 ✔ explorar os painéis aos poucos  
 :::
+
+---
+
+## 📄 Veja o prontuário fictício do Casal Maria e João
+
+Para demonstrar o resultado final da jornada apresentada neste guia, disponibilizamos um exemplo fictício de prontuário gerado pelo eConsult.
+
+O documento abaixo acompanha o caso fictício do **Casal Maria e João**, construído ao longo das etapas apresentadas nesta demonstração prática.
+
+Neste material, você poderá visualizar como as informações registradas durante os atendimentos são organizadas em um documento final em PDF, pronto para impressão, arquivamento ou apresentação conforme a finalidade profissional.
+
+:::note Caso fictício
+Maria e João é um casal fictício criado exclusivamente para fins demonstrativos.
+:::
+
+<a href="/pdf/prontuario-casal-exemplo.pdf" target="_blank" rel="noopener noreferrer">
+  📥 Baixar prontuário fictício em PDF
+</a>
+
+---

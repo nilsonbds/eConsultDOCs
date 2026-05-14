@@ -307,6 +307,24 @@ O mais importante é:
 
 ---
 
+## 📄 Veja o prontuário fictício de Mariana Soares
+
+Para demonstrar o resultado final da jornada apresentada neste guia, disponibilizamos um exemplo fictício de prontuário gerado pelo eConsult.
+
+O documento abaixo acompanha o caso fictício de **Mariana Soares**, construído ao longo das etapas apresentadas nesta demonstração prática.
+
+Neste material, você poderá visualizar como as informações registradas durante os atendimentos são organizadas em um documento final em PDF, pronto para impressão, arquivamento ou apresentação conforme a finalidade profissional.
+
+:::note Caso fictício
+Mariana Soares é uma personagem fictícia criada exclusivamente para fins demonstrativos.
+:::
+
+<a href="/pdf/prontuario-individual-exemplo.pdf" target="_blank" rel="noopener noreferrer">
+  📥 Baixar prontuário fictício em PDF
+</a>
+
+---
+
 ### 👉 Próximos guias recomendados
 
 #### 🧑‍🤝‍🧑 Terapia de casal

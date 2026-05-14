@@ -373,3 +373,23 @@ O mais importante é:
 ✔ observar também a participação individual dos membros  
 ✔ explorar os painéis aos poucos  
 :::
+
+---
+
+## 📄 Veja o prontuário fictício do Grupo Terapêutico "Reconstruindo Caminhos"
+
+Para demonstrar o resultado final da jornada apresentada neste guia, disponibilizamos um exemplo fictício de prontuário gerado pelo eConsult.
+
+O documento abaixo acompanha o caso fictício do **Grupo Terapêutico Reconstruindo Caminhos**, construído ao longo das etapas apresentadas nesta demonstração prática.
+
+Neste material, você poderá visualizar como as informações registradas durante os atendimentos são organizadas em um documento final em PDF, pronto para impressão, arquivamento ou apresentação conforme a finalidade profissional.
+
+:::note Caso fictício
+O Grupo Terapêutico Reconstruindo Caminhos e seus integrantes são fictícios criados exclusivamente para fins demonstrativos.
+:::
+
+<a href="/pdf/prontuario-grupo-exemplo.pdf" target="_blank" rel="noopener noreferrer">
+  📥 Baixar prontuário fictício em PDF
+</a>
+
+---
