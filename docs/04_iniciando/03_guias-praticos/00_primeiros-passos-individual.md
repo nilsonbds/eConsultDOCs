@@ -307,23 +307,23 @@ O mais importante é:
 
 ---
 
-# 👉 Próximos guias recomendados
+### 👉 Próximos guias recomendados
 
-### 🧑‍🤝‍🧑 Terapia de casal
+#### 🧑‍🤝‍🧑 Terapia de casal
 - organização do casal
 - evolução compartilhada
 - prontuário longitudinal
 
 👉 [Abrir guia prático](./01_primeiros-passos-casal.md)
 
-### 👨‍👩‍👧 Terapia de família
+#### 👨‍👩‍👧 Terapia de família
 - estrutura familiar
 - membros vinculados
 - sessões familiares
 
 👉 [Abrir guia prático](./02_primeiros-passos-familia.md)
 
-### 👥 Grupos terapêuticos
+#### 👥 Grupos terapêuticos
 - cadastro de grupos
 - participantes
 - evolução grupal
