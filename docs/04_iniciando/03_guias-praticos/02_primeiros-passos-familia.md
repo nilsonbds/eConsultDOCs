@@ -84,7 +84,7 @@ Você poderá configurar:
 - salvando as informações
 - cadastrando um endereço
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/conta.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -113,7 +113,7 @@ Isso permite:
 
 - cadastrando os membros da família
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/familia/pacientes.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -146,7 +146,7 @@ Você poderá:
 - vinculando membros
 - iniciando acompanhamento familiar
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/familia/familia.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -173,7 +173,7 @@ Você poderá:
 - criando múltiplos agendamentos
 - organizando sessões recorrentes
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/familia/agendamento-de-multiplos-atendimentos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -202,7 +202,7 @@ Nele você poderá acompanhar:
 
 - explorando o painel situações de atendimento
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/familia/situacoes-de-atendimento-clinico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -233,7 +233,7 @@ Você poderá visualizar:
 - explorando atendimentos da família
 - explorando atendimentos dos membros
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/familia/resultados.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -265,7 +265,7 @@ Você poderá acompanhar aspectos como:
 - registrando evolução clínica
 - utilizando marcadores clínicos
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/familia/anotacoes-clinicas-com-marcadores-clinicos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -291,7 +291,7 @@ Utilize o acompanhamento longitudinal para visualizar:
 
 - acompanhando evolução longitudinal da família
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/familia/acompanhamento-clinico-longitudinal.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -319,7 +319,7 @@ Você poderá:
 - registrando SOAP
 - explorando prontuário da família
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/familia/prontuario-eletronico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -351,7 +351,7 @@ Ao finalizar:
 - publicando recorte clínico
 - compartilhando prontuário
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/familia/prontuario-finalizado.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>

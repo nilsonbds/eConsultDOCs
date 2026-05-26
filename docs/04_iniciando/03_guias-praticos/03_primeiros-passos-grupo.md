@@ -84,7 +84,7 @@ Você poderá configurar:
 - salvando as informações
 - cadastrando um endereço
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/conta.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -113,7 +113,7 @@ Isso permite:
 
 - cadastrando os participantes do grupo
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/grupo/pacientes.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -145,7 +145,7 @@ Você poderá:
 - criando o cadastro do grupo
 - vinculando participantes
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/grupo/grupo-terapeutico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -172,7 +172,7 @@ Você poderá:
 - criando múltiplos agendamentos
 - organizando sessões recorrentes
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/grupo/agendamento-de-multiplos-atendimentos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -201,7 +201,7 @@ Nele você poderá acompanhar:
 
 - explorando o painel situações de atendimento
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/grupo/situacoes-de-atendimento-clinico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -234,7 +234,7 @@ Você poderá acompanhar aspectos como:
 - registrando evolução clínica
 - utilizando marcadores clínicos
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/grupo/anotacoes-clinicas-com-marcadores-clinicos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -267,7 +267,7 @@ Você poderá visualizar:
 - explorando atendimentos do grupo
 - explorando atendimentos dos participantes
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/grupo/resultados.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -296,7 +296,7 @@ Utilize o acompanhamento longitudinal para visualizar:
 
 - acompanhando evolução longitudinal do grupo terapêutico
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/grupo/acompanhamento-clinico-longitudinal.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -324,7 +324,7 @@ Você poderá:
 - registrando SOAP
 - explorando prontuário do grupo
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/grupo/prontuario-eletronico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -356,7 +356,7 @@ Ao finalizar:
 - publicando recorte clínico
 - compartilhando prontuário
 
-<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '15px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#000', cursor: 'pointer' }}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/grupo/prontuario-finalizado.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
