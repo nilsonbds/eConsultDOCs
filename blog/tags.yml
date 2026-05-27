@@ -263,3 +263,18 @@ tcc:
   label: TCC
   permalink: /tcc
   description: Informações e conteúdos relacionados à Terapia Cognitivo-Comportamental, prática clínica baseada em evidências, acompanhamento terapêutico e recursos para psicólogos que utilizam TCC.
+
+terapia-familiar:
+  label: Terapia Familiar
+  permalink: /terapia-familiar
+  description: Conteúdos sobre terapia familiar, dinâmica sistêmica, vínculos familiares, evolução clínica e acompanhamento longitudinal na prática clínica.
+
+terapia-de-casal:
+  label: Terapia de Casal
+  permalink: /terapia-de-casal
+  description: Conteúdos sobre terapia de casal, dinâmica relacional, comunicação conjugal, vínculos afetivos e acompanhamento longitudinal de casais.
+
+grupo-terapeutico:
+  label: Grupo Terapêutico
+  permalink: /grupo-terapeutico
+  description: Conteúdos sobre grupos terapêuticos, dinâmica grupal, coesão coletiva, acompanhamento longitudinal e prática clínica em grupo.
