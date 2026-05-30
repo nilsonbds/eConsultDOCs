@@ -618,3 +618,17 @@ Se você está começando:
 
 👉 A prática clínica não precisa mudar de forma abrupta.  
 Mas pode se tornar, progressivamente, **mais estruturada, clara e sustentável**.
+
+---
+
+## 👉 Para aprofundar sua prática:
+
+- 🔗 [Prática Clínica](/pratica-clinica)
+- 🔗 [Prontuário Psicológico](/pratica-clinica/prontuario-psicologico)
+- 🔗 [SOAP na Psicologia: guia completo, exemplos práticos e como aplicar na clínica](/pratica-clinica/soap-psicologia)
+- 🔗 [Marcadores Clínicos na Psicologia: o que são, como usar e por que transformam a prática clínica](/pratica-clinica/marcadores-clinicos-psicologia)
+- 🔗 [Evolução Psicológica](/pratica-clinica/evolucao-psicologica)
+- 🔗 [Avaliação Psicológica na Prática Clínica: como usar instrumentos de forma ética e estratégica](/pratica-clinica/avaliacao-psicologica-pratica-clinica)
+- 🔗 [Sistema de Acompanhamento Clínico Longitudinal: o futuro da prática em psicologia](/pratica-clinica/sistema-acompanhamento-clinico-longitudinal)
+
+---

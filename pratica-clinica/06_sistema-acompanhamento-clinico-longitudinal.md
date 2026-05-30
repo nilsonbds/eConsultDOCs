@@ -327,5 +327,10 @@ Não. Trata-se de uma abordagem possível, não obrigatória.
 
 - 🔗 [Prática Clínica](/pratica-clinica)
 - 🔗 [Prontuário Psicológico](/pratica-clinica/prontuario-psicologico)
-- 🔗 [SOAP na Psicologia](/pratica-clinica/soap-psicologia)
+- 🔗 [SOAP na Psicologia: guia completo, exemplos práticos e como aplicar na clínica](/pratica-clinica/soap-psicologia)
+- 🔗 [Marcadores Clínicos na Psicologia: o que são, como usar e por que transformam a prática clínica](/pratica-clinica/marcadores-clinicos-psicologia)
 - 🔗 [Evolução Psicológica](/pratica-clinica/evolucao-psicologica)
+- 🔗 [Avaliação Psicológica na Prática Clínica: como usar instrumentos de forma ética e estratégica](/pratica-clinica/avaliacao-psicologica-pratica-clinica)
+- 🔗 [Prática Clínica com eConsult](/pratica-clinica/pratica-clinica-com-econsult)
+
+---
