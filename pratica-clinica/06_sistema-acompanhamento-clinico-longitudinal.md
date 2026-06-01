@@ -32,22 +32,6 @@ E nem apenas uma limitação tecnológica.
 
 ---
 
-## 🧭 Navegação rápida
-
-- ⚠️ O problema dos sistemas atuais  
-- 🧠 O impacto clínico dessa limitação  
-- 🔄 O que é acompanhamento clínico longitudinal  
-- ⚖️ Gestão e clínica não são opostos  
-- 🎥 Veja na prática  
-- 🧩 Pilares de um sistema longitudinal  
-- 🤖 Papel da tecnologia  
-- 🧩 Onde o eConsult se posiciona  
-- 🚀 O que muda na prática  
-- 🧭 Conclusão  
-- ❓ FAQ  
-
----
-
 ## ⚠️ O problema dos sistemas atuais
 
 A maioria dos sistemas disponíveis hoje contribui de forma consistente na organização do consultório:
@@ -151,7 +135,7 @@ Mas como suporte para:
 
 ## 🎥 Veja na prática: gestão + acompanhamento clínico
 
-<video controls width="100%" style={{borderRadius: '12px', margin: '1rem 0'}}>
+<video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
   <source src="/video/acompanhamento-clinico-econsult.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
@@ -278,15 +262,9 @@ A prática clínica pode ser conduzida de diferentes formas.
 
 Sistemas atuais já contribuem significativamente na organização do consultório.
 
----
-
 Ao mesmo tempo, novas abordagens vêm propondo formas de ampliar a leitura clínica ao longo do tempo.
 
----
-
 👉 O acompanhamento longitudinal é uma dessas possibilidades.
-
----
 
 Ele pode ser especialmente útil para profissionais que buscam:
 
@@ -300,26 +278,105 @@ Ele pode ser especialmente útil para profissionais que buscam:
 
 ### O que é um sistema de acompanhamento clínico longitudinal?
 
-É uma proposta de sistema que organiza e interpreta dados clínicos ao longo do tempo.
+É um modelo de organização clínica que busca integrar informações de diferentes sessões ao longo do tempo, permitindo visualizar padrões, evolução, fatores de risco, engajamento e outros aspectos relevantes do processo terapêutico.
 
 ---
 
-### Qual a diferença para prontuário eletrônico?
+### Qual a diferença entre acompanhamento clínico longitudinal e prontuário eletrônico?
 
-O prontuário registra.  
-O acompanhamento longitudinal busca estruturar a leitura da evolução.
+O prontuário eletrônico é responsável por registrar informações clínicas.
 
----
-
-### Isso substitui o raciocínio clínico?
-
-Não. Atua como suporte.
+Já o acompanhamento clínico longitudinal procura organizar e conectar esses registros ao longo do tempo, facilitando a compreensão da trajetória do paciente e da evolução do tratamento.
 
 ---
 
-### Todos os profissionais precisam usar esse modelo?
+### O acompanhamento clínico longitudinal substitui o raciocínio clínico do psicólogo?
 
-Não. Trata-se de uma abordagem possível, não obrigatória.
+Não.
+
+Esse tipo de sistema atua apenas como ferramenta de apoio à organização e análise das informações clínicas.
+
+A formulação de hipóteses, tomada de decisão e condução terapêutica continuam sendo responsabilidade do profissional.
+
+---
+
+### Quais benefícios o acompanhamento longitudinal pode trazer para a prática clínica?
+
+Entre os principais benefícios estão:
+
+* maior clareza sobre a evolução do paciente;
+* identificação de padrões recorrentes;
+* integração entre sessões;
+* redução da dependência exclusiva da memória clínica;
+* apoio à tomada de decisão baseada em dados acumulados ao longo do tratamento.
+
+---
+
+### O acompanhamento longitudinal serve apenas para psicoterapia individual?
+
+Não.
+
+A lógica longitudinal pode ser aplicada em diferentes contextos clínicos, incluindo:
+
+* psicoterapia individual;
+* terapia de casal;
+* terapia familiar;
+* grupos terapêuticos;
+* acompanhamento multiprofissional.
+
+---
+
+### Como identificar a evolução de um paciente ao longo do tempo?
+
+A evolução pode ser observada por diferentes indicadores, como:
+
+* redução ou aumento de sintomas;
+* mudanças comportamentais;
+* adesão ao tratamento;
+* alcance de objetivos terapêuticos;
+* fortalecimento de recursos psicológicos;
+* alterações nos fatores de risco e proteção.
+
+Sistemas longitudinais ajudam a organizar essas informações de forma mais estruturada.
+
+---
+
+### A inteligência artificial pode auxiliar no acompanhamento clínico?
+
+Sim.
+
+Quando utilizada de forma ética e responsável, a inteligência artificial pode auxiliar na organização de informações, geração de sínteses clínicas, identificação de padrões e redução da carga operacional do profissional.
+
+No entanto, ela não substitui a avaliação clínica nem o julgamento profissional.
+
+---
+
+### O acompanhamento clínico longitudinal é indicado para psicólogos iniciantes?
+
+Sim.
+
+Tanto profissionais iniciantes quanto experientes podem se beneficiar de uma estrutura que facilite a integração das informações clínicas ao longo do tempo.
+
+---
+
+### O acompanhamento clínico longitudinal pode melhorar a documentação clínica?
+
+Sim.
+
+Ao conectar informações de diferentes sessões, esse modelo tende a favorecer registros mais consistentes, coerentes e contextualizados dentro do processo terapêutico.
+
+---
+
+### Como escolher um sistema com recursos de acompanhamento clínico longitudinal?
+
+É recomendável avaliar se o sistema oferece:
+
+* integração entre sessões;
+* visualização da evolução clínica;
+* sínteses longitudinais;
+* organização estruturada dos dados;
+* suporte à documentação clínica;
+* recursos compatíveis com as exigências éticas e legais da profissão.
 
 ---
 

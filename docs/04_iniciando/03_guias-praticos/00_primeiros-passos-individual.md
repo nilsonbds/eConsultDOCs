@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Terapia individual
+# Guia Prático de Terapia Individual com eConsult
 
 🚀 Aprenda na prática como organizar acompanhamentos individuais no eConsult.
 

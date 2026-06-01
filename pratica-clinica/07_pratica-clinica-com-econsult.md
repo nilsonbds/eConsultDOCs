@@ -30,7 +30,19 @@ Este guia apresenta um **fluxo possível de organização da prática clínica**
 
 De forma simplificada, a prática clínica pode ser organizada em um ciclo contínuo:
 
-> **Sessão → Registro → Estruturação → Análise → Planejamento → Nova sessão**
+```text
+🗣️ Sessão
+      ↓
+📝 Registro Clínico
+      ↓
+🧩 Estruturação (SOAP)
+      ↓
+📄 Prontuário Psicológico
+      ↓
+📈 Evolução Psicológica
+      ↓
+🔄 Acompanhamento Longitudinal
+```
 
 Esse ciclo se repete ao longo do acompanhamento, permitindo que o prontuário deixe de ser um documento estático e passe a ser uma **construção contínua da evolução clínica**.
 
@@ -251,6 +263,31 @@ Isso garante:
 
 :::tip Aprofundar
 🔗 [Diferença entre registro, modelo clínico e prontuário](/pratica-clinica/prontuario-psicologico)  
+:::
+
+:::info Outros guias práticos com vídeos
+
+<small>Aprenda na prática como organizar acompanhamentos individuais no eConsult.</small>
+
+🚀 [Guia Prático de **Terapia Individual** com eConsult](https://documents.econsult.app.br/docs/iniciando/guias-praticos/primeiros-passos-individual)
+
+---
+
+<small>Aprenda na prática como estruturar atendimentos de casal no eConsult.</small>
+
+🚀 [Guia Prático de **Terapia de Casal** com eConsult](https://documents.econsult.app.br/docs/iniciando/guias-praticos/primeiros-passos-casal) 
+
+---
+
+<small>Aprenda na prática como conduzir acompanhamentos familiares no eConsult.</small>
+
+🚀 [Guia Prático de **Terapia Familiar** com eConsult](https://documents.econsult.app.br/docs/iniciando/guias-praticos/primeiros-passos-familia)
+
+---
+
+<small>Aprenda na prática como gerenciar grupos terapêuticos no eConsult.</small> 
+
+🚀 [Guia Prático de **Terapia em Grupo** com eConsult](https://documents.econsult.app.br/docs/iniciando/guias-praticos/primeiros-passos-grupo) 
 :::
 
 ---
@@ -618,6 +655,140 @@ Se você está começando:
 
 👉 A prática clínica não precisa mudar de forma abrupta.  
 Mas pode se tornar, progressivamente, **mais estruturada, clara e sustentável**.
+
+---
+
+## ❓ FAQ
+
+### O que é a prática clínica com apoio do eConsult?
+
+É uma proposta de organização da prática clínica que integra prontuário psicológico, registros estruturados, modelo SOAP, marcadores clínicos, avaliações psicológicas e acompanhamento longitudinal em um único fluxo de trabalho.
+
+---
+
+### O eConsult substitui o raciocínio clínico do psicólogo?
+
+Não.
+
+O sistema atua como ferramenta de apoio à organização, documentação e análise das informações clínicas.
+
+A interpretação dos dados, a formulação de hipóteses e a tomada de decisão permanecem sob responsabilidade do profissional.
+
+---
+
+### Posso utilizar o eConsult mesmo já tendo pacientes em acompanhamento?
+
+Sim.
+
+Não é necessário reconstruir todo o histórico anterior.
+
+O recomendado é iniciar a organização a partir do momento atual do paciente, registrando as informações clinicamente relevantes já conhecidas e dando continuidade ao acompanhamento de forma estruturada.
+
+---
+
+### É necessário preencher marcadores clínicos em todas as sessões?
+
+Não.
+
+Os marcadores clínicos são uma ferramenta de apoio ao raciocínio e à organização das informações.
+
+O profissional pode utilizá-los conforme sua necessidade e julgamento clínico.
+
+---
+
+### Qual a relação entre marcadores clínicos e o modelo SOAP?
+
+Os marcadores ajudam a organizar elementos relevantes da sessão.
+
+O SOAP transforma essas informações em um registro clínico estruturado, facilitando documentação, consulta futura e acompanhamento da evolução.
+
+---
+
+### O eConsult gera anotações clínicas automaticamente?
+
+Sim.
+
+O sistema pode gerar registros clínicos assistidos em formato SOAP com base nos marcadores clínicos e anotações registradas.
+
+Entretanto, todo conteúdo deve ser revisado, ajustado e validado pelo profissional antes de ser incorporado ao prontuário.
+
+---
+
+### Posso utilizar o eConsult sem abandonar minha forma atual de trabalho?
+
+Sim.
+
+O sistema não exige mudanças abruptas na prática clínica.
+
+A adoção pode ocorrer gradualmente, permitindo que o profissional incorpore recursos como prontuário, SOAP, marcadores clínicos e acompanhamento longitudinal conforme sua rotina.
+
+---
+
+### Como o eConsult ajuda no acompanhamento da evolução do paciente?
+
+Ao integrar registros de múltiplas sessões, avaliações psicológicas e marcadores clínicos, o sistema permite visualizar tendências, padrões e mudanças ao longo do tempo, favorecendo uma compreensão mais ampla do processo terapêutico.
+
+---
+
+### É possível aplicar avaliações psicológicas e acompanhar resultados ao longo do tempo?
+
+Sim.
+
+O sistema permite registrar avaliações psicológicas e comparar aplicações realizadas em diferentes momentos do acompanhamento, facilitando análises longitudinais.
+
+---
+
+### O prontuário no eConsult é apenas um registro documental?
+
+Não.
+
+Além da função documental, o prontuário pode atuar como uma base estruturada para análise clínica, permitindo integrar registros, avaliações, marcadores e evolução ao longo do tempo.
+
+---
+
+### Posso emitir prontuários mesmo sem ter todo o histórico do paciente registrado no sistema?
+
+Sim.
+
+O prontuário pode ser emitido com base nas informações disponíveis e registradas no sistema.
+
+O documento representa um recorte clínico do período documentado, sem exigir a reconstrução integral do histórico anterior.
+
+---
+
+### O eConsult é indicado apenas para terapia individual?
+
+Não.
+
+O sistema pode ser utilizado em diferentes contextos clínicos, incluindo:
+
+* psicoterapia individual;
+* terapia de casal;
+* terapia familiar;
+* grupos terapêuticos;
+* acompanhamento multiprofissional.
+
+---
+
+### Qual a principal diferença entre o eConsult e sistemas tradicionais para psicólogos?
+
+Enquanto muitos sistemas concentram-se principalmente em agenda, financeiro e armazenamento de registros, o eConsult busca integrar esses recursos com ferramentas voltadas ao acompanhamento clínico longitudinal, à estruturação do raciocínio clínico e à análise da evolução do paciente ao longo do tempo.
+
+---
+
+### Quanto tempo leva para começar a obter valor do acompanhamento longitudinal?
+
+Normalmente, após poucas sessões já é possível começar a identificar padrões e construir uma visão mais organizada da evolução clínica.
+
+O benefício tende a aumentar conforme novos registros são incorporados ao acompanhamento.
+
+---
+
+### O eConsult pode ajudar a reduzir a dependência da memória clínica?
+
+Sim.
+
+Ao estruturar informações relevantes do acompanhamento e mantê-las integradas ao longo do tempo, o sistema contribui para que a compreensão do caso dependa menos da memória e mais de registros clínicos organizados.
 
 ---
 

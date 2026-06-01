@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Terapia de família
+# Guia Prático de Terapia Familiar com eConsult
 
 🚀 Aprenda na prática como conduzir acompanhamentos familiares no eConsult.
 

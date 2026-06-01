@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Terapia de grupos terapêuticos
+# Guia Prático de Terapia em Grupo com eConsult
 
 🚀 Aprenda na prática como gerenciar grupos terapêuticos no eConsult.
 

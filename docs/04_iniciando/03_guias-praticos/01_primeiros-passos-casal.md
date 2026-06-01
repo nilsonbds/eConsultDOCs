@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Terapia de casal
+# Guia Prático de Terapia de Casal com eConsult
 
 🚀 Aprenda na prática como estruturar atendimentos de casal no eConsult.
 
