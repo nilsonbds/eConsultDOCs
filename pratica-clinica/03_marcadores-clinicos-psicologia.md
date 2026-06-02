@@ -32,6 +32,8 @@ Quanto maior o número de pacientes e sessões, mais difícil se torna acompanha
 
 Os Marcadores Clínicos são uma proposta do eConsult para transformar fenômenos observados durante o processo terapêutico em indicadores estruturados que possam ser acompanhados ao longo do tempo.
 
+**Importante**: os Marcadores Clínicos não constituem testes psicológicos, escalas psicométricas ou instrumentos padronizados de avaliação psicológica. São recursos estruturados de acompanhamento clínico destinados a apoiar a observação longitudinal, a organização das informações e o raciocínio clínico do profissional.
+
 Eles não substituem:
 
 * o raciocínio clínico;
@@ -42,6 +44,24 @@ Eles não substituem:
 Funcionam como uma camada complementar de organização e análise clínica.
 
 Enquanto os registros contam a história do paciente, os marcadores ajudam a visualizar padrões, mudanças e tendências ao longo do tratamento.
+
+---
+
+### 🚫 O que os Marcadores Clínicos não são
+
+Os Marcadores Clínicos não devem ser confundidos com:
+
+* testes psicológicos;
+* escalas psicométricas;
+* instrumentos diagnósticos;
+* classificações automáticas de pacientes;
+* substitutos do raciocínio clínico.
+
+Seu objetivo não é medir características psicológicas de forma padronizada nem produzir diagnósticos.
+
+A proposta é estruturar fenômenos clinicamente relevantes observados pelo profissional para apoiar o acompanhamento longitudinal do processo terapêutico.
+
+Os Marcadores Clínicos funcionam como uma ferramenta de organização e acompanhamento clínico, permanecendo sempre subordinados à avaliação, interpretação e julgamento do psicólogo.
 
 ---
 
@@ -118,6 +138,12 @@ A proposta dos marcadores clínicos não é criar mais uma tarefa administrativa
 Pelo contrário.
 
 O objetivo é reduzir a carga cognitiva do registro clínico e transformar informações dispersas em conhecimento clínico organizado.
+
+![Comparação entre a forma tradicional de documentação clínica e o uso de Marcadores Clínicos na psicologia. À esquerda, o fluxo tradicional segue as etapas Sessão, Registro, SOAP e Prontuário, sem síntese longitudinal e sem visão integrada da evolução do paciente. À direita, os Marcadores Clínicos transformam o registro clínico em múltiplas saídas, incluindo geração de SOAP, atualização do prontuário, síntese longitudinal automática e visualização gráfica da trajetória clínica ao longo do tempo.](../static/img/pratica_clinica/infografico-evolucao-logitudnal-com-marcadores-clinicos.png)
+
+<small>
+Comparação entre o fluxo tradicional de documentação clínica e a proposta baseada em Marcadores Clínicos. Enquanto o modelo tradicional depende de registros e análises realizadas de forma isolada, os Marcadores Clínicos permitem transformar observações da sessão em uma estrutura capaz de apoiar a geração de SOAPs, atualização do prontuário, sínteses clínicas longitudinais e visualização da evolução do paciente ao longo do tempo.
+</small>
 
 ### ⏱️ Menor tempo de documentação
 
@@ -340,6 +366,30 @@ O objetivo é transformar informações que já seriam registradas em uma estrut
 
 ---
 
+### Sou obrigado a utilizar Marcadores Clínicos no eConsult?
+
+Não.
+
+O uso dos Marcadores Clínicos é totalmente opcional.
+
+O eConsult permite que cada profissional trabalhe da forma que considerar mais adequada à sua prática clínica, incluindo modelos tradicionais de registro, evolução psicológica, prontuário e SOAP.
+
+Psicólogos que preferem uma abordagem mais tradicional podem utilizar o sistema normalmente sem recorrer aos Marcadores Clínicos.
+
+Os Marcadores Clínicos foram desenvolvidos para profissionais que desejam reduzir o retrabalho na documentação clínica e transformar observações registradas durante a sessão em uma base estruturada capaz de apoiar a elaboração de SOAPs, evoluções psicológicas, registros do prontuário e análises longitudinais.
+
+Em vez de registrar informações em um local, reorganizá-las posteriormente e então produzir novos documentos, o profissional pode utilizar os Marcadores Clínicos para estruturar fenômenos observados durante o atendimento e reaproveitar essas informações em diferentes etapas do acompanhamento.
+
+Em outras palavras:
+
+* Você pode utilizar o eConsult sem Marcadores Clínicos.
+* Você pode utilizar apenas alguns marcadores.
+* Ou pode incorporar os Marcadores Clínicos como parte do seu acompanhamento longitudinal.
+
+A escolha permanece sempre sob responsabilidade do profissional e deve respeitar seu método de trabalho, abordagem clínica e necessidades do caso.
+
+---
+
 ### Os Marcadores Clínicos substituem o prontuário?
 
 Não.
@@ -382,7 +432,7 @@ Não.
 
 Os marcadores não substituem o SOAP.
 
-Eles funcionam como uma camada complementar de estruturação clínica que pode apoiar a elaboração de SOAPs, evoluções psicológicas e outros registros.
+Na proposta do eConsult, eles podem servir como base estruturada para apoiar a elaboração de SOAPs, evoluções psicológicas, sínteses clínicas e registros do prontuário.
 
 ---
 
