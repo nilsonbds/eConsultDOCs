@@ -31,7 +31,7 @@ export default function HomepagePortalPaths() {
             </div>
 
             <h3 className={styles.cardTitle}>
-              Central de Conhecimento eConsult
+              Central de Conhecimento
             </h3>
 
             <p className={styles.cardText}>

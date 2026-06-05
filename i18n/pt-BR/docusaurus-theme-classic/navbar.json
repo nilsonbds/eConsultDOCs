@@ -4,8 +4,8 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.Tutorial": {
-    "message": "Central de Conhecimento eConsult",
-    "description": "Navbar item with label Central de Conhecimento eConsult"
+    "message": "Central de Conhecimento",
+    "description": "Navbar item with label Central de Conhecimento"
   },
   "item.label.Blog": {
     "message": "Blog",

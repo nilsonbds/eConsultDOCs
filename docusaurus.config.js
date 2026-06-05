@@ -179,7 +179,7 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Central de Conhecimento eConsult',
+          label: 'Central de Conhecimento',
         },
         {
           type: 'docSidebar',
