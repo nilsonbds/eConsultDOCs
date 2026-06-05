@@ -2,78 +2,265 @@
 sidebar_position: 1
 ---
 
-# Explorando o Painel Inicial
+# Dashboard Inicial
 
-O Painel Inicial foi desenvolvido para proporcionar acesso rápido e prático às principais funcionalidades do eConsult. Nele, são exibidos alertas de pendências relacionadas a agendamentos e pagamentos, garantindo uma visão clara das tarefas prioritárias. Além disso, o painel conta com atalhos diretos para as funcionalidades mais utilizadas do sistema, otimizando o acesso e simplificando a gestão das operações essenciais.
+O **Dashboard Inicial** é a central de acompanhamento do consultório dentro do eConsult. Nele você encontra uma visão consolidada da agenda, evolução clínica, frequência dos atendimentos, desempenho financeiro e principais situações que merecem atenção.
 
-![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-001.png)
+O objetivo é permitir que você identifique rapidamente o que precisa ser acompanhado no dia, sem precisar navegar por vários módulos.
 
-## Mensagens de alerta, avisos e atalhos
+---
 
-O Painel Inicial exibe primeiro os alertas e informes mais importantes, destacando pendências e orientações que ajudam a priorizar tarefas e garantir uma gestão eficiente.
+## Visão Geral
 
-![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002.png)
+Ao acessar o sistema, o dashboard apresenta:
 
-- **Atendimentos no dia DD/MM/YYYY** – Exibe a quantidade de atendimentos agendados para o dia atual. Ao clicar, abre a agenda já posicionada no dia atual.
+- Situação da agenda do dia
+- Indicadores de acompanhamento clínico
+- Frequência e risco de abandono
+- Resumo financeiro
+- Síntese de evolução clínica
+- Acesso rápido aos principais módulos
 
-  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-A.png)
+> O conteúdo exibido é atualizado automaticamente conforme os atendimentos, registros clínicos e movimentações financeiras são realizados no sistema.
 
-- **Próximo atendimento em DD/MM/YYYY às hh:mm com [nome do paciente ou grupo]** – Exibido apenas quando há um próximo atendimento agendado. Mostra data, horário e o paciente/grupo correspondente. Ao clicar, abre a agenda diretamente no dia desse atendimento.
+---
 
-  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-B.png)
+## 📅 Agenda
 
-- **Organize seus atendimentos ou finalize seus registros** – Exibido somente quando não há próximos atendimentos agendados. Exibe uma mensagem de orientação para produtividade. Ao clicar, abre a agenda no dia atual.
+Na parte superior da tela é exibida a situação da sua agenda.
 
-  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-C.png)
+![Agenda](../../../static/img/prints/dashboard/001.png)
 
-- **Atendimento a confirmar com paciente/grupo** – Exibido apenas quando há atendimentos pendentes de confirmação. Mostra a quantidade de atendimentos que ainda precisam de retorno do paciente/grupo. Ao clicar, abre a tela de Alertas com os itens pendentes destacados para ação.
+### Informações disponíveis
 
-  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-D.png)
-  
-- **Atendimentos aguardando registro de realização** – Exibido somente quando existem atendimentos já ocorridos que ainda não tem anotação de realização registrados. Mostra a quantidade de registros pendentes. Ao clicar, abre a tela de Alertas com esses atendimentos destacados para conclusão.
+- Próximos atendimentos agendados
+- Quantidade de atendimentos para o dia
+- Acesso rápido para abertura da agenda
+- Acesso à lista de pessoas atendidas
 
-  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-E.png)
-  
-- **Pagamentos vencidos** – Exibido apenas quando existem pagamentos pendentes com data de vencimento já expirada. Mostra a quantidade de cobranças em atraso. Ao clicar, abre a tela de Alertas com esses pagamentos destacados para regularização.
+### Quando não houver atendimentos
 
-  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-F.png)
-  
-- **Pacientes com cadastro incompleto** – Exibido somente quando há pacientes com informações essenciais faltando (E-mail, Celular ou Data de Nascimento). Mostra a quantidade de cadastros incompletos. Ao clicar, abre a tela de Alertas com esses pacientes destacados para atualização dos dados.
+Caso não existam atendimentos futuros cadastrados, o sistema exibirá uma mensagem informando que não há compromissos agendados.
 
-  ![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-G.png)
-  
-- **Sua conta:** Atalho para o Painel Conta.
+---
 
-- **Ajuda**: Atalho para a Central de Ajuda, onde você encontra orientações sobre o uso do sistema.
+## 🚦 Indicadores Rápidos
 
-- **Sair**: Encerra sua sessão e retorna para a página inicial do site eConsult.
+Logo abaixo da agenda são exibidos indicadores que ajudam a identificar prioridades.
 
-Além destes alertas e informações, o Painel Inicial oferece ainda atalhos rápidos para as principais funcionalidades do sistema. Esses atalhos foram projetados para facilitar a navegação e agilizar o acesso às ferramentas mais utilizadas, otimizando o fluxo de trabalho e a gestão das operações diárias.
+![Indicadores Rápidos](../../../static/img/prints/dashboard/002.png)
 
-|Atalho|Destino|
-|--------------|-------------|
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-004.png) | Abre o [Painel Atendimentos](/docs/funcionalidades/atendimentos/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-003.png) | Abre o [Painel Pacientes e Grupos Terapêuticos](/docs/funcionalidades/clientes-grupos/visao-clientes-grupos) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-006.png) | Abre o [Painel Resultados](/docs/funcionalidades/resultados/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-021.png) | Abre o [Painel Acompanhamento Inteligente do Paciente](/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-007.png) | Abre o [Painel Situações de Atendimento](/docs/funcionalidades/situacoes-atendimento/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-008.png) | Abre o [Painel Configurações](/docs/funcionalidades/configuracoes/visao-configuracoes) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-009.png) | Abre o [Painel Faturas do Paciente/Grupo](/docs/funcionalidades/faturas-cliente/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-010.png) | Abre o [Painel Atendimentos do Mês](/docs/funcionalidades/atendimentos-do-mes/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-011.png) | Abre o [Painel Receitas e Despesas](/docs/funcionalidades/receitas-e-despesas/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-012.png) | Abre o [Painel Consolidação Financeira](/docs/funcionalidades/consolidacao-financeira/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-013.png) | Abre o [Painel Inadimplências](/docs/funcionalidades/inadimplencias/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-014.png) | Abre o [Painel Perdas (baixas contábeis)](/docs/funcionalidades/perdas-baixas-contabeis/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-015.png) | Abre o [Painel Perdas Recuperadas](/docs/funcionalidades/perdas-recuperadas/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-005.png) | Abre o [Painel Marcadores Clínicos](/docs/funcionalidades/marcadores-clinicos/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-023.png) | Abre o [Painel Campanhas de Cashback](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-016.png) | Abre o [Painel Recibos](/docs/funcionalidades/recibos/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-022.png) | Abre o [Painel Notas Fiscais](#) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-017.png) | Abre o [Painel Modelos de Anamnese](/docs/funcionalidades/modelo-anamnese/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-024.png) | Abre o [Painel Documentos](/docs/funcionalidades/documentos/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-020.png) | Abre o [Painel Relatórios](/docs/funcionalidades/relatorios/visao) |
-|![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-019.png) | Abre o [Painel Arquivos](/docs/funcionalidades/arquivos/visao) |
+### Situações que precisam de ação imediata
 
-Por fim, ao final da página, o painel exibe os seis posts mais recentes do blog, com conteúdos relevantes para a atuação do psicólogo.
+Casos que apresentam maior necessidade de acompanhamento ou intervenção.
 
-![Tela: Painel Inicial](../../../static/img/prints/02_painel-inicial-002-H.png)
+Exemplos:
+
+- Frequência em queda
+- Baixo engajamento
+- Pendências clínicas
+- Situações classificadas como prioritárias
+
+### Situações que merecem atenção
+
+Casos que não demandam ação urgente, mas devem ser acompanhados de forma mais próxima.
+
+### Situações organizadas
+
+Casos acompanhados regularmente e sem sinais relevantes de atenção no momento.
+
+---
+
+## 📋 Situações de Atendimento
+
+O painel **Situações de Atendimento** centraliza os principais eventos e alertas relacionados aos pacientes.
+
+![Situações de Atendimento](../../../static/img/prints/dashboard/003.png)
+
+Através dele é possível:
+
+- Identificar situações pendentes
+- Visualizar acompanhamentos em andamento
+- Navegar para a lista completa de ocorrências
+
+---
+
+## 💰 Desempenho Financeiro
+
+O gráfico de desempenho financeiro apresenta uma visão consolidada dos últimos meses.
+
+![Desempenho Financeiro](../../../static/img/prints/dashboard/004.png)
+
+### Indicadores exibidos
+
+- Faturamento previsto
+- Valores recebidos
+- Valores pagos
+
+### Objetivo
+
+Permitir uma análise rápida da evolução financeira do consultório ao longo do tempo.
+
+---
+
+## 📉 Frequência e Risco de Abandono
+
+O módulo de frequência acompanha a regularidade dos atendimentos e ajuda a identificar possíveis sinais de evasão.
+
+![Frequência e Risco de Abandono](../../../static/img/prints/dashboard/005.png)
+
+### Alto Risco
+
+Pacientes com baixa frequência ou redução significativa de comparecimento.
+
+Possíveis sinais:
+
+- Intervalos prolongados entre sessões
+- Ausências recorrentes
+- Queda recente de frequência
+
+### Atenção
+
+Pacientes com frequência irregular ou oscilante.
+
+Possíveis sinais:
+
+- Comparecimento inconsistente
+- Oscilações entre períodos de maior e menor adesão
+
+### Frequência Saudável
+
+Pacientes que mantêm regularidade nos atendimentos.
+
+Características:
+
+- Comparecimento consistente
+- Frequência estável ou crescente
+
+> Os indicadores auxiliam na identificação precoce de possíveis abandonos terapêuticos.
+
+---
+
+## 🧠 Engajamento Clínico e Evolução
+
+Este painel apresenta uma síntese longitudinal dos registros clínicos disponíveis.
+
+![Engajamento Clínico e Evolução](../../../static/img/prints/dashboard/006.png)
+
+### Informações exibidas
+
+- Casos analisados
+- Casos sem dados clínicos suficientes
+- Situação clínica predominante
+- Casos que merecem atenção clínica
+
+### Situações Clínicas
+
+O sistema pode consolidar informações como:
+
+- Evolução favorável
+- Evolução estável
+- Baixo engajamento terapêutico
+- Risco elevado associado a baixo engajamento
+
+### Acompanhamento Inteligente
+
+Quando existem registros clínicos suficientes, o eConsult pode produzir leituras longitudinais que auxiliam na compreensão da evolução do caso ao longo do tempo.
+
+---
+
+## 🏢 Resumo do Consultório
+
+O resumo operacional apresenta indicadores dos últimos 30 dias.
+
+![Resumo do Consultório](../../../static/img/prints/dashboard/007.png)
+
+### Indicadores disponíveis
+
+- Casos ativos
+- Atendimentos realizados
+- Receita obtida
+- Valores a receber
+- Desmarcações
+- Remarcações
+- Inadimplência
+
+### Objetivo
+
+Oferecer uma visão rápida da operação clínica e financeira do consultório.
+
+---
+
+## 🧭 Acesso Rápido aos Módulos
+
+Na parte inferior do dashboard estão disponíveis atalhos para os principais módulos do sistema.
+
+![Acesso Rápido aos Módulos](../../../static/img/prints/dashboard/008.png)
+
+### Atendimentos e Pessoas Atendidas
+
+Acesso para:
+
+- Agenda de atendimentos
+- Cadastro de pessoas atendidas
+
+### Inteligência Clínica e Evolução
+
+Acesso para:
+
+- Acompanhamento Inteligente
+- Marcadores Clínicos
+
+### Comunicação
+
+Acesso aos recursos de comunicação com pessoas atendidas.
+
+### Financeiro
+
+Acesso para:
+
+- Resultados
+- Receitas e despesas
+- Consolidação financeira
+- Inadimplências
+- Perdas financeiras
+- Recuperações
+- Campanhas de cashback
+
+### Gestão do Consultório
+
+Acesso para:
+
+- Situações de atendimento
+- Configurações
+- Segurança e auditoria
+- Faturas de pessoas atendidas
+
+### Documentos e Relatórios
+
+Acesso para:
+
+- Recibos
+- Notas fiscais
+- Documentos
+- Relatórios
+- Arquivos
+- Modelos de anamnese
+
+---
+
+## ✅ Boas Práticas
+
+### Consulte o dashboard diariamente
+
+A tela inicial foi projetada para funcionar como um painel de controle da rotina clínica e administrativa.
+
+### Priorize os casos sinalizados
+
+Os indicadores de atenção ajudam a identificar pacientes que podem se beneficiar de acompanhamento mais próximo.
+
+### Utilize os dados em conjunto
+
+Os indicadores de frequência, engajamento clínico e evolução devem ser interpretados de forma integrada ao contexto clínico e ao julgamento profissional.
+
+---
