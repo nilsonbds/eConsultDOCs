@@ -2,9 +2,9 @@
 sidebar_position: 0
 ---
 
-# Guia Prático de Terapia Individual com eConsult
+# Exemplo Completo de Prontuário Psicológico Individual
 
-🚀 Aprenda na prática como organizar acompanhamentos individuais no eConsult.
+🚀 Do cadastro da pessoa atendida ao prontuário final em PDF.
 
 Este guia foi criado para ajudar você a começar a utilizar a plataforma de forma leve, prática e organizada no dia a dia clínico.
 

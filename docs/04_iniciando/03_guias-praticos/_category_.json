@@ -1,9 +1,9 @@
 {
-  "label": "Guias práticos",
+  "label": "Exemplos Práticos de Prontuários, SOAP e Evolução Psicológica",
   "position": 3,
   "link": {
     "slug": "/guias-praticos",
     "type": "generated-index",
-    "description": "Aprenda na prática como funcionam os atendimentos no eConsult com vídeos, exemplos e situações do dia a dia terapêutico. Todos os casos são fictícios, criados a partir de contextos reais."
+    "description": "Veja como registros clínicos são construídos na prática, desde o primeiro atendimento até a geração do prontuário final. Inclui exemplos de terapia individual, casal, família e grupo com registros SOAP, evolução psicológica e prontuários fictícios em PDF."
   }
 }

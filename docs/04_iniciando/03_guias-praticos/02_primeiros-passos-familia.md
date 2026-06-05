@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Guia Prático de Terapia Familiar com eConsult
+# Exemplo Completo de Prontuário Familiar
 
-🚀 Aprenda na prática como conduzir acompanhamentos familiares no eConsult.
+🚀 Da estrutura familiar ao prontuário completo do acompanhamento.
 
 Este guia foi criado para ajudar você a começar a utilizar o eConsult em atendimentos familiares de forma prática, organizada e com acompanhamento clínico longitudinal.
 

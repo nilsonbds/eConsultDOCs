@@ -2,154 +2,264 @@
 sidebar_position: 1
 ---
 
-# Avaliações Psicológicas Integradas
-***📊 AVALIAÇÃO ESTRUTURADA***
+# Avaliações Clínicas e Inteligência Longitudinal
 
-***Avaliações científicas incorporadas ao fluxo clínico.***
+***📊 AVALIAÇÃO CLÍNICA ESTRUTURADA***
 
-A aplicação de avaliações psicológicas (escalas psicométricas) é uma etapa central da prática baseada em evidências em saúde mental.
+***Escalas científicas, observação clínica estruturada e acompanhamento longitudinal em um único ambiente.***
 
-No **eConsult**, essa funcionalidade foi concebida para ir além da simples aplicação de escalas. A plataforma integra as avaliações diretamente ao processo clínico, oferecendo **rigor técnico, fluidez operacional e leitura longitudinal dos resultados**.
+A avaliação clínica é uma parte fundamental da prática baseada em evidências em saúde mental.
 
-Com um portfólio robusto de instrumentos de uso livre, o sistema permite:
+No entanto, uma avaliação isolada representa apenas um recorte momentâneo. O verdadeiro valor clínico surge quando os resultados podem ser acompanhados, contextualizados e comparados ao longo do tempo.
 
-- aplicação digital estruturada  
-- pontuação automática  
-- interpretação imediata  
-- armazenamento organizado no prontuário  
-- acompanhamento evolutivo ao longo do tempo  
+No eConsult, as avaliações fazem parte de uma proposta mais ampla de **Inteligência Clínica Longitudinal**, integrando instrumentos científicos, observação clínica estruturada e acompanhamento evolutivo do caso.
 
-Tudo isso **sem fragmentar a rotina do profissional**.
+A plataforma permite:
 
-:::warning
-A funcionalidade de **Avaliações Psicológicas Integradas** é disponibilizada exclusivamente para psicólogos habilitados, em conformidade com a Lei nº 4.119/1962 e as normas do Conselho Federal de Psicologia.
-:::
+* aplicação digital estruturada
+* pontuação automática
+* interpretação imediata
+* armazenamento integrado ao prontuário
+* comparação longitudinal dos resultados
+* acompanhamento da evolução clínica ao longo do tempo
 
----
-
-## Avaliações baseadas em evidências
-
-O eConsult disponibiliza instrumentos psicométricos validados e de uso livre para avaliação de múltiplos domínios, incluindo:
-
-- afeto  
-- ansiedade, depressão e estresse  
-- funcionamento cognitivo  
-- qualidade de vida  
-- personalidade  
-- risco de suicídio e violência  
-- uso de substâncias  
-- saúde mental infantil e adolescente  
-- entre outros  
-
-O objetivo é oferecer **rastreamento clínico confiável e contínuo**, integrado ao cuidado.
+Tudo isso sem fragmentar a rotina do profissional.
 
 ---
 
-## Integração com o cuidado longitudinal
+## Dois tipos de avaliação, uma única visão clínica
 
-Diferentemente de soluções que tratam avaliações como eventos isolados, o eConsult permite que os resultados:
+O eConsult integra diferentes formas de avaliação para apoiar o raciocínio clínico e o acompanhamento longitudinal.
 
-- fiquem vinculados ao prontuário  
-- sejam comparados ao longo do tempo  
-- dialoguem com marcadores clínicos  
-- apoiem a leitura evolutiva do caso  
+### Avaliações científicas validadas
 
-Isso transforma as avaliações em **ferramentas vivas de acompanhamento clínico longitudinal**, e não apenas em registros pontuais.
+A plataforma disponibiliza instrumentos de uso livre amplamente utilizados na literatura científica para rastreamento, monitoramento e acompanhamento clínico.
+
+Entre eles:
+
+* PHQ-9
+* GAD-7
+* SRQ-20
+* DASS-21
+* AUDIT
+* WHODAS 2.0
+* WHOQOL-BREF
+* PCL-5
+* MAAS
+* SWLS
+* RSES
+* entre outros
+
+Esses instrumentos auxiliam na avaliação de sintomas, funcionalidade, qualidade de vida, sofrimento psicológico e diversos outros domínios relevantes para a prática clínica.
+
+### Escalas assistivas do eConsult
+
+Além dos instrumentos científicos, o eConsult disponibiliza escalas assistivas próprias voltadas ao acompanhamento clínico longitudinal.
+
+Essas escalas ajudam a estruturar aspectos frequentemente observados pelo profissional ao longo do processo terapêutico, como:
+
+* engajamento terapêutico
+* risco de abandono
+* aliança terapêutica
+* estágio do processo terapêutico
+* direção clínica
+* risco clínico dinâmico
+
+Seu objetivo não é diagnóstico, mas sim apoiar a organização da observação clínica e a análise evolutiva do acompanhamento.
 
 ---
 
-## Regras e conformidade
+## Avaliações adaptadas ao contexto clínico
 
-O eConsult foi desenvolvido em conformidade com as exigências éticas e legais aplicáveis ao uso de instrumentos psicológicos.
+As avaliações podem ser utilizadas em diferentes modalidades de atendimento, respeitando os objetivos e características de cada processo clínico.
 
-### 1. Regulamentação profissional
+### Terapia individual
 
-- Apenas **psicólogos com registro ativo no CRP** podem aplicar e interpretar avaliações.  
-- O sistema realiza validações cadastrais para reforçar a conformidade profissional.
+As avaliações podem apoiar o acompanhamento de aspectos como:
 
-### 2. Sigilo e privacidade
+* ansiedade
+* depressão
+* sofrimento psicológico
+* trauma
+* autoestima
+* qualidade de vida
+* funcionamento global
 
-- Dados protegidos por **criptografia de alta segurança**  
-- Acesso restrito ao profissional autorizado  
-- Conformidade com a **LGPD**
+### Terapia de casal
 
-### 3. Validade técnica e direitos autorais
+Além dos aspectos individuais, as avaliações podem auxiliar na compreensão de:
 
-- Uso exclusivo de **instrumentos de domínio público ou de uso livre**  
-- Eliminação do risco de utilização indevida de testes restritos  
-- Inclusão de **referências bibliográficas** nos instrumentos e relatórios  
+* comunicação conjugal
+* conflitos recorrentes
+* padrões relacionais
+* participação no processo terapêutico
+* vínculo e dinâmica do casal
 
-### 4. Responsabilidade profissional
+### Terapia familiar
 
-O eConsult **apoia o processo avaliativo**, mas:
+As avaliações podem complementar a observação de:
 
-- não substitui o julgamento clínico  
-- não automatiza diagnósticos  
-- não dispensa a interpretação profissional  
+* relações familiares
+* parentalidade
+* conflitos familiares
+* comunicação entre membros
+* papéis e funcionamento do sistema familiar
+
+### Terapia em grupo
+
+O acompanhamento pode incluir aspectos relacionados à dinâmica grupal, como:
+
+* participação
+* engajamento
+* coesão grupal
+* integração
+* retraimento
+* conflitos e interações
+
+---
+
+## Sugestão Inteligente de Avaliações
+
+O eConsult auxilia o profissional na seleção de instrumentos potencialmente relevantes para cada caso.
+
+Com base nos marcadores clínicos, contexto do acompanhamento, fase do processo terapêutico, trajetória clínica e pontos de atenção identificados, o sistema pode sugerir avaliações que auxiliem no aprofundamento ou monitoramento do caso.
+
+As sugestões possuem caráter assistivo e não substituem a decisão clínica do profissional.
+
+---
+
+## Avaliar é importante. Acompanhar é essencial.
+
+Uma avaliação aplicada em um único momento responde perguntas importantes:
+
+* Como estão os sintomas atuais?
+* Qual o nível de sofrimento psicológico?
+* Como está a qualidade de vida?
+* Existe risco clínico relevante?
+
+Mas o acompanhamento longitudinal permite responder perguntas ainda mais importantes:
+
+* Os sintomas estão melhorando?
+* O funcionamento está evoluindo?
+* O engajamento está aumentando?
+* Existe risco de abandono?
+* A direção clínica permanece favorável?
+
+Por isso, no eConsult, os resultados permanecem vinculados ao histórico clínico da pessoa atendida e podem ser acompanhados ao longo do tempo.
+
+---
+
+## Integração com o prontuário
+
+Todas as avaliações ficam organizadas diretamente no prontuário eletrônico.
+
+Isso permite:
+
+* consulta rápida dos resultados anteriores
+* comparação entre aplicações
+* histórico cronológico das avaliações
+* documentação clínica mais estruturada
+* maior rastreabilidade das informações
+
+As avaliações deixam de ser arquivos isolados e passam a fazer parte da história clínica do caso.
+
+---
+
+## Integração com Marcadores Clínicos
+
+Os resultados das avaliações podem ser analisados em conjunto com os Marcadores Clínicos do eConsult.
+
+Essa integração amplia a compreensão do acompanhamento ao permitir a observação conjunta de:
+
+* sintomas
+* sofrimento psicológico
+* funcionalidade
+* adesão ao processo
+* engajamento terapêutico
+* risco clínico
+* evolução do acompanhamento
+
+O objetivo não é substituir o julgamento profissional, mas fornecer informações organizadas que apoiem o raciocínio clínico longitudinal.
+
+---
+
+## Aplicação simples e interpretação imediata
+
+O processo de aplicação foi desenvolvido para reduzir tarefas operacionais e facilitar o acompanhamento clínico.
+
+O sistema oferece:
+
+* aplicação digital estruturada
+* cálculo automático das pontuações
+* classificação automática conforme o instrumento
+* interpretação imediata dos resultados
+* armazenamento automático no prontuário
+
+Isso reduz erros operacionais e libera mais tempo para a prática clínica.
+
+---
+
+## Conformidade, ética e segurança
+
+### Regulamentação profissional
+
+* O uso das avaliações deve observar a legislação e as normas profissionais aplicáveis a cada área de atuação.
+* A interpretação dos resultados permanece sob responsabilidade do profissional responsável pelo atendimento.
+
+### Privacidade e proteção de dados
+
+* Criptografia de alta segurança
+* Controle de acesso
+* Conformidade com a LGPD
+
+### Direitos autorais e validade técnica
+
+* Utilização exclusiva de instrumentos de domínio público ou uso livre
+* Referências bibliográficas incorporadas aos instrumentos
+* Transparência quanto à origem e fundamentação técnica das avaliações
+
+### Responsabilidade profissional
+
+O eConsult apoia o processo avaliativo, mas:
+
+* não substitui a avaliação clínica
+* não automatiza diagnósticos
+* não realiza conclusões clínicas independentes
+* não substitui a interpretação profissional
 
 ---
 
 ## Diferenciais do eConsult
 
-- **Aplicação digital estruturada** → elimina papel e reduz erros  
-- **Pontuação automática** → agilidade com precisão  
-- **Relatórios interpretativos imediatos** → apoio clínico rápido  
-- **Integração ao prontuário** → rastreabilidade completa  
-- **Leitura longitudinal** → acompanhamento da evolução  
-- **Portfólio amplo de escalas** → cobertura clínica abrangente  
-
-:::tip
-No eConsult, as avaliações deixam de ser documentos isolados e passam a compor a **inteligência clínica longitudinal do caso**.
-:::
+* Escalas científicas integradas ao fluxo clínico
+* Escalas assistivas para acompanhamento longitudinal
+* Sugestão inteligente de avaliações
+* Aplicação digital estruturada
+* Pontuação automática
+* Interpretação imediata
+* Histórico evolutivo das avaliações
+* Integração ao prontuário eletrônico
+* Integração com Marcadores Clínicos
+* Apoio à Inteligência Clínica Longitudinal
 
 ---
 
-## Comparativo com outros sistemas
+## Comparativo
 
 ### Outros sistemas
 
-- avaliações ausentes ou limitadas  
-- aplicação desconectada do prontuário  
-- pontuação manual ou sem interpretação  
-- pouca utilidade longitudinal  
-- insegurança regulatória  
+* aplicação isolada de escalas
+* armazenamento passivo de resultados
+* pouca integração com o acompanhamento clínico
+* visão limitada da evolução do caso
 
 ### eConsult
 
-- biblioteca extensa de escalas validadas (PHQ-9, GAD-7, SRQ-20, K10, WHO-5, AUDIT, Plutchik e outras)  
-- aplicação 100% digital  
-- pontuação automática  
-- relatório interpretativo imediato  
-- integração total ao prontuário  
-- alinhamento às diretrizes do CFP  
-- suporte ao acompanhamento evolutivo  
-
----
-
-## O que isso representa na prática?
-
-Enquanto muitos profissionais ainda dependem de:
-
-- papel  
-- PDFs soltos  
-- planilhas externas  
-- ferramentas fragmentadas  
-
-o eConsult oferece um ambiente único, estruturado e seguro.
-
-O resultado é:
-
-- mais agilidade  
-- melhor organização clínica  
-- maior consistência no acompanhamento  
-- suporte mais qualificado à tomada de decisão  
-
----
-
-:::warning
-As avaliações no eConsult têm finalidade de **triagem e acompanhamento clínico digital**.
-
-Embora baseadas em instrumentos científicos reconhecidos, sua aplicação automatizada **não substitui instrumentos padronizados para fins diagnósticos formais ou de pesquisa**.
-
-Os resultados devem sempre ser interpretados pelo profissional responsável.
-:::
+* avaliações científicas integradas
+* escalas assistivas de acompanhamento clínico
+* sugestão inteligente de avaliações
+* comparação longitudinal dos resultados
+* integração ao prontuário eletrônico
+* integração com Marcadores Clínicos
+* apoio à leitura evolutiva do caso
+* suporte à Inteligência Clínica Longitudinal

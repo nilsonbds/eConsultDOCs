@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# Guia Prático de Terapia em Grupo com eConsult
+# Exemplo Completo de Prontuário para Grupo Terapêutico
 
-🚀 Aprenda na prática como gerenciar grupos terapêuticos no eConsult.
+🚀 Dos participantes ao prontuário final do grupo.
 
 Este guia foi criado para ajudar você a começar a utilizar o eConsult em atendimentos de grupos terapêuticos de forma prática, organizada e com acompanhamento clínico longitudinal.
 

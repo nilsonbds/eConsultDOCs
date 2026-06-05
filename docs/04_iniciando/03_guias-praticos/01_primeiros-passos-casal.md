@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Guia Prático de Terapia de Casal com eConsult
+# Exemplo Completo de Prontuário para Terapia de Casal
 
-🚀 Aprenda na prática como estruturar atendimentos de casal no eConsult.
+🚀 Do cadastro do casal ao prontuário longitudinal da relação.
 
 Este guia foi criado para ajudar você a começar a utilizar o eConsult em atendimentos de casal de forma prática, organizada e com acompanhamento clínico longitudinal.
 
