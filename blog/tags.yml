@@ -278,3 +278,19 @@ grupo-terapeutico:
   label: Grupo Terapêutico
   permalink: /grupo-terapeutico
   description: Conteúdos sobre grupos terapêuticos, dinâmica grupal, coesão coletiva, acompanhamento longitudinal e prática clínica em grupo.
+
+terapia-infantil:
+  label: Terapia Infantil
+  permalink: /terapia-infantil
+  description: >
+    Conteúdos sobre psicoterapia infantil, desenvolvimento emocional,
+    intervenções clínicas com crianças, orientação parental,
+    documentação clínica e acompanhamento terapêutico na infância.
+
+documentacao-clinica:
+  label: Documentação Clínica
+  permalink: /documentacao-clinica
+  description: >
+    Conteúdos sobre registros clínicos em psicologia, prontuários,
+    evoluções, método SOAP, relatórios, pareceres e boas práticas
+    de documentação profissional.
