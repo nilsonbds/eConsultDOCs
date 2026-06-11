@@ -12,29 +12,29 @@ const featureGroups = [
       'Aprenda como organizar atendimentos individuais, de casal, familiares e grupos terapêuticos no eConsult com continuidade, contexto e integração clínica.',
     items: [
       {
-        link: '/docs/primeiros-passos-terapia-individual',
-        title: '👤 Atendimento Individual',
+        link: '/docs/iniciando/guias-praticos/primeiros-passos-individual',
+        title: 'Atendimento Individual',
         icon: <LuUserRound />,
         description:
           'Entenda como organizar sessões, prontuário, evolução clínica e acompanhamento longitudinal no atendimento individual.',
       },
       {
-        link: '/docs/primeiros-passos-terapia-casal',
-        title: '💞 Atendimento de Casal',
+        link: '/docs/iniciando/guias-praticos/primeiros-passos-casal',
+        title: 'Atendimento de Casal',
         icon: <LuHeartHandshake />,
         description:
           'Aprenda a estruturar atendimentos de casal com registros compartilhados, histórico integrado e visão relacional do acompanhamento.',
       },
       {
-        link: '/docs/primeiros-passos-terapia-familia',
-        title: '👨‍👩‍👧 Atendimento Familiar',
+        link: '/docs/iniciando/guias-praticos/primeiros-passos-familia',
+        title: 'Atendimento Familiar',
         icon: <LuUsersRound />,
         description:
           'Organize atendimentos familiares com contexto coletivo, histórico integrado e acompanhamento longitudinal dos participantes.',
       },
       {
-        link: '/docs/primeiros-passos-terapia-grupo',
-        title: '👥 Grupos Terapêuticos',
+        link: '/docs/iniciando/guias-praticos/primeiros-passos-grupo',
+        title: 'Grupos Terapêuticos',
         icon: <LuMessagesSquare />,
         description:
           'Estruture grupos terapêuticos com prontuário coletivo, acompanhamento dos participantes e continuidade clínica integrada.',
@@ -55,7 +55,7 @@ const featureGroups = [
           'A IA apoia na construção de anotações clínicas, sugestões de hipóteses e organização do raciocínio clínico — sempre com validação do profissional.',
       },
       {
-        link: '/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao',
+        link: '/docs/diferenciais/score-inteligente',
         title: 'Visualização da evolução clínica do paciente',
         icon: <TbDashboard />,
         description:
