@@ -40,7 +40,7 @@ Neste artigo você encontrará:
 
 ## Download Gratuito do WHOQOL-BREF em PDF
 
-👉 **[Baixar WHOQOL-BREF em PDF](URL_DO_PDF)**
+👉 **[Baixar WHOQOL-BREF em PDF](#)**
 
 ---
 
@@ -284,7 +284,7 @@ Para avaliar ganhos percebidos pelo paciente.
 
 ## Download do WHOQOL-BREF em PDF
 
-👉 **[Baixar WHOQOL-BREF em PDF](URL_DO_PDF)**
+👉 **[Baixar WHOQOL-BREF em PDF](#)**
 
 ---
 

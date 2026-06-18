@@ -38,7 +38,7 @@ Neste artigo você encontrará:
 
 Precisa aplicar o AUDIT em sua prática clínica?
 
-👉 **[Baixar AUDIT em PDF](URL_DO_PDF)**
+👉 **[Baixar AUDIT em PDF](#)**
 
 ---
 
@@ -221,7 +221,7 @@ Para identificação precoce de fatores de risco.
 
 ## Download do AUDIT em PDF
 
-👉 **[Baixar AUDIT em PDF](URL_DO_PDF)**
+👉 **[Baixar AUDIT em PDF](#)**
 
 ---
 

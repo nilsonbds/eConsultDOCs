@@ -35,7 +35,7 @@ Neste artigo você encontrará:
 
 ## Download Gratuito da SWLS em PDF
 
-👉 **[Baixar SWLS em PDF](URL_DO_PDF)**
+👉 **[Baixar SWLS em PDF](#)**
 
 ---
 
@@ -224,7 +224,7 @@ Para acompanhar mudanças na percepção da qualidade de vida.
 
 ## Download da SWLS em PDF
 
-👉 **[Baixar SWLS em PDF](URL_DO_PDF)**
+👉 **[Baixar SWLS em PDF](#)**
 
 ---
 

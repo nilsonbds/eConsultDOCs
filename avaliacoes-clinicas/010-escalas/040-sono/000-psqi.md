@@ -38,7 +38,7 @@ Neste artigo você encontrará:
 
 Precisa aplicar o PSQI em sua prática clínica?
 
-👉 **[Baixar PSQI em PDF](URL_DO_PDF)**
+👉 **[Baixar PSQI em PDF](#)**
 
 ---
 
@@ -252,7 +252,7 @@ Para avaliar resultados de mudanças comportamentais.
 
 ## Download do PSQI em PDF
 
-👉 **[Baixar PSQI em PDF](URL_DO_PDF)**
+👉 **[Baixar PSQI em PDF](#)**
 
 ---
 

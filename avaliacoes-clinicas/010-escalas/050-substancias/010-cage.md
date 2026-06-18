@@ -39,7 +39,7 @@ Neste artigo você encontrará:
 
 Precisa aplicar o CAGE em sua prática clínica?
 
-👉 **[Baixar CAGE em PDF](URL_DO_PDF)**
+👉 **[Baixar CAGE em PDF](#)**
 
 ---
 
@@ -220,7 +220,7 @@ Para acompanhamento de mudanças ao longo do tratamento.
 
 ## Download do CAGE em PDF
 
-👉 **[Baixar CAGE em PDF](URL_DO_PDF)**
+👉 **[Baixar CAGE em PDF](#)**
 
 ---
 

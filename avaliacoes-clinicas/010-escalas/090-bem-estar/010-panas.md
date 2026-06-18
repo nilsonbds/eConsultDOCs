@@ -35,7 +35,7 @@ Neste artigo você encontrará:
 
 ## Download Gratuito da PANAS em PDF
 
-👉 **[Baixar PANAS em PDF](URL_DO_PDF)**
+👉 **[Baixar PANAS em PDF](#)**
 
 ---
 
@@ -277,7 +277,7 @@ Para mensuração de afetos positivos e negativos.
 
 ## Download da PANAS em PDF
 
-👉 **[Baixar PANAS em PDF](URL_DO_PDF)**
+👉 **[Baixar PANAS em PDF](#)**
 
 ---
 
