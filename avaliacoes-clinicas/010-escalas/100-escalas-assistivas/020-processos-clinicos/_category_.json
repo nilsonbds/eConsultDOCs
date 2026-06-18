@@ -1,0 +1,9 @@
+{
+  "label": "Processos Clínicos",
+  "position": 20,
+  "link": {
+    "slug": "/escalas/processos-clinicos",
+    "type": "generated-index",
+    "description": "Escalas assistivas para avaliação de processos psicológicos e clínicos relevantes, incluindo insight, regulação emocional, flexibilidade cognitiva, autonomia funcional e outros aspectos relacionados ao funcionamento psicológico."
+  }
+}

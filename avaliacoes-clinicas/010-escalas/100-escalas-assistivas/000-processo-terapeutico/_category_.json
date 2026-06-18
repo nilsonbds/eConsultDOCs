@@ -1,0 +1,9 @@
+{
+  "label": "Processo Terapêutico",
+  "position": 0,
+  "link": {
+    "slug": "/escalas/processo-terapeutico",
+    "type": "generated-index",
+    "description": "Escalas assistivas voltadas ao acompanhamento do processo terapêutico, permitindo monitorar engajamento, aderência, responsividade ao tratamento, estágio terapêutico e evolução longitudinal da pessoa atendida."
+  }
+}

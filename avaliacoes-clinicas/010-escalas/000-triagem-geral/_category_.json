@@ -1,0 +1,9 @@
+{
+  "label": "Triagem Geral",
+  "position": 0,
+  "link": {
+    "slug": "/escalas/triagem-geral",
+    "type": "generated-index",
+    "description": "Instrumentos utilizados para rastreamento inicial de sintomas emocionais, sofrimento psicológico, ansiedade, depressão e saúde mental geral. Inclui escalas como PHQ-9, GAD-7, SRQ-20, K10 e DASS-21."
+  }
+}

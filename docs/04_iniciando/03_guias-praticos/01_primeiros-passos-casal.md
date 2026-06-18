@@ -123,7 +123,7 @@ Você não precisa preencher todas as informações neste momento.
 Basta cadastrar os dados principais para começar a utilizar o sistema rapidamente.
 :::
 
-👉 [veja mais detalhes sobre cadastro de pacientes](#)
+👉 [veja mais detalhes sobre cadastro de pacientes](/docs/cadastro-clientes-grupos)
 
 ---
 

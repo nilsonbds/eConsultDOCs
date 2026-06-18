@@ -1,0 +1,9 @@
+{
+  "label": "Ansiedade e Pânico",
+  "position": 10,
+  "link": {
+    "slug": "/escalas/ansiedade-panico",
+    "type": "generated-index",
+    "description": "Escalas para avaliação de preocupação excessiva, ansiedade persistente e sintomas relacionados ao transtorno de ansiedade. Auxiliam na identificação e monitoramento da intensidade dos sintomas ao longo do acompanhamento clínico."
+  }
+}

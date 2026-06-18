@@ -1,0 +1,9 @@
+{
+  "label": "Infantil",
+  "position": 70,
+  "link": {
+    "slug": "/escalas/infantil",
+    "type": "generated-index",
+    "description": "Escalas voltadas para avaliação emocional, comportamental e do desenvolvimento de crianças e adolescentes. Auxiliam na identificação precoce de dificuldades e necessidades de acompanhamento."
+  }
+}

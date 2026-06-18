@@ -1,0 +1,9 @@
+{
+  "label": "Qualidade de Vida",
+  "position": 80,
+  "link": {
+    "slug": "/escalas/qualidade-de-vida",
+    "type": "generated-index",
+    "description": "Instrumentos para avaliação de qualidade de vida, satisfação com a vida, autoestima e autoeficácia. Permitem compreender aspectos subjetivos relacionados ao bem-estar e funcionamento psicológico."
+  }
+}

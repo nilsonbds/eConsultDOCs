@@ -1,0 +1,9 @@
+{
+  "label": "Bem-estar",
+  "position": 90,
+  "link": {
+    "slug": "/escalas/bem-estar",
+    "type": "generated-index",
+    "description": "Escalas para avaliação de mindfulness, afetos positivos e negativos, burnout e outros indicadores relacionados ao bem-estar psicológico e à saúde emocional."
+  }
+}

@@ -98,6 +98,7 @@ const config = {
                     url.includes('/docs/principais-diferenciais') ||
                     url.includes('/docs/diferenciais/') ||
                     url.includes('/pratica-clinica/') ||
+                    url.includes('/avaliacoes-clinicas/') ||
                     url.includes('/gestao-consultorio/')
                   )
                 );
@@ -125,6 +126,10 @@ const config = {
                   return { ...item, priority: 0.75 };
                 }
 
+                if (url.includes('/avaliacoes-clinicas/')) {
+                  return { ...item, priority: 0.75 };
+                }
+
                 return item;
               });
           },
@@ -146,8 +151,18 @@ const config = {
         path: 'pratica-clinica',
         routeBasePath: 'pratica-clinica',
         sidebarPath: require.resolve('./sidebarsPraticaClinica.js'),
-      },
-    ],[
+      }
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'avaliacoes-clinicas',
+        path: 'avaliacoes-clinicas',
+        routeBasePath: 'avaliacoes-clinicas',
+        sidebarPath: require.resolve('./sidebarsAvaliacoesClinicas.js'),
+      }
+    ],
+    [
       '@docusaurus/plugin-content-docs',
       {
         id: 'gestao-consultorio',
@@ -187,6 +202,13 @@ const config = {
           docsPluginId: 'pratica-clinica',
           position: 'left',
           label: 'Prática Clínica',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'avaliacoesClinicasSidebar',
+          docsPluginId: 'avaliacoes-clinicas',
+          position: 'left',
+          label: 'Avaliações Clínicas',
         },
         {
           type: 'docSidebar',

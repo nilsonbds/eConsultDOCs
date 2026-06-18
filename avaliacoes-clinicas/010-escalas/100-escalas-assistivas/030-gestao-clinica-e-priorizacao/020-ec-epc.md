@@ -1,0 +1,320 @@
+---
+sidebar_position: 20
+title: EC-EPC - Escala de Prioridade Clínica (eConsult)
+description: "Instrumento assistivo do eConsult para avaliação longitudinal da prioridade clínica e necessidade de intervenção."
+keywords:
+  - prioridade clínica
+  - triagem clínica
+  - gestão clínica
+  - risco clínico
+  - urgência terapêutica
+  - priorização de casos
+  - eConsult
+  - EC-EPC
+---
+
+# EC-EPC: Escala de Prioridade Clínica (eConsult)
+
+A **EC-EPC (Escala de Prioridade Clínica)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da prioridade clínica da pessoa atendida e auxiliar na definição de necessidades de intervenção, monitoramento e acompanhamento.
+
+Diferentemente das escalas psicológicas tradicionais, a EC-EPC não possui finalidade diagnóstica. Seu objetivo é fornecer ao profissional uma leitura estruturada dos fatores que contribuem para aumentar ou reduzir a urgência clínica de um caso.
+
+A escala integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
+
+Neste artigo você encontrará:
+
+✅ O que é a EC-EPC
+
+✅ Como funciona a escala
+
+✅ Como interpretar os fatores
+
+✅ Como utilizar os resultados na gestão clínica
+
+✅ Exemplo de análise longitudinal
+
+---
+
+## O que é a EC-EPC?
+
+A EC-EPC foi criada para auxiliar profissionais na identificação de casos que demandam maior atenção clínica, acompanhamento intensificado ou intervenções em curto prazo.
+
+Nem todos os casos apresentam o mesmo nível de urgência. Algumas situações exigem monitoramento próximo devido à presença de risco, agravamento recente, prejuízos funcionais significativos ou insuficiência de recursos internos e externos de enfrentamento.
+
+A escala permite registrar de forma estruturada aspectos como:
+
+* Risco imediato;
+* Urgência de intervenção;
+* Impacto funcional atual;
+* Capacidade de manejo da situação;
+* Recursos internos disponíveis;
+* Rede de suporte existente.
+
+---
+
+## O que a EC-EPC avalia?
+
+A escala é organizada em quatro fatores.
+
+### Risco Imediato
+
+Avalia a presença de fatores que podem exigir atenção clínica prioritária ou imediata.
+
+Exemplos:
+
+* Autoagressão;
+* Heteroagressão;
+* Desorganização grave;
+* Agravamento clínico recente;
+* Instabilidade importante.
+
+---
+
+### Urgência de Intervenção
+
+Avalia a necessidade de ações clínicas em curto prazo.
+
+Exemplos:
+
+* Necessidade de aumento da frequência de sessões;
+* Intensificação do acompanhamento;
+* Intervenções preventivas;
+* Necessidade de monitoramento ampliado.
+
+---
+
+### Impacto Funcional Atual
+
+Avalia o grau de comprometimento observado nas atividades e responsabilidades da vida cotidiana.
+
+Exemplos:
+
+* Funcionamento ocupacional;
+* Funcionamento acadêmico;
+* Relacionamentos interpessoais;
+* Autocuidado;
+* Organização da rotina.
+
+---
+
+### Capacidade de Manejo
+
+Avalia os recursos disponíveis para enfrentar a situação atual.
+
+Exemplos:
+
+* Recursos emocionais;
+* Estratégias de enfrentamento;
+* Rede de apoio familiar;
+* Rede de apoio social;
+* Capacidade de adaptação.
+
+---
+
+## Como funciona a pontuação?
+
+Cada item recebe pontuação de 0 a 4 pontos.
+
+| Resposta | Pontuação |
+|-----------|-----------|
+| Menor prioridade observada | 0 |
+| Prioridade leve | 1 |
+| Prioridade moderada | 2 |
+| Prioridade elevada | 3 |
+| Prioridade crítica | 4 |
+
+O resultado é calculado pela **média de cada fator**, permitindo identificar quais áreas contribuem de forma mais significativa para a definição da prioridade clínica do caso.
+
+---
+
+## Interpretação: Risco Imediato
+
+| Média | Interpretação |
+|---------|---------|
+| 0,00 – 1,49 | Baixa prioridade clínica |
+| 1,50 – 2,49 | Prioridade leve |
+| 2,50 – 3,24 | Alta prioridade |
+| 3,25 – 4,00 | Prioridade crítica |
+
+---
+
+## Interpretação: Urgência de Intervenção
+
+| Média | Interpretação |
+|---------|---------|
+| 0,00 – 1,49 | Baixa prioridade clínica |
+| 1,50 – 2,49 | Prioridade leve |
+| 2,50 – 3,24 | Alta prioridade |
+| 3,25 – 4,00 | Prioridade crítica |
+
+---
+
+## Interpretação: Impacto Funcional Atual
+
+| Média | Interpretação |
+|---------|---------|
+| 0,00 – 1,49 | Baixa prioridade clínica |
+| 1,50 – 2,49 | Prioridade leve |
+| 2,50 – 3,24 | Alta prioridade |
+| 3,25 – 4,00 | Prioridade crítica |
+
+---
+
+## Interpretação: Capacidade de Manejo
+
+| Média | Interpretação |
+|---------|---------|
+| 0,00 – 1,49 | Baixa prioridade clínica |
+| 1,50 – 2,49 | Prioridade leve |
+| 2,50 – 3,24 | Alta prioridade |
+| 3,25 – 4,00 | Prioridade crítica |
+
+---
+
+## O verdadeiro valor da EC-EPC está na análise longitudinal
+
+A prioridade clínica de um caso pode variar significativamente ao longo do acompanhamento.
+
+Mudanças no estado emocional, surgimento de fatores de risco, agravamento de sintomas ou fortalecimento de recursos pessoais podem alterar rapidamente a necessidade de intervenção.
+
+Por isso, avaliações periódicas permitem monitorar tendências e identificar precocemente situações que demandam maior atenção clínica.
+
+<!--
+![Evolução longitudinal da prioridade clínica](#)
+
+*Exemplo ilustrativo da evolução dos fatores de prioridade clínica ao longo do acompanhamento.*
+-->
+
+---
+
+## O que observar na evolução?
+
+### Aumento do risco imediato
+
+Pode indicar necessidade de revisão do plano terapêutico, monitoramento ampliado ou encaminhamentos complementares.
+
+### Aumento da urgência de intervenção
+
+Sugere necessidade de intensificação do acompanhamento ou reavaliação clínica.
+
+### Maior impacto funcional
+
+Pode refletir agravamento do quadro e comprometimento crescente da vida cotidiana.
+
+### Redução da capacidade de manejo
+
+Indica enfraquecimento dos recursos internos ou da rede de suporte disponível.
+
+---
+
+## EC-EPC não é uma escala diagnóstica
+
+A EC-EPC não possui finalidade diagnóstica.
+
+Seu objetivo é apoiar a observação clínica estruturada da prioridade clínica e auxiliar na identificação de situações que demandam maior atenção, monitoramento ou intervenção.
+
+Os resultados devem sempre ser interpretados em conjunto com a avaliação clínica profissional.
+
+---
+
+## Quando utilizar a EC-EPC?
+
+A escala pode ser aplicada:
+
+* No início do acompanhamento;
+* Em processos de triagem clínica;
+* Em momentos de agravamento do quadro;
+* Em reavaliações periódicas;
+* Durante supervisões clínicas;
+* Em processos de priorização de atendimentos.
+
+---
+
+## Benefícios da EC-EPC
+
+* Aplicação rápida;
+* Estruturação da observação clínica;
+* Apoio à priorização de casos;
+* Identificação precoce de riscos;
+* Monitoramento longitudinal;
+* Apoio à tomada de decisão clínica.
+
+---
+
+## Limitações da EC-EPC
+
+* Não realiza diagnóstico;
+* Não substitui avaliação clínica;
+* Depende da observação profissional;
+* Deve ser interpretada em conjunto com o contexto do caso.
+
+---
+
+## Como o eConsult utiliza a EC-EPC
+
+No eConsult, a EC-EPC integra o conjunto de ferramentas de Inteligência Clínica voltadas para:
+
+* Priorização clínica;
+* Monitoramento longitudinal;
+* Identificação de riscos;
+* Organização da informação clínica;
+* Apoio à tomada de decisão baseada em dados;
+* Leitura evolutiva do caso.
+
+A proposta não é substituir o raciocínio clínico, mas fornecer informações estruturadas para apoiar decisões relacionadas à urgência e prioridade dos casos acompanhados.
+
+👉 **Conheça o Sistema Clínico Longitudinal para Psicólogos:** https://econsult.app.br/sistema-clinico-longitudinal-psicologo
+
+---
+
+## Perguntas Frequentes
+
+### A EC-EPC faz diagnóstico?
+
+Não.
+
+A escala não possui finalidade diagnóstica.
+
+### Quem responde a escala?
+
+O preenchimento é realizado pelo profissional com base na observação clínica, histórico recente e informações disponíveis sobre a pessoa atendida.
+
+### A escala pode ser utilizada em qualquer abordagem?
+
+Sim.
+
+A EC-EPC foi desenvolvida para apoiar a priorização clínica independentemente da abordagem teórica adotada.
+
+### Com que frequência devo aplicar?
+
+A periodicidade pode variar conforme a evolução do caso.
+
+Aplicações periódicas permitem acompanhar mudanças na prioridade clínica e auxiliar na definição de condutas.
+
+---
+
+## Artigos Relacionados
+
+👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
+
+👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+
+👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
+
+👉 [Observação clínica vs observação estruturada](../../../050-comparativos/040-observacao-clinica-vs-observacao-estruturada.md)
+
+👉 [Dados isolados vs leitura evolutiva do caso](../../../050-comparativos/050-dados-isolados-vs-leitura-evolutiva-do-caso.md)
+
+👉 [Sugestão inteligente de avaliações](../../../030-inteligencia-clinica/040-sugestao-inteligente-de-avaliacoes.md)
+
+👉 [Leitura evolutiva do caso](../../../030-inteligencia-clinica/030-leitura-evolutiva-do-caso.md)
+
+---
+
+## Referências
+
+ECONSULT. Escala de Prioridade Clínica (EC-EPC). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
+
+ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
+
+Observação: A EC-EPC é um instrumento assistivo de apoio à prática clínica. Não possui finalidade diagnóstica e não substitui instrumentos psicológicos validados ou a avaliação profissional.

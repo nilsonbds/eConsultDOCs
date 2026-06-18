@@ -1,0 +1,9 @@
+{
+  "label": "Guias Práticos",
+  "position": 40,
+  "link": {
+    "slug": "/guias",
+    "type": "generated-index",
+    "description": "Guias sobre avaliações psicológicas, monitoramento clínico, prontuário eletrônico e acompanhamento longitudinal. Aprenda quando aplicar avaliações, como escolher escalas, interpretar resultados e utilizar informações clínicas para apoiar decisões terapêuticas e compreender a evolução dos pacientes ao longo do tempo."
+  }
+}

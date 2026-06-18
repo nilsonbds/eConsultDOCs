@@ -1,0 +1,9 @@
+{
+  "label": "Monitoramento e Risco Clínico",
+  "position": 10,
+  "link": {
+    "slug": "/escalas/monitoramento-e-risco-clinico",
+    "type": "generated-index",
+    "description": "Escalas assistivas destinadas ao monitoramento contínuo de indicadores clínicos, fatores de risco, vulnerabilidades e necessidades de atenção ampliada ao longo do acompanhamento."
+  }
+}

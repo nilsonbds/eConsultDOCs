@@ -20,6 +20,13 @@
 /* Navbar moderna com sombra leve */
 .navbar {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+  height: auto;
+  padding: 10px 20px;
+}
+
+.navbar__items {
+  row-gap: 5px;
+  flex-wrap: wrap;
 }
 
 .econ-hero {

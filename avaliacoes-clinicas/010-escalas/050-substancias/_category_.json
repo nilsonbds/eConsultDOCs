@@ -1,0 +1,9 @@
+{
+  "label": "Substâncias",
+  "position": 50,
+  "link": {
+    "slug": "/escalas/substancias",
+    "type": "generated-index",
+    "description": "Escalas utilizadas para rastreamento de uso de álcool, drogas e outras substâncias psicoativas. Auxiliam na identificação de padrões de consumo, uso nocivo e possíveis sinais de dependência."
+  }
+}

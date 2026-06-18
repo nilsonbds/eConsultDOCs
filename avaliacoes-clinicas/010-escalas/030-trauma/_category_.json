@@ -1,0 +1,9 @@
+{
+  "label": "Trauma",
+  "position": 30,
+  "link": {
+    "slug": "/escalas/trauma",
+    "type": "generated-index",
+    "description": "Escalas para avaliação de experiências traumáticas, estresse pós-traumático e adversidades na infância. Auxiliam na compreensão do impacto de eventos traumáticos na saúde mental."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "Gestão Clínica e Priorização",
+  "position": 30,
+  "link": {
+    "slug": "/escalas/gestao-clinica-e-priorizacao",
+    "type": "generated-index",
+    "description": "Escalas assistivas voltadas à estratificação de complexidade, definição de prioridade clínica, apoio à tomada de decisão e organização do acompanhamento com base em critérios estruturados de Inteligência Clínica Longitudinal."
+  }
+}
