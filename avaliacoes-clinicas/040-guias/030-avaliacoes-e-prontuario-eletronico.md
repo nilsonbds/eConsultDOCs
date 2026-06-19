@@ -121,25 +121,7 @@ Histórico Longitudinal
 
 Essa integração permite compreender não apenas o resultado obtido, mas também o contexto em que ele ocorreu.
 
----
-
-<div style={{
-  overflowX: "auto",
-  whiteSpace: "nowrap",
-  paddingBottom: "8px"
-}}>
-  <img 
-    src="/img/avaliacoes-clinicas/avaliacoes-e-prontuario-eletronico.png" 
-    alt="Infográfico demonstrando como avaliações psicológicas, marcadores clínicos, evoluções clínicas e anamnese podem ser integrados ao prontuário eletrônico para apoiar uma compreensão longitudinal do caso." 
-    style={{
-      display: "inline-block",
-      maxWidth: "none",
-      height: "600px",
-      borderRadius: "8px",
-      marginBottom: "10px"
-    }} 
-  />
-</div>
+![Infográfico demonstrando como avaliações psicológicas, marcadores clínicos, evoluções clínicas e anamnese podem ser integrados ao prontuário eletrônico para apoiar uma compreensão longitudinal do caso.](/img/avaliacoes-clinicas/avaliacoes-e-prontuario-eletronico.png)
 
 <small>Quando avaliações, registros clínicos, marcadores e histórico longitudinal são analisados em conjunto, torna-se possível construir uma visão mais ampla da trajetória clínica da pessoa atendida.</small>
 
@@ -287,15 +269,7 @@ Mais do que documentos isolados, as avaliações passam a fazer parte da histór
 
 O Sistema Clínico Longitudinal do eConsult foi desenvolvido para integrar avaliações, prontuário eletrônico, marcadores clínicos e histórico de acompanhamento em uma única visão.
 
-<div style={{ textAlign: 'center', padding: '10px 5px' }}>
-    <a
-    className="button button--primary button--lg"
-    target="_blank"
-    href="https://econsult.app.br/sistema-clinico-longitudinal-psicologo"
-    >
-        <span style={{margin: '0px'}}>Conhecer o Sistema Clínico Longitudinal</span>
-    </a>
-</div>
+👉 [Conhecer o Sistema Clínico Longitudinal](https://econsult.app.br/sistema-clinico-longitudinal-psicologo)
 
 ---
 

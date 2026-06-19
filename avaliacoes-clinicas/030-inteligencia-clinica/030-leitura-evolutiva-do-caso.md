@@ -37,7 +37,23 @@ Mais do que analisar eventos isolados, a proposta é compreender a trajetória c
 
 A figura abaixo ilustra como diferentes fontes de informação podem ser integradas para apoiar uma leitura evolutiva mais ampla do caso clínico.
 
-![Infográfico demonstrando a Leitura Evolutiva do Caso no eConsult, integrando anamnese, avaliações psicológicas, marcadores clínicos e registros SOAP para identificar tendências, padrões, fatores de risco e engajamento terapêutico, apoiando a compreensão longitudinal da evolução clínica e a geração de hipóteses assistidas por Inteligência Artificial.](../../static/img/avaliacoes-clinicas/trajetoria-clinica.png)
+<div style={{
+  overflowX: "auto",
+  whiteSpace: "nowrap",
+  paddingBottom: "8px"
+}}>
+  <img 
+    src="/img/avaliacoes-clinicas/trajetoria-clinica.png" 
+    alt="Infográfico demonstrando a Leitura Evolutiva do Caso no eConsult, integrando anamnese, avaliações psicológicas, marcadores clínicos e registros SOAP para identificar tendências, padrões, fatores de risco e engajamento terapêutico, apoiando a compreensão longitudinal da evolução clínica e a geração de hipóteses assistidas por Inteligência Artificial." 
+    style={{
+      display: "inline-block",
+      maxWidth: "none",
+      height: "650px",
+      borderRadius: "8px",
+      marginBottom: "10px"
+    }} 
+  />
+</div>
 
 <small>A Leitura Evolutiva do Caso integra diferentes fontes de informação clínicas — incluindo anamnese, avaliações psicológicas, marcadores clínicos e registros SOAP — para apoiar a compreensão da trajetória da pessoa atendida ao longo do tempo. Essa visão longitudinal favorece a identificação de tendências, padrões de evolução, fatores de risco e elementos relevantes para o raciocínio clínico.</small>
 
@@ -95,7 +111,23 @@ Avaliações, registros clínicos, observações profissionais e marcadores estr
 
 O infográfico abaixo ilustra como uma abordagem baseada em registros estruturados e marcadores clínicos pode ampliar a capacidade de análise longitudinal quando comparada a um fluxo tradicional de documentação clínica.
 
-![Comparação simplificada entre uma organização tradicional do acompanhamento clínico e uma abordagem baseada em registros estruturados, marcadores clínicos e análise longitudinal integrada](../../static/img/avaliacoes-clinicas/infografico-fluxo-integrado-com-visao-longitudinal-comparando-com-tradicional.png)
+<div style={{
+  overflowX: "auto",
+  whiteSpace: "nowrap",
+  paddingBottom: "8px"
+}}>
+  <img 
+    src="/img/avaliacoes-clinicas/infografico-fluxo-integrado-com-visao-longitudinal-comparando-com-tradicional.png" 
+    alt="Comparação simplificada entre uma organização tradicional do acompanhamento clínico e uma abordagem baseada em registros estruturados, marcadores clínicos e análise longitudinal integrada" 
+    style={{
+      display: "inline-block",
+      maxWidth: "none",
+      height: "600px",
+      borderRadius: "8px",
+      marginBottom: "10px"
+    }} 
+  />
+</div>
 
 <small>Comparação simplificada entre uma organização tradicional do acompanhamento clínico e uma abordagem baseada em registros estruturados, marcadores clínicos e análise longitudinal integrada.</small>
 

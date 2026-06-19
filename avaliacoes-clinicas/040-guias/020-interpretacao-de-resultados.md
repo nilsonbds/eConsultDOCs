@@ -75,23 +75,7 @@ Sem contexto, o significado clínico permanece limitado.
 
 ---
 
-<div style={{
-  overflowX: "auto",
-  whiteSpace: "nowrap",
-  paddingBottom: "8px"
-}}>
-  <img 
-    src="/img/avaliacoes-clinicas/interpretacao-avaliacao.png" 
-    alt="Infográfico demonstrando como a interpretação clínica evolui à medida que novas fontes de informação são integradas, passando de resultados isolados para uma leitura evolutiva do caso." 
-    style={{
-      display: "inline-block",
-      maxWidth: "none",
-      height: "600px",
-      borderRadius: "8px",
-      marginBottom: "10px"
-    }} 
-  />
-</div>
+![Infográfico demonstrando como a interpretação clínica evolui à medida que novas fontes de informação são integradas, passando de resultados isolados para uma leitura evolutiva do caso.](/img/avaliacoes-clinicas/interpretacao-avaliacao.png)
 
 <small>A interpretação de uma avaliação torna-se mais rica à medida que resultados, histórico, marcadores clínicos e registros clínicos são analisados de forma integrada.</small>
 
@@ -307,15 +291,7 @@ Mais do que compreender um momento específico, a interpretação busca apoiar a
 
 O Sistema Clínico Longitudinal do eConsult foi desenvolvido para integrar avaliações, prontuário eletrônico, marcadores clínicos e histórico de acompanhamento em uma única visão.
 
-<div style={{ textAlign: 'center', padding: '10px 5px' }}>
-    <a
-    className="button button--primary button--lg"
-    target="_blank"
-    href="https://econsult.app.br/sistema-clinico-longitudinal-psicologo"
-    >
-        <span style={{margin: '0px'}}>Conhecer o Sistema Clínico Longitudinal</span>
-    </a>
-</div>
+👉 [Conhecer o Sistema Clínico Longitudinal](https://econsult.app.br/sistema-clinico-longitudinal-psicologo)
 
 ---
 

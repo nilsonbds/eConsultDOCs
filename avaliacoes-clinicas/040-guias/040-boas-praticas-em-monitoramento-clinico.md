@@ -16,25 +16,7 @@ O monitoramento clínico busca acompanhar essa trajetória de forma estruturada,
 
 Mais do que registrar informações, trata-se de construir uma visão longitudinal do caso.
 
----
-
-<div style={{
-  overflowX: "auto",
-  whiteSpace: "nowrap",
-  paddingBottom: "8px"
-}}>
-  <img 
-    src="/img/avaliacoes-clinicas/monitoramento-clinico.png" 
-    alt="Infográfico demonstrando as principais etapas do monitoramento clínico, desde a definição da linha de base até a construção de uma compreensão clínica longitudinal do caso." 
-    style={{
-      display: "inline-block",
-      maxWidth: "none",
-      height: "600px",
-      borderRadius: "8px",
-      marginBottom: "10px"
-    }} 
-  />
-</div>
+![Infográfico demonstrando as principais etapas do monitoramento clínico, desde a definição da linha de base até a construção de uma compreensão clínica longitudinal do caso.](/img/avaliacoes-clinicas/monitoramento-clinico.png)
 
 <small>O monitoramento clínico envolve a integração de avaliações, registros clínicos, marcadores, eventos relevantes e histórico longitudinal para apoiar a compreensão da evolução do caso.</small>
 
@@ -301,15 +283,7 @@ Mais do que acompanhar números, o monitoramento clínico busca compreender proc
 
 O Sistema Clínico Longitudinal do eConsult foi desenvolvido para integrar avaliações, prontuário eletrônico, marcadores clínicos e histórico de acompanhamento em uma única visão.
 
-<div style={{ textAlign: 'center', padding: '10px 5px' }}>
-    <a
-    className="button button--primary button--lg"
-    target="_blank"
-    href="https://econsult.app.br/sistema-clinico-longitudinal-psicologo"
-    >
-        <span style={{margin: '0px'}}>Conhecer o Sistema Clínico Longitudinal</span>
-    </a>
-</div>
+👉 [Conhecer o Sistema Clínico Longitudinal](https://econsult.app.br/sistema-clinico-longitudinal-psicologo)
 
 ---
 

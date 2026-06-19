@@ -49,7 +49,7 @@ Na terapia familiar, o foco não está apenas nos sintomas de um indivíduo, mas
     style={{
       display: "inline-block",
       maxWidth: "none",
-      height: "600px",
+      height: "650px",
       borderRadius: "8px",
       marginBottom: "10px"
     }} 

@@ -50,7 +50,7 @@ Na prática clínica, o processo geralmente envolve a combinação entre observa
     style={{
       display: "inline-block",
       maxWidth: "none",
-      height: "600px",
+      height: "650px",
       borderRadius: "8px",
       marginBottom: "10px"
     }} 

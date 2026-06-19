@@ -250,15 +250,7 @@ Mais do que responder perguntas sobre o presente, elas podem ajudar a compreende
 
 O Sistema Clínico Longitudinal do eConsult foi desenvolvido para integrar avaliações, prontuário eletrônico, marcadores clínicos e histórico de acompanhamento em uma única visão.
 
-<div style={{ textAlign: 'center', padding: '10px 5px' }}>
-    <a
-    className="button button--primary button--lg"
-    target="_blank"
-    href="https://econsult.app.br/sistema-clinico-longitudinal-psicologo"
-    >
-        <span style={{margin: '0px'}}>Conhecer o Sistema Clínico Longitudinal</span>
-    </a>
-</div>
+👉 [Conhecer o Sistema Clínico Longitudinal](https://econsult.app.br/sistema-clinico-longitudinal-psicologo)
 
 ---
 

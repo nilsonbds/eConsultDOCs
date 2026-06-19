@@ -63,7 +63,7 @@ O infográfico abaixo apresenta um exemplo simplificado de como diferentes objet
     style={{
       display: "inline-block",
       maxWidth: "none",
-      height: "600px",
+      height: "650px",
       borderRadius: "8px",
       marginBottom: "10px"
     }} 
@@ -329,15 +329,7 @@ A avaliação deixa de ser apenas um formulário aplicado ocasionalmente e passa
 
 O Sistema Clínico Longitudinal do eConsult foi desenvolvido para integrar avaliações, prontuário eletrônico, marcadores clínicos e histórico de acompanhamento em uma única visão.
 
-<div style={{ textAlign: 'center', padding: '10px 5px' }}>
-    <a
-    className="button button--primary button--lg"
-    target="_blank"
-    href="https://econsult.app.br/sistema-clinico-longitudinal-psicologo"
-    >
-        <span style={{margin: '0px'}}>Conhecer o Sistema Clínico Longitudinal</span>
-    </a>
-</div>
+👉 [Conhecer o Sistema Clínico Longitudinal](https://econsult.app.br/sistema-clinico-longitudinal-psicologo)
 
 ---
 

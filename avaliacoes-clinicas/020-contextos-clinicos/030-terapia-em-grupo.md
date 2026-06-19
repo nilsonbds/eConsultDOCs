@@ -50,7 +50,7 @@ Em grupos terapêuticos, as avaliações ajudam o profissional a compreender nã
     style={{
       display: "inline-block",
       maxWidth: "none",
-      height: "600px",
+      height: "650px",
       borderRadius: "8px",
       marginBottom: "10px"
     }} 
