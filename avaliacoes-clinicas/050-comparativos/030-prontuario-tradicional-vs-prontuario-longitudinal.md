@@ -1,9 +1,8 @@
 ---
-
 sidebar_position: 30
 title: Prontuário Tradicional vs Prontuário Longitudinal
-description: Entenda as diferenças entre um prontuário tradicional e um prontuário longitudinal, e descubra como a organização das informações ao longo do tempo pode ampliar a compreensão da evolução clínica.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+description: "Entenda as diferenças entre um prontuário tradicional e um prontuário longitudinal, e descubra como a organização das informações ao longo do tempo pode ampliar a compreensão da evolução clínica."
+---
 
 # Prontuário Tradicional vs Prontuário Longitudinal
 
@@ -334,12 +333,12 @@ Quando registros, avaliações, marcadores clínicos e histórico são analisado
 
 ---
 
-## Continue explorando
+## Saiba Mais
 
-👉 [Acompanhamento Longitudinal](../030-inteligencia-clinica/000-acompanhamento-longitudinal.md)
+### Próximos conteúdos
 
-👉 [Leitura Evolutiva do Caso](../030-inteligencia-clinica/030-leitura-evolutiva-do-caso.md)
-
-👉 [Escalas Assistivas do eConsult](../030-inteligencia-clinica/020-escalas-assistivas-econsult.md)
-
-👉 [Integração com Marcadores Clínicos](../030-inteligencia-clinica/010-integracao-com-marcadores-clinicos.md)
+* [Escalas Validadas vs Escalas Assistivas: Entenda as Diferenças](./000-escalas-validadas-vs-escalas-assistivas.md)
+* [Triagem vs Acompanhamento Longitudinal](./010-triagem-vs-acompanhamento-longitudinal.md)
+* [Registros Isolados vs Acompanhamento Longitudinal](./020-registros-isolados-vs-acompanhamento-longitudinal.md)
+* [Observação Clínica vs Observação Estruturada](./040-observacao-clinica-vs-observacao-estruturada.md)
+* [Dados Isolados vs Leitura Evolutiva do Caso](./050-dados-isolados-vs-leitura-evolutiva-do-caso.md)

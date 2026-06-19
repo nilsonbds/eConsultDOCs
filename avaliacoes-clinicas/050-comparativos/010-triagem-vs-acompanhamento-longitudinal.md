@@ -299,3 +299,15 @@ Triagem e acompanhamento longitudinal possuem objetivos diferentes, mas compleme
 Enquanto a triagem ajuda a identificar necessidades e prioridades iniciais, o acompanhamento longitudinal permite observar tendências, mudanças e padrões ao longo do tempo.
 
 Quando avaliações, marcadores clínicos e registros são analisados de forma integrada, torna-se possível construir uma compreensão mais ampla da evolução clínica e apoiar uma prática mais orientada pela trajetória observada durante o acompanhamento.
+
+---
+
+## Saiba Mais
+
+### Próximos conteúdos
+
+* [Escalas Validadas vs Escalas Assistivas: Entenda as Diferenças](./000-escalas-validadas-vs-escalas-assistivas.md)
+* [Registros Isolados vs Acompanhamento Longitudinal](./020-registros-isolados-vs-acompanhamento-longitudinal.md)
+* [Prontuário Tradicional vs Prontuário Longitudinal](./030-prontuario-tradicional-vs-prontuario-longitudinal.md)
+* [Observação Clínica vs Observação Estruturada](./040-observacao-clinica-vs-observacao-estruturada.md)
+* [Dados Isolados vs Leitura Evolutiva do Caso](./050-dados-isolados-vs-leitura-evolutiva-do-caso.md)

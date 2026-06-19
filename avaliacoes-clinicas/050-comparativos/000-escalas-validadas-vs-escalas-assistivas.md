@@ -182,11 +182,11 @@ Instrumentos são recursos auxiliares. A responsabilidade pela interpretação c
 
 ### Próximos conteúdos
 
-* [Quando Aplicar Avaliações](../010-avaliacoes-na-pratica-clinica/000-quando-aplicar-avaliacoes)
-* [Como Escolher uma Escala](../010-avaliacoes-na-pratica-clinica/010-como-escolher-uma-escala)
-* [Interpretação de Resultados](../010-avaliacoes-na-pratica-clinica/020-interpretacao-de-resultados)
-* [Escalas Assistivas do eConsult](../030-inteligencia-clinica/020-escalas-assistivas-econsult)
-* [Dados Isolados vs Leitura Evolutiva do Caso](../040-guias/050-dados-isolados-vs-leitura-evolutiva-do-caso)
+* [Triagem vs Acompanhamento Longitudinal](./010-triagem-vs-acompanhamento-longitudinal.md)
+* [Registros Isolados vs Acompanhamento Longitudinal](./020-registros-isolados-vs-acompanhamento-longitudinal.md)
+* [Prontuário Tradicional vs Prontuário Longitudinal](./030-prontuario-tradicional-vs-prontuario-longitudinal.md)
+* [Observação Clínica vs Observação Estruturada](./040-observacao-clinica-vs-observacao-estruturada.md)
+* [Dados Isolados vs Leitura Evolutiva do Caso](./050-dados-isolados-vs-leitura-evolutiva-do-caso.md)
 
 ---
 

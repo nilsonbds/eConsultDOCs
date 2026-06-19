@@ -1,9 +1,8 @@
 ---
-
 sidebar_position: 40
 title: Observação Clínica vs Observação Estruturada
-description: Entenda as diferenças entre observação clínica tradicional e observação estruturada, e descubra como a organização sistemática de informações pode apoiar o acompanhamento longitudinal e a compreensão da evolução clínica.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+description: "Entenda as diferenças entre observação clínica tradicional e observação estruturada, e descubra como a organização sistemática de informações pode apoiar o acompanhamento longitudinal e a compreensão da evolução clínica."
+---
 
 # Observação Clínica vs Observação Estruturada
 
@@ -308,13 +307,12 @@ Ao combinar contexto clínico, registros narrativos e observações estruturadas
 
 ---
 
-## Continue explorando
+## Saiba Mais
 
-👉 [Escalas Assistivas do eConsult](../030-inteligencia-clinica/020-escalas-assistivas-econsult.md)
+### Próximos conteúdos
 
-👉 [Integração com Marcadores Clínicos](../030-inteligencia-clinica/010-integracao-com-marcadores-clinicos.md)
-
-👉 [Leitura Evolutiva do Caso](../030-inteligencia-clinica/030-leitura-evolutiva-do-caso.md)
-
-👉 [Acompanhamento Longitudinal](../030-inteligencia-clinica/000-acompanhamento-longitudinal.md)
-
+* [Escalas Validadas vs Escalas Assistivas: Entenda as Diferenças](./000-escalas-validadas-vs-escalas-assistivas.md)
+* [Triagem vs Acompanhamento Longitudinal](./010-triagem-vs-acompanhamento-longitudinal.md)
+* [Registros Isolados vs Acompanhamento Longitudinal](./020-registros-isolados-vs-acompanhamento-longitudinal.md)
+* [Prontuário Tradicional vs Prontuário Longitudinal](./030-prontuario-tradicional-vs-prontuario-longitudinal.md)
+* [Dados Isolados vs Leitura Evolutiva do Caso](./050-dados-isolados-vs-leitura-evolutiva-do-caso.md)

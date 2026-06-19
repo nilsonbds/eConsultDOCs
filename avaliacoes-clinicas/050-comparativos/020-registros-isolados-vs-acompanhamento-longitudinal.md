@@ -2,8 +2,8 @@
 
 sidebar_position: 20
 title: Registros Isolados vs Acompanhamento Longitudinal
-description: Entenda as diferenças entre registros clínicos isolados e uma abordagem longitudinal, e descubra como a observação contínua pode ampliar a compreensão da evolução clínica ao longo do tempo.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+description: "Entenda as diferenças entre registros clínicos isolados e uma abordagem longitudinal, e descubra como a observação contínua pode ampliar a compreensão da evolução clínica ao longo do tempo."
+---
 
 # Registros Isolados vs Acompanhamento Longitudinal
 
@@ -315,10 +315,12 @@ Quando diferentes registros são analisados de forma integrada, torna-se possív
 
 ---
 
-## Continue explorando
+## Saiba Mais
 
-👉 [Acompanhamento Longitudinal](../030-inteligencia-clinica/000-acompanhamento-longitudinal.md)
+### Próximos conteúdos
 
-👉 [Leitura Evolutiva do Caso](../030-inteligencia-clinica/030-leitura-evolutiva-do-caso.md)
-
-👉 [Integração com Marcadores Clínicos](../030-inteligencia-clinica/010-integracao-com-marcadores-clinicos.md)
+* [Escalas Validadas vs Escalas Assistivas: Entenda as Diferenças](./000-escalas-validadas-vs-escalas-assistivas.md)
+* [Triagem vs Acompanhamento Longitudinal](./010-triagem-vs-acompanhamento-longitudinal.md)
+* [Prontuário Tradicional vs Prontuário Longitudinal](./030-prontuario-tradicional-vs-prontuario-longitudinal.md)
+* [Observação Clínica vs Observação Estruturada](./040-observacao-clinica-vs-observacao-estruturada.md)
+* [Dados Isolados vs Leitura Evolutiva do Caso](./050-dados-isolados-vs-leitura-evolutiva-do-caso.md)

@@ -1,9 +1,8 @@
 ---
-
 sidebar_position: 50
 title: Dados Isolados vs Leitura Evolutiva do Caso
-description: Entenda por que analisar dados isolados pode não ser suficiente para compreender a evolução clínica e como a leitura evolutiva do caso busca integrar diferentes informações para apoiar uma visão mais ampla da trajetória clínica.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+description: "Entenda por que analisar dados isolados pode não ser suficiente para compreender a evolução clínica e como a leitura evolutiva do caso busca integrar diferentes informações para apoiar uma visão mais ampla da trajetória clínica."
+---
 
 # Dados Isolados vs Leitura Evolutiva do Caso
 
@@ -353,12 +352,12 @@ Ao combinar avaliações, registros clínicos, marcadores, histórico longitudin
 
 ---
 
-## Continue explorando
+## Saiba Mais
 
-👉 [Leitura Evolutiva do Caso](../030-inteligencia-clinica/030-leitura-evolutiva-do-caso.md)
+### Próximos conteúdos
 
-👉 [Acompanhamento Longitudinal](../030-inteligencia-clinica/000-acompanhamento-longitudinal.md)
-
-👉 [Integração com Marcadores Clínicos](../030-inteligencia-clinica/010-integracao-com-marcadores-clinicos.md)
-
-👉 [Escalas Assistivas do eConsult](../030-inteligencia-clinica/020-escalas-assistivas-econsult.md)
+* [Escalas Validadas vs Escalas Assistivas: Entenda as Diferenças](./000-escalas-validadas-vs-escalas-assistivas.md)
+* [Triagem vs Acompanhamento Longitudinal](./010-triagem-vs-acompanhamento-longitudinal.md)
+* [Registros Isolados vs Acompanhamento Longitudinal](./020-registros-isolados-vs-acompanhamento-longitudinal.md)
+* [Prontuário Tradicional vs Prontuário Longitudinal](./030-prontuario-tradicional-vs-prontuario-longitudinal.md)
+* [Observação Clínica vs Observação Estruturada](./040-observacao-clinica-vs-observacao-estruturada.md)
