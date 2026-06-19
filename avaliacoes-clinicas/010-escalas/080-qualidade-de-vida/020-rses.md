@@ -35,7 +35,7 @@ Neste artigo você encontrará:
 
 ## Download Gratuito da RSES em PDF
 
-👉 **[Baixar RSES em PDF](#)**
+👉 **[Baixar RSES em PDF](/pdf/scales/RSES.pdf)**
 
 ---
 
@@ -230,7 +230,7 @@ Para monitorar evolução clínica.
 
 ## Download da RSES em PDF
 
-👉 **[Baixar RSES em PDF](#)**
+👉 **[Baixar RSES em PDF](/pdf/scales/RSES.pdf)**
 
 ---
 

@@ -19,6 +19,14 @@ A **EC-EDC (Escala de Direção Clínica)** é uma escala assistiva desenvolvida
 
 Diferentemente de instrumentos focados em sintomas específicos, a EC-EDC busca identificar a **direção do processo terapêutico**, observando tendências de melhora, estabilidade ou piora em diferentes dimensões clínicas.
 
+---
+
+## Download do EC-EDC em PDF
+
+👉 **[Baixar EC-EDC em PDF](/pdf/scales/EC-EDC.pdf)**
+
+---
+
 ## O que a EC-EDC avalia?
 
 A escala organiza a análise em quatro dimensões:

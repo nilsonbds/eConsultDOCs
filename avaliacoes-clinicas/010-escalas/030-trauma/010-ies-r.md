@@ -38,7 +38,7 @@ Neste artigo você encontrará:
 
 Precisa aplicar a IES-R em sua prática clínica?
 
-👉 **[Baixar IES-R em PDF](#)**
+👉 **[Baixar IES-R em PDF](/pdf/scales/IES-R.pdf)**
 
 ---
 
@@ -247,7 +247,7 @@ Especialmente em intervenções focadas em trauma.
 
 ## Download da IES-R em PDF
 
-👉 **[Baixar IES-R em PDF](#)**
+👉 **[Baixar IES-R em PDF](/pdf/scales/IES-R.pdf)**
 
 ---
 

@@ -35,6 +35,12 @@ Neste artigo você encontrará:
 
 ---
 
+## Download do EC-ERC em PDF
+
+👉 **[Baixar EC-ERC em PDF](/pdf/scales/EC-ERC.pdf)**
+
+---
+
 ## O que é a EC-ERC?
 
 A EC-ERC foi criada para apoiar o monitoramento contínuo de indicadores clínicos relevantes que podem variar ao longo do tratamento.

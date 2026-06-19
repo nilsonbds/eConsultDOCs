@@ -19,6 +19,14 @@ A **EC-EAT (Escala de Aliança Terapêutica)** é uma ferramenta assistiva desen
 
 A escala foi inspirada nos modelos clássicos de aliança terapêutica, especialmente na proposta de **Edward Bordin**, que descreve a aliança como resultado da combinação entre vínculo, objetivos compartilhados e colaboração no processo.
 
+---
+
+## Download do EC-EAT em PDF
+
+👉 **[Baixar EC-EAT em PDF](/pdf/scales/EC-EAT.pdf)**
+
+---
+
 ## O que a EC-EAT avalia?
 
 A escala organiza a avaliação em quatro dimensões:

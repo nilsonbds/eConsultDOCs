@@ -19,6 +19,14 @@ A **EC-EPT (Escala de Estágio do Processo Terapêutico)** é uma ferramenta ass
 
 A escala permite acompanhar a progressão do caso desde a construção inicial do vínculo até fases mais avançadas de autonomia e consolidação dos ganhos terapêuticos.
 
+---
+
+## Download do EC-EPT em PDF
+
+👉 **[Baixar EC-EPT em PDF](/pdf/scales/EC-EPT.pdf)**
+
+---
+
 ## O que a EC-EPT avalia?
 
 A escala está organizada em quatro dimensões:

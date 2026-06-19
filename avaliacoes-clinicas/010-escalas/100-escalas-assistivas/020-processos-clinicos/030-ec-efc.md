@@ -35,6 +35,12 @@ Neste artigo você encontrará:
 
 ---
 
+## Download do EC-EFC em PDF
+
+👉 **[Baixar EC-EFC em PDF](/pdf/scales/EC-EFC.pdf)**
+
+---
+
 ## O que é a EC-EFC?
 
 A EC-EFC foi desenvolvida para auxiliar na observação sistemática da forma como a pessoa atendida lida com mudanças de perspectiva, questionamento de crenças e adaptação a novas situações.

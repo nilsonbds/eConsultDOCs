@@ -38,7 +38,7 @@ Neste artigo você encontrará:
 
 Precisa aplicar o WHODAS 2.0 em sua prática clínica?
 
-👉 **[Baixar WHODAS 2.0 em PDF](#)**
+👉 **[Baixar WHODAS 2.0 em PDF](/pdf/scales/WHODAS-2.0.pdf)**
 
 ---
 
@@ -300,7 +300,7 @@ Para mensuração padronizada de incapacidade.
 
 ## Download do WHODAS 2.0 em PDF
 
-👉 **[Baixar WHODAS 2.0 em PDF](#)**
+👉 **[Baixar WHODAS 2.0 em PDF](/pdf/scales/WHODAS-2.0.pdf)**
 
 ---
 

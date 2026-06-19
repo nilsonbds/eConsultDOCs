@@ -35,6 +35,12 @@ Neste artigo você encontrará:
 
 ---
 
+## Download do EC-ERA em PDF
+
+👉 **[Baixar EC-ERA em PDF](/pdf/scales/EC-ERA.pdf)**
+
+---
+
 ## O que é a EC-ERA?
 
 A interrupção precoce do tratamento é uma das principais dificuldades encontradas em diferentes contextos clínicos.

@@ -35,6 +35,12 @@ Neste artigo você encontrará:
 
 ---
 
+## Download do EC-EPC em PDF
+
+👉 **[Baixar EC-EPC em PDF](/pdf/scales/EC-EPC.pdf)**
+
+---
+
 ## O que é a EC-EPC?
 
 A EC-EPC foi criada para auxiliar profissionais na identificação de casos que demandam maior atenção clínica, acompanhamento intensificado ou intervenções em curto prazo.

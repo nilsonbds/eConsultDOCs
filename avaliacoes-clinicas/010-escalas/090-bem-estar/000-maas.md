@@ -35,7 +35,7 @@ Neste artigo você encontrará:
 
 ## Download Gratuito da MAAS em PDF
 
-👉 **[Baixar MAAS em PDF](#)**
+👉 **[Baixar MAAS em PDF](/pdf/scales/MAAS.pdf)**
 
 ---
 
@@ -227,7 +227,7 @@ Para monitorar desenvolvimento de habilidades de presença e foco.
 
 ## Download da MAAS em PDF
 
-👉 **[Baixar MAAS em PDF](#)**
+👉 **[Baixar MAAS em PDF](/pdf/scales/MAAS.pdf)**
 
 ---
 

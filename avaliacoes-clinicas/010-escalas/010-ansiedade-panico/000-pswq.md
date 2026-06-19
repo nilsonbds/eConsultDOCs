@@ -38,7 +38,7 @@ Neste artigo você encontrará:
 
 Precisa aplicar o PSWQ em sua prática clínica?
 
-👉 **[Baixar PSWQ em PDF](#)**
+👉 **[Baixar PSWQ em PDF](/pdf/scales/PSWQ.pdf)**
 
 ---
 
@@ -193,7 +193,7 @@ Por sua ampla utilização em estudos relacionados ao TAG.
 
 ## Download do PSWQ em PDF
 
-👉 **[Baixar PSWQ em PDF](#)**
+👉 **[Baixar PSWQ em PDF](/pdf/scales/PSWQ.pdf)**
 
 ---
 

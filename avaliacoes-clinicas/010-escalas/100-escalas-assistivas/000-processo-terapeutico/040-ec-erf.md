@@ -35,6 +35,12 @@ Neste artigo você encontrará:
 
 ---
 
+## Download do EC-ERF em PDF
+
+👉 **[Baixar EC-ERF em PDF](/pdf/scales/EC-ERF.pdf)**
+
+---
+
 ## O que é a EC-ERF?
 
 A EC-ERF foi desenvolvida para auxiliar o profissional na observação sistemática dos efeitos das intervenções terapêuticas ao longo do processo clínico.

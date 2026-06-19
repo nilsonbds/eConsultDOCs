@@ -35,6 +35,12 @@ Neste artigo você encontrará:
 
 ---
 
+## Download do EC-ECO em PDF
+
+👉 **[Baixar EC-ECO em PDF](/pdf/scales/EC-ECO.pdf)**
+
+---
+
 ## O que é a EC-ECO?
 
 A EC-ECO foi criada para auxiliar na observação sistemática dos elementos que contribuem para tornar um caso mais simples ou mais complexo do ponto de vista clínico.

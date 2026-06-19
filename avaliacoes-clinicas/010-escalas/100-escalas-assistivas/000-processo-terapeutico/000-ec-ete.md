@@ -35,6 +35,12 @@ Neste artigo você encontrará:
 
 ---
 
+## Download do EC-ETE em PDF
+
+👉 **[Baixar EC-ETE em PDF](/pdf/scales/EC-ETE.pdf)**
+
+---
+
 ## O que é a EC-ETE?
 
 A EC-ETE foi criada para apoiar a observação sistemática de comportamentos que costumam estar associados ao progresso terapêutico.

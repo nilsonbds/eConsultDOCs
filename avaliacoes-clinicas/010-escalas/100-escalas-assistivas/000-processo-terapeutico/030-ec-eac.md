@@ -35,6 +35,12 @@ Neste artigo você encontrará:
 
 ---
 
+## Download do EC-EAC em PDF
+
+👉 **[Baixar EC-EAC em PDF](/pdf/scales/EC-EAC.pdf)**
+
+---
+
 ## O que é a EC-EAC?
 
 A EC-EAC foi criada para auxiliar na observação sistemática de comportamentos relacionados à implementação prática das intervenções terapêuticas.

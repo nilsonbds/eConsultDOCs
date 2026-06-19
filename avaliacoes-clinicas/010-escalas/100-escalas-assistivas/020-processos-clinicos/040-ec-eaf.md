@@ -35,6 +35,12 @@ Neste artigo você encontrará:
 
 ---
 
+## Download do EC-EAF em PDF
+
+👉 **[Baixar EC-EAF em PDF](/pdf/scales/EC-EAF.pdf)**
+
+---
+
 ## O que é a EC-EAF?
 
 A EC-EAF foi criada para auxiliar na observação sistemática da capacidade da pessoa atendida de gerir seu cotidiano de forma autônoma.

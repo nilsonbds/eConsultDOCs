@@ -35,6 +35,12 @@ Neste artigo você encontrará:
 
 ---
 
+## Download do EC-ERE em PDF
+
+👉 **[Baixar EC-ERE em PDF](/pdf/scales/EC-ERE.pdf)**
+
+---
+
 ## O que é a EC-ERE?
 
 A EC-ERE foi criada para auxiliar na observação sistemática dos processos de regulação emocional ao longo do acompanhamento terapêutico.

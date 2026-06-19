@@ -35,6 +35,12 @@ Neste artigo você encontrará:
 
 ---
 
+## Download do EC-ERI em PDF
+
+👉 **[Baixar EC-ERI em PDF](/pdf/scales/EC-ERI.pdf)**
+
+---
+
 ## O que é a EC-ERI?
 
 A EC-ERI foi criada para auxiliar na observação sistemática do desenvolvimento do insight clínico ao longo do processo terapêutico.
