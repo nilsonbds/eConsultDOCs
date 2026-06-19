@@ -32,7 +32,7 @@ Ao longo do processo terapêutico, a combinação entre observação clínica e 
 
 Para entender melhor os diferentes momentos de aplicação, consulte o guia:
 
-👉 [Quando aplicar avaliações psicológicas](../040-guias/000-quando-aplicar-avaliacoes)
+👉 [Quando aplicar avaliações psicológicas](../040-guias/000-quando-aplicar-avaliacoes.md)
 
 ---
 
@@ -89,7 +89,7 @@ Algumas escalas frequentemente utilizadas incluem:
 
 A escolha da escala deve considerar a demanda apresentada, os objetivos clínicos e o momento do acompanhamento.
 
-👉 [Como escolher uma escala psicológica](../040-guias/010-como-escolher-uma-escala)
+👉 [Como escolher uma escala psicológica](../040-guias/010-como-escolher-uma-escala.md)
 
 ---
 
@@ -119,7 +119,7 @@ Já uma sequência de avaliações permite observar tendências, padrões e muda
 
 É justamente essa perspectiva que fundamenta o conceito de:
 
-👉 [Acompanhamento Longitudinal](../inteligencia-clinica/010-acompanhamento-longitudinal)
+👉 [Acompanhamento Longitudinal](../030-inteligencia-clinica/000-acompanhamento-longitudinal.md)
 
 Ao analisar a evolução de um paciente durante semanas ou meses, o profissional consegue identificar com mais clareza:
 
@@ -161,7 +161,7 @@ Entre os benefícios estão:
 * Maior rastreabilidade clínica;
 * Apoio à tomada de decisão.
 
-👉 [Avaliações e Prontuário Eletrônico](../040-guias/030-avaliacoes-e-prontuario-eletronico)
+👉 [Avaliações e Prontuário Eletrônico](../040-guias/030-avaliacoes-e-prontuario-eletronico.md)
 
 ---
 
@@ -213,7 +213,7 @@ Para obter resultados mais consistentes:
 * Evite conclusões baseadas em uma única aplicação;
 * Registre os resultados no prontuário.
 
-👉 [Boas práticas em monitoramento clínico](../040-guias/040-boas-praticas-em-monitoramento-clinico)
+👉 [Boas práticas em monitoramento clínico](../040-guias/040-boas-praticas-em-monitoramento-clinico.md)
 
 ---
 
