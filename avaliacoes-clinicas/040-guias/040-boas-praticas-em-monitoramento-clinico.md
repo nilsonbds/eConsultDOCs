@@ -195,7 +195,7 @@ Essa integração favorece uma leitura mais contextualizada da evolução clíni
 
 A integração entre avaliações e histórico clínico é um dos principais benefícios do prontuário eletrônico.
 
-➡️ Veja: [Avaliações e Prontuário Eletrônico](./030-avaliacoes-e-prontuario-eletronico)
+➡️ Veja: [Avaliações e Prontuário Eletrônico](./030-avaliacoes-e-prontuario-eletronico.md)
 
 ---
 

@@ -227,7 +227,7 @@ Frequentemente constituem informações clínicas valiosas que ajudam a ampliar 
 
 Marcadores clínicos ajudam a contextualizar avaliações, observações e registros ao longo do acompanhamento.
 
-👉 [Saiba mais sobre a integração com marcadores clínicos](/inteligencia-clinica/integracao-com-marcadores-clinicos)
+👉 [Saiba mais sobre a integração com marcadores clínicos](../030-inteligencia-clinica/010-integracao-com-marcadores-clinicos.md)
 
 :::
 ---

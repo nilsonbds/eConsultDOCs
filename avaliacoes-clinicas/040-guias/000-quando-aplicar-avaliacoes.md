@@ -267,7 +267,7 @@ O Sistema Clínico Longitudinal do eConsult foi desenvolvido para integrar avali
 ### 🧭 Como Escolher uma Escala
 
 Aprenda a selecionar instrumentos alinhados aos objetivos clínicos e às necessidades de acompanhamento.
-
+    
 👉 [Ler artigo](./010-como-escolher-uma-escala.md)
 
 ### 📊 Interpretação de Resultados

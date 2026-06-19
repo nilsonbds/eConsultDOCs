@@ -89,7 +89,7 @@ Algumas escalas frequentemente utilizadas incluem:
 
 A escolha da escala deve considerar a demanda apresentada, os objetivos clínicos e o momento do acompanhamento.
 
-👉 [Como escolher uma escala psicológica](..../040-guias/010-como-escolher-uma-escala)
+👉 [Como escolher uma escala psicológica](../040-guias/010-como-escolher-uma-escala)
 
 ---
 
@@ -161,7 +161,7 @@ Entre os benefícios estão:
 * Maior rastreabilidade clínica;
 * Apoio à tomada de decisão.
 
-👉 [Avaliações e Prontuário Eletrônico](..../040-guias/030-avaliacoes-e-prontuario-eletronico)
+👉 [Avaliações e Prontuário Eletrônico](../040-guias/030-avaliacoes-e-prontuario-eletronico)
 
 ---
 
@@ -213,7 +213,7 @@ Para obter resultados mais consistentes:
 * Evite conclusões baseadas em uma única aplicação;
 * Registre os resultados no prontuário.
 
-👉 [Boas práticas em monitoramento clínico](..../040-guias/040-boas-praticas-em-monitoramento-clinico)
+👉 [Boas práticas em monitoramento clínico](../040-guias/040-boas-praticas-em-monitoramento-clinico)
 
 ---
 
@@ -237,9 +237,9 @@ Soluções de Inteligência Clínica Longitudinal podem auxiliar na:
 
 ### Guias
 
-* [Quando aplicar avaliações psicológicas](..../040-guias/000-quando-aplicar-avaliacoes)
-* [Como escolher uma escala](..../040-guias/010-como-escolher-uma-escala)
-* [Interpretação de resultados](..../040-guias/020-interpretacao-de-resultados)
+* [Quando aplicar avaliações psicológicas](../040-guias/000-quando-aplicar-avaliacoes.md)
+* [Como escolher uma escala](../040-guias/010-como-escolher-uma-escala.md)
+* [Interpretação de resultados](../040-guias/020-interpretacao-de-resultados.md)
 
 ### Escalas
 
