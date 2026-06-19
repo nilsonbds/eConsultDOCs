@@ -32,7 +32,7 @@ Ao longo do processo terapêutico, a combinação entre observação clínica e 
 
 Para entender melhor os diferentes momentos de aplicação, consulte o guia:
 
-👉 [Quando aplicar avaliações psicológicas](../guias/000-quando-aplicar-avaliacoes)
+👉 [Quando aplicar avaliações psicológicas](../040-guias/000-quando-aplicar-avaliacoes)
 
 ---
 
@@ -89,7 +89,7 @@ Algumas escalas frequentemente utilizadas incluem:
 
 A escolha da escala deve considerar a demanda apresentada, os objetivos clínicos e o momento do acompanhamento.
 
-👉 [Como escolher uma escala psicológica](../guias/010-como-escolher-uma-escala)
+👉 [Como escolher uma escala psicológica](..../040-guias/010-como-escolher-uma-escala)
 
 ---
 
@@ -145,7 +145,7 @@ A redução progressiva da pontuação sugere melhora dos sintomas ao longo do t
 
 Entretanto, a interpretação clínica não deve considerar apenas os números, mas também aspectos observados em sessão, contexto de vida e objetivos terapêuticos.
 
-👉 [Leitura Evolutiva do Caso](../inteligencia-clinica/040-leitura-evolutiva-do-caso)
+👉 [Leitura Evolutiva do Caso](../030-inteligencia-clinica/030-leitura-evolutiva-do-caso.md)
 
 ---
 
@@ -161,7 +161,7 @@ Entre os benefícios estão:
 * Maior rastreabilidade clínica;
 * Apoio à tomada de decisão.
 
-👉 [Avaliações e Prontuário Eletrônico](../guias/030-avaliacoes-e-prontuario-eletronico)
+👉 [Avaliações e Prontuário Eletrônico](..../040-guias/030-avaliacoes-e-prontuario-eletronico)
 
 ---
 
@@ -179,7 +179,7 @@ Por exemplo:
 
 Essa integração amplia a compreensão do caso e reduz o risco de interpretações baseadas exclusivamente em uma pontuação.
 
-👉 [Integração com Marcadores Clínicos](../inteligencia-clinica/020-integracao-com-marcadores-clinicos)
+👉 [Integração com Marcadores Clínicos](../030-inteligencia-clinica/010-integracao-com-marcadores-clinicos.md)
 
 ---
 
@@ -213,7 +213,7 @@ Para obter resultados mais consistentes:
 * Evite conclusões baseadas em uma única aplicação;
 * Registre os resultados no prontuário.
 
-👉 [Boas práticas em monitoramento clínico](../guias/040-boas-praticas-em-monitoramento-clinico)
+👉 [Boas práticas em monitoramento clínico](..../040-guias/040-boas-praticas-em-monitoramento-clinico)
 
 ---
 
@@ -229,7 +229,7 @@ Soluções de Inteligência Clínica Longitudinal podem auxiliar na:
 * Visualização de tendências;
 * Correlação entre avaliações e marcadores clínicos.
 
-👉 [Sugestão Inteligente de Avaliações](../inteligencia-clinica/000-sugestao-inteligente-de-avaliacoes)
+👉 [Sugestão Inteligente de Avaliações](../030-inteligencia-clinica/040-sugestao-inteligente-de-avaliacoes.md)
 
 ---
 
@@ -237,9 +237,9 @@ Soluções de Inteligência Clínica Longitudinal podem auxiliar na:
 
 ### Guias
 
-* [Quando aplicar avaliações psicológicas](../guias/000-quando-aplicar-avaliacoes)
-* [Como escolher uma escala](../guias/010-como-escolher-uma-escala)
-* [Interpretação de resultados](../guias/020-interpretacao-de-resultados)
+* [Quando aplicar avaliações psicológicas](..../040-guias/000-quando-aplicar-avaliacoes)
+* [Como escolher uma escala](..../040-guias/010-como-escolher-uma-escala)
+* [Interpretação de resultados](..../040-guias/020-interpretacao-de-resultados)
 
 ### Escalas
 

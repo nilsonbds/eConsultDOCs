@@ -54,7 +54,7 @@ Em vez de permanecerem isoladas, passam a fazer parte do contexto clínico mais 
 
 A escolha adequada dos instrumentos influencia diretamente a qualidade das informações registradas no prontuário.
 
-➡️ Veja: [Como Escolher uma Escala](./010-como-escolher-uma-escala)
+➡️ Veja: [Como Escolher uma Escala](./010-como-escolher-uma-escala.md)
 
 ---
 
@@ -204,7 +204,7 @@ Essa perspectiva dificilmente é obtida quando os registros permanecem dispersos
 
 O acompanhamento contínuo depende de boas práticas de monitoramento e análise da evolução clínica.
 
-➡️ Continue em: [Boas Práticas em Monitoramento Clínico](./040-boas-praticas-em-monitoramento-clinico)
+➡️ Continue em: [Boas Práticas em Monitoramento Clínico](./040-boas-praticas-em-monitoramento-clinico.md)
 
 ---
 
@@ -255,7 +255,7 @@ Mais do que armazenar informações, o objetivo passa a ser compreender como dif
 
 A análise integrada dessas informações está diretamente relacionada à interpretação contextualizada dos resultados.
 
-➡️ Leia também: [Interpretação de Resultados](./020-interpretacao-de-resultados)
+➡️ Leia também: [Interpretação de Resultados](./020-interpretacao-de-resultados.md)
 
 ---
 
@@ -305,18 +305,18 @@ O Sistema Clínico Longitudinal do eConsult foi desenvolvido para integrar avali
 
 Entenda por que os resultados ganham significado quando analisados dentro do contexto clínico.
 
-👉 [Ler artigo](./020-interpretacao-de-resultados)
+👉 [Ler artigo](./020-interpretacao-de-resultados.md)
 
 ### 📈 Boas Práticas em Monitoramento Clínico
 
 Veja como estruturar um processo de acompanhamento clínico baseado em múltiplas fontes de informação.
 
-👉 [Ler artigo](./040-boas-praticas-em-monitoramento-clinico)
+👉 [Ler artigo](./040-boas-praticas-em-monitoramento-clinico.md)
 
 ### 🧭 Como Escolher uma Escala
 
 Conheça critérios que podem auxiliar na seleção de instrumentos adequados aos objetivos clínicos.
 
-👉 [Ler artigo](./010-como-escolher-uma-escala)
+👉 [Ler artigo](./010-como-escolher-uma-escala.md)
 
 :::

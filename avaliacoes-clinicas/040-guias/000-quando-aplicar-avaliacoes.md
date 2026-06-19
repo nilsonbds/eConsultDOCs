@@ -74,7 +74,7 @@ Posteriormente, essas informações podem servir como referência para comparaç
 
 Depois de definir o momento adequado para aplicar uma avaliação, o próximo passo é escolher instrumentos compatíveis com os objetivos clínicos.
 
-➡️ Leia também: [Como Escolher uma Escala](./010-como-escolher-uma-escala)
+➡️ Leia também: [Como Escolher uma Escala](./010-como-escolher-uma-escala.md)
 
 ---
 
@@ -158,7 +158,7 @@ Essa lógica está diretamente relacionada ao conceito de acompanhamento longitu
 
 A reaplicação periódica gera resultados que precisam ser analisados dentro do contexto clínico.
 
-➡️ Saiba mais em: [Interpretação de Resultados](./020-interpretacao-de-resultados)
+➡️ Saiba mais em: [Interpretação de Resultados](./020-interpretacao-de-resultados.md)
 
 ---
 
@@ -177,7 +177,7 @@ Quando analisadas em conjunto com registros clínicos e observações profission
 
 O monitoramento longitudinal depende de uma estratégia estruturada de acompanhamento.
 
-➡️ Continue em: [Boas Práticas em Monitoramento Clínico](./040-boas-praticas-em-monitoramento-clinico)
+➡️ Continue em: [Boas Práticas em Monitoramento Clínico](./040-boas-praticas-em-monitoramento-clinico.md)
 
 :::note Sistema Clínico Longitudinal
 
@@ -268,18 +268,18 @@ O Sistema Clínico Longitudinal do eConsult foi desenvolvido para integrar avali
 
 Aprenda a selecionar instrumentos alinhados aos objetivos clínicos e às necessidades de acompanhamento.
 
-👉 [Ler artigo](./010-como-escolher-uma-escala)
+👉 [Ler artigo](./010-como-escolher-uma-escala.md)
 
 ### 📊 Interpretação de Resultados
 
 Entenda como analisar resultados dentro do contexto clínico e da evolução do paciente.
 
-👉 [Ler artigo](./020-interpretacao-de-resultados)
+👉 [Ler artigo](./020-interpretacao-de-resultados.md)
 
 ### 📈 Boas Práticas em Monitoramento Clínico
 
 Conheça estratégias para acompanhar a evolução clínica de forma estruturada e longitudinal.
 
-👉 [Ler artigo](./040-boas-praticas-em-monitoramento-clinico)
+👉 [Ler artigo](./040-boas-praticas-em-monitoramento-clinico.md)
 
 :::

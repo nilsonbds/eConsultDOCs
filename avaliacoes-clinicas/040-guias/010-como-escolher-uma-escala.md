@@ -74,7 +74,7 @@ O infográfico abaixo apresenta um exemplo simplificado de como diferentes objet
 
 Definir o objetivo clínico também ajuda a identificar os momentos mais adequados para aplicar avaliações ao longo do acompanhamento.
 
-➡️ Leia: [Quando Aplicar Avaliações Psicológicas](./000-quando-aplicar-avaliacoes)
+➡️ Leia: [Quando Aplicar Avaliações Psicológicas](./000-quando-aplicar-avaliacoes.md)
 
 ---
 
@@ -297,7 +297,7 @@ Essa mudança de perspectiva costuma tornar o processo de seleção muito mais c
 
 A reaplicação das escalas produz informações que precisam ser interpretadas dentro de uma perspectiva evolutiva.
 
-➡️ Veja: [Interpretação de Resultados](./020-interpretacao-de-resultados)
+➡️ Veja: [Interpretação de Resultados](./020-interpretacao-de-resultados.md)
 
 ---
 
@@ -347,18 +347,18 @@ O Sistema Clínico Longitudinal do eConsult foi desenvolvido para integrar avali
 
 Descubra em quais momentos as avaliações podem contribuir para o acompanhamento clínico.
 
-👉 [Ler artigo](./000-quando-aplicar-avaliacoes)
+👉 [Ler artigo](./000-quando-aplicar-avaliacoes.md)
 
 ### 📊 Interpretação de Resultados
 
 Saiba como compreender os resultados das avaliações dentro do contexto clínico.
 
-👉 [Ler artigo](./020-interpretacao-de-resultados)
+👉 [Ler artigo](./020-interpretacao-de-resultados.md)
 
 ### 📋 Avaliações e Prontuário Eletrônico
 
 Veja como integrar resultados ao histórico clínico e construir uma visão longitudinal do caso.
 
-👉 [Ler artigo](./030-avaliacoes-e-prontuario-eletronico)
+👉 [Ler artigo](./030-avaliacoes-e-prontuario-eletronico.md)
 
 :::

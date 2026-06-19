@@ -92,7 +92,7 @@ Sem um ponto inicial, torna-se mais difícil compreender se houve mudança ao lo
 
 A linha de base costuma ser construída por meio da aplicação inicial de avaliações adequadas ao objetivo clínico.
 
-➡️ Leia: [Quando Aplicar Avaliações Psicológicas](./000-quando-aplicar-avaliacoes)
+➡️ Leia: [Quando Aplicar Avaliações Psicológicas](./000-quando-aplicar-avaliacoes.md)
 
 ---
 
@@ -134,7 +134,7 @@ Uma visão mais ampla tende a favorecer uma compreensão mais completa do caso.
 
 A seleção dos instrumentos influencia diretamente a qualidade do monitoramento realizado.
 
-➡️ Saiba mais em: [Como Escolher uma Escala](./010-como-escolher-uma-escala)
+➡️ Saiba mais em: [Como Escolher uma Escala](./010-como-escolher-uma-escala.md)
 
 ---
 
@@ -243,7 +243,7 @@ Essa perspectiva permite identificar:
 
 A observação da trajetória clínica depende da interpretação contextualizada dos resultados coletados ao longo do tempo.
 
-➡️ Continue em: [Interpretação de Resultados](./020-interpretacao-de-resultados)
+➡️ Continue em: [Interpretação de Resultados](./020-interpretacao-de-resultados.md)
 
 ---
 
@@ -319,18 +319,18 @@ O Sistema Clínico Longitudinal do eConsult foi desenvolvido para integrar avali
 
 Saiba em quais momentos as avaliações podem apoiar a compreensão da evolução clínica.
 
-👉 [Ler artigo](./000-quando-aplicar-avaliacoes)
+👉 [Ler artigo](./000-quando-aplicar-avaliacoes.md)
 
 ### 📋 Avaliações e Prontuário Eletrônico
 
 Descubra como organizar avaliações e registros clínicos para construir um histórico longitudinal.
 
-👉 [Ler artigo](./030-avaliacoes-e-prontuario-eletronico)
+👉 [Ler artigo](./030-avaliacoes-e-prontuario-eletronico.md)
 
 ### 📊 Interpretação de Resultados
 
 Aprenda a analisar tendências e compreender mudanças observadas ao longo do acompanhamento.
 
-👉 [Ler artigo](./020-interpretacao-de-resultados)
+👉 [Ler artigo](./020-interpretacao-de-resultados.md)
 
 :::

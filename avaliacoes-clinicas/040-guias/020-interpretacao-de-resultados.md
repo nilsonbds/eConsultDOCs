@@ -125,7 +125,7 @@ A possibilidade de observar mudanças ao longo do tempo.
 
 A construção da linha de base depende da aplicação adequada das avaliações em momentos estratégicos do acompanhamento.
 
-➡️ Saiba mais em: [Quando Aplicar Avaliações Psicológicas](./000-quando-aplicar-avaliacoes)
+➡️ Saiba mais em: [Quando Aplicar Avaliações Psicológicas](./000-quando-aplicar-avaliacoes.md)
 
 ---
 
@@ -231,7 +231,7 @@ Essa perspectiva amplia significativamente a capacidade de compreensão da evolu
 
 Para que a interpretação seja consistente, é importante estruturar um processo contínuo de monitoramento.
 
-➡️ Continue em: [Boas Práticas em Monitoramento Clínico](./040-boas-praticas-em-monitoramento-clinico)
+➡️ Continue em: [Boas Práticas em Monitoramento Clínico](./040-boas-praticas-em-monitoramento-clinico.md)
 
 ---
 
@@ -251,7 +251,7 @@ Essa integração favorece uma leitura mais ampla da trajetória da pessoa atend
 
 Quando avaliações passam a integrar o histórico clínico, torna-se possível analisar resultados dentro de um contexto mais amplo.
 
-➡️ Leia também: [Avaliações e Prontuário Eletrônico](./030-avaliacoes-e-prontuario-eletronico)
+➡️ Leia também: [Avaliações e Prontuário Eletrônico](./030-avaliacoes-e-prontuario-eletronico.md)
 
 ---
 
@@ -325,18 +325,18 @@ O Sistema Clínico Longitudinal do eConsult foi desenvolvido para integrar avali
 
 Entenda como a definição do momento de aplicação influencia a qualidade das informações obtidas.
 
-👉 [Ler artigo](./000-quando-aplicar-avaliacoes)
+👉 [Ler artigo](./000-quando-aplicar-avaliacoes.md)
 
 ### 📋 Avaliações e Prontuário Eletrônico
 
 Descubra como registrar e acompanhar resultados ao longo da trajetória clínica.
 
-👉 [Ler artigo](./030-avaliacoes-e-prontuario-eletronico)
+👉 [Ler artigo](./030-avaliacoes-e-prontuario-eletronico.md)
 
 ### 📈 Boas Práticas em Monitoramento Clínico
 
 Aprenda a observar tendências e mudanças de forma estruturada ao longo do tempo.
 
-👉 [Ler artigo](./040-boas-praticas-em-monitoramento-clinico)
+👉 [Ler artigo](./040-boas-praticas-em-monitoramento-clinico.md)
 
 :::

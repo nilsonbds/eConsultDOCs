@@ -141,7 +141,7 @@ Alguns exemplos incluem:
 * Capacidade de resolução de problemas;
 * Adesão às intervenções propostas.
 
-👉 [Integração com Marcadores Clínicos](../030-inteligencia-clinica/020-integracao-com-marcadores-clinicos.md)
+👉 [Integração com Marcadores Clínicos](../030-inteligencia-clinica/010-integracao-com-marcadores-clinicos.md)
 
 ---
 
