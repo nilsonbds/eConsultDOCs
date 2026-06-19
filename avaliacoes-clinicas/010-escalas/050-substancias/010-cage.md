@@ -272,9 +272,9 @@ O CAGE é uma triagem breve focada em dependência alcoólica. O AUDIT avalia ta
 
 :::tip Veja também outras escalas relacionadas ao uso de substâncias:
 
-👉 [**AUDIT**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/030-substancias/000-audit.md)
+👉 [**AUDIT**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/050-substancias/000-audit.md)
 
-👉 [**DAST-10**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/030-substancias/020-dast-10.md)
+👉 [**DAST-10**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/050-substancias/020-dast-10.md)
 
 :::
 

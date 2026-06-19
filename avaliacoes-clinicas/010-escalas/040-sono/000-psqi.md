@@ -206,7 +206,7 @@ Por exemplo:
 
 Essa análise ajuda a identificar padrões específicos que podem orientar intervenções mais precisas.
 
-👉 Veja também: [Leitura evolutiva do caso](../../030-inteligencia-clinica/040-leitura-evolutiva-do-caso.md)
+👉 Veja também: [Leitura evolutiva do caso](../../030-inteligencia-clinica/030-leitura-evolutiva-do-caso.md)
 
 ---
 

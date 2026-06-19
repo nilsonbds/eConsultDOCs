@@ -166,7 +166,7 @@ Por exemplo:
 * Práticas regulares de mindfulness tendem a produzir ganhos progressivos;
 * Pequenos aumentos sustentados costumam ser clinicamente relevantes.
 
-👉 Veja também: [Leitura evolutiva do caso](../../030-inteligencia-clinica/040-leitura-evolutiva-do-caso.md)
+👉 Veja também: [Leitura evolutiva do caso](../../030-inteligencia-clinica/030-leitura-evolutiva-do-caso.md)
 
 ---
 
@@ -271,9 +271,9 @@ Sim. Você pode disponibilizar a escala para download neste artigo.
 
 :::tip Veja também outras escalas de bem-estar:
 
-👉 [**PANAS**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/060-bem-estar/010-panas.md)
+👉 [**PANAS**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/090-bem-estar/010-panas.md)
 
-👉 [**CBI**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/060-bem-estar/020-cbi.md)
+👉 [**CBI**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/090-bem-estar/020-cbi.md)
 
 :::
 

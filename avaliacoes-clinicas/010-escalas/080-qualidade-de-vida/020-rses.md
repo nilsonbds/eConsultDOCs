@@ -166,7 +166,7 @@ Por exemplo:
 
 Por isso, a análise longitudinal costuma fornecer informações mais relevantes do que uma única aplicação.
 
-👉 Veja também: [Leitura evolutiva do caso](../../030-inteligencia-clinica/040-leitura-evolutiva-do-caso.md)
+👉 Veja também: [Leitura evolutiva do caso](../../030-inteligencia-clinica/030-leitura-evolutiva-do-caso.md)
 
 ---
 
@@ -275,11 +275,11 @@ Sim. Existem adaptações e estudos de validação para a população brasileira
 
 :::tip Veja também outras escalas de qualidade de vida:
 
-👉 [**WHOQOL-BREF**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/050-qualidade-de-vida/000-whoqol-bref.md)
+👉 [**WHOQOL-BREF**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/080-qualidade-de-vida/000-whoqol-bref.md)
 
-👉 [**SWLS**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/050-qualidade-de-vida/010-swls.md)
+👉 [**SWLS**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/080-qualidade-de-vida/010-swls.md)
 
-👉 [**GSE**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/050-qualidade-de-vida/030-gse.md)
+👉 [**GSE**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/080-qualidade-de-vida/030-gse.md)
 
 :::
 

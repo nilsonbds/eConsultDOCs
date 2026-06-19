@@ -214,7 +214,7 @@ Em muitos casos:
 
 Por isso a análise longitudinal costuma ser muito mais útil do que uma única aplicação.
 
-👉 Veja também: [Leitura evolutiva do caso](../../030-inteligencia-clinica/040-leitura-evolutiva-do-caso.md)
+👉 Veja também: [Leitura evolutiva do caso](../../030-inteligencia-clinica/030-leitura-evolutiva-do-caso.md)
 
 ---
 
@@ -323,9 +323,9 @@ Sim. Você pode disponibilizar a escala para download neste artigo.
 
 :::tip Veja também outras escalas de bem-estar:
 
-👉 [**MAAS**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/060-bem-estar/000-maas.md)
+👉 [**MAAS**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/090-bem-estar/000-maas.md)
 
-👉 [**CBI**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/060-bem-estar/020-cbi.md)
+👉 [**CBI**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/090-bem-estar/020-cbi.md)
 
 :::
 
