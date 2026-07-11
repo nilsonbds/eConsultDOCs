@@ -131,6 +131,24 @@ Pontuações mais elevadas indicam necessidade de investigação clínica mais a
 
 ---
 
+## Responda o AUDIT Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online do **AUDIT** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do padrão de consumo de álcool
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder AUDIT Online**](https://econsult.app.br/teste-psicologico/audit)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **Alcohol Use Disorders Identification Test (AUDIT)**, instrumento desenvolvido pela Organização Mundial da Saúde (OMS) para o rastreamento do consumo de álcool de risco, uso nocivo e possível dependência alcoólica.
+
+---
+
 ## O que significa uma pontuação elevada no AUDIT?
 
 Escores elevados podem estar associados a:

@@ -102,6 +102,24 @@ A interpretação é baseada na **média dos itens respondidos**, e não na soma
 
 ---
 
+## Responda a MAAS Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online da **MAAS** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder MAAS Online**](https://econsult.app.br/teste-psicologico/maas)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação da **Mindful Attention Awareness Scale (MAAS)**, instrumento utilizado para avaliar o nível de atenção plena (*mindfulness*), medindo a capacidade do indivíduo de manter a atenção e a consciência no momento presente durante as atividades do dia a dia.
+
+---
+
 ## O que significa baixa atenção plena?
 
 Pontuações mais baixas podem indicar:

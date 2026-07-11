@@ -141,6 +141,24 @@ Também podem ser analisados os escores de cada fator:
 
 ---
 
+## Responda o IES-R Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online do **IES-R** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder IES-R Online**](https://econsult.app.br/teste-psicologico/ies-r)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação da **Impact of Event Scale – Revised (IES-R)**, instrumento utilizado para avaliar a intensidade dos sintomas relacionados ao transtorno de estresse pós-traumático (TEPT) após a exposição a um evento potencialmente traumático.
+
+---
+
 ### Intrusão
 
 | Escore | Interpretação |

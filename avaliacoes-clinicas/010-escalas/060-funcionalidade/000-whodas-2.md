@@ -181,6 +181,24 @@ Pontuações mais elevadas indicam maior comprometimento funcional.
 
 ---
 
+## Responda o WHODAS 2.0 Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online do **WHODAS 2.0** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder WHODAS 2.0 Online**](https://econsult.app.br/teste-psicologico/WHODAS%202.0)
+
+> Ideal para psicólogos, psiquiatras, médicos, terapeutas ocupacionais, fisioterapeutas, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **World Health Organization Disability Assessment Schedule 2.0 (WHODAS 2.0)**, instrumento desenvolvido pela Organização Mundial da Saúde (OMS) para avaliar o nível de funcionalidade e incapacidade em diferentes domínios da vida.
+
+---
+
 ## O que significa uma pontuação elevada?
 
 Escores elevados podem indicar dificuldades importantes em áreas como:

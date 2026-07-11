@@ -175,6 +175,24 @@ Quanto maior a pontuação, pior tende a ser a qualidade do sono.
 
 ---
 
+## Responda o PSQI Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online do **PSQI** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação da qualidade do sono
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder PSQI Online**](https://econsult.app.br/teste-psicologico/psqi)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **Pittsburgh Sleep Quality Index (PSQI)**, instrumento utilizado para avaliar a qualidade do sono e identificar possíveis alterações do padrão de sono no último mês.
+
+---
+
 ## O verdadeiro valor do PSQI está na evolução dos resultados
 
 Uma única aplicação mostra apenas como o paciente dormiu no último mês.

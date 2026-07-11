@@ -174,6 +174,24 @@ Diferentemente de escalas como PHQ-9 ou GAD-7, o foco principal não é um escor
 
 ---
 
+## Responda o WHOQOL-BREF Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online do **WHOQOL-BREF** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação da qualidade de vida
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder WHOQOL-BREF Online**](https://econsult.app.br/teste-psicologico/whoqol-bref)
+
+> Ideal para psicólogos, psiquiatras, médicos, fisioterapeutas, terapeutas ocupacionais, enfermeiros, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **World Health Organization Quality of Life – Bref (WHOQOL-BREF)**, instrumento desenvolvido pela Organização Mundial da Saúde (OMS) para avaliar a percepção da qualidade de vida nos domínios físico, psicológico, relações sociais e meio ambiente.
+
+---
+
 ## O verdadeiro valor do WHOQOL-BREF está no perfil multidimensional
 
 Uma pessoa pode apresentar:

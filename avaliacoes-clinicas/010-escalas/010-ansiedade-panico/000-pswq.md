@@ -130,6 +130,24 @@ Os resultados devem ser interpretados juntamente com a avaliação clínica real
 
 ---
 
+## Responda o PSWQ Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online do **PSWQ** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder PSWQ Online**](https://econsult.app.br/teste-psicologico/pswq)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **Penn State Worry Questionnaire (PSWQ)**, instrumento utilizado para avaliar a intensidade e a frequência da preocupação excessiva, característica comum do transtorno de ansiedade generalizada (TAG).
+
+---
+
 ## O verdadeiro valor do PSWQ está na evolução dos resultados
 
 Uma única aplicação mostra apenas o nível atual de preocupação do paciente.

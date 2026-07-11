@@ -72,7 +72,7 @@ export default function HomepagePortalPaths() {
 
             <h3 className={styles.cardTitle}>Gestão de Consultório</h3>
 
-            <p className={styles.cardText}>Aprofunde seu raciocínio clínico com conteúdos sobre acompanhamento longitudinal e organização da prática.</p>
+            <p className={styles.cardText}>Aprenda a organizar seu consultório com conteúdos sobre agenda, financeiro, produtividade, comunicação com pacientes e crescimento sustentável da prática.</p>
 
             <Link to="/gestao-consultorio" className={styles.link}>
               Explorar conteúdos →
