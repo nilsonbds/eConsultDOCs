@@ -15,7 +15,7 @@ keywords:
 
 # PANAS: Escala Completa em PDF, Pontuação e Interpretação
 
-A **PANAS (Positive and Negative Affect Schedule)** é uma das escalas mais utilizadas para avaliar o estado emocional de uma pessoa, medindo separadamente os níveis de **afeto positivo** e **afeto negativo**. :contentReference[oaicite:0]{index=0}
+A **PANAS (Positive and Negative Affect Schedule)** é uma das escalas mais utilizadas para avaliar o estado emocional de uma pessoa, medindo separadamente os níveis de **afeto positivo** e **afeto negativo**.
 
 Desenvolvida por Watson, Clark e Tellegen, a escala é amplamente utilizada em psicologia clínica, psicologia positiva, saúde mental e pesquisas sobre bem-estar psicológico.
 
@@ -86,7 +86,7 @@ A escala permite compreender:
 
 ## Como funciona a pontuação?
 
-A versão utilizada possui 20 itens divididos em dois fatores. :contentReference[oaicite:1]{index=1}
+A versão utilizada possui 20 itens divididos em dois fatores.
 
 ### Afeto Positivo
 
@@ -339,7 +339,8 @@ Normalmente entre 3 e 5 minutos.
 
 Sim. Você pode disponibilizar a escala para download neste artigo.
 
-:::tip Veja também outras escalas de bem-estar:
+:::tip
+### Veja também outras escalas de bem-estar:
 
 👉 [**MAAS**: Escala Completa em PDF, Pontuação e Interpretação](../../010-escalas/090-bem-estar/000-maas.md)
 

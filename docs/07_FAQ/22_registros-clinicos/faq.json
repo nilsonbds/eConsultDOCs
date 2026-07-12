@@ -37,35 +37,35 @@
   {
     "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
     "pergunta": "A inteligência artificial pode ajudar na elaboração do SOAP?",
-    "resposta": "Sim. A inteligência artificial do eConsult pode auxiliar na elaboração, melhoria ou expansão das anotações clínicas em formato SOAP, sempre como ferramenta de apoio à escrita e à organização do conteúdo, sem substituir o julgamento clínico do profissional. :contentReference[oaicite:0]{index=0}",
+    "resposta": "Sim. A inteligência artificial do eConsult pode auxiliar na elaboração, melhoria ou expansão das anotações clínicas em formato SOAP, sempre como ferramenta de apoio à escrita e à organização do conteúdo, sem substituir o julgamento clínico do profissional.",
     "categoria": "Registros Clínicos",
     "public": true
   },
   {
     "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
     "pergunta": "As anotações clínicas fazem parte do prontuário do paciente?",
-    "resposta": "Depende da decisão do profissional. As anotações podem ser mantidas como uso interno ou, quando publicadas, passam a integrar o prontuário do paciente e se tornam parte permanente do histórico clínico. :contentReference[oaicite:1]{index=1}",
+    "resposta": "Depende da decisão do profissional. As anotações podem ser mantidas como uso interno ou, quando publicadas, passam a integrar o prontuário do paciente e se tornam parte permanente do histórico clínico.",
     "categoria": "Registros Clínicos",
     "public": true
   },
   {
     "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
     "pergunta": "Posso controlar se a anotação será visível para o paciente?",
-    "resposta": "Sim. Ao criar uma anotação, o profissional pode marcar a opção de visibilidade para o paciente. Quando não marcada, a anotação permanece apenas para uso interno, preservando o espaço técnico do profissional. :contentReference[oaicite:2]{index=2}",
+    "resposta": "Sim. Ao criar uma anotação, o profissional pode marcar a opção de visibilidade para o paciente. Quando não marcada, a anotação permanece apenas para uso interno, preservando o espaço técnico do profissional.",
     "categoria": "Registros Clínicos",
     "public": true
   },
   {
     "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
     "pergunta": "Existe limite de anotações por atendimento?",
-    "resposta": "Não. O eConsult permite incluir quantas anotações forem necessárias em cada atendimento, oferecendo liberdade para documentar o processo clínico de forma completa e progressiva. :contentReference[oaicite:3]{index=3}",
+    "resposta": "Não. O eConsult permite incluir quantas anotações forem necessárias em cada atendimento, oferecendo liberdade para documentar o processo clínico de forma completa e progressiva.",
     "categoria": "Registros Clínicos",
     "public": true
   },
   {
     "more_details_url": "https://documents.econsult.app.br/docs/funcionalidades/atendimentos/anotacoes",
     "pergunta": "Posso editar ou excluir uma anotação depois de criada?",
-    "resposta": "Sim. As anotações podem ser alteradas ou excluídas pelo profissional a qualquer momento, permitindo ajustes e correções conforme a evolução do caso clínico. :contentReference[oaicite:4]{index=4}",
+    "resposta": "Sim. As anotações podem ser alteradas ou excluídas pelo profissional a qualquer momento, permitindo ajustes e correções conforme a evolução do caso clínico.",
     "categoria": "Registros Clínicos",
     "public": true
   },
