@@ -82,6 +82,22 @@ Cada dimensão gera uma média independente, permitindo identificar áreas espec
 | 2,25 – 2,99 | Estável            |
 | 3,00 – 4,00 | Piora clínica      |
 
+## Responda a EC-EDC Online Gratuitamente
+
+Prefere responder a escala em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-EDC** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação da direção da evolução clínica
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-EDC Online**](https://econsult.app.br/teste-psicologico/ec-edc)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Direção Clínica (EC-EDC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a análise longitudinal da evolução clínica ao longo do acompanhamento. Diferentemente de instrumentos focados em sintomas específicos, a EC-EDC permite identificar a direção do processo terapêutico, observando tendências de melhora, estabilidade ou piora em diferentes dimensões clínicas, auxiliando na tomada de decisões e no planejamento das intervenções.
+
 ## Como visualizar a EC-EDC no eConsult?
 
 O eConsult apresenta os resultados em formato longitudinal, permitindo acompanhar tendências clínicas ao longo do tempo.

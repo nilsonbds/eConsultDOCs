@@ -173,6 +173,24 @@ Quanto maior a pontuação, maior o risco potencial de abandono naquele domínio
 
 ---
 
+## Responda a EC-ERA Online Gratuitamente
+
+Prefere responder a escala em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-ERA** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do risco de abandono
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-ERA Online**](https://econsult.app.br/teste-psicologico/ec-era)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Risco de Abandono (EC-ERA)** é um instrumento assistivo desenvolvido pelo **eConsult** para auxiliar na identificação precoce de sinais associados à interrupção do processo terapêutico. Seu objetivo é apoiar a observação estruturada de fatores que podem aumentar o risco de abandono do acompanhamento, permitindo intervenções preventivas que favoreçam a continuidade do tratamento e fortaleçam a adesão terapêutica.
+
+---
+
 ## O verdadeiro valor da EC-ERA está na identificação precoce
 
 Na prática clínica, o abandono raramente acontece de forma abrupta.

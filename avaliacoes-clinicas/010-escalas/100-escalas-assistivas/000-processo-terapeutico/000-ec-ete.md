@@ -169,6 +169,24 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ---
 
+## Responda a EC-ETE Online Gratuitamente
+
+Prefere responder a escala em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-ETE** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-ETE Online**](https://econsult.app.br/teste-psicologico/ec-ete)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Engajamento Terapêutico (EC-ETE)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal do engajamento da pessoa atendida no processo terapêutico, auxiliando na identificação da adesão ao tratamento e da evolução do vínculo terapêutico ao longo do acompanhamento clínico.
+
+---
+
 ## O verdadeiro valor da EC-ETE está na análise longitudinal
 
 O engajamento terapêutico raramente é estático.

@@ -174,6 +174,24 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ---
 
+## Responda a EC-ERE Online Gratuitamente
+
+Prefere responder a escala em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-ERE** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do nível de regulação emocional
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-ERE Online**](https://econsult.app.br/teste-psicologico/ec-ere)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Regulação Emocional (EC-ERE)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de reconhecer, compreender, modular e lidar com suas emoções de forma adaptativa. Diferentemente das escalas psicológicas tradicionais, a EC-ERE não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o reconhecimento, a modulação e a expressão emocional, bem como sobre as estratégias utilizadas para lidar com estados emocionais difíceis ao longo do processo terapêutico.
+
+---
+
 ## O verdadeiro valor da EC-ERE está na análise longitudinal
 
 A regulação emocional é um processo dinâmico e influenciado por fatores internos e externos.

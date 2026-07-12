@@ -171,6 +171,24 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ---
 
+## Responda a EC-ERF Online Gratuitamente
+
+Prefere responder a escala em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-ERF** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-ERF Online**](https://econsult.app.br/teste-psicologico/ec-erf)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala eConsult de Evolução da Responsividade às Intervenções (EC-ERF)** é um instrumento assistivo desenvolvido para avaliar a responsividade da pessoa atendida às intervenções terapêuticas ao longo do processo clínico, auxiliando na identificação da evolução do tratamento e apoiando a tomada de decisão baseada em evidências.
+
+---
+
 ## O verdadeiro valor da EC-ERF está na análise longitudinal
 
 A responsividade ao tratamento raramente ocorre de forma linear.

@@ -170,6 +170,24 @@ Quanto maior a pontuação, maior o nível de atenção clínica recomendado naq
 
 ---
 
+## Responda a EC-ERC Online Gratuitamente
+
+Prefere responder a escala em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-ERC** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do nível de risco clínico
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-ERC Online**](https://econsult.app.br/teste-psicologico/ec-erc)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Risco Clínico Dinâmico (EC-ERC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a observação estruturada e o monitoramento longitudinal de fatores associados ao risco clínico. Seu objetivo é auxiliar na identificação precoce de mudanças relevantes no estado clínico da pessoa atendida, favorecendo intervenções oportunas, a revisão do plano terapêutico e um acompanhamento mais seguro ao longo do processo de cuidado.
+
+---
+
 ## O verdadeiro valor da EC-ERC está no acompanhamento longitudinal
 
 Em muitos casos, o risco clínico não surge de forma abrupta.

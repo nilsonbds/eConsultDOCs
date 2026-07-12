@@ -176,6 +176,24 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ---
 
+## Responda a EC-EFC Online Gratuitamente
+
+Prefere responder a escala em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-EFC** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do nível de flexibilidade cognitiva
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-EFC Online**](https://econsult.app.br/teste-psicologico/ec-efc)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Flexibilidade Cognitiva (EC-EFC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de revisar crenças, adaptar pensamentos, considerar novas perspectivas e modificar padrões de comportamento diante de novas informações ou demandas. Diferentemente das escalas psicológicas tradicionais, a EC-EFC não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o grau de flexibilidade ou rigidez cognitiva observado ao longo do processo terapêutico.
+
+---
+
 ## O verdadeiro valor da EC-EFC está na análise longitudinal
 
 A flexibilidade cognitiva tende a se desenvolver gradualmente ao longo do processo terapêutico.

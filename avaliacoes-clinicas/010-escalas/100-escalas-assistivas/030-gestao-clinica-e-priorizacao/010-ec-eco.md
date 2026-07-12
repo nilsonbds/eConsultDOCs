@@ -174,6 +174,24 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar q
 
 ---
 
+## Responda a EC-ECO Online Gratuitamente
+
+Prefere responder a escala em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-ECO** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do nível de complexidade do caso
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-ECO Online**](https://econsult.app.br/teste-psicologico/ec-eco)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Complexidade do Caso (EC-ECO)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da complexidade global dos casos acompanhados em contexto clínico. Diferentemente das escalas psicológicas tradicionais, a EC-ECO não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada dos fatores clínicos, funcionais e psicossociais que influenciam a complexidade do caso e auxiliando no planejamento, na priorização das intervenções e no acompanhamento da evolução terapêutica.
+
+---
+
 ## O verdadeiro valor da EC-ECO está na análise longitudinal
 
 A complexidade de um caso pode variar significativamente ao longo do acompanhamento.

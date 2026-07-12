@@ -174,6 +174,24 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ---
 
+## Responda a EC-EAF Online Gratuitamente
+
+Prefere responder a escala em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-EAF** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do nível de autonomia funcional
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-EAF Online**](https://econsult.app.br/teste-psicologico/ec-eaf)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Autonomia Funcional (EC-EAF)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de conduzir sua rotina, tomar decisões e sustentar seu funcionamento cotidiano com independência. Diferentemente das escalas psicológicas tradicionais, a EC-EAF não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o nível de autonomia funcional observado ao longo do acompanhamento clínico.
+
+---
+
 ## O verdadeiro valor da EC-EAF está na análise longitudinal
 
 A autonomia funcional raramente permanece estática ao longo do processo terapêutico.

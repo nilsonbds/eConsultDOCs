@@ -171,6 +171,24 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ---
 
+## Responda a EC-EAC Online Gratuitamente
+
+Prefere responder a escala em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-EAC** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do nível de aderência às intervenções
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-EAC Online**](https://econsult.app.br/teste-psicologico/ec-eac)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Aderência às Intervenções (EC-EAC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da forma como a pessoa atendida compreende, executa e mantém as intervenções propostas ao longo do processo terapêutico. Diferentemente das escalas psicológicas tradicionais, a EC-EAC não avalia sintomas nem estabelece diagnósticos, oferecendo ao profissional uma leitura estruturada sobre o nível de aderência às estratégias, orientações e tarefas discutidas durante o acompanhamento clínico.
+
+---
+
 ## O verdadeiro valor da EC-EAC está na análise longitudinal
 
 A aderência às intervenções raramente permanece estável durante todo o processo terapêutico.

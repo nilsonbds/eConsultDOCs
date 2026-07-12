@@ -82,6 +82,22 @@ Cada dimensão recebe uma classificação independente, permitindo identificar e
 | 2,25 – 2,99 | Consolidação inicial      |
 | 3,00 – 4,00 | Consolidação ausente      |
 
+## Responda a EC-EPT Online Gratuitamente
+
+Prefere responder a escala em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-EPT** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do estágio terapêutico
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-EPT Online**](https://econsult.app.br/teste-psicologico/ec-ept)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Estágio do Processo Terapêutico (EC-EPT)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a identificação do momento atual da pessoa atendida dentro do processo terapêutico. A escala permite acompanhar a progressão do caso desde a construção inicial do vínculo até fases mais avançadas de autonomia e consolidação dos ganhos terapêuticos, auxiliando no planejamento e na tomada de decisões clínicas ao longo do acompanhamento.
+
 ## Como visualizar a EC-EPT no eConsult?
 
 O eConsult apresenta os resultados da escala em formato longitudinal, permitindo acompanhar a evolução do processo terapêutico ao longo do tempo.
