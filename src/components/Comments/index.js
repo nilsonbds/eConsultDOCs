@@ -174,7 +174,7 @@ export default function Comments({ postId }) {
                     onMouseOver={(e) => (e.target.style.backgroundColor = '#0c423cff')}
                     onMouseOut={(e) => (e.target.style.backgroundColor = 'darkcyan')}
                 >
-                    🚀 TESTE GRÁTIS
+                    🚀 CONTA GRÁTIS
                 </a>
             </div>
         </div>
