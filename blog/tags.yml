@@ -294,3 +294,11 @@ documentacao-clinica:
     Conteúdos sobre registros clínicos em psicologia, prontuários,
     evoluções, método SOAP, relatórios, pareceres e boas práticas
     de documentação profissional.
+
+marcadores-clinicos:
+  label: Marcadores Clínicos
+  permalink: /marcadores-clinicos
+  description: >
+    Conteúdos sobre uso de marcadores clínicos para acompanhar aspectos
+    relevantes do processo terapêutico, visualizar mudanças ao longo do tempo
+    e apoiar a análise longitudinal da evolução do paciente.
