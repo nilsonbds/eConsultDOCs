@@ -135,21 +135,21 @@
   {
     "more_details_url": "/docs/funcionalidades/conta/assinatura",
     "pergunta": "O eConsult é gratuito?",
-    "resposta": "O eConsult oferece um período de avaliação gratuito de 30 dias. Após esse prazo, você pode escolher um plano pago de acordo com seu perfil de uso.",
+    "resposta": "Sim. O eConsult oferece o plano FREE gratuitamente sem prazo de expiração. o plano inclui todas as funcionalidades necessárias para gestão de um consultório sem limite de agendas ou cadastros.",
     "categoria": "Licenciamento e planos",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/conta/assinatura",
     "pergunta": "Quais são os planos disponíveis?",
-    "resposta": "O eConsult possui planos graduais (Trial, Pro, Plus e Premium), pensados para diferentes níveis de necessidade — do uso individual ao uso mais avançado com recursos adicionais.",
+    "resposta": "O eConsult possui planos graduais (Free, Pro, Plus e Premium), pensados para diferentes níveis de necessidade — do uso individual ao uso mais avançado com recursos adicionais.",
     "categoria": "Licenciamento e planos",
     "public": true
   },
   {
     "more_details_url": "/docs/iniciando/nova-conta",
     "pergunta": "Como faço para assinar o eConsult?",
-    "resposta": "Acesse o site oficial e clique em “Criar conta” ou Conta grátis”. Após o cadastro, você utiliza 30 dias de avaliação e, ao final do período, escolhe o plano desejado diretamente na sua conta.",
+    "resposta": "Acesse o site oficial e clique em “Criar conta” ou Conta grátis”. Após o cadastro, você recebe gratuitamente a versão FREE e, a qualquer momento, você pode escolher um plano desejado diretamente na sua conta.",
     "categoria": "Licenciamento e planos",
     "public": true
   },

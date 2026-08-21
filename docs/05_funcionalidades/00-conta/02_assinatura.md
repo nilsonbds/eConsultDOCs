@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Assinatura
 
-Ao criar uma nova conta no eConsult, você recebe automaticamente a assinatura **TRIAL**.
+Ao criar uma nova conta no eConsult, você recebe automaticamente a assinatura **FREE**.
 
-Uma assinatura TRIAL oferece um período de teste gratuito por tempo limitado. Esse tipo de assinatura permite que os usuários experimentem todas as funcionalidades do produto antes de decidir pela compra de uma assinatura paga.
+Uma assinatura FREE oferece funcionalidades suficientes para uma boa gestão do consultório por tempo ilimitado. Esse tipo de assinatura permite que os usuários experimentem as funcionalidades fundamentais do produto antes de decidir pela compra de uma assinatura paga.
 
 Para adquirir ou ver informações de suas assinaturas, acesse a opção correspondente a **Assinatura** no menu **Conta**, localizada no canto superior direito da tela.
 
@@ -16,17 +16,13 @@ Na tela **Assinatura** é possível ver informações da sua assinatura atual e 
 
 ![Painel Conta](../../../static/img/prints/02_assinatura-002.png)
 
-:::note Vantagens da Assinatura TRIAL
-- **Teste Completo:** Permite que os usuários explorem todas as funcionalidades do eConsult (menos cadastro e gestão de cashbacks e assistentes), ajudando a determinar se ele atende às suas necessidades.
-- **Sem Compromisso Inicial:** Os usuários podem experimentar o produto sem a necessidade de um investimento financeiro imediato, reduzindo o risco de insatisfação.
-- **Facilidade de Decisão:** Ao utilizar a versão TRIAL, os usuários podem tomar uma decisão mais informada sobre a aquisição da assinatura paga.
-:::
 
-## Assinatura TRIAL
+
+## Assinatura FREE
 
 - **Cadastro:** O usuário cria uma conta no eConsult, fornecendo informações básicas (não são solicitadas informações de cartão de crédito).
-- **Período de teste:** O usuário tem acesso completo ao eConsult por um período de 30 dias.
-- **Conversão:** Ao final do período TRIAL, o usuário pode optar por adquirir um plano de assinatura paga que melhor se adapte para continuar utilizando o sistema.
+- **Versão FREE:** O usuário tem acesso completo a versão FREE do eConsult por tempo indeterminado.
+- **Conversão:** O usuário pode, a qualquer tempo, optar por um plano de assinatura pago que melhor se adapte as suas necessidades.
 
 ## Assinaturas Pagas PRO, PLUS e PREMIUM
 

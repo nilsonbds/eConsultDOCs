@@ -37,14 +37,14 @@
   {
     "more_details_url": "/docs/funcionalidades/conta/assinatura",
     "pergunta": "Como gerenciar minha assinatura do eConsult?",
-    "resposta": "Acesse Conta > Assinatura. Lá você pode visualizar o tipo de plano atual (TRIAL, PRO, PLUS ou PREMIUM), alterar o plano, efetuar pagamento via PIX e acompanhar a validade da sua assinatura.",
+    "resposta": "Acesse Conta > Assinatura. Lá você pode visualizar o tipo de plano atual (FREE, PRO, PLUS ou PREMIUM), alterar o plano, efetuar pagamento via PIX e acompanhar a validade da sua assinatura.",
     "categoria": "Contas, Perfil e Acessos",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/conta/assinatura",
-    "pergunta": "O que é a assinatura TRIAL do eConsult?",
-    "resposta": "A assinatura TRIAL é um período gratuito de 30 dias que permite explorar todas as funcionalidades do eConsult sem precisar informar dados de pagamento. Após o término, é possível migrar para um plano pago mantendo os dados da conta.",
+    "pergunta": "O que é a assinatura FREE do eConsult?",
+    "resposta": "A assinatura FREE é uma versão do eConsult que você recebe gratuitamente no ato do cadastro. Ela tem todas as funcionalidades necessárias para uma boa gestão do consultório sem precisar informar dados de pagamento. A qualquer momento, é possível migrar para um plano pago mantendo os dados da conta ou retornar para a versão FREE.",
     "categoria": "Contas, Perfil e Acessos",
     "public": true
   },
@@ -100,7 +100,7 @@
   {
     "more_details_url": "/docs/funcionalidades/conta/assistentes",
     "pergunta": "Quais planos permitem o uso de assistentes?",
-    "resposta": "A funcionalidade de assistentes está disponível apenas nos planos PLUS e PREMIUM. Planos FREE, TRIAL e PRO não incluem essa função.",
+    "resposta": "A funcionalidade de assistentes está disponível apenas nos planos PLUS e PREMIUM. Planos FREE e PRO não incluem essa função.",
     "categoria": "Contas, Perfil e Acessos",
     "public": true
   },

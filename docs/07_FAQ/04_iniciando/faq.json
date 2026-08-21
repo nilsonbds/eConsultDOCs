@@ -2,14 +2,14 @@
   {
     "more_details_url": "/docs/iniciando/nova-conta",
     "pergunta": "Como criar uma nova conta no eConsult?",
-    "resposta": "Para criar sua conta, acesse https://econsult.app.br/psicologia, preencha nome e e-mail e clique em 'Criar minha conta'. Você receberá um código de acesso por e-mail para validar o cadastro e criar sua senha. O processo leva menos de dois minutos e oferece teste gratuito por 30 dias sem necessidade de cartão de crédito.",
+    "resposta": "Para criar sua conta, acesse https://econsult.app.br/psicologia, preencha nome e e-mail e clique em 'Criar minha conta'. Você receberá um código de acesso por e-mail para validar o cadastro e criar sua senha. O processo leva menos de dois minutos e oferece a versão FREE do eConsult que tem funicionalidades suficientes para uma gestão de consultório. Sem limites de cadastros ou agendamentos e sem necessidade de cartão de crédito.",
     "categoria": "Iniciando (primeiros passos)",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "É necessário cartão de crédito para criar a conta?",
-    "resposta": "Não. O eConsult oferece um período de teste gratuito de 30 dias sem exigir cartão de crédito ou qualquer dado financeiro.",
+    "resposta": "Não. O eConsult oferece uma versão FREE com funcionalidades suficientes para uma boa gestão de consultório sem exigir cartão de crédito ou qualquer dado financeiro.",
     "categoria": "Iniciando (primeiros passos)",
     "public": true
   },

@@ -6,7 +6,7 @@ sidebar_position: 0
 
 Abrir sua conta no eConsult é rápido, seguro e o primeiro passo para aproveitar todos os recursos da nossa plataforma.
 
-- ✅ Teste gratuito por 30 dias — sem compromisso e sem necessidade de cartão de crédito.
+- ✅ Versão FREE — sem compromisso e sem necessidade de cartão de crédito.
 
 - 🔒 Seus dados estão protegidos de acordo com nossa Política de Privacidade.
 
@@ -48,7 +48,7 @@ Experimente o eConsult gratuitamente e descubra como simplificar a gestão dos s
 - **Acesso Personalizado:** Ter uma conta permite acessar funcionalidades personalizadas e salvar suas preferências.
 - **Segurança:** Contas protegidas por senha garantem que apenas você tenha acesso às suas informações.
 - **Comunicação Direta:** Facilita a comunicação direta com o serviço, recebendo notificações e atualizações importantes.
-- **Teste grátis por 30 dias:** Você ganha a assinatura TRIAL para usar por 30 dias sem compromisso
+- **Versão FREE:** Você ganha a assinatura FREE para usar por por tempo indeterminado sem custos, sem limite de agendas e sem limite de cadastros.
 - **Sem cartão de crédito:** O eConsult em nenhum momento solicita dados de cartão de crédito.
 - **Seus dados estão protegidos:** o eConsult adota os mais altos padrões de segurança, com criptografia e tecnologias avançadas para garantir a confidencialidade das suas informações.
 

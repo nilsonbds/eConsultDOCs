@@ -87,7 +87,7 @@ export default function HomepageFinalCta(props) {
           </div>
 
           <p className={styles.microcopy}>
-            Comece agora com 30 dias grátis • Sem compromisso
+            Comece agora mesmo • É grátis • Sem compromisso
           </p>
         </div>
       </div>

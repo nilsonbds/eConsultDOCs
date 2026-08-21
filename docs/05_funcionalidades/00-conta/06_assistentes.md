@@ -17,10 +17,6 @@ Para convidar assistentes, acesse a opção correspondente a **Assistentes** no 
 
 ![Painel Conta](../../../static/img/prints/06_assistentes-001.png)
 
-:::warning
-As assinaturas FREE, TRIAL e PRO não inclui esta funcionalidade. Ela está disponível apenas nos planos PLUS e PREMIUM.
-:::
-
 ## Convidar um assistente
 
 1. Acione a opção **Novo Assistente** ![Painel Conta](../../../static/img/prints/buttons/btn_add.png).

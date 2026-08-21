@@ -167,9 +167,9 @@ Utilizando IA, você terá uma experiência intuitiva e eficiente, facilitando a
 
 Os limites de uso da IA em anotações clínicas variam conforme o plano contratado:
 
-| **Recurso** | **Trial** | **Pro** | **Plus** | **Premium** |
+| **Recurso** | **Free** | **Pro** | **Plus** | **Premium** |
 |------------|----------|--------|---------|------------|
-| Anotações clínicas por IA | 22/mês | 0 | 176/mês | Ilimitado |
+| Anotações clínicas por IA | 0 | 0 | 176/mês | Ilimitado |
 
 :::warning **Importante:**
 - Se você atingir o limite mensal, a IA será temporariamente desativada até o início do próximo mês, quando o saldo de tokens será renovado automaticamente.

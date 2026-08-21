@@ -149,14 +149,14 @@ A IA também atua na dimensão analítica da prática:
 
 Os limites variam conforme o plano contratado:
 
-| **Recurso** | **Trial** | **Pro** | **Plus** | **Premium** |
+| **Recurso** | **Free** | **Pro** | **Plus** | **Premium** |
 |------------|----------|--------|---------|------------|
-| Anotações assistidas por IA | 22/mês | 0 | 176/mês | Ilimitado |
-| Análises mensais e anuais | 1 de cada | 0 | 3 de cada | Ilimitado |
-| Hipóteses diagnósticas | Até 10/mês | 0 | Até 20/mês | Ilimitado |
-| Hipóteses prognósticas | Até 10/mês | 0 | Até 20/mês | Ilimitado |
-| Planos terapêuticos | Até 10/mês | 0 | Até 20/mês | Ilimitado |
-| Evoluções assistidas | Até 10/mês | 0 | Até 20/mês | Ilimitado |
+| Anotações assistidas por IA | 0 | 0 | 176/mês | Ilimitado |
+| Análises mensais e anuais | 0 | 0 | 3 de cada | Ilimitado |
+| Hipóteses diagnósticas | 0 | 0 | Até 20/mês | Ilimitado |
+| Hipóteses prognósticas | 0 | 0 | Até 20/mês | Ilimitado |
+| Planos terapêuticos | 0 | 0 | Até 20/mês | Ilimitado |
+| Evoluções assistidas | 0 | 0 | Até 20/mês | Ilimitado |
 
 :::tip  
 Ao integrar sua própria conta da OpenAI, os limites passam a depender dos créditos contratados diretamente pelo profissional.  

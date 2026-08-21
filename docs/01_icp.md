@@ -223,7 +223,7 @@ Entre os recursos disponíveis:
 
 ## ⚡ Implantação simples e sem investimento inicial
 
-- período de teste gratuito  
+- plano FREE sem limites de cadastros ou agendamentos  
 - planos mensais flexíveis  
 - início imediato  
 - uso direto no navegador  

@@ -69,14 +69,14 @@ Além dos relatórios mensais, a IA também oferece uma análise anual com:
 
 O eConsult fornece IA com limitações definidas dentro do plano de assintura escolhida. Sendo:
 
-| **Recurso**                         | **Trial**      | **Pro** | **Plus**      | **Premium**   |
+| **Recurso**                         | **Free**      | **Pro** | **Plus**      | **Premium**   |
 |-------------------------------------|---------------|---------|--------------|--------------|
-| Anotações assistidas por IA        | 22/mês        | 0       | 176/mês      | Ilimitado    |
-| Análises mensais e anuais          | 1 de cada     | 0       | 3 de cada    | Ilimitado    |
-| Geração de hipóteses diagnósticas  | Até 10/mês    | 0       | Até 20/mês   | Ilimitado    |
-| Geração de hipóteses prognósticas  | Até 10/mês    | 0       | Até 20/mês   | Ilimitado    |
-| Geração de propostas de planos terapêuticos | Até 10/mês    | 0       | Até 20/mês   | Ilimitado    |
-| Geração de propostas de evoluções de tratamento | Até 10/mês    | 0       | Até 20/mês   | Ilimitado    |
+| Anotações assistidas por IA        | 0       | 0       | 176/mês      | Ilimitado    |
+| Análises mensais e anuais          | 0     | 0       | 3 de cada    | Ilimitado    |
+| Geração de hipóteses diagnósticas  | 0    | 0       | Até 20/mês   | Ilimitado    |
+| Geração de hipóteses prognósticas  | 0   | 0       | Até 20/mês   | Ilimitado    |
+| Geração de propostas de planos terapêuticos | 0   | 0       | Até 20/mês   | Ilimitado    |
+| Geração de propostas de evoluções de tratamento | 0    | 0       | Até 20/mês   | Ilimitado    |
 
 ## Utilizando a integração eConsult com a sua conta na OpenAI
 
