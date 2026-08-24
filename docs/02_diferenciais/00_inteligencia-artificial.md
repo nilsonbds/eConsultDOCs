@@ -159,7 +159,8 @@ Os limites variam conforme o plano contratado:
 | Evoluções assistidas | 0 | 0 | Até 20/mês | Ilimitado |
 
 :::tip  
-Ao integrar sua própria conta da OpenAI, os limites passam a depender dos créditos contratados diretamente pelo profissional.  
+Os limites acima se referem ao uso da IA fornecida pelo eConsult, sem integração com uma conta própria.
+Ao integrar sua conta OpenAI, o uso da IA torna-se ilimitado nos planos PRO e PLUS. 
 :::
 
 ---

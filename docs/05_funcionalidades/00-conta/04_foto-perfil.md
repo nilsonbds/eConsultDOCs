@@ -23,22 +23,16 @@ O sistema mostrará a tela **Foto de Perfil**.
 
 ## Incluir foto de perfil
 
-1. Acione a opção **Escolher Arquivo** ![Painel Conta](../../../static/img/prints/buttons/btn_escolher-arquivo.png).
+1. Acione a opção **Escolher Imagem**.
 
 2. Selecione um arquivo de imagem do seu dispositivo.
 
-3. Clique no botão **Enviar** ![Painel Conta](../../../static/img/prints/buttons/btn_enviar.png).
+3. Clique no botão **Salvar Imagem**.
 
 ## Alterar foto de perfil
 
-1. Acione o botão **Alterar** ![Painel Conta](../../../static/img/prints/buttons/btn_alterar.png).
+1. Acione o botão **Alterar Imagem**.
 
-2. Acione a opção **Escolher Arquivo** ![Painel Conta](../../../static/img/prints/buttons/btn_escolher-arquivo.png).
+2. Selecione um arquivo de imagem do seu dispositivo.
 
-3. Selecione um arquivo de imagem do seu dispositivo.
-
-4. Clique no botão **Enviar** ![Painel Conta](../../../static/img/prints/buttons/btn_enviar.png).
-
-:::warning   
-Só é permitido imagens no formato **"jpg"**. A imagem deve ter o formato **quadrado** e não pode ultrapassar **60kb**!
-:::
+4. Clique no botão **Salvar Imagem**.

@@ -29,18 +29,3 @@ Para alteração de seus dados gerais, acesse a opção correspondente a **Dados
 - **Notificação de Mudanças:** Informe imediatamente qualquer mudança de telefone ou e-mail.
 - **Segurança dos Dados:** Utilize senhas fortes.
 :::
-
-:::note
-Você pode ainda, nofinal desta aba, acessar as opções:
-- [**Exportar Dados da Conta**](/docs/funcionalidades/conta/exportar-conta) 
-
-    ![Conta](../../../static/img/prints/buttons/exportar_dados_gerais_da_conta.png)
-
-- [**Excluir Conta**](/docs/funcionalidades/conta/excluir-conta) 
-
-    ![Conta](../../../static/img/prints/buttons/excluir_conta.png)
-
-- [**Importar Dados de Conta**](/docs/funcionalidades/conta/importar-conta) 
-
-    ![Conta](../../../static/img/prints/buttons/restaurar_dados_da_conta.png)
-:::

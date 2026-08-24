@@ -16,24 +16,18 @@ O sistema mostrará a tela **Logotipo**.
 
 ![Painel Conta](../../../static/img/prints/05_logotipo-002.png)
 
-## Incluir logotipo
+## Incluir Logotipo
 
-1. Acione a opção **Escolher Arquivo** ![Painel Conta](../../../static/img/prints/buttons/btn_escolher-arquivo.png).
+1. Acione a opção **Escolher Logotipo**.
 
-2. Selecione um arquivo de imagem do seu dispositivo.
+2. Selecione um arquivo do logotipo do seu dispositivo.
 
-3. Clique no botão **Enviar** ![Painel Conta](../../../static/img/prints/buttons/btn_enviar.png).
+3. Clique no botão **Salvar Logotipo**.
 
-## Alterar logotipo
+## Alterar Logotipo
 
-1. Acione o botão **Alterar** ![Painel Conta](../../../static/img/prints/buttons/btn_alterar.png).
+1. Acione o botão **Alterar Logotipo**.
 
-2. Acione a opção **Escolher Arquivo** ![Painel Conta](../../../static/img/prints/buttons/btn_escolher-arquivo.png).
+2. Selecione um arquivo do logotipo do seu dispositivo.
 
-3. Selecione um arquivo de imagem do seu dispositivo.
-
-4. Clique no botão **Enviar** ![Painel Conta](../../../static/img/prints/buttons/btn_enviar.png).
-
-:::warning   
-Só é permitido imagens no formato **"jpg"**. A imagem não pode ultrapassar **150kb**!
-:::
+4. Clique no botão **Salvar Logotipo**.
