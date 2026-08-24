@@ -4,9 +4,11 @@ sidebar_position: 2
 
 # Como funciona o eConsult
 
-O eConsult foi desenvolvido para ajudar profissionais da saúde a organizar atendimentos, registrar informações clínicas, acompanhar a evolução das pessoas atendidas e construir prontuários de forma contínua e estruturada.
+O eConsult foi desenvolvido para ajudar profissionais da saúde a organizar sua rotina profissional e acompanhar todo o processo de atendimento em um único ambiente.
 
-Mais do que um sistema de registros isolados, o eConsult conecta informações ao longo do tempo para oferecer uma visão longitudinal do acompanhamento clínico.
+Na plataforma, você pode gerenciar agenda, pessoas atendidas, prontuário, registros clínicos, documentos, financeiro e evolução dos acompanhamentos.
+
+Mais do que armazenar registros isolados, o eConsult conecta informações ao longo do tempo para construir uma **visão longitudinal da trajetória clínica** de cada pessoa, casal, família ou grupo acompanhado.
 
 ![Diagrama mostrando como a evolução psicológica é construída ao longo do processo terapêutico, passando por sessão, registro clínico, SOAP, prontuário psicológico, evolução psicológica e acompanhamento longitudinal.](../static/img/pratica_clinica/como-evolucao-psicologica-e-construida.png)
 
@@ -14,253 +16,392 @@ Mais do que um sistema de registros isolados, o eConsult conecta informações a
 
 ---
 
-# Entenda a jornada clínica
+## Entenda a jornada clínica
 
-## 1. Cadastre o contexto de atendimento
+### 1. Cadastre o contexto de atendimento
 
 O primeiro passo é criar o contexto que será acompanhado.
 
 Você pode trabalhar com:
 
-* Atendimento Individual
-* Terapia de Casal
-* Terapia Familiar
-* Grupos Terapêuticos
+-   Atendimento Individual
+-   Terapia de Casal
+-   Terapia Familiar
+-   Grupos Terapêuticos
 
-Cada modalidade possui estrutura própria de acompanhamento, evolução clínica e prontuário.
+Cada modalidade possui sua própria estrutura de acompanhamento,
+permitindo organizar atendimentos, informações clínicas, financeiro,
+documentos e evolução ao longo do tempo.
 
----
-
-## 2. Organize seus atendimentos
+### 2. Organize seus atendimentos
 
 Após o cadastro, você poderá:
 
-* criar agendamentos
-* organizar sessões recorrentes
-* acompanhar frequência
-* estruturar sua rotina clínica
+-   criar agendamentos
+-   organizar sessões recorrentes
+-   acompanhar frequência
+-   registrar pagamentos
+-   controlar remarcações e desmarcações
+-   estruturar sua rotina profissional
 
-O sistema passa a consolidar todas as informações relacionadas ao acompanhamento.
+A partir daí, o eConsult passa a reunir as informações relacionadas ao
+acompanhamento em um único histórico.
 
----
+### 3. Registre cada atendimento
 
-## 3. Registre cada atendimento
+Durante ou após as sessões, você pode registrar:
 
-Durante ou após as sessões, registre:
+-   observações clínicas
+-   anotações profissionais
+-   informações relevantes
+-   registros estruturados
+-   evoluções
+-   anotações no formato SOAP
 
-* observações clínicas
-* anotações profissionais
-* informações relevantes
-* registros estruturados
+Esses registros permanecem vinculados ao acompanhamento e ajudam a
+construir progressivamente o prontuário.
 
-Os registros ficam organizados e acessíveis ao longo de toda a trajetória clínica.
+### 4. Utilize marcadores clínicos
 
----
+Os marcadores clínicos funcionam como pontos de observação que ajudam a
+estruturar aspectos relevantes percebidos ao longo das sessões.
 
-## 4. Utilize marcadores clínicos
+Você poderá acompanhar elementos relacionados a:
 
-Os marcadores clínicos ajudam a transformar observações em informações estruturadas.
+-   evolução clínica
+-   engajamento
+-   fatores de risco
+-   fatores de proteção
+-   prioridades terapêuticas
+-   padrões observados
 
-Você poderá acompanhar aspectos como:
+Os marcadores não substituem o registro clínico. Eles complementam as
+anotações e facilitam a identificação de mudanças e recorrências ao
+longo do processo terapêutico.
 
-* evolução clínica
-* engajamento
-* fatores de risco
-* fatores de proteção
-* prioridades terapêuticas
-* padrões observados
+### 5. Acompanhe a evolução longitudinal
 
-Esses elementos enriquecem a análise clínica ao longo do tempo.
+À medida que os atendimentos e registros são realizados, o eConsult
+organiza o histórico do acompanhamento.
 
----
+Isso permite observar:
 
-## 5. Acompanhe a evolução longitudinal
+-   tendências clínicas
+-   mudanças de padrão
+-   recorrências
+-   períodos de melhora
+-   momentos críticos
+-   evolução do processo terapêutico
 
-À medida que os registros são realizados, o sistema organiza automaticamente o histórico do acompanhamento.
+Em vez de analisar cada sessão isoladamente, o profissional passa a ter
+uma visão mais ampla da trajetória da pessoa, casal, família ou grupo
+acompanhado.
 
-Você poderá visualizar:
+### 6. Construa o prontuário continuamente
 
-* tendências clínicas
-* mudanças de padrão
-* recorrências
-* períodos de melhora
-* momentos críticos
-* evolução do processo terapêutico
+No eConsult, o prontuário pode ser construído progressivamente ao longo
+do acompanhamento.
 
-O objetivo é facilitar uma compreensão mais ampla da trajetória da pessoa, casal, família ou grupo.
+As informações registradas durante os atendimentos passam a formar um
+histórico clínico organizado e contextualizado.
 
----
+O prontuário pode reunir:
 
-## 6. Construa o prontuário continuamente
+-   registros clínicos
+-   anotações SOAP
+-   evoluções
+-   marcadores clínicos
+-   documentos relacionados
+-   histórico dos atendimentos
 
-No eConsult, o prontuário é construído de forma progressiva.
+Assim, o prontuário deixa de ser apenas um registro pontual e passa a
+acompanhar a evolução do processo ao longo do tempo.
 
-As informações registradas durante os atendimentos passam a compor um histórico clínico organizado e contextualizado.
-
-O prontuário pode incluir:
-
-* registros clínicos
-* anotações SOAP
-* evoluções
-* marcadores clínicos
-* documentos relacionados
-
----
-
-## 7. Consolide e compartilhe informações
+### 7. Consolide e compartilhe informações
 
 Quando necessário, você poderá:
 
-* consolidar períodos clínicos
-* organizar documentos
-* gerar registros estruturados
-* compartilhar informações autorizadas
+-   consolidar períodos clínicos
+-   organizar documentos
+-   gerar registros estruturados
+-   gerar documentos a partir de modelos
+-   compartilhar informações autorizadas
 
-Tudo permanece vinculado ao histórico do acompanhamento.
+As informações permanecem relacionadas ao histórico do acompanhamento,
+facilitando sua recuperação e contextualização.
 
 ---
 
 ## Como a Inteligência Artificial auxilia
 
-A Inteligência Artificial atua como uma ferramenta de apoio ao profissional, auxiliando na organização, contextualização e análise das informações registradas ao longo do acompanhamento clínico.
+Nos planos que disponibilizam recursos de Inteligência Artificial, a IA
+atua como uma ferramenta de apoio ao profissional.
 
-Com base na anamnese, registros clínicos, evoluções, marcadores clínicos e avaliações realizadas, a IA pode auxiliar em:
+A partir das informações registradas no acompanhamento, ela pode
+auxiliar em atividades como:
 
-* estruturação e qualificação dos registros clínicos
-* organização e síntese das informações do prontuário
-* contextualização do histórico longitudinal do paciente
-* identificação de padrões e tendências clínicas
-* geração assistida de hipóteses diagnósticas e prognósticas
-* apoio à análise da evolução do tratamento
-* sugestões de direcionamentos para o plano terapêutico
+-   estruturação e qualificação dos registros clínicos
+-   organização e síntese das informações do prontuário
+-   contextualização do histórico longitudinal
+-   identificação de padrões e tendências
+-   geração assistida de hipóteses diagnósticas
+-   geração assistida de hipóteses prognósticas
+-   análise da evolução do tratamento
+-   elaboração assistida de hipóteses para o plano de tratamento
 
-As análises geradas possuem caráter assistivo e devem sempre ser avaliadas criticamente pelo profissional responsável, que mantém total autonomia sobre suas decisões clínicas e registros.
+A disponibilidade e os limites desses recursos dependem do plano
+utilizado.
 
-## Importante
+Também é possível, nos planos compatíveis, conectar uma conta OpenAI
+própria para utilização dos recursos de IA conforme as condições
+disponíveis para essa integração.
 
-A IA não substitui o julgamento profissional.
+::: note
+As análises produzidas por Inteligência Artificial possuem caráter
+assistivo.
 
-Toda decisão clínica permanece sob responsabilidade do profissional responsável pelo atendimento.
-
----
-
-# Segurança e controle profissional
-
-O eConsult foi desenvolvido para oferecer:
-
-* proteção de dados
-* rastreabilidade das informações
-* organização documental
-* continuidade do cuidado
-
-Os dados permanecem sob controle do profissional responsável.
+A IA não substitui avaliação, julgamento ou decisão profissional. O
+profissional responsável pelo atendimento mantém autonomia e
+responsabilidade sobre os registros e decisões clínicas.
+:::
 
 ---
 
-# Fluxo resumido
+## Segurança e controle profissional
 
-```text
-Cadastro
-↓
-Atendimentos
-↓
-Registros Clínicos
-↓
-Marcadores Clínicos
-↓
-Acompanhamento Longitudinal
-↓
+O eConsult foi desenvolvido para apoiar a organização e continuidade das
+informações relacionadas à prática profissional.
+
+A plataforma permite manter registros, documentos, atendimentos e
+informações clínicas organizados dentro do contexto de cada
+acompanhamento.
+
+O profissional mantém o controle sobre seus registros e sobre as
+informações disponibilizadas às pessoas atendidas.
+
+---
+
+## Fluxo resumido
+
+``` text
+Cadastro da pessoa, casal, família ou grupo
+        ↓
+Agendamentos e atendimentos
+        ↓
+Registros clínicos
+        ↓
+Marcadores clínicos
+        ↓
+Acompanhamento longitudinal
+        ↓
 Prontuário
-↓
-Consolidação e Compartilhamento
+        ↓
+Documentos e consolidação das informações
 ```
 
 ---
 
-# Como funciona a assinatura
+## Como funcionam os planos
 
-## Experimente gratuitamente
+### Comece gratuitamente
 
-Você pode começar utilizando o eConsult com um período de avaliação gratuito.
+Você pode começar a utilizar o eConsult pelo plano **FREE**, sem período
+de avaliação e sem prazo para acabar.
 
-Durante esse período, poderá explorar os principais recursos da plataforma e entender como ela se adapta à sua rotina clínica.
+Não é necessário cadastrar-se em um plano pago para continuar utilizando
+a plataforma.
+
+O FREE já permite organizar grande parte da rotina profissional e
+clínica, incluindo recursos como:
+
+-   agenda e gestão de atendimentos
+-   cadastro de indivíduos, casais, famílias e grupos terapêuticos
+-   prontuário eletrônico personalizável
+-   registros clínicos
+-   marcadores clínicos
+-   acompanhamento e visão longitudinal
+-   gestão financeira
+-   faturas e recibos
+-   controle de inadimplência
+-   documentos a partir de modelos
+-   dashboards, indicadores e relatórios
+
+Você pode permanecer no plano FREE pelo tempo que quiser.
+
+### Escolha o plano de acordo com sua necessidade
+
+O eConsult possui quatro planos:
+
+#### FREE - Para começar
+
+Permite utilizar gratuitamente os principais recursos de gestão do
+consultório e acompanhamento clínico.
+
+É uma opção para quem deseja organizar sua prática profissional no
+eConsult sem assumir uma assinatura paga.
+
+#### PRO - Gestão completa do consultório
+
+Além dos recursos disponíveis no FREE, acrescenta funcionalidades como:
+
+-   biblioteca de modelos personalizáveis de anamnese
+-   avaliações psicológicas integradas
+-   portal relacional para pessoas atendidas
+-   gestão de arquivos integrada ao Google Drive
+-   integrações com serviços externos
+-   envio de mensagens pelo WhatsApp
+-   gestão de modelos de documentos
+
+#### PLUS - Gestão completa com recursos avançados
+
+Inclui os recursos dos planos anteriores e amplia a utilização da
+plataforma com:
+
+-   cadastro e gestão de assistentes
+-   recursos de Inteligência Artificial incluídos no plano
+-   maior capacidade para automação e apoio à análise clínica
+
+#### PREMIUM - Operação avançada e IA ilimitada
+
+É o plano mais completo do eConsult.
+
+Além dos recursos dos demais planos, inclui:
+
+-   Inteligência Artificial sem os limites mensais dos planos inferiores
+-   transcrição de relato clínico em áudio
+-   emissão de notas fiscais por integração com Focus NFe
+-   recursos voltados a uma operação mais avançada do consultório
+
+### Avaliações psicológicas
+
+Os planos **PRO, PLUS e PREMIUM** incluem uma biblioteca com mais de 45
+escalas e instrumentos de acompanhamento integrados ao prontuário.
+
+Esses instrumentos podem ser utilizados de forma estruturada e seus
+resultados passam a fazer parte do acompanhamento longitudinal da pessoa
+atendida.
+
+### Inteligência Artificial
+
+Os recursos de Inteligência Artificial variam conforme o plano.
+
+O plano FREE não inclui recursos de IA.
+
+O PLUS disponibiliza uma quantidade mensal de utilizações de recursos
+assistidos por IA, enquanto o PREMIUM oferece utilização ilimitada
+desses recursos dentro das condições do plano.
+
+Nos planos PRO e PLUS, também é possível conectar opcionalmente uma
+conta OpenAI própria. Quando essa integração é utilizada, os limites da
+IA fornecida diretamente pelo eConsult deixam de ser aplicáveis ao uso
+realizado por meio da conta integrada.
+
+### Integrações
+
+Algumas funcionalidades do eConsult utilizam integrações com serviços
+externos.
+
+Dependendo do plano, podem estar disponíveis integrações com:
+
+-   Google Drive
+-   OpenAI
+-   Mercado Pago
+-   PIX
+-   Daily.co
+-   Focus NFe
+
+Alguns desses serviços podem possuir condições, configurações ou
+cobranças próprias, independentes da assinatura do eConsult.
 
 ---
 
-## Escolha o plano ideal
+## Compare os planos
 
-Após o período de avaliação, você poderá escolher o plano mais adequado ao seu momento profissional.
+Você não precisa contratar um plano pago para começar.
 
-Os planos podem variar conforme:
+Utilize o FREE e, quando surgir a necessidade de avaliações
+psicológicas, integrações, portal relacional, assistentes, Inteligência
+Artificial ou outros recursos avançados, escolha o plano mais adequado à
+sua rotina.
 
-* recursos disponíveis
-* volume de utilização
-* necessidades individuais ou de equipe
-
----
-
-## O que está incluído
-
-Dependendo do plano contratado, você terá acesso a um conjunto de ferramentas desenvolvidas para apoiar toda a jornada clínica, desde a organização dos atendimentos até o acompanhamento longitudinal da evolução das pessoas atendidas.
-
-Entre os recursos disponíveis estão:
-
-* **Prontuário eletrônico estruturado**, para registrar e organizar informações clínicas com segurança.
-* **Acompanhamento longitudinal**, permitindo visualizar a trajetória clínica ao longo do tempo e identificar padrões relevantes.
-* **Agenda e gestão de atendimentos**, com suporte à organização da rotina profissional.
-* **Documentos e relatórios clínicos**, gerados a partir das informações registradas durante o acompanhamento.
-* **Teleatendimento integrado**, possibilitando a realização de consultas remotas quando necessário.
-* **Portal da pessoa atendida**, facilitando o compartilhamento de informações e documentos autorizados.
-* **Recursos assistidos por Inteligência Artificial**, que auxiliam na organização, estruturação e análise contextual dos registros clínicos.
-
-Os recursos disponíveis podem variar conforme o plano contratado e sua evolução na plataforma.
-
-👉 [Veja nossos planos e preços](https://econsult.app.br/plans)
+👉 [Veja a comparação completa dos planos e
+preços](https://econsult.app.br/plans)
 
 ---
 
 ## Como funciona a cobrança
 
-A cobrança é realizada conforme o plano escolhido.
+O plano **FREE não possui cobrança**.
 
-Você poderá consultar informações atualizadas sobre:
+Nos planos pagos, a cobrança é realizada de acordo com o plano e o
+período contratado.
 
-* valores
-* periodicidade
-* renovação
-* alteração de plano
+Na página de planos você poderá consultar as condições atualizadas de:
+
+-   valores
+-   períodos disponíveis
+-   recursos incluídos
+-   limites de utilização
+-   alteração de plano
 
 👉 [Veja nossos planos e preços](https://econsult.app.br/plans)
 
 ---
 
-## Posso interromper ou cancelar quando quiser?
+## Posso mudar de plano?
 
 Sim.
 
-Você tem total liberdade para interromper a utilização da plataforma quando desejar.
+Você pode alterar seu plano conforme as necessidades da sua prática
+profissional.
 
-Caso não queira continuar utilizando o eConsult após o período contratado, basta não realizar uma nova contratação. Ao término da vigência, sua conta será automaticamente pausada, sem novas cobranças.
+Ao realizar um **upgrade**, a mudança para o novo plano ocorre
+imediatamente e o valor correspondente ao período ainda disponível é
+aproveitado na conversão.
 
-Quando desejar retornar, basta contratar um novo período e retomar a utilização da plataforma.
+Em um **downgrade**, o valor restante da assinatura vigente é convertido
+proporcionalmente em tempo adicional no novo plano.
 
-### Excluir a conta
+::: note
+O eConsult preserva o valor já adquirido em uma assinatura.
 
-Se preferir encerrar definitivamente sua utilização do eConsult, você poderá excluir sua conta a qualquer momento.
+Em alterações de plano, os créditos correspondentes ao período ainda
+vigente são convertidos proporcionalmente para o novo plano escolhido.
 
-:::note
-O eConsult preserva integralmente o valor já adquirido em sua assinatura.
-
-Ao contratar um plano pago durante o período FREE, a migração é imediata. Os dias restantes da assinatura FREE são adicionados ao novo período contratado.
-
-Em casos de upgrade de plano (por exemplo, de PRO para PREMIUM), a conversão ocorre imediatamente, com aproveitamento do período ainda vigente.
-
-Em casos de downgrade de plano, os valores já adquiridos são recalculados e convertidos em dias adicionais no novo plano escolhido.
-
-O eConsult não realiza devolução de valores, mas garante a compensação integral dos créditos já adquiridos por meio da conversão proporcional em tempo de utilização.
+Não há devolução do valor já contratado; o saldo existente é compensado
+por meio da conversão em período de utilização.
 :::
 
----
+------------------------------------------------------------------------
+
+## Posso voltar para o FREE?
+
+Sim.
+
+A contratação de um plano pago não impede que você utilize novamente o
+plano FREE posteriormente.
+
+Caso não queira renovar seu plano pago, você poderá continuar utilizando
+o eConsult no plano FREE, respeitando os recursos disponíveis nesse
+plano.
+
+Isso significa que você **não precisa deixar de utilizar o eConsult
+simplesmente porque decidiu não continuar com uma assinatura paga**.
+
+------------------------------------------------------------------------
+
+## Posso excluir minha conta?
+
+Sim.
+
+Se preferir encerrar definitivamente sua utilização do eConsult, você
+poderá solicitar a exclusão da conta.
+
+Antes de excluir definitivamente seus dados, verifique se existem
+informações ou documentos que precisam ser preservados conforme suas
+responsabilidades profissionais.
+
+------------------------------------------------------------------------
 
 ## Preciso instalar algum programa?
 
@@ -268,32 +409,41 @@ Não.
 
 O eConsult pode ser utilizado diretamente pelo navegador.
 
-Além disso, você também poderá instalar o aplicativo para acessar a plataforma com mais praticidade em:
+Além disso, quando disponível para o dispositivo, você poderá instalar o
+aplicativo para acessar a plataforma com mais praticidade em:
 
-* computadores
-* tablets
-* smartphones
+-   computadores
+-   tablets
+-   smartphones
 
----
+------------------------------------------------------------------------
 
-# Comece agora
+## Comece agora
 
-Escolha o cenário que mais se aproxima da sua prática profissional:
+Você pode criar sua conta e começar pelo plano FREE.
 
-## Atendimento Individual
+Depois, escolha o cenário que mais se aproxima da sua prática
+profissional:
 
-👉 [Aprenda a criar seu primeiro prontuário individual.](/docs/iniciando/guias-praticos/primeiros-passos-individual)
+### Atendimento Individual
 
-## Terapia de Casal
+👉 [Aprenda a criar seu primeiro prontuário
+individual.](/docs/iniciando/guias-praticos/primeiros-passos-individual)
 
-👉 [Aprenda a estruturar e acompanhar relações terapêuticas.](/docs/iniciando/guias-praticos/primeiros-passos-casal)
+### Terapia de Casal
 
-## Terapia Familiar
+👉 [Aprenda a estruturar e acompanhar relações
+terapêuticas.](/docs/iniciando/guias-praticos/primeiros-passos-casal)
 
-👉 [Aprenda a organizar acompanhamentos familiares longitudinalmente.](/docs/iniciando/guias-praticos/primeiros-passos-familia)
+### Terapia Familiar
 
-## Grupo Terapêutico
+👉 [Aprenda a organizar acompanhamentos familiares
+longitudinalmente.](/docs/iniciando/guias-praticos/primeiros-passos-familia)
 
-👉 [Aprenda a registrar e acompanhar processos grupais.](/docs/iniciando/guias-praticos/primeiros-passos-grupo)
+### Grupo Terapêutico
 
-👉 [Continue para os guias da seção **Iniciando no eConsult**.](/docs/iniciando-econsult)
+👉 [Aprenda a registrar e acompanhar processos
+grupais.](/docs/iniciando/guias-praticos/primeiros-passos-grupo)
+
+👉 [Continue para os guias da seção **Iniciando no
+eConsult**.](/docs/iniciando-econsult)
