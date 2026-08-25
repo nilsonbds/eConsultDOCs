@@ -56,32 +56,3 @@ No entanto, você poderá **personalizar esses valores individualmente** conform
 :::tip
 Revise periodicamente seus tipos de atendimento para manter sua tabela de valores atualizada e alinhada à sua prática clínica.
 :::
-
----
-
-## 🎞️ Vídeos Curtos
-
----
-
-#### 🎬 *Incluindo Tipos de Atendimento*
-
-<video
-  src="https://econsultapp.com/videos/configuracoes/incluindo-tipos-de-atendimento.mp4"
-  height="auto"
-  controls
-  preload="metadata"
-  style={{
-    maxWidth: '100%',
-    borderRadius: '12px',
-    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
-    margin: '8px 0'
-  }}
->
-  Seu navegador não suporta vídeo HTML5.
-</video>
-
-<p style={{ color: '#666', fontSize: '0.9rem' }}>
-  Neste vídeo é possível verificar a inclusão de tipos de atendimento.
-</p>
-
----

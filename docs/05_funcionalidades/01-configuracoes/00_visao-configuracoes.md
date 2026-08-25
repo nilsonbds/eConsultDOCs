@@ -18,7 +18,7 @@ As configurações são divididas em quatro grupos, cada um com suas funcionalid
 
 O objetivo aqui é configurar e personalizar a agenda para otimizar o planejamento e a organização do tempo.
 
-- **Disponibilidades:** Configure os dias e horários em que você estará disponível para atendimentos, incluindo intervalos entre sessões/atendimentos.
+- **Agenda Inteligente:** Crie um plano de disponibilidades definindo seus dias e horários de atendimento, duração das sessões e intervalos. Visualize previamente como ficará sua agenda semanal e aplique a configuração automaticamente a partir da data escolhida.
 - **Recessos:** Defina períodos de pausa, férias ou feriados nos quais sua agenda ficará bloqueada para agendamentos.
 - **Marcadores Clínicos:** selecione aspectos importantes do processo terapêutico para acompanhar mudanças, reconhecer padrões e sustentar intervenções consistentes ao longo da jornada clínica.
 
@@ -26,10 +26,9 @@ O objetivo aqui é configurar e personalizar a agenda para otimizar o planejamen
 
 Objetiva facilitar o gerenciamento e a personalização das informações dos pacientes e grupos terapêuticos para melhorar o atendimento e a comunicação.
 
-- **Campos Adicionais:** Adicione e configure campos adicionais personalizados para pacientes e grupos a fim de coletar informações específicas dos pacientes/grupos, conforme as necessidades do seu negócio.
+- **Formulário Padrão de Campos Adicionais**: Crie e configure um formulário personalizado com campos adicionais para complementar o cadastro de pessoas atendidas, casais, famílias ou grupos, de acordo com as informações que você precisa registrar.
 - **Grupos Etários:** Crie e gerencie Grupos Etários para segmentação.
-- **Mensagens Padronizadas:** Crie padrões de mensagens relacionadas a pacientes e grupos.
-- **Política de Comunicação e Alertas:** Configure o painel de alertas e determine a política de comunicação com os pacientes/grupos.
+- **Política de Comunicação e Alertas:** Configure o painel de alertas e determine a política de comunicação com as pessoas atendidas.
 
 ## Finanças
 Gerencia aspectos financeiros relacionados ao sistema e garantir o controle e a precisão nas transações e relatórios financeiros.
@@ -45,7 +44,7 @@ Gerencia aspectos financeiros relacionados ao sistema e garantir o controle e a 
 Integra, de forma facilitada, o eConsult com outras ferramentas e sistemas para melhorar a eficiência e a fluidez dos processos.
 - **GoogleDrive:** Configure a integração do eConsult com seu GoogleDrive.
 - **OpenAI:** Configure a integração do eConsult com a sua conta OpenAI.
-- **Daily.co (Teleatendimento):** Configure a integração do eConsult com a plataforma Daily.co e tenha um sistema de teleatendimento totalmente integrado.
+- **Daily (Teleatendimento):** Configure a integração do eConsult com a plataforma Daily.co e tenha um sistema de teleatendimento totalmente integrado.
 - **PIX:** Configure seu PIX para permitir que o sistema gere QRCodes de pagamento para seus pacientes.
 - **Mercado Pago:** Configure a integração do eConsult com seu Mercado Pago.
 - **Focus NFe:** Configure a integração do eConsult com a plataforma Focus NFe.

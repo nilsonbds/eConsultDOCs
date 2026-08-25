@@ -6,12 +6,16 @@ sidebar_position: 0
 
 As configurações da agenda são fundamentais para personalizar e otimizar o gerenciamento de tempo e compromissos. Elas permitem que você ajuste a agenda de acordo com suas necessidades específicas, garantindo uma organização eficiente e um planejamento eficaz. A seguir, veja como você pode configurar sua agenda e os principais aspectos a serem considerados:
 
-## Disponibilidades
+## Agenda Inteligente
 
-- **Horário de Funcionamento:** Configure os horários de início e término de sua jornada de trabalho ou atividade. Isso define o período dentro do qual seus compromissos podem ser agendados.
-- **Intervalos:** Estabeleça intervalos regulares, como pausas para café da manhã, almoço e café da tarde. Insira a hora de início e a duração de cada intervalo para garantir que esses períodos sejam respeitados na sua agenda.
+- **Plano de Disponibilidade:** Crie um plano de disponibilidades definindo os dias e horários em que você realiza atendimentos. Configure o horário de início, a duração das sessões e a quantidade de horários disponíveis, com visualização prévia da sua agenda semanal.
+
+- **Intervalos:** Adicione pausas à sua rotina de atendimento, como almoço ou café. Defina o horário de início e término de cada intervalo para que esses períodos não sejam considerados disponíveis para agendamentos.
+
+- **Vigência:** Defina a data a partir da qual o plano de disponibilidade será aplicado à sua agenda.
 
 ## Recessos
+
 - **Registro de Ausências:** Adicione datas de recesso, como feriados municipais, férias, outros compromissos ou dias de folga. Isso ajuda a evitar o agendamento de compromissos nesses dias e garante que sua agenda reflita adequadamente os períodos de pausa.
 
 :::note Verificação de Conflitos
@@ -20,4 +24,4 @@ O sistema verifica se há compromissos já agendados no dia do recesso. Se houve
 
 ## Marcadores Clínicos
 
-- **Definição dos Marcadores Clínicos:** Os Marcadores Clínicos de Atendimentos funcionam como destaques que você pode atribuir aos seus atendimentos, permitindo chamar a atenção para informações importantes ou momentos significativos em diversos contextos. No eConsult, é possível configurar até 6 (seis) tipos de marcadores clínicos de atendimentos, cada um identificado por uma cor distinta para facilitar a organização e visualização.
+- **Definição dos Marcadores Clínicos:** Configure os marcadores clínicos que deseja observar e acompanhar ao longo dos atendimentos. Eles funcionam como pontos de observação que ajudam a registrar aspectos relevantes de cada sessão, como sinais de ansiedade, alterações de humor, qualidade do sono, engajamento, fatores de risco ou outros elementos importantes para o acompanhamento. Ao serem utilizados de forma recorrente, os marcadores facilitam a identificação de padrões, mudanças e evolução ao longo do processo terapêutico, além de apoiarem a elaboração das anotações clínicas.

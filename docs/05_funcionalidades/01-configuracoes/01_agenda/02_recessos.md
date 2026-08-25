@@ -53,32 +53,3 @@ Se houver atendimentos previamente agendados no dia em que você pretende cadast
 3. Confirme a exclusão acionando o botão **Sim**.
 
 Cadastrar dias de recesso na agenda é uma prática essencial para manter um fluxo de trabalho organizado e evitar conflitos de horário, garantindo que todos os períodos de ausência sejam devidamente respeitados.
-
----
-
-## 🎞️ Vídeos Curtos
-
----
-
-#### 🎬 *Incluindo Recesso*
-
-<video
-  src="https://econsultapp.com/videos/configuracoes/incluindo-recesso.mp4"
-  height="auto"
-  controls
-  preload="metadata"
-  style={{
-    maxWidth: '100%',
-    borderRadius: '12px',
-    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
-    margin: '8px 0'
-  }}
->
-  Seu navegador não suporta vídeo HTML5.
-</video>
-
-<p style={{ color: '#666', fontSize: '0.9rem' }}>
-  Neste vídeo é possível verificar a inclusão de um recesso de 3 dias na agenda.
-</p>
-
----

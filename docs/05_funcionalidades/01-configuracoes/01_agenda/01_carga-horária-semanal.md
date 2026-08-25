@@ -2,95 +2,116 @@
 sidebar_position: 1
 ---
 
-# Disponibilidades
+# Agenda Inteligente
 
-Embora o cadastro de disponibilidades não seja uma configuração obrigatória, ela é altamente recomendado devido aos significativos benefícios que proporciona. Este cadastro permite um planejamento detalhado dos atendimentos ao longo das semanas, oferecendo uma visão clara e precisa da distribuição dos horários. Com essa visão, você pode alocar o tempo disponível de maneira mais eficiente, evitando conflitos.
+A **Agenda Inteligente** permite criar um plano de disponibilidades recorrentes para organizar os horários em que você realiza atendimentos.
 
-Um planejamento bem estruturado não apenas otimiza a sua agenda, mas também melhora a eficiência no gerenciamento de horários e intervalos. Com o cadastro, você evita a sobreposição de atendimentos agendados para o mesmo horário e assegura que cada compromisso seja alocado corretamente. Isso proporciona um controle mais eficaz sobre os horários disponíveis, permitindo um gerenciamento mais eficiente dos intervalos e maximizando a utilização da sua agenda.
+Em uma única configuração, você pode definir o horário de início dos atendimentos, a duração das sessões, a quantidade de horários, os dias da semana, os intervalos e a data a partir da qual o plano deverá entrar em vigor.
 
-Esse nível de organização resulta em uma operação mais fluida e reduz a chance de conflitos de agendamento, promovendo um atendimento mais eficaz e uma experiência geral mais harmoniosa para todos os envolvidos.
+Enquanto configura o plano, o eConsult apresenta uma **pré-visualização da agenda semanal**, permitindo conferir como os horários serão distribuídos antes de salvar.
 
-## Incluir disponibilidades
+## Criar um plano de disponibilidade
 
-1. No painel "Configurações", acione a opção "Disponibilidades".
+Para criar um novo plano:
 
-2. O sistema abrirá a tela "Disponibilidades".
+1. Acesse **Configurações > Agenda Inteligente**.
 
-3. Acione a opção **Incluir Disponibilidades** ![Painel Configurações](../../../../static/img/prints/buttons/btn_add.png).
+2. Na seção **Horários**, informe:
+   - **Início:** horário em que deseja iniciar os atendimentos.
+   - **Duração da sessão:** duração padrão de cada atendimento.
+   - **Quantidade:** quantidade de horários que deseja disponibilizar por dia.
 
-4. O sistema mostrará a seguinte tela de configuração:
+O eConsult calcula automaticamente até que horário os atendimentos serão distribuídos.
 
-    ![Painel Configurações](../../../../static/img/prints/01_carga-horária-semanal-001.png)
+:::tip Exemplo
+Ao configurar início às **08:00**, sessões de **60 minutos** e quantidade **8**, o plano considera oito períodos de atendimento ao longo do dia. Os intervalos cadastrados também serão considerados na distribuição dos horários.
+:::
 
-5. Indique o horário em que você inicia seus atendimentos nos dias selecionados. Exemplo: 08:30.
+## Selecione os dias da semana
 
-6. Especifique a duração de cada atendimento. No exemplo: 1 hora.
+Na seção **Dias da semana**, selecione os dias em que o plano deverá ser aplicado.
 
-7. Informe a quantidade de atendimentos que você realiza durante o dia. Exemplo: 8 atendimentos.
+Você pode, por exemplo, configurar atendimentos de segunda a sexta-feira ou selecionar apenas determinados dias da semana.
 
-    ![Painel Configurações](../../../../static/img/prints/01_carga-horária-semanal-002.png)
+Os dias selecionados são refletidos automaticamente na pré-visualização da agenda.
 
+## Configure os intervalos
 
-8. Organize os intervalos diários, como café da manhã, almoço e café da tarde, para isso, você pode seguir este procedimento:
-    
-    - **Preencha os Campos:**
+Na seção **Intervalos**, adicione os períodos em que você não deseja disponibilizar horários para atendimento, como:
 
-        - Intervalo: Insira o nome do intervalo, como "Café da Manhã", "Almoço" ou "Café da Tarde".
-        - Início: Informe o horário de início do intervalo, por exemplo, "09:30" para o café da manhã.
-        - Duração: Registre a duração do intervalo. Exemplo "01:30".
-        - Clique na opção ![Painel Configurações](../../../../static/img/prints/buttons/btn_add_intervalo.png) para adicioná-lo.
-        - Repita este procedimento para cada intervalo.
+- almoço;
+- café;
+- reuniões;
+- pausas entre períodos de atendimento;
+- outros compromissos recorrentes.
 
-        
-9. Marque os dias da semana em que as configurações devem ser aplicadas.
+Para cada intervalo, informe:
 
-10. Clique em “Processar” para aplicar as configurações.
+- **Nome:** uma identificação para o intervalo, como "Almoço".
+- **Início:** horário em que o intervalo começa.
+- **Término:** horário em que o intervalo termina.
 
-    ![Painel Configurações](../../../../static/img/prints/01_carga-horária-semanal-003.png)
+Utilize **Novo intervalo** para adicionar outros períodos de pausa.
 
-11. O sistema exibirá automaticamente as configurações processadas. Navegue para revisar e garantir que tudo foi configurado conforme o planejado.
-
-    ![Painel Configurações](../../../../static/img/prints/01_carga-horária-semanal-004.png)
+Caso não precise mais de um intervalo, utilize a opção de exclusão apresentada ao lado dele.
 
 :::note
-- **![Painel Configurações](../../../../static/img/prints/buttons/btn_disponibilidade.png) Disponibilidades:** Indica que o horário está liberado para atendimentos.
-- **![Painel Configurações](../../../../static/img/prints/buttons/btn_intervalo.png) Intervalos:** Indica que o horário está bloqueado para atendimentos e que trata-se de um intervalo.
+Os intervalos são considerados períodos indisponíveis para atendimento e aparecem destacados na pré-visualização da agenda semanal.
 :::
 
-:::tip Outras Opções de Disponibilidades
-- **Seleção de Dias:** O sistema permite que você selecione e processe um ou mais dias da semana de uma vez. Isso é especialmente útil se você tiver disponibilidades ou intervalos diferentes para cada dia. Por exemplo, se suas dispobilidades de sexta-feira é diferente de segunda-feira, você pode configurá-las separadamente.
-- **Botão Limpar Dias Selecionados:** Se for necessário remover configurações feitas, basta clicar no botão “Limpar Dias Selecionados”. Isso apagará as configurações atuais apenas dos dias selecionados, permitindo que você reconfigure esses dias do zero, se necessário.
-- **Data Início:** As disponibilidades configuradas serão aplicadas na agenda a partir da data que você inserir no campo "Início". Isso permite que você programe as mudanças com antecedência, controlando quando a nova configuração entrará em vigor.
-- **Alteração de Configurações:** Se precisar ajustar cargas horárias ou intervalos que já foram cadastrados, utilize o botão de edição  na lista de Cargas Horárias. Isso facilita a atualização das configurações, garantindo que sua agenda reflita suas necessidades atuais.
-- **Exclusão de Configurações:** Se precisar excluir cargas horárias que já foram cadastradas, utilize o botão de exclusão  na lista de Cargas Horárias.
-Esses recursos proporcionam flexibilidade na configuração da sua agenda, permitindo que você adapte suas cargas horárias e intervalos de acordo com sua rotina semanal.
+## Defina a vigência
+
+Na seção **Vigência**, informe a **Data de início** do plano.
+
+Essa data determina a partir de quando a configuração de disponibilidade deverá ser aplicada à sua agenda.
+
+Isso permite, por exemplo, preparar antecipadamente uma nova rotina de atendimento e definir a data em que ela passará a valer.
+
+## Confira a pré-visualização da agenda semanal
+
+À medida que você altera a configuração, a área **Pré-visualização da agenda semanal** mostra como ficará sua disponibilidade.
+
+Na visualização, você pode identificar:
+
+- **Disponível:** horários destinados aos atendimentos.
+- **Intervalo:** períodos de pausa cadastrados.
+- **Fora do expediente:** períodos que não fazem parte da disponibilidade configurada.
+
+Use essa visualização para conferir os dias, horários e intervalos antes de salvar o plano.
+
+:::tip
+Antes de salvar, revise a pré-visualização semanal. Ela permite identificar rapidamente se a configuração corresponde à sua rotina de atendimento.
 :::
 
----
+## Acompanhe o resumo da configuração
 
-## 🎞️ Vídeos Curtos
+Na parte superior da tela, o eConsult apresenta indicadores que resumem o plano configurado, como:
 
----
+- quantidade de horários por semana;
+- quantidade aproximada de horários por mês;
+- quantidade de dias de atendimento;
+- quantidade de intervalos cadastrados.
 
-#### 🎬 *Incluindo Disponibilidades*
+A tela também apresenta uma descrição resumida da configuração, facilitando a conferência do plano.
 
-<video
-  src="https://econsultapp.com/videos/configuracoes/incluindo-disponibilidades.mp4"
-  height="auto"
-  controls
-  preload="metadata"
-  style={{
-    maxWidth: '100%',
-    borderRadius: '12px',
-    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
-    margin: '8px 0'
-  }}
->
-  Seu navegador não suporta vídeo HTML5.
-</video>
+## Salve o plano de disponibilidade
 
-<p style={{ color: '#666', fontSize: '0.9rem' }}>
-  Neste vídeo é possível verificar a inclusão de disponibilidades na agenda.
-</p>
+Depois de revisar as informações e conferir a pré-visualização, clique em **Salvar plano de disponibilidade**.
 
----
+O plano será aplicado a partir da **Data de início** definida na configuração.
+
+:::note Disponibilidade recorrente
+O plano representa sua rotina recorrente de atendimento. Caso sua rotina mude, os horários recorrentes poderão ser ajustados posteriormente.
+:::
+
+## Exemplo de configuração
+
+Considere a seguinte rotina:
+
+- atendimentos de **segunda a sexta-feira**;
+- início às **08:00**;
+- sessões de **60 minutos**;
+- intervalo de almoço das **12:00 às 13:00**;
+- pausa das **16:00 às 16:15**.
+
+Ao configurar essas informações, a pré-visualização apresenta a distribuição dos atendimentos e dos intervalos ao longo da semana, permitindo conferir o resultado antes de aplicar o plano à agenda.

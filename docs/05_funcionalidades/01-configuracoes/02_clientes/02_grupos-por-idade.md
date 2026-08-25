@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Grupos Etários
 
-O cadastro de Grupos Etários é uma ferramenta para entender e segmentar sua base de pacientes por grupos baseados em idade. Dividir os pacientes em grupos etários permite uma abordagem mais direcionada e personalizada, trazendo diversos benefícios para a gestão e estratégia do seu negócio.
+O cadastro de Grupos Etários é uma ferramenta para entender e segmentar sua base de pessoas atendidas por grupos baseados em idade. Dividir as pessoas atendidas em grupos etários permite uma abordagem mais direcionada e personalizada, trazendo diversos benefícios para a gestão e estratégia do seu negócio.
 
 ## Incluir Grupo Etário
 
@@ -16,7 +16,7 @@ O cadastro de Grupos Etários é uma ferramenta para entender e segmentar sua ba
 
 3. Acione o botão **Incluir Grupo de Pacientes** ![Painel Configurações](../../../../static/img/prints/buttons/btn_add.png).
 
-4. O sistema abrirá o formulário de cadastro de novo grupo de pacientes por idade.
+4. O sistema abrirá o formulário de cadastro de novo grupo etário.
 
     ![Painel Configurações](../../../../static/img/prints/02_grupos-por-idade-002.png)
 
