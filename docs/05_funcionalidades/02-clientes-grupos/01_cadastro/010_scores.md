@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Síntese Clínica da Pessoa Atendida
 
-A **Síntese Clínica** é um painel que consolida, em uma única visualização longitudinal, os principais indicadores do acompanhamento do indivíduo, casal, família ou grupo. O objetivo é oferecer ao profissional uma leitura rápida, integrada e clinicamente orientada da evolução terapêutica.
+A **Síntese Clínica** é um painel que consolida, em uma única visualização longitudinal, os principais indicadores do acompanhamento do indivíduo, casal, família ou grupo (pessoa atendida). O objetivo é oferecer ao profissional uma leitura rápida, integrada e clinicamente orientada da evolução terapêutica.
 
 A tela reúne dados clínicos, comportamentais e de engajamento, permitindo identificar tendências de melhora, estabilidade, oscilação ou pontos de atenção ao longo do cuidado — sempre como apoio ao julgamento profissional.
 
@@ -12,7 +12,7 @@ A tela reúne dados clínicos, comportamentais e de engajamento, permitindo iden
 
 ## Como acessar a Síntese Clínica
 
-A **Síntese Clínica** pode ser visualizada clicando no botão **“Síntese”** localizado no canto superior direito da tela de cadastro Pessoa Atendida no sistema eConsult.
+A **Síntese Clínica** pode ser visualizada clicando no botão **“Síntese”** localizado no canto superior direito da tela de cadastro de Pessoa Atendida no sistema eConsult.
 
 ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_score.png)
 
@@ -32,6 +32,8 @@ As informações apresentadas são produzidas a partir dos atendimentos e regist
 
 Esta seção mostra como a regularidade dos atendimentos vem se comportando ao longo do acompanhamento.
 
+![Oscilação de frequência](../../../../static/img/prints/clientegrupo/clientegrupo-079.png)
+
 O sistema apresenta:
 
 - o **nome da pessoa atendida**;
@@ -45,6 +47,8 @@ Uma redução na frequência não representa, isoladamente, melhora ou piora cl�
 
 Os cartões de comparação ajudam a identificar mudanças recentes na regularidade dos atendimentos:
 
+![Oscilação de frequência](../../../../static/img/prints/clientegrupo/clientegrupo-080.png)
+
 - **Global:** compara o padrão atual com todo o histórico disponível do acompanhamento.
 - **Ano:** considera os atendimentos realizados no ano corrente.
 - **Mês:** apresenta o comportamento da frequência no período mais recente.
@@ -54,6 +58,8 @@ Cada cartão informa a tendência identificada e a quantidade de sessões consid
 ### Evolução Longitudinal
 
 A **Evolução Longitudinal** apresenta uma leitura consolidada da trajetória clínica com base nas informações registradas ao longo das sessões.
+
+![Evolução Longitudinal](../../../../static/img/prints/clientegrupo/clientegrupo-081.png)
 
 #### Situação atual do acompanhamento
 
@@ -81,6 +87,8 @@ Com base na evolução dos registros, o sistema destaca:
 - o **nível de risco** identificado;
 - um **ponto de atenção**, com aspectos que podem ser observados, investigados ou trabalhados nas próximas sessões.
 
+![Leitura clínica e ponto de atenção](../../../../static/img/prints/clientegrupo/clientegrupo-082.png)
+
 Essas informações não constituem diagnóstico nem prescrição de conduta. Elas organizam os sinais registrados para apoiar o raciocínio e a tomada de decisão do profissional.
 
 ### Gráfico de evolução
@@ -92,9 +100,13 @@ O gráfico permite acompanhar como os indicadores se comportaram ao longo do tem
 - o eixo horizontal apresenta as datas ou sessões analisadas;
 - o eixo vertical mostra as pontuações, de 0 a 100.
 
+![Gráfico de evolução](../../../../static/img/prints/clientegrupo/clientegrupo-083.png)
+
 Os destaques inseridos no gráfico sinalizam momentos em que o sistema identificou mudanças relevantes, como aumento de risco ou evolução favorável. Observe a tendência entre diferentes sessões, evitando interpretar um ponto isolado sem considerar o restante do acompanhamento.
 
 ### Próximos passos
+
+![Próximos passos](../../../../static/img/prints/clientegrupo/clientegrupo-084.png)
 
 Selecione **Próximos passos** para visualizar sugestões relacionadas ao cenário atual do acompanhamento. As sugestões podem apoiar o planejamento clínico, a investigação de pontos de atenção e a definição de aspectos a serem acompanhados nas sessões seguintes.
 
