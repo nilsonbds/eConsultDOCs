@@ -12,7 +12,7 @@ Você pode criar este formulário adicionando novos campos começando com a opç
 
 Você pode também, utilizando a opção "Incluir Formulário Padrão", carregar o formulário padrão de campos adicionais que você cria em "Configuração -> Formulário Padrão de Campos Adicionais". 
 
-O formulário é totalmente **flexível e adaptável**. Você pode modificar conforme necessário — seja alterando, removendo ou adicionando novos campos, de acordo com as particularidades do paciente ou grupo.
+O formulário é totalmente **flexível e adaptável**. Você pode modificar conforme necessário — seja alterando, removendo ou adicionando novos campos, de acordo com as particularidades da pessoa atendida.
 
 :::note
 Este formulário constará nos novos prontuários da pessoa atendida.

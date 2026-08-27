@@ -4,49 +4,49 @@ sidebar_position: 70
 
 # Aba Atendimentos
 
-![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/aba-atendimentos.png)
+![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-atendimentos.png)
 
-A aba Atendimentos exibe o histórico completo de atendimentos realizados e auxilia no planejamento dos atendimentos futuros, oferecendo uma visão integrada e contínua do relacionamento com cada paciente. Esse registro detalhado é uma ferramenta essencial para os profissionais, pois permite acompanhar a evolução e o progresso de cada paciente ao longo do tempo.
+A aba Atendimentos exibe o histórico completo de atendimentos realizados e auxilia no planejamento dos atendimentos futuros, oferecendo uma visão integrada e contínua do relacionamento com cada pessoa atendida. Esse registro detalhado é uma ferramenta essencial para os profissionais, pois permite acompanhar a evolução e o progresso de cada pessoa atendida ao longo do tempo.
 
-![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-013.png)
+![Painel Pessoas Atendidas](../../../../static/img/prints/clientegrupo/clientegrupo-013.png)
 
-No caso de pacientes, a aba apresenta duas subabas distintas: "Individuais", destinada ao acompanhamento e organização dos atendimentos realizados de forma exclusiva para aquele paciente, e "Em Grupo", voltada para os atendimentos em que o paciente participa junto a outros, no contexto de grupos terapêuticos (como casais, famílias ou grupos maiores). Essa separação proporciona maior clareza na visualização e no gerenciamento, permitindo ao profissional identificar rapidamente o tipo de atendimento e acessar as informações de maneira estruturada e objetiva.
+No caso de pessoas atendidas, a aba apresenta duas subabas distintas: "Individuais", destinada ao acompanhamento e organização dos atendimentos realizados de forma exclusiva para aquele indivíduo, e "Em Grupo", voltada para os atendimentos em que o pessoa atendida participa junto a outros, no contexto de casais, famílias ou grupos. Essa separação proporciona maior clareza na visualização e no gerenciamento, permitindo ao profissional identificar rapidamente o tipo de atendimento e acessar as informações de maneira estruturada e objetiva.
 
-![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-072.png)
+![Painel Pessoas Atendidas](../../../../static/img/prints/clientegrupo/clientegrupo-072.png)
 
 A aba conta ainda com filtros de "mês e ano", que possibilitam uma visualização segmentada dos compromissos realizados ou agendados dentro de períodos específicos. Essa funcionalidade apoia a análise de padrões, o acompanhamento da frequência e a gestão eficiente do tempo.
 
-![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-014.png)
+![Painel Pessoas Atendidas](../../../../static/img/prints/clientegrupo/clientegrupo-014.png)
 
-Além disso, em cada subaba é exibida uma lista de cards, onde cada card representa um atendimento agendado, oferecendo ao profissional uma forma prática e organizada de acompanhar os compromissos. 
+Além disso, em cada subaba é exibida uma lista de cards, onde cada card representa um atendimento, oferecendo ao profissional uma forma prática e organizada de acompanhar os compromissos. 
 
     :::tip
 
-        Os *cards* da aba Atendimentos permite você gerenciar anotações, arquivos, marcadores clínicos e informes de presença e pagamentos (no caso de grupos terapêuticos) do atendimento.
+        Os *cards* da aba Atendimentos permite você gerenciar anotações, arquivos, marcadores clínicos e informes de presença e pagamentos do atendimento.
 
         ![Painel Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos/005.png)
 
-        - **Anotações:** ![Painel Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos/006.png) Permite incluir, alterar ou excluir anotações vinculadas a cada atendimento, oferecendo um espaço para registrar observações importantes que podem ser consultadas posteriormente e até mesmo publicadas no prontuário do paciente.
+        - **Anotações:** ![Painel Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos/006.png) Permite incluir, alterar ou excluir anotações vinculadas a cada atendimento, oferecendo um espaço para registrar observações importantes que podem ser consultadas posteriormente e até mesmo publicadas no prontuário do pessoa atendida.
         
         - **Arquivos:** ![Painel Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos/007.png) Permite incluir, alterar ou excluir arquivos vinculados a cada atendimento.
         
         - **Marcadores Clínicos:** ![Painel Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos/008.png) Mostra as cores de todos os marcadores clínicos vinculados ao atendimento e permite fazer a gestão destes marcadores vinculados ao atendimento.
         
-        - **Informes de presença e pagamentos:** ![Painel Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos/009.png) Mostrado somente quando se tratar de um grupo terapêutico. Permite informar a presença dos pacientes no atendimento em questão e ainda registrar pagamentos de membros do grupo.
+        - **Informes de presença e pagamentos:** ![Painel Marcadores Clínicos](../../../../static/img/prints/marcadores-clinicos/009.png) Mostrado somente quando se tratar de um casal, família ou grupo. Permite informar a presença das pessoas no atendimento em questão e ainda registrar pagamentos de cada membro.
         
-        Você também tem acesso a diversas funcionalidades relacionadas ao atendimento, como "Desmarcar", "Remarcar", "Excluir", alterar "Modalidade" e "Status", além de realizar "Recebimentos". Tudo isso está disponível de forma prática através de um único botão ![Painel Marcadores Clínicos](../../../../static/img/prints/buttons/btn_card-edit.png).
+        Você também tem acesso a diversas funcionalidades relacionadas ao atendimento, como "Desmarcar", "Remarcar", "Excluir", alterar "Modalidade" e "Status", além de realizar "Recebimentos". Tudo isso está disponível de forma prática através de um único botão ![Editar Atendimento](../../../../static/img/prints/buttons/btn_card-edit.png).
 
     :::
 
-É permitido ainda o **agendamento de múltiplos atendimentos para o paciente ou grupo terapêutico**, com ampla flexibilidade. Essa funcionalidade foi pensada para otimizar o fluxo de trabalho dos profissionais, possibilitando o planejamento de diversas sessões de forma centralizada, de acordo com as necessidades e a disponibilidade de cada paciente. Com isso, torna-se mais simples manter a regularidade dos atendimentos e garantir um acompanhamento contínuo e personalizado.
+É permitido ainda o **agendamento de múltiplos atendimentos para o pessoa atendida**, com ampla flexibilidade. Essa funcionalidade foi pensada para otimizar o fluxo de trabalho dos profissionais, possibilitando o planejamento de diversas sessões de forma centralizada, de acordo com as necessidades e a disponibilidade de cada pessoa atendida. Com isso, torna-se mais simples manter a regularidade dos atendimentos e garantir um acompanhamento contínuo e personalizado.
 
 ## Agendar múltiplos atendimentos
 
-1. Acione o botão "Agendar atendimento" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_add.png).
+1. Acione o botão "Agendar atendimento" ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_add.png).
 
 1. O sistema abrirá a tela "Agendamento".
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-015.png)
+    ![Painel Pessoas Atendidas](../../../../static/img/prints/clientegrupo/clientegrupo-015.png)
 
 1. Preencha o campo "Qtde." com o número total de atendimentos que você deseja agendar.
 
@@ -54,9 +54,9 @@ Além disso, em cada subaba é exibida uma lista de cards, onde cada card repres
 
 1. No campo "A primeira", escolha o dia da semana em que os atendimentos devem ser realizados.
 
-1. Se desejar configurar os agendamentos de acordo com disponibilidades previamente definidas, acione o botão "![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_disponibilidades.png)". O sistema exibirá opções de horário baseadas nas disponibilidades previamente configuradas. Selecione uma disponibilidade de horário adequada.
+1. Se desejar configurar os agendamentos de acordo com disponibilidades previamente definidas, acione o botão "![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_disponibilidades.png)". O sistema exibirá opções de horário baseadas nas disponibilidades previamente configuradas. Selecione uma disponibilidade de horário adequada.
 
-    ![Painel Pacientes e Grupos](../../../../static/img/prints/clientegrupo/clientegrupo-016.png)
+    ![Painel Pessoas Atendidas](../../../../static/img/prints/clientegrupo/clientegrupo-016.png)
 
 1. Escolha a periodicidade desejada para os atendimentos: "Semanal", "Quinzenal" ou "Mensal".
 
@@ -64,9 +64,9 @@ Além disso, em cada subaba é exibida uma lista de cards, onde cada card repres
 
 1. Informe o valor de cada atendimento no campo correspondente.
 
-1. Acione a opção "Ver Disponibilidades" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_ver-disponibilidades.png). O sistema abrirá a tela de análise de disponibilidades, onde você poderá revisar os horários disponíveis.
+1. Acione a opção "Ver Disponibilidades" ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_ver-disponibilidades.png). O sistema abrirá a tela de análise de disponibilidades, onde você poderá revisar os horários disponíveis.
 
-1. Marque ou desmarque as disponibilidades que deseja agendar e acione o botão "Agendar Marcados" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_agendar-marcados.png) para confirmar e finalizar o agendamento dos atendimentos.
+1. Marque ou desmarque as disponibilidades que deseja agendar e acione o botão "Agendar Marcados" ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_agendar-marcados.png) para confirmar e finalizar o agendamento dos atendimentos.
 
 1. Em dias úteis, ou seja, sem recesso ou feriado, o sistema marcará automaticamente esses dias com um check. Mantenha esta marcação ou desmarque caso prefira não agendar neste dia.
 ​​
@@ -75,4 +75,4 @@ Além disso, em cada subaba é exibida uma lista de cards, onde cada card repres
 1. Em dias de recesso, o sistema manterá esses dias inativos. Você não tem a opção de marcar estes dias pois recessos são dias bloqueados para agendamentos.
 ​​
 
-Ao seguir esses passos, você assegura que os múltiplos atendimentos sejam agendados de forma eficiente, alinhados às suas necessidades e às do paciente.
+Ao seguir esses passos, você assegura que os múltiplos atendimentos sejam agendados de forma eficiente, alinhados às suas necessidades e às do pessoa atendida.

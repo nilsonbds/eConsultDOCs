@@ -14,7 +14,7 @@ Os demais campos (informações de contato ou o responsável pelo grupo) são op
 
 ## Componentes da Aba Geral
 
-- **Seletor Inativar/Inativado ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_inativar.png)/![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_inativado.png):** Esta opção permite inativar ou reativar o cadastro do paciente ou grupo.
+- **Seletor Inativar/Inativado ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_inativar.png)/![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_inativado.png):** Esta opção permite inativar ou reativar o cadastro da pessoa atendida.
 - **Seletor Tipo de Atendimento:** Indica o tipo de atendimento que será dado a pessoa atendida.
 - **Campo Nome Completo:** Permite incluir o nome completo da pessoa atendida (indivíduo, casal, família ou grupo).
 - **Seletor Sexo:** Permite indicar Masculino ou Feminino.
@@ -37,11 +37,11 @@ Os demais campos (informações de contato ou o responsável pelo grupo) são op
     :::note
         O campo "CPF" não estará disponível para Casais, Famílias ou Grupos.
     :::
-- **Valor dos atendimentos no vencimento:** Permite indicar o valor padrão dos atendimentos no vencimento para o paciente ou grupo terapêutico. 
+- **Valor dos atendimentos no vencimento:** Permite indicar o valor padrão dos atendimentos no vencimento para a pessoa atendida. 
     :::note
         O sistema sugere o valor indicado na configuração **[Padrões para Atendimentos](/docs/funcionalidades/configuracoes/financas/padroes-atendimentos)**.
     :::
-- **Dia de vencimento para atendimentos:** Permite indicar um padrão de dia de vencimento para pagamentos dos atendimentos deste paciente ou grupo.
+- **Dia de vencimento para atendimentos:** Permite indicar um padrão de dia de vencimento para pagamentos dos atendimentos desta pessoa atendida.
     :::note 
     O sistema permite indicar:
 
@@ -56,7 +56,7 @@ Os demais campos (informações de contato ou o responsável pelo grupo) são op
 
     Ao selecionar 'Definir número de dias após o atendimento', será possível informar quantos dias após a data do atendimento o vencimento deverá ocorrer.
     :::
-- **Regras de Cobrança:** Permite indicar uma regra de cobrança para o paciente ou grupo. Esta regra pode conceder descontos para pagamento antecipado ou cobrar juros e mora após um período de atraso.
+- **Regras de Cobrança:** Permite indicar uma regra de cobrança para a pessoa atendida. Esta regra pode conceder descontos para pagamento antecipado ou cobrar juros e mora após um período de atraso.
     :::note
         As regras de cobrança podem ser cadastradas na tela Regras de Cobrança do painel de configuração do sistema.
     :::
@@ -65,7 +65,7 @@ Os demais campos (informações de contato ou o responsável pelo grupo) são op
 
 ## Endereços
 
-O eConsult oferece uma funcionalidade robusta para o cadastro de endereços na aba Geral, permitindo que cada paciente ou grupo terapêutico tenha um endereço principal e múltiplos endereços secundários. Esse recurso é especialmente útil para profissionais que prestam serviços em diferentes locais, possibilitando o registro detalhado dos locais de atendimento ou residência dos pacientes.
+O eConsult oferece uma funcionalidade robusta para o cadastro de endereços na aba Geral, permitindo que cada pessoa atendida tenha um endereço principal e múltiplos endereços secundários. Esse recurso é especialmente útil para profissionais que prestam serviços em diferentes locais, possibilitando o registro detalhado dos locais de atendimento ou residência das pessoas atendidas.
 
 O cadastro de endereços é essencial para garantir que o eConsult possa emitir documentos de forma precisa e personalizada, como recibos, prontuários, e outras documentações importantes. O endereço principal é utilizado como referência para os documentos oficiais, enquanto os endereços secundários podem ser aplicados em situações específicas, como para entrega de correspondências ou para a prestação de serviços em locais alternativos.
 
@@ -75,7 +75,7 @@ O cadastro de endereços é essencial para garantir que o eConsult possa emitir 
 
 1. O sistema abrirá tela com formulário de cadastro de novo endereço. 
 
-1. Preencha os campos "Tipo", "CEP", "Rua", "Número", "Complemento", "Bairro", "Cidade", "Estado", "País" e informe se este endereço será o seu principal ou não. Por último acione o botão "Incluir" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_incluir.png).
+1. Preencha os campos "Tipo", "CEP", "Rua", "Número", "Complemento", "Bairro", "Cidade", "Estado", "País" e informe se este endereço será o seu principal ou não. Por último acione o botão "Incluir" ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_incluir.png).
 
     :::note
         Se, no campo "Tipo", você selecionar "Estrangeiro" (endereço fora do Brasil), o sistema ajustará o formulário para exigir a informação do "País" e permitirá que você insira um endereço estrangeiro no campo correspondente.
@@ -83,19 +83,19 @@ O cadastro de endereços é essencial para garantir que o eConsult possa emitir 
 
 ### Alterar um endereço
 
-1. Acione o botão ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_card-edit.png) correspondente ao endereço que se deseja alterar.
+1. Acione o botão ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_card-edit.png) correspondente ao endereço que se deseja alterar.
 
 2. O sistema abrirá tela com formulário de cadastro de alteração do endereço.
 
-3. Altere os campos "Tipo", "CEP", "Rua", "Número", "Complemento", "Bairro", "Cidade", "Estado", "País"  e informe se este endereço será o seu principal ou não. Por último acione o botão "Salvar" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_salvar.png).
+3. Altere os campos "Tipo", "CEP", "Rua", "Número", "Complemento", "Bairro", "Cidade", "Estado", "País"  e informe se este endereço será o seu principal ou não. Por último acione o botão "Salvar" ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_salvar.png).
 
 **OU, NO CASO DE ESTRANGEIRO**
 
-3. Altere os campos "Endereço", "País" e informe se este endereço será o seu principal ou não. Por último acione o botão "Salvar" ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_salvar.png).
+3. Altere os campos "Endereço", "País" e informe se este endereço será o seu principal ou não. Por último acione o botão "Salvar" ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_salvar.png).
 
 ### Excluir um endereço
 
-1. Acione o botão ![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_card-delete.png) correspondente ao endereço que se deseja excluir.
+1. Acione o botão ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_card-delete.png) correspondente ao endereço que se deseja excluir.
 
 1. Confirme a operação acionando a opção "Sim".
 

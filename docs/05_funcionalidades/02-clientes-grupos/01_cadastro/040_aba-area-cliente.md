@@ -14,7 +14,7 @@ Ela foi pensada para **fortalecer a relação de confiança** entre paciente/cli
 ## Visão Geral
 
 Cada pessoa atendida (indivíduo, casal, família ou grupo) possui uma **área individual e criptografada**, acessível por um **link seguro e intransferível**, enviado pelo profissional.  
-Nesse ambiente, o paciente pode:
+Nesse ambiente, a pessoa atendida pode:
 
 - Visualizar **dados cadastrais** e **endereços** atualizados;  
 - Consultar **agendamentos futuros e passados**;  
@@ -53,7 +53,7 @@ Nesse ambiente, o paciente pode:
       - ![WhatsApp](../../../../static/img/prints/buttons/btn_whatsapp.png) **WhatsApp:**   
       - ![E-mail](../../../../static/img/prints/buttons/btn_email.png) **E-mail:**  
     :::
-1. O paciente receberá o link seguro (token único) e poderá acessar sua área diretamente pelo navegador, sem login ou senha.
+1. A pessoa atendida receberá o link seguro (token único) e poderá acessar sua área diretamente pelo navegador, sem login ou senha.
 
 ---
 
@@ -61,7 +61,7 @@ Nesse ambiente, o paciente pode:
 
 A interface do Portal Relacional foi desenhada para ser **intuitiva, responsiva e humanizada**, mantendo clareza visual e foco na usabilidade.
 
-![Interface do Paciente](../../../../static/img/prints/areacliente/002.png)
+![Portal Relacional](../../../../static/img/prints/areacliente/002.png)
 
 O **Portal Relacional** é um ambiente exclusivo do eConsult criado para aproximar o profissional da pessoa atendida por meio de uma comunicação organizada, segura e transparente.
 
@@ -156,7 +156,7 @@ Na tela inicial, a pessoa atendida encontra os dados de contato do profissional 
 
 ## Segurança e Conformidade
 
-A Área do Paciente segue o mesmo padrão de segurança aplicado aos módulos clínicos do eConsult:
+O Portal Relacional segue o mesmo padrão de segurança aplicado aos módulos clínicos do eConsult:
 
 - **Criptografia ponta a ponta (HTTPS + AES-256)**  
 - **Links únicos e intransferíveis (token individual)**  
@@ -172,8 +172,8 @@ A Área do Paciente segue o mesmo padrão de segurança aplicado aos módulos cl
 
 :::tip  
 - Envie o link somente após verificar as permissões de acesso.  
-- Utilize a Área do Paciente para fortalecer a transparência do processo terapêutico.  
-- Oriente o paciente sobre o sigilo e a finalidade das informações visíveis.  
+- Utilize o Portal Relacional para fortalecer a transparência do processo terapêutico.  
+- Oriente seu paciente/cliente sobre o sigilo e a finalidade das informações visíveis.  
 - Evite liberar prontuários ainda em elaboração.  
 :::
 
@@ -182,8 +182,8 @@ A Área do Paciente segue o mesmo padrão de segurança aplicado aos módulos cl
 ## Comparativo com Outros Sistemas
 
 #### Outros sistemas
-- Área do paciente inexistente ou restrita a agendamentos.  
-- Nenhum controle sobre o que o paciente pode acessar.  
+- Portal do cliente inexistente ou restrito a agendamentos.  
+- Nenhum controle sobre o que o cliente pode acessar.  
 - Falta de integração com faturas, notas fiscais e prontuário.  
 - Comunicação dispersa (WhatsApp, e-mail, planilhas externas).
 
@@ -193,19 +193,19 @@ A Área do Paciente segue o mesmo padrão de segurança aplicado aos módulos cl
 - **Links seguros** e integrados ao cadastro.  
 - **Comunicação ética e centralizada.**
 
-> 🔹 O eConsult é um dos poucos sistemas que oferece ao psicólogo **uma Área do Paciente realmente funcional e customizável**, conectando prontuário, financeiro e documentação em um só ambiente.
+> 🔹 O eConsult é um dos poucos sistemas que oferece ao psicólogo **uma Área do Paciente/Cliente realmente funcional e customizável**, conectando prontuário, financeiro e documentação em um só ambiente.
 
 ---
 
 ## Análise Crítica da Funcionalidade
 
 #### 💼 Design funcional
-O fluxo da Área do Paciente é simples e elegante: configuração → envio → acesso.  
+O fluxo do Portal Relacional é simples e elegante: configuração → envio → acesso.  
 O profissional controla tudo a partir do painel principal, sem precisar de portais externos.
 
 #### 🔒 Segurança e ética
 A arquitetura com **links criptografados e tokens únicos** é tecnicamente superior a sistemas baseados em login.  
-Ela reduz o risco de acesso indevido e simplifica a experiência do paciente, sem comprometer a LGPD.
+Ela reduz o risco de acesso indevido e simplifica a experiência do paciente/cliente, sem comprometer a LGPD.
 
 #### 💡 Experiência do usuário
 A interface é responsiva e leve, otimizada tanto para desktop quanto para dispositivos móveis.  
@@ -215,13 +215,13 @@ A divisão por blocos (dados, atendimentos, finanças, documentos) é intuitiva 
 A integração direta com **prontuário e finanças** é um diferencial marcante — poucos sistemas permitem que o paciente acompanhe sua jornada clínica e administrativa com tanta transparência e controle ético.
 
 #### 📈 Potencial de expansão
-O módulo está preparado para evoluir: chat seguro, upload de documentos pelo paciente e integração com teleatendimento são evoluções naturais dentro da arquitetura existente.
+O módulo está preparado para evoluir: chat seguro, upload de documentos pelo paciente/cliente e integração com teleatendimento são evoluções naturais dentro da arquitetura existente.
 
 ---
 
 ## Conclusão
 
-A **Área do Paciente do eConsult** representa o ponto de encontro entre **transparência, ética e tecnologia**.  
-Ela não apenas digitaliza a comunicação entre psicólogo e paciente, mas redefine a relação, transformando-a em um processo **colaborativo, seguro e centrado na confiança**.  
+O **Portal Relacional do eConsult** representa o ponto de encontro entre **transparência, ética e tecnologia**.  
+Ele não apenas digitaliza a comunicação entre psicólogo e paciente/cliente, mas redefine a relação, transformando-a em um processo **colaborativo, seguro e centrado na confiança**.  
 
-Com ela, o eConsult reafirma seu compromisso em unir **profundidade clínica**, **inteligência tecnológica** e **respeito absoluto à ética profissional.**
+Com o Portal Relacional, o eConsult reafirma seu compromisso em unir **profundidade clínica**, **inteligência tecnológica** e **respeito absoluto à ética profissional.**
