@@ -8,7 +8,7 @@ sidebar_position: 120
 
 O **Prontuário Eletrônico** do **eConsult** foi projetado para unir **rigor técnico**, **flexibilidade de uso** e **segurança avançada**, atendendo às necessidades específicas de psicólogos que trabalham com atendimentos individuais, casais, famílias ou grupos terapêuticos.  
 
-Por meio da **aba Prontuário**, o profissional centraliza todo o acompanhamento clínico do paciente ou grupo, mantendo histórico completo, registros evolutivos, avaliações psicológicas, hipóteses clínicas e documentos anexados — tudo dentro de um ambiente seguro, criptografado e em conformidade com a LGPD.
+Por meio da **aba Prontuário**, o profissional centraliza todo o acompanhamento clínico da pessoa atendida, mantendo histórico completo, registros evolutivos, avaliações psicológicas, hipóteses clínicas e documentos anexados — tudo dentro de um ambiente seguro, criptografado e em conformidade com a LGPD.
 
 ![Prontuário](../../../../static/img/prints/prontuario/prontuario_011.png)
 
@@ -16,15 +16,15 @@ Por meio da **aba Prontuário**, o profissional centraliza todo o acompanhamento
 
 ## ⚙️ Estrutura do Prontuário
 
-Cada paciente ou grupo pode possuir **múltiplos prontuários**, permitindo que o profissional registre diferentes fases ou enfoques do processo terapêutico.  
+Cada pessoa atendida pode possuir **múltiplos prontuários**, permitindo que o profissional registre diferentes fases ou enfoques do processo terapêutico.  
 Os prontuários assumem dois estágios principais:
 
 - **🟡 Em elaboração:** visível apenas ao profissional até que seja concluído.  
 - **🟢 Publicado:** finalizado e salvo no histórico, podendo ser:
   - **Privado:** acesso exclusivo do profissional;  
-  - **Público:** visível também ao paciente, se o profissional optar.
+  - **Público:** visível também a pessoa atendida, se o profissional optar.
 
-> 🔒 Apenas **um prontuário em elaboração** pode existir por paciente ou grupo.
+> 🔒 Apenas **um prontuário em elaboração** pode existir por pessoa atendida.
 
 ![Prontuário](../../../../static/img/prints/prontuario/prontuario_012.png)
 
@@ -63,7 +63,7 @@ Durante a edição, o profissional pode acessar recursos integrados:
 
 ## 🧾 Como Criar e Gerenciar um Prontuário
 
-1. Acesse a aba **Prontuário** dentro de **Pacientes e Grupos Terapêuticos**.  
+1. Acesse a aba **Prontuário** dentro de **Pessoas Atendidas**.  
 2. Clique em **Novo Prontuário** ![botão novo](../../../../static/img/prints/buttons/btn_add_grupo.png).  
 3. Escolha um **modelo de anamnese** previamente cadastrado.  
 4. Configure a **abordagem terapêutica**, tópicos e campos.  
@@ -96,7 +96,7 @@ O eConsult adota padrões de segurança equivalentes a sistemas médicos e hospi
 - **Anonimização de dados** para uso em relatórios ou IA  
 - **Monitoramento contínuo contra acessos indevidos**
 
-> 💡 Mesmo com anonimização, recomenda-se informar ao paciente sobre o uso ético de IA e o tratamento anônimo dos dados, reforçando transparência e confiança.
+> 💡 Mesmo com anonimização, recomenda-se informar a pessoa atendida sobre o uso ético de IA e o tratamento anônimo dos dados, reforçando transparência e confiança.
 
 ---
 
@@ -106,7 +106,7 @@ A IA atua como **suporte ao raciocínio clínico**, gerando insights personaliza
 Ela considera:
 
 - Abordagem terapêutica (TCC, Psicanálise, Sistêmica, etc.)  
-- Grau de engajamento do paciente  
+- Grau de engajamento da pessoa atendida  
 - Avaliações psicológicas aplicadas  
 - Histórico clínico e anotações anteriores 
 - Último prontuário publicado (se houver)
@@ -139,7 +139,7 @@ As sugestões são opcionais e devem ser validadas pelo psicólogo.
 
 ### eConsult
 - Prontuários **flexíveis, modulares e personalizáveis**.  
-- **Histórico completo e versionado** por paciente e grupo.  
+- **Histórico completo e versionado** por pessoa atendida.  
 - **Integração total** com avaliações, arquivos e sessões.  
 - **IA clínica contextualizada**, com privacidade assegurada.  
 - **Controle granular** de visibilidade e publicação.  
@@ -161,7 +161,7 @@ A arquitetura baseada em **modelos configuráveis (anamnese + abordagem)** permi
 O armazenamento versionado de prontuários e a IA integrada representam um salto em automação clínica.
 
 ### 🔒 Ética e segurança
-O modelo de **visibilidade dupla (Privado/Público)** é excelente: preserva sigilo e, ao mesmo tempo, permite comunicação transparente com o paciente quando o profissional desejar.  
+O modelo de **visibilidade dupla (Privado/Público)** é excelente: preserva sigilo e, ao mesmo tempo, permite comunicação transparente com a pessoa atendida quando o profissional desejar.  
 A anonimização e conformidade com a LGPD são implementações exemplares no contexto psicológico.
 
 ### 💡 Experiência e usabilidade
@@ -180,53 +180,3 @@ O **Prontuário Eletrônico do eConsult** transcende o papel tradicional de regi
 Ele se comporta como um **núcleo inteligente de gestão terapêutica**, combinando **segurança jurídica, rigor ético e suporte tecnológico avançado**.  
 
 Com histórico evolutivo, IA integrada e controle granular de acesso, o módulo representa uma das soluções mais completas do mercado em termos de **documentação psicológica digital** — moderna, ética e centrada na prática profissional.
-
----
-
-## 🎞️ Vídeos Curtos
-
----
-
-#### 🎬 *Explorando o prontuário*
-
-<video
-  src="https://econsultapp.com/videos/prontuario/explorando-prontuario.mp4"
-  height="auto"
-  controls
-  preload="metadata"
-  style={{
-    borderRadius: '12px',
-    maxWidth: '100%',
-    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
-    margin: '8px 0'
-  }}
->
-  Seu navegador não suporta vídeo HTML5.
-</video>
-
-<p style={{ color: '#666', fontSize: '0.9rem' }}>
-  Neste vídeo, é possível visualizar algumas das principais funcionalidades do prontuário em funcionamento.
-</p>
-
----
-
-#### 🎬 *Exemplo de Inteligência Artificial no Prontuário*
-
-<video
-  src="https://econsultapp.com/videos/prontuario/inteligencia-artificial-prontuario.mp4"
-  height="auto"
-  controls
-  preload="metadata"
-  style={{
-    borderRadius: '12px',
-    maxWidth: '100%',
-    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
-    margin: '8px 0'
-  }}
->
-  Seu navegador não suporta vídeo HTML5.
-</video>
-
-<p style={{ color: '#666', fontSize: '0.9rem' }}>
-  Neste vídeo, é possível verificar a utilização da inteligência artificial no prontuário.
-</p>

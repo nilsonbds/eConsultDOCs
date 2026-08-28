@@ -80,7 +80,7 @@
     "description": "O rótulo da categoria Atendimentos na barra lateral tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Atendimentos.link.generated-index.description": {
-    "message": "A seção de Atendimentos organiza consultas, sessões e históricos, permitindo registros precisos e acompanhamento contínuo dos pacientes.",
+    "message": "A seção de Atendimentos organiza consultas, sessões e históricos, permitindo registros precisos e acompanhamento contínuo das pessoas atendidas.",
     "description": "A descrição da página de índice gerada para a categoria Atendimentos na barra lateral tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Prontuário": {
