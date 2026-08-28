@@ -7,7 +7,7 @@ sidebar_position: 2
 A lista de atendimentos no eConsult exibe todos os atendimentos agendados para o dia selecionado, organizados em *cards* individuais. Cada *card* contém informações mínimas sobre o atendimento, incluindo:
 
 - **Hora de início e fim:** Mostra o início e fim do atendimento.
-- **Nome do paciente ou grupo:** Nome do paciente ou grupo terapêutico ao qual o atendimento está relacionado.
+- **Nome da pessoa atendida:** Nome da pessoa atendida (podendo ser indivíduo, casal, família ou grupo) ao qual o atendimento está relacionado.
 - **Status de realização ou confirmação:** Apresenta um informe sobre o status atual do atendimento (confirmado, não confirmado, realizado, não realizado ou, se não houver, informe pendente).
 - **Valor e valor pago:** Indica o valor do atendimento e quanto já foi pago.
 
@@ -20,7 +20,7 @@ Os *cards* mostram alguns ícones informativos como:
 
 |Ícone|Indicação|
 |-|-|
-|![Atendimentos](../../../static/img/prints/buttons/btn_remoto.png)|Podendo ser exibido abaixo do nome do paciente ou grupo terapêutico, indicando que se trata de um atendimento remoto. Se este icone não for mostrado, significa que o atendimento é presencial.|
+|![Atendimentos](../../../static/img/prints/buttons/btn_remoto.png)|Podendo ser exibido abaixo do nome da pessoa atendida, indicando que se trata de um atendimento remoto. Se este icone não for mostrado, significa que o atendimento é presencial.|
 |![Atendimentos](../../../static/img/prints/buttons/btn-nao-pago.png)|Podendo ser exibido ao lado do valor do atendimento, indicando que este valor ainda não foi 100% (cem por cento) recebido.|
 |![Atendimentos](../../../static/img/prints/buttons/btn-pago.png)|Podendo ser exibido ao lado do valor do atendimento, indicando que este valor foi 100% (cem por cento) recebido.|
 |![Atendimentos](../../../static/img/prints/buttons/btn-question.png)|Indica que se trata de um atendimento passado que ainda não tem um informe de "Realizado" ou "Não Realizado". |
@@ -31,9 +31,10 @@ Além dos ícones informativos, os *cards* também disponibilizam os seguintes b
 
 |Botão|Ação|
 |-|-|
+|![Atendimentos](../../../static/img/prints/buttons/btn-escalas.png)|**Escalas:** Mostra a quantidade de escalas (avaliações psicológicas) vinculadas ao atendimento. Mais detalhes [tela de Avaliações Psicológicas](/docs/funcionalidades/atendimentos/analises-psicologicas).|
 |![Atendimentos](../../../static/img/prints/buttons/btn-anotacoes.png)|**Anotações:** Mostra a quantidade de anotações e permite abrir a [tela de gestão de Anotações Clínicas](/docs/funcionalidades/atendimentos/anotacoes).|
 |![Atendimentos](../../../static/img/prints/buttons/btn-anexos.png)|**Arquivos:** Mostra a quantidade de arquivos vinculados e permite abrir a [tela de gestão de arquivos do atendimento](/docs/funcionalidades/atendimentos/arquivos).|
 |![Atendimentos](../../../static/img/prints/buttons/btn-lembretes.png)|**Marcadores Clínicos:** Mostra as cores dos marcadores clínicos vinculados ao atendimento e permite fazer a gestão destes [marcadores](/docs/funcionalidades/marcadores-clinicos/visao).|
-|![Atendimentos](../../../static/img/prints/buttons/btn-presenca.png)|**Informe de Presença (somente para grupos terapêuticos):** Mostra a quantidade de membros vinculados ao grupo terapêutico e permite o [registro de ausências e presenças](/docs/funcionalidades/atendimentos/presenca-pagamentos).​|
+|![Atendimentos](../../../static/img/prints/buttons/btn-presenca.png)|**Informe de Presença (somente para casais, famílias ou grupos terapêuticos):** Mostra a quantidade de membros vinculados ao grupo terapêutico e permite o [registro de ausências e presenças](/docs/funcionalidades/atendimentos/presenca-pagamentos).​|
 |![Atendimentos](../../../static/img/prints/buttons/btn_card-edit.png)|**Alteração:** Permite abrir a tela de alteração de informações do atendimento e, inclusive, recebimentos.|
 |![Atendimentos](../../../static/img/prints/clientegrupo/clientegrupo-077.png)|**Situações:** Abre a **tela de situações**, onde o profissional pode visualizar os registros e tomar as providências necessárias.|

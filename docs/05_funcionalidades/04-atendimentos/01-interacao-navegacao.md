@@ -86,7 +86,7 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 
     ![Painel Atendimento](../../../static/img/prints/atendimento/019.png)
 
-- Já os atendimentos agendados mostram o nome do paciente ou grupo terapêutico, status e valores.
+- Já os atendimentos agendados mostram o nome da pessoa atendida, status e valores.
 
     ![Painel Atendimento](../../../static/img/prints/atendimento/020.png)
 
@@ -102,19 +102,19 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 
     ![Painel Atendimento](../../../static/img/prints/atendimento/086.png)
 
-1. Preencha o campo "Paciente", informe se o atendimento será "Presencial" ou "Remoto", informe se este atendimento está ou não "Confirmado" (no caso de disponibilidades futuras) ou se foi ou não "Realizado" (no caso de disponibilidades passadas).
+1. Preencha o campo "Pessoa Atendida", informe se o atendimento será "Presencial" ou "Remoto", informe se este atendimento está ou não "Confirmado" (no caso de disponibilidades futuras) ou se foi ou não "Realizado" (no caso de disponibilidades passadas).
 
 1. Acione o botão "Incluir" ![Botão Incluir](../../../static/img/prints/buttons/btn_incluir.png).
 
 ## Agendar múltiplos atendimentos
 
-1. Acione o botão "Agendar atendimento" ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_add.png).
+1. Acione o botão "Agendar atendimento" ![Painel Atendimentos](../../../static/img/prints/buttons/btn_add.png).
 
 1. O sistema abrirá a tela "Agendamento".
 
-    ![Painel Pacientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-015.png)
+    ![Painel Atendimentos](../../../static/img/prints/clientegrupo/clientegrupo-015.png)
 
-1. Preencha o campo "Paciente".
+1. Preencha o campo "Pessoa Atendida".
 
 1. Preencha o campo "Qtde." com o número total de atendimentos que você deseja agendar.
 
@@ -122,9 +122,9 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 
 1. No campo "A primeira", escolha o dia da semana em que os atendimentos devem ser realizados.
 
-1. Se desejar configurar os agendamentos de acordo com disponibilidades previamente definidas, acione o botão "![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_disponibilidades.png)". O sistema exibirá opções de horário baseadas nas disponibilidades previamente configuradas. Selecione uma disponibilidade de horário adequada.
+1. Se desejar configurar os agendamentos de acordo com disponibilidades previamente definidas, acione o botão "![Painel Atendimentos](../../../static/img/prints/buttons/btn_disponibilidades.png)". O sistema exibirá opções de horário baseadas nas disponibilidades previamente configuradas. Selecione uma disponibilidade de horário adequada.
 
-    ![Painel Pacientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-016.png)
+    ![Painel Atendimentos](../../../static/img/prints/clientegrupo/clientegrupo-016.png)
 
 1. Escolha a periodicidade desejada para os atendimentos: "Semanal", "Quinzenal" ou "Mensal".
 
@@ -132,9 +132,9 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 
 1. Informe o valor de cada atendimento no campo correspondente.
 
-1. Acione a opção "Ver Disponibilidades" ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_ver-disponibilidades.png). O sistema abrirá a tela de análise de disponibilidades, onde você poderá revisar os horários disponíveis.
+1. Acione a opção "Ver Disponibilidades" ![Painel Atendimentos](../../../static/img/prints/buttons/btn_ver-disponibilidades.png). O sistema abrirá a tela de análise de disponibilidades, onde você poderá revisar os horários disponíveis.
 
-1. Marque ou desmarque as disponibilidades que deseja agendar e acione o botão "Agendar Marcados" ![Painel Pacientes e Grupos](../../../static/img/prints/buttons/btn_agendar-marcados.png) para confirmar e finalizar os agendamentos dos atendimentos.
+1. Marque ou desmarque as disponibilidades que deseja agendar e acione o botão "Agendar Marcados" ![Painel Atendimentos](../../../static/img/prints/buttons/btn_agendar-marcados.png) para confirmar e finalizar os agendamentos dos atendimentos.
 
 1. Em dias úteis, ou seja, sem recesso ou feriado, o sistema marcará automaticamente esses dias com um check. Mantenha esta marcação ou desmarque caso prefira não agendar neste dia.
 ​​
@@ -142,17 +142,17 @@ No painel Atendimentos, as disponibilidades, intervalos e recessos são exibidos
 ​​
 1. Em dias de recesso, o sistema manterá esses dias inativos. Você não tem a opção de marcar estes dias pois recessos são dias bloqueados para agendamentos.
 
-:::note Situações do Paciente/Grupo
+:::note Situações do Atendimento
 
 Nos *cards* de atendimento, podem aparecer **situações registradas**, sinalizadas pelo ícone abaixo:
 
-![Painel Pacientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-077.png)
+![Painel Atendimentos](../../../static/img/prints/clientegrupo/clientegrupo-077.png)
 
-No exemplo acima, o indicador mostra que existem **3 situações** associadas a esse paciente/grupo.
+No exemplo acima, o indicador mostra que existem **3 situações** associadas a essa pessoa atendida.
 
 Ao clicar no ícone, o sistema abre a **tela de situações**, onde o profissional pode visualizar os registros e tomar as providências necessárias.
 
-![Painel Pacientes e Grupos](../../../static/img/prints/clientegrupo/clientegrupo-078.png)
+![Painel Atendimentos](../../../static/img/prints/clientegrupo/clientegrupo-078.png)
 
 :::
 
@@ -180,51 +180,3 @@ Ao clicar no ícone, o sistema abre a **tela de situações**, onde o profission
 
     - Em caso de recesso, a agenda bloqueará automaticamente a data, impedindo qualquer agendamento de atendimento nesse dia.
 :::
-
----
-
-## 🎞️ Vídeos Curtos
-
----
-
-#### 🎬 *Agendando um atendimento*
-
-<video
-  src="https://econsultapp.com/videos/atendimentos/incluindo-um-atendimento.mp4"
-  height="auto"
-  controls
-  preload="metadata"
-  style={{
-    borderRadius: '12px',
-    maxWidth: '100%',
-    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
-    margin: '8px 0'
-  }}
->
-  Seu navegador não suporta vídeo HTML5.
-</video>
-<p style={{ color: '#666', fontSize: '0.9rem' }}>
-  Neste vídeo, é possível acompanhar o agendamento de um atendimento.
-</p>
-
----
-
-#### 🎬 *Agendando múltiplos atendimentos*
-
-<video
-  src="https://econsultapp.com/videos/atendimentos/incluindo-atendimentos-multiplos.mp4"
-  height="auto"
-  controls
-  preload="metadata"
-  style={{
-    borderRadius: '12px',
-    maxWidth: '100%',
-    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
-    margin: '8px 0'
-  }}
->
-  Seu navegador não suporta vídeo HTML5.
-</video>
-<p style={{ color: '#666', fontSize: '0.9rem' }}>
-  Neste vídeo, é possível acompanhar o agendamento de múltiplos atendimentos.
-</p>
