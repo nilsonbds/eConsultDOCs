@@ -4,11 +4,11 @@ sidebar_position: 4
 
 # Modalidade, Confirmação e Realização de Atendimentos
 
-No eConsult, a gestão dos atendimentos é feita de maneira eficiente por meio das funcionalidades de Modalidade, Confirmação e Realização de atendimentos. Essas funcionalidades ajudam garantir uma experiência fluida e organizada tanto para os pacientes e grupos terapêuticos quanto para os profissionais.
+No eConsult, a gestão dos atendimentos é feita de maneira eficiente por meio das funcionalidades de Modalidade, Confirmação e Realização de atendimentos. Essas funcionalidades ajudam garantir uma experiência fluida e organizada tanto para as pessoas atendidas quanto para os profissionais.
 
 ## Modalidade dos Atendimentos
 
-A Modalidade dos Atendimentos no eConsult define o tipo de atendimento que será oferecido, podendo ser "presencial" ou "remoto" (atendimento online). A modalidade é escolhida no momento do agendamento, garantindo que o atendimento seja ajustado às necessidades específicas do paciente ou do grupo terapêutico. Essa flexibilidade não apenas melhora a experiência do atendimento, mas também facilita a segmentação e análise em relatórios, oferecendo informações valiosas para o gerenciamento dos serviços.
+A Modalidade dos Atendimentos no eConsult define o tipo de atendimento que será oferecido, podendo ser "presencial" ou "remoto" (atendimento online). A modalidade é escolhida no momento do agendamento, garantindo que o atendimento seja ajustado às necessidades específicas da pessoa atendida. Essa flexibilidade não apenas melhora a experiência do atendimento, mas também facilita a segmentação e análise em relatórios, oferecendo informações valiosas para o gerenciamento dos serviços.
 
 ### Escolher a modalidade de um atendimento
 
@@ -20,7 +20,7 @@ A Modalidade dos Atendimentos no eConsult define o tipo de atendimento que será
 
 Confirmação de Atendimentos no eConsult refere-se ao processo em que o profissional de saúde informa se um atendimento agendado está de fato confirmado para ocorrer. Essa confirmação pode ser feita antes do horário marcado para o atendimento — ou seja, nunca depois que o horário já passou.
 
-Essa informação ajuda o profissional lembrar que ainda precisa de uma confirmação do paciente apesar do atendimento já estar agendado.
+Essa informação ajuda o profissional lembrar que ainda precisa de uma confirmação da pessoa atendida apesar do atendimento já estar agendado.
 
 :::warning
   Mesmo sem confirmação, o sistema já considera esses atendimentos como parte da agenda e os inclui nas previsões de receita, pois há uma expectativa de que eles aconteçam.
@@ -65,29 +65,3 @@ Quando o profissional cadastra múltiplos atendimentos no eConsult:
 
 - Os atendimentos com data e horário já passados ficam com "anotação de realização pendente".
 :::
-
----
-
-## 🎞️ Vídeos Curtos
-
----
-
-#### 🎬 *Confirmando e anotando realização em atendimento*
-
-<video
-  src="https://econsultapp.com/videos/atendimentos/status-atendimento.mp4"
-  height="auto"
-  controls
-  preload="metadata"
-  style={{
-    borderRadius: '12px',
-    maxWidth: '100%',
-    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
-    margin: '8px 0'
-  }}
->
-  Seu navegador não suporta vídeo HTML5.
-</video>
-<p style={{ color: '#666', fontSize: '0.9rem' }}>
-  Neste vídeo, é possível acompanhar uma anotação de "confirmado" e uma de "realizado".
-</p>

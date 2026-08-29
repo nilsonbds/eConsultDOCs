@@ -2,190 +2,229 @@
 sidebar_position: 5
 ---
 
-# Avaliações Psicológicas
+# Escalas Psicológicas
 
-***Avaliações científicas integradas à rotina clínica.***
+**Instrumentos de apoio à triagem e ao acompanhamento clínico.**
 
-A aplicação de **avaliações psicológicas** é parte essencial da prática em saúde mental.  
-No **eConsult**, essa funcionalidade foi projetada para oferecer **rigor técnico**, **praticidade** e **agilidade** ao cotidiano dos psicólogos, integrando **testes científicos**, **pontuação automática** e **interpretações imediatas** diretamente no prontuário eletrônico do paciente.
+O módulo de **Escalas Psicológicas** do eConsult permite aplicar instrumentos clínicos, calcular resultados automaticamente e acompanhar seus registros ao longo do processo terapêutico.
 
----
+As escalas auxiliam na identificação de sintomas, no acompanhamento de mudanças e na organização de informações relevantes para o raciocínio clínico. Seus resultados devem ser analisados pelo profissional em conjunto com entrevistas, observações, histórico e demais informações da pessoa atendida.
 
-## ⚙️ Visão geral da funcionalidade
+:::warning Atenção
 
-O módulo de **Avaliações Psicológicas** permite que o profissional:
+A aplicação de uma escala isolada **não constitui uma avaliação psicológica completa**, não estabelece diagnóstico e não substitui o julgamento clínico do profissional.
 
-- Selecione e aplique **instrumentos validados e de uso livre**;
-- Envie o resultado do teste digitalmente ao paciente (durante o atendimento ou por link remoto);
-- Obtenha **pontuação automática** e **interpretação imediata**;
-- Armazene resultados diretamente no **prontuário eletrônico**, com histórico e comparativos.
-
-> 🔒 Todo o processo é protegido por criptografia e acessível apenas ao psicólogo responsável.
-
----
-
-## 📋 Acessando a funcionalidade
-
-1. Clique no botão ![Avaliação](../../../static/img/prints/03_menu-tarefas-004.png) no *card* do atendimento desejado.
-2. Clique em **Nova Avaliação** ou selecione o paciente desejado.  
-3. Escolha a **escala psicológica** conforme o objetivo clínico (ex.: depressão, ansiedade, resiliência, etc.).  
-4. Responda as perguntas junto com o paciente. 
-5. Após o preenchimento, o sistema gera:
-   - **Pontuação total e por fatores**;  
-   - **Classificação interpretativa** (ex.: leve, moderado, severo);  
-   - **Referências bibliográficas** e **descrição técnica da escala**.  
-6. O resultado fica salvo no **prontuário**, podendo ser exportado ou revisitado em evoluções futuras.
-
----
-
-## 🧩 Avaliações baseadas em evidências
-
-O eConsult reúne instrumentos cientificamente validados e de uso livre para psicólogos, abrangendo diversos domínios:
-
-- Afeto, ansiedade e depressão  
-- Funcionamento cognitivo e executivo  
-- Qualidade de vida e bem-estar  
-- Personalidade e regulação emocional  
-- Apoio social, resiliência e traumas  
-- Saúde mental infantil e adolescente  
-- Risco de suicídio, uso de substâncias e violência  
-
-> Exemplos de escalas disponíveis: **PHQ-9**, **GAD-7**, **BDI-II**, **CD-RISC-10**, **WHOQOL-BREF**, **AUDIT**, **STAXI-2**, **PSS-10**, entre outras.
-
----
-
-## 🧾 Regras e conformidade
-
-O eConsult cumpre as exigências éticas e legais relativas ao uso de instrumentos psicológicos no Brasil.
-
-### 1. Regulamentação profissional
-- Apenas **psicólogos com registro ativo no CRP** podem aplicar e interpretar avaliações.  
-- O sistema valida automaticamente o registro junto ao **CFP**.
-
-### 2. Sigilo e privacidade
-- Todos os dados são **criptografados** e acessíveis **apenas ao profissional**.  
-- O eConsult está em **conformidade com a LGPD**.
-
-### 3. Direitos autorais e validade técnica
-- Somente **instrumentos de domínio público** ou **de uso livre** são incluídos.  
-- Cada escala apresenta suas **referências bibliográficas** e **critérios psicométricos**.  
-- Elimina o risco de uso indevido de instrumentos restritos.
-
-### 4. Responsabilidade profissional
-- A interpretação final é **exclusiva do psicólogo**, cabendo ao sistema apenas o apoio técnico.
-
----
-
-## 🌟 Diferenciais do eConsult
-
-- **Aplicação digital e automatizada** → elimina papéis e cálculos manuais  
-- **Relatórios interpretativos imediatos** → agilidade e precisão  
-- **Instrumentos validados e éticos** → segurança científica e legal  
-- **Integração ao prontuário** → rastreabilidade e histórico longitudinal  
-- **Interface responsiva** → aplicável em desktop, tablet ou smartphone  
-
-:::tip  
-O eConsult transforma a avaliação psicológica em **parte estratégica do cuidado clínico**, integrando-a ao processo terapêutico e aos indicadores de evolução.
 :::
 
 ---
 
-## 🧮 Resultados e relatórios
+## Visão geral da funcionalidade
 
-Após a aplicação, o sistema gera automaticamente:
+O módulo permite ao profissional:
 
-- **Pontuação total e fatoriais**  
-- **Classificação automática** (normal, leve, moderada, grave, etc.)  
-- **Interpretação textual e científica**  
-- **Bibliografia e observações técnicas**  
+- selecionar escalas de acordo com o domínio e o objetivo clínico;
+- aplicar uma escala durante o atendimento;
+- quando permitido, disponibilizar a escala à pessoa atendida por meio de um link;
+- obter o cálculo automático da pontuação total e, quando previsto, da pontuação por fatores;
+- consultar a classificação e as informações interpretativas previstas para o instrumento;
+- acessar referências bibliográficas e informações técnicas;
+- registrar o resultado no prontuário da pessoa atendida;
+- revisar aplicações anteriores e acompanhar mudanças ao longo do tempo.
 
-> 💡 O profissional pode adicionar observações clínicas na funcionalidade "Anotações Clínicas" relacionadas aos testes.
+:::info
 
----
+As classificações apresentadas pelo sistema reproduzem os critérios definidos para cada escala. Elas funcionam como **informações de apoio** e não como conclusões diagnósticas automáticas.
 
-## 🔍 Comparativo com outros sistemas
-
-### Outros sistemas
-- Poucos oferecem **testes psicológicos integrados**;  
-- Quando disponíveis, são genéricos e sem validação científica;  
-- Muitos **não automatizam pontuação** nem geram relatórios interpretativos;  
-- Resultados frequentemente ficam **fora do prontuário**, sem rastreabilidade.
-
-### eConsult
-- Portfólio completo de **escalas científicas de uso livre**;  
-- **Aplicação 100% digital**, com **interpretação imediata**;  
-- **Resultados salvos no prontuário**, vinculados ao paciente;  
-- **Acesso restrito a psicólogos**, conforme regras do **CFP**;  
-- Interface intuitiva, projetada para o fluxo clínico real.
-
-> Em síntese, o eConsult oferece uma solução **ética, integrada e baseada em evidências**, substituindo formulários dispersos, PDFs e planilhas externas.
-
----
-
-## ⚖️ Limites de uso e propósito clínico
-
-:::warning  
-As **Avaliações Psicológicas do eConsult** têm finalidade de **triagem e acompanhamento clínico digital**.  
-Apesar de baseadas em instrumentos científicos reconhecidos, **não substituem testes padronizados** aplicados sob controle supervisionado.  
-Os resultados devem ser entendidos como **indicadores auxiliares** dentro da **avaliação profissional completa**.
 :::
 
 ---
 
-## 🧭 Análise crítica da funcionalidade
+## Acessando as Escalas Psicológicas
 
-O módulo de **Avaliações Psicológicas do eConsult** se destaca por unir **rastreabilidade clínica**, **profundidade técnica** e **conformidade ética**, oferecendo um equilíbrio raro entre tecnologia e ciência.
+1. Localize o atendimento desejado.
+2. No *card* do atendimento, clique no botão de **Escalas Psicológicas**:  
+   ![Escalas Psicológicas](../../../static/img/prints/buttons/btn-escalas.png)
+3. Clique em **Aplicar Nova Escala**.
+4. Consulte uma das opções disponíveis:
+   - **Escalas Sugeridas:** apresenta instrumentos relacionados ao contexto clínico registrado;
+   - **Todas as Escalas:** exibe a biblioteca completa de instrumentos disponíveis.
+5. Escolha a escala de acordo com o objetivo clínico.
+6. Confira sua descrição, finalidade, público-alvo, orientações e referências antes de iniciar a aplicação.
 
-### ⚙️ Design funcional
-- Integra-se naturalmente ao prontuário e aos atendimentos.  
-- Evita o uso de planilhas, PDFs ou ferramentas externas.  
-- O fluxo de aplicação → pontuação → relatório → prontuário é contínuo e automatizado.
+### Atendimentos individuais
 
-### 🔒 Ética e segurança
-- Cumpre integralmente as normas do **CFP** e a **LGPD**.  
-- Usa apenas instrumentos **cientificamente validados** e de **domínio público**.  
-- Garante **acesso exclusivo ao psicólogo**, preservando sigilo e controle profissional.
+Em atendimentos individuais, a aplicação é vinculada diretamente à pessoa atendida.
 
-### 💡 Usabilidade e experiência
-- Interface simples e responsiva.  
-- Interpretação automática com opção de revisão manual.  
-- Suporte a aplicações remotas ou presenciais.  
-- Futuro promissor: inclusão de comparativos longitudinais e dashboards de evolução psicométrica.
+### Atendimentos de casal, família ou grupo
 
-### 🧩 Escalabilidade e operação
-- Biblioteca crescente de escalas atualizável via JSON.  
-- Arquitetura modular pronta para receber novos instrumentos.  
-- Integração com o módulo de **Anotações Clínicas** e **Prontuário** para geração de hipóteses diagnósticas através de IA.
+Em atendimentos de casal, família ou grupo, selecione primeiro o membro ao qual a aplicação será vinculada. O resultado será armazenado no prontuário individual desse membro, preservando a identificação correta das informações.
 
 ---
 
-## ✅ Conclusão
+## Formas de aplicação
 
-O **módulo de Avaliações Psicológicas** do **eConsult** é uma das implementações mais completas do mercado para psicólogos.  
-Combina **evidência científica**, **automação clínica** e **respeito ético**, consolidando o eConsult como uma ferramenta de **suporte à decisão psicológica baseada em dados**, sem comprometer a autonomia profissional.
+### Aplicação durante o atendimento
+
+O profissional pode preencher a escala junto à pessoa atendida durante uma sessão presencial ou remota.
+
+Antes de registrar cada resposta, confirme se a pessoa compreendeu o enunciado e as alternativas apresentadas, sem interferir indevidamente no conteúdo da resposta.
+
+### Aplicação por link
+
+Quando essa modalidade estiver disponível e for adequada ao instrumento, o profissional poderá gerar um link para que a pessoa atendida responda à escala remotamente.
+
+O envio por link não transfere ao sistema a responsabilidade pela condução clínica. Cabe ao profissional:
+
+- verificar se a aplicação remota é apropriada;
+- fornecer as orientações necessárias;
+- considerar as condições em que o instrumento foi respondido;
+- analisar o resultado dentro do contexto clínico;
+- realizar o acolhimento ou manejo necessário diante de respostas sensíveis ou indicadores de risco.
+
+:::warning
+
+Nem todo instrumento admite aplicação informatizada ou remota. Quando se tratar de teste psicológico, devem ser observadas as condições de aplicação, correção e interpretação previstas em seu manual e no **Sistema de Avaliação de Testes Psicológicos — SATEPSI**.
+
+:::
 
 ---
 
-## 🎞️ Vídeos Curtos
+## Resultado da aplicação
+
+Após o preenchimento, o eConsult poderá apresentar, conforme as características da escala:
+
+- pontuação total;
+- pontuação por dimensões ou fatores;
+- faixa de classificação;
+- informações interpretativas de apoio;
+- observações técnicas;
+- referências bibliográficas.
+
+O resultado fica vinculado à pessoa atendida e pode ser consultado posteriormente no prontuário.
+
+:::tip Leitura clínica do resultado
+
+Considere a pontuação em conjunto com o motivo do atendimento, o contexto de aplicação, o histórico clínico, as observações das sessões e outras fontes de informação. Mudanças na pontuação podem apoiar o acompanhamento longitudinal, mas devem ser interpretadas clinicamente.
+
+:::
 
 ---
 
-#### 🎬 *Incluindo uma avaliação psicológica em um atendimento*
+## Registro no prontuário
 
-<video
-  src="https://econsultapp.com/videos/atendimentos/incluindo-avaliacao-psicologica-em-um-atendimento.mp4"
-  height="auto"
-  controls
-  preload="metadata"
-  style={{
-    borderRadius: '12px',
-    maxWidth: '100%',
-    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
-    margin: '8px 0'
-  }}
->
-  Seu navegador não suporta vídeo HTML5.
-</video>
-<p style={{ color: '#666', fontSize: '0.9rem' }}>
-  Neste vídeo, é possível acompanhar a inclusão de uma avaliação psicológica em um atendimento.
-</p>
+O resultado da escala passa a integrar o histórico clínico da pessoa atendida. O profissional também pode utilizar a funcionalidade de **Anotações Clínicas** para registrar:
+
+- o motivo da aplicação;
+- as condições em que a escala foi respondida;
+- observações relevantes durante o preenchimento;
+- a análise clínica do resultado;
+- condutas, encaminhamentos ou pontos a serem acompanhados.
+
+Esse registro ajuda a contextualizar o resultado e evita que a pontuação seja interpretada de forma isolada em consultas futuras.
+
+---
+
+## Domínios disponíveis
+
+A biblioteca do eConsult organiza as escalas em diferentes domínios:
+
+- Triagem Geral;
+- Infantil;
+- Ansiedade e Pânico;
+- Humor e Bipolaridade;
+- Trauma;
+- Sono;
+- Substâncias;
+- Funcionalidade;
+- Qualidade de Vida;
+- Processos Clínicos;
+- Processo Terapêutico;
+- Núcleo de Inteligência Clínica;
+- Gestão Clínica e Priorização;
+- Outros.
+
+Essa organização facilita a localização de instrumentos relacionados à necessidade clínica observada. A presença de uma escala em determinado domínio não significa, por si só, que sua aplicação seja indicada para todos os casos.
+
+---
+
+## Escalas, testes e avaliação psicológica
+
+Embora esses termos estejam relacionados, eles não são equivalentes:
+
+- **Escala psicológica:** instrumento utilizado para mensurar, rastrear ou acompanhar determinados sintomas, comportamentos, percepções ou aspectos do funcionamento psicológico.
+- **Teste psicológico:** instrumento de uso profissional da Psicologia que deve atender às exigências técnicas e às condições de uso estabelecidas pelo Conselho Federal de Psicologia.
+- **Avaliação psicológica:** processo estruturado de investigação que integra diferentes métodos, técnicas, instrumentos e fontes de informação para subsidiar uma decisão profissional.
+
+Uma escala pode integrar uma avaliação psicológica, mas **não representa, isoladamente, todo o processo avaliativo**.
+
+Para consultar a situação e as condições de uso de testes psicológicos, acesse o [SATEPSI](https://satepsi.cfp.org.br/).
+
+---
+
+## Cuidados técnicos e éticos
+
+### Uso adequado do instrumento
+
+Antes da aplicação, verifique:
+
+- a finalidade da escala;
+- o público-alvo e a faixa etária;
+- as evidências científicas disponíveis;
+- as condições recomendadas de aplicação;
+- as limitações de interpretação;
+- a situação do instrumento no SATEPSI, quando aplicável;
+- eventuais restrições de direitos autorais ou de reprodução.
+
+Estar cientificamente fundamentado ou constar no SATEPSI **não significa necessariamente que um instrumento seja de domínio público ou possa ser digitalizado, reproduzido ou aplicado remotamente sem autorização**.
+
+### Responsabilidade profissional
+
+O eConsult automatiza cálculos e apresenta informações associadas ao instrumento, mas a análise final permanece sob responsabilidade do profissional.
+
+O resultado não deve ser utilizado isoladamente para:
+
+- estabelecer diagnóstico;
+- confirmar ou excluir uma condição clínica;
+- tomar decisões de alto impacto;
+- substituir entrevista, observação ou outras fontes de informação;
+- produzir documentos psicológicos sem fundamentação técnica suficiente.
+
+### Sigilo e proteção de dados
+
+As respostas e os resultados de escalas contêm dados pessoais sensíveis. O acesso às informações é controlado conforme as permissões definidas no sistema, e o profissional deve observar o sigilo, a finalidade do tratamento e os demais deveres previstos na legislação e nas normas profissionais.
+
+Ao enviar uma escala por link ou compartilhar seus resultados, confirme a identidade do destinatário e utilize um canal adequado para informações clínicas.
+
+---
+
+## Benefícios para o acompanhamento clínico
+
+Quando utilizadas de forma adequada, as Escalas Psicológicas podem contribuir para:
+
+- estruturar a coleta de informações;
+- apoiar a triagem clínica;
+- identificar aspectos que merecem investigação adicional;
+- acompanhar sintomas e indicadores ao longo do tempo;
+- observar respostas às intervenções;
+- enriquecer os registros clínicos;
+- apoiar o diálogo entre profissional e pessoa atendida.
+
+O principal benefício não está apenas na pontuação automática, mas na possibilidade de integrar o resultado ao histórico e compreender sua evolução dentro do processo terapêutico.
+
+---
+
+## Limites de uso
+
+:::warning
+
+As Escalas Psicológicas do eConsult são recursos de apoio à triagem, à investigação e ao acompanhamento clínico.
+
+Seus resultados:
+
+- não constituem diagnóstico automático;
+- não substituem uma avaliação profissional completa;
+- não devem ser interpretados fora do contexto clínico;
+- não dispensam o cumprimento das orientações técnicas do instrumento;
+- não autorizam o uso de instrumentos restritos ou protegidos sem a devida permissão.
+
+:::
