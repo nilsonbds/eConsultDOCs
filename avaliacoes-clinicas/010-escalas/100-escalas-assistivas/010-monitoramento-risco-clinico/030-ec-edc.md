@@ -142,7 +142,7 @@ A escala pode ser utilizada para:
 
 ## Perguntas Frequentes
 
-### A EC-EDC substitui escalas clínicas tradicionais?
+### A EC-EDC substitui escalas psicológicas tradicionais?
 
 Não. Ela atua como instrumento complementar de acompanhamento longitudinal.
 
