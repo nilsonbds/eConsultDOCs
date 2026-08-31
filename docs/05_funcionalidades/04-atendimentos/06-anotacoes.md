@@ -4,13 +4,13 @@ sidebar_position: 6
 
 # Anotações Clínicas
 
-Você pode elaborar anotações detalhadas para os atendimentos realizados no eConsult, com o objetivo de registrar informações essenciais, desde o motivo inicial do atendimento até observações feitas durante a interação. Essas anotações são fundamentais para documentar decisões, raciocínios e orientações fornecidas ao paciente, garantindo que o atendimento seja compreendido e que haja continuidade adequada nos cuidados ou serviços prestados.
+Você pode elaborar anotações detalhadas para os atendimentos realizados no eConsult, com o objetivo de registrar informações essenciais, desde o motivo inicial do atendimento até observações feitas durante a interação. Essas anotações são fundamentais para documentar decisões, raciocínios e orientações fornecidas a pessoa atendida, garantindo que o atendimento seja compreendido e que haja continuidade adequada nos cuidados ou serviços prestados.
 
-As anotações podem incluir detalhes como o histórico do paciente, relatos, respostas a perguntas específicas, além de orientações ou recomendações feitas durante o atendimento. A precisão e a clareza são cruciais para assegurar que todas as informações sejam facilmente compreendidas e possam ser referenciadas posteriormente.
+As anotações podem incluir detalhes como o histórico da pessoa atendida, relatos, respostas a perguntas específicas, além de orientações ou recomendações feitas durante o atendimento. A precisão e a clareza são cruciais para assegurar que todas as informações sejam facilmente compreendidas e possam ser referenciadas posteriormente.
 
-Essas anotações podem ser de uso interno, servindo exclusivamente como referência para o profissional, ou podem ser integradas ao prontuário do paciente. Quando publicadas no prontuário, tornam-se parte permanente do registro do paciente, acessíveis para futuros atendimentos e podendo ser visualizadas pelo paciente.
+Essas anotações podem ser de uso interno, servindo exclusivamente como referência para o profissional, ou podem ser integradas ao prontuário da pessoa atendida. Quando publicadas no prontuário, tornam-se parte permanente do registro, acessíveis para futuros atendimentos e podendo ser visualizadas pela pessoa atendida.
 
-A decisão de publicar ou não as anotações no prontuário deve levar em conta a relevância das informações para o histórico do paciente e a necessidade de compartilhá-las, a fim de garantir um cuidado contínuo e eficaz. Independentemente de serem publicadas no prontuário, todas as anotações são realizadas com rigor e em conformidade com as normas de confidencialidade e privacidade, garantindo a proteção dos dados do paciente e a integridade do processo de atendimento.
+A decisão de publicar ou não as anotações no prontuário deve levar em conta a relevância das informações para o histórico da pessoa atendida e a necessidade de compartilhá-las, a fim de garantir um cuidado contínuo e eficaz. Independentemente de serem publicadas no prontuário, todas as anotações são realizadas com rigor e em conformidade com as normas de confidencialidade e privacidade, garantindo a proteção dos dados da pessoa atendida e a integridade do processo de atendimento.
 
 ## Incluir anotação para o atendimento utilizando marcadores clínicos previamente cadastrados
 
@@ -40,7 +40,7 @@ A decisão de publicar ou não as anotações no prontuário deve levar em conta
 
     ![Atendimento](../../../static/img/prints/atendimento/100.png)
 
-1. Marque o campo "Compartilhar com o paciente" se quiser disponibilizar para que o paciente visualize a anotação na Área do Paciente e acione o botão "Salvar anotação clínica".
+1. Marque o campo "Compartilhar com a pessoa atendida" se quiser disponibilizar para que a pessoa atendida visualize a anotação na Área da pessoa atendida e acione o botão "Salvar anotação clínica".
 
     ![Atendimento](../../../static/img/prints/atendimento/101.png)
 
@@ -70,7 +70,7 @@ A decisão de publicar ou não as anotações no prontuário deve levar em conta
 
     ![Atendimento](../../../static/img/prints/atendimento/103.png)
 
-1. Marque o campo "Compartilhar com o paciente" se quiser disponibilizar para que o paciente visualize a anotação na Área do Paciente, preencha o campo correspondente à anotação e acione o botão "Salvar anotação clínica".
+1. Marque o campo "Compartilhar com a pessoa atendida" se quiser disponibilizar para que a pessoa atendida visualize a anotação no Portal Relacional, preencha o campo correspondente à anotação e acione o botão "Salvar anotação clínica".
 
     ![Atendimento](../../../static/img/prints/atendimento/104.png)
 
@@ -130,7 +130,7 @@ A decisão de publicar ou não as anotações no prontuário deve levar em conta
 
     ![Atendimento](../../../static/img/prints/atendimento/100.png)
 
-1. Marque o campo "Compartilhar com o paciente" se quiser disponibilizar para que o paciente visualize a anotação na Área do Paciente e acione o botão "Salvar anotação clínica".
+1. Marque o campo "Compartilhar com a pessoa atendida" se quiser disponibilizar para que a pessoa atendida visualize a anotação no Portal Relacional e acione o botão "Salvar anotação clínica".
 
     ![Atendimento](../../../static/img/prints/atendimento/111.png)
 

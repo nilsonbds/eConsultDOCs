@@ -133,10 +133,11 @@ diagnósticas automáticas.
     - **Instrumentos psicométricos sugeridos:** apresenta instrumentos e indicadores sugeridos (relacionados ao contexto clínico da pessoa atendida); ou
     - **Todos os instrumentos:** exibe a biblioteca completa de instrumentos disponível no eConsult.
 
-5.  Confira sua descrição, finalidade, público-alvo, orientações, forma
-    de interpretação e referências disponíveis antes da aplicação.
+5.  Selecione uma escala ou indicador conferindo sua descrição.
 
-:::tip Sugestões do eConsult
+6. Aplique o instrumento respondendo as peguntas junto a pessoa atendida ou envie para a pessoa responder pelo Portal Relacional.
+
+:::tip Instrumentos psicométricos sugeridos
 
 As sugestões apresentadas pelo eConsult funcionam como um recurso de
 apoio à decisão. Elas ajudam a localizar escalas ou indicadores
@@ -155,7 +156,7 @@ pessoa atendida.
 
 ### Atendimentos de casal, família ou grupo
 
-Em atendimentos de casal, família ou grupo, selecione o membro
+Para atendimentos de casal, família ou grupo, selecione o membro
 ao qual a aplicação será vinculada. O resultado será armazenado no
 prontuário individual desse membro, preservando a identificação correta
 das informações.
