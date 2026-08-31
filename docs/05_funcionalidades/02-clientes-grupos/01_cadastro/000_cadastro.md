@@ -14,7 +14,7 @@ O cadastro foi pensado para reunir, em um único lugar, todas as informações e
 
 1. **Aba Geral**
 
-    ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-geral.png) 
+    ![Aba Geral](../../../../static/img/prints/buttons/aba-geral.png) 
 
     Reúne os **dados básicos de identificação e contato** — nome, CPF, data de nascimento, telefone, e-mail etc. São as informações mínimas exigidas para localizar rapidamente a pessoa, casal, família ou grupo e manter uma comunicação eficiente.
     
@@ -22,44 +22,43 @@ O cadastro foi pensado para reunir, em um único lugar, todas as informações e
 
 2. **Aba Campos Adicionais**
 
-    ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-adicionais.png)
+    ![Aba Campos Adicionais](../../../../static/img/prints/buttons/aba-adicionais.png)
 
     Permite **criar campos personalizados** para atender necessidades específicas do seu serviço: preferências, referências internas, observações técnicas ou qualquer outro dado relevante. **Dessa forma, o cadastro se adapta ao seu fluxo de trabalho, mantendo tudo padronizado e pesquisável.
 
 3. **Aba Portal Relacional**
 
-    ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-area.png)
-
+    ![Aba Portal Relacional](../../../../static/img/prints/buttons/aba-area.png)
 
     Permite **configurar e gerenciar o acesso da pessoa atendida ao Portal Relacional**, uma funcionalidade exclusiva do eConsult que oferece **autonomia, praticidade e acesso seguro** às suas informações clínicas e financeiras. **Dessa forma, o portal fortalece a relação de confiança entre a pessoa atendida e o psicólogo, promovendo uma comunicação ética, organizada e transparente.**
 
 3. **Aba Membros do Grupo**
 
-    ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-grupo.png)
+    ![Aba Membros do Grupo](../../../../static/img/prints/buttons/aba-grupo.png)
 
     (Exclusiva para cadastros de casais, famílias ou grupos) Facilita a **vinculação de membros**: adicione, remova ou consulte participantes de forma organizada, garantindo rastreabilidade e agilizando a gestão coletiva de atendimentos.
 
 5. **Aba Atendimentos**
 
-    ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-atendimentos.png)
+    ![Aba Atendimentos](../../../../static/img/prints/buttons/aba-atendimentos.png)
 
     Exibe um **histórico detalhado de todos os atendimentos** já realizados — data, horário, modalidade (presencial ou online) e profissional responsável. **É aqui que você acompanha a evolução clínica, identifica padrões e planeja as próximas etapas.
 
 6. **Aba Remarcações e Desmarcações**
 
-    ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-desmarcacao-remarcacao.png)
+    ![Aba Remarcações e Desmarcações](../../../../static/img/prints/buttons/aba-desmarcacao-remarcacao.png)
 
     Registra automaticamente toda alteração de agenda, fornecendo **visão clara da frequência de mudanças** e ajudando a detectar comportamentos que merecem atenção (ex.: faltas recorrentes).
 
 7. **Aba Faturas**
 
-    ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-faturas.png)
+    ![Aba Faturas](../../../../static/img/prints/buttons/aba-faturas.png)
 
     Centraliza a **gestão financeira**: emissão, status de pagamento, valores e vencimentos de cada fatura vinculada a pessoa, casal, família ou grupo atendido. **Tudo em um painel único, pronto para consultas rápidas e relatórios.
 
 8. **Aba Créditos e Perdas**
 
-    ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-creditos-perdas.png)
+    ![Aba Créditos e Perdas](../../../../static/img/prints/buttons/aba-creditos-perdas.png)
 
     - **Créditos Antecipados:** controla valores pré-pagos que poderão ser abatidos em atendimentos futuros, com total transparência.
 
@@ -67,25 +66,25 @@ O cadastro foi pensado para reunir, em um único lugar, todas as informações e
 
 9. **Aba Arquivos**
 
-    ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-arquivos.png)
+    ![Aba Arquivos](../../../../static/img/prints/buttons/aba-arquivos.png)
 
     Armazena **documentos, exames, laudos ou quaisquer arquivos** relevantes ao atendimento. **Mantém tudo centralizado, acessível e seguro, dispensando buscas em diferentes sistemas ou pastas físicas.
 
-10. **Aba Escalas**
+10. **Aba Instruentos**
 
-    ![Painel de Escalas](../../../../static/img/prints/buttons/aba-escalas.png)
+    ![Aba Instruentos](../../../../static/img/prints/buttons/aba-instrumentos.png)
 
-    Permite **consultar e programar a aplicação de escalas e instrumentos clínicos** para a pessoa atendida. Os instrumentos são organizados por categorias e podem ser pesquisados ou filtrados conforme as sugestões clínicas. **Dessa forma, você seleciona a escala mais adequada para cada etapa do processo terapêutico e acompanha as aplicações de maneira prática e organizada.**
+    Permite **consultar e programar a aplicação de instrumentos psicométricos** para a pessoa atendida. Os instrumentos são organizados por categorias e podem ser pesquisados ou filtrados conforme as sugestões clínicas. **Dessa forma, você seleciona o instrumento psicométrico mais adequado para cada etapa do processo terapêutico e acompanha as aplicações de maneira prática e organizada.**
 
 11. **Aba Prontuários**
 
-    ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-prontuario.png)
+    ![Aba Prontuários](../../../../static/img/prints/buttons/aba-prontuario.png)
 
     Funciona como um **prontuário eletrônico completo**: diagnósticos, evoluções, prescrições e observações clínicas. **Garante continuidade de cuidado e conformidade com boas práticas de saúde.
 
 12. **Aba Evolução**
 
-    ![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-resultado.png)
+    ![Aba Evolução](../../../../static/img/prints/buttons/aba-resultado.png)
 
     Oferece **gráficos e indicadores** que medem a evolução longitudinal por marcadores clínicos e escalas correlacionando volume de atendimentos, custos operacionais e receita. Essa visão analítica facilita a tomada de decisões estratégicas e melhora o equilíbrio entre resultados clínicos e financeiros.
 

@@ -4,7 +4,7 @@ sidebar_position: 80
 
 # Aba Remarcações e Desmarcações
 
-![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-desmarcacao-remarcacao.png)
+![Permite fazer a gestão das desmarcações e remarcações de atendimentos da pessoa atendida.](../../../../static/img/prints/buttons/aba-desmarcacao-remarcacao.png)
 
 A aba Remarcações e Desmarcações exibe o histórico detalhado de todas as remarcações e desmarcações de atendimentos da pessoa atendida.
 

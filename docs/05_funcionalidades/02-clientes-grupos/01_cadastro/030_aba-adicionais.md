@@ -4,7 +4,7 @@ sidebar_position: 30
 
 # Aba Campos Adicionais
 
-![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-adicionais.png)
+![Permite a utilização do formulário padrão de campos adicionais para pessoas atendidas ou personalizar um formulário.](../../../../static/img/prints/buttons/aba-adicionais.png)
 
 O eConsult permite criar um formulário de campos adicionais para a pessoa atendida.
 

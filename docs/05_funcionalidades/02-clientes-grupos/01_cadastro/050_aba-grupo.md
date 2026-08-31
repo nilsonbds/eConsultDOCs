@@ -4,7 +4,7 @@ sidebar_position: 50
 
 # Aba Membros do Grupo
 
-![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-grupo.png)
+![Permite incluir ou excluir membros ao casal, família ou grupo terapêutico.](../../../../static/img/prints/buttons/aba-grupo.png)
 
 **Específica para casais, famílias ou grupos terapêuticos**, a aba "Membros do Grupo" oferece uma interface intuitiva para vincular e desvincular membros de forma prática, facilitando um gerenciamento mais ágil, organizado e eficiente dos integrantes do grupo terapêutico.
 

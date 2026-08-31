@@ -4,7 +4,7 @@ sidebar_position: 130
 
 # Aba Evolução
 
-![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-resultado.png)
+![Permite acompanhar a evolução da pessoa atendida por meio de indicadores administrativos, financeiros e clínicos, oferecendo uma visão integrada do acompanhamento ao longo do tempo. As informações são organizadas nas áreas Evolução, Instrumentos, Panorama e Resumos, que apresentam diferentes perspectivas para apoiar a análise e a tomada de decisão do profissional.](../../../../static/img/prints/buttons/aba-resultado.png)
 
 A aba **Evolução** reúne indicadores administrativos, financeiros e clínicos da pessoa atendida ao longo do tempo.  
 O objetivo é oferecer ao profissional uma visão integrada do acompanhamento, apoiando decisões mais informadas sobre o manejo, a organização da agenda e a sustentabilidade do cuidado.
@@ -12,7 +12,7 @@ O objetivo é oferecer ao profissional uma visão integrada do acompanhamento, a
 O painel está organizado em quatro sub-abas:
 
 - **Evolução**
-- **Escalas**
+- **Instrumentos**
 - **Panorama**
 - **Resumos**
 
@@ -20,7 +20,7 @@ Cada uma oferece um nível diferente de leitura do acompanhamento.
 
 ---
 
-## Sub-aba Evolução
+## Sub-aba "Evolução"
 
 A sub-aba **Evolução** apresenta a leitura longitudinal clínica baseada nos **marcadores clínicos** registrados ao longo das sessões.
 
@@ -101,21 +101,27 @@ Essa visualização permite observar:
 
 ---
 
-## Sub-aba Escalas
+## Sub-aba "Instrumentos"
 
-A sub-aba **Escalas** apresenta a evolução dos resultados das escalas clínicas aplicadas ao longo do acompanhamento.
+A sub-aba **Instrumentos** apresenta a evolução dos resultados dos instrumentos psicométricos aplicados ao longo do acompanhamento.
 
 Seu objetivo é apoiar a **triagem**, o **monitoramento clínico** e a identificação de mudanças nos indicadores avaliados ao longo do tempo.
 
-![Escalas aplicadas](../../../../static/img/prints/clientegrupo/clientegrupo-088.png)
+![Instrumentos aplicados](../../../../static/img/prints/clientegrupo/clientegrupo-088.png)
 
-> ⚠️ **Aviso ao profissional:** as escalas apresentadas oferecem indicadores complementares e não constituem, isoladamente, uma avaliação psicológica formal. Seus resultados não substituem testes psicológicos padronizados, o raciocínio clínico nem o julgamento técnico do profissional.
+:::caution
 
-### Escala aplicada
+**Aviso ao profissional**
 
-No campo **Escalas aplicadas**, selecione o instrumento que deseja analisar. A lista apresenta as escalas respondidas pela pessoa atendida durante o acompanhamento.
+Os resultados dos instrumentos devem ser interpretados considerando sua finalidade, características e contexto de aplicação. O uso de instrumentos de triagem ou monitoramento não substitui o julgamento clínico profissional nem, quando exigível, uma avaliação psicológica realizada com instrumentos e procedimentos adequados à finalidade proposta.
 
-Ao selecionar uma escala, o sistema exibe um gráfico com:
+:::
+
+### Instrumentos Aplicados
+
+No campo **Instrumentos Aplicados**, selecione o instrumento que deseja analisar. A lista apresenta os instrumentos que foram respondidos durante o acompanhamento.
+
+Ao selecionar um instrumento, o sistema exibe um gráfico com:
 
 * as datas das aplicações;
 * a pontuação obtida em cada aplicação;
@@ -141,19 +147,19 @@ Abaixo do gráfico, o sistema apresenta uma síntese da aplicação mais recente
 * classificação correspondente ao resultado;
 * indicação da direção da evolução.
 
-A variação permite verificar a diferença entre o resultado inicial e o mais recente. Sua interpretação deve considerar as características do instrumento: em algumas escalas, a redução da pontuação representa melhora; em outras, o significado pode ser diferente.
+A variação permite verificar a diferença entre o resultado inicial e o mais recente. Sua interpretação deve considerar as características do instrumento: em alguns instrumentos, a redução da pontuação representa melhora; em outras, o significado pode ser diferente.
 
-> 💡 A indicação de evolução favorável ou desfavorável é calculada de acordo com os critérios da escala selecionada e deve ser interpretada em conjunto com o contexto clínico.
+> 💡 A indicação de evolução favorável ou desfavorável é calculada de acordo com os critérios do instrumento selecionado e deve ser interpretada em conjunto com o contexto clínico.
 
 ### Sobre o instrumento
 
-A seção **Sobre o instrumento** apresenta uma descrição resumida da finalidade da escala, indicando o construto ou a condição clínica que ela auxilia a rastrear ou monitorar.
+A seção **Sobre o instrumento** apresenta uma descrição resumida da finalidade do instrumento, indicando o construto ou a condição clínica que ela auxilia a rastrear ou monitorar.
 
 Essas informações ajudam o profissional a compreender o objetivo do instrumento e a contextualizar seus resultados no acompanhamento.
 
 ### Referência técnica
 
-Ao final da sub-aba, são apresentadas as informações bibliográficas relacionadas à escala, como:
+Ao final da sub-aba, são apresentadas as informações bibliográficas relacionadas ao instrumento, como:
 
 * autores do instrumento;
 * referência da publicação original;
@@ -162,11 +168,11 @@ Ao final da sub-aba, são apresentadas as informações bibliográficas relacion
 
 As referências permitem consultar a fundamentação científica do instrumento e aprofundar a análise de suas propriedades e formas de utilização.
 
-> ⚠️ Os resultados das escalas devem ser analisados em conjunto com entrevistas, observações, registros clínicos e demais informações disponíveis sobre a pessoa atendida.
+> ⚠️ Os resultados dos instrumentos devem ser analisados em conjunto com entrevistas, observações, registros clínicos e demais informações disponíveis sobre a pessoa atendida.
 
 ---
 
-## Sub-aba Panorama
+## Sub-aba "Panorama"
 
 A sub-aba **Panorama** apresenta uma visão gráfica longitudinal dos principais indicadores administrativos da pessoa atendida.
 
@@ -273,7 +279,7 @@ Essa flexibilidade facilita a identificação de tendências, oscilações e mud
 
 ---
 
-## Sub-aba Resumos
+## Sub-aba "Resumos"
 
 A sub-aba **Resumos** apresenta um consolidado administrativo do mês selecionado, organizado em *cards* sintéticos.
 
@@ -390,7 +396,5 @@ A aba **Evolução** foi desenvolvida para:
 - tornar visível a evolução do acompanhamento  
 - qualificar o planejamento do manejo  
 - fortalecer a tomada de decisão baseada em dados  
-
----
 
 > ⚠️ **Importante:** As análises apresentadas são ferramentas de apoio. A interpretação clínica e as decisões terapêicas são sempre de responsabilidade do profissional.

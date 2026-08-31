@@ -4,7 +4,7 @@ sidebar_position: 70
 
 # Aba Atendimentos
 
-![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-atendimentos.png)
+![Permite fazer a gestão dos atendimentos da pessoa atendida.](../../../../static/img/prints/buttons/aba-atendimentos.png)
 
 A aba Atendimentos exibe o histórico completo de atendimentos realizados e auxilia no planejamento dos atendimentos futuros, oferecendo uma visão integrada e contínua do relacionamento com cada pessoa atendida. Esse registro detalhado é uma ferramenta essencial para os profissionais, pois permite acompanhar a evolução e o progresso de cada pessoa atendida ao longo do tempo.
 

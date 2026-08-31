@@ -4,7 +4,7 @@ sidebar_position: 120
 
 # Aba Prontuário
 
-***Gestão clínica completa, ética e inteligente.***
+![Permite gerar, editar, visualizar e imprimir prontuários, tanto em processo de elaboração quanto já finalizados.](../../../../static/img/prints/buttons/aba-prontuario.png)
 
 O **Prontuário Eletrônico** do **eConsult** foi projetado para unir **rigor técnico**, **flexibilidade de uso** e **segurança avançada**, atendendo às necessidades específicas de psicólogos que trabalham com atendimentos individuais, casais, famílias ou grupos terapêuticos.  
 

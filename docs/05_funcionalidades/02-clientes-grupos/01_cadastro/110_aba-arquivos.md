@@ -4,7 +4,7 @@ sidebar_position: 110
 
 # Aba Arquivos
 
-![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-arquivos.png)
+![Permite fazer a gestão de arquivos anexados a pessoa atendida.](../../../../static/img/prints/buttons/aba-arquivos.png)
 
 :::warning
 A aba Arquivos não será mostrada se você não fizer antes a configuração "**[Integração com Google Drive](/docs/funcionalidades/configuracoes/integracoes/googledrive)**".

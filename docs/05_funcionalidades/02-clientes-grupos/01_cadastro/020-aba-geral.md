@@ -4,7 +4,7 @@ sidebar_position: 20
 
 # Aba Geral 
 
-![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-geral.png)
+![Permite o cadastro de informações gerais da pessoa atendida e endereços.](../../../../static/img/prints/buttons/aba-geral.png)
 
 No cadastro de Pessoa Atendida, na aba "Geral", os campos são organizados para a inserção das informações essenciais. Nesta seção, apenas "Tipo de Atendimento" e "Nome Completo" são de preenchimento obrigatório. Esses dados são fundamentais para atender às exigências mínimas necessárias para o registro.
 

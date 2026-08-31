@@ -4,7 +4,7 @@ sidebar_position: 100
 
 # Aba Créditos e Perdas
 
-![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-creditos-perdas.png)
+![Permite fazer a gestão de créditos e perdas relacionados a pessoa atendida.](../../../../static/img/prints/buttons/aba-creditos-perdas.png)
 
 A aba Créditos e Perdas oferece funcionalidades para o gerenciamento de créditos antecipados e perdas financeiras, garantindo um controle financeiro preciso e confiável.
 

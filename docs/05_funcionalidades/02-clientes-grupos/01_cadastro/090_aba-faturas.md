@@ -4,7 +4,7 @@ sidebar_position: 90
 
 # Aba Faturas
 
-![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/aba-faturas.png)
+![Permite fazer a gestão de faturas emitidas para a pessoa atendida.](../../../../static/img/prints/buttons/aba-faturas.png)
 
 A aba Faturas no eConsult é uma ferramenta essencial para a gestão financeira e o controle das transações realizadas com as pessoas atendidas. Nesta aba, você encontrará um conjunto completo de funcionalidades que ajudam a organizar, visualizar e gerenciar todas as faturas associadas aos atendimentos.
 

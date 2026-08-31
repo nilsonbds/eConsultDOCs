@@ -4,6 +4,8 @@ sidebar_position: 40
 
 # Aba Portal Relacional
 
+![Permite conceder acessos a pessoa atendida do Portal Relacional.](../../../../static/img/prints/buttons/aba-area.png)
+
 ***Autonomia, transparência e vínculo terapêutico em um só ambiente.***
 
 O **Portal Relacional** é uma funcionalidade exclusiva do **eConsult**, desenvolvida para oferecer a pessoa atendida **autonomia, praticidade e acesso seguro** às suas informações clínicas e financeiras.  

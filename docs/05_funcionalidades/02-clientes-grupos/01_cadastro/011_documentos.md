@@ -6,6 +6,8 @@ sidebar_position: 11
 
 O botão **Documentos** presente na tela **Pessoa Atendida** do eConsult permite que o psicólogo imprima documentos diretamente vinculados ao paciente/cliente selecionado.
 
+![Botão Documentos](../../../../static/img/prints/clientegrupo/clientegrupo-089.png)
+
 ![Botão Documentos](../../../../static/img/prints/clientegrupo/clientegrupo-073.png)
 
 Essa funcionalidade integra o módulo de Documentos ao contexto clínico, tornando o acesso mais rápido e organizado durante o atendimento.
@@ -42,6 +44,7 @@ Esses modelos podem ser utilizados conforme a necessidade do caso clínico, gara
    - Visualizar o resultado em tempo real;  
    - Gerar PDF ou Word para impressão ou assinatura.  
 6. Clique em **Gerar PDF** ou **Gerar Word** para emitir o documento final.
+
    ![Botão Documentos](../../../../static/img/prints/clientegrupo/clientegrupo-086.png)
 
 ---
