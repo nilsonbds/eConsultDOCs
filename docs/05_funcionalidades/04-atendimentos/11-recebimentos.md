@@ -28,11 +28,11 @@ Cada transação registrada conta com informações detalhadas, como o "nome do 
 
 - **Faturas e Recibos**
 
-    - Os registros de pagamento ficam vinculados automaticamente com a fatura do atendimento e, após pagamento total do atendimento, você pode emitir recibo para o paciente ou grupo terapêutico, garantindo transparência e formalidade nas transações.
+    - Os registros de pagamento ficam vinculados automaticamente com a fatura do atendimento e, após pagamento total do atendimento, você pode emitir recibo para a pessoa atendida, garantindo transparência e formalidade nas transações.
 
 - **Notificações de Pagamento**
 
-    - O sistema permite o envio de notificações por whatsapp ou e-mail para lembrar os pacientes sobre pagamentos pendentes.
+    - O sistema permite o envio de notificações por whatsapp ou e-mail para lembrar a pessoa atendida sobre pagamentos pendentes.
 
     - Também é possível o envio de notificações por whatsapp ou e-mail de pagamentos já registrados.
 
@@ -57,7 +57,7 @@ Cada transação registrada conta com informações detalhadas, como o "nome do 
 1. Ao fechar esta tela, será exibido no *card* do atendimento as informações de pagamento já atualizadas.
 
     :::tip
-    Caso o pagador seja diferente do paciente, você pode informar o nome do pagador diretamente no campo específico para esse propósito.
+    Caso o pagador seja diferente da pessoa atendida, você pode informar o nome do pagador preenchendo diretamente o campo específico para esse propósito.
 
     Quando o atendimento for direcionado a um grupo, o sistema exibirá um botão ![Atendimento](../../../static/img/prints/atendimento/042.png) ao lado do campo "Pagador". Esse botão permite selecionar um dos membros do grupo ou o próprio grupo como responsável pelo pagamento.
 
@@ -70,7 +70,7 @@ Cada transação registrada conta com informações detalhadas, como o "nome do 
 
 1. O sistema exibirá uma tela com uma área de informações detalhadas sobre os valores relacionados ao atendimento.
 
-    ![Atendimento](../../../static/img/prints/atendimento/038.png)
+    ![Atendimento](../../../static/img/prints/atendimento/126.png)
 
 1. Acione o botão "Pagamentos" ![Atendimento](../../../static/img/prints/buttons/btn_pagamentos.png).
 
@@ -85,5 +85,3 @@ Cada transação registrada conta com informações detalhadas, como o "nome do 
 1. Após e exclusão, a tela será atualizada e mantida aberta mostrando que o recebimento foi removido.
 
 1. Feche a tela e você verá o *card* do atendimento com as informações atualizadas.
-
-    ![Atendimento](../../../static/img/prints/atendimento/045.png)

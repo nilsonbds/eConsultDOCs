@@ -12,7 +12,7 @@ Com o **Daily.co**, você conta com:
 - Áudio e vídeo de **alta qualidade**  
 - Conexão **estável e criptografada**  
 - Compatibilidade com **computadores, tablets e celulares**  
-- Interface simples e intuitiva, tanto para o **profissional** quanto para o **paciente**
+- Interface simples e intuitiva, tanto para o **profissional** quanto para a **pessoa atendida**
 
 ---
 
@@ -69,10 +69,10 @@ Ao acessar a sala, você verá o horário agendado e os seguintes controles:
 
 O link de teleatendimento pode ser:
 
-1. **Enviado automaticamente por e-mail**, se o paciente possuir e-mail cadastrado; ou  
+1. **Enviado automaticamente por e-mail**, se a pessoa atendida possuir e-mail cadastrado; ou  
 2. **Copiado manualmente**, utilizando o botão **“Link”** na tela da sala.
 
-O paciente acessa a sessão **diretamente pelo navegador**, sem precisar instalar aplicativos, criar conta ou realizar login.
+A pessoa atendida acessa a sessão **diretamente pelo navegador**, sem precisar instalar aplicativos, criar conta ou realizar login.
 
 ---
 
@@ -95,7 +95,7 @@ A integração com o **Daily.co** segue rigorosamente os princípios de **sigilo
 - Mantenha o navegador atualizado (Chrome, Edge ou Safari).  
 - Utilize **fones de ouvido** para mais privacidade e melhor qualidade de áudio.  
 - Evite conexões Wi-Fi públicas ou instáveis.  
-- O paciente pode acessar pelo **celular**, basta abrir o link em qualquer navegador moderno.
+- A pessoa atendida pode acessar pelo **celular**, basta abrir o link em qualquer navegador moderno.
 
 :::
 
@@ -106,7 +106,7 @@ A integração com o **Daily.co** segue rigorosamente os princípios de **sigilo
 Durante a sessão online, o psicólogo pode:
 
 - Iniciar e gerenciar a videoconferência diretamente pelo **eConsult**.  
-- Acessar e editar dados do paciente, incluindo **cadastro**, **prontuário**, **atendimentos**, **faturas** e **anotações clínicas**.  
+- Acessar e editar dados da pessoa atendida, incluindo **cadastro**, **prontuário**, **atendimentos**, **faturas** e **anotações clínicas**.  
 - Registrar **avaliações psicológicas**, **anotações**, **arquivos anexos** e **marcadores clínicos** diretamente durante a sessão.
 
 > 🔒 Todos os dados e registros da consulta são criptografados e visíveis apenas ao psicólogo.
@@ -154,4 +154,4 @@ O módulo de **Teleatendimento do eConsult** é **conceitualmente bem resolvido 
 ## Conclusão
 
 O **Teleatendimento via Daily.co** no **eConsult** oferece uma experiência **integrada, prática e ética**, mantendo o foco no que realmente importa:  
-**o cuidado psicológico, a privacidade do paciente e o sigilo profissional.**
+**o cuidado psicológico, a privacidade e o sigilo profissional.**

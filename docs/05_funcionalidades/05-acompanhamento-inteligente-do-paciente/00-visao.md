@@ -2,11 +2,17 @@
 sidebar_position: 0
 ---
 
-# Sobre Acompanhamento Inteligente do Paciente
+# Sobre Acompanhamento Inteligente
 
-O **Acompanhamento Inteligente do Paciente** reúne, em uma única tela,
-informações clínicas, comportamentais e financeiras relacionadas ao
-atendimento terapêutico.
+O **Acompanhamento Inteligente** apresenta uma visão sintética do acompanhamento das pessoas atendidas, reunindo informações de frequência, continuidade terapêutica e evolução longitudinal. Seu objetivo é permitir que o profissional identifique rapidamente a situação atual do acompanhamento e possíveis pontos que merecem atenção.
+
+Nele são apresentados dados como última sessão, frequência típica dos atendimentos, quantidade de sessões realizadas no período e eventuais pendências de registro.
+
+A seção Evolução Longitudinal complementa essa visão com indicadores clínicos derivados dos registros realizados ao longo dos atendimentos, incluindo situação atual do acompanhamento, risco, engajamento, tendência observada e orientação de manejo.
+
+Os botões "Próximos passos" e "Ver detalhes" permitem, respectivamente, consultar sugestões de ações relacionadas ao acompanhamento e acessar uma visão mais completa das informações que fundamentam os indicadores apresentados.
+
+Importante: os indicadores e sugestões apresentados nos ***cards*** têm caráter de apoio ao acompanhamento e ao raciocínio clínico. Eles devem ser interpretados pelo profissional em conjunto com os registros, contexto clínico e demais informações disponíveis.
 
 Essa funcionalidade permite compreender rapidamente:
 
@@ -15,515 +21,146 @@ Essa funcionalidade permite compreender rapidamente:
 -   o risco de interrupção do cuidado
 -   a evolução do relacionamento terapêutico ao longo do tempo
 
-![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/001.png)
-
-------------------------------------------------------------------------
-
-## Seletor de período
-
-O seletor define o intervalo utilizado nas análises comportamentais e
-financeiras.
-
-![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/002.png)
-
--   Exibe o mês de referência.
--   Permite navegar entre meses.
--   O botão de confirmação aplica o período selecionado.
-
-A análise clínica sempre considera a última sessão realizada com
-marcadores, independentemente do mês selecionado.
-
-------------------------------------------------------------------------
-
-## Filtros de pacientes / grupos terapêuticos
-
-Permite localizar pacientes ou grupos terapêuticos por:
-
--   Classificação comportamental
--   Nome
-
-![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/003.png)
-
-Os números exibidos indicam a quantidade de pacientes/grupos em cada classificação comportamental.
-
-### Classificações comportamentais
-
--   **Pacientes em declínio**\
-    Redução de frequência ou valor de atendimentos.
-
--   **Pacientes em crescimento**\
-    Aumento de interações e fortalecimento do vínculo terapêutico.
-
--   **Pacientes estáveis e engajados**\
-    Frequência regular e continuidade do cuidado.
-
--   **Pacientes voláteis**\
-    Oscilações de presença ou adesão.
-
--   **Todos**\
-    Exibe a lista completa.
-
-------------------------------------------------------------------------
-
-## *Card* do paciente
-
-Cada paciente é apresentado em um *card* de acompanhamento com leitura
-rápida.
-
-![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/004.png)
-
-O *card* contém três áreas principais:
-
-1.  Estado clínico
-2.  Engajamento comportamental
-3.  Próximos passos sugeridos
-
-------------------------------------------------------------------------
-
-## Estado clínico
-
-Baseado na última sessão realizada com marcadores clínicos.
-
-Exibe:
-
--   **Estado Clínico (na data do último marcador clínico)**
--   **Engajamento terapêutico (0--100)**
--   **Risco clínico (0--100)**
--   **Estágio do processo terapêutico**
-
-Quando não há marcadores clínicos, o sistema informa:
-
-> **Avaliação clínica inicial pendente**\
-> Registre os primeiros marcadores para iniciar a análise clínica.
-
-------------------------------------------------------------------------
-
-## Engajamento comportamental
-
-Avalia a continuidade do cuidado com base na frequência de atendimentos.
-
-Inclui:
-
--   **Score de engajamento comportamental (0--100)**
--   **Risco de abandono nos próximos 30 dias**
--   **Frequência típica de atendimento**
--   **Tempo desde a última sessão realizada**
--   **Síntese do relacionamento**
-    -   Cliente estável e engajado
-    -   Evolução clínica positiva
-    -   Risco de abandono elevado
-    -   Necessidade de reavaliação do cuidado
-
-### Métricas complementares do engajamento comportamental
-
-Também são exibidos três *subcards* de recortes de tempo. 
-
-- **GLOBAL**: Considera todo o histórico do paciente desde o início do relacionamento com a sua organização.
-- **ANO**: Refere-se aos dados acumulados no ano corrente.
-- **MÊS**: Apresenta as informações referentes ao comportamento mais recente, no mês atual.
-
-Cada um destes *subcards* exibe um conjunto de indicadores que refletem o desempenho do paciente no período correspondente, sendo:
-
-1. **Classificação por Estrelas e Descrições**: representação de estrelas, legenda e informação, variando de 1 a 5, conforme o desempenho do paciente:
-
-    ★★★★★ – **Excelente** – **Muito acima da média**: O paciente, no período, demonstrou que está muito acima da média em valor gerado, frequência e engajamento. Costuma ser altamente fiel, constante e valioso para o negócio. Ideal para programas de fidelização e reconhecimento.
-
-    ★★★★ – **Bom** – **Acima da média**: No período demostrou ter um bom histórico de interações e contribuições financeiras, com potencial para se tornar um paciente excelente. Merece atenção para fortalecimento do relacionamento.
-    
-    ★★★ – **Normal** – **Dentro da média**: Apresentou no período um comportamento regular e estável. Ainda não demonstra sinais claros de crescimento ou risco. Estratégias de engajamento e acompanhamento podem melhorar seu desempenho.
-    
-    ★★ – **Alerta** – **Abaixo da média**: Pode estar diminuindo, no período, o número de interações ou o valor gerado. Requer análise e ações de reengajamento para evitar perda de relacionamento.
-    
-    ★ – **Crítico** – **Muito abaixo da média**: Pouca ou nenhuma interação no período e baixo valor agregado. Pode estar em risco de perda ou abandono. Recomenda-se ação imediata de recuperação.
-    
-    **Nenhuma estrela – Sem dados**: Não há dados suficientes do período para gerar um score confiável. Isso ocorre normalmente com pacientes recém-cadastrados ou com histórico incompleto. É necessário aguardar o acúmulo de informações.
-
-
-2. **Frequência**: Quantas vezes o paciente/grupo teve atendimento realizado no período.
-
-------------------------------------------------------------------------
-
-## Precisão das análises
-
-Se existirem atendimentos passados não marcados como realizados, um
-aviso será exibido indicando possível redução de precisão nas análises.
-
-------------------------------------------------------------------------
-
-## Próximos passos sugeridos
-
-O sistema apresenta ações recomendadas conforme a situação do paciente como por exemplo:
-
--   Registrar primeiros marcadores clínicos
--   Marcar atendimentos passados como **Realizado**
--   Reavaliar pacientes sem sessão recente
--   Priorizar contato em caso de risco de abandono
-
-------------------------------------------------------------------------
-
-## Resultados Integrados do Paciente
-
-Ao clicar sobre o botão ![Acompanhamento Inteligente do Paciente](../../../static/img/prints/analisescore/007.png), o sistema abre a tela "Resultados Integrados do Paciente", cujo conteúdo é similar ao apresentado na tela de *Cadastro de paciente / Aba Resultados*.
-
-Esta tela está organizado em três sub-abas:
-
--   **Panorama**
--   **Resumos**
--   **Evolução**
-
-![Painel Pacientes e Grupos](../../../static/img/prints/buttons/aba-resultado.png)
-
-Cada uma oferece um nível diferente de leitura do acompanhamento.
+![Acompanhamento Inteligente](../../../static/img/prints/analisescore/001.png)
 
 ---
 
-### Sub-aba Panorama
+## Filtros de acompanhamento
 
-A sub-aba **Panorama** apresenta uma visão gráfica longitudinal dos principais indicadores administrativos do paciente.
+Na parte superior da tela, os filtros permitem visualizar os acompanhamentos de acordo com o comportamento recente da frequência:
 
-Ela permite identificar rapidamente:
+- **Redução de frequência:** acompanhamentos cuja frequência recente apresenta redução.
+- **Aumento de frequência:** acompanhamentos que passaram a apresentar maior frequência de sessões.
+- **Frequência consistente:** acompanhamentos que mantêm um padrão relativamente estável.
+- **Baixa frequência:** acompanhamentos com maior intervalo entre as sessões.
+- **Oscilação de frequência:** acompanhamentos que apresentam variações relevantes na frequência das sessões.
+- **Todos:** apresenta todos os acompanhamentos disponíveis.
 
-- tendências de frequência  
-- comportamento financeiro  
-- padrão de comparecimento  
-- utilização da agenda  
+Também é possível diferenciar:
 
-Os gráficos consideram uma janela temporal móvel (ex.: meses anteriores, mês atual e projeção), facilitando o monitoramento contínuo.
+- **Sem leitura longitudinal:** acompanhamentos que ainda não possuem informações suficientes para uma leitura longitudinal.
+- **Com leitura longitudinal:** acompanhamentos para os quais o sistema já consegue apresentar uma análise longitudinal.
 
----
+![Filtros de acompanhamento](../../../static/img/prints/analisescore/015.png)
 
-#### Indicadores disponíveis
+O número exibido em cada filtro indica a quantidade de acompanhamentos naquela condição.
 
-##### **LTV e CLC**
+### 🔎 Pesquisa
 
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-039.png)
-
-Apresenta a relação entre:
-
-- **LTV (Lifetime Value):** valor gerado pelo paciente  
-- **CLC (Customer Lifetime Cost):** custo associado à manutenção do paciente  
-
-Essa leitura ajuda a compreender a sustentabilidade financeira do acompanhamento.
+Utilize o campo **Pessoa atendida** para localizar rapidamente uma pessoa, casal, família ou grupo específico.
 
 ---
 
-##### **Detalhe da frequência**
+## *Card* de acompanhamento
 
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-040.png)
+Cada *card* apresenta uma **visão sintética do acompanhamento**, reunindo frequência, continuidade terapêutica, evolução longitudinal, risco, engajamento e possíveis pontos de atenção clínica.
 
-Mostra o comportamento de comparecimento do paciente, incluindo:
+![Card de acompanhamento](../../../static/img/prints/analisescore/014.png)
 
-- não confirmados  
-- confirmados  
-- realizados  
-- não realizados  
+### Frequência do acompanhamento
 
-Permite identificar padrões de adesão ao tratamento.
+No início do *card* é apresentada a classificação da frequência recente, como:
 
----
+- **Frequência consistente**
+- **Baixa frequência**
+- **Redução de frequência**
+- **Aumento de frequência**
+- **Oscilação de frequência**
 
-##### **Inadimplência**
+Também são apresentadas informações como:
 
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-041.png)
+- **Última sessão:** tempo transcorrido desde o último atendimento realizado.
+- **Frequência típica:** padrão habitual identificado no acompanhamento, como semanal, quinzenal ou mensal.
+- **Continuidade terapêutica:** indicador relacionado à manutenção ou possível comprometimento da continuidade dos atendimentos.
 
-Exibe os valores em atraso:
+![Card de acompanhamento](../../../static/img/prints/analisescore/016.png)
 
-- total no mês  
-- acumulado no ano  
-- acumulado geral  
+:::info
 
-Funciona como um sinalizador de risco financeiro do vínculo.
+A frequência é um **indicador de acompanhamento** e deve ser interpretada considerando o contexto terapêutico, o planejamento clínico e os acordos estabelecidos entre profissional e pessoa atendida.
 
----
-
-##### **Perdas (baixas contábeis)**
-
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-042.png)
-
-Representa valores reconhecidos como perda definitiva no período.
-
----
-
-##### **Perdas recuperadas**
-
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-043.png)
-
-Indica valores previamente inadimplentes que foram posteriormente recuperados.
-
----
-
-##### **Ocupação**
-
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-044.png)
-
-Mostra como o paciente utiliza a agenda, discriminando:
-
-- remotos pagos  
-- remotos gratuitos  
-- presenciais pagos  
-- presenciais gratuitos  
-- capacidade total  
-
-Ajuda a avaliar eficiência de uso da agenda.
-
----
-
-##### **Valor dos atendimentos**
-
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-045.png)
-
-Apresenta os valores praticados nos atendimentos do paciente, incluindo métricas como valor médio e máximo no período.
-
----
-
-##### **Desmarcações e remarcações**
-
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-046.png)
-
-Aponta movimentações de agenda, como:
-
-- desmarcações  
-- desmarcações recuperadas  
-- remarcações no mês  
-- remarcações herdadas de mês anterior  
-- remarcações para o próximo mês  
-
-Esse indicador ajuda a avaliar estabilidade do comparecimento.
-
----
-
-:::note Seletor de período
-O período analisado pode ser ajustado pelos controles no topo da tela, permitindo ampliar ou reduzir a janela temporal de análise.
-
-Essa flexibilidade facilita a identificação de tendências, oscilações e mudanças de comportamento ao longo do tempo.
-
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-047.png)
 :::
 
 ---
 
-### Sub-aba Resumos
+## Alertas
 
-A sub-aba **Resumos** apresenta um consolidado administrativo do mês selecionado, organizado em *cards* sintéticos.
+Quando houver alguma situação administrativa ou assistencial que possa interferir na leitura das informações, o sistema apresenta um alerta no *card*.
 
-Ela responde rapidamente:
+Por exemplo:
 
-- como está o vínculo com o paciente  
-- qual o volume financeiro do período  
-- qual o nível de ocupação  
-- se há sinais de risco administrativo  
+> ⚠️ Existem atendimentos com registro de realização pendente.
 
----
-
-#### Cards disponíveis
-
-##### **Dados da relação com o paciente/grupo**
-
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-053.png)
-
-Apresenta:
-
-- tempo de relacionamento  
-- ticket médio  
-- frequência (mês, ano e global)  
-- LTV e CLC (mês, ano e global)  
-
-Esse bloco ajuda a entender o histórico e o valor do vínculo.
+Regularizar esses registros contribui para que os indicadores apresentados reflitam adequadamente o histórico do acompanhamento.
 
 ---
 
-##### **Atendimentos do mês**
+## Indicadores de frequência
 
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-054.png)
+Ao expandir o *card*, são apresentados indicadores que permitem comparar a frequência de sessões em diferentes períodos:
 
-Mostra:
+- **Global:** considera o histórico geral do acompanhamento.
+- **Ano:** considera os atendimentos realizados no ano.
+- **Mês:** considera os atendimentos realizados no mês.
 
-- quantidade total de atendimentos  
-- valor total do mês  
-- valores quitados e não quitados  
+Cada período pode indicar se a frequência está **dentro do padrão, reduzida, aumentada ou apresentando outra variação relevante**, juntamente com a quantidade de sessões consideradas.
 
----
-
-##### **Inadimplência**
-
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-056.png)
-
-Exibe o montante inadimplente:
-
-- no mês  
-- no ano  
-- no total  
+![Indicadores de frequência](../../../static/img/prints/analisescore/017.png)
 
 ---
 
-##### **Perdas (baixas contábeis)**
+## Evolução Longitudinal
 
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-057.png)
+Quando existem registros suficientes, o **card** apresenta uma síntese da **Evolução Longitudinal**, permitindo compreender o momento atual do acompanhamento e observar como seus principais indicadores vêm se comportando ao longo do tempo.
 
-Apresenta valores reconhecidos como perda.
+![Evolução Longitudinal](../../../static/img/prints/analisescore/018.png)
 
----
+A seção pode apresentar:
 
-##### **Perdas recuperadas**
+- **Situação atual do acompanhamento:** síntese do momento clínico identificado a partir dos registros mais recentes, acompanhada dos principais elementos que sustentam essa leitura.
 
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-058.png)
+- **Risco:** indicador sintético, apresentado em uma escala de **0 a 100**, que sinaliza a intensidade dos elementos de atenção identificados no acompanhamento.
 
-Mostra valores recuperados de inadimplência.
+- **Engajamento:** indicador de **0 a 100** relacionado à participação e continuidade da pessoa atendida no processo terapêutico.
 
----
+- **Síntese longitudinal:** apresenta a tendência ou dinâmica predominante observada no período, ajudando a contextualizar o momento atual do acompanhamento.
 
-##### **Ocupação**
+- **Nível de risco:** classificação visual que facilita a identificação da condição atual de risco, como **Risco Baixo**, moderado ou elevado.
 
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-059.png)
+- **Manejo sugerido:** orientação de apoio que destaca aspectos que podem ser considerados pelo profissional na condução dos próximos atendimentos.
 
-Detalha o uso da agenda pelo paciente, incluindo:
+- **Histórico dos indicadores:** gráfico que apresenta a evolução de **Risco** e **Engajamento** ao longo do tempo, permitindo identificar tendências, oscilações e mudanças relevantes durante o acompanhamento.
 
-- atendimentos remotos e presenciais  
-- pagos e gratuitos  
-- total de atendimentos  
-- capacidade da agenda  
+:::tip
+A leitura do gráfico deve considerar a **trajetória dos indicadores**, e não apenas seus valores atuais. Mudanças progressivas ou oscilações ao longo das sessões podem fornecer informações importantes para a compreensão do acompanhamento.
+:::
 
----
+:::warning Importante
+Os indicadores e sínteses apresentados na Evolução Longitudinal **não constituem diagnóstico, avaliação psicológica automatizada ou decisão clínica**.
 
-##### **Custos pagos**
-
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-060.png)
-
-Apresenta a faixa de valores pagos pelo paciente no mês:
-
-- mínimo  
-- médio  
-- máximo  
+Eles funcionam como recursos de **apoio ao acompanhamento e ao raciocínio clínico** e devem ser interpretados pelo profissional em conjunto com os registros das sessões, o contexto clínico e as demais informações disponíveis.
+:::
 
 ---
 
-##### **Detalhe da frequência**
+## Próximos passos
 
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-061.png)
+O botão **⚡ Próximos passos** apresenta ações ou pontos de atenção relacionados ao atenimento da pessoa atendida.
 
-Mostra o status dos atendimentos:
-
-- não confirmados  
-- confirmados  
-- não realizados  
-- realizados  
+As sugestões têm caráter de **apoio à gestão do atendimento**.
 
 ---
 
-##### **Remarcações e desmarcações**
+## Ver detalhes
 
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-062.png)
-
-Apresenta a movimentação de agenda do paciente no período.
+Clique em **🔍 Ver detalhes** para acessar informações mais completas sobre o acompanhamento e compreender os elementos que contribuíram para os indicadores apresentados no *card*.
 
 ---
 
-#### Leitura estratégica
+:::tip
 
-A visualização consolidada permite ao profissional:
+Utilize os filtros de frequência em conjunto com a **Evolução Longitudinal**.
 
-- identificar padrões de adesão  
-- monitorar risco financeiro  
-- avaliar estabilidade do comparecimento  
-- compreender o valor longitudinal do paciente  
-- ajustar estratégias de manejo administrativo  
+Uma alteração na frequência não representa, isoladamente, melhora ou piora clínica. A combinação entre **frequência, continuidade, registros clínicos, risco, engajamento e contexto terapêutico** oferece uma visão mais consistente da trajetória do acompanhamento.
 
----
-
-### Sub-aba Evolução
-
-A sub-aba **Evolução** apresenta a leitura longitudinal clínica baseada nos **marcadores clínicos** registrados ao longo das sessões.
-
-Seu objetivo é apoiar o raciocínio clínico, tornando visível a progressão do caso ao longo do tempo.
-
----
-
-#### Indicadores sintéticos do momento clínico
-
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-074.png)
-
-No topo da tela, o eConsult apresenta:
-
-- **Direção:** tendência recente do caso (ex.: evolução favorável inicial)  
-- **Risco atual:** nível estimado de risco clínico  
-- **Manejo sugerido:** orientação assistiva baseada nos marcadores  
-
-Esses elementos oferecem uma leitura rápida do estado atual do processo terapêutico.
-
----
-
-#### Hipótese dinâmica do processo
-
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-075.png)
-
-A seção apresenta uma **síntese clínica assistida**, construída a partir dos marcadores registrados.
-
-A análise busca:
-
-- integrar sinais clínicos relevantes  
-- identificar movimentos do processo terapêutico  
-- apontar focos potenciais de manejo  
-- apoiar a leitura longitudinal  
-
-> ⚠️ A hipótese é **assistiva** e não substitui a formulação clínica do profissional.
-
-O texto narrativo pode incluir, conforme o caso:
-
-- sinais de estabilização  
-- indicadores de aliança terapêutica  
-- movimentos de enfrentamento  
-- elementos transferenciais/relacionais  
-- ganhos de autonomia  
-- padrões de engajamento  
-
-A leitura considera a progressão temporal dos marcadores.
-
----
-
-#### Linha temporal dos atendimentos
-
-![Resultados](../../../static/img/prints/clientegrupo/clientegrupo-076.png)
-
-Na parte inferior, o sistema apresenta a **progressão clínica por sessão**, incluindo:
-
-- data do atendimento  
-- marcadores identificados  
-- estágio do processo  
-- nível de engajamento  
-- nível de risco  
-- status do acompanhamento  
-
-Essa visualização permite observar:
-
-- mudanças de fase  
-- padrões de estabilidade ou oscilação  
-- momentos de maior risco  
-- consolidação de ganhos terapêuticos  
-
----
-
-### Finalidade clínica
-
-A aba **Resultados** foi desenvolvida para:
-
-- apoiar a leitura longitudinal do paciente  
-- integrar dimensões clínicas e administrativas  
-- tornar visível a evolução do acompanhamento  
-- qualificar o planejamento do manejo  
-- fortalecer a tomada de decisão baseada em dados  
-
----
-
-> ⚠️ **Importante:** As análises apresentadas são ferramentas de apoio. A interpretação clínica e as decisões terapêicas são sempre de responsabilidade do profissional.
-
-------------------------------------------------------------------------
-
-#### Conclusão
-
-O Acompanhamento Inteligente do Paciente apoia o profissional na
-condução do cuidado, permitindo:
-
--   identificar pacientes que precisam de atenção
--   agir precocemente diante de riscos
--   acompanhar a evolução terapêutica
--   organizar a prática clínica com maior clareza
+:::
