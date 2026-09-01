@@ -2,209 +2,170 @@
 sidebar_position: 7
 ---
 
-# Sobre Situações de Atendimento
+# Situações de Atendimento
 
-O **Situações de Atendimento** reúne, em uma única tela, ocorrências
-operacionais e administrativas relacionadas à rotina clínica.
+A tela **Situações de Atendimento** reúne, em um único painel, situações que podem exigir ação, acompanhamento ou apenas conhecimento do profissional.
 
-Essa funcionalidade permite identificar rapidamente situações que exigem
-atenção ou ação por parte do profissional, facilitando a organização da
-prática e reduzindo a necessidade de verificações manuais em diferentes
-partes do sistema.
+Seu objetivo é facilitar a gestão da rotina do consultório, destacando pendências administrativas, financeiras e relacionadas aos atendimentos, além de permitir acesso rápido às pessoas envolvidas e às ações disponíveis para cada situação.
 
-Entre os principais objetivos do painel estão:
-
--   identificar pendências operacionais
--   acompanhar situações administrativas relevantes
--   facilitar a priorização de tarefas
--   apoiar a organização da rotina clínica
+> Os indicadores apresentados nesta tela são atualizados conforme os registros existentes no sistema.
 
 ![Situações de Atendimento](../../../static/img/prints/situacoesatendimento/001.png)
 
-------------------------------------------------------------------------
+## Visão geral da tela
 
-## Visão geral do painel
+As situações são organizadas por nível de atenção, utilizando cores para facilitar a identificação da prioridade:
 
-A tela organiza diferentes **tipos de situações operacionais** que podem
-ocorrer durante o acompanhamento dos pacientes.
+- 🔴 **Ação imediata:** situações que exigem atenção mais rápida.
+- 🟡 **Atenção:** situações relevantes que merecem acompanhamento.
+- 🟢 **Informativo:** situações de caráter informativo ou de menor impacto.
 
-Cada situação representa um conjunto de registros que compartilham a
-mesma condição administrativa.
+Cada item apresenta uma descrição resumida e, quando aplicável, a quantidade de ocorrências encontradas.
 
-Exemplos comuns incluem:
+:::tip Leitura rápida
 
-- atendimentos que ainda aguardam confirmação
-- registros de realização pendentes
-- pagamentos não quitados
-- pacientes sem novo agendamento
+Os números exibidos entre parênteses indicam a quantidade de registros encontrados para aquela situação.
 
-Cada categoria funciona como um **indicador de monitoramento da rotina**.
+Por exemplo, **Pagamentos pendentes (25)** indica que existem 25 ocorrências que atendem aos critérios dessa situação.
 
-------------------------------------------------------------------------
+:::
 
-## Lista de situações
+## Filtrar por pessoa atendida
 
-O painel apresenta as situações disponíveis organizadas em blocos.
-
-Cada bloco informa:
-
-- o nome da situação
-- a quantidade de ocorrências
-- o tipo de ação que pode ser realizada
+Na parte superior da tela, o campo **Pessoa atendida** permite filtrar as situações de uma pessoa específica.
 
 ![Situações de Atendimento](../../../static/img/prints/situacoesatendimento/002.png)
 
-As situações podem ser acessadas clicando diretamente sobre o item
-desejado.
+Esse recurso é útil quando você deseja revisar apenas as pendências, alertas ou informações relacionadas a determinado indivíduo, casal, família ou grupo.
 
-------------------------------------------------------------------------
+Ao remover o filtro, o painel volta a apresentar as situações gerais encontradas pelo sistema.
 
-## Tipos de situações mais comuns
+## 🔴 Ação imediata
 
-### Agendamentos não confirmados
-
-Indica atendimentos futuros que ainda não foram confirmados pelo
-paciente.
-
-Esse indicador ajuda a identificar possíveis riscos de ausência ou
-desorganização na agenda.
-
-------------------------------------------------------------------------
-
-### Registros de realização pendentes
-
-Indica atendimentos passados que ainda não foram marcados como
-**Realizados**.
-
-Essa situação pode afetar:
-
-- a precisão das análises do sistema
-- o acompanhamento longitudinal
-- os indicadores financeiros
-
-------------------------------------------------------------------------
-
-### Pagamentos em aberto
-
-Apresenta atendimentos realizados cujo pagamento ainda não foi
-registrado como quitado.
-
-Essa visualização ajuda a acompanhar a situação financeira do
-atendimento.
-
-------------------------------------------------------------------------
-
-### Pacientes sem novo agendamento
-
-Indica pacientes que realizaram atendimentos recentemente, mas que não
-possuem uma nova sessão agendada.
-
-Esse indicador pode sinalizar possíveis interrupções do processo
-terapêutico.
-
-------------------------------------------------------------------------
-
-## Lista de ocorrências
-
-Ao acessar uma situação, o sistema apresenta a lista de pacientes ou
-grupos relacionados àquela condição.
+A coluna **Ação imediata** reúne situações que podem exigir uma providência mais rápida do profissional.
 
 ![Situações de Atendimento](../../../static/img/prints/situacoesatendimento/003.png)
 
-A lista normalmente apresenta:
+Entre elas podem aparecer:
 
-- nome do paciente ou grupo
-- data do atendimento
-- informações administrativas associadas
-- ações disponíveis
+- **📝 Registro de realização pendente:** Indica atendimentos cuja data já passou, mas que ainda aguardam o registro de realização.
 
-------------------------------------------------------------------------
+- **📅 Agendamentos não confirmados:** Apresenta atendimentos futuros que ainda não possuem confirmação registrada.
 
-## Ações disponíveis
+- **⚠️ Pagamentos pendentes:** Identifica atendimentos com pagamentos vencidos e ainda não quitados.
 
-Dependendo da situação selecionada, o sistema pode oferecer ações como:
+- **💵 Créditos antecipados:** Apresenta créditos previstos ou registrados para pessoas atendidas que ainda possuem alguma situação financeira pendente.
 
-- confirmar atendimento
-- registrar realização
-- registrar pagamento
-- entrar em contato com o paciente
-- revisar informações do agendamento
+## 🟡 Atenção
 
-Essas ações ajudam a resolver rapidamente as pendências identificadas.
+A coluna **Atenção** reúne situações que não necessariamente exigem uma ação imediata, mas que merecem acompanhamento.
 
-------------------------------------------------------------------------
+![Situações de Atendimento](../../../static/img/prints/situacoesatendimento/004.png)
 
-## Comunicação com pacientes
+Podem ser apresentadas, entre outras:
 
-Em algumas situações, o sistema permite iniciar comunicações com o
-paciente diretamente a partir da tela.
+- **📝 Anotações clínicas pendentes:** Indica atendimentos realizados recentemente que ainda não possuem anotação clínica registrada.
 
-Isso pode incluir:
+- **📄 Pendências de cadastro:** Apresenta pessoas atendidas cujo cadastro possui informações incompletas ou que podem precisar de atualização.
 
-- envio de e-mail
-- envio de mensagem por WhatsApp
-- solicitação de confirmação de presença
-- lembretes administrativos
+- **❌ Desmarcação de atendimento:** Destaca atendimentos que foram cancelados.
 
-Essas mensagens têm caráter **operacional**, voltadas à organização do
-atendimento.
+- **🔄 Remarcação de atendimento:** Destaca atendimentos cuja data ou horário foi alterado.
 
-------------------------------------------------------------------------
+- **⏳ Vencimento nos próximos 7 dias:** Valores em aberto com vencimento próximo (7 dias).
 
-## Atualização das situações
+- **📅 Atendimentos prováveis:** Apresenta pessoas que tiveram atendimentos recentes, mas ainda não possuem um próximo atendimento agendado.
 
-As situações são atualizadas automaticamente conforme novas informações
-são registradas no sistema, como:
+- **💰 Recebimentos pendentes:** Apresenta pessoas para os quais foi gerado uma intenção de pagamento que ainda não foi concluída.
 
-- confirmação de atendimentos
-- registro de sessões realizadas
-- atualização de pagamentos
-- novos agendamentos
+- **🔁 Retomada após longo intervalo:** Pessoas sem agendamentos há 60 dias ou mais (possível interrupção do vínculo).
 
-Isso garante que o painel reflita sempre o estado atual da rotina
-clínica.
+- **📅 Pessoas atendidas sem nenhum agendamento:** Identifica pessoas atendidas cadastradas que ainda não possuem atendimento agendado.
 
-------------------------------------------------------------------------
+- **⚠️ Casais, famílias ou grupos:** Reúne situações relacionadas aos atendimentos de casais, famílias ou grupos que merecem atenção do profissional.
 
-## Relação com o Acompanhamento Inteligente do Paciente
+## 🟢 Informativo
 
-As **Situações de Atendimento** e o **Acompanhamento Inteligente do
-Paciente** são funcionalidades complementares.
+A coluna **Informativo** apresenta situações de menor urgência ou eventos relevantes para conhecimento do profissional.
 
-Enquanto o **Acompanhamento Inteligente** oferece uma leitura
-longitudinal e clínica do acompanhamento de cada paciente, o painel de
-**Situações de Atendimento** organiza a prática a partir de ocorrências
-administrativas da rotina.
+![Situações de Atendimento](../../../static/img/prints/situacoesatendimento/005.png)
 
-De forma simplificada:
+Podem ser apresentadas, entre outras:
 
-- **Acompanhamento Inteligente** → visão clínica do paciente
-- **Situações de Atendimento** → visão administrativa da rotina
+- **✅ Agendamentos confirmados:** pessoas atendidas que tiveram atendimento agendado e confirmado com sucesso.
 
-Essa combinação permite ao profissional acompanhar simultaneamente:
+- **💳 Pagamentos feitos nos últimos 7 dias ou antecipados:** Referente a pagamentos quitados considerando: 
+    
+    - pagamentos registrados nos últimos 7 dias; ou 
+    - pagamentos com data de vencimento futura, desde que o valor pago seja igual ou superior ao valor devido; ou 
+    - ausência de comunicação prévia para este tipo de aviso.
 
-- a evolução clínica dos pacientes
-- a organização prática do consultório
+- **🎂 Aniversários:** Destinada à parabenização de aniversários de pessoas atendidas.
 
-------------------------------------------------------------------------
+## Consultando os detalhes de uma situação
 
-## Finalidade administrativa
+Para visualizar os registros relacionados a uma situação, clique na **seta →** localizada ao lado do item.
 
-O painel **Situações de Atendimento** foi desenvolvido para:
+Uma janela será aberta com as ocorrências encontradas e, dependendo do tipo de situação, poderão ser apresentadas ações específicas.
 
-- reduzir esquecimentos operacionais
-- facilitar o acompanhamento da agenda
-- melhorar a organização financeira
-- tornar visíveis pendências da rotina clínica
+As opções disponíveis variam conforme o contexto. Por exemplo, uma situação de agendamento pode permitir confirmação ou envio de solicitação, enquanto uma situação financeira pode direcionar para os créditos ou pagamentos relacionados.
 
-------------------------------------------------------------------------
+:::info Importante
 
-#### Conclusão
+A tela **Situações de Atendimento** funciona como um painel de apoio à rotina profissional.
 
-O módulo Situações de Atendimento ajuda o profissional a manter uma
-visão clara da rotina do consultório, permitindo:
+Ela não altera automaticamente atendimentos, registros clínicos, cadastros ou lançamentos financeiros. As ações somente são realizadas quando o profissional utiliza uma das opções disponíveis.
 
-- identificar pendências administrativas
-- priorizar ações importantes
-- manter a agenda organizada
-- reduzir riscos de descontinuidade do atendimento
+:::
+
+## Configurar política de comunicações
+
+A opção **Configurar comunicações**, localizada na parte superior da tela, permite acessar as configurações relacionadas às mensagens, lembretes e alertas utilizados pelo sistema.
+
+![Configurar política de comunicações](../../../static/img/prints/situacoesatendimento/006.png)
+
+Essas configurações podem influenciar funcionalidades como solicitação de confirmação de atendimento e outras comunicações vinculadas à rotina do consultório.
+
+## Sua IA está trabalhando para você
+
+Quando disponível no plano contratado, o painel **Sua IA está trabalhando para você** apresenta um resumo da utilização dos recursos assistidos por Inteligência Artificial no período.
+
+![Sua IA está trabalhando para você](../../../static/img/prints/situacoesatendimento/007.png)
+
+Podem ser exibidos indicadores como:
+
+- **Anotações com IA:** quantidade de registros produzidos com apoio de IA;
+- **Análises de gestão:** análises geradas no período;
+- **Hipóteses:** conteúdos assistidos relacionados a hipóteses, planos ou evoluções;
+- **Tokens usados:** volume de conteúdo processado pelos recursos de IA.
+
+Os indicadores têm caráter informativo e permitem acompanhar a utilização dos recursos contratados.
+
+Ao acionar o botão "Detalhes", o sistema mostra maiores detalhes sobre o uso de IA.
+
+![Botão Detalhes](../../../static/img/prints/situacoesatendimento/009.png)
+
+![Botão Detalhes](../../../static/img/prints/situacoesatendimento/008.png)
+
+## Segurança e auditoria
+
+O painel **Segurança e auditoria** apresenta atividades recentes registradas pelo sistema.
+
+![Segurança e auditoria](../../../static/img/prints/situacoesatendimento/010.png)
+
+Ele pode exibir operações realizadas, como inclusões e alterações de informações, juntamente com data e horário.
+
+A opção **Ver histórico completo** permite acessar um conjunto mais amplo dos registros de auditoria disponíveis.
+
+![Botão Ver histórico completo](../../../static/img/prints/situacoesatendimento/011.png)
+
+
+![Botão Ver histórico completo](../../../static/img/prints/situacoesatendimento/012.png)
+
+:::tip Boa prática
+
+Utilize a tela **Situações de Atendimento** como um ponto de revisão da rotina: confira primeiro os itens em **Ação imediata**, depois os itens de **Atenção** e, por fim, os indicadores **Informativos**.
+
+Isso ajuda a organizar as prioridades sem precisar consultar separadamente agenda, prontuário, cadastros e financeiro.
+
+:::

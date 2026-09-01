@@ -24,6 +24,6 @@ Permite medir o impacto financeiro de créditos não recuperados e avaliar a efi
 
 - Valores altos no total no mês podem ser indicativos de falhas recentes na política de cobrança ou concessão de crédito.
 
-- Um acumulado geral crescente sem recuperação sugere necessidade de revisão nos critérios de parcelamento ou no perfil de pacientes atendidos.
+- Um acumulado geral crescente sem recuperação sugere necessidade de revisão nos critérios de parcelamento ou no perfil de pessoas atendidas.
 
 - Comparar com o gráfico de “Perdas recuperadas” pode indicar a efetividade do processo de reversão dessas perdas.

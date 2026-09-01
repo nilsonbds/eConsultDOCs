@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Gráfico Inadimplência
 
-Monitora a inadimplência financeira dos pacientes, detalhando o impacto mensal e acumulado ao longo do tempo.
+Monitora a inadimplência financeira das pessoas atendidas, detalhando o impacto mensal e acumulado ao longo do tempo.
 
 ![Painel Resultados](../../../../static/img/prints/resultados/003.png)
 

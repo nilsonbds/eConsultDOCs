@@ -14,9 +14,9 @@ Essa abordagem evita distorções nos indicadores financeiros, melhora a gestão
 
 ![Baixas Contábeis](../../../static/img/prints/perdas/001.png)
 
-No painel, os pacientes e grupos terapêuticos são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do paciente e valor total dos atendimento com registro de presução de não pagamento.
+No painel, as pessoa atendidas são apresentadas de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome da pessoa atendida e valor total dos atendimento com registro de presução de não pagamento.
 
-Para consultar estes atendimentos, com presunção de não pagamento, basta clicar no botão ![Baixas contábeis](../../../static/img/prints/buttons/btn_card-edit.png) localizado no *card* do paciente ou grupo terapêutico. Após selecionar o paciente ou grupo, o sistema exibirá as informações relevantes.
+Para consultar estes atendimentos, com presunção de não pagamento, basta clicar no botão ![Baixas contábeis](../../../static/img/prints/buttons/btn_card-edit.png) localizado no *card* da pessoa atendida. Após selecionar a pessoa atendida, o sistema exibirá as informações relevantes.
 
 ![Baixas Contábeis](../../../static/img/prints/perdas/002.png)
 
@@ -24,9 +24,9 @@ Nesta tela, é possível visualizar ou excluir registros de perdas ou, ainda, ad
 
 ## Excluir registro de perda
 
-1. Acione o botão ![Baixas Contábeis](../../../static/img/prints/perdas/011.png) no *card* do paciente ou grupo terapêutico.
+1. Acione o botão ![Baixas Contábeis](../../../static/img/prints/perdas/011.png) no *card* da pessoa atendida.
 
-1. O sistema abre tela mostrando todas as perdas registradas para este paciente ou grupo.
+1. O sistema abre tela mostrando todas as perdas registradas para esta pessoa atendida.
 
     ![Baixas Contábeis](../../../static/img/prints/perdas/002.png)
 
@@ -38,13 +38,13 @@ Nesta tela, é possível visualizar ou excluir registros de perdas ou, ainda, ad
 
 ## Adicionar fundos para recuperação de perdas
 
-Você pode adicionar fundos (crédito) para o paciente a fim de fazer uma recuperação de perdas.
+Você pode adicionar fundos (crédito) para a pessoa atendida a fim de fazer uma recuperação de perdas.
 
 Este crédito gerará uma fatura no sistema como um recebimento contabilmente realizado.
 
-1. Acione o botão ![Baixas Contábeis](../../../static/img/prints/perdas/011.png) no *card* do paciente ou grupo terapêutico.
+1. Acione o botão ![Baixas Contábeis](../../../static/img/prints/perdas/011.png) no *card* da pessoa atendida.
 
-1. O sistema abre tela mostrando todas as perdas registradas para este paciente ou grupo.
+1. O sistema abre tela mostrando todas as perdas registradas para esta pessoa atendida.
 
     ![Baixas Contábeis](../../../static/img/prints/perdas/002.png)
 
@@ -101,5 +101,5 @@ Para que sejam considerados "Realizados", é necessário confirmar a efetivaçã
 :::
 
 :::warning 
-O sistema solicitará confirmação para novos atendimentos para pacientes ou grupos terapêuticos que tem perdas registradas.
+O sistema solicitará confirmação para novos atendimentos para pessoas atendidas que tem perdas registradas.
 :::

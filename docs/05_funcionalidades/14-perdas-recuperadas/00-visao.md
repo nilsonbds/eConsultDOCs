@@ -6,7 +6,7 @@ sidebar_position: 0
 
 O Painel Perdas Recuperadas do eConsult é uma ferramenta estratégica desenvolvida para monitorar e gerenciar com eficiência os atendimentos que, mesmo após terem sido classificados como perdas contábeis, tiveram seus valores posteriormente recuperados.
 
-Essa funcionalidade permite identificar de forma clara quais pacientes ou grupos terapêuticos realizaram pagamentos referentes a créditos anteriormente considerados de difícil recebimento. Com isso, é possível manter o controle preciso sobre os valores efetivamente recuperados e reverter, quando necessário, registros de baixa contábil.
+Essa funcionalidade permite identificar de forma clara quais pessoas atendidas realizaram pagamentos referentes a créditos anteriormente considerados de difícil recebimento. Com isso, é possível manter o controle preciso sobre os valores efetivamente recuperados e reverter, quando necessário, registros de baixa contábil.
 
 O painel oferece uma visão consolidada dessas recuperações, auxiliando na análise de desempenho das ações de cobrança, na revisão de estratégias financeiras e na melhoria da acurácia dos relatórios contábeis.
 
@@ -14,29 +14,29 @@ Mais do que um controle operacional, o Painel de Perdas Recuperadas reforça a t
 
 ![Perdas Recuperadas](../../../static/img/prints/perdasrecuperadas/001.png)
 
-No painel, os pacientes e grupos terapêuticos são apresentados de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome do paciente e valor total das perdas recuperadas.
+No painel, as pessoas atendidas são apresentadas de maneira visualmente intuitiva por meio de *cards* interativos, projetados para facilitar a identificação rápida mostrando o nome da pessoa atendida e valor total das perdas recuperadas.
 
-Para consultar os atendimentos com perdas recuperadas ou não, basta clicar no botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) localizado no *card* do paciente ou grupo.
+Para consultar os atendimentos com perdas recuperadas ou não, basta clicar no botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) localizado no *card* da pessoa atendida.
 
-Após selecionar o paciente ou grupo, o sistema exibirá as informações relevantes.
+Após selecionar a pessoa atendida, o sistema exibirá as informações relevantes.
 
 ![Perdas Recuperadas](../../../static/img/prints/perdasrecuperadas/002.png)
 
 ## Recuperar perdas
 
-A recuperação de perdas no eConsult é feita exclusivamente por meio da adição de crédito ao paciente.
+A recuperação de perdas no eConsult é feita exclusivamente por meio da adição de crédito a pessoa atendida.
 
 Ao incluir um novo crédito, o sistema identifica automaticamente as perdas registradas e realiza a recuperação utilizando o valor disponível para cobrir o máximo possível das perdas pendentes.
 
 ## Adicionar fundos para recuperação de perdas
 
-Você pode adicionar fundos (crédito) para o paciente a fim de fazer uma recuperação de perdas.
+Você pode adicionar fundos (crédito) para a pessoa atendida a fim de fazer uma recuperação de perdas.
 
 Este crédito gerará uma fatura no sistema como um recebimento contabilmente realizado.
 
-1. Acione o botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) no *card* do paciente ou grupo terapêutico.
+1. Acione o botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) no *card* da pessoa atendida.
 
-1. O sistema abre tela mostrando todas as perdas registradas para este paciente ou grupo.
+1. O sistema abre tela mostrando todas as perdas registradas para esta pessoa atendida.
 
     ![Perdas Recuperadas](../../../static/img/prints/perdas/002.png)
 
@@ -94,9 +94,9 @@ Para que sejam considerados "Realizados", é necessário confirmar a efetivaçã
 
 ## Excluir registros de perdas recuperadas
 
-1. Acione o botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) correspondente ao paciente ou grupo terapêutico no painel "Perdas Recuperadas".
+1. Acione o botão ![Perdas Recuperadas](../../../static/img/prints/perdas/011.png) correspondente a pessoa atendida no painel "Perdas Recuperadas".
 
-1. O sistema abre tela mostrando todas as perdas (recuperdas ou não) registradas para este paciente ou grupo.
+1. O sistema abre tela mostrando todas as perdas (recuperdas ou não) registradas para esta pessoa atendida.
 
 1. Localize o *card* correspondente a perda recuperada cuja recuperação se quer excluir.
 

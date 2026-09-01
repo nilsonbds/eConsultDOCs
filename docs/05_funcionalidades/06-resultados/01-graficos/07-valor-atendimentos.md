@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Gráfico Valor dos Atendimentos
 
-Apresenta o valor médio e máximo dos atendimentos realizados, auxiliando na análise de precificação e distribuição de serviços.
+Apresenta o valor médio (ticket médio) e máximo (ticket máximo) dos atendimentos realizados, auxiliando na análise de precificação e distribuição de serviços.
 
 ![Painel Resultados](../../../../static/img/prints/resultados/007.png)
 

@@ -1,9 +1,9 @@
 {
-  "label": "Faturas do Paciente",
+  "label": "Faturas da Pessoa Atendida",
   "position": 8,
   "link": {
     "slug": "/faturas-cliente",
     "type": "generated-index",
-    "description": "O painel Faturas do Paciente é uma ferramenta de gestão financeira que permite organizar, visualizar e controlar todas as faturas relacionadas aos atendimentos de um paciente ou grupo específico."
+    "description": "O painel Faturas da Pessoa Atendida é uma ferramenta de gestão financeira que permite organizar, visualizar e controlar todas as faturas relacionadas aos atendimentos de um indivíduo, casal, família ou grupo."
   }
 }

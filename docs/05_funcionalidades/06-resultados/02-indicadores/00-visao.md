@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Sobre a Aba Resumos
 
-A aba Resumos apresenta uma visão abrangente e consolidada do desempenho de todos os pacientes no mês selecionado. Nela, estão reunidas informações-chave como volume de atendimentos, principais demandas, níveis de satisfação e outros dados relevantes que possibilitam uma análise comparativa no mês e facilitam a identificação de padrões, oportunidades de melhoria e tomada de decisões estratégicas com base em dados concretos.
+A aba Resumos apresenta uma visão abrangente e consolidada do desempenho de todas as pessoas atendidas no mês selecionado. Nela, estão reunidas informações-chave como volume de atendimentos, principais demandas, níveis de satisfação e outros dados relevantes que possibilitam uma análise comparativa no mês e facilitam a identificação de padrões, oportunidades de melhoria e tomada de decisões estratégicas com base em dados concretos.
 
 Os dados agregados permitem visualizar, em um único painel, a performance financeira e operacional e o nível de risco da carteira de forma global.
 
@@ -38,7 +38,7 @@ Os indicadores estão organizados nos seguintes *cards*:
 
     ![Painel Resultados](../../../../static/img/prints/resultados/012.png)
 
-    - Valor das perdas geradas pelo paciente no mês, no ano e no total.
+    - Valor das perdas geradas pelas pessoas atendidas no mês, no ano e no total.
 
 1. **Perdas Recuperadas**
 
@@ -50,7 +50,7 @@ Os indicadores estão organizados nos seguintes *cards*:
 
     ![Painel Resultados](../../../../static/img/prints/resultados/014.png)
 
-    - Horários ocupados pelo paciente, categorizados por:
+    - Horários ocupados pelas pessoas atendidas, categorizados por:
         - Remotos pagos
         - Remotos gratuitos
         - Presenciais pagos
@@ -62,7 +62,7 @@ Os indicadores estão organizados nos seguintes *cards*:
 
     ![Painel Resultados](../../../../static/img/prints/resultados/015.png)
 
-    - Valor mínimo, médio e máximo pago pelo paciente em atendimentos no mês.
+    - Valor mínimo, médio e máximo pago pelas pessoas atendidas em atendimentos no mês.
     
 1. **Detalhamento da Frequência**
 
@@ -89,7 +89,7 @@ Os indicadores estão organizados nos seguintes *cards*:
 
 1. **Engajamento Global**
 
-    Frequência de atendimentos e índices de presença mostram o nível de participação média dos pacientes; quedas sugerem necessidade de reengajamento.
+    Frequência de atendimentos e índices de presença mostram o nível de participação média das pessoas atendidas; quedas sugerem necessidade de reengajamento.
 
 1. **Saúde Financeira**
 

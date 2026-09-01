@@ -2,17 +2,17 @@
 sidebar_position: 2
 ---
 
-# Gráfico Detalhe da frequência
+# Gráfico Detalhe da Frequência
 
-Este gráfico mostra o comportamento de frequência dos pacientes, permitindo entender o engajamento e a adesão ao agendamento.
+Este gráfico mostra o comportamento de frequência das pessoas atendidas, permitindo entender o engajamento e a adesão ao agendamento.
 
 ![Painel Resultados](../../../../static/img/prints/resultados/002.png)
 
 ## Informações
 
-- **Não confirmados:** Agendamentos que não foram confirmados pelos pacientes.
+- **Não confirmados:** Agendamentos que não foram confirmados pelas pessoas atendidas.
 
-- **Confirmados:** Agendamentos que os pacientes confirmaram.
+- **Confirmados:** Agendamentos que as pessoas atendidas confirmaram.
 
 - **Realizados:** Atendimentos que de fato ocorreram.
 
@@ -26,7 +26,7 @@ Facilita a identificação de falhas no comparecimento, contribuindo para estrat
 
 - Analise o funil de engajamento dos agendamentos: do "não confirmado" ao "realizado".
 
-- Alta quantidade de não confirmados pode indicar falhas na comunicação com o paciente (email, WhatsApp).
+- Alta quantidade de não confirmados pode indicar falhas na comunicação com a pessoa atendida (email, WhatsApp).
 
 - Um número elevado de confirmados que não se realizam pode indicar problemas logísticos, desistências ou falta de adesão — sugerindo a necessidade de políticas de confirmação mais eficazes.
 
