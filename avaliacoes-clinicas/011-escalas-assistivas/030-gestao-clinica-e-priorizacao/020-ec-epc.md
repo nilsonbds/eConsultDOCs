@@ -319,19 +319,19 @@ Aplicações periódicas permitem acompanhar mudanças na prioridade clínica e 
 
 ## Artigos Relacionados
 
-👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
+👉 [Quando aplicar avaliações psicológicas](../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
+👉 [Como escolher uma indicador psicológica](../../040-guias/010-como-escolher-uma-indicador.md)
 
-👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
+👉 [Interpretação de resultados](../../040-guias/020-interpretacao-de-resultados.md)
 
-👉 [Observação clínica vs observação estruturada](../../../050-comparativos/040-observacao-clinica-vs-observacao-estruturada.md)
+👉 [Observação clínica vs observação estruturada](../../050-comparativos/040-observacao-clinica-vs-observacao-estruturada.md)
 
-👉 [Dados isolados vs leitura evolutiva do caso](../../../050-comparativos/050-dados-isolados-vs-leitura-evolutiva-do-caso.md)
+👉 [Dados isolados vs leitura evolutiva do caso](../../050-comparativos/050-dados-isolados-vs-leitura-evolutiva-do-caso.md)
 
-👉 [Sugestão inteligente de avaliações](../../../030-inteligencia-clinica/040-sugestao-inteligente-de-avaliacoes.md)
+👉 [Sugestão inteligente de avaliações](../../030-inteligencia-clinica/040-sugestao-inteligente-de-avaliacoes.md)
 
-👉 [Leitura evolutiva do caso](../../../030-inteligencia-clinica/030-leitura-evolutiva-do-caso.md)
+👉 [Leitura evolutiva do caso](../../030-inteligencia-clinica/030-leitura-evolutiva-do-caso.md)
 
 ---
 
