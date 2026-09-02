@@ -97,7 +97,6 @@ Avaliam elementos relacionados ao andamento da terapia e ao envolvimento da pess
 Avaliam fatores relacionados à continuidade do tratamento e necessidade de atenção clínica.
 
 * EC-ERA — Indicador de Risco de Abandono
-* EC-ERC — Indicador de Risco Clínico Dinâmico
 * EC-EDC — Indicador de Direção Clínica
 
 ### 🧠 Processos Clínicos

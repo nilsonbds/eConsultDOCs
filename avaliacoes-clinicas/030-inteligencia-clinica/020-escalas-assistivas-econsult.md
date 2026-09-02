@@ -75,7 +75,6 @@ As Instrumentos Psicométricos do eConsult estão organizadas em diferentes dime
 
 ### ⚠️ Monitoramento e Risco Clínico
 
-- EC-ERC — Risco Clínico Dinâmico
 - EC-ERA — Risco de Abandono
 - EC-EDC — Direção Clínica
 
