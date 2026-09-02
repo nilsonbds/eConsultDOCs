@@ -317,7 +317,7 @@ Aplicações periódicas costumam permitir melhor visualização da evolução d
 
 👉 [Quando aplicar avaliações psicológicas](../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma indicador psicológica](../../040-guias/010-como-escolher-uma-indicador.md)
+👉 [Como escolher uma indicador psicológica](../../040-guias/010-como-escolher-uma-escala.md)
 
 👉 [Interpretação de resultados](../../040-guias/020-interpretacao-de-resultados.md)
 
