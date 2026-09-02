@@ -1,6 +1,6 @@
 ---
 sidebar_position: 30
-title: EC-EFC - Escala de Flexibilidade Cognitiva (eConsult)
+title: EC-EFC - Indicador de Flexibilidade Cognitiva (eConsult)
 description: "Instrumento assistivo do eConsult para avaliação longitudinal da flexibilidade cognitiva da pessoa atendida."
 keywords:
   - flexibilidade cognitiva
@@ -13,19 +13,19 @@ keywords:
   - EC-EFC
 ---
 
-# EC-EFC: Escala de Flexibilidade Cognitiva (eConsult)
+# EC-EFC: Indicador de Flexibilidade Cognitiva (eConsult)
 
-A **EC-EFC (Escala de Flexibilidade Cognitiva)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de revisar crenças, adaptar pensamentos, considerar novas perspectivas e modificar padrões de comportamento diante de novas informações ou demandas.
+A **EC-EFC (Indicador de Flexibilidade Cognitiva)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de revisar crenças, adaptar pensamentos, considerar novas perspectivas e modificar padrões de comportamento diante de novas informações ou demandas.
 
-Diferentemente das escalas psicológicas tradicionais, a EC-EFC não possui finalidade diagnóstica. Seu objetivo é fornecer ao profissional uma leitura estruturada sobre o grau de flexibilidade ou rigidez cognitiva observado ao longo do processo terapêutico.
+Diferentemente das indicadors psicológicas tradicionais, a EC-EFC não possui finalidade diagnóstica. Seu objetivo é fornecer ao profissional uma leitura estruturada sobre o grau de flexibilidade ou rigidez cognitiva observado ao longo do processo terapêutico.
 
-A escala integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
+A indicador integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
 
 Neste artigo você encontrará:
 
 ✅ O que é a EC-EFC
 
-✅ Como funciona a escala
+✅ Como funciona a indicador
 
 ✅ Como interpretar os fatores
 
@@ -49,7 +49,7 @@ A flexibilidade cognitiva está associada à capacidade de considerar diferentes
 
 Por outro lado, elevados níveis de rigidez cognitiva podem dificultar processos de mudança e manutenção de ganhos terapêuticos.
 
-A escala permite registrar aspectos como:
+A indicador permite registrar aspectos como:
 
 - Rigidez de pensamento;
 - Abertura a novas perspectivas;
@@ -62,7 +62,7 @@ A escala permite registrar aspectos como:
 
 ## O que a EC-EFC avalia?
 
-A escala é organizada em quatro fatores.
+A indicador é organizada em quatro fatores.
 
 ### Rigidez Cognitiva
 
@@ -178,7 +178,7 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ## Responda a EC-EFC Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-EFC** para obter:
 
@@ -190,7 +190,7 @@ Utilize a versão online da **EC-EFC** para obter:
 
 👉 [**Responder EC-EFC Online**](https://econsult.app.br/teste-psicologico/ec-efc)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Flexibilidade Cognitiva (EC-EFC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de revisar crenças, adaptar pensamentos, considerar novas perspectivas e modificar padrões de comportamento diante de novas informações ou demandas. Diferentemente das escalas psicológicas tradicionais, a EC-EFC não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o grau de flexibilidade ou rigidez cognitiva observado ao longo do processo terapêutico.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Flexibilidade Cognitiva (EC-EFC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de revisar crenças, adaptar pensamentos, considerar novas perspectivas e modificar padrões de comportamento diante de novas informações ou demandas. Diferentemente das indicadors psicológicas tradicionais, a EC-EFC não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o grau de flexibilidade ou rigidez cognitiva observado ao longo do processo terapêutico.
 
 ---
 
@@ -200,7 +200,7 @@ A flexibilidade cognitiva tende a se desenvolver gradualmente ao longo do proces
 
 Mudanças em crenças centrais, interpretações automáticas e padrões de comportamento geralmente ocorrem de forma progressiva e não linear.
 
-Por isso, aplicações periódicas da escala permitem identificar tendências que podem não ser percebidas em avaliações isoladas.
+Por isso, aplicações periódicas da indicador permitem identificar tendências que podem não ser percebidas em avaliações isoladas.
 
 <!--
 ![Evolução longitudinal da flexibilidade cognitiva](#)
@@ -230,7 +230,7 @@ Indica maior flexibilidade para implementar mudanças no cotidiano.
 
 ---
 
-## EC-EFC não é uma escala diagnóstica
+## EC-EFC não é uma indicador diagnóstica
 
 A EC-EFC não possui finalidade diagnóstica.
 
@@ -242,7 +242,7 @@ Os resultados devem sempre ser interpretados em conjunto com a avaliação clín
 
 ## Quando utilizar a EC-EFC?
 
-A escala pode ser aplicada:
+A indicador pode ser aplicada:
 
 - No início do acompanhamento;
 - Em reavaliações periódicas;
@@ -295,13 +295,13 @@ A proposta não é substituir o raciocínio clínico, mas fornecer informações
 
 Não.
 
-A escala não possui finalidade diagnóstica.
+A indicador não possui finalidade diagnóstica.
 
-### Quem responde a escala?
+### Quem responde a indicador?
 
 O preenchimento é realizado pelo profissional com base na observação clínica, nos relatos da pessoa atendida e na evolução observada ao longo do acompanhamento.
 
-### A escala pode ser utilizada em qualquer abordagem?
+### A indicador pode ser utilizada em qualquer abordagem?
 
 Sim.
 
@@ -319,7 +319,7 @@ Aplicações periódicas permitem visualizar com maior clareza a evolução da f
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -335,7 +335,7 @@ Aplicações periódicas permitem visualizar com maior clareza a evolução da f
 
 ## Referências
 
-ECONSULT. Escala de Flexibilidade Cognitiva (EC-EFC). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
+ECONSULT. Indicador de Flexibilidade Cognitiva (EC-EFC). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

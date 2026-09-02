@@ -1,6 +1,6 @@
 ---
 sidebar_position: 20
-title: EC-ERE - Escala de Regulação Emocional (eConsult)
+title: EC-ERE - Indicador de Regulação Emocional (eConsult)
 description: "Instrumento assistivo do eConsult para avaliação longitudinal da regulação emocional da pessoa atendida."
 keywords:
   - regulação emocional
@@ -13,19 +13,19 @@ keywords:
   - EC-ERE
 ---
 
-# EC-ERE: Escala de Regulação Emocional (eConsult)
+# EC-ERE: Indicador de Regulação Emocional (eConsult)
 
-A **EC-ERE (Escala de Regulação Emocional)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de reconhecer, compreender, modular e lidar com suas emoções de forma adaptativa.
+A **EC-ERE (Indicador de Regulação Emocional)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de reconhecer, compreender, modular e lidar com suas emoções de forma adaptativa.
 
-Diferentemente das escalas psicológicas tradicionais, a EC-ERE não possui finalidade diagnóstica. Seu objetivo é fornecer ao profissional uma leitura estruturada sobre aspectos relacionados ao reconhecimento emocional, modulação afetiva, expressão emocional e estratégias utilizadas para lidar com estados emocionais difíceis.
+Diferentemente das indicadors psicológicas tradicionais, a EC-ERE não possui finalidade diagnóstica. Seu objetivo é fornecer ao profissional uma leitura estruturada sobre aspectos relacionados ao reconhecimento emocional, modulação afetiva, expressão emocional e estratégias utilizadas para lidar com estados emocionais difíceis.
 
-A escala integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
+A indicador integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
 
 Neste artigo você encontrará:
 
 ✅ O que é a EC-ERE
 
-✅ Como funciona a escala
+✅ Como funciona a indicador
 
 ✅ Como interpretar os fatores
 
@@ -47,7 +47,7 @@ A EC-ERE foi criada para auxiliar na observação sistemática dos processos de 
 
 A capacidade de identificar emoções, compreender suas causas e responder de forma adequada aos estados emocionais é um componente importante do funcionamento psicológico saudável.
 
-A escala permite registrar de forma estruturada aspectos como:
+A indicador permite registrar de forma estruturada aspectos como:
 
 - Reconhecimento de emoções;
 - Diferenciação emocional;
@@ -60,7 +60,7 @@ A escala permite registrar de forma estruturada aspectos como:
 
 ## O que a EC-ERE avalia?
 
-A escala é organizada em quatro fatores.
+A indicador é organizada em quatro fatores.
 
 ### Identificação Emocional
 
@@ -176,7 +176,7 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ## Responda a EC-ERE Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-ERE** para obter:
 
@@ -188,7 +188,7 @@ Utilize a versão online da **EC-ERE** para obter:
 
 👉 [**Responder EC-ERE Online**](https://econsult.app.br/teste-psicologico/ec-ere)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Regulação Emocional (EC-ERE)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de reconhecer, compreender, modular e lidar com suas emoções de forma adaptativa. Diferentemente das escalas psicológicas tradicionais, a EC-ERE não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o reconhecimento, a modulação e a expressão emocional, bem como sobre as estratégias utilizadas para lidar com estados emocionais difíceis ao longo do processo terapêutico.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Regulação Emocional (EC-ERE)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de reconhecer, compreender, modular e lidar com suas emoções de forma adaptativa. Diferentemente das indicadors psicológicas tradicionais, a EC-ERE não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o reconhecimento, a modulação e a expressão emocional, bem como sobre as estratégias utilizadas para lidar com estados emocionais difíceis ao longo do processo terapêutico.
 
 ---
 
@@ -198,7 +198,7 @@ A regulação emocional é um processo dinâmico e influenciado por fatores inte
 
 Oscilações emocionais fazem parte da experiência humana, porém a observação contínua permite identificar padrões de evolução, estabilidade ou agravamento ao longo do tratamento.
 
-Aplicações periódicas da escala fornecem informações mais úteis do que avaliações isoladas.
+Aplicações periódicas da indicador fornecem informações mais úteis do que avaliações isoladas.
 
 <!--
 ![Evolução longitudinal da regulação emocional](#)
@@ -228,7 +228,7 @@ Indicam ampliação dos recursos psicológicos utilizados para lidar com situaç
 
 ---
 
-## EC-ERE não é uma escala diagnóstica
+## EC-ERE não é uma indicador diagnóstica
 
 A EC-ERE não possui finalidade diagnóstica.
 
@@ -240,7 +240,7 @@ Os resultados devem sempre ser interpretados em conjunto com a avaliação clín
 
 ## Quando utilizar a EC-ERE?
 
-A escala pode ser aplicada:
+A indicador pode ser aplicada:
 
 - No início do acompanhamento;
 - Em reavaliações periódicas;
@@ -293,13 +293,13 @@ A proposta não é substituir o raciocínio clínico, mas fornecer informações
 
 Não.
 
-A escala não possui finalidade diagnóstica.
+A indicador não possui finalidade diagnóstica.
 
-### Quem responde a escala?
+### Quem responde a indicador?
 
 O preenchimento é realizado pelo profissional com base na observação clínica, nos relatos da pessoa atendida e na evolução observada ao longo do acompanhamento.
 
-### A escala pode ser utilizada em qualquer abordagem?
+### A indicador pode ser utilizada em qualquer abordagem?
 
 Sim.
 
@@ -317,7 +317,7 @@ Aplicações periódicas permitem visualizar com maior clareza a evolução da r
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -333,7 +333,7 @@ Aplicações periódicas permitem visualizar com maior clareza a evolução da r
 
 ## Referências
 
-ECONSULT. Escala de Regulação Emocional (EC-ERE). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
+ECONSULT. Indicador de Regulação Emocional (EC-ERE). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

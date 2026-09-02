@@ -17,7 +17,7 @@ Talvez esteja se perguntando:
 - O que realmente deve constar no prontuário?
 - Meu modelo está de acordo com as orientações do CFP?
 - Como registrar as sessões de forma organizada?
-- Como documentar a evolução do paciente?
+- Como documentar a evolução da pessoa atendida?
 - Existe um modelo que eu possa adaptar para minha realidade clínica?
 
 Você não está sozinho.
@@ -36,7 +36,7 @@ Ideal para atendimentos individuais de psicoterapia.
 
 #### O que este modelo contém?
 
-- Identificação do paciente
+- Identificação da pessoa atendida
 - Histórico clínico
 - Queixas principais
 - Hipóteses diagnósticas
@@ -136,7 +136,7 @@ Na realidade, ele faz parte de um processo muito maior.
 
 O prontuário organiza informações importantes do caso.
 
-Mas a compreensão da evolução do paciente depende da forma como essas informações são registradas, conectadas e analisadas ao longo do tempo.
+Mas a compreensão da evolução da pessoa atendida depende da forma como essas informações são registradas, conectadas e analisadas ao longo do tempo.
 
 Por isso, antes de utilizar qualquer modelo, vale entender qual é o papel do prontuário dentro da prática clínica.
 
@@ -146,13 +146,13 @@ Por isso, antes de utilizar qualquer modelo, vale entender qual é o papel do pr
 
 O prontuário psicológico é o registro técnico do acompanhamento realizado pelo psicólogo.
 
-Mais do que uma exigência documental, ele é um instrumento que organiza informações clinicamente relevantes, sustenta a continuidade do cuidado e protege tanto o paciente quanto o profissional.
+Mais do que uma exigência documental, ele é um instrumento que organiza informações clinicamente relevantes, sustenta a continuidade do cuidado e protege tanto a pessoa atendida quanto o profissional.
 
 Quando bem estruturado, deixa de ser apenas um arquivo de registros e passa a apoiar a compreensão da evolução clínica ao longo do tempo.
 
 Ele deve conter minimamente:
 
-- Identificação do paciente
+- Identificação da pessoa atendida
 - Anamnese
 - Registros estruturados das sessões (apenas o que for clinicamente pertinente)
 - Avaliações
@@ -223,7 +223,7 @@ Ele deve conter:
 - Conteúdo tecnicamente adequado
 - Informações que sustentem o acompanhamento do caso
 
-✔️ Pode ser solicitado pelo paciente  
+✔️ Pode ser solicitado pela pessoa atendida  
 ✔️ Deve seguir linguagem técnica  
 ✔️ Representa a síntese do processo terapêutico
 
@@ -255,7 +255,7 @@ Ele é resultado de um processo clínico:
 - Organiza o conteúdo (ex: SOAP)
 - E decide se deve compor o prontuário
 
-![Infográfico mostrando como o prontuário psicológico é construído de forma longitudinal, passando por registro da sessão, modelos clínicos como SOAP, formalização técnica e análise da evolução do paciente](../static/img/pratica_clinica/infografico-prontuario.png)
+![Infográfico mostrando como o prontuário psicológico é construído de forma longitudinal, passando por registro da sessão, modelos clínicos como SOAP, formalização técnica e análise da evolução da pessoa atendida](../static/img/pratica_clinica/infografico-prontuario.png)
 <small>
 Mais do que registrar atendimentos, o prontuário psicológico consolida informações clinicamente relevantes ao longo do tempo, sustentando a análise da evolução e a tomada de decisão terapêutica.
 </small>
@@ -384,7 +384,7 @@ Ele deve permitir compreender:
 
 👉 A prática moderna exige:
 
-> **leitura longitudinal do paciente**
+> **leitura longitudinal da pessoa atendida**
 
 ---
 
@@ -396,7 +396,7 @@ Ele deve permitir compreender:
 
 ## 📊 Escalas e avaliações psicométricas no prontuário
 
-Em alguns contextos clínicos, o psicólogo pode utilizar escalas psicométricas, questionários padronizados e outros instrumentos de avaliação para complementar o acompanhamento do paciente.
+Em alguns contextos clínicos, o psicólogo pode utilizar escalas psicométricas, questionários padronizados e outros instrumentos de avaliação para complementar o acompanhamento da pessoa atendida.
 
 Nesses casos, é importante compreender quais informações devem ser registradas no prontuário e como esses dados podem contribuir para a análise clínica ao longo do tempo.
 
@@ -455,15 +455,15 @@ quando necessário para análise clínica mais detalhada.
 
 ---
 
-## 🔐 LGPD e compartilhamento com o paciente
+## 🔐 LGPD e compartilhamento com a pessoa atendida
 
 O prontuário contém dados sensíveis e deve ser protegido durante todo o seu armazenamento.
 
 ---
 
-### 📄 Acesso pelo paciente
+### 📄 Acesso pela pessoa atendida
 
-O paciente pode solicitar acesso ao prontuário.
+A pessoa atendida pode solicitar acesso ao prontuário.
 
 Essa entrega deve ser realizada de forma:
 
@@ -475,10 +475,10 @@ Essa entrega deve ser realizada de forma:
 
 ### ⚠️ Responsabilidade após o compartilhamento
 
-Após a entrega ao paciente:
+Após a entrega a pessoa atendida:
 
 - O documento passa a estar sob sua posse
-- O paciente pode armazenar ou compartilhar as informações
+- A pessoa atendida pode armazenar ou compartilhar as informações
 
 👉 Nesse momento, o controle sobre o uso do documento deixa de ser do psicólogo.
 
@@ -570,7 +570,7 @@ Antes de finalizar seu registro, verifique:
 ## 📚 Glossário rápido
 
 **Anamnese**  
-Levantamento inicial da história do paciente
+Levantamento inicial da história da pessoa atendida
 
 **Hipótese diagnóstica**  
 Possível explicação clínica baseada nos dados
@@ -588,15 +588,15 @@ Sim. O psicólogo deve manter registros técnicos que permitam documentar o acom
 
 ---
 
-### O prontuário pode ser solicitado pelo paciente?
+### O prontuário pode ser solicitado pela pessoa atendida?
 
-Sim. O prontuário faz parte dos registros do atendimento e pode ser acessado pelo paciente, observados os critérios éticos e legais aplicáveis.
+Sim. O prontuário faz parte dos registros do atendimento e pode ser acessado pela pessoa atendida, observados os critérios éticos e legais aplicáveis.
 
 ---
 
 ### O que deve constar em um prontuário psicológico?
 
-De forma geral, o prontuário deve conter informações clinicamente relevantes para a continuidade do cuidado, como identificação do paciente, anamnese, registros clínicos, avaliações, evolução e plano terapêutico.
+De forma geral, o prontuário deve conter informações clinicamente relevantes para a continuidade do cuidado, como identificação da pessoa atendida, anamnese, registros clínicos, avaliações, evolução e plano terapêutico.
 
 ---
 
@@ -620,7 +620,7 @@ O registro clínico pode conter observações, hipóteses e anotações de traba
 
 Não.
 
-O SOAP é um modelo de organização do registro clínico. O prontuário é o documento clínico que reúne informações relevantes sobre o acompanhamento do paciente.
+O SOAP é um modelo de organização do registro clínico. O prontuário é o documento clínico que reúne informações relevantes sobre o acompanhamento da pessoa atendida.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-title: EC-ETE - Escala de Engajamento Terapêutico (eConsult)
+title: EC-ETE - Indicador de Engajamento Terapêutico (eConsult)
 description: "Instrumento assistivo do eConsult para avaliação longitudinal do engajamento terapêutico, adesão ao processo, participação em sessão e continuidade do acompanhamento."
 keywords:
   - engajamento terapêutico
@@ -13,19 +13,19 @@ keywords:
   - EC-ETE
 ---
 
-# EC-ETE: Escala de Engajamento Terapêutico (eConsult)
+# EC-ETE: Indicador de Engajamento Terapêutico (eConsult)
 
-A **EC-ETE (Escala de Engajamento Terapêutico)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal do engajamento da pessoa atendida no processo terapêutico.
+A **EC-ETE (Indicador de Engajamento Terapêutico)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal do engajamento da pessoa atendida no processo terapêutico.
 
-Diferentemente das escalas psicológicas tradicionais, a EC-ETE não busca avaliar sintomas ou realizar diagnósticos. Seu objetivo é fornecer ao profissional uma leitura estruturada sobre o nível de envolvimento da pessoa atendida com o tratamento.
+Diferentemente das indicadors psicológicas tradicionais, a EC-ETE não busca avaliar sintomas ou realizar diagnósticos. Seu objetivo é fornecer ao profissional uma leitura estruturada sobre o nível de envolvimento da pessoa atendida com o tratamento.
 
-A escala integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
+A indicador integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
 
 Neste artigo você encontrará:
 
 ✅ O que é a EC-ETE
 
-✅ Como funciona a escala
+✅ Como funciona a indicador
 
 ✅ Como interpretar os fatores
 
@@ -45,7 +45,7 @@ Neste artigo você encontrará:
 
 A EC-ETE foi criada para apoiar a observação sistemática de comportamentos que costumam estar associados ao progresso terapêutico.
 
-A escala permite acompanhar aspectos frequentemente percebidos pelo profissional durante o atendimento, mas que nem sempre são registrados de forma estruturada.
+A indicador permite acompanhar aspectos frequentemente percebidos pelo profissional durante o atendimento, mas que nem sempre são registrados de forma estruturada.
 
 Entre eles:
 
@@ -59,7 +59,7 @@ Entre eles:
 
 ## O que a EC-ETE avalia?
 
-A escala é organizada em quatro fatores:
+A indicador é organizada em quatro fatores:
 
 ### Adesão ao Processo
 
@@ -171,7 +171,7 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ## Responda a EC-ETE Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-ETE** para obter:
 
@@ -183,7 +183,7 @@ Utilize a versão online da **EC-ETE** para obter:
 
 👉 [**Responder EC-ETE Online**](https://econsult.app.br/teste-psicologico/ec-ete)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Engajamento Terapêutico (EC-ETE)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal do engajamento da pessoa atendida no processo terapêutico, auxiliando na identificação da adesão ao tratamento e da evolução do vínculo terapêutico ao longo do acompanhamento clínico.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Engajamento Terapêutico (EC-ETE)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal do engajamento da pessoa atendida no processo terapêutico, auxiliando na identificação da adesão ao tratamento e da evolução do vínculo terapêutico ao longo do acompanhamento clínico.
 
 ---
 
@@ -199,7 +199,7 @@ Em muitos casos, a adesão oscila ao longo do tratamento em função de:
 - Evolução clínica;
 - Alterações motivacionais.
 
-Por isso, uma única aplicação da escala costuma fornecer menos informação do que sua utilização contínua ao longo do acompanhamento.
+Por isso, uma única aplicação da indicador costuma fornecer menos informação do que sua utilização contínua ao longo do acompanhamento.
 
 <!--
 ![Evolução longitudinal do engajamento terapêutico](#)
@@ -229,7 +229,7 @@ Pode indicar generalização dos ganhos terapêuticos para o cotidiano.
 
 ---
 
-## EC-ETE não é uma escala diagnóstica
+## EC-ETE não é uma indicador diagnóstica
 
 A EC-ETE não possui finalidade diagnóstica.
 
@@ -241,7 +241,7 @@ Seu objetivo é complementar — e não substituir — o julgamento clínico do 
 
 ## Quando utilizar a EC-ETE?
 
-A escala pode ser aplicada:
+A indicador pode ser aplicada:
 
 - No início do acompanhamento;
 - Em reavaliações periódicas;
@@ -292,13 +292,13 @@ A proposta não é substituir o raciocínio clínico, mas oferecer informações
 
 Não.
 
-A escala não possui finalidade diagnóstica.
+A indicador não possui finalidade diagnóstica.
 
-### Quem responde a escala?
+### Quem responde a indicador?
 
 O preenchimento é realizado pelo profissional com base na observação clínica e no histórico recente da pessoa atendida.
 
-### A escala pode ser aplicada em qualquer abordagem?
+### A indicador pode ser aplicada em qualquer abordagem?
 
 Sim.
 
@@ -316,7 +316,7 @@ Em geral, aplicações periódicas permitem melhor visualização da evolução 
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -332,7 +332,7 @@ Em geral, aplicações periódicas permitem melhor visualização da evolução 
 
 ## Referências
 
-ECONSULT. Escala de Engajamento Terapêutico (EC-ETE). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
+ECONSULT. Indicador de Engajamento Terapêutico (EC-ETE). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-title: EC-ERA - Escala de Risco de Abandono (eConsult)
+title: EC-ERA - Indicador de Risco de Abandono (eConsult)
 description: "Instrumento assistivo do eConsult para identificação precoce de risco de abandono terapêutico e acompanhamento longitudinal da continuidade do tratamento."
 keywords:
   - abandono terapêutico
@@ -13,19 +13,19 @@ keywords:
   - EC-ERA
 ---
 
-# EC-ERA: Escala de Risco de Abandono (eConsult)
+# EC-ERA: Indicador de Risco de Abandono (eConsult)
 
-A **EC-ERA (Escala de Risco de Abandono)** é um instrumento assistivo desenvolvido pelo **eConsult** para auxiliar profissionais na identificação precoce de sinais associados à interrupção do processo terapêutico.
+A **EC-ERA (Indicador de Risco de Abandono)** é um instrumento assistivo desenvolvido pelo **eConsult** para auxiliar profissionais na identificação precoce de sinais associados à interrupção do processo terapêutico.
 
 Seu objetivo é apoiar a observação estruturada de fatores que podem aumentar o risco de abandono do acompanhamento, permitindo intervenções preventivas antes da descontinuidade do tratamento.
 
-A escala integra o conjunto de ferramentas do **Núcleo de Inteligência Clínica do eConsult**.
+A indicador integra o conjunto de ferramentas do **Núcleo de Inteligência Clínica do eConsult**.
 
 Neste artigo você encontrará:
 
 ✅ O que é a EC-ERA
 
-✅ Como funciona a escala
+✅ Como funciona a indicador
 
 ✅ Como interpretar os fatores
 
@@ -60,7 +60,7 @@ A EC-ERA foi criada para ajudar o profissional a monitorar esses indicadores de 
 
 ## O que a EC-ERA avalia?
 
-A escala é organizada em quatro fatores.
+A indicador é organizada em quatro fatores.
 
 ### Adesão e Frequência
 
@@ -175,7 +175,7 @@ Quanto maior a pontuação, maior o risco potencial de abandono naquele domínio
 
 ## Responda a EC-ERA Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-ERA** para obter:
 
@@ -187,7 +187,7 @@ Utilize a versão online da **EC-ERA** para obter:
 
 👉 [**Responder EC-ERA Online**](https://econsult.app.br/teste-psicologico/ec-era)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Risco de Abandono (EC-ERA)** é um instrumento assistivo desenvolvido pelo **eConsult** para auxiliar na identificação precoce de sinais associados à interrupção do processo terapêutico. Seu objetivo é apoiar a observação estruturada de fatores que podem aumentar o risco de abandono do acompanhamento, permitindo intervenções preventivas que favoreçam a continuidade do tratamento e fortaleçam a adesão terapêutica.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Risco de Abandono (EC-ERA)** é um instrumento assistivo desenvolvido pelo **eConsult** para auxiliar na identificação precoce de sinais associados à interrupção do processo terapêutico. Seu objetivo é apoiar a observação estruturada de fatores que podem aumentar o risco de abandono do acompanhamento, permitindo intervenções preventivas que favoreçam a continuidade do tratamento e fortaleçam a adesão terapêutica.
 
 ---
 
@@ -235,7 +235,7 @@ Merece atenção clínica imediata.
 
 ## Como a EC-ERA complementa a EC-ETE?
 
-As duas escalas foram desenvolvidas para trabalhar em conjunto.
+As duas indicadors foram desenvolvidas para trabalhar em conjunto.
 
 | EC-ETE | EC-ERA |
 |----------|----------|
@@ -248,7 +248,7 @@ Quando utilizadas em conjunto, permitem uma visão mais completa do processo ter
 
 ---
 
-## EC-ERA não é uma escala diagnóstica
+## EC-ERA não é uma indicador diagnóstica
 
 A EC-ERA não realiza diagnóstico nem prevê abandono com certeza.
 
@@ -258,7 +258,7 @@ Seu objetivo é apoiar a observação clínica estruturada e fornecer indicadore
 
 ## Quando utilizar a EC-ERA?
 
-A escala pode ser aplicada:
+A indicador pode ser aplicada:
 
 - No início do acompanhamento;
 - Em reavaliações periódicas;
@@ -307,11 +307,11 @@ Não.
 
 Ela identifica fatores associados ao risco de abandono, mas não prevê eventos individuais.
 
-### Quem responde a escala?
+### Quem responde a indicador?
 
 O profissional, com base na observação clínica e no histórico recente da pessoa atendida.
 
-### A escala substitui a avaliação clínica?
+### A indicador substitui a avaliação clínica?
 
 Não.
 
@@ -321,7 +321,7 @@ A EC-ERA é uma ferramenta de apoio ao raciocínio clínico.
 
 Sim.
 
-A escala foi desenvolvida para apoiar o acompanhamento independentemente da abordagem teórica adotada.
+A indicador foi desenvolvida para apoiar o acompanhamento independentemente da abordagem teórica adotada.
 
 ---
 
@@ -329,7 +329,7 @@ A escala foi desenvolvida para apoiar o acompanhamento independentemente da abor
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -345,7 +345,7 @@ A escala foi desenvolvida para apoiar o acompanhamento independentemente da abor
 
 ## Referências
 
-ECONSULT. Escala de Risco de Abandono (EC-ERA). Instrumento assistivo proprietário para monitoramento longitudinal de fatores associados à evasão terapêutica.
+ECONSULT. Indicador de Risco de Abandono (EC-ERA). Instrumento assistivo proprietário para monitoramento longitudinal de fatores associados à evasão terapêutica.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

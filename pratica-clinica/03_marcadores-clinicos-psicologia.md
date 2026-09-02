@@ -1,7 +1,7 @@
 ---
 id: 03_marcadores-clinicos-psicologia
 title: "Marcadores Clínicos na Psicologia: Uma Proposta para Acompanhamento Longitudinal"
-description: "Entenda a proposta dos Marcadores Clínicos do eConsult para acompanhar a evolução de pacientes ao longo do tempo, apoiar registros clínicos, gerar SOAPs e produzir sínteses clínicas longitudinais."
+description: "Entenda a proposta dos Marcadores Clínicos do eConsult para acompanhar a evolução de pessoas atendidas ao longo do tempo, apoiar registros clínicos, gerar SOAPs e produzir sínteses clínicas longitudinais."
 slug: "/marcadores-clinicos-psicologia"
 sidebar_position: 3
 ---
@@ -10,11 +10,11 @@ sidebar_position: 3
 
 # Marcadores Clínicos na Psicologia: Uma Proposta para Acompanhamento Longitudinal
 
-## 🤔 O desafio de acompanhar a evolução de um paciente
+## 🤔 O desafio de acompanhar a evolução de uma pessoa atendida
 
 Após algumas semanas ou meses de acompanhamento, muitos psicólogos conseguem responder intuitivamente perguntas como:
 
-* O paciente está evoluindo?
+* A pessoa atendida está evoluindo?
 * A ansiedade diminuiu?
 * O vínculo terapêutico se fortaleceu?
 * Houve ganho de autonomia?
@@ -22,7 +22,7 @@ Após algumas semanas ou meses de acompanhamento, muitos psicólogos conseguem r
 
 O problema é que essas respostas costumam depender da memória clínica, da experiência do profissional e da releitura de registros anteriores.
 
-Quanto maior o número de pacientes e sessões, mais difícil se torna acompanhar todas essas informações de forma organizada.
+Quanto maior o número de pessoas atendidas e sessões, mais difícil se torna acompanhar todas essas informações de forma organizada.
 
 É justamente nesse contexto que surge a proposta dos Marcadores Clínicos.
 
@@ -43,7 +43,7 @@ Eles não substituem:
 
 Funcionam como uma camada complementar de organização e análise clínica.
 
-Enquanto os registros contam a história do paciente, os marcadores ajudam a visualizar padrões, mudanças e tendências ao longo do tratamento.
+Enquanto os registros contam a história da pessoa atendida, os marcadores ajudam a visualizar padrões, mudanças e tendências ao longo do tratamento.
 
 ---
 
@@ -54,7 +54,7 @@ Os Marcadores Clínicos não devem ser confundidos com:
 * testes psicológicos;
 * escalas psicométricas;
 * instrumentos diagnósticos;
-* classificações automáticas de pacientes;
+* classificações automáticas de pessoas atendidas;
 * substitutos do raciocínio clínico.
 
 Seu objetivo não é medir características psicológicas de forma padronizada nem produzir diagnósticos.
@@ -72,7 +72,7 @@ Os registros clínicos continuam sendo fundamentais.
 Por exemplo:
 
 ```text
-Paciente relata aumento da ansiedade relacionado ao trabalho, dificuldade para dormir e tendência a evitar situações sociais.
+Pessoa relata aumento da ansiedade relacionado ao trabalho, dificuldade para dormir e tendência a evitar situações sociais.
 ```
 
 Esse registro contém informações valiosas.
@@ -115,7 +115,7 @@ Por exemplo:
 
 **Observação clínica:**
 
-> Paciente relata aumento das preocupações relacionadas ao trabalho e dificuldade para controlar pensamentos antecipatórios.
+> Pessoa relata aumento das preocupações relacionadas ao trabalho e dificuldade para controlar pensamentos antecipatórios.
 
 ---
 
@@ -127,7 +127,7 @@ Por exemplo:
 
 ---
 
-Ao longo das sessões, o conjunto desses marcadores passa a formar uma linha do tempo clínica do paciente.
+Ao longo das sessões, o conjunto desses marcadores passa a formar uma linha do tempo clínica da pessoa atendida.
 
 ---
 
@@ -139,10 +139,10 @@ Pelo contrário.
 
 O objetivo é reduzir a carga cognitiva do registro clínico e transformar informações dispersas em conhecimento clínico organizado.
 
-![Comparação entre a forma tradicional de documentação clínica e o uso de Marcadores Clínicos na psicologia. À esquerda, o fluxo tradicional segue as etapas Sessão, Registro, SOAP e Prontuário, sem síntese longitudinal e sem visão integrada da evolução do paciente. À direita, os Marcadores Clínicos transformam o registro clínico em múltiplas saídas, incluindo geração de SOAP, atualização do prontuário, síntese longitudinal automática e visualização gráfica da trajetória clínica ao longo do tempo.](../static/img/pratica_clinica/infografico-evolucao-logitudnal-com-marcadores-clinicos.png)
+![Comparação entre a forma tradicional de documentação clínica e o uso de Marcadores Clínicos na psicologia. À esquerda, o fluxo tradicional segue as etapas Sessão, Registro, SOAP e Prontuário, sem síntese longitudinal e sem visão integrada da evolução da pessoa atendida. À direita, os Marcadores Clínicos transformam o registro clínico em múltiplas saídas, incluindo geração de SOAP, atualização do prontuário, síntese longitudinal automática e visualização gráfica da trajetória clínica ao longo do tempo.](../static/img/pratica_clinica/infografico-evolucao-logitudnal-com-marcadores-clinicos.png)
 
 <small>
-Comparação entre o fluxo tradicional de documentação clínica e a proposta baseada em Marcadores Clínicos. Enquanto o modelo tradicional depende de registros e análises realizadas de forma isolada, os Marcadores Clínicos permitem transformar observações da sessão em uma estrutura capaz de apoiar a geração de SOAPs, atualização do prontuário, sínteses clínicas longitudinais e visualização da evolução do paciente ao longo do tempo.
+Comparação entre o fluxo tradicional de documentação clínica e a proposta baseada em Marcadores Clínicos. Enquanto o modelo tradicional depende de registros e análises realizadas de forma isolada, os Marcadores Clínicos permitem transformar observações da sessão em uma estrutura capaz de apoiar a geração de SOAPs, atualização do prontuário, sínteses clínicas longitudinais e visualização da evolução da pessoa atendida ao longo do tempo.
 </small>
 
 ### ⏱️ Menor tempo de documentação
@@ -185,11 +185,11 @@ Quando associados a observações clínicas breves, os marcadores fornecem uma e
 
 ### 🧩 Síntese Clínica Longitudinal
 
-Talvez o maior benefício seja a construção de uma visão integrada da trajetória do paciente.
+Talvez o maior benefício seja a construção de uma visão integrada da trajetória da pessoa atendida.
 
 Os marcadores ajudam a responder perguntas como:
 
-* O paciente está evoluindo?
+* A pessoa atendida está evoluindo?
 * Quais padrões permanecem ativos?
 * Quais fatores de risco diminuíram?
 * Quais fatores protetivos surgiram?
@@ -207,7 +207,7 @@ A imagem abaixo demonstra como os marcadores podem ser utilizados para construir
 
 A imagem abaixo ilustra como os marcadores clínicos podem construir uma linha do tempo do processo terapêutico.
 
-Ao longo das sessões, os marcadores passam a revelar mudanças relevantes na trajetória do paciente, permitindo identificar momentos de crise, fases de intervenção, períodos de estabilização e sinais de evolução clínica.
+Ao longo das sessões, os marcadores passam a revelar mudanças relevantes na trajetória da pessoa atendida, permitindo identificar momentos de crise, fases de intervenção, períodos de estabilização e sinais de evolução clínica.
 
 ![Exemplo de evolução longitudinal baseada em marcadores clínicos](../static/img/pratica_clinica/time-line-acompanhamento-inteligente-do-paciente.png)
 
@@ -311,7 +311,7 @@ Grupo em elaboração produtiva
 
 ## 🤖 Marcadores Clínicos e Inteligência Clínica Longitudinal
 
-Os Marcadores Clínicos não servem apenas para acompanhar a evolução do paciente ao longo do tempo.
+Os Marcadores Clínicos não servem apenas para acompanhar a evolução da pessoa atendida ao longo do tempo.
 
 Quando combinados com observações clínicas breves registradas durante a sessão, eles também podem servir como base para a construção de registros clínicos mais estruturados.
 
@@ -352,7 +352,7 @@ A proposta é transformar observações importantes da prática clínica em info
 
 A proposta é justamente o contrário.
 
-Na prática clínica, uma parte significativa do tempo pós-sessão é dedicada à organização de informações, elaboração de registros, construção de SOAPs, análise da evolução do paciente e atualização do prontuário.
+Na prática clínica, uma parte significativa do tempo pós-sessão é dedicada à organização de informações, elaboração de registros, construção de SOAPs, análise da evolução da pessoa atendida e atualização do prontuário.
 
 Os Marcadores Clínicos procuram reduzir essa carga cognitiva.
 
@@ -404,7 +404,7 @@ Em outras palavras:
 
 Os marcadores não substituem o prontuário.
 
-Eles ajudam a construir um prontuário mais organizado, consistente e alinhado à trajetória clínica do paciente.
+Eles ajudam a construir um prontuário mais organizado, consistente e alinhado à trajetória clínica da pessoa atendida.
 
 ---
 
@@ -492,7 +492,7 @@ Cada contexto clínico possui necessidades de observação e acompanhamento dist
 
 ---
 
-### Os Marcadores Clínicos ajudam a acompanhar a evolução do paciente?
+### Os Marcadores Clínicos ajudam a acompanhar a evolução da pessoa atendida?
 
 Sim.
 
@@ -514,7 +514,7 @@ Como os marcadores criam uma camada estruturada de informação ao longo do temp
 
 Essa é justamente a proposta.
 
-Ao combinar marcadores, observações clínicas e registros da sessão, torna-se possível construir uma visão mais ampla da trajetória do paciente, permitindo compreender não apenas o que aconteceu em uma sessão específica, mas como o processo terapêutico evoluiu ao longo do tempo.
+Ao combinar marcadores, observações clínicas e registros da sessão, torna-se possível construir uma visão mais ampla da trajetória da pessoa atendida, permitindo compreender não apenas o que aconteceu em uma sessão específica, mas como o processo terapêutico evoluiu ao longo do tempo.
 
 ---
 

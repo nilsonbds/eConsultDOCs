@@ -1,7 +1,7 @@
 ---
 id: 07_pratica-clinica-com-econsult
 title: "Prática Clínica com Apoio do eConsult: fluxo estruturado, longitudinal e orientado por dados"
-description: "Entenda como organizar sua prática clínica com apoio do eConsult, desde o primeiro atendimento até a evolução longitudinal do paciente, integrando prontuário, SOAP, marcadores clínicos e avaliações psicológicas."
+description: "Entenda como organizar sua prática clínica com apoio do eConsult, desde o primeiro atendimento até a evolução longitudinal da pessoa atendida, integrando prontuário, SOAP, marcadores clínicos e avaliações psicológicas."
 slug: "/pratica-clinica-com-econsult"
 sidebar_position: 7
 ---
@@ -12,7 +12,7 @@ sidebar_position: 7
 
 A prática clínica em psicologia envolve muito mais do que a condução da sessão.
 
-Ela exige registro, organização, análise e acompanhamento da evolução do paciente ao longo do tempo.
+Ela exige registro, organização, análise e acompanhamento da evolução da pessoa atendida ao longo do tempo.
 
 No entanto, na rotina, esses elementos frequentemente ficam:
 
@@ -99,7 +99,7 @@ Ao final da sessão, o profissional pode registrar **marcadores clínicos**.
 
 Para cada marcador:
 
-- associar trechos relevantes do relato do paciente  
+- associar trechos relevantes do relato da pessoa atendida  
 - incluir percepções clínicas iniciais  
 - manter anotações **breves, objetivas e técnicas**  
 
@@ -292,9 +292,9 @@ Isso garante:
 
 ---
 
-## 🧠 Pacientes já em acompanhamento: como iniciar no sistema
+## 🧠 Pessoas atendidas já em acompanhamento: como iniciar no sistema
 
-Ao começar a utilizar o sistema, é comum que o profissional já possua pacientes em acompanhamento.
+Ao começar a utilizar o sistema, é comum que o profissional já possua pessoas atendidas em acompanhamento.
 
 Nesses casos, não é necessário reconstruir todo o histórico clínico.
 
@@ -305,15 +305,15 @@ O objetivo é estabelecer um **ponto de partida estruturado**, a partir do qual 
 ### ⚖️ Princípio de uso
 
 > O sistema não exige reconstrução completa do passado.  
-> Ele organiza a prática clínica **a partir do momento atual do paciente**.
+> Ele organiza a prática clínica **a partir do momento atual da pessoa atendida**.
 
 ---
 
 ### 🔄 Fluxo recomendado
 
-#### 1. 👤 Cadastro do paciente
+#### 1. 👤 Cadastro da pessoa atendida
 
-- cadastrar o paciente no sistema  
+- cadastrar a pessoa atendida no sistema  
 - inserir informações básicas  
 - complementar dados progressivamente, se necessário  
 
@@ -325,7 +325,7 @@ Após o cadastro:
 
 - iniciar o prontuário  
 - selecionar um modelo de **anamnese compatível com o caso**  
-- preencher a anamnese com base no conhecimento atual do paciente  
+- preencher a anamnese com base no conhecimento atual da pessoa atendida  
 
 ⚠️ Importante:
 
@@ -383,9 +383,9 @@ Recomendação:
 
 ---
 
-## 🧾 Emissão de prontuário para pacientes já em acompanhamento
+## 🧾 Emissão de prontuário para pessoas atendidas já em acompanhamento
 
-Em alguns casos, o profissional pode iniciar o uso do sistema enquanto já atende o paciente há algum tempo — e precisar emitir um prontuário.
+Em alguns casos, o profissional pode iniciar o uso do sistema enquanto já atende a pessoa atendida há algum tempo — e precisar emitir um prontuário.
 
 Nessa situação, é importante compreender que o prontuário pode ser construído a partir de um **recorte do acompanhamento**, sem a necessidade de reconstrução completa de todo o histórico no sistema.
 
@@ -394,7 +394,7 @@ Nessa situação, é importante compreender que o prontuário pode ser construí
 ### ⚖️ Princípio clínico
 
 > O prontuário deve refletir informações tecnicamente relevantes e disponíveis —  
-> não necessariamente a totalidade do histórico do paciente no sistema.
+> não necessariamente a totalidade do histórico da pessoa atendida no sistema.
 
 ---
 
@@ -402,7 +402,7 @@ Nessa situação, é importante compreender que o prontuário pode ser construí
 
 #### 1. 🧾 Preenchimento da anamnese
 
-- registrar as informações já conhecidas sobre o paciente  
+- registrar as informações já conhecidas sobre a pessoa atendida  
 - incluir dados relevantes da história clínica  
 - consolidar o entendimento atual do caso  
 
@@ -453,7 +453,7 @@ Ao emitir o prontuário:
 
 ### 🔍 Transparência e responsabilidade técnica
 
-Quando o prontuário não contempla todo o histórico do paciente no sistema, é recomendável que o profissional:
+Quando o prontuário não contempla todo o histórico da pessoa atendida no sistema, é recomendável que o profissional:
 
 - mantenha clareza sobre o período coberto  
 - utilize linguagem técnica adequada  
@@ -498,7 +498,7 @@ De forma geral, grande parte das ferramentas disponíveis no mercado concentra-s
 
 - agenda  
 - financeiro  
-- cadastro de pacientes  
+- cadastro de pessoas atendidas  
 - e registros em formato livre no prontuário  
 
 Esses recursos são importantes — mas nem sempre são suficientes para apoiar o **raciocínio clínico ao longo do tempo**.
@@ -547,7 +547,7 @@ Ao integrar registros de múltiplas sessões, o sistema permite observar:
 
 Esse tipo de leitura é fundamental para responder uma das principais perguntas da prática clínica:
 
-> **O paciente está evoluindo — e em que direção?**
+> **A pessoa atendida está evoluindo — e em que direção?**
 
 ---
 
@@ -585,7 +585,7 @@ contribui para:
 
 ### 🔄 Continuidade sem sobrecarga
 
-A estratégia de iniciar a partir do momento atual do paciente — sem necessidade de reconstrução completa do passado — permite:
+A estratégia de iniciar a partir do momento atual da pessoa atendida — sem necessidade de reconstrução completa do passado — permite:
 
 - adoção mais simples  
 - menor resistência ao uso  
@@ -607,7 +607,7 @@ Cada elemento contribui, de forma complementar, para estruturar o raciocínio cl
 | **Modelo SOAP** | Estrutura o raciocínio clínico em um formato técnico (Subjetivo, Objetivo, Avaliação e Plano), trazendo clareza, consistência e rigor ao registro. |
 | **Marcadores clínicos** | Permitem organizar elementos relevantes da sessão em forma estruturada, facilitando comparação entre sessões e identificação de padrões. |
 | **Geração assistida** | Apoia a organização do registro clínico a partir dos marcadores, reduzindo o esforço de escrita sem substituir a análise do profissional. |
-| **Visão longitudinal** | Permite acompanhar a trajetória do paciente ao longo do tempo, ampliando a compreensão para além da sessão isolada. |
+| **Visão longitudinal** | Permite acompanhar a trajetória da pessoa atendida ao longo do tempo, ampliando a compreensão para além da sessão isolada. |
 
 ---
 
@@ -628,7 +628,7 @@ Esse modelo não busca padronizar a clínica de forma rígida.
 Ele propõe uma mudança de perspectiva:
 
 > sair do foco na sessão isolada  
-> e passar para a compreensão da trajetória do paciente
+> e passar para a compreensão da trajetória da pessoa atendida
 
 A tecnologia, nesse contexto:
 
@@ -641,7 +641,7 @@ A tecnologia, nesse contexto:
 E permite algo que sempre foi central na psicologia —  
 mas nem sempre viável na rotina:
 
-> **acompanhar a evolução real do paciente ao longo do tempo, com consistência.**
+> **acompanhar a evolução real da pessoa atendida ao longo do tempo, com consistência.**
 
 ---
 
@@ -676,13 +676,13 @@ A interpretação dos dados, a formulação de hipóteses e a tomada de decisão
 
 ---
 
-### Posso utilizar o eConsult mesmo já tendo pacientes em acompanhamento?
+### Posso utilizar o eConsult mesmo já tendo pessoas atendidas em acompanhamento?
 
 Sim.
 
 Não é necessário reconstruir todo o histórico anterior.
 
-O recomendado é iniciar a organização a partir do momento atual do paciente, registrando as informações clinicamente relevantes já conhecidas e dando continuidade ao acompanhamento de forma estruturada.
+O recomendado é iniciar a organização a partir do momento atual da pessoa atendida, registrando as informações clinicamente relevantes já conhecidas e dando continuidade ao acompanhamento de forma estruturada.
 
 ---
 
@@ -724,7 +724,7 @@ A adoção pode ocorrer gradualmente, permitindo que o profissional incorpore re
 
 ---
 
-### Como o eConsult ajuda no acompanhamento da evolução do paciente?
+### Como o eConsult ajuda no acompanhamento da evolução da pessoa atendida?
 
 Ao integrar registros de múltiplas sessões, avaliações psicológicas e marcadores clínicos, o sistema permite visualizar tendências, padrões e mudanças ao longo do tempo, favorecendo uma compreensão mais ampla do processo terapêutico.
 
@@ -746,7 +746,7 @@ Além da função documental, o prontuário pode atuar como uma base estruturada
 
 ---
 
-### Posso emitir prontuários mesmo sem ter todo o histórico do paciente registrado no sistema?
+### Posso emitir prontuários mesmo sem ter todo o histórico da pessoa atendida registrado no sistema?
 
 Sim.
 
@@ -772,7 +772,7 @@ O sistema pode ser utilizado em diferentes contextos clínicos, incluindo:
 
 ### Qual a principal diferença entre o eConsult e sistemas tradicionais para psicólogos?
 
-Enquanto muitos sistemas concentram-se principalmente em agenda, financeiro e armazenamento de registros, o eConsult busca integrar esses recursos com ferramentas voltadas ao acompanhamento clínico longitudinal, à estruturação do raciocínio clínico e à análise da evolução do paciente ao longo do tempo.
+Enquanto muitos sistemas concentram-se principalmente em agenda, financeiro e armazenamento de registros, o eConsult busca integrar esses recursos com ferramentas voltadas ao acompanhamento clínico longitudinal, à estruturação do raciocínio clínico e à análise da evolução da pessoa atendida ao longo do tempo.
 
 ---
 

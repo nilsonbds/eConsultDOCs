@@ -1,6 +1,6 @@
 ---
 sidebar_position: 20
-title: EC-ERC - Escala de Risco Clínico Dinâmico (eConsult)
+title: EC-ERC - Indicador de Risco Clínico Dinâmico (eConsult)
 description: "Instrumento assistivo do eConsult para monitoramento longitudinal de fatores de risco clínico e apoio à tomada de decisão profissional."
 keywords:
   - risco clínico
@@ -13,25 +13,25 @@ keywords:
   - EC-ERC
 ---
 
-# EC-ERC: Escala de Risco Clínico Dinâmico (eConsult)
+# EC-ERC: Indicador de Risco Clínico Dinâmico (eConsult)
 
-A **EC-ERC (Escala de Risco Clínico Dinâmico)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a observação estruturada e o monitoramento longitudinal de fatores associados ao risco clínico.
+A **EC-ERC (Indicador de Risco Clínico Dinâmico)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a observação estruturada e o monitoramento longitudinal de fatores associados ao risco clínico.
 
 Seu objetivo é auxiliar profissionais na identificação precoce de mudanças relevantes no estado clínico da pessoa atendida, favorecendo intervenções oportunas e acompanhamento mais seguro.
 
-A escala integra o conjunto de ferramentas do **Núcleo de Inteligência Clínica do eConsult**.
+A indicador integra o conjunto de ferramentas do **Núcleo de Inteligência Clínica do eConsult**.
 
 Neste artigo você encontrará:
 
 ✅ O que é a EC-ERC
 
-✅ O que a escala avalia
+✅ O que a indicador avalia
 
 ✅ Como interpretar os fatores
 
 ✅ Como utilizar o acompanhamento longitudinal
 
-✅ Como a escala apoia a tomada de decisão clínica
+✅ Como a indicador apoia a tomada de decisão clínica
 
 ---
 
@@ -45,7 +45,7 @@ Neste artigo você encontrará:
 
 A EC-ERC foi criada para apoiar o monitoramento contínuo de indicadores clínicos relevantes que podem variar ao longo do tratamento.
 
-Diferentemente de instrumentos focados exclusivamente em sintomas ou diagnósticos, a escala procura organizar a observação clínica em dimensões associadas ao risco e à vulnerabilidade.
+Diferentemente de instrumentos focados exclusivamente em sintomas ou diagnósticos, a indicador procura organizar a observação clínica em dimensões associadas ao risco e à vulnerabilidade.
 
 O objetivo não é produzir diagnósticos, mas fornecer uma leitura estruturada da evolução clínica.
 
@@ -53,7 +53,7 @@ O objetivo não é produzir diagnósticos, mas fornecer uma leitura estruturada 
 
 ## O que a EC-ERC avalia?
 
-A escala é organizada em quatro fatores.
+A indicador é organizada em quatro fatores.
 
 ### Ideação de Risco
 
@@ -172,7 +172,7 @@ Quanto maior a pontuação, maior o nível de atenção clínica recomendado naq
 
 ## Responda a EC-ERC Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-ERC** para obter:
 
@@ -184,7 +184,7 @@ Utilize a versão online da **EC-ERC** para obter:
 
 👉 [**Responder EC-ERC Online**](https://econsult.app.br/teste-psicologico/ec-erc)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Risco Clínico Dinâmico (EC-ERC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a observação estruturada e o monitoramento longitudinal de fatores associados ao risco clínico. Seu objetivo é auxiliar na identificação precoce de mudanças relevantes no estado clínico da pessoa atendida, favorecendo intervenções oportunas, a revisão do plano terapêutico e um acompanhamento mais seguro ao longo do processo de cuidado.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Risco Clínico Dinâmico (EC-ERC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a observação estruturada e o monitoramento longitudinal de fatores associados ao risco clínico. Seu objetivo é auxiliar na identificação precoce de mudanças relevantes no estado clínico da pessoa atendida, favorecendo intervenções oportunas, a revisão do plano terapêutico e um acompanhamento mais seguro ao longo do processo de cuidado.
 
 ---
 
@@ -230,11 +230,11 @@ Pode indicar redução dos fatores protetivos e aumento da exposição a situaç
 
 ---
 
-## Como a EC-ERC complementa outras escalas assistivas?
+## Como a EC-ERC complementa outras indicadors assistivas?
 
 A EC-ERC foi desenvolvida para atuar em conjunto com outros instrumentos do Núcleo de Inteligência Clínica.
 
-| Escala | Objetivo |
+| Indicador | Objetivo |
 |----------|----------|
 | EC-ETE | Engajamento terapêutico |
 | EC-ERA | Risco de abandono |
@@ -244,11 +244,11 @@ A combinação dessas leituras permite uma visão mais ampla da evolução clín
 
 ---
 
-## EC-ERC não é uma escala diagnóstica
+## EC-ERC não é uma indicador diagnóstica
 
 A EC-ERC não realiza diagnósticos.
 
-A escala foi criada para apoiar a observação estruturada, o raciocínio clínico e o monitoramento longitudinal de indicadores relevantes.
+A indicador foi criada para apoiar a observação estruturada, o raciocínio clínico e o monitoramento longitudinal de indicadores relevantes.
 
 Toda interpretação deve ocorrer dentro do contexto clínico individual.
 
@@ -256,7 +256,7 @@ Toda interpretação deve ocorrer dentro do contexto clínico individual.
 
 ## Quando utilizar a EC-ERC?
 
-A escala pode ser utilizada:
+A indicador pode ser utilizada:
 
 - Na avaliação inicial;
 - Em reavaliações periódicas;
@@ -303,7 +303,7 @@ O objetivo é fornecer indicadores estruturados que apoiem uma leitura evolutiva
 
 Não.
 
-A escala é uma ferramenta assistiva complementar.
+A indicador é uma ferramenta assistiva complementar.
 
 ### A EC-ERC fornece diagnóstico?
 
@@ -311,11 +311,11 @@ Não.
 
 Ela apenas organiza informações observacionais relevantes para o acompanhamento clínico.
 
-### Quem responde a escala?
+### Quem responde a indicador?
 
 O profissional responsável pelo acompanhamento.
 
-### A escala pode ser utilizada em qualquer abordagem?
+### A indicador pode ser utilizada em qualquer abordagem?
 
 Sim.
 
@@ -327,7 +327,7 @@ Foi desenvolvida para apoiar o monitoramento clínico independentemente da abord
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -343,7 +343,7 @@ Foi desenvolvida para apoiar o monitoramento clínico independentemente da abord
 
 ## Referências
 
-ECONSULT. Escala de Risco Clínico Dinâmico (EC-ERC). Instrumento assistivo proprietário para monitoramento longitudinal de fatores associados ao risco clínico.
+ECONSULT. Indicador de Risco Clínico Dinâmico (EC-ERC). Instrumento assistivo proprietário para monitoramento longitudinal de fatores associados ao risco clínico.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

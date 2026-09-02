@@ -1,6 +1,6 @@
 ---
 sidebar_position: 40
-title: EC-EAF - Escala de Autonomia Funcional (eConsult)
+title: EC-EAF - Indicador de Autonomia Funcional (eConsult)
 description: "Instrumento assistivo do eConsult para avaliação longitudinal da autonomia funcional da pessoa atendida."
 keywords:
   - autonomia funcional
@@ -13,19 +13,19 @@ keywords:
   - EC-EAF
 ---
 
-# EC-EAF: Escala de Autonomia Funcional (eConsult)
+# EC-EAF: Indicador de Autonomia Funcional (eConsult)
 
-A **EC-EAF (Escala de Autonomia Funcional)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de conduzir sua rotina, tomar decisões e sustentar seu funcionamento cotidiano com independência.
+A **EC-EAF (Indicador de Autonomia Funcional)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de conduzir sua rotina, tomar decisões e sustentar seu funcionamento cotidiano com independência.
 
-Diferentemente das escalas psicológicas tradicionais, a EC-EAF não busca avaliar sintomas ou estabelecer diagnósticos. Seu objetivo é oferecer ao profissional uma leitura estruturada sobre o nível de autonomia funcional observado ao longo do acompanhamento.
+Diferentemente das indicadors psicológicas tradicionais, a EC-EAF não busca avaliar sintomas ou estabelecer diagnósticos. Seu objetivo é oferecer ao profissional uma leitura estruturada sobre o nível de autonomia funcional observado ao longo do acompanhamento.
 
-A escala integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
+A indicador integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
 
 Neste artigo você encontrará:
 
 ✅ O que é a EC-EAF
 
-✅ Como funciona a escala
+✅ Como funciona a indicador
 
 ✅ Como interpretar os fatores
 
@@ -47,7 +47,7 @@ A EC-EAF foi criada para auxiliar na observação sistemática da capacidade da 
 
 A autonomia funcional envolve não apenas a realização de tarefas práticas, mas também a capacidade de iniciar ações, organizar responsabilidades, tomar decisões e manter o funcionamento diário sem dependência excessiva de terceiros.
 
-A escala permite registrar de forma estruturada aspectos como:
+A indicador permite registrar de forma estruturada aspectos como:
 
 * Iniciativa pessoal;
 * Capacidade de autogerenciamento;
@@ -60,7 +60,7 @@ A escala permite registrar de forma estruturada aspectos como:
 
 ## O que a EC-EAF avalia?
 
-A escala é organizada em quatro fatores.
+A indicador é organizada em quatro fatores.
 
 ### Iniciativa e Autogerenciamento
 
@@ -176,7 +176,7 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ## Responda a EC-EAF Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-EAF** para obter:
 
@@ -188,7 +188,7 @@ Utilize a versão online da **EC-EAF** para obter:
 
 👉 [**Responder EC-EAF Online**](https://econsult.app.br/teste-psicologico/ec-eaf)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Autonomia Funcional (EC-EAF)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de conduzir sua rotina, tomar decisões e sustentar seu funcionamento cotidiano com independência. Diferentemente das escalas psicológicas tradicionais, a EC-EAF não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o nível de autonomia funcional observado ao longo do acompanhamento clínico.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Autonomia Funcional (EC-EAF)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de conduzir sua rotina, tomar decisões e sustentar seu funcionamento cotidiano com independência. Diferentemente das indicadors psicológicas tradicionais, a EC-EAF não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o nível de autonomia funcional observado ao longo do acompanhamento clínico.
 
 ---
 
@@ -198,7 +198,7 @@ A autonomia funcional raramente permanece estática ao longo do processo terapê
 
 Mudanças emocionais, eventos de vida, crises pessoais, transições profissionais e alterações nas redes de apoio podem impactar significativamente a capacidade de funcionamento independente.
 
-Por isso, aplicações periódicas da escala costumam fornecer informações mais úteis do que avaliações isoladas.
+Por isso, aplicações periódicas da indicador costumam fornecer informações mais úteis do que avaliações isoladas.
 
 <!--
 ![Evolução longitudinal da autonomia funcional](#)
@@ -228,7 +228,7 @@ Pode indicar ampliação dos recursos internos e fortalecimento da independênci
 
 ---
 
-## EC-EAF não é uma escala diagnóstica
+## EC-EAF não é uma indicador diagnóstica
 
 A EC-EAF não possui finalidade diagnóstica.
 
@@ -240,7 +240,7 @@ A interpretação dos resultados deve sempre considerar o contexto clínico e o 
 
 ## Quando utilizar a EC-EAF?
 
-A escala pode ser aplicada:
+A indicador pode ser aplicada:
 
 * No início do acompanhamento;
 * Em reavaliações periódicas;
@@ -293,13 +293,13 @@ A proposta não é substituir o raciocínio clínico, mas fornecer informações
 
 Não.
 
-A escala não possui finalidade diagnóstica.
+A indicador não possui finalidade diagnóstica.
 
-### Quem responde a escala?
+### Quem responde a indicador?
 
 O preenchimento é realizado pelo profissional com base na observação clínica e no histórico recente da pessoa atendida.
 
-### A escala pode ser utilizada em qualquer abordagem?
+### A indicador pode ser utilizada em qualquer abordagem?
 
 Sim.
 
@@ -317,7 +317,7 @@ Aplicações periódicas costumam permitir melhor visualização da evolução d
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -333,7 +333,7 @@ Aplicações periódicas costumam permitir melhor visualização da evolução d
 
 ## Referências
 
-ECONSULT. Escala de Autonomia Funcional (EC-EAF). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
+ECONSULT. Indicador de Autonomia Funcional (EC-EAF). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

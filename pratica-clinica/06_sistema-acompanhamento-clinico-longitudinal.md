@@ -1,7 +1,7 @@
 ---
 id: 03_sistema-acompanhamento-clinico-longitudinal
 title: "Sistema de Acompanhamento Clínico Longitudinal: o futuro da prática em psicologia"
-description: "Entenda por que os sistemas tradicionais têm limitações na leitura clínica e como o acompanhamento longitudinal pode ampliar a compreensão da evolução do paciente ao longo do tempo."
+description: "Entenda por que os sistemas tradicionais têm limitações na leitura clínica e como o acompanhamento longitudinal pode ampliar a compreensão da evolução da pessoa atendida ao longo do tempo."
 slug: "/sistema-acompanhamento-clinico-longitudinal"
 sidebar_position: 6
 ---
@@ -20,7 +20,7 @@ Esses avanços trouxeram ganhos importantes para a organização do consultório
 
 Mas, mesmo com essas ferramentas, uma dificuldade ainda aparece com frequência na prática clínica:
 
-> 👉 *Como compreender, com clareza, a evolução do paciente ao longo do tempo?*
+> 👉 *Como compreender, com clareza, a evolução da pessoa atendida ao longo do tempo?*
 
 ---
 
@@ -84,7 +84,7 @@ Isso pode tornar a leitura da evolução:
 
 Diante desse cenário, alguns modelos de prática têm buscado uma abordagem diferente:
 
-👉 observar o paciente não apenas a partir da sessão atual,  
+👉 observar a pessoa atendida não apenas a partir da sessão atual,  
 mas como um processo ao longo do tempo.
 
 ---
@@ -141,7 +141,7 @@ Mas como suporte para:
 </video>
 
 <small>
-Nesta visão, diferentes elementos da prática clínica são integrados, permitindo acompanhar o paciente ao longo do tempo com maior clareza e continuidade.
+Nesta visão, diferentes elementos da prática clínica são integrados, permitindo acompanhar a pessoa atendida ao longo do tempo com maior clareza e continuidade.
 </small>
 
 👉 Se você quiser entender com mais detalhes como esse tipo de acompanhamento pode ser aplicado na prática clínica:
@@ -152,7 +152,7 @@ Nesta visão, diferentes elementos da prática clínica são integrados, permiti
 
 👉 Observe que o foco não está apenas na visualização.
 
-👉 Está na possibilidade de compreender o que acontece com o paciente ao longo do tempo, de forma mais estruturada.
+👉 Está na possibilidade de compreender o que acontece com a pessoa atendida ao longo do tempo, de forma mais estruturada.
 
 ---
 
@@ -269,7 +269,7 @@ Ao mesmo tempo, novas abordagens vêm propondo formas de ampliar a leitura clín
 Ele pode ser especialmente útil para profissionais que buscam:
 
 - maior integração entre sessões  
-- mais clareza na evolução dos pacientes  
+- mais clareza na evolução das pessoas atendidas  
 - uma leitura clínica mais estruturada  
 
 ---
@@ -286,7 +286,7 @@ Ele pode ser especialmente útil para profissionais que buscam:
 
 O prontuário eletrônico é responsável por registrar informações clínicas.
 
-Já o acompanhamento clínico longitudinal procura organizar e conectar esses registros ao longo do tempo, facilitando a compreensão da trajetória do paciente e da evolução do tratamento.
+Já o acompanhamento clínico longitudinal procura organizar e conectar esses registros ao longo do tempo, facilitando a compreensão da trajetória da pessoa atendida e da evolução do tratamento.
 
 ---
 
@@ -304,7 +304,7 @@ A formulação de hipóteses, tomada de decisão e condução terapêutica conti
 
 Entre os principais benefícios estão:
 
-* maior clareza sobre a evolução do paciente;
+* maior clareza sobre a evolução da pessoa atendida;
 * identificação de padrões recorrentes;
 * integração entre sessões;
 * redução da dependência exclusiva da memória clínica;
@@ -326,7 +326,7 @@ A lógica longitudinal pode ser aplicada em diferentes contextos clínicos, incl
 
 ---
 
-### Como identificar a evolução de um paciente ao longo do tempo?
+### Como identificar a evolução de uma pessoa atendida ao longo do tempo?
 
 A evolução pode ser observada por diferentes indicadores, como:
 

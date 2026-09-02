@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-title: EC-ERF - Escala de Responsividade ao Tratamento (eConsult)
+title: EC-ERF - Indicador de Responsividade ao Tratamento (eConsult)
 description: "Instrumento assistivo do eConsult para avaliação longitudinal da responsividade da pessoa atendida às intervenções terapêuticas."
 keywords:
 - responsividade ao tratamento
@@ -13,19 +13,19 @@ keywords:
 - EC-ERF
 ---
 
-# EC-ERF: Escala de Responsividade ao Tratamento (eConsult)
+# EC-ERF: Indicador de Responsividade ao Tratamento (eConsult)
 
-A **EC-ERF (Escala de Responsividade ao Tratamento)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da resposta da pessoa atendida às intervenções terapêuticas realizadas ao longo do acompanhamento.
+A **EC-ERF (Indicador de Responsividade ao Tratamento)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da resposta da pessoa atendida às intervenções terapêuticas realizadas ao longo do acompanhamento.
 
-Diferentemente das escalas psicológicas tradicionais, a EC-ERF não possui finalidade diagnóstica. Seu objetivo é fornecer ao profissional uma leitura estruturada sobre o grau em que as intervenções estão produzindo mudanças observáveis nos sintomas, comportamentos, funcionamento cotidiano e manutenção dos ganhos terapêuticos.
+Diferentemente das indicadors psicológicas tradicionais, a EC-ERF não possui finalidade diagnóstica. Seu objetivo é fornecer ao profissional uma leitura estruturada sobre o grau em que as intervenções estão produzindo mudanças observáveis nos sintomas, comportamentos, funcionamento cotidiano e manutenção dos ganhos terapêuticos.
 
-A escala integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
+A indicador integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
 
 Neste artigo você encontrará:
 
 ✅ O que é a EC-ERF
 
-✅ Como funciona a escala
+✅ Como funciona a indicador
 
 ✅ Como interpretar os fatores
 
@@ -47,7 +47,7 @@ A EC-ERF foi desenvolvida para auxiliar o profissional na observação sistemát
 
 Embora mudanças terapêuticas possam ocorrer de forma gradual, a identificação estruturada de sinais de melhora, manutenção ou agravamento permite uma compreensão mais precisa da evolução do caso.
 
-A escala auxilia na avaliação de aspectos como:
+A indicador auxilia na avaliação de aspectos como:
 
 * Redução de sintomas;
 * Diminuição do sofrimento psíquico;
@@ -60,7 +60,7 @@ A escala auxilia na avaliação de aspectos como:
 
 ## O que a EC-ERF avalia?
 
-A escala é organizada em quatro fatores.
+A indicador é organizada em quatro fatores.
 
 ### Resposta Sintomática
 
@@ -173,7 +173,7 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ## Responda a EC-ERF Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-ERF** para obter:
 
@@ -185,7 +185,7 @@ Utilize a versão online da **EC-ERF** para obter:
 
 👉 [**Responder EC-ERF Online**](https://econsult.app.br/teste-psicologico/ec-erf)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala eConsult de Evolução da Responsividade às Intervenções (EC-ERF)** é um instrumento assistivo desenvolvido para avaliar a responsividade da pessoa atendida às intervenções terapêuticas ao longo do processo clínico, auxiliando na identificação da evolução do tratamento e apoiando a tomada de decisão baseada em evidências.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador eConsult de Evolução da Responsividade às Intervenções (EC-ERF)** é um instrumento assistivo desenvolvido para avaliar a responsividade da pessoa atendida às intervenções terapêuticas ao longo do processo clínico, auxiliando na identificação da evolução do tratamento e apoiando a tomada de decisão baseada em evidências.
 
 ---
 
@@ -225,7 +225,7 @@ Pode demonstrar que os benefícios terapêuticos estão sendo transferidos para 
 
 ---
 
-## EC-ERF não é uma escala diagnóstica
+## EC-ERF não é uma indicador diagnóstica
 
 A EC-ERF não possui finalidade diagnóstica.
 
@@ -237,7 +237,7 @@ Os resultados devem sempre ser interpretados em conjunto com a avaliação clín
 
 ## Quando utilizar a EC-ERF?
 
-A escala pode ser aplicada:
+A indicador pode ser aplicada:
 
 * No início do acompanhamento;
 * Em reavaliações periódicas;
@@ -290,13 +290,13 @@ A proposta não é substituir o raciocínio clínico, mas fornecer informações
 
 Não.
 
-A escala não possui finalidade diagnóstica.
+A indicador não possui finalidade diagnóstica.
 
-### Quem responde a escala?
+### Quem responde a indicador?
 
 O preenchimento é realizado pelo profissional com base na observação clínica, nos relatos da pessoa atendida e na evolução observada ao longo do processo.
 
-### A escala pode ser utilizada em qualquer abordagem?
+### A indicador pode ser utilizada em qualquer abordagem?
 
 Sim.
 
@@ -314,7 +314,7 @@ Aplicações periódicas permitem visualizar com maior precisão a evolução da
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -330,7 +330,7 @@ Aplicações periódicas permitem visualizar com maior precisão a evolução da
 
 ## Referências
 
-ECONSULT. Escala de Responsividade ao Tratamento (EC-ERF). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
+ECONSULT. Indicador de Responsividade ao Tratamento (EC-ERF). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

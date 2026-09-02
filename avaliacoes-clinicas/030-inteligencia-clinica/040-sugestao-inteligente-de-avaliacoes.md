@@ -183,7 +183,7 @@ Essa abordagem contribui para uma visão mais ampla da trajetória clínica.
 
 ---
 
-## Avaliações científicas e Escalas Assistivas
+## Avaliações científicas e Instrumentos Psicométricos do eConsult
 
 As sugestões podem incluir diferentes tipos de instrumentos.
 
@@ -202,7 +202,7 @@ Exemplos:
 
 ---
 
-### Escalas Assistivas
+### Instrumentos Psicométricos do eConsult
 
 Instrumentos voltados ao acompanhamento clínico longitudinal.
 

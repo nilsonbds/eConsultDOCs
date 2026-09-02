@@ -1,17 +1,17 @@
 ---
 sidebar_position: 0
-title: Escalas Validadas vs Escalas Assistivas
-description: "Entenda as diferenças entre avaliações científicas validadas e escalas assistivas voltadas ao acompanhamento clínico longitudinal."
+title: Escalas Validadas vs Instrumentos Psicométricos do eConsult
+description: "Entenda as diferenças entre avaliações científicas validadas e instrumentos psicométricos do econsult voltadas ao acompanhamento clínico longitudinal."
 ---
 
-# Escalas Validadas vs Escalas Assistivas: Entenda as Diferenças
+# Escalas Validadas vs Instrumentos Psicométricos do eConsult: Entenda as Diferenças
 
 As avaliações clínicas são ferramentas fundamentais para apoiar a compreensão, o acompanhamento e a tomada de decisão em saúde mental. No entanto, nem todas as escalas possuem o mesmo objetivo.
 
 De forma geral, podemos dividir os instrumentos utilizados na prática clínica em dois grandes grupos:
 
 * **Escalas validadas cientificamente**
-* **Escalas assistivas de acompanhamento clínico**
+* **Instrumentos Psicométricos do eConsult de acompanhamento clínico**
 
 Compreender essa diferença ajuda o profissional a utilizar cada recurso de forma adequada e ética.
 
@@ -46,9 +46,9 @@ Esses instrumentos possuem normas de aplicação, interpretação e evidências 
 
 ---
 
-## O que são Escalas Assistivas?
+## O que são Instrumentos Psicométricos do eConsult?
 
-Escalas assistivas são instrumentos estruturados utilizados para apoiar o raciocínio clínico, o monitoramento longitudinal e a organização das observações do profissional.
+Instrumentos Psicométricos do eConsult são instrumentos estruturados utilizados para apoiar o raciocínio clínico, o monitoramento longitudinal e a organização das observações do profissional.
 
 Seu objetivo não é realizar diagnósticos ou substituir o julgamento clínico.
 
@@ -76,9 +76,9 @@ Em vez disso, ajudam o profissional a acompanhar aspectos relevantes do processo
 
 ---
 
-## Escalas Assistivas do eConsult
+## Instrumentos Psicométricos do eConsult do eConsult
 
-As Escalas Assistivas do eConsult foram desenvolvidas para apoiar a prática clínica baseada em acompanhamento contínuo e observação estruturada.
+As Instrumentos Psicométricos do eConsult do eConsult foram desenvolvidas para apoiar a prática clínica baseada em acompanhamento contínuo e observação estruturada.
 
 Elas estão organizadas em diferentes dimensões do cuidado.
 
@@ -86,39 +86,39 @@ Elas estão organizadas em diferentes dimensões do cuidado.
 
 Avaliam elementos relacionados ao andamento da terapia e ao envolvimento da pessoa atendida.
 
-* EC-ETE — Escala de Engajamento Terapêutico
-* EC-EAT — Escala de Aliança Terapêutica
-* EC-EPT — Escala de Estágio do Processo Terapêutico
-* EC-EAC — Escala de Aderência às Intervenções
-* EC-ERF — Escala de Responsividade ao Tratamento
+* EC-ETE — Indicador de Engajamento Terapêutico
+* EC-EAT — Indicador de Aliança Terapêutica
+* EC-EPT — Indicador de Estágio do Processo Terapêutico
+* EC-EAC — Indicador de Aderência às Intervenções
+* EC-ERF — Indicador de Responsividade ao Tratamento
 
 ### ⚠️ Monitoramento e Risco Clínico
 
 Avaliam fatores relacionados à continuidade do tratamento e necessidade de atenção clínica.
 
-* EC-ERA — Escala de Risco de Abandono
-* EC-ERC — Escala de Risco Clínico Dinâmico
-* EC-EDC — Escala de Direção Clínica
+* EC-ERA — Indicador de Risco de Abandono
+* EC-ERC — Indicador de Risco Clínico Dinâmico
+* EC-EDC — Indicador de Direção Clínica
 
 ### 🧠 Processos Clínicos
 
 Avaliam capacidades e processos psicológicos relevantes para o desenvolvimento terapêutico.
 
-* EC-ERI — Escala de Insight Clínico
-* EC-ERE — Escala de Regulação Emocional
-* EC-EFC — Escala de Flexibilidade Cognitiva
-* EC-EAF — Escala de Autonomia Funcional
+* EC-ERI — Indicador de Insight Clínico
+* EC-ERE — Indicador de Regulação Emocional
+* EC-EFC — Indicador de Flexibilidade Cognitiva
+* EC-EAF — Indicador de Autonomia Funcional
 
 ### ⚙️ Gestão Clínica e Priorização
 
 Auxiliam na organização da demanda clínica e definição de prioridades.
 
-* EC-ECO — Escala de Complexidade do Caso
-* EC-EPC — Escala de Prioridade Clínica
+* EC-ECO — Indicador de Complexidade do Caso
+* EC-EPC — Indicador de Prioridade Clínica
 
 ---
 
-## Escalas Validadas e Escalas Assistivas São Complementares
+## Escalas Validadas e Instrumentos Psicométricos do eConsult são Complementares
 
 Um erro comum é imaginar que seja necessário escolher entre uma abordagem ou outra.
 
@@ -137,7 +137,7 @@ Uma pessoa atendida pode apresentar:
 | EC-ERI      | Aumento do insight clínico        |
 | EC-EAF      | Melhora da autonomia funcional    |
 
-Nesse cenário, as escalas validadas ajudam a monitorar sintomas, enquanto as escalas assistivas oferecem informações sobre o processo terapêutico, os recursos desenvolvidos e a evolução clínica observada.
+Nesse cenário, as escalas validadas ajudam a monitorar sintomas, enquanto as instrumentos psicométricos do econsult oferecem informações sobre o processo terapêutico, os recursos desenvolvidos e a evolução clínica observada.
 
 ---
 
@@ -147,7 +147,7 @@ A leitura clínica mais rica normalmente não surge de uma avaliação isolada.
 
 Ela emerge da observação contínua ao longo do tempo.
 
-Quando utilizadas de forma integrada, escalas validadas e escalas assistivas permitem:
+Quando utilizadas de forma integrada, escalas validadas e instrumentos psicométricos do econsult permitem:
 
 * Monitorar sintomas
 * Identificar fatores de risco
@@ -163,7 +163,7 @@ Essa perspectiva favorece uma compreensão mais ampla da trajetória da pessoa a
 
 ## Considerações Éticas
 
-Nenhuma escala substitui a avaliação clínica realizada por profissional habilitado.
+Nenhuma escala ou instrumento do eConsult substitui a avaliação clínica realizada por profissional habilitado.
 
 Os resultados devem sempre ser interpretados dentro do contexto clínico, considerando:
 
@@ -190,4 +190,4 @@ Instrumentos são recursos auxiliares. A responsabilidade pela interpretação c
 
 ---
 
-> **Importante:** As Escalas Assistivas do eConsult são instrumentos proprietários de apoio clínico e monitoramento longitudinal. Não possuem finalidade diagnóstica, pericial ou substitutiva da avaliação realizada por profissional habilitado.
+> **Importante:** As Instrumentos Psicométricos do eConsult do eConsult são instrumentos proprietários de apoio clínico e monitoramento longitudinal. Não possuem finalidade diagnóstica, pericial ou substitutiva da avaliação realizada por profissional habilitado.

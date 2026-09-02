@@ -1,6 +1,6 @@
 ---
 sidebar_position: 20
-title: EC-EPC - Escala de Prioridade Clínica (eConsult)
+title: EC-EPC - Indicador de Prioridade Clínica (eConsult)
 description: "Instrumento assistivo do eConsult para avaliação longitudinal da prioridade clínica e necessidade de intervenção."
 keywords:
   - prioridade clínica
@@ -13,19 +13,19 @@ keywords:
   - EC-EPC
 ---
 
-# EC-EPC: Escala de Prioridade Clínica (eConsult)
+# EC-EPC: Indicador de Prioridade Clínica (eConsult)
 
-A **EC-EPC (Escala de Prioridade Clínica)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da prioridade clínica da pessoa atendida e auxiliar na definição de necessidades de intervenção, monitoramento e acompanhamento.
+A **EC-EPC (Indicador de Prioridade Clínica)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da prioridade clínica da pessoa atendida e auxiliar na definição de necessidades de intervenção, monitoramento e acompanhamento.
 
-Diferentemente das escalas psicológicas tradicionais, a EC-EPC não possui finalidade diagnóstica. Seu objetivo é fornecer ao profissional uma leitura estruturada dos fatores que contribuem para aumentar ou reduzir a urgência clínica de um caso.
+Diferentemente das indicadors psicológicas tradicionais, a EC-EPC não possui finalidade diagnóstica. Seu objetivo é fornecer ao profissional uma leitura estruturada dos fatores que contribuem para aumentar ou reduzir a urgência clínica de um caso.
 
-A escala integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
+A indicador integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
 
 Neste artigo você encontrará:
 
 ✅ O que é a EC-EPC
 
-✅ Como funciona a escala
+✅ Como funciona a indicador
 
 ✅ Como interpretar os fatores
 
@@ -47,7 +47,7 @@ A EC-EPC foi criada para auxiliar profissionais na identificação de casos que 
 
 Nem todos os casos apresentam o mesmo nível de urgência. Algumas situações exigem monitoramento próximo devido à presença de risco, agravamento recente, prejuízos funcionais significativos ou insuficiência de recursos internos e externos de enfrentamento.
 
-A escala permite registrar de forma estruturada aspectos como:
+A indicador permite registrar de forma estruturada aspectos como:
 
 * Risco imediato;
 * Urgência de intervenção;
@@ -60,7 +60,7 @@ A escala permite registrar de forma estruturada aspectos como:
 
 ## O que a EC-EPC avalia?
 
-A escala é organizada em quatro fatores.
+A indicador é organizada em quatro fatores.
 
 ### Risco Imediato
 
@@ -179,7 +179,7 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar q
 
 ## Responda a EC-EPC Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-EPC** para obter:
 
@@ -191,7 +191,7 @@ Utilize a versão online da **EC-EPC** para obter:
 
 👉 [**Responder EC-EPC Online**](https://econsult.app.br/teste-psicologico/ec-epc)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Prioridade Clínica (EC-EPC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da prioridade clínica da pessoa atendida, auxiliando na definição das necessidades de intervenção, monitoramento e acompanhamento. Diferentemente das escalas psicológicas tradicionais, a EC-EPC não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada dos fatores que contribuem para aumentar ou reduzir a prioridade clínica do caso, favorecendo o planejamento terapêutico e a tomada de decisões ao longo do cuidado.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Prioridade Clínica (EC-EPC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da prioridade clínica da pessoa atendida, auxiliando na definição das necessidades de intervenção, monitoramento e acompanhamento. Diferentemente das indicadors psicológicas tradicionais, a EC-EPC não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada dos fatores que contribuem para aumentar ou reduzir a prioridade clínica do caso, favorecendo o planejamento terapêutico e a tomada de decisões ao longo do cuidado.
 
 ---
 
@@ -231,7 +231,7 @@ Indica enfraquecimento dos recursos internos ou da rede de suporte disponível.
 
 ---
 
-## EC-EPC não é uma escala diagnóstica
+## EC-EPC não é uma indicador diagnóstica
 
 A EC-EPC não possui finalidade diagnóstica.
 
@@ -243,7 +243,7 @@ Os resultados devem sempre ser interpretados em conjunto com a avaliação clín
 
 ## Quando utilizar a EC-EPC?
 
-A escala pode ser aplicada:
+A indicador pode ser aplicada:
 
 * No início do acompanhamento;
 * Em processos de triagem clínica;
@@ -297,13 +297,13 @@ A proposta não é substituir o raciocínio clínico, mas fornecer informações
 
 Não.
 
-A escala não possui finalidade diagnóstica.
+A indicador não possui finalidade diagnóstica.
 
-### Quem responde a escala?
+### Quem responde a indicador?
 
 O preenchimento é realizado pelo profissional com base na observação clínica, histórico recente e informações disponíveis sobre a pessoa atendida.
 
-### A escala pode ser utilizada em qualquer abordagem?
+### A indicador pode ser utilizada em qualquer abordagem?
 
 Sim.
 
@@ -321,7 +321,7 @@ Aplicações periódicas permitem acompanhar mudanças na prioridade clínica e 
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -337,7 +337,7 @@ Aplicações periódicas permitem acompanhar mudanças na prioridade clínica e 
 
 ## Referências
 
-ECONSULT. Escala de Prioridade Clínica (EC-EPC). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
+ECONSULT. Indicador de Prioridade Clínica (EC-EPC). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

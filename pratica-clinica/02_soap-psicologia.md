@@ -21,7 +21,7 @@ Talvez esteja se perguntando:
 * O que escrever em cada campo?
 * SOAP é obrigatório?
 * Posso utilizar SOAP no prontuário psicológico?
-* Como registrar a evolução do paciente utilizando SOAP?
+* Como registrar a evolução da pessoa atendida utilizando SOAP?
 
 Você não está sozinho.
 
@@ -33,7 +33,7 @@ Nesta página você encontrará:
 * 🧠 Explicação prática do método SOAP
 * ⚠️ Erros comuns no preenchimento
 * 🔗 Relação entre SOAP, prontuário e evolução psicológica
-* 📈 Como utilizar SOAP para acompanhar a evolução dos pacientes ao longo do tempo
+* 📈 Como utilizar SOAP para acompanhar a evolução das pessoas atendidas ao longo do tempo
 
 ---
 
@@ -49,7 +49,7 @@ Os exemplos abaixo são ilustrativos e devem ser adaptados à realidade clínica
 
 ```text
 S (Subjetivo)
-Paciente começa a reinterpretar o término afetivo de forma menos autoculpabilizante.
+Pessoa atendida começa a reinterpretar o término afetivo de forma menos autoculpabilizante.
 
 O (Objetivo)
 Refere melhora parcial do sono, redução das crises ansiosas e maior sensação de controle emocional.
@@ -65,10 +65,10 @@ Continuar o monitoramento do progresso, reforçando a autonomia e a ressignifica
 
 ```text
 S (Subjetivo)
-Paciente relata autocobrança atual associada a padrões familiares de crı́tica excessiva e expressa receio de decepcionar a terapeuta ao falar sobre suas fragilidades pessoais. O paciente também menciona ter conseguido conversar sobre emoções com uma amiga próxima, ao invés de se isolar.
+A pessoa atendida relata autocobrança atual associada a padrões familiares de crı́tica excessiva e expressa receio de decepcionar a terapeuta ao falar sobre suas fragilidades pessoais. A pessoa também menciona ter conseguido conversar sobre emoções com uma amiga próxima, ao invés de se isolar.
 
 O (Objetivo)
-Observa-se que a paciente demonstra maior confiança no processo terapêutico e maior abertura emocional, embora ainda apresente sintomas ansiosos, com leve redução percebida.
+Observa-se que a pessoa demonstra maior confiança no processo terapêutico e maior abertura emocional, embora ainda apresente sintomas ansiosos, com leve redução percebida.
 
 A (Avaliação)
 A sessão foi focada na identificação de gatilhos emocionais e estratégias iniciais de enfrentamento, indicando um progresso no engajamento e na aliança terapêutica, apesar da presença de padrões relacionais disfuncionais e perfeccionismo rı́gido.
@@ -81,13 +81,13 @@ Continuar o trabalho de identificação de gatilhos emocionais e desenvolver es
 
 ```text
 S (Subjetivo)
-Paciente relata piora importante da ansiedade após conflito familiar ocorrido no final de semana, descrevendo também um episódio recente de ataques de pânico com falta de ar, tremores e sensação de perda de controle em local público. O paciente menciona ter evitado sair de casa e faltado ao trabalho após a crise ansiosa.
+Pessoa relata piora importante da ansiedade após conflito familiar ocorrido no final de semana, descrevendo também um episódio recente de ataques de pânico com falta de ar, tremores e sensação de perda de controle em local público. A pessoa menciona ter evitado sair de casa e faltado ao trabalho após a crise ansiosa.
 
 O (Objetivo)
 Observa-se um estado de crise com alto risco, evidenciado pela intensidade dos sintomas ansiosos e pela evitação comportamental. A relação crı́tica e invalidante com familiares próximos éum estressor relevante.
 
 A (Avaliação)
-A situação atual sugere um quadro de crise aguda, com necessidade de contenção e monitoramento. A dependência emocional e as crenças centrais negativas podem estar contribuindo para a vulnerabilidade do paciente.
+A situação atual sugere um quadro de crise aguda, com necessidade de contenção e monitoramento. A dependência emocional e as crenças centrais negativas podem estar contribuindo para a vulnerabilidade da pessoa.
 
 P (Plano)
 Recomenda-se continuidade do acompanhamento psicológico, com foco na contenção emocional e na exploração gradual dos temas evitados. Considerar encaminhamento para avaliação psiquiátrica para manejo dos sintomas ansiosos, se necessário.
@@ -97,18 +97,18 @@ Recomenda-se continuidade do acompanhamento psicológico, com foco na contença
 
 ```text
 S (Subjetivo)
-Paciente relata tensão constante, insônia e preocupação excessiva relacionada ao trabalho e ao término afetivo, além de sensação frequente de vazio e perda de motivação. O sofrimento intenso após término recente e o medo de rejeição foram destacados. Sente-se “insuficiente” e responsabiliza-se excessivamente pelos conflitos vividos. O ambiente profissional é descrito como sobrecarregado emocionalmente, com dificuldade em estabelecer limites. O paciente apresentou choro frequente e dificuldade para organizar emoções durante a sessão.
+Pessoa relata tensão constante, insônia e preocupação excessiva relacionada ao trabalho e ao término afetivo, além de sensação frequente de vazio e perda de motivação. O sofrimento intenso após término recente e o medo de rejeição foram destacados. Sente-se “insuficiente” e responsabiliza-se excessivamente pelos conflitos vividos. O ambiente profissional é descrito como sobrecarregado emocionalmente, com dificuldade em estabelecer limites. A pessoa apresentou choro frequente e dificuldade para organizar emoções durante a sessão.
 
 O (Objetivo)
 Primeira sessão focada em levantamento de histórico emocional, contexto atual e principais demandas clı́nicas. Observou-se necessidade de estabilização emocional devido à intensidade do sofrimento apresentado.
 
 A (Avaliação)
-Os dados indicam a presença de ansiedade significativa, humor deprimido e dificuldades de regulação emocional, sugerindo um quadro de vulnerabilidade emocional. A dinâmica afetiva e os estressores ocupacionais parecem contribuir para o sofrimento do paciente.
+Os dados indicam a presença de ansiedade significativa, humor deprimido e dificuldades de regulação emocional, sugerindo um quadro de vulnerabilidade emocional. A dinâmica afetiva e os estressores ocupacionais parecem contribuir para o sofrimento da pessoa.
 
 P (Plano)
 Recomenda-se continuidade do acompanhamento psicológico, com foco na estabilização
 emocional e manejo das emoções. Sugere-se explorar estratégias de enfrentamento e estabelecer
-limites no contexto profissional, além de trabalhar a autoimagem e a autocrı́tica do paciente.
+limites no contexto profissional, além de trabalhar a autoimagem e a autocrı́tica da pessoa.
 ```
 
 </TabItem>
@@ -358,7 +358,7 @@ Seu objetivo é transformar informações da sessão em um registro estruturado,
 
 👉 O SOAP é uma estrutura utilizada para organizar informações relevantes de uma sessão. 
 
-Quando utilizado de forma consistente, ele facilita a construção do prontuário, da evolução psicológica e do acompanhamento longitudinal do paciente.
+Quando utilizado de forma consistente, ele facilita a construção do prontuário, da evolução psicológica e do acompanhamento longitudinal da pessoa atendida.
 
 ---
 
@@ -366,7 +366,7 @@ Quando utilizado de forma consistente, ele facilita a construção do prontuári
 
 ### S — Subjetivo
 
-Informações relatadas pelo paciente.
+Informações relatadas pela pessoa atendida.
 
 Exemplos:
 
@@ -452,7 +452,7 @@ Isso permite:
 * identificar padrões
 * comparar sessões
 * avaliar resposta terapêutica
-* compreender a evolução do paciente
+* compreender a evolução da pessoa atendida
 
 > O SOAP não é o fim.
 >
@@ -520,7 +520,7 @@ O SOAP organiza informações de uma sessão específica. A evolução psicológ
 
 O SOAP é um método de registro.
 
-O prontuário psicológico é o conjunto organizado de informações clínicas relacionadas ao acompanhamento do paciente.
+O prontuário psicológico é o conjunto organizado de informações clínicas relacionadas ao acompanhamento da pessoa atendida.
 
 Em outras palavras, o SOAP pode fazer parte do prontuário, mas não se confunde com ele.
 
@@ -528,7 +528,7 @@ Em outras palavras, o SOAP pode fazer parte do prontuário, mas não se confunde
 
 De forma simplificada:
 
-* **S (Subjetivo):** relatos, percepções e queixas do paciente
+* **S (Subjetivo):** relatos, percepções e queixas da pessoa atendida
 * **O (Objetivo):** observações realizadas pelo profissional
 * **A (Avaliação):** interpretação clínica dos dados coletados
 * **P (Plano):** condutas, intervenções e próximos passos
@@ -555,7 +555,7 @@ Não existe um modelo único ou obrigatório. O mais importante é que os regist
 
 Não necessariamente.
 
-O registro clínico não precisa ser uma transcrição completa da sessão. Cabe ao psicólogo selecionar e documentar as informações que são clinicamente relevantes para o acompanhamento do paciente.
+O registro clínico não precisa ser uma transcrição completa da sessão. Cabe ao psicólogo selecionar e documentar as informações que são clinicamente relevantes para o acompanhamento da pessoa atendida.
 
 ---
 
@@ -564,7 +564,7 @@ O registro clínico não precisa ser uma transcrição completa da sessão. Cabe
 
 Antes de finalizar um SOAP, verifique:
 
-* [ ] Relatos do paciente separados das observações
+* [ ] Relatos da pessoa atendida separados das observações
 * [ ] Avaliação baseada em dados clínicos
 * [ ] Plano terapêutico claro
 * [ ] Linguagem técnica e objetiva

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-title: EC-ERI - Escala de Insight Clínico (eConsult)
+title: EC-ERI - Indicador de Insight Clínico (eConsult)
 description: "Instrumento assistivo do eConsult para avaliação longitudinal do nível de insight clínico da pessoa atendida."
 keywords:
   - insight clínico
@@ -13,19 +13,19 @@ keywords:
   - EC-ERI
 ---
 
-# EC-ERI: Escala de Insight Clínico (eConsult)
+# EC-ERI: Indicador de Insight Clínico (eConsult)
 
-A **EC-ERI (Escala de Insight Clínico)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de compreender, refletir e se posicionar diante do próprio funcionamento psicológico.
+A **EC-ERI (Indicador de Insight Clínico)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de compreender, refletir e se posicionar diante do próprio funcionamento psicológico.
 
-Diferentemente das escalas psicológicas tradicionais, a EC-ERI não possui finalidade diagnóstica. Seu objetivo é oferecer ao profissional uma leitura estruturada sobre o nível de consciência, compreensão e elaboração que a pessoa desenvolve em relação aos seus sintomas, padrões de funcionamento e possibilidades de mudança.
+Diferentemente das indicadors psicológicas tradicionais, a EC-ERI não possui finalidade diagnóstica. Seu objetivo é oferecer ao profissional uma leitura estruturada sobre o nível de consciência, compreensão e elaboração que a pessoa desenvolve em relação aos seus sintomas, padrões de funcionamento e possibilidades de mudança.
 
-A escala integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
+A indicador integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
 
 Neste artigo você encontrará:
 
 ✅ O que é a EC-ERI
 
-✅ Como funciona a escala
+✅ Como funciona a indicador
 
 ✅ Como interpretar os fatores
 
@@ -47,7 +47,7 @@ A EC-ERI foi criada para auxiliar na observação sistemática do desenvolviment
 
 Em diferentes momentos do acompanhamento, a pessoa atendida pode apresentar níveis distintos de compreensão sobre suas dificuldades, seus padrões emocionais e comportamentais e sua participação na manutenção ou superação dos problemas enfrentados.
 
-A escala permite registrar de forma estruturada aspectos como:
+A indicador permite registrar de forma estruturada aspectos como:
 
 - Reconhecimento de sintomas e dificuldades;
 - Compreensão de padrões recorrentes;
@@ -60,7 +60,7 @@ A escala permite registrar de forma estruturada aspectos como:
 
 ## O que a EC-ERI avalia?
 
-A escala é organizada em quatro fatores.
+A indicador é organizada em quatro fatores.
 
 ### Consciência dos Sintomas
 
@@ -176,7 +176,7 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ## Responda a EC-ERI Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-ERI** para obter:
 
@@ -188,7 +188,7 @@ Utilize a versão online da **EC-ERI** para obter:
 
 👉 [**Responder EC-ERI Online**](https://econsult.app.br/teste-psicologico/ec-eri)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Insight Clínico (EC-ERI)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de compreender, refletir e se posicionar diante do próprio funcionamento psicológico. Diferentemente das escalas psicológicas tradicionais, a EC-ERI não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o nível de consciência, compreensão e elaboração que a pessoa desenvolve em relação aos seus sintomas, padrões de funcionamento e possibilidades de mudança ao longo do processo terapêutico.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Insight Clínico (EC-ERI)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de compreender, refletir e se posicionar diante do próprio funcionamento psicológico. Diferentemente das indicadors psicológicas tradicionais, a EC-ERI não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o nível de consciência, compreensão e elaboração que a pessoa desenvolve em relação aos seus sintomas, padrões de funcionamento e possibilidades de mudança ao longo do processo terapêutico.
 
 ---
 
@@ -198,7 +198,7 @@ O insight clínico raramente surge de forma imediata.
 
 Na maioria dos processos terapêuticos, a compreensão sobre si mesmo se desenvolve gradualmente por meio da reflexão, elaboração emocional e integração das experiências vividas.
 
-Por isso, aplicações periódicas da escala permitem observar a evolução do insight ao longo do tratamento.
+Por isso, aplicações periódicas da indicador permitem observar a evolução do insight ao longo do tratamento.
 
 <!--
 ![Evolução longitudinal do insight clínico](#)
@@ -228,7 +228,7 @@ Costuma estar associada a processos mais profundos de elaboração emocional e a
 
 ---
 
-## EC-ERI não é uma escala diagnóstica
+## EC-ERI não é uma indicador diagnóstica
 
 A EC-ERI não possui finalidade diagnóstica.
 
@@ -240,7 +240,7 @@ Os resultados devem sempre ser interpretados em conjunto com a avaliação clín
 
 ## Quando utilizar a EC-ERI?
 
-A escala pode ser aplicada:
+A indicador pode ser aplicada:
 
 - No início do acompanhamento;
 - Em reavaliações periódicas;
@@ -293,13 +293,13 @@ A proposta não é substituir o raciocínio clínico, mas fornecer informações
 
 Não.
 
-A escala não possui finalidade diagnóstica.
+A indicador não possui finalidade diagnóstica.
 
-### Quem responde a escala?
+### Quem responde a indicador?
 
 O preenchimento é realizado pelo profissional com base na observação clínica e na evolução apresentada pela pessoa atendida ao longo do acompanhamento.
 
-### A escala pode ser utilizada em qualquer abordagem?
+### A indicador pode ser utilizada em qualquer abordagem?
 
 Sim.
 
@@ -317,7 +317,7 @@ Aplicações periódicas permitem visualizar com maior clareza a evolução do i
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -333,7 +333,7 @@ Aplicações periódicas permitem visualizar com maior clareza a evolução do i
 
 ## Referências
 
-ECONSULT. Escala de Insight Clínico (EC-ERI). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
+ECONSULT. Indicador de Insight Clínico (EC-ERI). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 30
-title: EC-EAC - Escala de Aderência às Intervenções (eConsult)
+title: EC-EAC - Indicador de Aderência às Intervenções (eConsult)
 description: "Instrumento assistivo do eConsult para avaliação longitudinal da aderência da pessoa atendida às intervenções, orientações e estratégias propostas ao longo do processo terapêutico."
 keywords:
 - aderência terapêutica
@@ -13,19 +13,19 @@ keywords:
 - EC-EAC
 ---
 
-# EC-EAC: Escala de Aderência às Intervenções (eConsult)
+# EC-EAC: Indicador de Aderência às Intervenções (eConsult)
 
-A **EC-EAC (Escala de Aderência às Intervenções)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da forma como a pessoa atendida compreende, executa e mantém as intervenções propostas ao longo do processo terapêutico.
+A **EC-EAC (Indicador de Aderência às Intervenções)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da forma como a pessoa atendida compreende, executa e mantém as intervenções propostas ao longo do processo terapêutico.
 
-Diferentemente das escalas psicológicas tradicionais, a EC-EAC não busca avaliar sintomas ou estabelecer diagnósticos. Seu objetivo é oferecer ao profissional uma leitura estruturada sobre o nível de aderência às estratégias, orientações e tarefas discutidas durante o acompanhamento.
+Diferentemente das indicadors psicológicas tradicionais, a EC-EAC não busca avaliar sintomas ou estabelecer diagnósticos. Seu objetivo é oferecer ao profissional uma leitura estruturada sobre o nível de aderência às estratégias, orientações e tarefas discutidas durante o acompanhamento.
 
-A escala integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
+A indicador integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
 
 Neste artigo você encontrará:
 
 ✅ O que é a EC-EAC
 
-✅ Como funciona a escala
+✅ Como funciona a indicador
 
 ✅ Como interpretar os fatores
 
@@ -47,7 +47,7 @@ A EC-EAC foi criada para auxiliar na observação sistemática de comportamentos
 
 Muitas vezes, a evolução clínica depende não apenas da qualidade das intervenções realizadas em sessão, mas também da capacidade da pessoa atendida de compreender, aplicar e sustentar essas estratégias em seu cotidiano.
 
-A escala permite registrar de forma estruturada aspectos como:
+A indicador permite registrar de forma estruturada aspectos como:
 
 * Compreensão das orientações;
 * Clareza sobre combinados terapêuticos;
@@ -60,7 +60,7 @@ A escala permite registrar de forma estruturada aspectos como:
 
 ## O que a EC-EAC avalia?
 
-A escala é organizada em quatro fatores.
+A indicador é organizada em quatro fatores.
 
 ### Compreensão das Intervenções
 
@@ -173,7 +173,7 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 
 ## Responda a EC-EAC Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-EAC** para obter:
 
@@ -185,7 +185,7 @@ Utilize a versão online da **EC-EAC** para obter:
 
 👉 [**Responder EC-EAC Online**](https://econsult.app.br/teste-psicologico/ec-eac)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Aderência às Intervenções (EC-EAC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da forma como a pessoa atendida compreende, executa e mantém as intervenções propostas ao longo do processo terapêutico. Diferentemente das escalas psicológicas tradicionais, a EC-EAC não avalia sintomas nem estabelece diagnósticos, oferecendo ao profissional uma leitura estruturada sobre o nível de aderência às estratégias, orientações e tarefas discutidas durante o acompanhamento clínico.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Aderência às Intervenções (EC-EAC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da forma como a pessoa atendida compreende, executa e mantém as intervenções propostas ao longo do processo terapêutico. Diferentemente das indicadors psicológicas tradicionais, a EC-EAC não avalia sintomas nem estabelece diagnósticos, oferecendo ao profissional uma leitura estruturada sobre o nível de aderência às estratégias, orientações e tarefas discutidas durante o acompanhamento clínico.
 
 ---
 
@@ -202,7 +202,7 @@ Oscilações podem ocorrer em função de:
 * Alterações motivacionais;
 * Eventos externos relevantes.
 
-Por isso, aplicações repetidas da escala costumam fornecer informações mais úteis do que avaliações isoladas.
+Por isso, aplicações repetidas da indicador costumam fornecer informações mais úteis do que avaliações isoladas.
 
 <!--
 ![Evolução longitudinal da aderência às intervenções](#)
@@ -232,7 +232,7 @@ Pode indicar superação progressiva de obstáculos que dificultavam a adesão.
 
 ---
 
-## EC-EAC não é uma escala diagnóstica
+## EC-EAC não é uma indicador diagnóstica
 
 A EC-EAC não possui finalidade diagnóstica.
 
@@ -244,7 +244,7 @@ A interpretação dos resultados deve sempre considerar o contexto clínico e o 
 
 ## Quando utilizar a EC-EAC?
 
-A escala pode ser aplicada:
+A indicador pode ser aplicada:
 
 * No início do acompanhamento;
 * Em reavaliações periódicas;
@@ -297,13 +297,13 @@ A proposta não é substituir o raciocínio clínico, mas fornecer informações
 
 Não.
 
-A escala não possui finalidade diagnóstica.
+A indicador não possui finalidade diagnóstica.
 
-### Quem responde a escala?
+### Quem responde a indicador?
 
 O preenchimento é realizado pelo profissional com base na observação clínica e no histórico recente da pessoa atendida.
 
-### A escala pode ser utilizada em qualquer abordagem?
+### A indicador pode ser utilizada em qualquer abordagem?
 
 Sim.
 
@@ -321,7 +321,7 @@ Aplicações periódicas costumam permitir melhor visualização da evolução d
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -337,7 +337,7 @@ Aplicações periódicas costumam permitir melhor visualização da evolução d
 
 ## Referências
 
-ECONSULT. Escala de Aderência às Intervenções (EC-EAC). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
+ECONSULT. Indicador de Aderência às Intervenções (EC-EAC). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

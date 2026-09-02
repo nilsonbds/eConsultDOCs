@@ -171,7 +171,7 @@ Os exemplos abaixo são ilustrativos e devem ser adaptados à realidade clínica
 
 ```text
 S (Subjetivo)
-Paciente começa a reinterpretar o término afetivo de forma menos autoculpabilizante.
+Pessoa começa a reinterpretar o término afetivo de forma menos autoculpabilizante.
 
 O (Objetivo)
 Refere melhora parcial do sono, redução das crises ansiosas e maior sensação de controle emocional.
@@ -187,7 +187,7 @@ Continuar o monitoramento do progresso, reforçando a autonomia e a ressignifica
 
 ```text
 S (Subjetivo)
-Paciente relata autocobrança atual associada a padrões familiares de crı́tica excessiva e expressa receio de decepcionar a terapeuta ao falar sobre suas fragilidades pessoais. A pessoa cuidada também menciona ter conseguido conversar sobre emoções com uma amiga próxima, ao invés de se isolar.
+Pessoa relata autocobrança atual associada a padrões familiares de crı́tica excessiva e expressa receio de decepcionar a terapeuta ao falar sobre suas fragilidades pessoais. A pessoa cuidada também menciona ter conseguido conversar sobre emoções com uma amiga próxima, ao invés de se isolar.
 
 O (Objetivo)
 Observa-se que o indivíduo demonstra maior confiança no processo terapêutico e maior abertura emocional, embora ainda apresente sintomas ansiosos, com leve redução percebida.
@@ -203,7 +203,7 @@ Continuar o trabalho de identificação de gatilhos emocionais e desenvolver es
 
 ```text
 S (Subjetivo)
-Paciente relata piora importante da ansiedade após conflito familiar ocorrido no final de semana, descrevendo também um episódio recente de ataques de pânico com falta de ar, tremores e sensação de perda de controle em local público. A pessoa cuidada menciona ter evitado sair de casa e faltado ao trabalho após a crise ansiosa.
+Pessoa relata piora importante da ansiedade após conflito familiar ocorrido no final de semana, descrevendo também um episódio recente de ataques de pânico com falta de ar, tremores e sensação de perda de controle em local público. A pessoa cuidada menciona ter evitado sair de casa e faltado ao trabalho após a crise ansiosa.
 
 O (Objetivo)
 Observa-se um estado de crise com alto risco, evidenciado pela intensidade dos sintomas ansiosos e pela evitação comportamental. A relação crı́tica e invalidante com familiares próximos éum estressor relevante.
@@ -219,7 +219,7 @@ Recomenda-se continuidade do acompanhamento psicológico, com foco na contença
 
 ```text
 S (Subjetivo)
-Paciente relata tensão constante, insônia e preocupação excessiva relacionada ao trabalho e ao término afetivo, além de sensação frequente de vazio e perda de motivação. O sofrimento intenso após término recente e o medo de rejeição foram destacados. Sente-se “insuficiente” e responsabiliza-se excessivamente pelos conflitos vividos. O ambiente profissional é descrito como sobrecarregado emocionalmente, com dificuldade em estabelecer limites. A pessoa cuidada apresentou choro frequente e dificuldade para organizar emoções durante a sessão.
+Pessoa relata tensão constante, insônia e preocupação excessiva relacionada ao trabalho e ao término afetivo, além de sensação frequente de vazio e perda de motivação. O sofrimento intenso após término recente e o medo de rejeição foram destacados. Sente-se “insuficiente” e responsabiliza-se excessivamente pelos conflitos vividos. O ambiente profissional é descrito como sobrecarregado emocionalmente, com dificuldade em estabelecer limites. A pessoa cuidada apresentou choro frequente e dificuldade para organizar emoções durante a sessão.
 
 O (Objetivo)
 Primeira sessão focada em levantamento de histórico emocional, contexto atual e principais demandas clı́nicas. Observou-se necessidade de estabilização emocional devido à intensidade do sofrimento apresentado.

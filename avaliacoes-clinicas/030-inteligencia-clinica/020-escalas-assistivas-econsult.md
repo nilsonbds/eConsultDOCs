@@ -1,10 +1,10 @@
 ---
 sidebar_position: 20
-title: Escalas Assistivas do eConsult
-description: "Conheça as escalas assistivas do eConsult e entenda como elas podem apoiar o acompanhamento clínico longitudinal por meio da observação estruturada de aspectos relevantes do processo terapêutico."
+title: Instrumentos Psicométricos do eConsult
+description: "Conheça as instrumentos psicométricos do eConsult e entenda como elas podem apoiar o acompanhamento clínico longitudinal por meio da observação estruturada de aspectos relevantes do processo terapêutico."
 ---
 
-# Escalas Assistivas do eConsult
+# Instrumentos Psicométricos do eConsult
 
 ***🧠 OBSERVAÇÃO CLÍNICA ESTRUTURADA PARA ACOMPANHAMENTO LONGITUDINAL***
 
@@ -24,19 +24,19 @@ Essas observações frequentemente influenciam decisões clínicas importantes.
 
 No entanto, na maioria dos contextos, permanecem registradas apenas de forma narrativa ou subjetiva.
 
-As **Escalas Assistivas do eConsult** foram desenvolvidas para apoiar a organização dessas observações ao longo do tempo, contribuindo para uma leitura mais estruturada da evolução clínica.
+As **Instrumentos Psicométricos do eConsult** foram desenvolvidas para apoiar a organização dessas observações ao longo do tempo, contribuindo para uma leitura mais estruturada da evolução clínica.
 
 ---
 
-## O que são Escalas Assistivas?
+## O que são Instrumentos Psicométricos?
 
-Escalas Assistivas são instrumentos estruturados de observação clínica.
+Instrumentos Psicométricos são instrumentos estruturados de observação clínica.
 
 Seu objetivo não é realizar diagnósticos nem substituir avaliações científicas.
 
 Elas foram criadas para auxiliar o profissional a registrar e acompanhar aspectos relevantes do processo terapêutico que normalmente são observados de forma qualitativa.
 
-Em vez de medir sintomas específicos, essas escalas procuram organizar informações relacionadas à trajetória clínica.
+Em vez de medir sintomas específicos, esses instrumentos procuram organizar informações relacionadas à trajetória clínica.
 
 ---
 
@@ -49,7 +49,7 @@ Avaliações científicas costumam responder perguntas como:
 * Como está a qualidade de vida?
 * Existe risco relacionado ao uso de substâncias?
 
-As Escalas Assistivas procuram responder perguntas diferentes:
+As Instrumentos Psicométricos procuram responder perguntas diferentes:
 
 * O paciente está engajado no processo?
 * Existe risco de abandono?
@@ -61,9 +61,9 @@ Essas informações podem complementar avaliações clínicas e observações pr
 
 ---
 
-## Principais Escalas Assistivas
+## Principais Instrumentos Psicométricos
 
-As Escalas Assistivas do eConsult estão organizadas em diferentes dimensões da prática clínica.
+As Instrumentos Psicométricos do eConsult estão organizadas em diferentes dimensões da prática clínica.
 
 ### 🔄 Processo Terapêutico
 
@@ -109,9 +109,9 @@ A utilização de instrumentos estruturados pode facilitar:
 
 ---
 
-## Escalas Assistivas e Inteligência Clínica Longitudinal
+## Instrumentos Psicométricos e Inteligência Clínica Longitudinal
 
-As Escalas Assistivas foram concebidas para funcionar dentro de uma lógica de acompanhamento longitudinal.
+As Instrumentos Psicométricos foram concebidas para funcionar dentro de uma lógica de acompanhamento longitudinal.
 
 Quando utilizadas de forma consistente ao longo do processo terapêutico, podem contribuir para uma compreensão mais ampla da evolução do caso.
 
@@ -119,9 +119,9 @@ Sua principal finalidade é apoiar a organização de informações clínicas re
 
 ---
 
-## Escalas Assistivas e Avaliações Científicas
+## Instrumentos Psicométricos e Avaliações Científicas
 
-As Escalas Assistivas não substituem avaliações científicas.
+As Instrumentos Psicométricos não substituem avaliações científicas.
 
 Na prática, ambas podem desempenhar funções complementares.
 
@@ -129,7 +129,7 @@ Na prática, ambas podem desempenhar funções complementares.
 
 Auxiliam na observação de sintomas, funcionalidade, qualidade de vida e outros construtos específicos.
 
-### Escalas Assistivas
+### Instrumentos Psicométricos
 
 Auxiliam na observação de aspectos relacionados ao processo terapêutico e à evolução clínica.
 
@@ -139,7 +139,7 @@ Quando analisadas em conjunto, podem contribuir para uma compreensão mais ampla
 
 ## Aplicação em diferentes contextos clínicos
 
-As Escalas Assistivas podem ser utilizadas em diferentes modalidades de acompanhamento.
+As Instrumentos Psicométricos podem ser utilizadas em diferentes modalidades de acompanhamento.
 
 ### Terapia Individual
 
@@ -161,7 +161,7 @@ Observação de engajamento, participação e evolução do processo grupal.
 
 ## Limitações e responsabilidade profissional
 
-As Escalas Assistivas possuem finalidade assistiva.
+As Instrumentos Psicométricos possuem finalidade assistiva.
 
 Elas:
 
@@ -176,7 +176,7 @@ Sua utilização deve ser compreendida como uma ferramenta complementar de organ
 
 ## Conclusão
 
-As Escalas Assistivas do eConsult foram desenvolvidas para apoiar a observação estruturada de aspectos relevantes do processo terapêutico.
+As Instrumentos Psicométricos do eConsult foram desenvolvidas para apoiar a observação estruturada de aspectos relevantes do processo terapêutico.
 
 Seu objetivo é contribuir para uma compreensão mais ampla da evolução clínica, favorecendo o acompanhamento longitudinal e a organização das informações observadas ao longo do tempo.
 

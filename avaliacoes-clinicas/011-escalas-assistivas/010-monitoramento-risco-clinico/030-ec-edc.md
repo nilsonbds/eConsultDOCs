@@ -1,6 +1,6 @@
 ---
 sidebar_position: 30
-title: EC-EDC - Escala de Direção Clínica (Evolução) (eConsult)
+title: EC-EDC - Indicador de Direção Clínica (Evolução) (eConsult)
 description: "Instrumento assistivo do eConsult para monitoramento longitudinal da direção clínica, evolução terapêutica e tendências de melhora, estabilidade ou agravamento."
 keywords:
   - direção clínica
@@ -13,9 +13,9 @@ keywords:
   - EC-EDC
 ---
 
-# EC-EDC – Escala de Direção Clínica (Evolução) (eConsult)
+# EC-EDC – Indicador de Direção Clínica (Evolução) (eConsult)
 
-A **EC-EDC (Escala de Direção Clínica)** é uma escala assistiva desenvolvida pelo **eConsult** para apoiar a análise longitudinal da evolução clínica da pessoa atendida ao longo do acompanhamento.
+A **EC-EDC (Indicador de Direção Clínica)** é uma indicador assistiva desenvolvida pelo **eConsult** para apoiar a análise longitudinal da evolução clínica da pessoa atendida ao longo do acompanhamento.
 
 Diferentemente de instrumentos focados em sintomas específicos, a EC-EDC busca identificar a **direção do processo terapêutico**, observando tendências de melhora, estabilidade ou piora em diferentes dimensões clínicas.
 
@@ -29,7 +29,7 @@ Diferentemente de instrumentos focados em sintomas específicos, a EC-EDC busca 
 
 ## O que a EC-EDC avalia?
 
-A escala organiza a análise em quatro dimensões:
+A indicador organiza a análise em quatro dimensões:
 
 * Sintomas e sofrimento
 * Funcionamento global
@@ -40,7 +40,7 @@ O objetivo é fornecer ao profissional uma leitura estruturada da evolução obs
 
 ## Como funciona a pontuação?
 
-A EC-EDC utiliza uma escala de frequência e intensidade baseada na comparação entre o estado atual e avaliações anteriores.
+A EC-EDC utiliza uma indicador de frequência e intensidade baseada na comparação entre o estado atual e avaliações anteriores.
 
 Cada dimensão gera uma média independente, permitindo identificar áreas específicas de melhora ou agravamento.
 
@@ -84,7 +84,7 @@ Cada dimensão gera uma média independente, permitindo identificar áreas espec
 
 ## Responda a EC-EDC Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-EDC** para obter:
 
@@ -96,7 +96,7 @@ Utilize a versão online da **EC-EDC** para obter:
 
 👉 [**Responder EC-EDC Online**](https://econsult.app.br/teste-psicologico/ec-edc)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Direção Clínica (EC-EDC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a análise longitudinal da evolução clínica ao longo do acompanhamento. Diferentemente de instrumentos focados em sintomas específicos, a EC-EDC permite identificar a direção do processo terapêutico, observando tendências de melhora, estabilidade ou piora em diferentes dimensões clínicas, auxiliando na tomada de decisões e no planejamento das intervenções.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Direção Clínica (EC-EDC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a análise longitudinal da evolução clínica ao longo do acompanhamento. Diferentemente de instrumentos focados em sintomas específicos, a EC-EDC permite identificar a direção do processo terapêutico, observando tendências de melhora, estabilidade ou piora em diferentes dimensões clínicas, auxiliando na tomada de decisões e no planejamento das intervenções.
 
 ## Como visualizar a EC-EDC no eConsult?
 
@@ -131,7 +131,7 @@ Ela não substitui:
 
 ## Quando utilizar a EC-EDC?
 
-A escala pode ser utilizada para:
+A indicador pode ser utilizada para:
 
 * Monitorar evolução clínica
 * Identificar períodos de estabilidade
@@ -142,7 +142,7 @@ A escala pode ser utilizada para:
 
 ## Perguntas Frequentes
 
-### A EC-EDC substitui escalas psicológicas tradicionais?
+### A EC-EDC substitui indicadors psicológicas tradicionais?
 
 Não. Ela atua como instrumento complementar de acompanhamento longitudinal.
 
@@ -150,7 +150,7 @@ Não. Ela atua como instrumento complementar de acompanhamento longitudinal.
 
 Ajudar o profissional a identificar tendências clínicas ao longo do tempo, reduzindo a dependência de observações isoladas.
 
-### A escala pode ser utilizada em qualquer abordagem terapêutica?
+### A indicador pode ser utilizada em qualquer abordagem terapêutica?
 
 Sim. A estrutura foi desenvolvida para apoiar diferentes contextos clínicos.
 
@@ -162,7 +162,7 @@ A periodicidade pode ser definida pelo profissional conforme o plano terapêutic
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -178,7 +178,7 @@ A periodicidade pode ser definida pelo profissional conforme o plano terapêutic
 
 ## Referências
 
-ECONSULT. Escala de Direção Clínica (EC-EDC). Instrumento assistivo proprietário para monitoramento longitudinal da evolução clínica.
+ECONSULT. Indicador de Direção Clínica (EC-EDC). Instrumento assistivo proprietário para monitoramento longitudinal da evolução clínica.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

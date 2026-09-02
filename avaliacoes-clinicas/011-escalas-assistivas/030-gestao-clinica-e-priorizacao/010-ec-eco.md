@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-title: EC-ECO - Escala de Complexidade do Caso (eConsult)
+title: EC-ECO - Indicador de Complexidade do Caso (eConsult)
 description: "Instrumento assistivo do eConsult para avaliação longitudinal da complexidade global do caso."
 keywords:
   - complexidade clínica
@@ -13,19 +13,19 @@ keywords:
   - EC-ECO
 ---
 
-# EC-ECO: Escala de Complexidade do Caso (eConsult)
+# EC-ECO: Indicador de Complexidade do Caso (eConsult)
 
-A **EC-ECO (Escala de Complexidade do Caso)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da complexidade global dos casos acompanhados em contexto clínico.
+A **EC-ECO (Indicador de Complexidade do Caso)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da complexidade global dos casos acompanhados em contexto clínico.
 
-Diferentemente das escalas psicológicas tradicionais, a EC-ECO não busca avaliar sintomas específicos ou estabelecer diagnósticos. Seu objetivo é oferecer ao profissional uma leitura estruturada dos fatores que aumentam a complexidade clínica, funcional e psicossocial do caso.
+Diferentemente das indicadors psicológicas tradicionais, a EC-ECO não busca avaliar sintomas específicos ou estabelecer diagnósticos. Seu objetivo é oferecer ao profissional uma leitura estruturada dos fatores que aumentam a complexidade clínica, funcional e psicossocial do caso.
 
-A escala integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
+A indicador integra o conjunto de instrumentos do **Núcleo de Inteligência Clínica do eConsult**.
 
 Neste artigo você encontrará:
 
 ✅ O que é a EC-ECO
 
-✅ Como funciona a escala
+✅ Como funciona a indicador
 
 ✅ Como interpretar os fatores
 
@@ -47,7 +47,7 @@ A EC-ECO foi criada para auxiliar na observação sistemática dos elementos que
 
 Em muitos contextos, a complexidade do caso não está relacionada apenas à intensidade dos sintomas, mas também à presença de múltiplos fatores que interferem no processo terapêutico, na formulação clínica e na condução do acompanhamento.
 
-A escala permite registrar de forma estruturada aspectos como:
+A indicador permite registrar de forma estruturada aspectos como:
 
 * Gravidade clínica;
 * Necessidade de manejo ampliado;
@@ -60,7 +60,7 @@ A escala permite registrar de forma estruturada aspectos como:
 
 ## O que a EC-ECO avalia?
 
-A escala é organizada em quatro fatores.
+A indicador é organizada em quatro fatores.
 
 ### Complexidade Clínica
 
@@ -176,7 +176,7 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar q
 
 ## Responda a EC-ECO Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-ECO** para obter:
 
@@ -188,7 +188,7 @@ Utilize a versão online da **EC-ECO** para obter:
 
 👉 [**Responder EC-ECO Online**](https://econsult.app.br/teste-psicologico/ec-eco)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Complexidade do Caso (EC-ECO)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da complexidade global dos casos acompanhados em contexto clínico. Diferentemente das escalas psicológicas tradicionais, a EC-ECO não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada dos fatores clínicos, funcionais e psicossociais que influenciam a complexidade do caso e auxiliando no planejamento, na priorização das intervenções e no acompanhamento da evolução terapêutica.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Complexidade do Caso (EC-ECO)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da complexidade global dos casos acompanhados em contexto clínico. Diferentemente das indicadors psicológicas tradicionais, a EC-ECO não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada dos fatores clínicos, funcionais e psicossociais que influenciam a complexidade do caso e auxiliando no planejamento, na priorização das intervenções e no acompanhamento da evolução terapêutica.
 
 ---
 
@@ -198,7 +198,7 @@ A complexidade de um caso pode variar significativamente ao longo do acompanhame
 
 Mudanças no contexto de vida, evolução clínica, surgimento de novos fatores de risco ou fortalecimento de recursos pessoais podem alterar o grau de complexidade observado.
 
-Por isso, aplicações periódicas da escala permitem monitorar tendências que dificilmente seriam percebidas em uma única avaliação.
+Por isso, aplicações periódicas da indicador permitem monitorar tendências que dificilmente seriam percebidas em uma única avaliação.
 
 <!--
 ![Evolução longitudinal da complexidade do caso](#)
@@ -228,7 +228,7 @@ Indica possível fortalecimento de recursos externos e melhora das condições c
 
 ---
 
-## EC-ECO não é uma escala diagnóstica
+## EC-ECO não é uma indicador diagnóstica
 
 A EC-ECO não possui finalidade diagnóstica.
 
@@ -240,7 +240,7 @@ A interpretação dos resultados deve sempre considerar o contexto clínico e o 
 
 ## Quando utilizar a EC-ECO?
 
-A escala pode ser aplicada:
+A indicador pode ser aplicada:
 
 * No início do acompanhamento;
 * Em processos de triagem clínica;
@@ -294,13 +294,13 @@ A proposta não é substituir o raciocínio clínico, mas fornecer informações
 
 Não.
 
-A escala não possui finalidade diagnóstica.
+A indicador não possui finalidade diagnóstica.
 
-### Quem responde a escala?
+### Quem responde a indicador?
 
 O preenchimento é realizado pelo profissional com base na observação clínica, histórico do caso e informações disponíveis durante o acompanhamento.
 
-### A escala pode ser utilizada em qualquer abordagem?
+### A indicador pode ser utilizada em qualquer abordagem?
 
 Sim.
 
@@ -318,7 +318,7 @@ Aplicações periódicas permitem visualizar mudanças na complexidade clínica 
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -334,7 +334,7 @@ Aplicações periódicas permitem visualizar mudanças na complexidade clínica 
 
 ## Referências
 
-ECONSULT. Escala de Complexidade do Caso (EC-ECO). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
+ECONSULT. Indicador de Complexidade do Caso (EC-ECO). Instrumento assistivo proprietário para acompanhamento clínico longitudinal.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-title: EC-EAT - Escala de Aliança Terapêutica (eConsult)
+title: EC-EAT - Indicador de Aliança Terapêutica (eConsult)
 description: "Instrumento assistivo do eConsult para monitoramento longitudinal da qualidade da aliança terapêutica, vínculo, colaboração e confiança no processo clínico."
 keywords:
 - aliança terapêutica
@@ -13,11 +13,11 @@ keywords:
 - EC-EAT
 ---
 
-# EC-EAT – Escala de Aliança Terapêutica (eConsult)
+# EC-EAT – Indicador de Aliança Terapêutica (eConsult)
 
-A **EC-EAT (Escala de Aliança Terapêutica)** é uma ferramenta assistiva desenvolvida pelo **eConsult** para apoiar a avaliação longitudinal da qualidade da relação terapêutica.
+A **EC-EAT (Indicador de Aliança Terapêutica)** é uma ferramenta assistiva desenvolvida pelo **eConsult** para apoiar a avaliação longitudinal da qualidade da relação terapêutica.
 
-A escala foi inspirada nos modelos clássicos de aliança terapêutica, especialmente na proposta de **Edward Bordin**, que descreve a aliança como resultado da combinação entre vínculo, objetivos compartilhados e colaboração no processo.
+A indicador foi inspirada nos modelos clássicos de aliança terapêutica, especialmente na proposta de **Edward Bordin**, que descreve a aliança como resultado da combinação entre vínculo, objetivos compartilhados e colaboração no processo.
 
 ---
 
@@ -29,7 +29,7 @@ A escala foi inspirada nos modelos clássicos de aliança terapêutica, especial
 
 ## O que a EC-EAT avalia?
 
-A escala organiza a avaliação em quatro dimensões:
+A indicador organiza a avaliação em quatro dimensões:
 
 * Vínculo terapêutico
 * Acordo de objetivos
@@ -84,7 +84,7 @@ Cada dimensão gera um resultado independente, permitindo acompanhar a evoluçã
 
 ## Responda a EC-EAT Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-EAT** para obter:
 
@@ -96,7 +96,7 @@ Utilize a versão online da **EC-EAT** para obter:
 
 👉 [**Responder EC-EAT Online**](https://econsult.app.br/teste-psicologico/ec-eat)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Aliança Terapêutica (EC-EAT)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da qualidade da relação terapêutica. Inspirada nos modelos clássicos de aliança terapêutica, especialmente na proposta de **Edward Bordin**, a escala considera dimensões como vínculo, objetivos compartilhados e colaboração no processo terapêutico, auxiliando no acompanhamento da evolução da aliança ao longo do tratamento.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Aliança Terapêutica (EC-EAT)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da qualidade da relação terapêutica. Inspirada nos modelos clássicos de aliança terapêutica, especialmente na proposta de **Edward Bordin**, a indicador considera dimensões como vínculo, objetivos compartilhados e colaboração no processo terapêutico, auxiliando no acompanhamento da evolução da aliança ao longo do tratamento.
 
 ## Como visualizar a EC-EAT no eConsult?
 
@@ -142,7 +142,7 @@ A EC-EAT é uma ferramenta assistiva de apoio à prática clínica e não substi
 
 ## Quando utilizar a EC-EAT?
 
-A escala pode ser útil para:
+A indicador pode ser útil para:
 
 * Monitorar a qualidade da relação terapêutica
 * Identificar rupturas na aliança
@@ -163,7 +163,7 @@ Permitir acompanhamento longitudinal estruturado da relação terapêutica ao lo
 
 ### Pode ser utilizada em diferentes abordagens terapêuticas?
 
-Sim. A escala foi concebida para ser transversal a diferentes modelos clínicos.
+Sim. A indicador foi concebida para ser transversal a diferentes modelos clínicos.
 
 ### Com que frequência deve ser aplicada?
 
@@ -173,7 +173,7 @@ A periodicidade pode ser definida pelo profissional conforme as características
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -191,7 +191,7 @@ A periodicidade pode ser definida pelo profissional conforme as características
 
 BORDIN, E. S. The generalizability of the psychoanalytic concept of the working alliance. Psychotherapy: Theory, Research & Practice, 1979.
 
-ECONSULT. Escala de Aliança Terapêutica (EC-EAT). Instrumento assistivo proprietário para monitoramento longitudinal da relação terapêutica.
+ECONSULT. Indicador de Aliança Terapêutica (EC-EAT). Instrumento assistivo proprietário para monitoramento longitudinal da relação terapêutica.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 

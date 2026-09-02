@@ -1,6 +1,6 @@
 ---
 sidebar_position: 20
-title: EC-EPT - Escala de Estágio do Processo Terapêutico (eConsult)
+title: EC-EPT - Indicador de Estágio do Processo Terapêutico (eConsult)
 description: "Instrumento assistivo do eConsult para identificação do estágio atual do processo terapêutico e monitoramento da evolução clínica ao longo do acompanhamento."
 keywords:
 - processo terapêutico
@@ -13,11 +13,11 @@ keywords:
 - EC-EPT
 ---
 
-# EC-EPT – Escala de Estágio do Processo Terapêutico (eConsult)
+# EC-EPT – Indicador de Estágio do Processo Terapêutico (eConsult)
 
-A **EC-EPT (Escala de Estágio do Processo Terapêutico)** é uma ferramenta assistiva desenvolvida pelo **eConsult** para apoiar a identificação do momento atual da pessoa atendida dentro do processo terapêutico.
+A **EC-EPT (Indicador de Estágio do Processo Terapêutico)** é uma ferramenta assistiva desenvolvida pelo **eConsult** para apoiar a identificação do momento atual da pessoa atendida dentro do processo terapêutico.
 
-A escala permite acompanhar a progressão do caso desde a construção inicial do vínculo até fases mais avançadas de autonomia e consolidação dos ganhos terapêuticos.
+A indicador permite acompanhar a progressão do caso desde a construção inicial do vínculo até fases mais avançadas de autonomia e consolidação dos ganhos terapêuticos.
 
 ---
 
@@ -29,7 +29,7 @@ A escala permite acompanhar a progressão do caso desde a construção inicial d
 
 ## O que a EC-EPT avalia?
 
-A escala está organizada em quatro dimensões:
+A indicador está organizada em quatro dimensões:
 
 * Vinculação inicial
 * Exploração e compreensão
@@ -84,7 +84,7 @@ Cada dimensão recebe uma classificação independente, permitindo identificar e
 
 ## Responda a EC-EPT Online Gratuitamente
 
-Prefere responder a escala em vez de calcular o resultado manualmente?
+Prefere responder a indicador em vez de calcular o resultado manualmente?
 
 Utilize a versão online da **EC-EPT** para obter:
 
@@ -96,11 +96,11 @@ Utilize a versão online da **EC-EPT** para obter:
 
 👉 [**Responder EC-EPT Online**](https://econsult.app.br/teste-psicologico/ec-ept)
 
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Escala de Estágio do Processo Terapêutico (EC-EPT)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a identificação do momento atual da pessoa atendida dentro do processo terapêutico. A escala permite acompanhar a progressão do caso desde a construção inicial do vínculo até fases mais avançadas de autonomia e consolidação dos ganhos terapêuticos, auxiliando no planejamento e na tomada de decisões clínicas ao longo do acompanhamento.
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Estágio do Processo Terapêutico (EC-EPT)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a identificação do momento atual da pessoa atendida dentro do processo terapêutico. A indicador permite acompanhar a progressão do caso desde a construção inicial do vínculo até fases mais avançadas de autonomia e consolidação dos ganhos terapêuticos, auxiliando no planejamento e na tomada de decisões clínicas ao longo do acompanhamento.
 
 ## Como visualizar a EC-EPT no eConsult?
 
-O eConsult apresenta os resultados da escala em formato longitudinal, permitindo acompanhar a evolução do processo terapêutico ao longo do tempo.
+O eConsult apresenta os resultados da indicador em formato longitudinal, permitindo acompanhar a evolução do processo terapêutico ao longo do tempo.
 
 Entre os recursos disponíveis estão:
 
@@ -142,7 +142,7 @@ A EC-EPT é uma ferramenta assistiva de apoio à prática clínica e não substi
 
 ## Quando utilizar a EC-EPT?
 
-A escala pode ser utilizada para:
+A indicador pode ser utilizada para:
 
 * Acompanhar o desenvolvimento do processo terapêutico
 * Identificar mudanças de estágio
@@ -159,7 +159,7 @@ Não diretamente. Ela busca identificar o estágio do processo terapêutico e n�
 
 ### Pode ser utilizada em qualquer abordagem terapêutica?
 
-Sim. A escala foi desenvolvida para apoiar diferentes modelos de prática clínica.
+Sim. A indicador foi desenvolvida para apoiar diferentes modelos de prática clínica.
 
 ### A EC-EPT substitui a avaliação profissional?
 
@@ -173,7 +173,7 @@ A periodicidade pode ser definida pelo profissional conforme as características
 
 👉 [Quando aplicar avaliações psicológicas](../../../040-guias/000-quando-aplicar-avaliacoes.md)
 
-👉 [Como escolher uma escala psicológica](../../../040-guias/010-como-escolher-uma-escala.md)
+👉 [Como escolher uma indicador psicológica](../../../040-guias/010-como-escolher-uma-indicador.md)
 
 👉 [Interpretação de resultados](../../../040-guias/020-interpretacao-de-resultados.md)
 
@@ -189,7 +189,7 @@ A periodicidade pode ser definida pelo profissional conforme as características
 
 ## Referências
 
-ECONSULT. Escala de Estágio do Processo Terapêutico (EC-EPT). Instrumento assistivo proprietário para monitoramento longitudinal da evolução do processo terapêutico.
+ECONSULT. Indicador de Estágio do Processo Terapêutico (EC-EPT). Instrumento assistivo proprietário para monitoramento longitudinal da evolução do processo terapêutico.
 
 ECONSULT. Núcleo de Inteligência Clínica. Documentação técnica interna.
 
