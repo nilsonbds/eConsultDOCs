@@ -41,6 +41,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a EC-ETE Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-ETE** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-ETE Online**](https://econsult.app.br/teste-psicologico/ec-ete)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Engajamento Terapêutico (EC-ETE)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal do engajamento da pessoa atendida no processo terapêutico, auxiliando na identificação da adesão ao tratamento e da evolução do vínculo terapêutico ao longo do acompanhamento clínico.
+
+---
+
 ## O que é a EC-ETE?
 
 A EC-ETE foi criada para apoiar a observação sistemática de comportamentos que costumam estar associados ao progresso terapêutico.
@@ -166,24 +184,6 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 | 1,50 – 2,49 | Aplicação prática limitada |
 | 2,50 – 3,24 | Boa aplicação prática |
 | 3,25 – 4,00 | Alta aplicação prática |
-
----
-
-## Responda a EC-ETE Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-ETE** para obter:
-
-- ✅ Correção automática
-- ✅ Pontuação automática
-- ✅ Classificação do resultado
-- ✅ Interpretação imediata
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-ETE Online**](https://econsult.app.br/teste-psicologico/ec-ete)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Engajamento Terapêutico (EC-ETE)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal do engajamento da pessoa atendida no processo terapêutico, auxiliando na identificação da adesão ao tratamento e da evolução do vínculo terapêutico ao longo do acompanhamento clínico.
 
 ---
 

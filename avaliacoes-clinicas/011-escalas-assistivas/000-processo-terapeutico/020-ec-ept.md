@@ -27,6 +27,24 @@ A indicador permite acompanhar a progressão do caso desde a construção inicia
 
 ---
 
+## Responda a EC-EPT Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-EPT** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do estágio terapêutico
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-EPT Online**](https://econsult.app.br/teste-psicologico/ec-ept)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Estágio do Processo Terapêutico (EC-EPT)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a identificação do momento atual da pessoa atendida dentro do processo terapêutico. A indicador permite acompanhar a progressão do caso desde a construção inicial do vínculo até fases mais avançadas de autonomia e consolidação dos ganhos terapêuticos, auxiliando no planejamento e na tomada de decisões clínicas ao longo do acompanhamento.
+
+---
+
 ## O que a EC-EPT avalia?
 
 A indicador está organizada em quatro dimensões:
@@ -81,22 +99,6 @@ Cada dimensão recebe uma classificação independente, permitindo identificar e
 | 1,25 – 2,24 | Consolidação em progresso |
 | 2,25 – 2,99 | Consolidação inicial      |
 | 3,00 – 4,00 | Consolidação ausente      |
-
-## Responda a EC-EPT Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-EPT** para obter:
-
-- ✅ Correção automática
-- ✅ Classificação do estágio terapêutico
-- ✅ Interpretação imediata
-- ✅ Acompanhamento longitudinal da evolução clínica
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-EPT Online**](https://econsult.app.br/teste-psicologico/ec-ept)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Estágio do Processo Terapêutico (EC-EPT)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a identificação do momento atual da pessoa atendida dentro do processo terapêutico. A indicador permite acompanhar a progressão do caso desde a construção inicial do vínculo até fases mais avançadas de autonomia e consolidação dos ganhos terapêuticos, auxiliando no planejamento e na tomada de decisões clínicas ao longo do acompanhamento.
 
 ## Como visualizar a EC-EPT no eConsult?
 

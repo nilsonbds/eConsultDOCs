@@ -41,6 +41,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a EC-ECO Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-ECO** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do nível de complexidade do caso
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-ECO Online**](https://econsult.app.br/teste-psicologico/ec-eco)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Complexidade do Caso (EC-ECO)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da complexidade global dos casos acompanhados em contexto clínico. Diferentemente das indicadors psicológicas tradicionais, a EC-ECO não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada dos fatores clínicos, funcionais e psicossociais que influenciam a complexidade do caso e auxiliando no planejamento, na priorização das intervenções e no acompanhamento da evolução terapêutica.
+
+---
+
 ## O que é a EC-ECO?
 
 A EC-ECO foi criada para auxiliar na observação sistemática dos elementos que contribuem para tornar um caso mais simples ou mais complexo do ponto de vista clínico.
@@ -171,24 +189,6 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar q
 | 1,50 – 2,49 | Complexidade psicossocial moderada |
 | 2,50 – 3,24 | Alta complexidade psicossocial |
 | 3,25 – 4,00 | Muito alta complexidade psicossocial |
-
----
-
-## Responda a EC-ECO Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-ECO** para obter:
-
-- ✅ Correção automática
-- ✅ Classificação do nível de complexidade do caso
-- ✅ Interpretação imediata
-- ✅ Acompanhamento longitudinal da evolução clínica
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-ECO Online**](https://econsult.app.br/teste-psicologico/ec-eco)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Complexidade do Caso (EC-ECO)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da complexidade global dos casos acompanhados em contexto clínico. Diferentemente das indicadors psicológicas tradicionais, a EC-ECO não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada dos fatores clínicos, funcionais e psicossociais que influenciam a complexidade do caso e auxiliando no planejamento, na priorização das intervenções e no acompanhamento da evolução terapêutica.
 
 ---
 

@@ -41,6 +41,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a EC-ERI Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-ERI** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do nível de insight clínico
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-ERI Online**](https://econsult.app.br/teste-psicologico/ec-eri)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Insight Clínico (EC-ERI)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de compreender, refletir e se posicionar diante do próprio funcionamento psicológico. Diferentemente das indicadors psicológicas tradicionais, a EC-ERI não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o nível de consciência, compreensão e elaboração que a pessoa desenvolve em relação aos seus sintomas, padrões de funcionamento e possibilidades de mudança ao longo do processo terapêutico.
+
+---
+
 ## O que é a EC-ERI?
 
 A EC-ERI foi criada para auxiliar na observação sistemática do desenvolvimento do insight clínico ao longo do processo terapêutico.
@@ -171,24 +189,6 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 | 1,50 – 2,49 | Capacidade reflexiva limitada |
 | 2,50 – 3,24 | Boa capacidade reflexiva |
 | 3,25 – 4,00 | Alta capacidade reflexiva |
-
----
-
-## Responda a EC-ERI Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-ERI** para obter:
-
-- ✅ Correção automática
-- ✅ Classificação do nível de insight clínico
-- ✅ Interpretação imediata
-- ✅ Acompanhamento longitudinal da evolução clínica
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-ERI Online**](https://econsult.app.br/teste-psicologico/ec-eri)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Insight Clínico (EC-ERI)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de compreender, refletir e se posicionar diante do próprio funcionamento psicológico. Diferentemente das indicadors psicológicas tradicionais, a EC-ERI não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o nível de consciência, compreensão e elaboração que a pessoa desenvolve em relação aos seus sintomas, padrões de funcionamento e possibilidades de mudança ao longo do processo terapêutico.
 
 ---
 

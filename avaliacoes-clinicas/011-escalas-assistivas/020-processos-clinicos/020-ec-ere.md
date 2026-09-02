@@ -41,6 +41,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a EC-ERE Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-ERE** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do nível de regulação emocional
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-ERE Online**](https://econsult.app.br/teste-psicologico/ec-ere)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Regulação Emocional (EC-ERE)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de reconhecer, compreender, modular e lidar com suas emoções de forma adaptativa. Diferentemente das indicadors psicológicas tradicionais, a EC-ERE não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o reconhecimento, a modulação e a expressão emocional, bem como sobre as estratégias utilizadas para lidar com estados emocionais difíceis ao longo do processo terapêutico.
+
+---
+
 ## O que é a EC-ERE?
 
 A EC-ERE foi criada para auxiliar na observação sistemática dos processos de regulação emocional ao longo do acompanhamento terapêutico.
@@ -171,24 +189,6 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 | 1,50 – 2,49 | Leve uso de estratégias desadaptativas |
 | 2,50 – 3,24 | Uso moderado de estratégias desadaptativas |
 | 3,25 – 4,00 | Uso predominante de estratégias desadaptativas |
-
----
-
-## Responda a EC-ERE Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-ERE** para obter:
-
-- ✅ Correção automática
-- ✅ Classificação do nível de regulação emocional
-- ✅ Interpretação imediata
-- ✅ Acompanhamento longitudinal da evolução clínica
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-ERE Online**](https://econsult.app.br/teste-psicologico/ec-ere)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Regulação Emocional (EC-ERE)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de reconhecer, compreender, modular e lidar com suas emoções de forma adaptativa. Diferentemente das indicadors psicológicas tradicionais, a EC-ERE não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o reconhecimento, a modulação e a expressão emocional, bem como sobre as estratégias utilizadas para lidar com estados emocionais difíceis ao longo do processo terapêutico.
 
 ---
 

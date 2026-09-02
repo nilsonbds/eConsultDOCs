@@ -41,6 +41,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a EC-ERF Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-ERF** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-ERF Online**](https://econsult.app.br/teste-psicologico/ec-erf)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador eConsult de Evolução da Responsividade às Intervenções (EC-ERF)** é um instrumento assistivo desenvolvido para avaliar a responsividade da pessoa atendida às intervenções terapêuticas ao longo do processo clínico, auxiliando na identificação da evolução do tratamento e apoiando a tomada de decisão baseada em evidências.
+
+---
+
 ## O que é a EC-ERF?
 
 A EC-ERF foi desenvolvida para auxiliar o profissional na observação sistemática dos efeitos das intervenções terapêuticas ao longo do processo clínico.
@@ -168,24 +186,6 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 | 1,50 – 2,49 | Boa responsividade      |
 | 2,50 – 3,24 | Responsividade limitada |
 | 3,25 – 4,00 | Baixa responsividade    |
-
----
-
-## Responda a EC-ERF Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-ERF** para obter:
-
-- ✅ Correção automática
-- ✅ Pontuação automática
-- ✅ Classificação do resultado
-- ✅ Interpretação imediata
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-ERF Online**](https://econsult.app.br/teste-psicologico/ec-erf)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador eConsult de Evolução da Responsividade às Intervenções (EC-ERF)** é um instrumento assistivo desenvolvido para avaliar a responsividade da pessoa atendida às intervenções terapêuticas ao longo do processo clínico, auxiliando na identificação da evolução do tratamento e apoiando a tomada de decisão baseada em evidências.
 
 ---
 

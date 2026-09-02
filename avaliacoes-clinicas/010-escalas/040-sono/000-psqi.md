@@ -42,6 +42,24 @@ Precisa aplicar o PSQI em sua prática clínica?
 
 ---
 
+## Responda o PSQI Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online do **PSQI** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação da qualidade do sono
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder PSQI Online**](https://econsult.app.br/teste-psicologico/psqi)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **Pittsburgh Sleep Quality Index (PSQI)**, instrumento utilizado para avaliar a qualidade do sono e identificar possíveis alterações do padrão de sono no último mês.
+
+---
+
 ## O que é o PSQI?
 
 O Pittsburgh Sleep Quality Index (PSQI) é um instrumento desenvolvido para avaliar a qualidade do sono durante o último mês.
@@ -172,24 +190,6 @@ Quanto maior a pontuação, pior tende a ser a qualidade do sono.
 |----------|----------|
 | 0 – 2 | Boa disposição |
 | 3 – 6 | Sonolência e fadiga frequentes |
-
----
-
-## Responda o PSQI Online Gratuitamente
-
-Prefere responder o teste em vez de calcular a pontuação manualmente?
-
-Utilize a versão online do **PSQI** para obter:
-
-- ✅ Correção automática
-- ✅ Pontuação automática
-- ✅ Classificação da qualidade do sono
-- ✅ Interpretação imediata
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder PSQI Online**](https://econsult.app.br/teste-psicologico/psqi)
-
-> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **Pittsburgh Sleep Quality Index (PSQI)**, instrumento utilizado para avaliar a qualidade do sono e identificar possíveis alterações do padrão de sono no último mês.
 
 ---
 

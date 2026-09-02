@@ -43,6 +43,23 @@ Precisa aplicar o CAGE em sua prática clínica?
 
 ---
 
+## Responda o CAGE Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online do **CAGE** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder CAGE Online**](https://econsult.app.br/teste-psicologico/cage)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam aplicar e interpretar rapidamente o **CAGE (Cut-down, Annoyed, Guilty, Eye-opener)**, instrumento de rastreamento utilizado para identificar sinais de uso problemático e possível dependência de álcool.
+
+---
+
 ## O que é o CAGE?
 
 O CAGE é um instrumento breve de rastreamento voltado para identificação de possíveis sinais de dependência alcoólica.
@@ -119,23 +136,6 @@ A soma dos quatro itens gera um escore total entre:
 Pontuações iguais ou superiores a 2 sugerem necessidade de investigação clínica mais aprofundada.
 
 O resultado não deve ser interpretado como diagnóstico definitivo.
-
----
-
-## Responda o CAGE Online Gratuitamente
-
-Prefere responder o teste em vez de calcular a pontuação manualmente?
-
-Utilize a versão online do **CAGE** para obter:
-
-- ✅ Correção automática
-- ✅ Classificação do resultado
-- ✅ Interpretação imediata
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder CAGE Online**](https://econsult.app.br/teste-psicologico/cage)
-
-> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam aplicar e interpretar rapidamente o **CAGE (Cut-down, Annoyed, Guilty, Eye-opener)**, instrumento de rastreamento utilizado para identificar sinais de uso problemático e possível dependência de álcool.
 
 ---
 

@@ -41,6 +41,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a EC-EFC Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-EFC** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do nível de flexibilidade cognitiva
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-EFC Online**](https://econsult.app.br/teste-psicologico/ec-efc)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Flexibilidade Cognitiva (EC-EFC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de revisar crenças, adaptar pensamentos, considerar novas perspectivas e modificar padrões de comportamento diante de novas informações ou demandas. Diferentemente das indicadors psicológicas tradicionais, a EC-EFC não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o grau de flexibilidade ou rigidez cognitiva observado ao longo do processo terapêutico.
+
+---
+
 ## O que é a EC-EFC?
 
 A EC-EFC foi desenvolvida para auxiliar na observação sistemática da forma como a pessoa atendida lida com mudanças de perspectiva, questionamento de crenças e adaptação a novas situações.
@@ -173,24 +191,6 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 | 1,50 – 2,49 | Leve dificuldade de adaptação |
 | 2,50 – 3,24 | Dificuldade moderada de adaptação |
 | 3,25 – 4,00 | Alta dificuldade de adaptação |
-
----
-
-## Responda a EC-EFC Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-EFC** para obter:
-
-- ✅ Correção automática
-- ✅ Classificação do nível de flexibilidade cognitiva
-- ✅ Interpretação imediata
-- ✅ Acompanhamento longitudinal da evolução clínica
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-EFC Online**](https://econsult.app.br/teste-psicologico/ec-efc)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Flexibilidade Cognitiva (EC-EFC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de revisar crenças, adaptar pensamentos, considerar novas perspectivas e modificar padrões de comportamento diante de novas informações ou demandas. Diferentemente das indicadors psicológicas tradicionais, a EC-EFC não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o grau de flexibilidade ou rigidez cognitiva observado ao longo do processo terapêutico.
 
 ---
 

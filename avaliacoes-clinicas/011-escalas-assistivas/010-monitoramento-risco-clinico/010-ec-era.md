@@ -41,6 +41,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a EC-ERA Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-ERA** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do risco de abandono
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-ERA Online**](https://econsult.app.br/teste-psicologico/ec-era)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Risco de Abandono (EC-ERA)** é um instrumento assistivo desenvolvido pelo **eConsult** para auxiliar na identificação precoce de sinais associados à interrupção do processo terapêutico. Seu objetivo é apoiar a observação estruturada de fatores que podem aumentar o risco de abandono do acompanhamento, permitindo intervenções preventivas que favoreçam a continuidade do tratamento e fortaleçam a adesão terapêutica.
+
+---
+
 ## O que é a EC-ERA?
 
 A interrupção precoce do tratamento é uma das principais dificuldades encontradas em diferentes contextos clínicos.
@@ -170,24 +188,6 @@ Quanto maior a pontuação, maior o risco potencial de abandono naquele domínio
 | 1,50 – 2,49 | Risco leve de abandono |
 | 2,50 – 3,24 | Risco moderado de abandono |
 | 3,25 – 4,00 | Alto risco de abandono |
-
----
-
-## Responda a EC-ERA Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-ERA** para obter:
-
-- ✅ Correção automática
-- ✅ Classificação do risco de abandono
-- ✅ Interpretação imediata
-- ✅ Acompanhamento longitudinal da evolução clínica
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-ERA Online**](https://econsult.app.br/teste-psicologico/ec-era)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Risco de Abandono (EC-ERA)** é um instrumento assistivo desenvolvido pelo **eConsult** para auxiliar na identificação precoce de sinais associados à interrupção do processo terapêutico. Seu objetivo é apoiar a observação estruturada de fatores que podem aumentar o risco de abandono do acompanhamento, permitindo intervenções preventivas que favoreçam a continuidade do tratamento e fortaleçam a adesão terapêutica.
 
 ---
 

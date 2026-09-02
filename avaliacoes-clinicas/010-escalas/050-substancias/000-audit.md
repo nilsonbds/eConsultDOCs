@@ -42,6 +42,24 @@ Precisa aplicar o AUDIT em sua prática clínica?
 
 ---
 
+## Responda o AUDIT Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online do **AUDIT** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do padrão de consumo de álcool
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder AUDIT Online**](https://econsult.app.br/teste-psicologico/audit)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **Alcohol Use Disorders Identification Test (AUDIT)**, instrumento desenvolvido pela Organização Mundial da Saúde (OMS) para o rastreamento do consumo de álcool de risco, uso nocivo e possível dependência alcoólica.
+
+---
+
 ## O que é o AUDIT?
 
 O AUDIT é um instrumento de rastreamento composto por 10 perguntas relacionadas ao padrão de consumo de bebidas alcoólicas nos últimos 12 meses.
@@ -128,24 +146,6 @@ Quanto maior a pontuação, maior o risco associado ao consumo de álcool.
 | 20 – 40 | Provável dependência alcoólica |
 
 Pontuações mais elevadas indicam necessidade de investigação clínica mais aprofundada.
-
----
-
-## Responda o AUDIT Online Gratuitamente
-
-Prefere responder o teste em vez de calcular a pontuação manualmente?
-
-Utilize a versão online do **AUDIT** para obter:
-
-- ✅ Correção automática
-- ✅ Pontuação automática
-- ✅ Classificação do padrão de consumo de álcool
-- ✅ Interpretação imediata
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder AUDIT Online**](https://econsult.app.br/teste-psicologico/audit)
-
-> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **Alcohol Use Disorders Identification Test (AUDIT)**, instrumento desenvolvido pela Organização Mundial da Saúde (OMS) para o rastreamento do consumo de álcool de risco, uso nocivo e possível dependência alcoólica.
 
 ---
 

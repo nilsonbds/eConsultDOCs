@@ -42,6 +42,24 @@ Precisa aplicar o WHODAS 2.0 em sua prática clínica?
 
 ---
 
+## Responda o WHODAS 2.0 Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online do **WHODAS 2.0** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder WHODAS 2.0 Online**](https://econsult.app.br/teste-psicologico/WHODAS%202.0)
+
+> Ideal para psicólogos, psiquiatras, médicos, terapeutas ocupacionais, fisioterapeutas, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **World Health Organization Disability Assessment Schedule 2.0 (WHODAS 2.0)**, instrumento desenvolvido pela Organização Mundial da Saúde (OMS) para avaliar o nível de funcionalidade e incapacidade em diferentes domínios da vida.
+
+---
+
 ## O que é o WHODAS 2.0?
 
 O WHODAS 2.0 é um instrumento criado pela Organização Mundial da Saúde para mensurar o impacto que condições físicas, emocionais ou mentais exercem sobre o funcionamento diário de uma pessoa.
@@ -178,24 +196,6 @@ Quanto maior a pontuação, maior o nível de incapacidade ou prejuízo funciona
 | 41 – 60 | Deficiência grave |
 
 Pontuações mais elevadas indicam maior comprometimento funcional.
-
----
-
-## Responda o WHODAS 2.0 Online Gratuitamente
-
-Prefere responder o teste em vez de calcular a pontuação manualmente?
-
-Utilize a versão online do **WHODAS 2.0** para obter:
-
-- ✅ Correção automática
-- ✅ Pontuação automática
-- ✅ Classificação do resultado
-- ✅ Interpretação imediata
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder WHODAS 2.0 Online**](https://econsult.app.br/teste-psicologico/WHODAS%202.0)
-
-> Ideal para psicólogos, psiquiatras, médicos, terapeutas ocupacionais, fisioterapeutas, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **World Health Organization Disability Assessment Schedule 2.0 (WHODAS 2.0)**, instrumento desenvolvido pela Organização Mundial da Saúde (OMS) para avaliar o nível de funcionalidade e incapacidade em diferentes domínios da vida.
 
 ---
 

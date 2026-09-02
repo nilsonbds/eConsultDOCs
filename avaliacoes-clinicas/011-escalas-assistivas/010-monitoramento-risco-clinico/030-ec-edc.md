@@ -27,6 +27,24 @@ Diferentemente de instrumentos focados em sintomas específicos, a EC-EDC busca 
 
 ---
 
+## Responda a EC-EDC Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-EDC** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação da direção da evolução clínica
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-EDC Online**](https://econsult.app.br/teste-psicologico/ec-edc)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Direção Clínica (EC-EDC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a análise longitudinal da evolução clínica ao longo do acompanhamento. Diferentemente de instrumentos focados em sintomas específicos, a EC-EDC permite identificar a direção do processo terapêutico, observando tendências de melhora, estabilidade ou piora em diferentes dimensões clínicas, auxiliando na tomada de decisões e no planejamento das intervenções.
+
+---
+
 ## O que a EC-EDC avalia?
 
 A indicador organiza a análise em quatro dimensões:
@@ -81,22 +99,6 @@ Cada dimensão gera uma média independente, permitindo identificar áreas espec
 | 1,25 – 2,24 | Leve melhora       |
 | 2,25 – 2,99 | Estável            |
 | 3,00 – 4,00 | Piora clínica      |
-
-## Responda a EC-EDC Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-EDC** para obter:
-
-- ✅ Correção automática
-- ✅ Classificação da direção da evolução clínica
-- ✅ Interpretação imediata
-- ✅ Acompanhamento longitudinal da evolução clínica
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-EDC Online**](https://econsult.app.br/teste-psicologico/ec-edc)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Direção Clínica (EC-EDC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a análise longitudinal da evolução clínica ao longo do acompanhamento. Diferentemente de instrumentos focados em sintomas específicos, a EC-EDC permite identificar a direção do processo terapêutico, observando tendências de melhora, estabilidade ou piora em diferentes dimensões clínicas, auxiliando na tomada de decisões e no planejamento das intervenções.
 
 ## Como visualizar a EC-EDC no eConsult?
 

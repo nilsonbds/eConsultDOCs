@@ -41,6 +41,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a EC-EPC Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-EPC** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação da prioridade clínica
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-EPC Online**](https://econsult.app.br/teste-psicologico/ec-epc)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Prioridade Clínica (EC-EPC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da prioridade clínica da pessoa atendida, auxiliando na definição das necessidades de intervenção, monitoramento e acompanhamento. Diferentemente das indicadors psicológicas tradicionais, a EC-EPC não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada dos fatores que contribuem para aumentar ou reduzir a prioridade clínica do caso, favorecendo o planejamento terapêutico e a tomada de decisões ao longo do cuidado.
+
+---
+
 ## O que é a EC-EPC?
 
 A EC-EPC foi criada para auxiliar profissionais na identificação de casos que demandam maior atenção clínica, acompanhamento intensificado ou intervenções em curto prazo.
@@ -174,24 +192,6 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar q
 | 1,50 – 2,49 | Prioridade leve |
 | 2,50 – 3,24 | Alta prioridade |
 | 3,25 – 4,00 | Prioridade crítica |
-
----
-
-## Responda a EC-EPC Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-EPC** para obter:
-
-- ✅ Correção automática
-- ✅ Classificação da prioridade clínica
-- ✅ Interpretação imediata
-- ✅ Acompanhamento longitudinal da evolução clínica
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-EPC Online**](https://econsult.app.br/teste-psicologico/ec-epc)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Prioridade Clínica (EC-EPC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da prioridade clínica da pessoa atendida, auxiliando na definição das necessidades de intervenção, monitoramento e acompanhamento. Diferentemente das indicadors psicológicas tradicionais, a EC-EPC não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada dos fatores que contribuem para aumentar ou reduzir a prioridade clínica do caso, favorecendo o planejamento terapêutico e a tomada de decisões ao longo do cuidado.
 
 ---
 

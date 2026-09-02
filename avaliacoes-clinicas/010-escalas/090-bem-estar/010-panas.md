@@ -39,6 +39,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a PANAS Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online da **PANAS** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação dos afetos positivos e negativos
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder PANAS Online**](https://econsult.app.br/teste-psicologico/panas)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação da **Positive and Negative Affect Schedule (PANAS)**, instrumento utilizado para avaliar os níveis de afetos positivos e afetos negativos, auxiliando na compreensão do estado emocional e do bem-estar psicológico.
+
+---
+
 ## O que é a PANAS?
 
 A PANAS foi criada para avaliar duas dimensões emocionais relativamente independentes:
@@ -183,24 +201,6 @@ Pode refletir:
 - Apatia;
 - Baixa ativação emocional;
 - Distanciamento afetivo.
-
----
-
-## Responda a PANAS Online Gratuitamente
-
-Prefere responder o teste em vez de calcular a pontuação manualmente?
-
-Utilize a versão online da **PANAS** para obter:
-
-- ✅ Correção automática
-- ✅ Pontuação automática
-- ✅ Classificação dos afetos positivos e negativos
-- ✅ Interpretação imediata
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder PANAS Online**](https://econsult.app.br/teste-psicologico/panas)
-
-> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação da **Positive and Negative Affect Schedule (PANAS)**, instrumento utilizado para avaliar os níveis de afetos positivos e afetos negativos, auxiliando na compreensão do estado emocional e do bem-estar psicológico.
 
 ---
 

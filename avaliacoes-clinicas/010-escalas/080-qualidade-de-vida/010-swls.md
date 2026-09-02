@@ -39,6 +39,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a SWLS Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online da **SWLS** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder SWLS Online**](https://econsult.app.br/teste-psicologico/swls)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação da **Satisfaction With Life Scale (SWLS)**, instrumento utilizado para avaliar o grau de satisfação global com a vida por meio da percepção subjetiva do próprio indivíduo.
+
+---
+
 ## O que é a SWLS?
 
 A SWLS (Satisfaction With Life Scale) é um instrumento breve composto por apenas cinco questões.
@@ -101,24 +119,6 @@ A soma dos cinco itens gera um escore total entre 5 e 35 pontos.
 | 25 – 35 | Alta satisfação com a vida |
 
 Quanto maior a pontuação, maior a percepção de satisfação global com a vida.
-
----
-
-## Responda a SWLS Online Gratuitamente
-
-Prefere responder o teste em vez de calcular a pontuação manualmente?
-
-Utilize a versão online da **SWLS** para obter:
-
-- ✅ Correção automática
-- ✅ Pontuação automática
-- ✅ Classificação do resultado
-- ✅ Interpretação imediata
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder SWLS Online**](https://econsult.app.br/teste-psicologico/swls)
-
-> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação da **Satisfaction With Life Scale (SWLS)**, instrumento utilizado para avaliar o grau de satisfação global com a vida por meio da percepção subjetiva do próprio indivíduo.
 
 ---
 

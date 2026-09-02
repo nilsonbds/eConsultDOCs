@@ -42,6 +42,24 @@ Precisa aplicar o PSWQ em sua prática clínica?
 
 ---
 
+## Responda o PSWQ Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online do **PSWQ** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder PSWQ Online**](https://econsult.app.br/teste-psicologico/pswq)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **Penn State Worry Questionnaire (PSWQ)**, instrumento utilizado para avaliar a intensidade e a frequência da preocupação excessiva, característica comum do transtorno de ansiedade generalizada (TAG).
+
+---
+
 ## O que é o PSWQ?
 
 O Penn State Worry Questionnaire é um instrumento de autorrelato composto por 16 itens que avaliam a tendência de uma pessoa a se preocupar excessivamente.
@@ -127,24 +145,6 @@ Uma interpretação frequentemente utilizada considera:
 Escores mais altos indicam maior intensidade e persistência de preocupações.
 
 Os resultados devem ser interpretados juntamente com a avaliação clínica realizada pelo profissional.
-
----
-
-## Responda o PSWQ Online Gratuitamente
-
-Prefere responder o teste em vez de calcular a pontuação manualmente?
-
-Utilize a versão online do **PSWQ** para obter:
-
-- ✅ Correção automática
-- ✅ Pontuação automática
-- ✅ Classificação do resultado
-- ✅ Interpretação imediata
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder PSWQ Online**](https://econsult.app.br/teste-psicologico/pswq)
-
-> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação do **Penn State Worry Questionnaire (PSWQ)**, instrumento utilizado para avaliar a intensidade e a frequência da preocupação excessiva, característica comum do transtorno de ansiedade generalizada (TAG).
 
 ---
 

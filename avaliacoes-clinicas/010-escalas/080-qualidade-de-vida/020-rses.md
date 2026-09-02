@@ -39,6 +39,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a RSES Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online da **RSES** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder RSES Online**](https://econsult.app.br/teste-psicologico/rses)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação da **Rosenberg Self-Esteem Scale (RSES)**, também conhecida como **Escala de Autoestima de Rosenberg**, instrumento amplamente utilizado para avaliar o nível global de autoestima e a percepção que o indivíduo tem sobre si mesmo.
+
+---
+
 ## O que é a Escala de Autoestima de Rosenberg?
 
 A Escala de Autoestima de Rosenberg foi desenvolvida em 1965 e tornou-se uma das medidas mais utilizadas para avaliação da autoestima em contextos clínicos, educacionais e científicos.
@@ -95,24 +113,6 @@ A soma gera um escore total entre 0 e 30 pontos.
 | 26 – 30 | Alta autoestima |
 
 Quanto maior o escore, mais positiva tende a ser a percepção da pessoa sobre si mesma.
-
----
-
-## Responda a RSES Online Gratuitamente
-
-Prefere responder o teste em vez de calcular a pontuação manualmente?
-
-Utilize a versão online da **RSES** para obter:
-
-- ✅ Correção automática
-- ✅ Pontuação automática
-- ✅ Classificação do resultado
-- ✅ Interpretação imediata
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder RSES Online**](https://econsult.app.br/teste-psicologico/rses)
-
-> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação da **Rosenberg Self-Esteem Scale (RSES)**, também conhecida como **Escala de Autoestima de Rosenberg**, instrumento amplamente utilizado para avaliar o nível global de autoestima e a percepção que o indivíduo tem sobre si mesmo.
 
 ---
 

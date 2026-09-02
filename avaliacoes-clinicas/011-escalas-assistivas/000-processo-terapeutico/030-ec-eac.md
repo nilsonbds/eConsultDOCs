@@ -41,6 +41,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a EC-EAC Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-EAC** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do nível de aderência às intervenções
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-EAC Online**](https://econsult.app.br/teste-psicologico/ec-eac)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Aderência às Intervenções (EC-EAC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da forma como a pessoa atendida compreende, executa e mantém as intervenções propostas ao longo do processo terapêutico. Diferentemente das indicadors psicológicas tradicionais, a EC-EAC não avalia sintomas nem estabelece diagnósticos, oferecendo ao profissional uma leitura estruturada sobre o nível de aderência às estratégias, orientações e tarefas discutidas durante o acompanhamento clínico.
+
+---
+
 ## O que é a EC-EAC?
 
 A EC-EAC foi criada para auxiliar na observação sistemática de comportamentos relacionados à implementação prática das intervenções terapêuticas.
@@ -168,24 +186,6 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 | 1,50 – 2,49 | Impacto leve de barreiras     |
 | 2,50 – 3,24 | Impacto moderado de barreiras |
 | 3,25 – 4,00 | Alto impacto de barreiras     |
-
----
-
-## Responda a EC-EAC Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-EAC** para obter:
-
-- ✅ Correção automática
-- ✅ Classificação do nível de aderência às intervenções
-- ✅ Interpretação imediata
-- ✅ Acompanhamento longitudinal da evolução clínica
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-EAC Online**](https://econsult.app.br/teste-psicologico/ec-eac)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Aderência às Intervenções (EC-EAC)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da forma como a pessoa atendida compreende, executa e mantém as intervenções propostas ao longo do processo terapêutico. Diferentemente das indicadors psicológicas tradicionais, a EC-EAC não avalia sintomas nem estabelece diagnósticos, oferecendo ao profissional uma leitura estruturada sobre o nível de aderência às estratégias, orientações e tarefas discutidas durante o acompanhamento clínico.
 
 ---
 

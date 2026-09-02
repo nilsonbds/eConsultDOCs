@@ -27,6 +27,24 @@ A indicador foi inspirada nos modelos clássicos de aliança terapêutica, espec
 
 ---
 
+## Responda a EC-EAT Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-EAT** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-EAT Online**](https://econsult.app.br/teste-psicologico/ec-eat)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Aliança Terapêutica (EC-EAT)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da qualidade da relação terapêutica. Inspirada nos modelos clássicos de aliança terapêutica, especialmente na proposta de **Edward Bordin**, a indicador considera dimensões como vínculo, objetivos compartilhados e colaboração no processo terapêutico, auxiliando no acompanhamento da evolução da aliança ao longo do tratamento.
+
+---
+
 ## O que a EC-EAT avalia?
 
 A indicador organiza a avaliação em quatro dimensões:
@@ -81,22 +99,6 @@ Cada dimensão gera um resultado independente, permitindo acompanhar a evoluçã
 | 1,50 – 2,49 | Confiança adequada        |
 | 2,50 – 3,24 | Confiança reduzida        |
 | 3,25 – 4,00 | Baixa confiança           |
-
-## Responda a EC-EAT Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-EAT** para obter:
-
-- ✅ Correção automática
-- ✅ Pontuação automática
-- ✅ Classificação do resultado
-- ✅ Interpretação imediata
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-EAT Online**](https://econsult.app.br/teste-psicologico/ec-eat)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Aliança Terapêutica (EC-EAT)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da qualidade da relação terapêutica. Inspirada nos modelos clássicos de aliança terapêutica, especialmente na proposta de **Edward Bordin**, a indicador considera dimensões como vínculo, objetivos compartilhados e colaboração no processo terapêutico, auxiliando no acompanhamento da evolução da aliança ao longo do tratamento.
 
 ## Como visualizar a EC-EAT no eConsult?
 

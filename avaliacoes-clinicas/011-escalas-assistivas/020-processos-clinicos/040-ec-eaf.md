@@ -41,6 +41,24 @@ Neste artigo você encontrará:
 
 ---
 
+## Responda a EC-EAF Online Gratuitamente
+
+Prefere responder a indicador em vez de calcular o resultado manualmente?
+
+Utilize a versão online da **EC-EAF** para obter:
+
+- ✅ Correção automática
+- ✅ Classificação do nível de autonomia funcional
+- ✅ Interpretação imediata
+- ✅ Acompanhamento longitudinal da evolução clínica
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder EC-EAF Online**](https://econsult.app.br/teste-psicologico/ec-eaf)
+
+> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Autonomia Funcional (EC-EAF)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de conduzir sua rotina, tomar decisões e sustentar seu funcionamento cotidiano com independência. Diferentemente das indicadors psicológicas tradicionais, a EC-EAF não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o nível de autonomia funcional observado ao longo do acompanhamento clínico.
+
+---
+
 ## O que é a EC-EAF?
 
 A EC-EAF foi criada para auxiliar na observação sistemática da capacidade da pessoa atendida de gerir seu cotidiano de forma autônoma.
@@ -171,24 +189,6 @@ O resultado é calculado pela **média de cada fator**, permitindo identificar �
 | 1,50 – 2,49 | Dependência leve de suporte externo |
 | 2,50 – 3,24 | Dependência moderada de suporte externo |
 | 3,25 – 4,00 | Alta dependência de suporte externo |
-
----
-
-## Responda a EC-EAF Online Gratuitamente
-
-Prefere responder a indicador em vez de calcular o resultado manualmente?
-
-Utilize a versão online da **EC-EAF** para obter:
-
-- ✅ Correção automática
-- ✅ Classificação do nível de autonomia funcional
-- ✅ Interpretação imediata
-- ✅ Acompanhamento longitudinal da evolução clínica
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder EC-EAF Online**](https://econsult.app.br/teste-psicologico/ec-eaf)
-
-> Ideal para psicólogos, psiquiatras, terapeutas e outros profissionais da saúde que desejam acompanhar a evolução clínica de seus pacientes. A **Indicador de Autonomia Funcional (EC-EAF)** é um instrumento assistivo desenvolvido pelo **eConsult** para apoiar a avaliação longitudinal da capacidade da pessoa atendida de conduzir sua rotina, tomar decisões e sustentar seu funcionamento cotidiano com independência. Diferentemente das indicadors psicológicas tradicionais, a EC-EAF não possui finalidade diagnóstica, oferecendo ao profissional uma leitura estruturada sobre o nível de autonomia funcional observado ao longo do acompanhamento clínico.
 
 ---
 

@@ -42,6 +42,54 @@ Precisa aplicar a IES-R em sua prática clínica?
 
 ---
 
+## Responda o IES-R Online Gratuitamente
+
+Prefere responder o teste em vez de calcular a pontuação manualmente?
+
+Utilize a versão online do **IES-R** para obter:
+
+- ✅ Correção automática
+- ✅ Pontuação automática
+- ✅ Classificação do resultado
+- ✅ Interpretação imediata
+- ✅ Gratuito e sem necessidade de cadastro
+
+👉 [**Responder IES-R Online**](https://econsult.app.br/teste-psicologico/ies-r)
+
+> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação da **Impact of Event Scale – Revised (IES-R)**, instrumento utilizado para avaliar a intensidade dos sintomas relacionados ao transtorno de estresse pós-traumático (TEPT) após a exposição a um evento potencialmente traumático.
+
+---
+
+### Intrusão
+
+| Escore | Interpretação |
+|----------|----------|
+| 0 – 8 | Baixa intrusão |
+| 9 – 20 | Intrusão moderada |
+| 21 – 32 | Intrusão elevada |
+
+---
+
+### Evasão
+
+| Escore | Interpretação |
+|----------|----------|
+| 0 – 8 | Pouca evitação |
+| 9 – 20 | Evasão moderada |
+| 21 – 36 | Alta evitação |
+
+---
+
+### Hiperativação
+
+| Escore | Interpretação |
+|----------|----------|
+| 0 – 8 | Baixa hiperativação |
+| 9 – 20 | Hiperativação moderada |
+| 21 – 32 | Hiperativação elevada |
+
+---
+
 ## O que é a IES-R?
 
 A Impact of Event Scale – Revised é um instrumento de autorrelato composto por 22 itens que avaliam a intensidade do sofrimento psicológico associado a um evento traumático.
@@ -138,54 +186,6 @@ Também podem ser analisados os escores de cada fator:
 | 24 – 32 | Impacto leve |
 | 33 – 36 | Impacto moderado |
 | 37 – 88 | Alto impacto – provável TEPT clínico |
-
----
-
-## Responda o IES-R Online Gratuitamente
-
-Prefere responder o teste em vez de calcular a pontuação manualmente?
-
-Utilize a versão online do **IES-R** para obter:
-
-- ✅ Correção automática
-- ✅ Pontuação automática
-- ✅ Classificação do resultado
-- ✅ Interpretação imediata
-- ✅ Gratuito e sem necessidade de cadastro
-
-👉 [**Responder IES-R Online**](https://econsult.app.br/teste-psicologico/ies-r)
-
-> Ideal para psicólogos, psiquiatras, médicos, estudantes e outros profissionais da saúde que desejam calcular rapidamente a pontuação da **Impact of Event Scale – Revised (IES-R)**, instrumento utilizado para avaliar a intensidade dos sintomas relacionados ao transtorno de estresse pós-traumático (TEPT) após a exposição a um evento potencialmente traumático.
-
----
-
-### Intrusão
-
-| Escore | Interpretação |
-|----------|----------|
-| 0 – 8 | Baixa intrusão |
-| 9 – 20 | Intrusão moderada |
-| 21 – 32 | Intrusão elevada |
-
----
-
-### Evasão
-
-| Escore | Interpretação |
-|----------|----------|
-| 0 – 8 | Pouca evitação |
-| 9 – 20 | Evasão moderada |
-| 21 – 36 | Alta evitação |
-
----
-
-### Hiperativação
-
-| Escore | Interpretação |
-|----------|----------|
-| 0 – 8 | Baixa hiperativação |
-| 9 – 20 | Hiperativação moderada |
-| 21 – 32 | Hiperativação elevada |
 
 ---
 
