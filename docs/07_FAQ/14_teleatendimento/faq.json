@@ -16,13 +16,13 @@
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
     "pergunta": "Preciso instalar algum aplicativo para usar o teleatendimento?",
-    "resposta": "Não. Tanto o psicólogo quanto o paciente acessam a sala diretamente pelo navegador, sem necessidade de instalação ou criação de contas.",
+    "resposta": "Não. Tanto o psicólogo quanto a pessoa atendida acessam a sala diretamente pelo navegador, sem necessidade de instalação ou criação de contas.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
-    "pergunta": "Como o link de acesso é enviado ao paciente?",
+    "pergunta": "Como o link de acesso é enviado a pessoa atendida?",
     "resposta": "O eConsult gera automaticamente um link único e seguro para cada sessão, que pode ser enviado automaticamente por e-mail ou copiado manualmente pelo profissional para envio via WhatsApp ou outro meio.",
     "categoria": "Teleatendimento",
     "public": true
@@ -92,8 +92,8 @@
   },
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
-    "pergunta": "O que fazer se o paciente não conseguir acessar o link?",
-    "resposta": "Verifique se o link foi corretamente enviado e se o paciente está usando um navegador compatível (Chrome, Edge ou Safari). Caso o problema persista, gere um novo link pelo botão 'Copiar link' no eConsult.",
+    "pergunta": "O que fazer se a pessoa atendida não conseguir acessar o link?",
+    "resposta": "Verifique se o link foi corretamente enviado e se a pessoa atendida está usando um navegador compatível (Chrome, Edge ou Safari). Caso o problema persista, gere um novo link pelo botão 'Copiar link' no eConsult.",
     "categoria": "Teleatendimento",
     "public": true
   },
@@ -106,15 +106,15 @@
   },
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
-    "pergunta": "O paciente precisa criar conta para participar da sessão?",
+    "pergunta": "A pessoa atendida precisa criar conta para participar da sessão?",
     "resposta": "Não. O acesso é feito com um link direto e único, sem necessidade de login, cadastro ou instalação de aplicativo.",
     "categoria": "Teleatendimento",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
-    "pergunta": "É permitido transcrever ou registrar a fala do paciente?",
-    "resposta": "O eConsult não grava nem transcreve atendimentos. A plataforma Daily.co, utilizada para o teleatendimento, possui recursos opcionais de gravação e transcrição, mas o eConsult **não os recomenda**. Segundo o CFP, gravar ou transcrever sessões sem consentimento expresso do paciente é **vedado** e pode comprometer o sigilo profissional.",
+    "pergunta": "É permitido transcrever ou registrar a fala da pessoa atendida?",
+    "resposta": "O eConsult não grava nem transcreve atendimentos. A plataforma Daily.co, utilizada para o teleatendimento, possui recursos opcionais de gravação e transcrição, mas o eConsult **não os recomenda**. Segundo o CFP, gravar ou transcrever sessões sem consentimento expresso da pessoa atendida é **vedado** e pode comprometer o sigilo profissional.",
     "categoria": "Teleatendimento",
     "public": true
   },

@@ -12,12 +12,12 @@ Sua arquitetura combina organização longitudinal de dados, design centrado no 
 
 ## Arquitetura Clínica e Longitudinal
 
-A arquitetura do eConsult foi desenvolvida para sustentar o acompanhamento contínuo de pacientes, casais, famílias e grupos terapêuticos, organizando dados clínicos, operacionais e financeiros de forma integrada e longitudinal.
+A arquitetura do eConsult foi desenvolvida para sustentar o acompanhamento contínuo de indivíduos, casais, famílias e grupos terapêuticos, organizando dados clínicos, operacionais e financeiros de forma integrada e longitudinal.
 
 ### Principais fundamentos
 
 * **Estrutura de dados clínica e longitudinal**
-  O sistema organiza informações de pacientes, atendimentos, marcadores clínicos e registros evolutivos de forma estruturada, favorecendo leitura contínua do caso ao longo do tempo.
+  O sistema organiza informações de pessoas atendidas, atendimentos, marcadores clínicos e registros evolutivos de forma estruturada, favorecendo leitura contínua do caso ao longo do tempo.
 
 * **Modelagem orientada ao cuidado contínuo**
   A hierarquia das funcionalidades acompanha o fluxo real da prática clínica, reduzindo fricções operacionais e favorecendo a continuidade do acompanhamento.
@@ -40,7 +40,7 @@ O design do eConsult segue princípios de **clareza cognitiva, legibilidade clí
   Interface limpa e organizada, com hierarquia visual voltada à leitura rápida de informações clínicas.
 
 * **Layout orientado à tarefa**
-  Os elementos da interface são organizados para reduzir cliques desnecessários e facilitar acesso às informações mais relevantes do paciente ou grupo.
+  Os elementos da interface são organizados para reduzir cliques desnecessários e facilitar acesso às informações mais relevantes da pessoa atendida.
 
 * **Consistência visual sistêmica**
   Padrões visuais são mantidos em toda a plataforma, reduzindo curva de aprendizagem e aumentando previsibilidade de uso.

@@ -64,8 +64,8 @@
   },
   {
     "more_details_url": "/docs/funcionalidades/faturas-cliente/visao",
-    "pergunta": "O que é o painel Faturas do Paciente?",
-    "resposta": "Centraliza todas as cobranças associadas a um paciente ou grupo terapêutico. Permite consultar, quitar, emitir recibos e acompanhar pagamentos atrasados ou antecipados.",
+    "pergunta": "O que é o painel Faturas da Pessoa Atendida?",
+    "resposta": "Centraliza todas as cobranças associadas a uma pessoa atendida. Permite consultar, quitar, emitir recibos e acompanhar pagamentos atrasados ou antecipados.",
     "categoria": "Gestão Financeira",
     "public": true
   },
@@ -93,14 +93,14 @@
   {
     "more_details_url": "/docs/funcionalidades/inadimplencias/visao",
     "pergunta": "O que é o painel Inadimplências?",
-    "resposta": "Identifica pacientes e grupos com pagamentos atrasados. Mostra o número de sessões pendentes, total devido e permite enviar notificações ou registrar perdas contábeis.",
+    "resposta": "Identifica pessoas atendidas com pagamentos atrasados. Mostra o número de sessões pendentes, total devido e permite enviar notificações ou registrar perdas contábeis.",
     "categoria": "Gestão Financeira",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/inadimplencias/visao",
-    "pergunta": "Como notificar um paciente inadimplente?",
-    "resposta": "Na aba 'Pendentes', selecione as faturas em atraso e clique em 'Notificar'. O eConsult envia uma mensagem personalizada via WhatsApp ou e-mail, lembrando o paciente do pagamento.",
+    "pergunta": "Como notificar uma pessoa atendida inadimplente?",
+    "resposta": "Na aba 'Pendentes', selecione as faturas em atraso e clique em 'Notificar'. O eConsult envia uma mensagem personalizada via WhatsApp ou e-mail, lembrando a pessoa atendida do pagamento.",
     "categoria": "Gestão Financeira",
     "public": true
   },
@@ -121,14 +121,14 @@
   {
     "more_details_url": "/docs/funcionalidades/perdas-recuperadas/visao",
     "pergunta": "Como recuperar uma perda?",
-    "resposta": "Ao registrar um novo crédito antecipado para o mesmo paciente, o sistema permite usá-lo para cobrir perdas anteriores. O registro é automaticamente movido para o painel 'Perdas Recuperadas'.",
+    "resposta": "Ao registrar um novo crédito antecipado para o mesma pessoa atendida, o sistema permite usá-lo para cobrir perdas anteriores. O registro é automaticamente movido para o painel 'Perdas Recuperadas'.",
     "categoria": "Gestão Financeira",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-creditos-e-perdas",
     "pergunta": "O que são créditos antecipados?",
-    "resposta": "São valores pagos antes da realização de atendimentos. Eles funcionam como saldo positivo do paciente, que pode ser usado para quitar futuras sessões ou faturas pendentes.",
+    "resposta": "São valores pagos antes da realização de atendimentos. Eles funcionam como saldo positivo da pessoa atendida, que pode ser usado para quitar futuras sessões ou faturas pendentes.",
     "categoria": "Gestão Financeira",
     "public": true
   },
@@ -155,15 +155,15 @@
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-resultados",
-    "pergunta": "Posso acompanhar o desempenho financeiro por paciente ou grupo terapêutico?",
-    "resposta": "Sim. A aba Resultados, no cadastro do paciente ou grupo exibe LTV e CLC, frequência média, ticket médio, perdas e engajamento, ajudando a avaliar a sustentabilidade de cada vínculo terapêutico.",
+    "pergunta": "Posso acompanhar o desempenho financeiro por pessoa atendida?",
+    "resposta": "Sim. A aba Resultados, no cadastro da pessoa atendida exibe LTV e CLC, frequência média, ticket médio, perdas e engajamento, ajudando a avaliar a sustentabilidade de cada vínculo terapêutico.",
     "categoria": "Gestão Financeira",
     "public": true
   },
   {
     "more_details_url": null,
-    "pergunta": "O que significam LTV e CLC mostrados na aba de Resultados do Paciente ou Grupo Terapêutico?",
-    "resposta": "O LTV (Lifetime Value) representa o valor total gerado por um paciente ou grupo ao longo do tempo, considerando todos os atendimentos realizados. Já o CLC (Customer Lifetime Cost) indica o custo médio do acompanhamento — quanto foi investido, em média, para manter aquele vínculo terapêutico. A relação entre LTV e CLC ajuda o profissional a compreender o equilíbrio entre retorno e custo de cada acompanhamento, apoiando decisões clínicas e financeiras.",
+    "pergunta": "O que significam LTV e CLC mostrados na aba de Resultados da pessoa atendida?",
+    "resposta": "O LTV (Lifetime Value) representa o valor total gerado por uma pessoa atendida ao longo do tempo, considerando todos os atendimentos realizados. Já o CLC (Customer Lifetime Cost) indica o custo médio do acompanhamento — quanto foi investido, em média, para manter aquele vínculo terapêutico. A relação entre LTV e CLC ajuda o profissional a compreender o equilíbrio entre retorno e custo de cada acompanhamento, apoiando decisões clínicas e financeiras.",
     "categoria": "Dashboards e Relatórios",
     "public": true
   },
@@ -177,7 +177,7 @@
   {
     "more_details_url": null,
     "pergunta": "Como o eConsult trata dados financeiros conforme a LGPD?",
-    "resposta": "O eConsult segue rigorosamente a LGPD, criptografando todos os dados que possam identificar o paciente — como nome, CPF, e-mail, endereço e informações clínicas. Já os valores financeiros, por não serem considerados dados pessoais sensíveis, não são criptografados, mas são armazenados de forma segura em servidores da AWS, com controle de acesso e auditoria. Nenhum dado é compartilhado com terceiros, e o profissional mantém total controle sobre seus registros.",
+    "resposta": "O eConsult segue rigorosamente a LGPD, criptografando todos os dados que possam identificar a pessoa atendida — como nome, CPF, e-mail, endereço e informações clínicas. Já os valores financeiros, por não serem considerados dados pessoais sensíveis, não são criptografados, mas são armazenados de forma segura em servidores da AWS, com controle de acesso e auditoria. Nenhum dado é compartilhado com terceiros, e o profissional mantém total controle sobre seus registros.",
     "categoria": "Segurança e Privacidade",
     "public": true
   },

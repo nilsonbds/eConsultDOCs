@@ -123,7 +123,7 @@ Você não precisa preencher todas as informações neste momento.
 Basta cadastrar os dados principais para começar a utilizar o sistema rapidamente.
 :::
 
-👉 [veja mais detalhes sobre cadastro de pacientes](/docs/cadastro-clientes-grupos)
+👉 [veja mais detalhes sobre cadastro de pessoas atendidas](/docs/cadastro-clientes-grupos)
 
 ---
 
@@ -348,7 +348,7 @@ Ao finalizar:
 ⚠️ Ao publicar, você poderá definir se o prontuário será:
 
 - 🔒 Privado
-- 🌐 Público: Compartilhado no portal do paciente
+- 🌐 Público: Compartilhado no portal relacional
 
 ---
 

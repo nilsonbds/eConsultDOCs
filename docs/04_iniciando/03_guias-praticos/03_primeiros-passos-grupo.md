@@ -364,7 +364,7 @@ Ao finalizar:
 ⚠️ Ao publicar, você poderá definir se o prontuário será:
 
 - 🔒 Privado
-- 🌐 Público: Compartilhado no portal do paciente
+- 🌐 Público: Compartilhado no portal relacional
 
 ---
 

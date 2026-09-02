@@ -11,7 +11,7 @@ O recurso **Modelos de Anamnese** do eConsult oferece fichas clínicas estrutura
 
 Mais do que formulários estáticos, os modelos foram concebidos para **sustentar a leitura clínica longitudinal**, garantindo que a coleta inicial de dados já esteja alinhada com o acompanhamento ao longo do processo terapêutico.
 
-Essa abordagem combina **rigor técnico, flexibilidade metodológica e fluidez operacional**, beneficiando tanto o profissional quanto o paciente.
+Essa abordagem combina **rigor técnico, flexibilidade metodológica e fluidez operacional**, beneficiando tanto o profissional quanto a pessoa atendida.
 
 ---
 
@@ -48,7 +48,7 @@ O preenchimento ocorre de forma fluida durante a sessão, ajudando a:
 
 ## Integração nativa ao prontuário eletrônico
 
-Todas as informações coletadas na anamnese são automaticamente incorporadas ao **Prontuário Eletrônico do paciente**.
+Todas as informações coletadas na anamnese são automaticamente incorporadas ao **Prontuário Eletrônico da pessoa atendida**.
 
 Isso permite que a anamnese deixe de ser um documento isolado e passe a compor a **linha do tempo clínica do caso**, favorecendo:
 
@@ -77,7 +77,7 @@ Quando combinados com:
 - **Marcadores Clínicos**  
 - **IA Clínica Contextual**  
 - **Síntese Clínica Longitudinal**  
-- **Acompanhamento Inteligente do Paciente**
+- **Acompanhamento Inteligente**
 
 os Modelos de Anamnese passam a funcionar como **a porta de entrada estruturada do raciocínio longitudinal** no eConsult.
 

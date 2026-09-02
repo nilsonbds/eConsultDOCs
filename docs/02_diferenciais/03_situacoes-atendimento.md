@@ -12,7 +12,7 @@ O **Situações de Atendimento** é um painel estratégico do eConsult que reún
 Ele foi desenhado para apoiar o profissional em dois pontos centrais da prática:
 
 - **Redução da sobrecarga administrativa** (menos busca manual por pendências, confirmações, pagamentos e cadastros)  
-- **Sustentação da continuidade do cuidado** (mais visibilidade sobre pacientes sem agendamento, intervalos prolongados e situações que merecem acompanhamento)
+- **Sustentação da continuidade do cuidado** (mais visibilidade sobre pessoas atendidas sem agendamento, intervalos prolongados e situações que merecem acompanhamento)
 
 Em vez de depender da memória, de verificações repetidas ou de controles paralelos, o eConsult ajuda o profissional a **visualizar o que precisa de atenção em um só painel**.
 
@@ -29,7 +29,7 @@ Elas costumam ficar espalhadas entre:
 - cadastro  
 - financeiro  
 - mensagens e comunicações  
-- histórico do paciente/grupo  
+- histórico da pessoa atendida  
 
 O painel de **Situações de Atendimento** foi desenvolvido para consolidar essas ocorrências e permitir uma leitura rápida da prática.
 
@@ -44,9 +44,9 @@ Entre as situações que podem ser identificadas estão:
 - **Vencimentos próximos**
 - **Pagamentos pendentes**
 - **Recebimentos pendentes**
-- **Pacientes sem agendamento no período**
+- **Pessoas atendidas sem agendamento no período**
 - **Retomada após longo intervalo**
-- **Paciente/Grupo sem nenhum agendamento**
+- **Pessoas atendidas sem nenhum agendamento**
 
 O resultado é um painel mais acionável: **menos procura manual e mais clareza sobre onde agir.**
 
@@ -63,7 +63,7 @@ Na prática, o profissional precisa acompanhar continuamente situações como:
 - quais atendimentos ainda não foram registrados  
 - quais pagamentos estão pendentes ou próximos do vencimento  
 - quem deixou de agendar novos atendimentos  
-- quais pacientes estão fora do fluxo habitual de acompanhamento  
+- quais pessoas atendidas estão fora do fluxo habitual de acompanhamento  
 
 Sem uma estrutura organizada, esse monitoramento depende de memória, atenção contínua e checagens manuais em múltiplas telas.
 
@@ -118,7 +118,7 @@ Alguns eventos podem ter valor assistencial importante, especialmente quando aju
 
 - ausência de novos agendamentos após atendimentos recentes  
 - longos intervalos sem sessão  
-- pacientes/grupos que iniciaram contato, mas ainda não entraram em acompanhamento  
+- pessoas atendidas que iniciaram contato, mas ainda não entraram em acompanhamento  
 - oscilações que sugerem perda de continuidade  
 
 Esses sinais não devem ser tratados como diagnóstico nem como conclusão automática.
@@ -156,7 +156,7 @@ O **Situações de Atendimento** se fortalece quando conectado a outros módulos
 - **Agenda e Atendimentos** (confirmações, cancelamentos, remarcações e presença)  
 - **Prontuário Eletrônico** (registros de realização, evolução e documentação)  
 - **Financeiro** (pagamentos, vencimentos e recebimentos pendentes)  
-- **Cadastro de Pacientes/Grupos** (dados obrigatórios e atualização cadastral)  
+- **Cadastro de Pessoas Atendidas** (dados obrigatórios e atualização cadastral)  
 - **Comunicação** (mensagens de caráter operacional, assistencial ou financeiro)  
 
 Na prática, ele funciona como um painel transversal que ajuda o profissional a acompanhar a rotina de forma mais estruturada, sem fragmentação excessiva entre telas.
@@ -176,7 +176,7 @@ Na prática, ele funciona como um painel transversal que ajuda o profissional a 
    Alguns eventos não são só administrativos: eles ajudam a perceber instabilidades, ausência de retorno e possíveis rupturas de acompanhamento.
 
 4. **Ajuda a reduzir a sobrecarga invisível do consultório**  
-   O painel foi pensado para diminuir o esforço cognitivo envolvido em controlar confirmações, pendências, pagamentos e seguimento dos pacientes.
+   O painel foi pensado para diminuir o esforço cognitivo envolvido em controlar confirmações, pendências, pagamentos e seguimento das pessoas atendidas.
 
 ---
 

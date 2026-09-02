@@ -195,7 +195,7 @@ O Portal Relacional segue o mesmo padrão de segurança aplicado aos módulos cl
 - **Links seguros** e integrados ao cadastro.  
 - **Comunicação ética e centralizada.**
 
-> 🔹 O eConsult é um dos poucos sistemas que oferece ao psicólogo **uma Área do Paciente/Cliente realmente funcional e customizável**, conectando prontuário, financeiro e documentação em um só ambiente.
+> 🔹 O eConsult é um dos poucos sistemas que oferece ao psicólogo **uma Portal Relacional/Cliente realmente funcional e customizável**, conectando prontuário, financeiro e documentação em um só ambiente.
 
 ---
 

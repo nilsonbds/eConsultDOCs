@@ -2,12 +2,12 @@
 sidebar_position: 2
 ---
 
-# Acompanhamento Inteligente do Paciente
+# Acompanhamento Inteligente
 ***📈 LEITURA LONGITUDINAL***
 
 ***Uma visão longitudinal que integra clínica, adesão e continuidade do cuidado.***
 
-O **Acompanhamento Inteligente do Paciente** é um painel estratégico do eConsult que reúne, em uma única tela, **informações clínicas, comportamentais e operacionais** relacionadas ao processo terapêutico.
+O **Acompanhamento Inteligente** é um painel estratégico do eConsult que reúne, em uma única tela, **informações clínicas, comportamentais e operacionais** relacionadas ao processo terapêutico.
 
 Ele foi desenhado para apoiar o profissional em dois pontos centrais da prática:
 
@@ -28,7 +28,7 @@ O painel consolida dados que normalmente ficam espalhados em várias telas e fer
 - **Indicadores de adesão e engajamento no acompanhamento**
 - **Sínteses e leituras clínicas assistivas (quando habilitado)**
 
-O resultado é uma visão clara do paciente/grupo: **o que está acontecendo, como o processo evolui e onde vale maior atenção clínica.**
+O resultado é uma visão clara da pessoa atendida: **o que está acontecendo, como o processo evolui e onde vale maior atenção clínica.**
 
 ---
 
@@ -40,7 +40,7 @@ A continuidade do cuidado depende de consistência. Por isso, o eConsult acompan
 - quedas de frequência  
 - variações abruptas de comparecimento  
 - padrões de remarcação repetidos  
-- mudanças relevantes no comportamento operacional do paciente/grupo  
+- mudanças relevantes no comportamento operacional da pessoa atendida  
 
 Esses sinais não são “diagnóstico”, mas funcionam como **alertas de contexto** para decisões de manejo: recontratos, acordos, ajustes de periodicidade, intervenções motivacionais e combinados.
 

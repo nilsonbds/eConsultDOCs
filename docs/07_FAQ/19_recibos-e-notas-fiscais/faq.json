@@ -23,7 +23,7 @@
   {
     "more_details_url": "/docs/funcionalidades/notas-fiscais/visao",
     "pergunta": "Como emitir uma nota fiscal pelo eConsult?",
-    "resposta": "No painel 'Notas Fiscais', clique em 'Incluir Nota Fiscal', selecione o paciente e as faturas correspondentes. Depois, escolha entre cadastrar manualmente os dados da nota ou emitir automaticamente pela integração com a Focus NFe.",
+    "resposta": "No painel 'Notas Fiscais', clique em 'Incluir Nota Fiscal', selecione a pessoa atendida e as faturas correspondentes. Depois, escolha entre cadastrar manualmente os dados da nota ou emitir automaticamente pela integração com a Focus NFe.",
     "categoria": "Recibos e Notas Fiscais",
     "public": true
   },

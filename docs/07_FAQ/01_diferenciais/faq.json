@@ -23,7 +23,7 @@
   {
     "more_details_url": null,
     "pergunta": "Como o eConsult ajuda o psicólogo a manter o foco no cuidado humano?",
-    "resposta": "Ao automatizar tarefas operacionais, estruturar registros clínicos e centralizar informações relevantes, o eConsult reduz a sobrecarga administrativa do profissional. Com isso, o psicólogo pode dedicar mais tempo e atenção ao vínculo terapêutico e ao acompanhamento do paciente.",
+    "resposta": "Ao automatizar tarefas operacionais, estruturar registros clínicos e centralizar informações relevantes, o eConsult reduz a sobrecarga administrativa do profissional. Com isso, o psicólogo pode dedicar mais tempo e atenção ao vínculo terapêutico e ao acompanhamento da pessoa atendida.",
     "categoria": "Propósito e filosofia",
     "public": true
   },
@@ -43,8 +43,8 @@
   },
   {
     "more_details_url": null,
-    "pergunta": "O eConsult tem relação com marketing ou captação de pacientes?",
-    "resposta": "Não. O eConsult não atua com captação de pacientes nem ferramentas de marketing. A proposta da plataforma é apoiar a gestão clínica, a organização profissional e a qualidade do cuidado psicológico.",
+    "pergunta": "O eConsult tem relação com marketing ou captação de pessoas?",
+    "resposta": "Não. O eConsult não atua com captação de pessoas nem ferramentas de marketing. A proposta da plataforma é apoiar a gestão clínica, a organização profissional e a qualidade do cuidado psicológico.",
     "categoria": "Propósito e filosofia",
     "public": true
   },

@@ -107,7 +107,7 @@
   {
     "more_details_url": "/docs/funcionalidades/conta/exportar-conta",
     "pergunta": "Posso exportar todos os meus dados da conta?",
-    "resposta": "Sim. Na aba Dados Gerais, clique em 'Exportar Dados da Conta'. O sistema gerará um arquivo eConsultData.json contendo todas as informações do seu ambiente — incluindo pacientes, atendimentos e finanças — para backup seguro.",
+    "resposta": "Sim. Na aba Dados Gerais, clique em 'Exportar Dados da Conta'. O sistema gerará um arquivo eConsultData.json contendo todas as informações do seu ambiente — incluindo pessoas atendidas, atendimentos e finanças — para backup seguro.",
     "categoria": "Contas, Perfil e Acessos",
     "public": true
   },

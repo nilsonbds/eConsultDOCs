@@ -2,7 +2,7 @@
   {
     "more_details_url": "/docs/funcionalidades/arquivos/visao",
     "pergunta": "Como funciona o gerenciamento de arquivos no eConsult?",
-    "resposta": "O eConsult utiliza uma integração direta com o Google Drive para armazenar, organizar e acessar arquivos clínicos com segurança. Isso inclui documentos, relatórios, imagens, PDFs e outros tipos de arquivos vinculados a pacientes, grupos terapêuticos ou atendimentos.",
+    "resposta": "O eConsult utiliza uma integração direta com o Google Drive para armazenar, organizar e acessar arquivos clínicos com segurança. Isso inclui documentos, relatórios, imagens, PDFs e outros tipos de arquivos vinculados a pessoas atendidas, grupos terapêuticos ou atendimentos.",
     "categoria": "Arquivos",
     "public": true
   },
@@ -29,29 +29,29 @@
   },
   {
     "more_details_url": "/docs/funcionalidades/arquivos/visao",
-    "pergunta": "Onde posso gerenciar os arquivos dos pacientes?",
-    "resposta": "Você pode acessar e gerenciar arquivos diretamente no painel 'Arquivos' do menu principal, na aba 'Arquivos' dentro do cadastro de pacientes ou ainda nos cards de atendimento, através do botão de anexo de arquivos.",
+    "pergunta": "Onde posso gerenciar os arquivos das pessoas atendidas?",
+    "resposta": "Você pode acessar e gerenciar arquivos diretamente no painel 'Arquivos' do menu principal, na aba 'Arquivos' dentro do cadastro de pessoas atendidas ou ainda nos cards de atendimento, através do botão de anexo de arquivos.",
     "categoria": "Arquivos",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/arquivos/visao",
     "pergunta": "Como incluir novos arquivos?",
-    "resposta": "Clique em 'Incluir novo arquivo', selecione o paciente ou grupo terapêutico, escolha o arquivo do seu computador e confirme. O eConsult preencherá automaticamente as informações básicas e enviará o arquivo ao Google Drive vinculado.",
+    "resposta": "Clique em 'Incluir novo arquivo', selecione a pessoa atendida, escolha o arquivo do seu computador e confirme. O eConsult preencherá automaticamente as informações básicas e enviará o arquivo ao Google Drive vinculado.",
     "categoria": "Arquivos",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/arquivos/visao",
     "pergunta": "Posso vincular arquivos a atendimentos específicos?",
-    "resposta": "Sim. Durante o envio, selecione no campo 'Vinculado a' o atendimento desejado. Assim, o arquivo ficará relacionado diretamente à sessão correspondente no prontuário do paciente.",
+    "resposta": "Sim. Durante o envio, selecione no campo 'Vinculado a' o atendimento desejado. Assim, o arquivo ficará relacionado diretamente à sessão correspondente no prontuário da pessoa atendida.",
     "categoria": "Arquivos",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/arquivos/visao",
     "pergunta": "O que significa 'Publicar no Prontuário (PÚBLICO)'?",
-    "resposta": "Essa opção torna o arquivo visível para o paciente na área do prontuário compartilhado. Caso não seja marcada, o arquivo permanecerá restrito ao psicólogo, visível apenas em sua área profissional.",
+    "resposta": "Essa opção torna o arquivo visível para a pessoa atendida na área do prontuário compartilhado. Caso não seja marcada, o arquivo permanecerá restrito ao psicólogo, visível apenas em sua área profissional.",
     "categoria": "Arquivos",
     "public": true
   },
@@ -113,8 +113,8 @@
   },
   {
     "more_details_url": "/docs/funcionalidades/arquivos/visao",
-    "pergunta": "Os arquivos podem ser compartilhados com o paciente?",
-    "resposta": "Sim. Arquivos marcados como 'Públicos' são exibidos na área do paciente. O profissional tem total controle sobre o que é visível, garantindo sigilo e confidencialidade das informações sensíveis.",
+    "pergunta": "Os arquivos podem ser compartilhados com a pessoa atendida?",
+    "resposta": "Sim. Arquivos marcados como 'Públicos' são exibidos no Portal Relacional. O profissional tem total controle sobre o que é visível, garantindo sigilo e confidencialidade das informações sensíveis.",
     "categoria": "Arquivos",
     "public": true
   }

@@ -7,9 +7,9 @@ sidebar_position: 6
 
 ***O núcleo estrutural do acompanhamento longitudinal no eConsult.***
 
-No eConsult, o cadastro de pacientes, casais, famílias e grupos terapêuticos vai muito além de um simples registro administrativo. Cada entrada no sistema se torna uma **entidade clínica ativa**, capaz de organizar, conectar e contextualizar todo o processo de acompanhamento.
+No eConsult, o cadastro de pessoas atendidas (indivíduos, casais, famílias ou grupos) vai muito além de um simples registro administrativo. Cada entrada no sistema se torna uma **entidade clínica ativa**, capaz de organizar, conectar e contextualizar todo o processo de acompanhamento.
 
-Pacientes e grupos funcionam como o **centro organizador do ecossistema eConsult**, integrando de forma coerente:
+Pessoas atendidas funcionam como o **centro organizador do ecossistema eConsult**, integrando de forma coerente:
 
 - dados clínicos  
 - trajetória de atendimentos  
@@ -21,9 +21,9 @@ Isso permite que o profissional não apenas armazene informações, mas **acompa
 
 ---
 
-## Cadastro de Pacientes
+## Cadastro de Pessoas Atendidas
 
-No eConsult, cada paciente possui um **registro único, longitudinal e integrado**.
+No eConsult, cada pessoa atendida possui um **registro único, longitudinal e integrado**.
 
 Esse cadastro deixa de ser um formulário estático e passa a funcionar como o **eixo organizador do caso clínico**, conectando automaticamente:
 
@@ -34,7 +34,7 @@ Esse cadastro deixa de ser um formulário estático e passa a funcionar como o *
 - **Arquivos e documentos** → materiais clínicos e administrativos centralizados  
 - **Indicadores e sinais de adesão** → métricas que ajudam a compreender a continuidade do processo  
 
-Com isso, o profissional passa a ter uma **visão clínica e operacional unificada** de cada paciente.
+Com isso, o profissional passa a ter uma **visão clínica e operacional unificada** de cada pessoa atendida.
 
 ---
 
@@ -67,7 +67,7 @@ Essa arquitetura é especialmente relevante para profissionais que trabalham com
 
 ## Centralização inteligente do contexto
 
-No eConsult, todas as ações relacionadas ao paciente ou ao coletivo (casal, família ou grupo) são automaticamente vinculadas ao seu núcleo de acompanhamento.
+No eConsult, todas as ações relacionadas a pessoa atendida (indivíduo, casal, família ou grupo) são automaticamente vinculadas ao seu núcleo de acompanhamento.
 
 Isso inclui:
 
@@ -138,16 +138,16 @@ A plataforma utiliza recursos como:
 Quando aplicável, os dados podem passar por processos de **anonimização**, reduzindo a possibilidade de identificação direta dos usuários.
 
 :::note
-**Recomendação:** recomenda-se transparência com os pacientes sobre o uso de IA e tratamento de dados na plataforma.
+**Recomendação:** recomenda-se transparência com as pessoas atendidas sobre o uso de IA e tratamento de dados na plataforma.
 :::
 
 ---
 
-## Por que Pacientes e Grupos do eConsult se destacam?
+## Por que Pessoas Atendidas do eConsult se destacam?
 
 ### 1. Não é apenas cadastro — é estrutura clínica do caso
 
-Na maioria dos sistemas, o paciente é apenas um registro administrativo.
+Na maioria dos sistemas, a pessoa atendida é apenas um registro administrativo.
 
 No eConsult, ele funciona como o **núcleo organizador do acompanhamento longitudinal**.
 
@@ -172,7 +172,7 @@ O eConsult permite:
 
 ### 3. Integração longitudinal automática
 
-Tudo o que acontece com o paciente ou grupo é conectado automaticamente ao seu histórico.
+Tudo o que acontece com a pessoa atendida é conectado automaticamente ao seu histórico.
 
 **Valor percebido:** menos fragmentação e mais clareza sobre a trajetória do acompanhamento.
 
@@ -217,12 +217,12 @@ O objetivo é que o sistema se adapte à realidade do acompanhamento — e não 
 
 Na rotina clínica, informações importantes costumam ficar espalhadas entre agenda, prontuário, financeiro, anotações e memória clínica do próprio terapeuta.
 
-O eConsult busca reduzir essa fragmentação, ajudando o profissional a acompanhar seus pacientes com mais continuidade e contexto ao longo do tempo.
+O eConsult busca reduzir essa fragmentação, ajudando o profissional a acompanhar suas pessoas atendidas com mais continuidade e contexto ao longo do tempo.
 
 Isso pode favorecer:
 
 - menos perda de informações entre sessões  
-- mais clareza sobre a trajetória do paciente  
+- mais clareza sobre a trajetória da pessoa atendida  
 - maior continuidade no acompanhamento clínico  
 - redução do retrabalho na organização do histórico  
 - acesso mais rápido ao contexto do caso  
@@ -245,7 +245,7 @@ Na prática, o objetivo não é apenas armazenar registros, mas ajudar o profiss
 
 **eConsult:**  
 
-- paciente/grupo como núcleo do ecossistema  
+- pessoa atendida como núcleo do ecossistema  
 - integração clínica e operacional  
 - suporte estruturado a grupos terapêuticos  
 - base organizada para acompanhamento longitudinal  
@@ -265,7 +265,7 @@ Isso pode favorecer:
 - base mais consistente para análises longitudinais  
 
 :::tip Diferencial real
-No eConsult, pacientes e grupos deixam de ser apenas cadastros estáticos e passam a funcionar como estruturas organizadoras do acompanhamento clínico ao longo do tempo.
+No eConsult, pessoas atendidas deixam de ser apenas cadastros estáticos e passam a funcionar como estruturas organizadoras do acompanhamento clínico ao longo do tempo.
 :::
 
 ---

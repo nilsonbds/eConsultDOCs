@@ -16,7 +16,7 @@
   {
     "more_details_url": "/docs/diferenciais/inteligencia-artificial",
     "pergunta": "Como a IA do eConsult garante segurança e conformidade com a LGPD?",
-    "resposta": "Todos os dados são criptografados e anonimizados antes de qualquer processamento. A IA nunca tem acesso direto a informações identificáveis de pacientes, garantindo conformidade integral com a LGPD.",
+    "resposta": "Todos os dados são criptografados e anonimizados antes de qualquer processamento. A IA nunca tem acesso direto a informações identificáveis de pessoas atendidas, garantindo conformidade integral com a LGPD.",
     "categoria": "Segurança e LGPD",
     "public": true
   },
@@ -29,8 +29,8 @@
   },
   {
     "more_details_url": "/docs/diferenciais/inteligencia-artificial",
-    "pergunta": "O paciente precisa autorizar o uso da IA?",
-    "resposta": "Não. Por lei, dados anonimizados deixam de ser considerados dados pessoais. Mesmo assim, o eConsult recomenda transparência, informando o paciente de forma ética sobre o uso de IA.",
+    "pergunta": "A pessoa atendida precisa autorizar o uso da IA?",
+    "resposta": "Não. Por lei, dados anonimizados deixam de ser considerados dados pessoais. Mesmo assim, o eConsult recomenda transparência, informando a pessoa atendida de forma ética sobre o uso de IA.",
     "categoria": "Segurança e LGPD",
     "public": true
   },
@@ -72,7 +72,7 @@
   {
     "more_details_url": "/docs/diferenciais/prontuario",
     "pergunta": "Como a IA apoia o prontuário clínico?",
-    "resposta": "A IA analisa dados de anamnese, avaliações e engajamento do paciente para sugerir hipóteses diagnósticas, prognósticas e planos terapêuticos. As sugestões são exibidas no prontuário e podem ser aceitas ou ajustadas pelo profissional.",
+    "resposta": "A IA analisa dados de anamnese, avaliações e engajamento da pessoa atendida para sugerir hipóteses diagnósticas, prognósticas e planos terapêuticos. As sugestões são exibidas no prontuário e podem ser aceitas ou ajustadas pelo profissional.",
     "categoria": "Prontuário e Hipóteses",
     "public": true
   },
@@ -86,7 +86,7 @@
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario",
     "pergunta": "A IA gera hipóteses prognósticas também?",
-    "resposta": "Sim. Além de diagnósticos, a IA propõe hipóteses prognósticas, indicando possíveis desfechos ou evoluções esperadas com base no histórico e engajamento do paciente.",
+    "resposta": "Sim. Além de diagnósticos, a IA propõe hipóteses prognósticas, indicando possíveis desfechos ou evoluções esperadas com base no histórico e engajamento da pessoa atendida.",
     "categoria": "Prontuário e Hipóteses",
     "public": true
   },
@@ -100,21 +100,21 @@
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario",
     "pergunta": "Como a IA apoia a evolução do tratamento?",
-    "resposta": "Ela analisa o histórico de atendimentos e o comportamento do paciente, sugerindo ajustes ou reforços no plano de intervenção.",
+    "resposta": "Ela analisa o histórico de atendimentos e o comportamento da pessoa atendida, sugerindo ajustes ou reforços no plano de intervenção.",
     "categoria": "Prontuário e Hipóteses",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao",
-    "pergunta": "O que é a Acompanhamento Inteligente do Paciente?",
-    "resposta": "É um recurso que monitora frequência, pagamentos e interações para calcular um score de engajamento, identificando pacientes em risco de abandono ou declínio de participação.",
+    "pergunta": "O que é a Acompanhamento Inteligente?",
+    "resposta": "É um recurso que monitora frequência, pagamentos e interações para calcular um score de engajamento, identificando pessoas atendidas em risco de abandono ou declínio de participação.",
     "categoria": "Análise de Engajamento",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao",
     "pergunta": "Como o score de engajamento é calculado?",
-    "resposta": "A IA avalia dados históricos de comparecimento, regularidade de pagamentos e tempo entre sessões, gerando uma pontuação que classifica pacientes como estáveis, em declínio ou em risco.",
+    "resposta": "A IA avalia dados históricos de comparecimento, regularidade de pagamentos e tempo entre sessões, gerando uma pontuação que classifica pessoas atendidas como estáveis, em declínio ou em risco.",
     "categoria": "Análise de Engajamento",
     "public": true
   },

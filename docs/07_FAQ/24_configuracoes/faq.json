@@ -9,7 +9,7 @@
   {
     "more_details_url": "/docs/configuracoes",
     "pergunta": "Como o painel de Configurações está organizado?",
-    "resposta": "As configurações são agrupadas em quatro grandes seções: **Agenda**, **Pacientes e Grupos Terapêuticos**, **Finanças** e **Integrações**. Cada grupo reúne recursos específicos, tornando o ajuste do sistema mais intuitivo e modular.",
+    "resposta": "As configurações são agrupadas em quatro grandes seções: **Agenda**, **Pessoas Atendidas**, **Finanças** e **Integrações**. Cada grupo reúne recursos específicos, tornando o ajuste do sistema mais intuitivo e modular.",
     "categoria": "Configurações",
     "public": true
   },
@@ -44,13 +44,13 @@
   {
     "more_details_url": "/docs/configuracoes",
     "pergunta": "O que são grupos etários e como configurá-los?",
-    "resposta": "Os grupos etários permitem classificar pacientes por faixa de idade — por exemplo: Crianças, Adolescentes, Adultos e Idosos. Essa segmentação facilita relatórios e análises de público-alvo. Você pode definir os intervalos em **Configurações > Grupos por Idade**.",
+    "resposta": "Os grupos etários permitem classificar pessoas atendidas por faixa de idade — por exemplo: Crianças, Adolescentes, Adultos e Idosos. Essa segmentação facilita relatórios e análises de público-alvo. Você pode definir os intervalos em **Configurações > Grupos por Idade**.",
     "categoria": "Configurações",
     "public": true
   },
   {
     "more_details_url": "/docs/configuracoes",
-    "pergunta": "Como personalizar o cadastro dos pacientes?",
+    "pergunta": "Como personalizar o cadastro das pessoas atendidas?",
     "resposta": "Usando **Campos Adicionais**, você pode criar novos campos no cadastro (ex.: profissão, convênio, observações clínicas). Eles aparecem nas telas e relatórios e podem ser usados em mensagens automáticas.",
     "categoria": "Configurações",
     "public": true

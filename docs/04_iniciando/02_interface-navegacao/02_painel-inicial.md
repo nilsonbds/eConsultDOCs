@@ -73,7 +73,7 @@ Casos acompanhados regularmente e sem sinais relevantes de atenção no momento.
 
 ## 📋 Situações de Atendimento
 
-O painel **Situações de Atendimento** centraliza os principais eventos e alertas relacionados aos pacientes.
+O painel **Situações de Atendimento** centraliza os principais eventos e alertas relacionados as pessoas atendidas.
 
 ![Situações de Atendimento](../../../static/img/prints/dashboard/003.png)
 
@@ -111,7 +111,7 @@ O módulo de frequência acompanha a regularidade dos atendimentos e ajuda a ide
 
 ### Alto Risco
 
-Pacientes com baixa frequência ou redução significativa de comparecimento.
+Pessoas atendidas com baixa frequência ou redução significativa de comparecimento.
 
 Possíveis sinais:
 
@@ -121,7 +121,7 @@ Possíveis sinais:
 
 ### Atenção
 
-Pacientes com frequência irregular ou oscilante.
+Pessoas atendidas com frequência irregular ou oscilante.
 
 Possíveis sinais:
 
@@ -130,7 +130,7 @@ Possíveis sinais:
 
 ### Frequência Saudável
 
-Pacientes que mantêm regularidade nos atendimentos.
+Pessoas atendidas que mantêm regularidade nos atendimentos.
 
 Características:
 
@@ -257,7 +257,7 @@ A tela inicial foi projetada para funcionar como um painel de controle da rotina
 
 ### Priorize os casos sinalizados
 
-Os indicadores de atenção ajudam a identificar pacientes que podem se beneficiar de acompanhamento mais próximo.
+Os indicadores de atenção ajudam a identificar pessoas atendidas que podem se beneficiar de acompanhamento mais próximo.
 
 ### Utilize os dados em conjunto
 

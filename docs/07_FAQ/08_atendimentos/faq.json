@@ -9,7 +9,7 @@
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/interacao-navegacao",
     "pergunta": "Como visualizar os atendimentos agendados?",
-    "resposta": "O painel mostra os atendimentos no formato de calendário, permitindo alternar entre visão diária ou semanal. Cada card exibe paciente, horário, modalidade, status e valor. O sistema também se adapta automaticamente a telas de notebook ou celular.",
+    "resposta": "O painel mostra os atendimentos no formato de calendário, permitindo alternar entre visão diária ou semanal. Cada card exibe a pessoa atendida, horário, modalidade, status e valor. O sistema também se adapta automaticamente a telas de notebook ou celular.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
@@ -23,7 +23,7 @@
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/interacao-navegacao",
     "pergunta": "Como agendar um novo atendimento?",
-    "resposta": "Basta clicar em 'Agendar atendimento' no painel, escolher paciente, data, horário e modalidade (presencial ou remoto). É possível usar disponibilidades pré-configuradas ou agendar fora delas, além de criar múltiplos atendimentos com frequência semanal, quinzenal ou mensal.",
+    "resposta": "Basta clicar em 'Agendar atendimento' no painel, escolher a pessoa atendida, data, horário e modalidade (presencial ou remoto). É possível usar disponibilidades pré-configuradas ou agendar fora delas, além de criar múltiplos atendimentos com frequência semanal, quinzenal ou mensal.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
@@ -37,14 +37,14 @@
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/remarcar-desmarcar-excluir",
     "pergunta": "Como remarcar um atendimento?",
-    "resposta": "Acesse o card do atendimento e clique em 'Remarcar'. Escolha a nova data e horário, podendo usar as disponibilidades cadastradas. O histórico de remarcações é automaticamente registrado no cadastro do paciente.",
+    "resposta": "Acesse o card do atendimento e clique em 'Remarcar'. Escolha a nova data e horário, podendo usar as disponibilidades cadastradas. O histórico de remarcações é automaticamente registrado no cadastro da pessoa atendida.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/remarcar-desmarcar-excluir",
     "pergunta": "Como desmarcar um atendimento?",
-    "resposta": "Selecione o card e clique em 'Desmarcar'. O sistema solicitará confirmação e registrará o cancelamento no histórico do paciente, liberando o horário para novos agendamentos.",
+    "resposta": "Selecione o card e clique em 'Desmarcar'. O sistema solicitará confirmação e registrará o cancelamento no histórico da pessoa atendida, liberando o horário para novos agendamentos.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
@@ -58,7 +58,7 @@
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/modalidade-confirmacao-realizacao",
     "pergunta": "O que significa confirmar um atendimento?",
-    "resposta": "A confirmação indica que o paciente confirmou presença para o horário agendado. Atendimentos futuros podem estar como 'Confirmado' ou 'Não Confirmado'. O status influencia as previsões de receita e a organização da agenda.",
+    "resposta": "A confirmação indica que a pessoa atendida confirmou presença para o horário agendado. Atendimentos futuros podem estar como 'Confirmado' ou 'Não Confirmado'. O status influencia as previsões de receita e a organização da agenda.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
@@ -86,7 +86,7 @@
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/anotacoes",
     "pergunta": "Como criar anotações clínicas em um atendimento?",
-    "resposta": "Clique no ícone de anotações do card. Insira o conteúdo desejado e, se quiser, marque a opção 'Tornar visível ao paciente' para publicar no prontuário. Você pode editar ou excluir as anotações a qualquer momento.",
+    "resposta": "Clique no ícone de anotações do card. Insira o conteúdo desejado e, se quiser, marque a opção 'Tornar visível a pessoa atendida' para publicar no prontuário. Você pode editar ou excluir as anotações a qualquer momento.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },
@@ -127,8 +127,8 @@
   },
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/teleatendimento",
-    "pergunta": "Como enviar o link do teleatendimento para o paciente?",
-    "resposta": "O link pode ser enviado automaticamente por e-mail ou copiado manualmente para envio por WhatsApp. O paciente acessa diretamente no navegador, sem precisar instalar aplicativos ou criar conta.",
+    "pergunta": "Como enviar o link do teleatendimento para a pessoa atendida?",
+    "resposta": "O link pode ser enviado automaticamente por e-mail ou copiado manualmente para envio por WhatsApp. A pessoa atendida acessa diretamente no navegador, sem precisar instalar aplicativos ou criar conta.",
     "categoria": "Gestão de Atendimentos",
     "public": true
   },

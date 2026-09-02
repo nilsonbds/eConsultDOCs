@@ -2,7 +2,7 @@
   {
     "more_details_url": "/docs/funcionalidades/configuracoes/agenda/marcadores-clinicos",
     "pergunta": "O que são Marcadores Clínicos no eConsult?",
-    "resposta": "Marcadores Clínicos são uma camada estruturada de registro da sessão que transforma observações clínicas em dados organizados, comparáveis e analisáveis ao longo do tempo. Eles não substituem o prontuário narrativo: complementam o registro com dimensões clínicas padronizáveis, permitindo leitura longitudinal da evolução do paciente.",
+    "resposta": "Marcadores Clínicos são uma camada estruturada de registro da sessão que transforma observações clínicas em dados organizados, comparáveis e analisáveis ao longo do tempo. Eles não substituem o prontuário narrativo: complementam o registro com dimensões clínicas padronizáveis, permitindo leitura longitudinal da evolução da pessoa atendida.",
     "categoria": "Marcadores Clínicos",
     "public": true
   },
@@ -93,7 +93,7 @@
   {
     "more_details_url": null,
     "pergunta": "Marcadores Clínicos podem ser usados em atendimento individual e em grupo?",
-    "resposta": "Sim. Em atendimentos individuais, os marcadores ajudam a acompanhar o paciente ao longo das sessões. Em grupos, eles podem registrar aspectos relevantes do processo grupal e de cada participante (quando aplicável), mantendo a visão longitudinal organizada.",
+    "resposta": "Sim. Em atendimentos individuais, os marcadores ajudam a acompanhar a pessoa atendida ao longo das sessões. Em grupos, eles podem registrar aspectos relevantes do processo grupal e de cada participante (quando aplicável), mantendo a visão longitudinal organizada.",
     "categoria": "Marcadores Clínicos",
     "public": true
   },
@@ -113,7 +113,7 @@
   },
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/marcadores-clinicos",
-    "pergunta": "Os Marcadores Clínicos fazem o sistema “diagnosticar” o paciente?",
+    "pergunta": "Os Marcadores Clínicos fazem o sistema “diagnosticar” a pessoa atendida?",
     "resposta": "Não. Marcadores Clínicos não são diagnóstico e não geram diagnóstico automaticamente. Eles registram dimensões do acompanhamento e ajudam a organizar o caso. Qualquer hipótese diagnóstica, quando existente, depende do raciocínio clínico e validação do profissional, com base em dados suficientes.",
     "categoria": "Marcadores Clínicos",
     "public": true
@@ -148,8 +148,8 @@
   },
   {
     "more_details_url": null,
-    "pergunta": "Marcadores Clínicos podem ser compartilhados com o paciente na Área do Paciente?",
-    "resposta": "Isso depende das permissões e do fluxo de publicação definido pelo profissional. O eConsult permite separar conteúdo interno (privado) de conteúdo compartilhável, garantindo que o psicólogo controle o que faz sentido expor ao paciente.",
+    "pergunta": "Marcadores Clínicos podem ser compartilhados com a pessoa atendida no Portal Relacional?",
+    "resposta": "Isso depende das permissões e do fluxo de publicação definido pelo profissional. O eConsult permite separar conteúdo interno (privado) de conteúdo compartilhável, garantindo que o psicólogo controle o que faz sentido expor a pessoa atendida.",
     "categoria": "Marcadores Clínicos",
     "public": true
   },

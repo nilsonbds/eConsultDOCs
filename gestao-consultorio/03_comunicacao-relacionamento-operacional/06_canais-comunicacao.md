@@ -116,7 +116,7 @@ Quanto menos fragmentada a comunicação, maior tende a ser a previsibilidade op
 
 ## Como o eConsult pode apoiar essa organização
 
-No eConsult, a Área do Paciente e os recursos de gestão operacional ajudam a centralizar informações e reduzir dependência de comunicação fragmentada entre múltiplos canais.
+No eConsult, a Portal Relacional e os recursos de gestão operacional ajudam a centralizar informações e reduzir dependência de comunicação fragmentada entre múltiplos canais.
 
 Com recursos voltados à organização operacional, o profissional pode apoiar melhor processos como:
 

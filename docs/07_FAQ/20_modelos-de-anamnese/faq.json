@@ -2,14 +2,14 @@
   {
     "more_details_url": "/docs/funcionalidades/modelo-anamnese/visao",
     "pergunta": "O que são os Modelos de Anamnese no eConsult?",
-    "resposta": "São estruturas personalizáveis que servem como base para o registro da anamnese do paciente dentro do prontuário. Cada modelo é composto por tópicos e campos que organizam as informações de forma lógica e padronizada.",
+    "resposta": "São estruturas personalizáveis que servem como base para o registro da anamnese da pessoa atendida dentro do prontuário. Cada modelo é composto por tópicos e campos que organizam as informações de forma lógica e padronizada.",
     "categoria": "Modelos de Anamnese",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/modelo-anamnese/visao",
     "pergunta": "Qual a diferença entre anamnese e prontuário?",
-    "resposta": "A anamnese é a entrevista inicial e subjetiva, onde o profissional coleta informações sobre histórico, sintomas e hábitos do paciente. O prontuário é o documento completo que reúne todos os registros clínicos, incluindo a anamnese, evoluções, anexos, exames e prescrições.",
+    "resposta": "A anamnese é a entrevista inicial e subjetiva, onde o profissional coleta informações sobre histórico, sintomas e hábitos da pessoa atendida. O prontuário é o documento completo que reúne todos os registros clínicos, incluindo a anamnese, evoluções, anexos, exames e prescrições.",
     "categoria": "Modelos de Anamnese",
     "public": true
   },
@@ -78,15 +78,15 @@
   },
   {
     "more_details_url": "/docs/funcionalidades/modelo-anamnese/visao",
-    "pergunta": "Como os modelos são usados no prontuário do paciente?",
-    "resposta": "Ao criar o prontuário de um novo paciente, você pode selecionar um modelo de anamnese previamente cadastrado. Ele servirá como guia para o preenchimento das informações iniciais e pode ser personalizado durante o atendimento.",
+    "pergunta": "Como os modelos são usados no prontuário da pessoa atendida?",
+    "resposta": "Ao criar o prontuário de uma nova pessoa atendida, você pode selecionar um modelo de anamnese previamente cadastrado. Ele servirá como guia para o preenchimento das informações iniciais e pode ser personalizado durante o atendimento.",
     "categoria": "Modelos de Anamnese",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/modelo-anamnese/visao",
-    "pergunta": "Posso personalizar a anamnese para cada paciente?",
-    "resposta": "Sim. Mesmo que você utilize um modelo base, é possível ajustar ou complementar as informações dentro do prontuário conforme as necessidades específicas de cada paciente.",
+    "pergunta": "Posso personalizar a anamnese para cada pessoa atendida?",
+    "resposta": "Sim. Mesmo que você utilize um modelo base, é possível ajustar ou complementar as informações dentro do prontuário conforme as necessidades específicas de cada pessoa atendida.",
     "categoria": "Modelos de Anamnese",
     "public": true
   },

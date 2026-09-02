@@ -2,7 +2,7 @@
   {
     "more_details_url": null,
     "pergunta": "O que é o eConsult?",
-    "resposta": "O eConsult é uma plataforma de gestão e apoio clínico para psicólogos e profissionais da saúde mental. Ele integra agenda, prontuário, finanças, relatórios, área do paciente e recursos de IA de forma ética, segura e alinhada à LGPD.",
+    "resposta": "O eConsult é uma plataforma de gestão e apoio clínico para psicólogos e profissionais da saúde mental. Ele integra agenda, prontuário, finanças, relatórios, portal relacional da pessoa atendida e recursos de IA de forma ética, segura e alinhada à LGPD.",
     "categoria": "Conceito e propósito",
     "public": true
   },
@@ -36,7 +36,7 @@
   },
   {
     "more_details_url": null,
-    "pergunta": "Como o eConsult protege os dados dos pacientes?",
+    "pergunta": "Como o eConsult protege os dados das pessoas atendidas?",
     "resposta": "O eConsult aplica criptografia, controle de acesso e boas práticas de segurança para proteger dados clínicos. Informações sensíveis não são utilizadas para marketing e não são usadas para treinar modelos de IA.",
     "categoria": "Privacidade, ética e segurança",
     "public": true
@@ -50,7 +50,7 @@
   },
   {
     "more_details_url": null,
-    "pergunta": "Os dados dos pacientes são compartilhados com a OpenAI?",
+    "pergunta": "Os dados das pessoas atendidas são compartilhados com a OpenAI?",
     "resposta": "Não. O eConsult não envia dados pessoais ou identificáveis. Quando há uso de IA, o conteúdo passa por anonimização e filtros de proteção para que apenas informações despersonalizadas sejam processadas.",
     "categoria": "Privacidade, ética e segurança",
     "public": true
@@ -176,8 +176,8 @@
   },
   {
     "more_details_url": null,
-    "pergunta": "O eConsult tem relação com marketing ou captação de pacientes?",
-    "resposta": "Não. O eConsult não faz captação de pacientes e não interfere na relação profissional–paciente. O foco é oferecer uma estrutura ética para o trabalho clínico e administrativo.",
+    "pergunta": "O eConsult tem relação com marketing ou captação de pessoas atendidas?",
+    "resposta": "Não. O eConsult não faz captação de pessoas atendidas e não interfere na relação profissional/pessoa atendida. O foco é oferecer uma estrutura ética para o trabalho clínico e administrativo.",
     "categoria": "Filosofia e diferenciais éticos",
     "public": true
   },

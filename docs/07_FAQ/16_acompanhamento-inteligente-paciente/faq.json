@@ -1,72 +1,72 @@
 [
   {
     "more_details_url": "/docs/funcionalidades/acompanhamento-inteligente-do-paciente/visao",
-    "pergunta": "O que é o Acompanhamento Inteligente do Paciente?",
-    "resposta": "O Acompanhamento Inteligente do Paciente é o módulo de leitura longitudinal do eConsult. Ele organiza dados clínicos e operacionais ao longo do tempo para oferecer ao profissional uma visão sintética do engajamento, da continuidade do cuidado e dos padrões de acompanhamento de cada paciente.",
-    "categoria": "Acompanhamento Inteligente do Paciente",
+    "pergunta": "O que é o Acompanhamento Inteligente?",
+    "resposta": "O Acompanhamento Inteligente é o módulo de leitura longitudinal do eConsult. Ele organiza dados clínicos e operacionais ao longo do tempo para oferecer ao profissional uma visão sintética do engajamento, da continuidade do cuidado e dos padrões de acompanhamento de cada pessoa atendidas.",
+    "categoria": "Acompanhamento Inteligente",
     "public": true
   },
   {
     "more_details_url": null,
-    "pergunta": "Qual é o objetivo do Acompanhamento Inteligente do Paciente?",
-    "resposta": "O objetivo é apoiar o psicólogo na compreensão do comportamento longitudinal dos pacientes. O módulo ajuda a identificar tendências de engajamento, possíveis sinais de descontinuidade e mudanças relevantes no padrão de acompanhamento, sem substituir a avaliação clínica do profissional.",
-    "categoria": "Acompanhamento Inteligente do Paciente",
+    "pergunta": "Qual é o objetivo do Acompanhamento Inteligente?",
+    "resposta": "O objetivo é apoiar o psicólogo na compreensão do comportamento longitudinal das pessoas atendidas. O módulo ajuda a identificar tendências de engajamento, possíveis sinais de descontinuidade e mudanças relevantes no padrão de acompanhamento, sem substituir a avaliação clínica do profissional.",
+    "categoria": "Acompanhamento Inteligente",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "O Acompanhamento Inteligente toma decisões clínicas automaticamente?",
-    "resposta": "Não. O módulo não toma decisões clínicas nem gera diagnósticos. Ele apenas organiza e sintetiza indicadores do histórico do paciente para apoiar a leitura profissional. A interpretação clínica e qualquer decisão terapêutica permanecem integralmente sob responsabilidade do psicólogo.",
-    "categoria": "Acompanhamento Inteligente do Paciente",
+    "resposta": "Não. O módulo não toma decisões clínicas nem gera diagnósticos. Ele apenas organiza e sintetiza indicadores do histórico da pessoa atendida para apoiar a leitura profissional. A interpretação clínica e qualquer decisão terapêutica permanecem integralmente sob responsabilidade do psicólogo.",
+    "categoria": "Acompanhamento Inteligente",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "Que tipo de informações o Acompanhamento Inteligente analisa?",
     "resposta": "O módulo analisa dados já registrados no sistema, como frequência de atendimentos, continuidade ao longo do tempo, recência de sessões e outros indicadores operacionais do acompanhamento. Nenhuma informação é inferida fora do contexto dos registros existentes.",
-    "categoria": "Acompanhamento Inteligente do Paciente",
+    "categoria": "Acompanhamento Inteligente",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "Como o eConsult transforma dados em leitura longitudinal?",
     "resposta": "O sistema organiza os registros históricos em janelas temporais (como visão global, anual e mensal) e aplica modelos de síntese para destacar padrões de estabilidade, crescimento ou possível queda de engajamento. Isso permite ao profissional visualizar tendências que seriam difíceis de perceber manualmente.",
-    "categoria": "Acompanhamento Inteligente do Paciente",
+    "categoria": "Acompanhamento Inteligente",
     "public": true
   },
   {
     "more_details_url": null,
-    "pergunta": "O que significam as classificações comportamentais dos pacientes?",
+    "pergunta": "O que significam as classificações comportamentais das pessoas atendidas?",
     "resposta": "As classificações indicam padrões de engajamento observados ao longo do tempo (por exemplo: crescimento, estabilidade, declínio ou volatilidade). Elas funcionam como sinais de monitoramento para apoiar a organização do cuidado, não como rótulos clínicos ou diagnósticos.",
-    "categoria": "Acompanhamento Inteligente do Paciente",
+    "categoria": "Acompanhamento Inteligente",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "Como o Acompanhamento Inteligente ajuda na prática clínica?",
     "resposta": "O módulo reduz a necessidade de análise manual de históricos extensos e facilita a identificação de mudanças no padrão de acompanhamento. Com isso, o profissional ganha mais clareza para priorizar atenção, planejar intervenções e acompanhar a continuidade do cuidado ao longo do tempo.",
-    "categoria": "Acompanhamento Inteligente do Paciente",
+    "categoria": "Acompanhamento Inteligente",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "O Acompanhamento Inteligente substitui a análise do psicólogo?",
     "resposta": "Não. O recurso é um apoio analítico. Ele organiza sinais e tendências, mas a leitura clínica, o julgamento profissional e as decisões terapêuticas continuam sendo exclusivamente do psicólogo.",
-    "categoria": "Acompanhamento Inteligente do Paciente",
+    "categoria": "Acompanhamento Inteligente",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "Com que frequência as análises são atualizadas?",
     "resposta": "As análises são atualizadas automaticamente conforme novos atendimentos e registros são lançados no sistema, mantendo a leitura longitudinal sempre baseada nos dados mais recentes disponíveis.",
-    "categoria": "Acompanhamento Inteligente do Paciente",
+    "categoria": "Acompanhamento Inteligente",
     "public": true
   },
   {
     "more_details_url": null,
     "pergunta": "Por que o Acompanhamento Inteligente é um diferencial do eConsult?",
     "resposta": "Porque ele vai além da gestão tradicional. Em vez de apenas registrar informações, o eConsult organiza o histórico em uma perspectiva longitudinal estruturada, oferecendo ao profissional uma visão integrada da evolução do acompanhamento — algo raramente presente em sistemas convencionais.",
-    "categoria": "Acompanhamento Inteligente do Paciente",
+    "categoria": "Acompanhamento Inteligente",
     "public": true
   }
 ]

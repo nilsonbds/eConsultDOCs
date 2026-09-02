@@ -37,7 +37,7 @@
   {
     "more_details_url": "/docs/funcionalidades/resultados/graficos/frequencia",
     "pergunta": "O que o gráfico Detalhe da Frequência mostra?",
-    "resposta": "Esse gráfico representa o engajamento dos pacientes. Ele exibe quantos atendimentos foram confirmados, realizados ou não realizados, ajudando a identificar padrões de comparecimento.",
+    "resposta": "Esse gráfico representa o engajamento das pessoas atendidas. Ele exibe quantos atendimentos foram confirmados, realizados ou não realizados, ajudando a identificar padrões de comparecimento.",
     "categoria": "Dashboards",
     "public": true
   },
@@ -142,7 +142,7 @@
   {
     "more_details_url": "/docs/funcionalidades/resultados/indicadores/visao",
     "pergunta": "O que é o card Custos Pagos?",
-    "resposta": "Mostra o valor mínimo, médio e máximo pago por paciente, permitindo avaliar dispersões de preço e oportunidades de padronização ou ajuste de valores.",
+    "resposta": "Mostra o valor mínimo, médio e máximo pago por pessoa atendida, permitindo avaliar dispersões de preço e oportunidades de padronização ou ajuste de valores.",
     "categoria": "Dashboards",
     "public": true
   },
@@ -205,7 +205,7 @@
   {
     "more_details_url": null,
     "pergunta": "Os dashboards consideram grupos terapêuticos?",
-    "resposta": "Sim. Todos os gráficos e indicadores integram automaticamente dados de pacientes individuais e grupos, refletindo a operação completa da clínica.",
+    "resposta": "Sim. Todos os gráficos e indicadores integram automaticamente dados de pessoas atendidas, refletindo a operação completa da clínica.",
     "categoria": "Dashboards",
     "public": true
   },
@@ -219,49 +219,49 @@
   {
     "more_details_url": null,
     "pergunta": "Como o painel garante sigilo e segurança dos dados?",
-    "resposta": "Todos os dados exibidos nos dashboards são processados de forma criptografada, e nenhuma informação sensível do paciente é mostrada sem anonimização, em conformidade com a LGPD.",
+    "resposta": "Todos os dados exibidos nos dashboards são processados de forma criptografada, e nenhuma informação sensível da pessoa atendida é mostrada sem anonimização, em conformidade com a LGPD.",
     "categoria": "Dashboards",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/relatorios/visao",
     "pergunta": "O que é o Painel de Relatórios do eConsult?",
-    "resposta": "O Painel de Relatórios é o módulo responsável pela emissão de relatórios detalhados sobre atendimentos, finanças e pacientes. Ele permite extrair informações estratégicas sobre o desempenho operacional, clínico e financeiro da clínica, facilitando a tomada de decisão e o planejamento a longo prazo.",
+    "resposta": "O Painel de Relatórios é o módulo responsável pela emissão de relatórios detalhados sobre atendimentos, finanças e pessoas atendidas. Ele permite extrair informações estratégicas sobre o desempenho operacional, clínico e financeiro da clínica, facilitando a tomada de decisão e o planejamento a longo prazo.",
     "categoria": "Relatórios",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/relatorios/visao",
     "pergunta": "Qual é o objetivo do Painel de Relatórios?",
-    "resposta": "O objetivo é oferecer uma visão organizada e completa das atividades realizadas no sistema — atendimentos, receitas, despesas e interações com pacientes — permitindo ao profissional acompanhar a evolução da clínica com base em dados reais.",
+    "resposta": "O objetivo é oferecer uma visão organizada e completa das atividades realizadas no sistema — atendimentos, receitas, despesas e interações com pessoas atendidas — permitindo ao profissional acompanhar a evolução da clínica com base em dados reais.",
     "categoria": "Relatórios",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/relatorios/visao",
     "pergunta": "Como acessar o Painel de Relatórios?",
-    "resposta": "No Menu Principal > Relatórios. O painel abrirá com as categorias disponíveis: Atendimentos, Financeiro e Pacientes/Grupos Terapêuticos.",
+    "resposta": "No Menu Principal > Relatórios. O painel abrirá com as categorias disponíveis: Atendimentos, Financeiro e Pessoas Atendidas.",
     "categoria": "Relatórios",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/relatorios/visao",
     "pergunta": "Quais tipos de relatórios o eConsult oferece?",
-    "resposta": "O sistema oferece três tipos principais: **Relatórios de Atendimentos**, **Relatórios Financeiros** e **Relatórios de Pacientes e Grupos Terapêuticos**. Cada tipo permite aplicar filtros e exportar dados personalizados conforme a necessidade do profissional.",
+    "resposta": "O sistema oferece três tipos principais: **Relatórios de Atendimentos**, **Relatórios Financeiros** e **Relatórios de Pessoas Atendidas**. Cada tipo permite aplicar filtros e exportar dados personalizados conforme a necessidade do profissional.",
     "categoria": "Relatórios",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/relatorios/visao",
     "pergunta": "O que são Relatórios de Atendimentos?",
-    "resposta": "São relatórios que consolidam dados sobre atendimentos realizados, cancelados e reagendados. Ajudam a medir o desempenho da equipe, frequência dos pacientes e qualidade dos serviços prestados.",
+    "resposta": "São relatórios que consolidam dados sobre atendimentos realizados, cancelados e reagendados. Ajudam a medir o desempenho da equipe, frequência das pessoas atendidas e qualidade dos serviços prestados.",
     "categoria": "Relatórios",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/relatorios/visao",
     "pergunta": "Quais informações constam nos Relatórios de Atendimentos?",
-    "resposta": "Eles incluem data, horário, paciente, tipo de atendimento, status (realizado, confirmado, ausente), forma de pagamento e valores recebidos ou pendentes, permitindo uma visão completa da rotina clínica.",
+    "resposta": "Eles incluem data, horário, pessoa atendida, tipo de atendimento, status (realizado, confirmado, ausente), forma de pagamento e valores recebidos ou pendentes, permitindo uma visão completa da rotina clínica.",
     "categoria": "Relatórios",
     "public": true
   },
@@ -275,21 +275,21 @@
   {
     "more_details_url": "/docs/funcionalidades/relatorios/visao",
     "pergunta": "Quais informações os Relatórios Financeiros exibem?",
-    "resposta": "Eles exibem valores recebidos, pagos, previstos, créditos antecipados e perdas contábeis, segmentados por período, paciente ou forma de pagamento. Isso permite análises precisas de fluxo de caixa e rentabilidade.",
+    "resposta": "Eles exibem valores recebidos, pagos, previstos, créditos antecipados e perdas contábeis, segmentados por período, pessoa atendida ou forma de pagamento. Isso permite análises precisas de fluxo de caixa e rentabilidade.",
     "categoria": "Relatórios",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/relatorios/visao",
-    "pergunta": "O que são Relatórios de Pacientes e Grupos Terapêuticos?",
-    "resposta": "Esses relatórios apresentam a relação de pacientes individuais e grupos atendidos, frequência, valores associados e desempenho terapêutico, auxiliando na gestão e fidelização de clientes.",
+    "pergunta": "O que são Relatórios de Pessoas Atendidas?",
+    "resposta": "Esses relatórios apresentam a relação de pessoas atendidas (indivíduos, casais, famílias e grupos), frequência, valores associados e desempenho terapêutico, auxiliando na gestão e fidelização de clientes.",
     "categoria": "Relatórios",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/relatorios/visao",
     "pergunta": "Como gerar um relatório personalizado?",
-    "resposta": "Ao clicar em 'Imprimir' em qualquer tipo de relatório, o sistema abrirá uma tela com filtros específicos — como período, tipo de atendimento, paciente e forma de pagamento. Após aplicar os filtros, basta escolher o formato desejado (CSV ou PDF).",
+    "resposta": "Ao clicar em 'Imprimir' em qualquer tipo de relatório, o sistema abrirá uma tela com filtros específicos — como período, tipo de atendimento, pessoa atendida e forma de pagamento. Após aplicar os filtros, basta escolher o formato desejado (CSV ou PDF).",
     "categoria": "Relatórios",
     "public": true
   },
@@ -323,15 +323,15 @@
   },
   {
     "more_details_url": "/docs/funcionalidades/relatorios/visao",
-    "pergunta": "Posso gerar relatórios de um único paciente?",
-    "resposta": "Sim. Ao selecionar o filtro 'Paciente', o sistema gera relatórios personalizados apenas para aquele paciente, reunindo histórico de atendimentos, faturas, créditos e perdas relacionadas.",
+    "pergunta": "Posso gerar relatórios de uma única pessoa atendida?",
+    "resposta": "Sim. Ao selecionar o filtro 'Pessoa Atendida', o sistema gera relatórios personalizados apenas para aquela pessoa atendida, reunindo histórico de atendimentos, faturas, créditos e perdas relacionadas.",
     "categoria": "Relatórios",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/relatorios/visao",
     "pergunta": "Os relatórios incluem grupos terapêuticos?",
-    "resposta": "Sim. Assim como os pacientes individuais, os grupos terapêuticos também aparecem nos relatórios de atendimentos e financeiros, permitindo visão global das atividades coletivas.",
+    "resposta": "Sim. Assim como as pessoas atendidas (indivíduos, casais, famílias e grupos) também aparecem nos relatórios de atendimentos e financeiros, permitindo visão global das atividades coletivas.",
     "categoria": "Relatórios",
     "public": true
   },
@@ -345,7 +345,7 @@
   {
     "more_details_url": null,
     "pergunta": "Os relatórios respeitam a LGPD?",
-    "resposta": "Sim. Todos os relatórios são gerados com anonimização e controle de acesso. Informações sensíveis de pacientes só são exibidas ao profissional responsável pelo atendimento.",
+    "resposta": "Sim. Todos os relatórios são gerados com anonimização e controle de acesso. Informações sensíveis de pessoas atendidas só são exibidas ao profissional responsável pelo atendimento.",
     "categoria": "Relatórios",
     "public": true
   },

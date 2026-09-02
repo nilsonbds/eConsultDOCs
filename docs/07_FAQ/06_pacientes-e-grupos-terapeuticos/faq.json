@@ -1,142 +1,142 @@
 [
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/visao-clientes-grupos",
-    "pergunta": "O que é o painel Pacientes e Grupos Terapêuticos?",
-    "resposta": "É o módulo do eConsult dedicado à gestão completa de pacientes e grupos terapêuticos. Ele reúne informações clínicas, administrativas e financeiras em uma interface organizada por abas, permitindo ao profissional acompanhar a jornada terapêutica com segurança e eficiência.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "pergunta": "O que é o painel Pessoas Atendidas?",
+    "resposta": "É o módulo do eConsult dedicado à gestão completa de pessoas atendidas (indivíduos, casais, famílias ou grupos). Ele reúne informações clínicas, administrativas e financeiras em uma interface organizada por abas, permitindo ao profissional acompanhar a jornada terapêutica com segurança e eficiência.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/cadastro",
-    "pergunta": "Como cadastrar um novo paciente ou grupo terapêutico?",
-    "resposta": "No painel 'Pacientes e Grupos', clique em 'Incluir Paciente ou Grupo', selecione o tipo (individual ou grupo), preencha os campos obrigatórios e clique em 'Incluir'. O registro será criado e você poderá complementar os dados nas abas específicas.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "pergunta": "Como cadastrar uma nova pessoa atendida?",
+    "resposta": "No painel 'Pessoas Atendidas', clique em 'Incluir Pessoa Atendida', selecione o tipo (individual ou grupo), preencha os campos obrigatórios e clique em 'Incluir'. O registro será criado e você poderá complementar os dados nas abas específicas.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/cadastro",
-    "pergunta": "Quais abas compõem o cadastro de um paciente ou grupo?",
-    "resposta": "O cadastro é organizado em abas: Geral, Área do Paciente, Campos Adicionais, Membros do Grupo (no caso de grupos terapêuticos), Endereços, Atendimentos, Remarcações e Desmarcações, Faturas, Créditos e Perdas, Arquivos, Prontuário e Resultados. Cada aba centraliza informações específicas, facilitando o gerenciamento.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "pergunta": "Quais abas compõem o cadastro de uma pessoa atendida?",
+    "resposta": "O cadastro é organizado em abas: Geral, Portal Relacional, Campos Adicionais, Membros do Grupo (no caso de grupos terapêuticos), Endereços, Atendimentos, Remarcações e Desmarcações, Faturas, Créditos e Perdas, Arquivos, Prontuário e Resultados. Cada aba centraliza informações específicas, facilitando o gerenciamento.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/a_aba-geral",
     "pergunta": "O que é a aba Geral?",
-    "resposta": "A aba Geral concentra as principais informações cadastrais: nome, sexo, tipo de atendimento, valor padrão, forma de pagamento e status (ativo ou inativo). É a base para os demais registros do paciente ou grupo.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "resposta": "A aba Geral concentra as principais informações cadastrais: nome, sexo, tipo de atendimento, valor padrão, forma de pagamento e status (ativo ou inativo). É a base para os demais registros da pessoa atendida.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-area-cliente",
-    "pergunta": "Como funciona a aba Área do Paciente?",
-    "resposta": "Ela permite configurar o que será visível para o paciente em sua área exclusiva — como dados pessoais, endereços, arquivos, faturas e evoluções clínicas. O profissional mantém controle total sobre o que é compartilhado.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "pergunta": "Como funciona a aba Portal Relacional?",
+    "resposta": "Ela permite configurar o que será visível para a pessoa atendida em sua área exclusiva — como dados pessoais, endereços, arquivos, faturas e evoluções clínicas. O profissional mantém controle total sobre o que é compartilhado.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-adicionais",
     "pergunta": "O que são os Campos Adicionais?",
     "resposta": "Na aba 'Campos Adicionais', o profissional pode criar campos personalizados para incluir informações complementares relevantes ao contexto terapêutico, sem interferir na estrutura padrão do sistema.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-grupo",
     "pergunta": "Como gerenciar membros de um grupo terapêutico?",
-    "resposta": "Na aba 'Membros do Grupo', é possível vincular pacientes existentes como membros, visualizar os participantes e remover integrantes quando necessário. As alterações são aplicadas instantaneamente e mantêm o histórico clínico de cada membro.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "resposta": "Na aba 'Membros do Grupo', é possível vincular pessoas atendidas existentes como membros, visualizar os participantes e remover integrantes quando necessário. As alterações são aplicadas instantaneamente e mantêm o histórico clínico de cada membro.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-atendimentos",
     "pergunta": "Como funciona a aba Atendimentos?",
     "resposta": "A aba Atendimentos exibe todo o histórico de sessões realizadas e programadas, tanto individuais quanto em grupo. Permite incluir anotações, arquivos e marcadores clínicos, além de registrar presenças e pagamentos de grupos terapêuticos.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-atendimentos",
     "pergunta": "Como agendar múltiplos atendimentos de uma vez?",
     "resposta": "Na aba Atendimentos, clique em 'Agendar Atendimento', informe a quantidade, periodicidade (semanal, quinzenal ou mensal), data inicial e horários desejados. O sistema gera todos os agendamentos automaticamente conforme suas disponibilidades.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-desmarcacoes-remarcacoes",
     "pergunta": "O que mostra a aba Remarcações e Desmarcações?",
     "resposta": "Ela registra todas as alterações e cancelamentos de atendimentos. É possível visualizar datas originais e novas, filtrar por período e até excluir registros desnecessários, mantendo o histórico completo das movimentações de agenda.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-faturas",
-    "pergunta": "Como acompanhar as faturas do paciente?",
-    "resposta": "Na aba Faturas, o eConsult mostra todos os recebimentos vinculados ao paciente, com status (pendente, recebido, perda, etc.), valores, formas de pagamento e links para recibos. É possível filtrar por período ou tipo de atendimento.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "pergunta": "Como acompanhar as faturas da pessoa atendida?",
+    "resposta": "Na aba Faturas, o eConsult mostra todos os recebimentos vinculados a pessoa atendida, com status (pendente, recebido, perda, etc.), valores, formas de pagamento e links para recibos. É possível filtrar por período ou tipo de atendimento.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-creditos-e-perdas",
     "pergunta": "Para que serve a aba Créditos e Perdas?",
     "resposta": "Permite registrar créditos antecipados e perdas contábeis. Créditos antecipados são valores recebidos antes da prestação do serviço e podem ser usados para quitar futuras faturas; perdas registram valores não recebidos, garantindo acurácia contábil.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-creditos-e-perdas",
     "pergunta": "Como registrar um crédito antecipado?",
     "resposta": "Na aba Créditos e Perdas, clique em 'Incluir Crédito Antecipado', informe valor, data e forma de pagamento. Créditos com data futura aparecem como 'Previstos' e são automaticamente sinalizados no painel de Alertas até serem realizados.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-creditos-e-perdas",
     "pergunta": "Como usar um crédito antecipado para pagar um atendimento?",
-    "resposta": "Na aba Faturas, edite uma fatura pendente e selecione 'CRÉDITO ANTECIPADO' como forma de pagamento. O sistema desconta o valor do saldo disponível e atualiza automaticamente o extrato do paciente.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "resposta": "Na aba Faturas, edite uma fatura pendente e selecione 'CRÉDITO ANTECIPADO' como forma de pagamento. O sistema desconta o valor do saldo disponível e atualiza automaticamente o extrato da pessoa atendida.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-creditos-e-perdas",
     "pergunta": "Como registrar uma perda financeira?",
     "resposta": "Na aba Faturas, edite o atendimento e selecione 'PERDA (BAIXA CONTÁBIL)' como forma de pagamento. O sistema removerá o valor da lista de contas a receber e registrará a perda para manter os relatórios precisos.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-arquivos",
     "pergunta": "O que é a aba Arquivos?",
-    "resposta": "É o espaço destinado ao armazenamento de documentos e arquivos vinculados ao paciente. Funciona de forma integrada com o Google Drive, garantindo segurança, backups automáticos e organização eficiente de relatórios, imagens e outros materiais.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "resposta": "É o espaço destinado ao armazenamento de documentos e arquivos vinculados a pessoa atendida. Funciona de forma integrada com o Google Drive, garantindo segurança, backups automáticos e organização eficiente de relatórios, imagens e outros materiais.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-arquivos",
-    "pergunta": "Como anexar um arquivo ao paciente?",
-    "resposta": "Na aba Arquivos, clique em 'Incluir novo arquivo', selecione o documento e marque se deseja torná-lo público (visível ao paciente). Os arquivos são armazenados diretamente no seu Google Drive vinculado ao eConsult.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "pergunta": "Como anexar um arquivo a pessoa atendida?",
+    "resposta": "Na aba Arquivos, clique em 'Incluir novo arquivo', selecione o documento e marque se deseja torná-lo público (visível a pessoa atendida). Os arquivos são armazenados diretamente no seu Google Drive vinculado ao eConsult.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario",
     "pergunta": "O que é o Prontuário no eConsult?",
-    "resposta": "O Prontuário reúne todas as informações clínicas — anamneses, evoluções, avaliações e anexos. Cada paciente ou grupo pode ter múltiplos prontuários, que podem estar em elaboração, publicados como privados ou compartilhados como públicos.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "resposta": "O Prontuário reúne todas as informações clínicas — anamneses, evoluções, avaliações e anexos. Cada pessoa atendida pode ter múltiplos prontuários, que podem estar em elaboração, publicados como privados ou compartilhados como públicos.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-prontuario",
     "pergunta": "Posso usar IA na elaboração de prontuários?",
-    "resposta": "Sim. A aba Prontuário integra recursos de inteligência artificial para sugerir hipóteses diagnósticas, prognósticas e planos de tratamento com base nos dados clínicos e no engajamento do paciente. O profissional sempre revisa e valida as sugestões antes de publicar.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "resposta": "Sim. A aba Prontuário integra recursos de inteligência artificial para sugerir hipóteses diagnósticas, prognósticas e planos de tratamento com base nos dados clínicos e no engajamento da pessoa atendida. O profissional sempre revisa e valida as sugestões antes de publicar.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/clientes-grupos/cadastro/aba-resultados",
     "pergunta": "O que é a aba Resultados?",
-    "resposta": "Apresenta gráficos e indicadores sobre a evolução clínica e financeira do paciente. Mostra LTV, inadimplência, frequência, perdas, ocupação e ticket médio, permitindo análises estratégicas de engajamento e rentabilidade.",
-    "categoria": "Gestão de Pacientes e Grupos Terapêuticos",
+    "resposta": "Apresenta gráficos e indicadores sobre a evolução clínica e financeira da pessoa atendida. Mostra LTV, inadimplência, frequência, perdas, ocupação e ticket médio, permitindo análises estratégicas de engajamento e rentabilidade.",
+    "categoria": "Gestão de Pessoas Atendidas",
     "public": true
   }
 ]

@@ -106,7 +106,7 @@ Você pode utilizar os marcadores clínicos diretamente nas anotações clínica
 
    ![Atendimento](../../../static/img/prints/atendimento/100.png)
 
-1. Marque o campo "Compartilhar com a pessoa atendida" se quiser disponibilizar para que o paciente visualize a anotação na Área do Paciente e acione o botão "Salvar anotação clínica".
+1. Marque o campo "Compartilhar com a pessoa atendida" se quiser disponibilizar para que o paciente visualize a anotação no Portal Relacional e acione o botão "Salvar anotação clínica".
 
    ![Atendimento](../../../static/img/prints/atendimento/104.png)
 

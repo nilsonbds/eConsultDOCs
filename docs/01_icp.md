@@ -17,7 +17,7 @@ Se você trabalha com:
 
 o eConsult foi pensado para sua rotina.
 
-Mais do que um sistema de agenda e prontuário, o eConsult ajuda a transformar informações clínicas dispersas em uma leitura estruturada da trajetória do paciente ao longo do acompanhamento.
+Mais do que um sistema de agenda e prontuário, o eConsult ajuda a transformar informações clínicas dispersas em uma leitura estruturada da trajetória da pessoa atendida ao longo do acompanhamento.
 
 ---
 
@@ -46,7 +46,7 @@ em um único ambiente.
 O eConsult foi desenvolvido prioritariamente para psicólogos que desejam:
 
 - estruturar melhor sua prática clínica  
-- acompanhar pacientes ao longo do tempo  
+- acompanhar pessoas atendidas ao longo do tempo  
 - integrar gestão e raciocínio clínico  
 - reduzir sobrecarga operacional  
 - organizar informações clínicas de forma mais estratégica  
@@ -81,11 +81,11 @@ O eConsult é especialmente indicado para quem:
 
 ## 👥 Atendimento individual, casal, família e grupos — de forma real
 
-O eConsult não adapta atendimentos coletivos como se fossem pacientes individuais.
+O eConsult não adapta atendimentos coletivos como se fossem individuais.
 
 A plataforma possui estrutura própria para:
 
-- pacientes individuais  
+- individuos  
 - casais  
 - famílias  
 - grupos terapêuticos  
@@ -104,7 +104,7 @@ O eConsult atende especialmente profissionais que enfrentam desafios como:
 - excesso de tempo gasto com tarefas administrativas  
 - dificuldade para acompanhar agenda e comparecimento  
 - informações clínicas dispersas  
-- dificuldade de visualizar evolução do paciente  
+- dificuldade de visualizar evolução da pessoa atendida  
 - retrabalho na documentação clínica  
 - necessidade de integrar financeiro, prontuário e atendimentos  
 
@@ -175,7 +175,7 @@ Centralize em um único ambiente:
 - histórico do acompanhamento  
 - hipóteses assistidas por IA  
 
-permitindo uma leitura mais integrada da trajetória do paciente.
+permitindo uma leitura mais integrada da trajetória da pessoa atendida.
 
 ---
 
@@ -244,7 +244,7 @@ Entre os recursos disponíveis:
 
 ## 👥 Cadastro de Pessoas Atendidas
 
-Gerencie pacientes, casais, famílias e grupos com visão estruturada e estratégica.
+Gerencie indivíduos, casais, famílias e grupos com visão estruturada e estratégica.
 
 - Visualização clara dos vínculos  
 - Organização eficiente das demandas  
@@ -327,7 +327,7 @@ O eConsult costuma gerar mais valor para profissionais que:
 - desejam integrar clínica e gestão  
 - atendem casos recorrentes ou complexos  
 - realizam atendimentos individuais ou coletivos  
-- desejam maior clareza sobre a evolução clínica dos pacientes  
+- desejam maior clareza sobre a evolução clínica das pessoas atendidas  
 
 ---
 

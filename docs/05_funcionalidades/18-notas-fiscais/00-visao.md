@@ -10,13 +10,13 @@ O painel Notas Fiscais reúne, de forma clara e organizada, todos os registros r
 
 ## Card de Nota Fiscal
 
-Cada registro de nota fiscal aparece em formato de card, contendo:
+Cada registro de nota fiscal aparece em formato de *card*, contendo:
 
 - **Referência:** número de controle interno da nota.
 
 - **Nota Fiscal:** número e série.
 
-- **Paciente:** nome do paciente vinculado.
+- **Cliente:** nome da pessoa atendida (cliente) vinculada.
 
 - **Data de Emissão:** data da emissão da nota.
 
@@ -56,9 +56,9 @@ Siga os passos:
 
 1. Acione o botão "Incluir Nota Fiscal" ![Notas Fiscais](../../../static/img/prints/buttons/btn_add.png).
 
-1. Selecione um paciente.
+1. Selecione uma pessoa atendida.
 
-1. O sistema mostra as faturas já recebidas do paciente selecionado.
+1. O sistema mostra as faturas já recebidas da pessoa atendida selecionada.
 
 1. Marque as faturas que não tenham ainda nota fiscal associada.
 

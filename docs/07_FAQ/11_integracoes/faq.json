@@ -23,14 +23,14 @@
   {
     "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/googledrive",
     "pergunta": "O que é a integração com o Google Drive?",
-    "resposta": "A integração com o Google Drive conecta o eConsult ao seu armazenamento na nuvem, permitindo salvar relatórios, documentos e arquivos de pacientes diretamente na sua conta do Google Drive, com segurança e sincronização automática.",
+    "resposta": "A integração com o Google Drive conecta o eConsult ao seu armazenamento na nuvem, permitindo salvar relatórios, documentos e arquivos de pessoas atendidas diretamente na sua conta do Google Drive, com segurança e sincronização automática.",
     "categoria": "Google Drive",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/googledrive",
     "pergunta": "Quais benefícios o Google Drive oferece no eConsult?",
-    "resposta": "Oferece armazenamento seguro, backups automáticos, organização centralizada de arquivos e compartilhamento direto com pacientes sem sair do eConsult.",
+    "resposta": "Oferece armazenamento seguro, backups automáticos, organização centralizada de arquivos e compartilhamento direto com pessoas atendidas sem sair do eConsult.",
     "categoria": "Google Drive",
     "public": true
   },
@@ -100,7 +100,7 @@
   {
     "more_details_url": "/docs/funcionalidades/configuracoes/integracoes/pix",
     "pergunta": "O status do pagamento PIX é atualizado automaticamente?",
-    "resposta": "Não. No PIX direto, o psicólogo precisa confirmar manualmente o recebimento no sistema. É recomendável solicitar o comprovante ao paciente.",
+    "resposta": "Não. No PIX direto, o psicólogo precisa confirmar manualmente o recebimento no sistema. É recomendável solicitar o comprovante a pessoa atendida.",
     "categoria": "PIX",
     "public": true
   },

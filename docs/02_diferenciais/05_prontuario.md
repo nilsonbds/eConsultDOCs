@@ -11,11 +11,11 @@ O **Prontuário Eletrônico** do eConsult foi concebido para ir além do simples
 
 A plataforma atende tanto **atendimentos individuais** quanto **grupos terapêuticos**, permitindo criar:
 
-- prontuários individuais por paciente  
+- prontuários individuais por pessoa atendida  
 - prontuários individuais por membro do grupo  
-- prontuários coletivos do grupo terapêutico  
+- prontuários coletivos do casal, família ou grupo terapêutico  
 
-Isso garante organização clínica sem perda de especificidade — um diferencial relevante na prática multipaciente.
+Isso garante organização clínica sem perda de especificidade — um diferencial relevante na prática multipaciente/multicliente.
 
 ---
 
@@ -39,7 +39,7 @@ Esse modelo:
 Após a publicação, o profissional pode decidir se o prontuário será:
 
 - **privado**  
-- **compartilhado com o paciente/grupo**  
+- **compartilhado com a pessoa atendida**  
 
 mantendo controle total sobre a visibilidade.
 
@@ -91,7 +91,7 @@ A plataforma utiliza:
 Quando recursos de IA ou análises externas são utilizados, os dados passam por processos de **anonimização**, removendo identificadores diretos e indiretos.
 
 :::note  
-**Recomendação:** embora a anonimização atenda aos requisitos legais, recomenda-se transparência com o paciente sobre o uso de IA na plataforma.  
+**Recomendação:** embora a anonimização atenda aos requisitos legais, recomenda-se transparência com a pessoa atendida sobre o uso de IA na plataforma.  
 :::
 
 ---
@@ -110,7 +110,7 @@ A IA atua como **suporte ao raciocínio clínico**, considerando um contexto pro
 - área de atuação do profissional  
 - abordagem terapêutica  
 - marcadores clínicos registrados  
-- engajamento e adesão do paciente  
+- engajamento e adesão da pessoa atendida  
 - avaliações psicológicas aplicadas  
 - histórico de anotações clínicas  
 
@@ -139,7 +139,7 @@ Esse controle é especialmente relevante para:
 - hipóteses em construção  
 - formulações clínicas sensíveis  
 - documentos técnicos  
-- comunicação progressiva com o paciente  
+- comunicação progressiva com a pessoa atendida  
 
 ---
 
@@ -176,7 +176,7 @@ A IA considera:
 - especialidade  
 - abordagem  
 - dados clínicos reais  
-- trajetória do paciente  
+- trajetória da pessoa atendida  
 
 Não é autocomplete genérico — é **suporte clínico contextualizado**.
 

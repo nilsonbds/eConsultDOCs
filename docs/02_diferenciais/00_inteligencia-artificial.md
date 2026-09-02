@@ -11,7 +11,7 @@ Diferente de soluções genéricas, a IA do eConsult opera de forma **contextual
 - marcadores clínicos  
 - avaliações psicológicas  
 - dados de engajamento  
-- histórico longitudinal do paciente ou grupo  
+- histórico longitudinal da pessoa atendida
 
 Além disso, o sistema **adapta automaticamente o contexto da IA** conforme:
 
@@ -40,16 +40,16 @@ Essas medidas reduzem significativamente o risco de acesso não autorizado, mesm
 
 ### Anonimização para processamento assistivo
 
-Quando aplicável, os dados passam por processos de **anonimização antes de qualquer processamento externo**, removendo identificadores diretos e indiretos de pacientes e grupos terapêuticos.
+Quando aplicável, os dados passam por processos de **anonimização antes de qualquer processamento externo**, removendo identificadores diretos e indiretos de pessoas atendidas.
 
 Com isso:
 
 - preserva-se a utilidade analítica  
-- protege-se a identidade do paciente  
+- protege-se a identidade da pessoa atendida  
 - mantém-se conformidade com a LGPD  
 
 :::note  
-**Boa prática recomendada:** embora a anonimização reduza riscos, recomenda-se que o profissional informe seus pacientes sobre o uso de IA como ferramenta assistiva, reforçando transparência e confiança na relação terapêica.  
+**Boa prática recomendada:** embora a anonimização reduza riscos, recomenda-se que o profissional informe suas pessoas atendidas sobre o uso de IA como ferramenta assistiva, reforçando transparência e confiança na relação terapêica.  
 :::
 
 ---

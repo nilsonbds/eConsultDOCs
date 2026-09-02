@@ -2,7 +2,7 @@
   {
     "more_details_url": "/docs/diferenciais/testes-psicologicos",
     "pergunta": "O que são as análises e escalas psicológicas no eConsult?",
-    "resposta": "São instrumentos psicométricos validados e de uso livre integrados ao prontuário do paciente, permitindo aplicação digital, pontuação automática e geração de relatórios interpretativos imediatos. Eles apoiam a triagem, acompanhamento e tomada de decisão clínica de forma ética e embasada.",
+    "resposta": "São instrumentos psicométricos validados e de uso livre integrados ao prontuário da pessoa atendida, permitindo aplicação digital, pontuação automática e geração de relatórios interpretativos imediatos. Eles apoiam a triagem, acompanhamento e tomada de decisão clínica de forma ética e embasada.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
@@ -22,7 +22,7 @@
   },
   {
     "more_details_url": "/docs/diferenciais/testes-psicologicos",
-    "pergunta": "Os resultados das escalas podem ser vistos pelo paciente?",
+    "pergunta": "Os resultados das escalas podem ser vistos pela pessoa atendida?",
     "resposta": "Não diretamente. Os resultados ficam disponíveis apenas ao psicólogo responsável. Caso o profissional deseje, pode compartilhar interpretações revisadas e validadas, garantindo sigilo e controle ético das informações.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
@@ -58,14 +58,14 @@
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/analises-psicologicas",
     "pergunta": "Como as avaliações são integradas ao prontuário?",
-    "resposta": "Cada aplicação é automaticamente vinculada ao prontuário do paciente, com data, responsável, pontuação e relatório. Isso garante rastreabilidade e histórico longitudinal para acompanhamento clínico.",
+    "resposta": "Cada aplicação é automaticamente vinculada ao prontuário da pessoa atendida, com data, responsável, pontuação e relatório. Isso garante rastreabilidade e histórico longitudinal para acompanhamento clínico.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/analises-psicologicas",
-    "pergunta": "É possível acompanhar a evolução do paciente pelas escalas?",
-    "resposta": "Sim. O eConsult organiza os resultados por paciente ou grupo terapêutico, permitindo comparar pontuações, visualizar gráficos de evolução e gerar relatórios periódicos de progresso clínico.",
+    "pergunta": "É possível acompanhar a evolução da pessoa atendida pelas escalas e instrumentos psicométricos?",
+    "resposta": "Sim. O eConsult organiza os resultados por pessoa atendida, permitindo comparar pontuações, visualizar gráficos de evolução e gerar relatórios periódicos de progresso clínico.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },
@@ -100,7 +100,7 @@
   {
     "more_details_url": "/docs/funcionalidades/atendimentos/analises-psicologicas",
     "pergunta": "As escalas podem ser reaplicadas para acompanhamento?",
-    "resposta": "Sim. O eConsult permite reaplicações periódicas das mesmas escalas, comparando os resultados para monitorar a evolução clínica do paciente ou de grupos ao longo do tratamento.",
+    "resposta": "Sim. O eConsult permite reaplicações periódicas das mesmas escalas, comparando os resultados para monitorar a evolução clínica da pessoa atendida ou de grupos ao longo do tratamento.",
     "categoria": "Análises e Escalas Psicológicas",
     "public": true
   },

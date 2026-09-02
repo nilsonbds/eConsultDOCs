@@ -44,14 +44,14 @@
   {
     "more_details_url": "/docs/iniciando/interface-navegacao/painel-inicial",
     "pergunta": "O que aparece após o primeiro login?",
-    "resposta": "Após o primeiro acesso, o eConsult abre o Painel Inicial, onde você verá alertas, pendências e atalhos rápidos para as principais funções, como Atendimentos, Pacientes, Finanças e Configurações.",
+    "resposta": "Após o primeiro acesso, o eConsult abre o Painel Inicial, onde você verá alertas, pendências e atalhos rápidos para as principais funções, como Atendimentos, Pessoas Atendidas, Finanças e Configurações.",
     "categoria": "Iniciando (primeiros passos)",
     "public": true
   },
   {
     "more_details_url": "/docs/iniciando/interface-navegacao/painel-inicial",
     "pergunta": "O que é o Painel Inicial?",
-    "resposta": "É a tela principal do eConsult. Ela exibe alertas de pendências, avisos importantes e atalhos diretos para painéis como Pacientes, Atendimentos, Financeiro e Configurações, otimizando seu fluxo de trabalho diário.",
+    "resposta": "É a tela principal do eConsult. Ela exibe alertas de pendências, avisos importantes e atalhos diretos para painéis como Pessoas Atendidas, Atendimentos, Financeiro e Configurações, otimizando seu fluxo de trabalho diário.",
     "categoria": "Iniciando (primeiros passos)",
     "public": true
   },
@@ -86,7 +86,7 @@
   {
     "more_details_url": "/docs/interface-navegacao",
     "pergunta": "Como acessar as principais funcionalidades do sistema?",
-    "resposta": "Você pode acessar tudo pelo Menu Tarefas ou pelo Menu Principal. O Menu Tarefas fica no canto superior esquerdo (desktop) ou na parte inferior (mobile) e leva aos painéis de Atendimentos, Pacientes, Resultados, Alertas e mais.",
+    "resposta": "Você pode acessar tudo pelo Menu Tarefas ou pelo Menu Principal. O Menu Tarefas fica no canto superior esquerdo (desktop) ou na parte inferior (mobile) e leva aos painéis de Atendimentos, Pessoas Atendidas, Resultados, Alertas e mais.",
     "categoria": "Iniciando (primeiros passos)",
     "public": true
   },

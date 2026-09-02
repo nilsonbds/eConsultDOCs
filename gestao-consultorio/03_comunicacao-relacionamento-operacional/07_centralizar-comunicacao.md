@@ -88,7 +88,7 @@ Quando bem implementados, esses recursos reduzem dependência de comunicação m
 
 ## Como o eConsult pode apoiar essa organização
 
-No eConsult, a Área do Paciente foi desenvolvida justamente para apoiar a centralização da comunicação operacional em um ambiente seguro, estruturado e controlado pelo profissional.
+No eConsult, a Portal Relacional foi desenvolvida justamente para apoiar a centralização da comunicação operacional em um ambiente seguro, estruturado e controlado pelo profissional.
 
 Com ela, o consultório pode oferecer ao paciente acesso organizado a informações como:
 

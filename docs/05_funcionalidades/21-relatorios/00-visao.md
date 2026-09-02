@@ -5,22 +5,7 @@ sidebar_position: 0
 # Sobre Relatórios
 
 O **Painel Relatórios** permite visualizar informações importantes do sistema de forma organizada, podendo aplicar filtros, escolher quais colunas mostrar e exportar os dados para **PDF** ou **planilha (CSV)**.
-É uma ferramenta útil para acompanhar atendimentos, aspectos financeiros, evolução de pacientes e outros indicadores relevantes na sua rotina.
-
-<video
-  src="https://econsultapp.com/videos/relatorio/overview-relatorios.mp4"
-  height="auto"
-  controls
-  preload="metadata"
-  style={{
-    maxWidth: '100%',
-    borderRadius: '12px',
-    boxShadow: '0 4px 20px rgba(0,0,0,0.15)',
-    margin: '8px 0'
-  }}
->
-  Seu navegador não suporta vídeo HTML5.
-</video>
+É uma ferramenta útil para acompanhar atendimentos, aspectos financeiros, evolução de pessoas atendidas e outros indicadores relevantes na sua rotina.
 
 ---
 
@@ -79,7 +64,7 @@ Clique em **Filtros** para criar condições de filtragem.
 [IMAGEM: Aba lateral de filtros aberta (drawer)]
 
 Você pode, por exemplo:
-- Mostrar apenas sessões de um determinado paciente
+- Mostrar apenas sessões de um determinada pessoa atendida
 - Filtrar por período
 - Listar apenas registros pagos ou pendentes
 - Combinar condições usando **E / OU (AND / OR)**

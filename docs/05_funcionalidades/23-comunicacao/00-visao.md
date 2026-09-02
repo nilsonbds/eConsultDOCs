@@ -4,9 +4,9 @@ sidebar_position: 0
 
 # Sobre Comunicação
 
-O painel **Comunicação** permite acompanhar todas as mensagens enviadas aos pacientes através da plataforma. Ele registra os envios realizados pelo sistema, como e-mails e outras notificações, possibilitando acompanhar o histórico de comunicações e verificar o status de cada envio.
+O painel **Comunicação** permite acompanhar todas as mensagens enviadas a pessoas atendidas através da plataforma. Ele registra os envios realizados pelo sistema, como e-mails e outras notificações, possibilitando acompanhar o histórico de comunicações e verificar o status de cada envio.
 
-Esse painel ajuda a compreender **quais mensagens foram enviadas, para qual paciente, quando o envio ocorreu e se a comunicação foi concluída com sucesso**, facilitando o acompanhamento da interação com os pacientes.
+Esse painel ajuda a compreender **quais mensagens foram enviadas, para qual pessoa atendida, quando o envio ocorreu e se a comunicação foi concluída com sucesso**, facilitando o acompanhamento da interação com as pessoas atendidas.
 
 ![Painel Comunicação](../../../static/img/prints/comunicacao/001.png)
 
@@ -32,7 +32,7 @@ Os filtros podem incluir, por exemplo:
 
 - Status da comunicação
 - Assunto da mensagem
-- Paciente/Grupo relacionado à comunicação
+- Pessoa atendida relacionada à comunicação
 - Período
 
 Esses filtros facilitam a localização de mensagens específicas dentro da lista de comunicações registradas.
@@ -67,11 +67,11 @@ O canal indica o meio utilizado para a comunicação, como:
 
 ### **Destinatário**
 
-Mostra as informações do paciente que recebeu a comunicação.
+Mostra as informações da pessoa atendida que recebeu a comunicação.
 
 Essas informações podem incluir:
 
-- Nome do paciente
+- Nome da pessoa atendida
 - Endereço de e-mail
 - Número de celular
 
@@ -102,7 +102,7 @@ Algumas comunicações podem ser agendadas automaticamente pelo sistema, como le
 
 ### **Enviado**
 
-Mostra a data e o horário em que a comunicação foi efetivamente enviada ao paciente.
+Mostra a data e o horário em que a comunicação foi efetivamente enviada a pessoa atendida.
 
 Esse registro ajuda a confirmar quando o envio ocorreu.
 
@@ -130,7 +130,7 @@ Essas informações ajudam a compreender melhor o histórico de envio e investig
 
 # Importância do painel de comunicação
 
-O painel **Comunicação** é uma ferramenta importante para acompanhar e gerenciar as mensagens enviadas aos pacientes.
+O painel **Comunicação** é uma ferramenta importante para acompanhar e gerenciar as mensagens enviadas a pessoas atendidas.
 
 Ele permite:
 
@@ -138,9 +138,9 @@ Ele permite:
 - verificar se mensagens foram enviadas corretamente
 - identificar falhas ou problemas no envio
 - revisar o conteúdo das comunicações enviadas
-- garantir uma comunicação mais transparente com os pacientes
+- garantir uma comunicação mais transparente com as pessoas atendidas
 
-Esse recurso contribui para uma gestão mais organizada das interações com pacientes e ajuda a manter o controle sobre as mensagens enviadas pela plataforma.
+Esse recurso contribui para uma gestão mais organizada das interações com pessoas atendidas e ajuda a manter o controle sobre as mensagens enviadas pela plataforma.
 
 :::tip
 Utilize os filtros para localizar rapidamente comunicações específicas, especialmente ao verificar envios automáticos de lembretes ou mensagens administrativas.

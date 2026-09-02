@@ -16,7 +16,7 @@
     {
         "more_details_url": null,
         "pergunta": "Que tipo de situações podem aparecer no painel?",
-        "resposta": "O painel pode reunir ocorrências como atendimentos não confirmados, registros de realização pendentes, pagamentos em aberto, pacientes sem novo agendamento e outros eventos que indiquem necessidade de organização ou acompanhamento administrativo.",
+        "resposta": "O painel pode reunir ocorrências como atendimentos não confirmados, registros de realização pendentes, pagamentos em aberto, pessoas atendidas sem novo agendamento e outros eventos que indiquem necessidade de organização ou acompanhamento administrativo.",
         "categoria": "Situações de Atendimento",
         "public": true
     },
@@ -36,8 +36,8 @@
     },
     {
         "more_details_url": null,
-        "pergunta": "Qual a diferença entre Situações de Atendimento e o Acompanhamento Inteligente do Paciente?",
-        "resposta": "As duas funcionalidades têm objetivos complementares. O Acompanhamento Inteligente do Paciente oferece uma leitura longitudinal e mais clínica do acompanhamento de cada paciente. Já as Situações de Atendimento organizam a prática a partir de ocorrências operacionais da rotina, favorecendo uma gestão mais administrativa do consultório.",
+        "pergunta": "Qual a diferença entre Situações de Atendimento e o Acompanhamento Inteligente?",
+        "resposta": "As duas funcionalidades têm objetivos complementares. O Acompanhamento Inteligente oferece uma leitura longitudinal e mais clínica do acompanhamento de cada pessoa atendida. Já as Situações de Atendimento organizam a prática a partir de ocorrências operacionais da rotina, favorecendo uma gestão mais administrativa do consultório.",
         "categoria": "Situações de Atendimento",
         "public": true
     },
@@ -51,7 +51,7 @@
     {
         "more_details_url": null,
         "pergunta": "As Situações de Atendimento substituem o controle do profissional?",
-        "resposta": "Não. O recurso é apenas um suporte organizacional. Ele evidencia eventos relevantes da rotina, mas o acompanhamento, a comunicação com pacientes e qualquer decisão administrativa ou clínica continuam sendo responsabilidade do profissional.",
+        "resposta": "Não. O recurso é apenas um suporte organizacional. Ele evidencia eventos relevantes da rotina, mas o acompanhamento, a comunicação com pessoas atendidas e qualquer decisão administrativa ou clínica continuam sendo responsabilidade do profissional.",
         "categoria": "Situações de Atendimento",
         "public": true
     },

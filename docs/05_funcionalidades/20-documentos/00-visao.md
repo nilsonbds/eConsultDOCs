@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Sobre Documentos
 
-O módulo **Documentos** do eConsult foi desenvolvido para simplificar a **criação, personalização e emissão de relatórios, declarações e demais documentos psicológicos**, diretamente dentro da plataforma — de forma segura, organizada e integrada aos dados clínicos do paciente.
+O módulo **Documentos** do eConsult foi desenvolvido para simplificar a **criação, personalização e emissão de relatórios, declarações e demais documentos psicológicos**, diretamente dentro da plataforma — de forma segura, organizada e integrada aos dados clínicos da pessoa atendida.
 
 Essa funcionalidade elimina a necessidade de editores externos, oferecendo um ambiente completo onde o profissional pode **gerar modelos personalizados**, **inserir variáveis automáticas**, **visualizar em tempo real** e **exportar para PDF ou Word** com apenas um clique.
 
@@ -14,7 +14,7 @@ Essa funcionalidade elimina a necessidade de editores externos, oferecendo um am
 
 ### Modelos Inteligentes
 O eConsult permite criar e gerenciar modelos de documentos reutilizáveis — como **relatórios psicológicos, declarações, termos e pareceres técnicos**.  
-Esses modelos podem conter **variáveis dinâmicas** (ex.: `@@p.nome@@`, `@@e.registro_conselho@@`) que são automaticamente substituídas pelos dados reais do paciente, grupo terapêutico ou profissional no momento da emissão.
+Esses modelos podem conter **variáveis dinâmicas** (ex.: `@@p.nome@@`, `@@e.registro_conselho@@`) que são automaticamente substituídas pelos dados reais da pessoa atendida (indivíduo, casal, família ou grupo) ou profissional no momento da emissão.
 
 ![Editor de Modelos de Documentos](../../../static/img/prints/documentos/001.png)
 
@@ -50,10 +50,10 @@ Essa abordagem híbrida garante flexibilidade tanto para psicólogos quanto para
 
 ---
 
-### Vinculação a Pacientes/Grupos ou Contas
+### Vinculação a Pessoas Atendidas ou Contas
 Cada modelo pode ser vinculado a um contexto específico, garantindo que o documento esteja acessível **somente nos locais corretos de uso**:
 - Conta do profissional (ex.: termos institucionais)
-- Paciente ou grupo terapêutico (ex.: declarações individuais)
+- Pessoa Atendida (ex.: declarações individuais)
 
 Ao imprimir um documento, o sistema automaticamente insere as informações correspondentes ao vínculo escolhido.
 
@@ -61,7 +61,7 @@ Ao imprimir um documento, o sistema automaticamente insere as informações corr
 
 ### Variáveis Automáticas
 O eConsult inclui uma biblioteca de **variáveis de substituição** que automatizam a geração de dados:
-- **Paciente:** nome, CPF, data de nascimento, idade etc.  
+- **Pessoa Atendida:** nome, CPF, data de nascimento, idade etc.  
 - **Profissional:** nome, registro no conselho, especialidade etc.  
 - **Atendimento:** data, tipo de sessão, local etc.  
 - **Sistema:** data atual, hora, nome do documento etc.
@@ -79,8 +79,8 @@ Essas variáveis podem ser inseridas no modelo usando o seletor lateral de vari�
 </figure>
 
 <figure style={{ margin: 0, textAlign: "left", marginBottom: "20px" }}>
-  <img src="/img/prints/documentos/004.png" alt="Variáveis Paciente/Grupo" />
-  <figcaption style={{ fontStyle: "italic"}}>Variáveis Paciente/Grupo</figcaption>
+  <img src="/img/prints/documentos/004.png" alt="Variáveis Pessoa Atendida" />
+  <figcaption style={{ fontStyle: "italic"}}>Variáveis Pessoa Atendida</figcaption>
 </figure>
 
 ---
@@ -100,7 +100,7 @@ Isso permite validar o conteúdo antes da emissão e garante que cada documento 
 
 ### Integração com Outras Funcionalidades
 Os documentos se integram de forma nativa com:
-- **Prontuário Eletrônico:** publicação opcional no histórico clínico do paciente.  
+- **Prontuário Eletrônico:** publicação opcional no histórico clínico da pessoa atendida.  
 - **Arquivos (Google Drive):** armazenamento e sincronização automática de documentos emitidos.  
 - **Notas Fiscais (Focus NFe):** inclusão de relatórios anexos a faturas e comprovantes.  
 - **AI Assistente:** geração automática de textos técnicos, relatórios ou pareceres com base em prompts personalizados.
