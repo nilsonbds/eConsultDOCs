@@ -81,11 +81,11 @@ Algumas escalas frequentemente utilizadas incluem:
 
 | Objetivo                                  | Instrumento                                                            |
 | ----------------------------------------- | -----------------------------------------------------------------------|
-| Rastreamento geral de sofrimento psíquico | [SRQ-20](../010-escalas/000-triagem-geral/020-srq-20.md)               |
-| Sintomas depressivos                      | [PHQ-9](../010-escalas/000-triagem-geral/000-phq-9.md)                 |
-| Sintomas de ansiedade                     | [GAD-7](../010-escalas/000-triagem-geral/010-gad-7.md)                 |
-| Estresse, ansiedade e depressão           | [DASS-21](../010-escalas/000-triagem-geral/040-dass-21.md)             |
-| Qualidade de vida                         | [WHOQOL-BREF](../010-escalas/080-qualidade-de-vida/000-whoqol-bref.md) |
+| Rastreamento geral de sofrimento psíquico | [SRQ-20](/avaliacoes-clinicas/escalas/triagem-geral/srq-20)               |
+| Sintomas depressivos                      | [PHQ-9](/avaliacoes-clinicas/escalas/triagem-geral/phq-9)                 |
+| Sintomas de ansiedade                     | [GAD-7](/avaliacoes-clinicas/escalas/triagem-geral/gad-7)                 |
+| Estresse, ansiedade e depressão           | [DASS-21](/avaliacoes-clinicas/escalas/triagem-geral/dass-21)             |
+| Qualidade de vida                         | [WHOQOL-BREF](/avaliacoes-clinicas/escalas/qualidade-de-vida/whoqol-bref) |
 
 A escolha da escala deve considerar a demanda apresentada, os objetivos clínicos e o momento do acompanhamento.
 
@@ -105,9 +105,9 @@ Aplicações periódicas permitem acompanhar:
 * Ganhos terapêuticos;
 * Possíveis agravamentos.
 
-Por exemplo, um paciente que apresenta sintomas depressivos pode responder ao [PHQ-9](../010-escalas/000-triagem-geral/000-phq-9.md) mensalmente, permitindo comparar resultados ao longo do tratamento.
+Por exemplo, um paciente que apresenta sintomas depressivos pode responder ao [PHQ-9](/avaliacoes-clinicas/escalas/triagem-geral/phq-9) mensalmente, permitindo comparar resultados ao longo do tratamento.
 
-Da mesma forma, pacientes com queixas relacionadas à ansiedade podem ser acompanhados por meio do [GAD-7](../010-escalas/000-triagem-geral/010-gad-7.md).
+Da mesma forma, pacientes com queixas relacionadas à ansiedade podem ser acompanhados por meio do [GAD-7](/avaliacoes-clinicas/escalas/triagem-geral/gad-7).
 
 ---
 
@@ -189,10 +189,10 @@ Nem todas as avaliações possuem o mesmo propósito.
 
 Instrumentos como:
 
-* [PHQ-9](../010-escalas/000-triagem-geral/000-phq-9.md)
-* [GAD-7](../010-escalas/000-triagem-geral/010-gad-7.md)
-* [SRQ-20](../010-escalas/000-triagem-geral/020-srq-20.md)
-* [DASS-21](../010-escalas/000-triagem-geral/040-dass-21.md)
+* [PHQ-9](/avaliacoes-clinicas/escalas/triagem-geral/phq-9)
+* [GAD-7](/avaliacoes-clinicas/escalas/triagem-geral/gad-7)
+* [SRQ-20](/avaliacoes-clinicas/escalas/triagem-geral/srq-20)
+* [DASS-21](/avaliacoes-clinicas/escalas/triagem-geral/dass-21)
 
 possuem ampla utilização científica e evidências de validade.
 
@@ -243,11 +243,11 @@ Soluções de Inteligência Clínica Longitudinal podem auxiliar na:
 
 ### Escalas
 
-* [PHQ-9](../010-escalas/000-triagem-geral/000-phq-9.md)
-* [GAD-7](../010-escalas/000-triagem-geral/010-gad-7.md)
-* [SRQ-20](../010-escalas/000-triagem-geral/020-srq-20.md)
-* [DASS-21](../010-escalas/000-triagem-geral/040-dass-21.md)
-* [WHOQOL-BREF](../010-escalas/080-qualidade-de-vida/000-whoqol-bref.md)
+* [PHQ-9](/avaliacoes-clinicas/escalas/triagem-geral/phq-9)
+* [GAD-7](/avaliacoes-clinicas/escalas/triagem-geral/gad-7)
+* [SRQ-20](/avaliacoes-clinicas/escalas/triagem-geral/srq-20)
+* [DASS-21](/avaliacoes-clinicas/escalas/triagem-geral/dass-21)
+* [WHOQOL-BREF](/avaliacoes-clinicas/escalas/qualidade-de-vida/whoqol-bref)
 
 ### Inteligência Clínica
 

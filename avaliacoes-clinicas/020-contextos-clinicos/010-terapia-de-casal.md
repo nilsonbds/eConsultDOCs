@@ -76,14 +76,14 @@ Dependendo da demanda apresentada, diferentes instrumentos podem contribuir para
 
 | Objetivo                        | Instrumento                                                            |
 | ------------------------------- | ---------------------------------------------------------------------- |
-| Sintomas depressivos            | [PHQ-9](../010-escalas/000-triagem-geral/000-phq-9.md)                 |
-| Sintomas de ansiedade           | [GAD-7](../010-escalas/000-triagem-geral/010-gad-7.md)                 |
-| Sofrimento psicológico geral    | [SRQ-20](../010-escalas/000-triagem-geral/020-srq-20.md)               |
-| Estresse, ansiedade e depressão | [DASS-21](../010-escalas/000-triagem-geral/040-dass-21.md)             |
-| Qualidade de vida               | [WHOQOL-BREF](../010-escalas/080-qualidade-de-vida/000-whoqol-bref.md) |
-| Autoestima                      | [RSES](../010-escalas/080-qualidade-de-vida/020-rses.md)               |
-| Trauma e experiências adversas  | [ACE](../010-escalas/030-trauma/020-ace.md)                            |
-| Sintomas de TEPT                | [PCL-5](../010-escalas/030-trauma/000-pcl-5.md)                        |
+| Sintomas depressivos            | [PHQ-9](/avaliacoes-clinicas/escalas/triagem-geral/phq-9)                 |
+| Sintomas de ansiedade           | [GAD-7](/avaliacoes-clinicas/escalas/triagem-geral/gad-7)                 |
+| Sofrimento psicológico geral    | [SRQ-20](/avaliacoes-clinicas/escalas/triagem-geral/srq-20)               |
+| Estresse, ansiedade e depressão | [DASS-21](/avaliacoes-clinicas/escalas/triagem-geral/dass-21)             |
+| Qualidade de vida               | [WHOQOL-BREF](/avaliacoes-clinicas/escalas/qualidade-de-vida/whoqol-bref) |
+| Autoestima                      | [RSES](/avaliacoes-clinicas/escalas/qualidade-de-vida/rses)               |
+| Trauma e experiências adversas  | [ACE](/avaliacoes-clinicas/escalas/trauma/ace)                            |
+| Sintomas de TEPT                | [PCL-5](/avaliacoes-clinicas/escalas/trauma/pcl-5)                        |
 
 A escolha dos instrumentos deve estar alinhada à demanda clínica apresentada e aos objetivos terapêuticos estabelecidos com o casal.
 
@@ -187,10 +187,10 @@ Soluções de Inteligência Clínica Longitudinal podem auxiliar na:
 
 ### Escalas
 
-* [PHQ-9](../010-escalas/000-triagem-geral/000-phq-9.md)
-* [GAD-7](../010-escalas/000-triagem-geral/010-gad-7.md)
-* [DASS-21](../010-escalas/000-triagem-geral/040-dass-21.md)
-* [WHOQOL-BREF](../010-escalas/080-qualidade-de-vida/000-whoqol-bref.md)
+* [PHQ-9](/avaliacoes-clinicas/escalas/triagem-geral/phq-9)
+* [GAD-7](/avaliacoes-clinicas/escalas/triagem-geral/gad-7)
+* [DASS-21](/avaliacoes-clinicas/escalas/triagem-geral/dass-21)
+* [WHOQOL-BREF](/avaliacoes-clinicas/escalas/qualidade-de-vida/whoqol-bref)
 
 ### Inteligência Clínica
 

@@ -76,14 +76,14 @@ A escolha dos instrumentos dependerá dos objetivos do grupo terapêutico e do p
 
 | Objetivo                        | Instrumento                                                            |
 | ------------------------------- | ---------------------------------------------------------------------- |
-| Sofrimento psicológico geral    | [SRQ-20](../010-escalas/000-triagem-geral/020-srq-20.md)               |
-| Sintomas depressivos            | [PHQ-9](../010-escalas/000-triagem-geral/000-phq-9.md)                 |
-| Sintomas de ansiedade           | [GAD-7](../010-escalas/000-triagem-geral/010-gad-7.md)                 |
-| Estresse, ansiedade e depressão | [DASS-21](../010-escalas/000-triagem-geral/040-dass-21.md)             |
-| Qualidade de vida               | [WHOQOL-BREF](../010-escalas/080-qualidade-de-vida/000-whoqol-bref.md) |
-| Satisfação com a vida           | [SWLS](../010-escalas/080-qualidade-de-vida/010-swls.md)               |
-| Autoestima                      | [RSES](../010-escalas/080-qualidade-de-vida/020-rses.md)               |
-| Burnout                         | [CBI](../010-escalas/090-bem-estar/020-cbi.md)                         |
+| Sofrimento psicológico geral    | [SRQ-20](/avaliacoes-clinicas/escalas/triagem-geral/srq-20)               |
+| Sintomas depressivos            | [PHQ-9](/avaliacoes-clinicas/escalas/triagem-geral/phq-9)                 |
+| Sintomas de ansiedade           | [GAD-7](/avaliacoes-clinicas/escalas/triagem-geral/gad-7)                 |
+| Estresse, ansiedade e depressão | [DASS-21](/avaliacoes-clinicas/escalas/triagem-geral/dass-21)             |
+| Qualidade de vida               | [WHOQOL-BREF](/avaliacoes-clinicas/escalas/qualidade-de-vida/whoqol-bref) |
+| Satisfação com a vida           | [SWLS](/avaliacoes-clinicas/escalas/qualidade-de-vida/swls)               |
+| Autoestima                      | [RSES](/avaliacoes-clinicas/escalas/qualidade-de-vida/rses)               |
+| Burnout                         | [CBI](/avaliacoes-clinicas/escalas/bem-estar/cbi)                         |
 
 A seleção dos instrumentos deve considerar os objetivos clínicos do grupo e as características dos participantes.
 
@@ -215,11 +215,11 @@ Para obter resultados mais consistentes:
 
 ### Escalas
 
-* [PHQ-9](../010-escalas/000-triagem-geral/000-phq-9.md)
-* [GAD-7](../010-escalas/000-triagem-geral/010-gad-7.md)
-* [SRQ-20](../010-escalas/000-triagem-geral/020-srq-20.md)
-* [SWLS](../010-escalas/080-qualidade-de-vida/010-swls.md)
-* [WHOQOL-BREF](../010-escalas/080-qualidade-de-vida/000-whoqol-bref.md)
+* [PHQ-9](/avaliacoes-clinicas/escalas/triagem-geral/phq-9)
+* [GAD-7](/avaliacoes-clinicas/escalas/triagem-geral/gad-7)
+* [SRQ-20](/avaliacoes-clinicas/escalas/triagem-geral/srq-20)
+* [SWLS](/avaliacoes-clinicas/escalas/qualidade-de-vida/swls)
+* [WHOQOL-BREF](/avaliacoes-clinicas/escalas/qualidade-de-vida/whoqol-bref)
 
 ### Inteligência Clínica
 

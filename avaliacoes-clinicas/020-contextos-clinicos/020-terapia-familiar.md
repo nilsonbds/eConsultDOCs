@@ -75,14 +75,14 @@ Dependendo da demanda apresentada, diferentes instrumentos podem contribuir para
 
 | Objetivo                          | Instrumento                                                            |
 | --------------------------------- | ---------------------------------------------------------------------- |
-| Sofrimento psicológico geral      | [SRQ-20](../010-escalas/000-triagem-geral/020-srq-20.md)               |
-| Sintomas depressivos              | [PHQ-9](../010-escalas/000-triagem-geral/000-phq-9.md)                 |
-| Sintomas de ansiedade             | [GAD-7](../010-escalas/000-triagem-geral/010-gad-7.md)                 |
-| Estresse, ansiedade e depressão   | [DASS-21](../010-escalas/000-triagem-geral/040-dass-21.md)             |
-| Qualidade de vida                 | [WHOQOL-BREF](../010-escalas/080-qualidade-de-vida/000-whoqol-bref.md) |
-| Autoestima                        | [RSES](../010-escalas/080-qualidade-de-vida/020-rses.md)               |
-| Funcionamento global              | [WHODAS 2.0](../010-escalas/060-funcionalidade/000-whodas-2.md)        |
-| Experiências adversas na infância | [ACE](../010-escalas/030-trauma/020-ace.md)                            |
+| Sofrimento psicológico geral      | [SRQ-20](/avaliacoes-clinicas/escalas/triagem-geral/srq-20)               |
+| Sintomas depressivos              | [PHQ-9](/avaliacoes-clinicas/escalas/triagem-geral/phq-9)                 |
+| Sintomas de ansiedade             | [GAD-7](/avaliacoes-clinicas/escalas/triagem-geral/gad-7)                 |
+| Estresse, ansiedade e depressão   | [DASS-21](/avaliacoes-clinicas/escalas/triagem-geral/dass-21)             |
+| Qualidade de vida                 | [WHOQOL-BREF](/avaliacoes-clinicas/escalas/qualidade-de-vida/whoqol-bref) |
+| Autoestima                        | [RSES](/avaliacoes-clinicas/escalas/qualidade-de-vida/rses)               |
+| Funcionamento global              | [WHODAS 2.0](/avaliacoes-clinicas/escalas/funcionalidade/whodas-2)        |
+| Experiências adversas na infância | [ACE](/avaliacoes-clinicas/escalas/trauma/ace)                            |
 
 A escolha dos instrumentos deve considerar a composição familiar, a demanda apresentada e os objetivos terapêuticos definidos durante o acompanhamento.
 
@@ -203,11 +203,11 @@ Para obter resultados mais consistentes:
 
 ### Escalas
 
-* [PHQ-9](../010-escalas/000-triagem-geral/000-phq-9.md)
-* [GAD-7](../010-escalas/000-triagem-geral/010-gad-7.md)
-* [SRQ-20](../010-escalas/000-triagem-geral/020-srq-20.md)
-* [WHODAS 2.0](../010-escalas/060-funcionalidade/000-whodas-2.md)
-* [WHOQOL-BREF](../010-escalas/080-qualidade-de-vida/000-whoqol-bref.md)
+* [PHQ-9](/avaliacoes-clinicas/escalas/triagem-geral/phq-9)
+* [GAD-7](/avaliacoes-clinicas/escalas/triagem-geral/gad-7)
+* [SRQ-20](/avaliacoes-clinicas/escalas/triagem-geral/srq-20)
+* [WHODAS 2.0](/avaliacoes-clinicas/escalas/funcionalidade/whodas-2)
+* [WHOQOL-BREF](/avaliacoes-clinicas/escalas/qualidade-de-vida/whoqol-bref)
 
 ### Inteligência Clínica
 
