@@ -49,7 +49,7 @@ export default function ScaleDownload({
 
         try {
             await axios.post(
-                "https:econsultapp.com/usescale",
+                "https://econsultapp.com/usescale",
                 {
                     nome: form.nome.trim(),
                     email: form.email.trim(),
