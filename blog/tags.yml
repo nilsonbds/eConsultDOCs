@@ -302,3 +302,38 @@ marcadores-clinicos:
     Conteúdos sobre uso de marcadores clínicos para acompanhar aspectos
     relevantes do processo terapêutico, visualizar mudanças ao longo do tempo
     e apoiar a análise longitudinal da evolução do paciente.
+
+gestao-de-consultorio:
+  label: Gestão de Consultório
+  permalink: /gestao-de-consultorio
+  description: Conteúdos sobre organização, administração, processos, finanças e uso de tecnologia na gestão de consultórios de psicologia.
+
+prontuario-psicologico:
+  label: Prontuário Psicológico
+  permalink: /prontuario-psicologico
+  description: Conteúdos sobre prontuário psicológico, registros clínicos, organização documental e boas práticas para documentação da prática profissional.
+
+agenda-psicologo:
+  label: Agenda para Psicólogos
+  permalink: /agenda-psicologo
+  description: Conteúdos sobre organização da agenda, gestão de atendimentos, horários, remarcações e rotina profissional de psicólogos.
+
+software-para-psicologos:
+  label: Software para Psicólogos
+  permalink: /software-para-psicologos
+  description: Conteúdos sobre softwares, ferramentas digitais e tecnologias desenvolvidas para apoiar a gestão e a prática profissional de psicólogos.
+
+sistema-para-psicologos:
+  label: Sistema para Psicólogos
+  permalink: /sistema-para-psicologos
+  description: Conteúdos sobre sistemas para psicólogos que integram agenda, prontuário, atendimentos, gestão financeira e acompanhamento da prática clínica.
+
+consultorio-de-psicologia:
+  label: Consultório de Psicologia
+  permalink: /consultorio-de-psicologia
+  description: Conteúdos sobre organização, gestão e funcionamento de consultórios de psicologia, incluindo processos clínicos, administrativos e financeiros.
+
+gratuito:
+  label: Gratuito
+  permalink: /gratuito
+  description: Conteúdos sobre recursos, ferramentas e soluções gratuitas disponíveis para psicólogos e profissionais da saúde.
