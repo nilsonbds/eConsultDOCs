@@ -130,14 +130,14 @@ diagnósticas automáticas.
    ![Escalas Psicológicas](../../../static/img/prints/escalas/002.png)
 
 4.  Escolha:
-    - **Instrumentos psicométricos sugeridos:** apresenta instrumentos e indicadores sugeridos (relacionados ao contexto clínico da pessoa atendida); ou
+    - **Instrumentos sugeridos:** apresenta instrumentos e indicadores sugeridos (relacionados ao contexto clínico da pessoa atendida); ou
     - **Todos os instrumentos:** exibe a biblioteca completa de instrumentos disponível no eConsult.
 
 5.  Selecione uma escala ou indicador conferindo sua descrição.
 
 6. Aplique o instrumento respondendo as peguntas junto a pessoa atendida ou envie para a pessoa responder pelo Portal Relacional.
 
-:::tip Instrumentos psicométricos sugeridos
+:::tip Instrumentos sugeridos
 
 As sugestões apresentadas pelo eConsult funcionam como um recurso de
 apoio à decisão. Elas ajudam a localizar escalas ou indicadores

@@ -41,7 +41,7 @@ Cada instrumento apresenta informações resumidas, como:
 - **Categoria ou finalidade**;
 - **Descrição resumida** de sua utilização.
 
-Para consultar o conteúdo antes de utilizá-lo, acione **Visualizar instrumento**.
+Para consultar o conteúdo antes de utilizá-lo, acione **Visualizar**.
 
 ![Aba Instrumentos](../../../../static/img/prints/escalas/006.png)
 
@@ -96,7 +96,7 @@ Essa funcionalidade é especialmente útil quando o profissional deseja acompanh
 Para criar uma programação:
 
 1. Localize o instrumento desejado.
-1. Acione **Programar aplicações**.
+1. Acione **Programar**.
 1. Defina a **frequência** de aplicação.
 1. Informe a **data de início**.
 1. Selecione o **dia da aplicação**, quando aplicável.
