@@ -78,6 +78,7 @@ export default function ScaleDownload({
         const link = document.createElement("a");
         link.href = file;
         link.download = "";
+        link.target = "_blank";
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
