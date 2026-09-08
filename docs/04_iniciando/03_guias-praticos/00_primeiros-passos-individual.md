@@ -319,7 +319,7 @@ Neste material, você poderá visualizar como as informações registradas duran
 Mariana Soares é uma personagem fictícia criada exclusivamente para fins demonstrativos.
 :::
 
-<a href="/pdf/prontuario-individual-exemplo.pdf" target="_blank" rel="noopener noreferrer">
+<a href="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/prontuarys/pdf/prontuario-individual-exemplo.pdf" target="_blank" rel="noopener noreferrer">
   📥 Baixar prontuário fictício em PDF
 </a>
 

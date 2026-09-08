@@ -47,9 +47,9 @@ Ideal para atendimentos individuais de psicoterapia.
 - Encaminhamentos
 - Síntese clínica longitudinal
 
-📄 [Baixar PDF](../static/pdf/prontuario-individual-exemplo.pdf)
+📄 [Baixar PDF](https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/prontuarys/pdf/prontuario-individual-exemplo.pdf)
 
-📝 [Baixar Word](../static/word/Prontuário%20Mariana%20Soares.docx)
+📝 [Baixar Word](https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/prontuarys/word/Prontuário%20Mariana%20Soares.docx)
 
 ---
 
@@ -71,9 +71,9 @@ Modelo desenvolvido para terapia de casal.
 - Registros SOAP
 - Síntese longitudinal
 
-📄 [Baixar PDF](../static/pdf/prontuario-casal-exemplo.pdf)
+📄 [Baixar PDF](..https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/prontuarys/pdf/prontuario-casal-exemplo.pdf)
 
-📝 [Baixar Word](../static/word/Prontuário%20Casal%20Maria%20e%20João.docx)
+📝 [Baixar Word](https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/prontuarys/word/Prontuário%20Casal%20Maria%20e%20João.docx)
 
 ---
 
@@ -95,9 +95,9 @@ Modelo voltado para terapia familiar.
 - Registros SOAP
 - Acompanhamento longitudinal
 
-📄 [Baixar PDF](../static/pdf/prontuario-familia-exemplo.pdf)
+📄 [Baixar PDF](..https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/prontuarys/pdf/prontuario-familia-exemplo.pdf)
 
-📝 [Baixar Word](../static/word/Prontuário%20Família%20Oliveira.docx)
+📝 [Baixar Word](https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/prontuarys/word/Prontuário%20Família%20Oliveira.docx)
 
 ---
 
@@ -118,9 +118,9 @@ Modelo destinado a grupos terapêuticos e grupos de apoio.
 - Registros SOAP
 - Síntese longitudinal do grupo
 
-📄 [Baixar PDF](../static/pdf/prontuario-grupo-exemplo.pdf)
+📄 [Baixar PDF](..https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/prontuarys/pdf/prontuario-grupo-exemplo.pdf)
 
-📝 [Baixar Word](../static/word/Prontuário%20Grupo%20Terapêutico%20Reconstruindo%20Caminhos.docx)
+📝 [Baixar Word](https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/prontuarys/word/Prontuário%20Grupo%20Terapêutico%20Reconstruindo%20Caminhos.docx)
 
 ---
 
