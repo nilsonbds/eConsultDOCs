@@ -151,7 +151,7 @@ export default function ScaleDownload({
                         className="button button--primary"
                         disabled={loading}
                     >
-                        {loading ? "Aguarde..." : "Baixar PDF"}
+                        {loading ? "Aguarde..." : label}
                     </button>
 
                     <button
