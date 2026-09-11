@@ -54,6 +54,7 @@ export default function ScaleDownload({
                     nome: form.nome.trim(),
                     email: form.email.trim(),
                     escala: "Download de " + scale,
+                    documento: scale,
                 },
                 {
                     mode: "cors",
