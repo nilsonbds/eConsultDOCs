@@ -1,6 +1,6 @@
 {
-  "label": "Configurações de Agenda",
-  "position": 1,
+  "label": "Agenda",
+  "position": 10,
   "link": {
     "slug": "/agenda",
     "type": "generated-index",

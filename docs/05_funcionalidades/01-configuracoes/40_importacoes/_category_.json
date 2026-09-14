@@ -1,0 +1,9 @@
+{
+  "label": "Importações",
+  "position": 40,
+  "link": {
+    "slug": "/importacoes",
+    "type": "generated-index",
+    "description": "Permite trazer dados de outros sistemas ou planilhas para o eConsult, facilitando a migração e evitando o cadastro manual das informações."
+  }
+}

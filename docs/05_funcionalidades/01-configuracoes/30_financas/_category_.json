@@ -1,6 +1,6 @@
 {
-  "label": "Configurações para Finanças",
-  "position": 3,
+  "label": "Finanças",
+  "position": 30,
   "link": {
     "slug": "/financas",
     "type": "generated-index",

@@ -1,6 +1,6 @@
 {
-  "label": "Configurações para Pessoas Atendidas",
-  "position": 2,
+  "label": "Pessoas Atendidas",
+  "position": 20,
   "link": {
     "slug": "/clientes",
     "type": "generated-index",

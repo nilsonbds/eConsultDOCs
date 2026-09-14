@@ -1,6 +1,6 @@
 {
-  "label": "Configurações de Integrações",
-  "position": 4,
+  "label": "Integrações",
+  "position": 50,
   "link": {
     "slug": "/integracoes",
     "type": "generated-index",

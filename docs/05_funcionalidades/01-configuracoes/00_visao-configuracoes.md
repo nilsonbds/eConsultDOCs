@@ -31,7 +31,9 @@ Objetiva facilitar o gerenciamento e a personalização das informações dos pa
 - **Política de Comunicação e Alertas:** Configure o painel de alertas e determine a política de comunicação com as pessoas atendidas.
 
 ## Finanças
+
 Gerencia aspectos financeiros relacionados ao sistema e garantir o controle e a precisão nas transações e relatórios financeiros.
+
 - **Formas de Pagamento:** Configure os métodos de pagamento aceitos por você, como cartões de crédito, transferências bancárias e pagamentos online.
 - **Categorias de Receitas:** Defina e organize categorias para classificar receitas, facilitando a análise financeira e o planejamento.
 - **Categorias de Despesas:** Defina e organize categorias para classificar despesas, facilitando a análise financeira e o planejamento.
@@ -39,9 +41,17 @@ Gerencia aspectos financeiros relacionados ao sistema e garantir o controle e a 
 - **Mensagens Padronizadas:** Crie padrões de mensagens relacionadas a pagamentos e recibos.
 - **Regras de Cobrança:** Permite o cadastro de regras de cobrança para os atendimentos, incluindo descontos, multas, juros por atraso e mora diária.
 
+## Importações
+
+Permite trazer dados de outros sistemas ou planilhas para o eConsult, facilitando a migração e evitando o cadastro manual das informações.
+
+* **Importação de Pessoas Atendidas:** permite importar cadastros de pessoas atendidas a partir de arquivos Excel ou CSV. O eConsult analisa os dados da planilha, identifica e organiza as informações encontradas e permite revisar e selecionar os cadastros antes de concluir a importação.
+
+
 ## Integrações
 
 Integra, de forma facilitada, o eConsult com outras ferramentas e sistemas para melhorar a eficiência e a fluidez dos processos.
+
 - **GoogleDrive:** Configure a integração do eConsult com seu GoogleDrive.
 - **OpenAI:** Configure a integração do eConsult com a sua conta OpenAI.
 - **Daily (Teleatendimento):** Configure a integração do eConsult com a plataforma Daily.co e tenha um sistema de teleatendimento totalmente integrado.
