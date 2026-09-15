@@ -47,6 +47,8 @@ Permite trazer dados de outros sistemas ou planilhas para o eConsult, facilitand
 
 * **Importação de Pessoas Atendidas:** permite importar cadastros de pessoas atendidas a partir de arquivos Excel ou CSV. O eConsult analisa os dados da planilha, identifica e organiza as informações encontradas e permite revisar e selecionar os cadastros antes de concluir a importação.
 
+* **Importação de Agendamentos:** permite importar agendamentos a partir de arquivos Excel ou CSV. O eConsult analisa os dados da planilha, identifica e organiza as informações encontradas e permite revisar e selecionar os agendamentos antes de concluir a importação.
+
 
 ## Integrações
 
