@@ -133,6 +133,8 @@ O infográfico abaixo ilustra como uma abordagem baseada em registros estruturad
 
 <br /><br />
 
+---
+
 :::info Quer aprofundar esses conceitos?
 
 Explore conteúdos sobre prontuário psicológico, evolução clínica, registros SOAP e acompanhamento longitudinal.
