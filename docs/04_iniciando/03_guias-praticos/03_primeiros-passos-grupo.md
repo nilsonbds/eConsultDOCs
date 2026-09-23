@@ -85,7 +85,7 @@ Você poderá configurar:
 - cadastrando um endereço
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/conta.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/conta.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -114,7 +114,7 @@ Isso permite:
 - cadastrando os participantes do grupo
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/grupo/pacientes.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/grupo/pacientes.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -146,7 +146,7 @@ Você poderá:
 - vinculando participantes
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/grupo/grupo-terapeutico.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/grupo/grupo-terapeutico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -173,7 +173,7 @@ Você poderá:
 - organizando sessões recorrentes
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/grupo/agendamento-de-multiplos-atendimentos.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/grupo/agendamento-de-multiplos-atendimentos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -202,7 +202,7 @@ Nele você poderá acompanhar:
 - explorando o painel situações de atendimento
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/grupo/situacoes-de-atendimento-clinico.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/grupo/situacoes-de-atendimento-clinico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -235,7 +235,7 @@ Você poderá acompanhar aspectos como:
 - utilizando marcadores clínicos
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/grupo/anotacoes-clinicas-com-marcadores-clinicos.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/grupo/anotacoes-clinicas-com-marcadores-clinicos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -268,7 +268,7 @@ Você poderá visualizar:
 - explorando atendimentos dos participantes
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/grupo/resultados.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/grupo/resultados.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -297,7 +297,7 @@ Utilize o acompanhamento longitudinal para visualizar:
 - acompanhando evolução longitudinal do grupo terapêutico
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/grupo/acompanhamento-clinico-longitudinal.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/grupo/acompanhamento-clinico-longitudinal.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -325,7 +325,7 @@ Você poderá:
 - explorando prontuário do grupo
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/grupo/prontuario-eletronico.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/grupo/prontuario-eletronico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -357,7 +357,7 @@ Ao finalizar:
 - compartilhando prontuário
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/grupo/prontuario-finalizado.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/grupo/prontuario-finalizado.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 

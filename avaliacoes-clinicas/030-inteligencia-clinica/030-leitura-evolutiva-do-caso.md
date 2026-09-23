@@ -89,7 +89,7 @@ O exemplo abaixo demonstra como diferentes fontes de informação podem ser anal
 Avaliações, marcadores clínicos, registros e histórico longitudinal contribuem para uma compreensão mais ampla da trajetória clínica da pessoa atendida.
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/leitura-evolutiva-na-pratica.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/leitura-evolutiva-na-pratica.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 

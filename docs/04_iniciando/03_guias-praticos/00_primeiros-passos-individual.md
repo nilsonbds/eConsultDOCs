@@ -74,7 +74,7 @@ Você poderá configurar:
 - cadastrando um endereço
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/conta.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/conta.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -95,7 +95,7 @@ Comece cadastrando suas pessoas atendidas ativas.
 - cadastrando pessoa atendida
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/individual/pacientes.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/individual/pacientes.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -130,7 +130,7 @@ Você pode:
 - realizando agendamentos múltiplos
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/individual/agendamento-de-multiplos-atendimentos.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/individual/agendamento-de-multiplos-atendimentos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -158,7 +158,7 @@ Cada indicador funciona como uma ação rápida para facilitar o acompanhamento 
 - explorando o painel Situações de Atendimento
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/individual/situacoes-de-atendimento-clinico.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/individual/situacoes-de-atendimento-clinico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -181,7 +181,7 @@ No painel **Resultados**, você acompanha:
 - explorando o painel de resultados
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/individual/resultados.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/individual/resultados.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -207,7 +207,7 @@ Eles ajudam a estruturar informações como:
 - utilizando marcadores clínicos
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/individual/anotacoes-clinicas-com-marcadores-clinicos.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/individual/anotacoes-clinicas-com-marcadores-clinicos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -232,7 +232,7 @@ Utilize o painel de **Acompanhamento Longitudinal** para visualizar:
 - acompanhando evolução clínica
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/individual/acompanhamento-clinico-longitudinal.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/individual/acompanhamento-clinico-longitudinal.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -259,7 +259,7 @@ O prontuário é construído progressivamente ao longo do acompanhamento.
 - explorando prontuário
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/individual/prontuario-eletronico.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/individual/prontuario-eletronico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -283,7 +283,7 @@ Ao finalizar:
 - publicando o registro clínico
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/individual/prontuario-finalizado.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/individual/prontuario-finalizado.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 

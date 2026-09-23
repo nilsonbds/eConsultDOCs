@@ -85,7 +85,7 @@ Você poderá configurar:
 - cadastrando um endereço
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/conta.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/conta.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -113,7 +113,7 @@ Isso permite:
 - cadastrando os participantes do casal
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/casal/pacientes.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/casal/pacientes.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -145,7 +145,7 @@ Você poderá:
 - iniciando acompanhamento
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/casal/casal.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/casal/casal.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -172,7 +172,7 @@ Você poderá:
 - organizando sessões recorrentes
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/casal/agendamento-de-multiplos-atendimentos.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/casal/agendamento-de-multiplos-atendimentos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -200,7 +200,7 @@ Nele você poderá acompanhar:
 - explorando o painel situações de atendimento
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/casal/situacoes-de-atendimento-clinico.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/casal/situacoes-de-atendimento-clinico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -227,7 +227,7 @@ Você poderá visualizar:
 - explorando resultados (panorama e indicadores)
   
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/casal/resultados.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/casal/resultados.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -258,7 +258,7 @@ Você poderá acompanhar aspectos como:
 - utilizando marcadores clínicos
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/casal/anotacoes-clinicas-com-marcadores-clinicos.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/casal/anotacoes-clinicas-com-marcadores-clinicos.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -282,7 +282,7 @@ Utilize o acompanhamento longitudinal para visualizar:
 - acompanhando evolução longitudinal do casal
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/casal/acompanhamento-clinico-longitudinal.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/casal/acompanhamento-clinico-longitudinal.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -309,7 +309,7 @@ Você poderá:
 - explorando prontuário do casal
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/casal/prontuario-eletronico.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/casal/prontuario-eletronico.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
@@ -341,7 +341,7 @@ Ao finalizar:
 - compartilhando prontuário
 
 <video controls preload="metadata" poster="/img/thumbs/video-tutorial.jpg" style={{ borderRadius: '30px', margin: '1.5rem 0', maxHeight: '670px', maxWidth: '100%', border: '1px solid whitesmoke', boxShadow: '0 10px 30px rgba(15, 23, 42, 0.10)', overflow: 'hidden', background: '#fff', cursor: 'pointer' }}>
-  <source src="/video/casal/prontuario-finalizado.mp4" type="video/mp4" />
+  <source src="https://pub-ff830c3079564210a0ad51dbbcb377e3.r2.dev/videos/casal/prontuario-finalizado.mp4" type="video/mp4" />
   Seu navegador não suporta vídeo.
 </video>
 
