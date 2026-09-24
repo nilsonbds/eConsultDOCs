@@ -61,6 +61,7 @@ const config = {
             title: 'Central de Ajuda eConsult',
             description: 'Últimos artigos e novidades sobre o eConsult',
             language: 'pt-BR',
+            limit: false,
           },
         },
 
