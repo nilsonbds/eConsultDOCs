@@ -213,9 +213,9 @@ O eConsult procura utilizar permissões limitadas aos arquivos utilizados pela p
 
 ### 14.2. Google Calendar
 
-Quando o usuário ativa a integração com o Google Calendar, o eConsult poderá acessar eventos das agendas autorizadas pelo usuário.
+Quando o usuário ativa a integração com o Google Calendar, o eConsult poderá acessar dados dos eventos das agendas autorizadas pelo usuário, incluindo informações necessárias à sincronização, como identificador do evento, título, descrição, data e horário de início e término e demais informações do evento necessárias ao funcionamento da integração.
 
-Esse acesso é utilizado para permitir funcionalidades de integração e sincronização entre os agendamentos registrados no eConsult e o Google Calendar, incluindo, conforme as funcionalidades habilitadas pelo usuário:
+Esses dados são acessados exclusivamente para permitir a integração e sincronização entre os agendamentos registrados no eConsult e o Google Calendar, incluindo, conforme as funcionalidades habilitadas pelo usuário:
 
 * criação de eventos;
 * consulta de eventos;
@@ -223,7 +223,7 @@ Esse acesso é utilizado para permitir funcionalidades de integração e sincron
 * exclusão de eventos;
 * sincronização de alterações relacionadas aos agendamentos.
 
-A integração com o Google Calendar é opcional e pode ser desativada pelo usuário.
+A integração com o Google Calendar é opcional, somente é ativada mediante autorização do usuário e pode ser desativada a qualquer momento.
 
 ### 14.3. Uso dos dados obtidos através das APIs do Google
 
@@ -241,13 +241,21 @@ Essas informações são protegidas por medidas técnicas e organizacionais dest
 
 O eConsult não recebe nem armazena a senha da conta Google do usuário como parte do processo de autorização OAuth.
 
-### 14.5. Revogação e desconexão
+### 14.5. Revogação, retenção e exclusão de dados
 
-O usuário poderá desconectar as integrações com os serviços Google por meio das configurações de integração disponibilizadas no eConsult.
+O usuário poderá desconectar as integrações com os serviços Google a qualquer momento por meio das configurações de integração disponibilizadas no eConsult.
 
-O usuário também poderá revogar as permissões concedidas diretamente nas configurações de segurança e acesso da sua Conta Google.
+O usuário também poderá revogar diretamente as permissões concedidas ao eConsult nas configurações de segurança e acesso da sua Conta Google.
 
-Após a desconexão ou revogação, o eConsult deixará de realizar novos acessos aos serviços Google relacionados à autorização revogada, ressalvados dados cuja manutenção seja necessária para cumprimento de obrigações legais, segurança, exercício regular de direitos ou outras hipóteses permitidas pela legislação aplicável.
+Após a desconexão ou revogação, o eConsult deixará de realizar novos acessos aos serviços Google relacionados à autorização revogada.
+
+Os tokens e credenciais OAuth armazenados pelo eConsult para permitir o acesso à conta Google serão removidos ou invalidados quando a integração for desconectada, observados os procedimentos técnicos necessários para conclusão da revogação.
+
+Dados provenientes dos serviços Google eventualmente armazenados pelo eConsult serão mantidos somente pelo período necessário para fornecer a funcionalidade solicitada pelo usuário ou para atender obrigações legais, regulatórias, de segurança ou de exercício regular de direitos. Quando não houver mais necessidade legítima de retenção, esses dados serão excluídos ou anonimizados, conforme aplicável.
+
+A desconexão da integração não implica a exclusão automática de arquivos ou eventos que já tenham sido criados pelo usuário ou pelo eConsult no Google Drive ou Google Calendar. Esses conteúdos permanecem sob controle do usuário em sua Conta Google e poderão ser gerenciados ou excluídos diretamente nos respectivos serviços Google.
+
+O usuário também poderá solicitar a exclusão de dados pessoais mantidos pelo eConsult pelos canais de contato indicados nesta Política, observadas as hipóteses legais de retenção aplicáveis.
 
 ### 14.6. Política de Dados do Usuário dos Serviços de API do Google
 
