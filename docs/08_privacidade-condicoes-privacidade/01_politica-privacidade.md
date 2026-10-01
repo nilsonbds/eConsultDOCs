@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-Última atualização: 08/05/2026
+Última atualização: 30/09/2026
 
 ## 1. Informações Gerais
 
@@ -68,7 +68,8 @@ O eConsult poderá utilizar fornecedores e operadores essenciais para funcioname
 * envio de e-mails;
 * comunicação transacional;
 * processamento financeiro;
-* monitoramento de disponibilidade e segurança.
+* monitoramento de disponibilidade e segurança;
+* integrações autorizadas pelo usuário com serviços de terceiros, incluindo serviços Google.
 
 Esses operadores poderão processar informações exclusivamente para execução dos serviços contratados, observando critérios adequados de segurança, confidencialidade e proteção de dados.
 
@@ -196,7 +197,65 @@ A plataforma não realiza comercialização de dados nem utiliza tecnologias vol
 
 ---
 
-# 14. Alterações desta Política
+## 14. Integrações com Serviços Google
+
+O eConsult permite que o usuário conecte, de forma opcional, sua conta Google a determinadas funcionalidades da plataforma, incluindo integrações com o Google Drive e o Google Calendar.
+
+Essas integrações somente são ativadas mediante ação e autorização expressa do usuário por meio do processo de autenticação e autorização OAuth disponibilizado pelo Google.
+
+### 14.1. Google Drive
+
+Quando o usuário ativa a integração com o Google Drive, o eConsult poderá acessar os arquivos e pastas necessários ao funcionamento das funcionalidades escolhidas pelo próprio usuário, de acordo com as permissões concedidas durante a autorização.
+
+O acesso é utilizado para permitir funcionalidades como criação, armazenamento, consulta, organização e gerenciamento de arquivos do eConsult no Google Drive do usuário.
+
+O eConsult procura utilizar permissões limitadas aos arquivos utilizados pela própria aplicação sempre que tecnicamente possível.
+
+### 14.2. Google Calendar
+
+Quando o usuário ativa a integração com o Google Calendar, o eConsult poderá acessar eventos das agendas autorizadas pelo usuário.
+
+Esse acesso é utilizado para permitir funcionalidades de integração e sincronização entre os agendamentos registrados no eConsult e o Google Calendar, incluindo, conforme as funcionalidades habilitadas pelo usuário:
+
+* criação de eventos;
+* consulta de eventos;
+* atualização de eventos;
+* exclusão de eventos;
+* sincronização de alterações relacionadas aos agendamentos.
+
+A integração com o Google Calendar é opcional e pode ser desativada pelo usuário.
+
+### 14.3. Uso dos dados obtidos através das APIs do Google
+
+As informações obtidas através das APIs do Google são utilizadas exclusivamente para fornecer e manter as funcionalidades de integração solicitadas pelo usuário.
+
+O eConsult não vende dados obtidos através das APIs do Google, não utiliza esses dados para publicidade e não os utiliza para criação de perfis destinados a publicidade ou outras finalidades não relacionadas às funcionalidades autorizadas pelo usuário.
+
+O compartilhamento desses dados com terceiros somente poderá ocorrer quando necessário para fornecer ou manter as funcionalidades solicitadas pelo usuário, para fins de segurança, para cumprimento de obrigações legais ou nas demais hipóteses permitidas pela legislação aplicável.
+
+### 14.4. Armazenamento e segurança
+
+O eConsult poderá armazenar informações técnicas necessárias para manter as integrações autorizadas, incluindo identificadores, configurações da integração e credenciais de autorização, como tokens OAuth.
+
+Essas informações são protegidas por medidas técnicas e organizacionais destinadas a reduzir riscos de acesso, alteração, divulgação ou utilização não autorizada.
+
+O eConsult não recebe nem armazena a senha da conta Google do usuário como parte do processo de autorização OAuth.
+
+### 14.5. Revogação e desconexão
+
+O usuário poderá desconectar as integrações com os serviços Google por meio das configurações de integração disponibilizadas no eConsult.
+
+O usuário também poderá revogar as permissões concedidas diretamente nas configurações de segurança e acesso da sua Conta Google.
+
+Após a desconexão ou revogação, o eConsult deixará de realizar novos acessos aos serviços Google relacionados à autorização revogada, ressalvados dados cuja manutenção seja necessária para cumprimento de obrigações legais, segurança, exercício regular de direitos ou outras hipóteses permitidas pela legislação aplicável.
+
+### 14.6. Política de Dados do Usuário dos Serviços de API do Google
+
+O uso e a transferência, pelo eConsult, de informações recebidas das APIs do Google observarão a Política de Dados do Usuário dos Serviços de API do Google (Google API Services User Data Policy), incluindo os requisitos de Uso Limitado (Limited Use), quando aplicáveis.
+
+---
+
+# 15. Alterações desta Política
 
 Esta Política poderá ser atualizada periodicamente para refletir melhorias operacionais, mudanças legais ou evolução dos serviços oferecidos.
 
