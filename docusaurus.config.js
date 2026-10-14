@@ -1,85 +1,76 @@
 // @ts-check
-import { themes as prismThemes } from 'prism-react-renderer';
-const fs = require('fs');
-const path = require('path');
+import { themes as prismThemes } from "prism-react-renderer";
+const fs = require("fs");
+const path = require("path");
 
 function getLastModifiedDate(dir) {
-  const files = fs.readdirSync(dir).map(f => path.join(dir, f));
-  const times = files
-    .map(f => fs.statSync(f).mtime)
-    .filter(Boolean);
+  const files = fs.readdirSync(dir).map((f) => path.join(dir, f));
+  const times = files.map((f) => fs.statSync(f).mtime).filter(Boolean);
   return new Date(Math.max.apply(null, times));
 }
 
-const lastModified = getLastModifiedDate('./docs');
-const formattedDate = lastModified.toLocaleDateString('pt-BR');
+const lastModified = getLastModifiedDate("./docs");
+const formattedDate = lastModified.toLocaleDateString("pt-BR");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Conteúdo clínico, prático e estruturado para sua rotina profissional',
-  tagline: 'Explore guias de uso do sistema, conteúdos de prática clínica e artigos para aprofundar seu raciocínio clínico.',
-  favicon: 'img/favicon.ico',
+  title: "Conteúdo clínico, prático e estruturado para sua rotina profissional",
+  tagline: "Explore guias de uso do sistema, conteúdos de prática clínica e artigos para aprofundar seu raciocínio clínico.",
+  favicon: "img/favicon.ico",
   future: {
     v4: true,
   },
-  url: 'https://documents.econsult.app.br',
-  baseUrl: '/',
-  organizationName: 'facebook',
-  projectName: 'docusaurus',
-  onBrokenLinks: 'throw',
+  url: "https://documents.econsult.app.br",
+  baseUrl: "/",
+  organizationName: "facebook",
+  projectName: "docusaurus",
+  onBrokenLinks: "throw",
 
   // 🔽 novo bloco substituindo `onBrokenMarkdownLinks`
   markdown: {
     hooks: {
-      onBrokenMarkdownLinks: 'warn',
+      onBrokenMarkdownLinks: "warn",
     },
   },
 
   i18n: {
-    defaultLocale: 'pt-BR',
-    locales: ['pt-BR'],
+    defaultLocale: "pt-BR",
+    locales: ["pt-BR"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: "./sidebars.js",
         },
 
         blog: {
           showReadingTime: true,
-          path: './blog',
-          routeBasePath: '/blog',
+          path: "./blog",
+          routeBasePath: "/blog",
           postsPerPage: 8,
           blogSidebarCount: 7,
           archiveBasePath: null,
 
           feedOptions: {
-            type: 'all',
-            title: 'Central de Ajuda eConsult',
-            description: 'Últimos artigos e novidades sobre o eConsult',
-            language: 'pt-BR',
+            type: "all",
+            title: "Central de Ajuda eConsult",
+            description: "Últimos artigos e novidades sobre o eConsult",
+            language: "pt-BR",
             limit: false,
           },
         },
 
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
 
         sitemap: {
-          filename: 'sitemap.xml',
-          lastmod: 'date',
-          ignorePatterns: [
-            '/blog/tags/**',
-            '/blog/authors/**',
-            '/blog/archive',
-            '/blog/page/**',
-            '/search',
-            '/markdown-page',
-          ],
+          filename: "sitemap.xml",
+          lastmod: "date",
+          ignorePatterns: ["/blog/tags/**", "/blog/authors/**", "/blog/archive", "/blog/page/**", "/search", "/markdown-page"],
 
           async createSitemapItems(params) {
             const { defaultCreateSitemapItems, ...rest } = params;
@@ -90,44 +81,39 @@ const config = {
                 const url = item.url;
 
                 return (
-                  url !== 'https://documents.econsult.app.br/blog' &&
-                  (
-                    url.includes('/blog/') ||
-                    url === 'https://documents.econsult.app.br/' ||
-                    url.includes('/docs/marcadores-clinicos') ||
-                    url.includes('/docs/modelo-anamnese') ||
-                    url.includes('/docs/principais-diferenciais') ||
-                    url.includes('/docs/diferenciais/') ||
-                    url.includes('/pratica-clinica/') ||
-                    url.includes('/avaliacoes-clinicas/') ||
-                    url.includes('/gestao-consultorio/')
-                  )
+                  url !== "https://documents.econsult.app.br/blog" &&
+                  (url.includes("/blog/") ||
+                    url === "https://documents.econsult.app.br/" ||
+                    url.includes("/docs/marcadores-clinicos") ||
+                    url.includes("/docs/modelo-anamnese") ||
+                    url.includes("/docs/principais-diferenciais") ||
+                    url.includes("/docs/diferenciais/") ||
+                    url.includes("/pratica-clinica/") ||
+                    url.includes("/avaliacoes-clinicas/") ||
+                    url.includes("/gestao-consultorio/") ||
+                    url.includes("/modelos-de-documentos/"))
                 );
               })
               .map((item) => {
                 const url = item.url;
 
-                if (
-                  url.includes('melhor-sistema-para-psicologos') ||
-                  url.includes('/blog/prontuario') ||
-                  url.includes('cuidado-longitudinal')
-                ) {
+                if (url.includes("melhor-sistema-para-psicologos") || url.includes("/blog/prontuario") || url.includes("cuidado-longitudinal")) {
                   return { ...item, priority: 0.8 };
                 }
 
-                if (url.includes('/blog/')) {
+                if (url.includes("/blog/")) {
                   return { ...item, priority: 0.7 };
                 }
 
-                if (url.includes('/docs/')) {
+                if (url.includes("/docs/")) {
                   return { ...item, priority: 0.6 };
                 }
 
-                if (url.includes('/pratica-clinica/')) {
+                if (url.includes("/pratica-clinica/")) {
                   return { ...item, priority: 0.75 };
                 }
 
-                if (url.includes('/avaliacoes-clinicas/')) {
+                if (url.includes("/avaliacoes-clinicas/")) {
                   return { ...item, priority: 0.75 };
                 }
 
@@ -137,7 +123,7 @@ const config = {
         },
 
         gtag: {
-          trackingID: 'G-ME10V7NCD2',
+          trackingID: "G-ME10V7NCD2",
           anonymizeIP: true,
         },
       },
@@ -146,34 +132,43 @@ const config = {
 
   plugins: [
     [
-      '@docusaurus/plugin-content-docs',
+      "@docusaurus/plugin-content-docs",
       {
-        id: 'pratica-clinica',
-        path: 'pratica-clinica',
-        routeBasePath: 'pratica-clinica',
-        sidebarPath: require.resolve('./sidebarsPraticaClinica.js'),
-      }
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'avaliacoes-clinicas',
-        path: 'avaliacoes-clinicas',
-        routeBasePath: 'avaliacoes-clinicas',
-        sidebarPath: require.resolve('./sidebarsAvaliacoesClinicas.js'),
-      }
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'gestao-consultorio',
-        path: 'gestao-consultorio',
-        routeBasePath: 'gestao-consultorio',
-        sidebarPath: require.resolve('./sidebarsGestaoConsultorio.js'),
+        id: "pratica-clinica",
+        path: "pratica-clinica",
+        routeBasePath: "pratica-clinica",
+        sidebarPath: require.resolve("./sidebarsPraticaClinica.js"),
       },
     ],
     [
-      require.resolve('@easyops-cn/docusaurus-search-local'),
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "avaliacoes-clinicas",
+        path: "avaliacoes-clinicas",
+        routeBasePath: "avaliacoes-clinicas",
+        sidebarPath: require.resolve("./sidebarsAvaliacoesClinicas.js"),
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "gestao-consultorio",
+        path: "gestao-consultorio",
+        routeBasePath: "gestao-consultorio",
+        sidebarPath: require.resolve("./sidebarsGestaoConsultorio.js"),
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "modelos-de-documentos",
+        path: "modelos-de-documentos",
+        routeBasePath: "modelos-de-documentos",
+        sidebarPath: require.resolve("./sidebarsModelosDocumentos.js"),
+      },
+    ],
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
       {
         hashed: true,
         indexDocs: true,
@@ -183,77 +178,74 @@ const config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: null,
       logo: {
-        alt: 'eConsultDOC',
-        src: 'img/LogotipoDOCs.svg',
+        alt: "eConsultDOC",
+        src: "img/LogotipoDOCs.svg",
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Central de Conhecimento',
+          type: "docSidebar",
+          sidebarId: "tutorialSidebar",
+          position: "left",
+          label: "Central de Conhecimento",
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'praticaClinicaSidebar',
-          docsPluginId: 'pratica-clinica',
-          position: 'left',
-          label: 'Prática Clínica',
+          type: "docSidebar",
+          sidebarId: "praticaClinicaSidebar",
+          docsPluginId: "pratica-clinica",
+          position: "left",
+          label: "Prática Clínica",
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'avaliacoesClinicasSidebar',
-          docsPluginId: 'avaliacoes-clinicas',
-          position: 'left',
-          label: 'Avaliações Clínicas',
+          type: "docSidebar",
+          sidebarId: "avaliacoesClinicasSidebar",
+          docsPluginId: "avaliacoes-clinicas",
+          position: "left",
+          label: "Avaliações Clínicas",
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'gestaoConsultorioSidebar',
-          docsPluginId: 'gestao-consultorio',
-          position: 'left',
-          label: 'Gestão de Consultório',
+          type: "docSidebar",
+          sidebarId: "gestaoConsultorioSidebar",
+          docsPluginId: "gestao-consultorio",
+          position: "left",
+          label: "Gestão de Consultório",
         },
         {
-          to: '/blog', // ou type: 'blog'
-          position: 'left',
-          label: 'Blog',
+          type: "doc",
+          docId: "00_modelos_documentos",
+          docsPluginId: "modelos-de-documentos",
+          position: "left",
+          label: "Modelos de Documentos",
         },
         {
-          href: 'https://econsult.app.br/psicologia',
-          position: 'left',
-          label: 'Criar uma conta',
+          to: "/blog", // ou type: 'blog'
+          position: "left",
+          label: "Blog",
         },
         {
-          href: 'https://econsult.app.br/home',
-          label: 'Ir para o sistema',
-          position: 'right',
+          href: "https://econsult.app.br/psicologia",
+          position: "right",
+          label: "👉 Criar uma conta",
         },
-        {
-          href: 'https://econsult.app.br/plans',
-          label: 'Planos e preços',
-          position: 'right',
-        },
-        { type: 'search', position: 'right' },
+        { type: "search", position: "right" },
       ],
     },
     stylesheets: [
       {
-        href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap',
-        type: 'text/css',
+        href: "https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap",
+        type: "text/css",
       },
     ],
     colorMode: {
-      defaultMode: 'light',
+      defaultMode: "light",
       disableSwitch: true,
       respectPrefersColorScheme: false,
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [],
       copyright: `Copyright © ${new Date().getFullYear()} eConsult – Última atualização: ${formattedDate}. Todos os direitos reservados.`,
     },
@@ -270,10 +262,10 @@ const config = {
       defer: true,
     },
     {
-      src: 'https://embed.tawk.to/68f795af7532b119528011cd/1j83i1dv2',
+      src: "https://embed.tawk.to/68f795af7532b119528011cd/1j83i1dv2",
       async: true,
-      charset: 'UTF-8',
-      crossorigin: '*',
+      charset: "UTF-8",
+      crossorigin: "*",
     },
     {
       src: "/js/tawk-control.js",
@@ -283,7 +275,7 @@ const config = {
 
   customFields: {
     GOOGLE_CLIENT_ID: "371082572823-p7f1r97si3o26i5plreplkrice4bbp0n.apps.googleusercontent.com",
-  }
+  },
 };
 
 export default config;

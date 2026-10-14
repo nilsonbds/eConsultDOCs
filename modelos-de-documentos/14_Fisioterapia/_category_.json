@@ -1,0 +1,9 @@
+{
+  "label": "Fisioterapia",
+  "position": 14,
+  "link": {
+    "slug": "/fisioterapia",
+    "type": "generated-index",
+    "description": "Modelos de documentos para profissionais de Fisioterapia, incluindo avaliações funcionais, relatórios de evolução, planos de tratamento, encaminhamentos e termos de consentimento. Explore estruturas editáveis para registrar avaliações, intervenções terapêuticas e resultados do processo de reabilitação."
+  }
+}

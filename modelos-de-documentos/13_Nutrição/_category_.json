@@ -1,0 +1,9 @@
+{
+  "label": "Nutrição",
+  "position": 13,
+  "link": {
+    "slug": "/nutricao",
+    "type": "generated-index",
+    "description": "Modelos de documentos para profissionais de Nutrição, incluindo anamnese nutricional, relatórios de avaliação, planos alimentares, encaminhamentos, declarações e registros de evolução. Acesse documentos editáveis que apoiam a organização do atendimento nutricional e o acompanhamento individualizado dos pacientes."
+  }
+}

@@ -1,6 +1,6 @@
 import styles from "./styles.module.css";
 import Link from "@docusaurus/Link";
-import { LuBookOpen, LuBrain, LuNewspaper, LuClipboardCheck, LuBriefcaseBusiness } from "react-icons/lu";
+import { LuBookOpen, LuBrain, LuNewspaper, LuClipboardCheck, LuBriefcaseBusiness, LuFileText } from "react-icons/lu";
 
 export default function HomepagePortalPaths() {
   return (
@@ -75,6 +75,21 @@ export default function HomepagePortalPaths() {
             <p className={styles.cardText}>Aprenda a organizar seu consultório com conteúdos sobre agenda, financeiro, produtividade, comunicação com pacientes e crescimento sustentável da prática.</p>
 
             <Link to="/gestao-consultorio" className={styles.link}>
+              Explorar conteúdos →
+            </Link>
+          </div>
+
+          {/* Modelos de Documentos */}
+          <div className={styles.card}>
+            <div className={styles.icon}>
+              <LuFileText />
+            </div>
+
+            <h3 className={styles.cardTitle}>Modelos de Documentos</h3>
+
+            <p className={styles.cardText}>Acesse modelos de atestados, declarações, laudos, relatórios, termos de consentimento e outros documentos para a gestão do consultório. Organizados por especialidade, com orientações práticas e modelos editáveis para facilitar sua rotina profissional.</p>
+
+            <Link to="/modelos-de-documentos" className={styles.link}>
               Explorar conteúdos →
             </Link>
           </div>
