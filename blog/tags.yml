@@ -337,3 +337,8 @@ gratuito:
   label: Gratuito
   permalink: /gratuito
   description: Conteúdos sobre recursos, ferramentas e soluções gratuitas disponíveis para psicólogos e profissionais da saúde.
+
+modelos-de-documentos:
+  label: Modelos de Documentos
+  permalink: /modelos-de-documentos
+  description: Modelos gratuitos e editáveis de documentos profissionais, incluindo relatórios, declarações, termos, atestados e encaminhamentos para diferentes especialidades.
