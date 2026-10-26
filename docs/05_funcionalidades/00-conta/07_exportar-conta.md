@@ -21,7 +21,7 @@ Ele conterá:
     - Dados de validação
     - Dados da sua conta 
     - Agendamentos e atendimentos
-    - Pacientes e grupos terapêuticos
+    - Pessoas atendidas
     - Dados clínicos e históricos
     - Registros financeiros
 

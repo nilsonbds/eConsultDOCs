@@ -119,9 +119,9 @@ Observar padrões de ausência pode ajudar o profissional a:
 
 Se este tema é relevante para sua prática, você também pode se interessar por:
 
-- Abandono Terapêutico e Descontinuidade de Pacientes  
+- Abandono Terapêutico e Descontinuidade de Pessoas Atendidas  
 - Engajamento e Permanência no Acompanhamento  
-- Continuidade e Retenção de Pacientes  
+- Continuidade e Retenção de Pessoas Atendidas  
 
 ---
 

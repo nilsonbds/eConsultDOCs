@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Campos Adicionais
 
-O cadastro de **Campos Adicionais para Pacientes e Grupos Terapêuticos** é uma funcionalidade que permite expandir as informações padrão registradas sobre cada paciente ou grupo terapêutico, oferecendo uma visão mais detalhada e adaptada às suas necessidades específicas. Essa personalização serve para aprimorar o cadastro de pacientes.
+O cadastro de **Campos Adicionais para Pessoas Atendidas** é uma funcionalidade que permite expandir as informações padrão registradas sobre cada paciente ou grupo terapêutico, oferecendo uma visão mais detalhada e adaptada às suas necessidades específicas. Essa personalização serve para aprimorar o cadastro de pacientes.
 
-## Incluir Campo Adicional para Pacientes/Grupos
+## Incluir Campo Adicional para Pessoas Atendidas
 
 1. No painel "Configurações", acione a opção "Campos Adicionais".
 
@@ -22,7 +22,7 @@ O cadastro de **Campos Adicionais para Pacientes e Grupos Terapêuticos** é uma
 
 1. Acione o botão "Incluir" ![Painel Configurações](../../../../static/img/prints/buttons/btn_incluir.png).
 
-## Alterar Campo Adicional para Pacientes/Grupos
+## Alterar Campo Adicional para Pessoas Atendidas
 
 1. No painel "Configurações", acione a opção "Campos Adicionais".
 
@@ -34,7 +34,7 @@ O cadastro de **Campos Adicionais para Pacientes e Grupos Terapêuticos** é uma
 
 1. Acione o botão "Salvar" ![Painel Configurações](../../../../static/img/prints/buttons/btn_salvar.png).
 
-## Excluir Campo Adicional para Pacientes/Grupos
+## Excluir Campo Adicional para Pessoas Atendidas
 
 1. No painel "Configurações", acione a opção "Campos Adicionais".
 

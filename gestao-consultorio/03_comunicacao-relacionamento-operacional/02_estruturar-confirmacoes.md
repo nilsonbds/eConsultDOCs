@@ -119,7 +119,7 @@ Um processo de confirmação bem estruturado ajuda a:
 Se este tema é relevante para sua prática, você também pode se interessar por:
 
 - Boas Práticas para Comunicação por WhatsApp no Consultório  
-- Como Definir Limites de Comunicação com Pacientes  
+- Como Definir Limites de Comunicação com Pessoas Atendidas  
 - Comunicação e Relacionamento Operacional  
 
 ---

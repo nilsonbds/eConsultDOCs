@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
-title: "🤝 Como Melhorar a Retenção de Pacientes na Psicologia"
+title: "🤝 Como Melhorar a Retenção de Pessoas Atendidas na Psicologia"
 ---
 
-# Como Melhorar a Retenção de Pacientes na Psicologia
+# Como Melhorar a Retenção de Pessoas Atendidas na Psicologia
 ***Reflexões sobre fatores que influenciam a permanência dos pacientes em acompanhamento e a sustentabilidade do consultório psicológico ao longo do tempo.***
 
 A permanência dos pacientes em acompanhamento influencia diretamente a previsibilidade, a estabilidade e a sustentabilidade de um consultório psicológico.
@@ -20,7 +20,7 @@ Na prática, significa compreender melhor os fatores que favorecem a continuidad
 
 ## Retenção de pacientes é consequência — não apenas objetivo
 
-Pacientes tendem a permanecer em acompanhamento quando percebem valor, organização e consistência no processo terapêutico.
+Pessoas Atendidas tendem a permanecer em acompanhamento quando percebem valor, organização e consistência no processo terapêutico.
 
 Por isso, retenção raramente melhora apenas com intervenções pontuais.
 
@@ -47,7 +47,7 @@ Aspectos que costumam impactar continuidade incluem:
 - definição de rotina previsível de horários  
 - construção de percepção de continuidade e progressão  
 
-Pacientes tendem a sustentar melhor aquilo que compreendem com clareza.
+Pessoas atendidas tendem a sustentar melhor aquilo que compreendem com clareza.
 
 ---
 
@@ -115,9 +115,9 @@ Uma maior continuidade média dos pacientes tende a contribuir para:
 
 Se este tema é relevante para sua prática, você também pode se interessar por:
 
-- Abandono Terapêutico e Descontinuidade de Pacientes  
+- Abandono Terapêutico e Descontinuidade de Pessoas Pessoas Atendidas  
 - Como Reduzir Faltas e Remarcações no Consultório Psicológico  
-- Continuidade e Retenção de Pacientes  
+- Continuidade e Retenção de Pessoas Atendidas  
 
 ---
 

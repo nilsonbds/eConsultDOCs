@@ -128,8 +128,8 @@ A forma como o consultório organiza sua operação influencia diretamente a pre
 Se este tema é relevante para sua prática, você também pode se interessar por:
 
 - Faltas e Ausências no Consultório Psicológico  
-- Abandono Terapêutico e Descontinuidade de Pacientes  
-- Continuidade e Retenção de Pacientes  
+- Abandono Terapêutico e Descontinuidade de Pessoas Atendidas  
+- Continuidade e Retenção de Pessoas Atendidas  
 
 ---
 

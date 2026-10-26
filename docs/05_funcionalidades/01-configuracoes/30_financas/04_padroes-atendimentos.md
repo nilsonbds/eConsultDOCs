@@ -33,7 +33,7 @@ O **eConsult** permite que cada profissional personalize seus **Tipos de Atendim
 2. **Marque** os tipos de atendimentos que você realiza em sua prática.
 
 3. **Defina um valor padrão** para cada tipo selecionado.  
-   Esse valor será usado como referência automática na criação de novos pacientes e grupos terapêuticos.
+   Esse valor será usado como referência automática na criação de novas pessoas atendidas.
 
 4. Após ajustar todos os valores, clique em **"Salvar"**.  
    ![Botão Salvar](../../../../static/img/prints/buttons/btn_salvar.png)

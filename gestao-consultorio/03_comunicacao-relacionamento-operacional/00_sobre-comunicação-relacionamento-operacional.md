@@ -79,7 +79,7 @@ Mesmo aspectos não clínicos contribuem para a percepção de qualidade do cuid
 
 Nesta área reunimos conteúdos voltados à organização da comunicação operacional e do relacionamento administrativo com pacientes no consultório, incluindo temas como:
 
-### Comunicação com Pacientes
+### Comunicação com Pessoas Atendidas
 
 - Boas práticas para comunicação operacional  
 - Organização de canais de contato  

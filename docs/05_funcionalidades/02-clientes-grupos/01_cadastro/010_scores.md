@@ -14,7 +14,7 @@ A tela reúne dados clínicos, comportamentais e de engajamento, permitindo iden
 
 A **Síntese Clínica** pode ser visualizada clicando no botão **“Síntese”** localizado no canto superior direito da tela de cadastro de Pessoa Atendida no sistema eConsult.
 
-![Painel Pacientes e Grupos](../../../../static/img/prints/buttons/btn_score.png)
+![Painel Pessoas Atendidas](../../../../static/img/prints/buttons/btn_score.png)
 
 ---
 

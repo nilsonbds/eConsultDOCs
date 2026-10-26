@@ -138,9 +138,9 @@ Acompanhar indicadores de continuidade ajuda o profissional a:
 
 Se este tema é relevante para sua prática, você também pode se interessar por:
 
-- Como Melhorar a Retenção de Pacientes na Psicologia  
+- Como Melhorar a Retenção de Pessoas Atendidas na Psicologia  
 - Como Reduzir Faltas e Remarcações no Consultório Psicológico  
-- Continuidade e Retenção de Pacientes  
+- Continuidade e Retenção de Pessoas Atendidas  
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
-title: "🚧 Como Definir Limites de Comunicação com Pacientes"
+title: "🚧 Como Definir Limites de Comunicação com Pessoas Atendidas"
 ---
 
-# Como Definir Limites de Comunicação com Pacientes
+# Como Definir Limites de Comunicação com Pessoas Atendidas
 ***Reflexões sobre disponibilidade profissional, fronteiras da prática clínica e organização dos limites de comunicação no consultório psicológico.***
 
 Definir limites de comunicação com pacientes é uma parte importante da organização profissional no consultório psicológico.

@@ -137,7 +137,7 @@ Mas, sem estrutura e limites claros, tende a gerar:
 
 Se este tema é relevante para sua prática, você também pode se interessar por:
 
-- Como Definir Limites de Comunicação com Pacientes  
+- Como Definir Limites de Comunicação com Pessoas Atendidas  
 - Manejo de Mensagens Fora do Horário de Atendimento  
 - Comunicação e Relacionamento Operacional  
 

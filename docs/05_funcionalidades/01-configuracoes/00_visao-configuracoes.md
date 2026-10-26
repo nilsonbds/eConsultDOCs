@@ -22,9 +22,9 @@ O objetivo aqui é configurar e personalizar a agenda para otimizar o planejamen
 - **Recessos:** Defina períodos de pausa, férias ou feriados nos quais sua agenda ficará bloqueada para agendamentos.
 - **Marcadores Clínicos:** selecione aspectos importantes do processo terapêutico para acompanhar mudanças, reconhecer padrões e sustentar intervenções consistentes ao longo da jornada clínica.
 
-## Pacientes e Grupos Terapêuticos
+## Pessoas Atendidas
 
-Objetiva facilitar o gerenciamento e a personalização das informações dos pacientes e grupos terapêuticos para melhorar o atendimento e a comunicação.
+Objetiva facilitar o gerenciamento e a personalização das informações das pessoas atendidas para melhorar o atendimento e a comunicação.
 
 - **Formulário Padrão de Campos Adicionais**: Crie e configure um formulário personalizado com campos adicionais para complementar o cadastro de pessoas atendidas, casais, famílias ou grupos, de acordo com as informações que você precisa registrar.
 - **Grupos Etários:** Crie e gerencie Grupos Etários para segmentação.

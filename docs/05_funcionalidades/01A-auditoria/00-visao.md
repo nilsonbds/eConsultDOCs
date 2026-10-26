@@ -92,7 +92,7 @@ Informa **em qual área do sistema a ação ocorreu**.
 
 Exemplos:
 
-- Pacientes / Grupo
+- Pessoas Atendidas
 - Agendamentos
 - Financeiro
 - Registros clínicos
