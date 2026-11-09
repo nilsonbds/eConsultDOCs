@@ -22,8 +22,8 @@ const config = {
   },
   url: "https://documents.econsult.app.br",
   baseUrl: "/",
-  organizationName: "facebook",
-  projectName: "docusaurus",
+  organizationName: "eConsult",
+  projectName: "econsult.app.br",
   onBrokenLinks: "throw",
 
   // 🔽 novo bloco substituindo `onBrokenMarkdownLinks`
