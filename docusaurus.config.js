@@ -23,7 +23,7 @@ const config = {
   url: "https://documents.econsult.app.br",
   baseUrl: "/",
   organizationName: "eConsult",
-  projectName: "econsult.app.br",
+  projectName: "e-consult-docs",
   onBrokenLinks: "throw",
 
   // 🔽 novo bloco substituindo `onBrokenMarkdownLinks`
