@@ -283,7 +283,7 @@ export default function ScaleDownload({
                     nome,
                     email,
                     escala: "Download de " + scale,
-                    documento: scale,
+                    documento: "Download de " + scale,
                 },
                 {
                     mode: "cors",
