@@ -274,6 +274,9 @@ const config = {
   ],
 
   customFields: {
+    LEAD_CAPTURE_ENABLED: process.env.DOCS_LEAD_CAPTURE_ENABLED === "true",
+    LEAD_PUBLIC_CONSENT_ENABLED: process.env.DOCS_LEAD_PUBLIC_CONSENT_ENABLED === "true",
+    LEAD_API_HOST: process.env.NODE_ENV !== "production" && process.env.DOCS_LEAD_API_HOST === "http://localhost:3000" ? "http://localhost:3000" : "https://econsultapp.com",
     GOOGLE_CLIENT_ID: "371082572823-p7f1r97si3o26i5plreplkrice4bbp0n.apps.googleusercontent.com",
   },
 };
